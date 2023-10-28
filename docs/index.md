@@ -1,11 +1,7 @@
 # Obsidian Notes
 
-Publish your public notes with MkDocs
+Hey I'm SkroxiousDM, here in this collection of pages are a bunch of Homebrew rules i use in my 5e games
 
-## Hello World!
+this is also the repository for my latest campaign Dragna Carta's Curse of Strahd Re-Reloaded [[https://www.strahdreloaded.com/]]
 
-The `index.md` in the `/docs` folder is the homepage you see here.
-
-The folders in `/docs` appear as the main sections on the navigation bar.
-
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
+I'm using a modified version of Free League's "Ruins of Symbaroum" for charcter classes, wherin i've compressed the original 20 levels into 10.
