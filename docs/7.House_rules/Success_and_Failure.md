@@ -6,8 +6,8 @@ for example an untrained DC 25 skill check with a +1 attribute modifier would no
 
 ## Exceptional Success  
 Any noncritical Attack Roll that beats AC by 10 or any Skill Roll that beats DC by 10 is called an Exceptional Success.  
-If your Attack is an Exceptional Success, you may reroll one weapon die before calculating the damage. If you do, you can choose between the two results.  
-If your Skill check is an Exceptional Success, The DM may give you advantage on one related follow-up skill check.  
+- If your Attack is an Exceptional Success, you may reroll one weapon die before calculating the damage. If you do, you can choose between the two results.  
+- If your Skill check is an Exceptional Success, The DM may give you advantage on one related follow-up skill check.  
 ## Success:  
 You achieve your goal.  
 ## Minor Failure or Success at a Cost:  
@@ -24,5 +24,5 @@ You failed by 10 or more on a skill check, or rolled a natural 1 on an attack. I
 |2 |***Disarmed*** The combatant drops its weapon. If it is not holding a weapon, it drops any other item it’s holding in its hands. If it’s not holding any items, it becomes entangled (as result #3 below) instead.  
 |3 |***Entangled*** The combatant gets caught up in foliage, furniture, curtains, or even its own backpack. The combatant is restrained for 1 round.  
 |4 |***Vulnerable*** The combatant makes a tactical mistake and places itself in a vulnerable position. All attacks against it gain advantage until the beginning of its next turn.  
-|5 |***Disoriented A random blow or moment of confusion effectively stuns the combatant for 1 round.  
-|6 |Blinded Whether from blood in its eyes or a helmet falling down over its face—perhaps even a bright light—the combatant is blinded for 1 round.
+|5 |***Disoriented*** A random blow or moment of confusion effectively stuns the combatant for 1 round.  
+|6 |***Blinded*** Whether from blood in its eyes or a helmet falling down over its face—perhaps even a bright light—the combatant is blinded for 1 round.
