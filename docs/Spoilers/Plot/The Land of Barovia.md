@@ -68,17 +68,7 @@ The dusk elves are as described in **Roleplaying the Vistani and the Elves** (p.
 
 The First Folk are a loose society of druidic hunter-gatherers descended from the nomads who first settled in the valley millenia ago. Since Strahd’s arrival in the valley, they have split into two factions: the Forest Folk, who worship Strahd as a deity and do his bidding across the Svalich Woods; and the Mountain Folk, a reclusive people who keep to the old religion of the Ladies Three and who largely remain within the sheltered settlement of Yaedrag, tucked away on the slopes of Mount Ghakis.
 
-<img src="https://drive.google.com/uc?export=view&id=
-1vugPmJWPM8VEOL3lLmpU9VhCQpGBcgiS
-" style="position: absolute; top: 0; left: -300px; height: 100%;">
 
-<img src="https://drive.google.com/uc?export=view&id=
-1Nt2ogCzClCDm24JrAR-KVPwB0c9CRT_U
-" style="position: absolute; left: 0px; top: 0px;">
-
-\pagebreakNum
-
-\columnbreak
 
 ### Factions
 #### Dark Powers
@@ -100,16 +90,6 @@ The Keepers, despite their lycanthropic nature, are spies—not warriors. With t
 More importantly, one of the Keepers—a young **wereraven** named Elric, Muriel’s former romantic partner—recently accompanied Doru’s mob of Barovians to Castle Ravenloft, and was killed in the slaughter. Fearing Strahd’s attention, the rest of the Keepers are now laying low, hoping to keep their members safe and their secrets out of the vampire’s hands.
 
 That doesn’t mean, though, that the Keepers are staying idle. Their spy network—led by Urwin Martikov and his wereraven associates—has tendrils that reach throughout the valley and mountains, gathering constant intelligence from the flocks of ravens that soar through the skies. Some among the Keepers joke that not a twig could be snapped in the Svalich Woods without Urwin knowing of it—and, sometimes, they wouldn’t be far wrong.
-
-<img src="https://drive.google.com/uc?export=view&id=
-1_A0N39IQFjT_8-a0EMbKJheuCSn8Ys-9
-" style="position: absolute; top: 0; left: -550px; height: 100%;">
-
-<img src="https://drive.google.com/uc?export=view&id=
-1Nt2ogCzClCDm24JrAR-KVPwB0c9CRT_U
-" style="position: absolute; left: 0px; top: 0px; transform: scaleX(-1);">
-
-\pagebreakNum
 
 #### Barovian Refugees
 
@@ -147,18 +127,6 @@ Their spiritual leader, an elder **storm giant** named Ormir, is the sole mortal
 
 While not members of any civilized society, the wolves, rats, and bats of Barovia are Strahd’s loyal servants and spies. Each day, at sunrise and sunset, each beast with news to report—of outsiders, of turmoil, or simply of interesting trinkets or treasures—returns to Castle Ravenloft to share what it's learned and to receive new orders to disseminate through the valley. Strahd’s vampiric brides gather and organize their intelligence: the wolves to Volenta Popfsky, the rats to Ludmilla Vilisevic, and the bats to Anastrasya Karelova.
 
-\pagebreakNum
-
-<img src="https://drive.google.com/uc?export=view&id=
-17nbZ_x0l6fertc-7Forpp_UJufXoeoxc
-" style="position: absolute; top: 0; left: -1150px; height: 100%; transform: scaleX(-1);">
-
-<img src="https://drive.google.com/uc?export=view&id=
-1Nt2ogCzClCDm24JrAR-KVPwB0c9CRT_U
-" style="position: absolute; left: 0px; top: 0px; transform: scaleX(-1);">
-
-\columnbreak
-
 #### Brides of Strahd
 
 Strahd’s eldest three vampiric consorts—Ludmilla, Anastrasya, and Volenta—serve their master loyally, but compete bitterly for his favor. As the eldest and most adept at the arcane arts, Ludmilla is Strahd’s favored research partner, developing new spells for his use while investigating the secrets of the Mists. Meanwhile, Anastrasya is a master of the arts of espionage and diplomacy, managing Strahd’s political relationships while retaining key spies in each of Barovia’s settlements. Finally, Volenta is a skilled artificer and torturer, innovating new traps to guard Ravenloft’s halls while wringing information from those who fall into them.
@@ -181,8 +149,6 @@ The werewolf pack—the members of whom call themselves the Children of Mother N
 
 However, when Strahd awoke, he demanded the loyalty of the werewolves whose forebears had once served him faithfully. He threatened to seal the pack within the mists for all eternity if they defied him—but promised them wealth, power, and plentiful prey if they returned to his service.
 
-\pagebreakNum
-
 Emil, the leader of the pack, resisted Strahd’s efforts to strip the pack of its agency. He quietly argued that the Children of Mother Night had always been free—free to hunt and kill and live as they chose—and suggested that the pack pretend to accept Strahd’s terms, but abandon Barovia as soon as the mists reopened to them.
 
 But Emil was betrayed. Kiril, a young and haughty werewolf who felt his strength had gone unrecognized, was lured by Strahd’s promises of riches and might. Kiril reported Emil’s plot to Strahd’s own ear—and, when the vampire’s dire wolves dragged Emil to the dungeons of Castle Ravenloft, was rewarded with the leadership of the werewolf pack.
@@ -203,31 +169,11 @@ With each scrap of spirit a vestige claims, it grows in power, inching closer to
 
 With their holy places desecrated and their worshippers weakened and divided, two of the three Ladies of the Fanes—the Weaver and the Huntress—have been reduced to little more than spirit, unable to take action or exercise the power they once wielded. Only the Seeker, who forged a pact with Katarina, the bastard sister of Strahd von Zarovich, to free the valley from Strahd’s evil, survives. Through their pact, the Seeker subsumed Katarina’s soul to manifest an avatar of her divine power: the Vistana seer Madam Eva.
 
-<img src="https://drive.google.com/uc?export=view&id=
-1pfuSums0RXOigbRWQySpXHUZLGXVJaGD
-" style="position: absolute; top: 0; left: -350px; height: 100%;">
-
-<img src="https://drive.google.com/uc?export=view&id=
-1Nt2ogCzClCDm24JrAR-KVPwB0c9CRT_U
-" style="position: absolute; left: 0px; top: 0px;">
-
-\pagebreakNum
-
 As an aspect of the Seeker, Madam Eva is bound to follow the rules of her divinity. She cannot refuse to read another’s fortune, nor can she share her foretellings with any but those who hear them. Many individuals, both savory and not, have therefore called upon her to see their futures—including, at times, Strahd von Zarovich himself.
 
 Given Madam Eva’s exceptionally long lifespan—far longer than any ordinary human—Strahd strongly suspects that she is more than she appears. However, thus far, Madam Eva has been content to give him the foretellings he seeks—and he, in response, has been content to accept her sly smiles and denials.
 
 However, Madam Eva foresees that Strahd will soon return to her for a final, terrible time—and that the reading she will deliver shall define the fate of all Barovia.
-
-<img src="https://drive.google.com/uc?export=view&id=
-1rUYZTufk2kBkz0qHml_wN4bCKhUg-Noq
-" style="position: absolute; bottom: -230px; left: -800px; height: 100%;">
-
-<img src="https://drive.google.com/uc?export=view&id=
-1cepc1LKtIGRaPeG075vJn9E8TbZMemq4
-" style="position: absolute; left: -40px; top: 0px; transform: scaleX(1.2);">
-
-\columnbreak
 
  ### Religions
 
