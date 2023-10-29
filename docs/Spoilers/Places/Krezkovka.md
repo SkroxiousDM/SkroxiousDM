@@ -1,0 +1,3 @@
+---
+Alias: Village of Krezk
+---
