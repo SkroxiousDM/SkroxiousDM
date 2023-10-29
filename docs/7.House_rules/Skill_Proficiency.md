@@ -106,7 +106,6 @@ This gradual increase of skills will make characters slightly more powerful, but
 	You try to recall a pertinent piece of information about a creature, object, place, or event. Make the Dungeon Master’s choice of an Intelligence (History), Intelligence (Religion), Intelligence (Arcana), or Intelligence (Nature) check against the Dungeon Master’s DC. On a success, the Dungeon Master decides what information you recall.
 
 ### Religion (Intelligence)
-
 - Automatically succeed on checks against a DC that is less than or equal to 10 plus your bonus.
 - Failure on a group check doesn’t count as a failure, but it doesn't count as a success either. Your failed check isn't counted when determining whether failures outnumber successes.
 - The DM can simply give you certain clues just because you are well-studied in this skill. Taken from Lorefinder.
