@@ -18,9 +18,9 @@ When a character becomes proficient in a skill or tool, they can instead choose 
 ## PROFICIENT
 Proficient lets you add your proficiency bonus. Proficiency can be obtained in skills, tools, saving throws, and weapons. It also grants you the bonuses outlined below in Skill Proficiency Bonuses below.
 ## EXPERTISE
-Expertise lets you add twice your proficiency bonus. Expertise can be obtained in skills, tools, and saving throws.
+Expertise lets you add twice your proficiency bonus. Expertise can be obtained in skills, and tools.
 ## SPECIALISATION 
-You have refined your chosen skill until it approaches perfection. Specialization grants both *Expertise* and whenever you make a check fot that skill or tool, you can treat a d20 roll of less than your character level . Specialization can be obtained in skills, and tools.
+You have refined your chosen skill until it approaches perfection. Specialization grants *Expertise* and whenever you make a check for that skill or tool, you can treat a d20 roll of less than your character level as your character level. Specialization can be obtained in skills, and tools.
  
 # Skill Advancement
 At levels 3, 5, 8, and 10, characters can choose one weapon, tool, language or skill. 
@@ -120,7 +120,6 @@ This gradual increase of skills will make characters slightly more powerful, but
 	You attempt to bolster the minds and hearts of a number of creatures up to your Wisdom modifier with a prayer to the divine. Make a Wisdom (Religion) check. On a result of 20 or more, each of those creatures has advantage on the next Strength or Wisdom check it makes before the start of your next turn. Each creature also has advantage on the next Constitution saving throw it makes before the start of your next turn.
 
 ### Animal Handling (Wisdom)
-
 - Automatically succeed on checks against a DC that is less than or equal to 10 plus your bonus.
 - Grants proficiency with animal-drawn vehicles and riding horses.
 - Trained Rider 
@@ -144,7 +143,6 @@ This gradual increase of skills will make characters slightly more powerful, but
 	*Prerequisite: You have proficiency in Insight.*
 	You try to predict a hostile creature’s next move. Make a Wisdom (Insight) check against twice the passive Charisma (Deception) score of a target within 30 feet. On a success, you and a number of creatures up to your Wisdom score that can hear and understand you have advantage on saving throws made against effects created by that target until the start of your next turn. You and those creatures also have advantage on attempts made to overrun, feint against, or tumble through the space of that creature until the end of your next turn.
 ### Medicine (Wisdom/Intelligence)
-
 - Automatically succeed on checks against a DC that is less than or equal to 10 plus your bonus.
 - The DM can simply give you certain clues just because you are well-studied in this skill. Taken from Lorefinder.
 - You may try to restore one used hit die of an ally. You are successful if you make a medicine check against a DC equal to the treated character's level (or CR, rounded down), plus 10. You can only attempt to do this once per short rest.
