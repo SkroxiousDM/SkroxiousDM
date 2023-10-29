@@ -11,7 +11,7 @@ When another player attempts a Skill check roll to gain new information (Percept
 When you use the Help action to aid another character in a task, you must have proficiency in that Skill.
 
 # TIERS OF PROFICIENCY
-In addition to the two tiers of proficiency present in the Player’s Handbook - proficiency and expertise - these rules introduces a new tier of proficiency: trained. Progressing from one tier to the next is not a given, however; if you’re proficient in a skill, and you gain that proficiency again from another source, you do not automatically gain expertise. Instead, in these instances, you can choose another proficiency of the same type, as discussed in Chapter 4 of the Player’s Handbook.
+In addition to the two tiers of proficiency present in the Player’s Handbook - proficiency and expertise - these rules introduces two new tiers of proficiency: trained, and specialization. Progressing from one tier to the next is not a given, however; if you’re proficient in a skill, and you gain that proficiency again from another source, you do not automatically gain expertise. Instead, in these instances, you can choose another proficiency of the same type, as discussed in Chapter 4 of the Player’s Handbook.
 ## TRAINED
 Trained lets you add half your proficiency bonus. Certain features, such as the Jack of All Trades class feature, grant this tier of proficiency. A character can be trained in skills, tools, saving throws, and weapons.
 When a character becomes proficient in a skill or tool, they can instead choose to become trained in two skills or two tools, respectively. If a feature or feat would grant expertise in a skill or tool in which you are trained, you would instead become proficient in the two skills or tools in which you became trained.
@@ -19,6 +19,17 @@ When a character becomes proficient in a skill or tool, they can instead choose 
 Proficient lets you add your proficiency bonus. Proficiency can be obtained in skills, tools, saving throws, and weapons. It also grants you the bonuses outlined below in Skill Proficiency Bonuses below.
 ## EXPERTISE
 Expertise lets you add twice your proficiency bonus. Expertise can be obtained in skills, tools, and saving throws.
+## SPECIALISATION 
+Specialization grants both *expertise* and a "reliable talent" feature in which your die roll is always replaced by your character level if the roll is lower. Specialization can be obtained in skills, and tools.
+ 
+
+# Skill Proficiency Increase
+At 4th level, you can choose a skill to develop.
+
+* If you lack proficiency in that skill, you gain proficiency.
+* If you have proficiency but lack expertise in that skill, you gain expertise.
+* If you lack expertise in that skill but lack specialization, you gain specialization.
+
 # Skill Proficiency bonuses
 
 ### Athletics (Strength/Constitution)
