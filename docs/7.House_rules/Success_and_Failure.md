@@ -3,7 +3,7 @@
 rolled a natural 20 on an attack see also [[Crueler_Critical_Hits]]
 
 skill checks move up one level
-for example an untrained DC 25 skill check with a +1 attribute modifier would normally be a Minor Failure, moving up one level turns it into a Success.
+for example an untrained DC 25 skill check with a +3 attribute modifier would normally be a Minor Failure, moving up one level turns it into a Success.
 
 ## Exceptional Success  
 Any noncritical Attack Roll that beats AC by 10 or any Skill Roll that beats DC by 10 is called an Exceptional Success.  
@@ -12,11 +12,11 @@ Any noncritical Attack Roll that beats AC by 10 or any Skill Roll that beats DC 
 ## Success:  
 You achieve your goal.  
 ## Minor Failure or Success at a Cost:  
-You failed by 1, 2, 3, or 4. You can choose to succeed, but something bad also happens as a consequence.  
+You failed by 1, 2, 3, or 4. You can choose to succeed, at the cost of gaining a Push Condition. See also [[Pushing_a_Roll]]
 ## Failure:  
 You failed by 5 or more. Something bad happens—you take damage, lose a Recovery die, a Condition worsens, etc.  
 ## Critical Failure:  
-You failed by 10 or more on a skill check, or rolled a natural 1 on an attack. It's all gone badly for you and you suffer a second consequence in addition to the normal failure effects—you take extra damage, lose a hit die, drop an item, etc.  
+You failed by 10 or more on a skill check, or rolled a natural 1 on an attack. It's all gone badly for you and you suffer a second consequence in addition to the normal failure effects—you take extra damage, lose a Recovery die, drop an item, etc.  
   
 #### Fumble Chart  
 |D6 |Effect|
