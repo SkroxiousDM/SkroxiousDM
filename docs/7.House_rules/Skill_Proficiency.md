@@ -20,7 +20,7 @@ Proficient lets you add your proficiency bonus. Proficiency can be obtained in s
 ## EXPERTISE
 Expertise lets you add twice your proficiency bonus. Expertise can be obtained in skills, tools, and saving throws.
 ## SPECIALISATION 
-Specialization grants both *expertise* and a "reliable talent" feature in which your die roll is always replaced by your character level if the roll is lower. Specialization can be obtained in skills, and tools.
+You have refined your chosen skill until it approaches perfection. Specialization grants both *Expertise* and whenever you make a check fot that skill or tool, you can treat a d20 roll of less than your character level . Specialization can be obtained in skills, and tools.
  
 # Skill Advancement
 At levels 3, 5, 8, and 10, characters can choose one weapon, tool, language or skill. 
