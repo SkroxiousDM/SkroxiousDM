@@ -1,5 +1,4 @@
-# Using this Primer
-
+# C
 Character creation is an important aspect of Dungeons & Dragons, but creating a compelling character and backstory can be difficult. The purpose of this primer is to inspire players’ creativity and help develop unique characters that they may have not considered without rolling on the following tables.
 
 This primer should also help target player character backstories towards the Curse of Strahd campaign setting, allowing the Dungeon Master to better integrate them into the narrative.
@@ -157,45 +156,8 @@ Discovering your character’s hometown will help determine the foundation of th
 
 Roll on the table below to discover your character's hometown.
 
-##### City: Yndaros
-
-
-
-##### Town: Thistlehold
-
-Thistle
-
-##### Town: Kastor
-
-Located north of the High Moor, Secomber is a small town famed for its judicial system, which was used as a base for most law and order in the settlements of the Sword Coast. Now, the town is home to fishermen, farmers, and, to a lesser degree, stonemasons. Guides are often hired from Secomber to help navigate the moor.
-
-##### Town: Templewall
-
-Goldenfields is a small town surrounded by vast and beautiful farmland, orchards, and gardens. The town itself surrounds a grand temple and abbey to Chauntea, the goddess of harvest.
-
-##### Village: Julkoun
-
-Julkoun is a small farming settlement, led by a family of halflings. The villagers worship at a small church of Chauntea.
-
-##### Village: Bowshot
-
-Bowshot is a roadside village and is the closest geographical settlement to the Misty Forest.
-
-Village: Gillian’s Hill
-
-A small and unremarkable town, Gillian's Hill is about a day’s travel south of Daggerford. It’s said that a local tomb in Gillian’s Hill has an entrance to the Underdark and occasionally has encounters with drow.
-
-##### Village: Womford
-
-Womford is a tiny village built around the bridge crossing the Dessarin River. The village was once called Wyrmford, after a legend boasting of a dragon killed nearby. The locals make their living working mills and granaries.
-
-##### Unmarked Hamlet
-
-There are a variety of other settlements along the Sword Coast, too small and unimportant to be included on most maps. These miniscule villages and hamlets are home to no more than a few dozen inhabitants each.
-
-|   |   |   |
-|---|---|---|
 |d100|Home Settlement|Size|
+|---|---|---|
 |1 - 15|Yndaros|City|
 |16 - 25|Thistlehold|Town|
 |26 - 35|Kastor|Town|
