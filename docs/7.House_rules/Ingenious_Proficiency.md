@@ -3,15 +3,13 @@ Unless you are a spellcaster, Intelligence can be one of the least useful scores
 When creating a character, you gain a number of points equal to your Intelligence modifier (minimum of 0).
 
 ##### Proficiency Costs
-
-|   |   |
-|---|---|
 |Benefit|Cost|
+|---|---|
 |Additional Class or Background Skill proficiency|2|
-|Double proficiency for a Skill you are proficient in|3|
+|Gain Expertise for a Skill you are proficient in|3|
 |Learn an additional language|1|
 |Tool proficiency|1|
-|Double proficiency for a Tool you are proficient with|2|
+|Gain Expertise for a Tool you are proficient with|2|
 |Proficiency with 3 Simple or 2 Martial weapons|1|
 
 When you permanently increase your Intelligence modifier, you may spend additional points as normal.  
