@@ -22,13 +22,12 @@ Expertise lets you add twice your proficiency bonus. Expertise can be obtained i
 ## SPECIALISATION 
 Specialization grants both *expertise* and a "reliable talent" feature in which your die roll is always replaced by your character level if the roll is lower. Specialization can be obtained in skills, and tools.
  
-
-# Skill Proficiency Increase
-At 4th level, you can choose a skill to develop.
-
+# Skill Advancement
+At levels 3, 5, 8, and 10, characters can choose one weapon, tool, language or skill. 
 * If you lack proficiency in that skill, you gain proficiency.
 * If you have proficiency but lack expertise in that skill, you gain expertise.
 * If you lack expertise in that skill but lack specialization, you gain specialization.
+This gradual increase of skills will make characters slightly more powerful, but it also allows for a better customization and shows character growth.
 
 # Skill Proficiency bonuses
 
