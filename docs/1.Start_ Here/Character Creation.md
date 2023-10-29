@@ -14,130 +14,83 @@ The following tables will help you discover your character's origins. First, you
 
 ## Hometown
 
-Where I’m From
-
+### Where I’m From
 Create a snapshot of where you came from and how it shaped the person you became. Pick details to inspire you and use them to answer the prompts.
 
-  Choose a Size for Your Town
-
-  Metropolis
-
+### Choose a Size for Your Town
+#### Metropolis
 A sprawling city with thousands, perhaps millions of inhabitants. People and goods from many different places around the globe make their way through a place like this. Despite being surrounded by people, it is easy to feel alone and lost here. Wealth and poverty live beside each other in stark juxtaposition. Infrastructure is vast and almost impossible for a single person to comprehend.
 
-  Town
-
+#### Town
 Home to hundreds or perhaps even a thousand inhabitants. Although there is a sharp social division between the ruling and serving classes, no one is separated by more than two or three degrees. Even the people not known to you by name are familiar in appearance. There are many organized institutions that make life in this place possible.
 
-  Village
-
+#### Village
 Home to at most a few hundred. It is easily possible to know everyone by name and profession. There can be no real anonymity because anyone trying to conceal her or his business quickly becomes known for being mysterious. Settlement is permanent, if disorganized. Many structures are grouped together out of convenience rather than careful planning.
 
-  Tribe
-
+#### Tribe
 Home to at most a few dozen. Civic and familial bonds are blurred. Community obligations are approached with grave seriousness. A tribe can be tied to a permanent location or an idea carried by nomadic people.
 
-  Pack
-
+#### Pack
 A small group. Even if not related by blood, members treat one another as family, with all the emotion, obligation, and loyalty that come with it. A pack can weave in and out of larger communities or shun civilization altogether.
 
-Where Did You Call Home?
-
+### Where Did You Call Home?
 For some characters this is a permanent room or residence. For others it is an abstract feeling about certain periods of safety and stability. Finding those truths for your character will help you understand how he or she approaches the concept of home on the road.
 
   Where did you most often sleep? ________________________
-
   What did you need to do to maintain it? ________________________
-
   Did it protect you and what you cared for? ________________________
-
   Do you long for it now? ________________________
 
-Where Did People Socialize?
-
+### Where Did People Socialize?
 There are places of merriment and relaxation everywhere. This exercise will examine one of particular importance to your character.
 
   Choose two:
-
   The hearth was always warm when the wind was cold.
-
   The music moves your heart even in memory.
-
   The owner was wise or at least gave advice as though he were.
-
   The food was cooked with quiet pride.
-
   It always seemed to hold a dazzling glow.
-
   Being there faded the weight of obligation just enough.
-
   You watched more than you took part.
 
   But . . . (choose one)
-
   You rarely left with a full belly.
-
   Everything was watered down.
-
   It drew the most dangerous thugs and criminals.
-
   You were often present but never welcome.
-
   The spell it cast wore off all too quickly.
-
   You risked everything to be there.
-
   You could never ignore where the money went.
 
   What was it officially titled? ________________________
-
   What did people call it? ________________________
 
-What Did People Respect?
-
+### What Did People Respect?
 Where people assign their respect shows us what they value. To get an idea of the values held by the people of your hometown, select everything you believe is true.
 
-  People respected . . .
-
+  People respected . . .
   Power
-
   Authority
-
   Cunning
-
   Nature
-
   Wealth
-
   Ambition
-
   The divine
-
   One another
-
   The law
-
   Life
-
   Love
-
   Strength
-
   Wisdom
-
   Knowledge
-
   Skill
-
   Discovery
-
   Justice
 
   Are these values you hold today? ________________________
-
   How do your personal values differ?
 
-Who Was in Charge?
-
+### Who Was in Charge?
 Any collective is under the rule of some other force. Even those who reject rule by other creatures are subject to the will of law or nature. This exercise explores the relationship between your character and authority.
 
   The force in charge of your hometown: (choose two)
@@ -160,13 +113,10 @@ Any collective is under the rule of some other force. Even those who reject rule
 	  It expected much from me.
 
   What was the ruler’s name?
-
   Based on this experience, when you picture a ruler, what does he, she, or they look like?
-
   If given the chance to lead, whom would you emulate?
 
-What Was Your Place?
-
+### What Was Your Place?
 Perhaps the single thing that most dramatically colors your character’s perception of place of origin is her or his place in it. It is useless to know your character was a student, noble, or blacksmith if you do not understand how he or she feels about it. Finding this will solidify what your character is running away from and toward.
 
   I was: (choose one)
@@ -205,8 +155,6 @@ Perhaps the single thing that most dramatically colors your character’s percep
 
 Discovering your character’s hometown will help determine the foundation of their backstory. While the table below will provide a home or birthplace for your character, it is up to you to determine your character's relationship with that location. Was your character both born and raised in this location? Or were they born elsewhere, but have lived in this settlement the majority of their lives? Is your character well traveled or have they rarely left their hometown? The details are yours to develop.
 
-For a reference map of Delimbiyr Vale, which includes all the following locations, refer to this link.
-
 Roll on the table below to discover your character's hometown.
 
 ##### City: Yndaros
@@ -217,7 +165,7 @@ Roll on the table below to discover your character's hometown.
 
 Thistle
 
-##### Town: Secomber
+##### Town: Kastor
 
 Located north of the High Moor, Secomber is a small town famed for its judicial system, which was used as a base for most law and order in the settlements of the Sword Coast. Now, the town is home to fishermen, farmers, and, to a lesser degree, stonemasons. Guides are often hired from Secomber to help navigate the moor.
 
@@ -589,52 +537,49 @@ Beliefs are meant to be challenged. They can grow stronger or weaker, be shatter
 Any time a Character gains a level, they may alter one or more Beliefs. Altering Beliefs is not mandatory; rather, it should be done rarely and only when a large shift occurs in a Character or the narrative.
 
 A strong Belief is a compounded Ideology and Action. They are unambiguous and have no verbal nuance. Try the following formulas:
+**I think A, so I’ll do B.**
+**Because of A, I want B, so I’ll do C.**
 
-I think A, so I’ll do B.
-
-Because of A, I want B, so I’ll do C.
-
-My family is weak, and I must lead it if it is to prosper, so I must earn the favor of the Lord Thorn to ensure my position at its head.
-
+***My family is weak, and I must lead it if it is to prosper, so I must earn the favor of the Lord Thorn to ensure my position at its head.****
 This Belief combines an “Idea” (My family is weak.) With “What” the Character will do about it (I must lead it if it is to prosper.) And “How” the Character intends to do it (I must earn the favor of the Lord Thorn.)
 
 Each Player should make one Belief about some aspect of the Premise of the Campaign (World Belief),one about another Player’s Character (Other Belief),and one your Character has about themselves (Self Belief).
 
 ##  World Belief  
 
-The World Belief directly connects your Character to a key part of the Premise of the Campaign and their goals regarding it. It could relate to a Character, a faction, impending conflict, recent disaster, or any other force requiring immediate action. Pick something that interests you as a Player, and think about your Character's opinion on it. How do they view it and feel about it? Consider how they will act based on this opinion, and what has prevented them from doing so already, or what stands in their way now. The Arbiter may want to use this Belief to unite the Players under a common cause. Using our previous example, they might say the Campaign is about an impending disaster in Tarn. Each Player should have their Character’s Belief provide a reason for them to sympathize with House Thorn or have animosity towards the factors that threaten it. Being bound by a similar World Belief helps move the story forwards while giving all Characters the opportunity to be true to their concept.
+The World Belief directly connects your Character to a key part of the Premise of the Campaign and their goals regarding it. It could relate to a Character, a faction, impending conflict, recent disaster, or any other force requiring immediate action. Pick something that interests you as a Player, and think about your Character's opinion on it. How do they view it and feel about it? Consider how they will act based on this opinion, and what has prevented them from doing so already, or what stands in their way now. The DM may want to use this Belief to unite the Players under a common cause. Using our previous example, they might say the Campaign is about an impending disaster in Tarn. Each Player should have their Character’s Belief provide a reason for them to sympathize with House Thorn or have animosity towards the factors that threaten it. Being bound by a similar World Belief helps move the story forwards while giving all Characters the opportunity to be true to their concept.
 
-Malik’s World Belief: House Thorn is the only power holding order in eastern Tarn, and if it falls many Eskarn will suffer. For the sake of my people I will use my might to defeat the House’s enemies wherever I find them.
+Malik’s World Belief: ***House Thorn is the only power holding order in eastern Tarn, and if it falls many Eskarn will suffer. For the sake of my people I will use my might to defeat the House’s enemies wherever I find them.***
 
-Elaria’s World belief: Before he died, the Lord of House Thorn took me in even though I’m his bastard. I owe him my life, and I will defend House Thorn with my guile and my bow to the very end.
+Elaria’s World belief: ***Before he died, the Lord of House Thorn took me in even though I’m his bastard. I owe him my life, and I will defend House Thorn with my guile and my bow to the very end.***
 
 ## Other Belief  
 
 The Other Belief pertains directly to another Player’s Character. Pick a Character that interests you as a Player, and think about your Character’s feelings about or towards that Character. You may wish to help or hinder them in some way.
 
-Malik’s Other Belief: I loved Elaria’s father as a brother and owed him my life. To pay this debt, I must protect his daughter’s honor and person with my steel as if she were my own.
+Malik’s Other Belief: ***I loved Elaria’s father as a brother and owed him my life. To pay this debt, I must protect his daughter’s honor and person with my steel as if she were my own.***
 
-This tells us a lot about this Character. It is strongert han the simple expression of a statistic characteristic. We know from this that he is loyal, and imbued with a sense of honor and duty beyond the simple idea that he will protect Elaria. More importantly, it tells the Arbiter and other Players what types of activities his Player wants from the game. He wants to fight to protect others. Ideals of honor and bonds of kinship are important to him.
+This tells us a lot about this Character. It is strongert han the simple expression of a statistic characteristic. We know from this that he is loyal, and imbued with a sense of honor and duty beyond the simple idea that he will protect Elaria. More importantly, it tells the DM and other Players what types of activities his Player wants from the game. He wants to fight to protect others. Ideals of honor and bonds of kinship are important to him.
 
 A strong Belief like this opens up the possibility for exciting interactions between Characters.
 
-Elaria’s Other Belief: As I grew to maturity, my adoration of Mailk became something more, but because he is half Eskarn and I am of Noble Tarnish blood, this love can never be. I must act coldly towards him while harboring my secret feelings.
+Elaria’s Other Belief: ***As I grew to maturity, my adoration of Mailk became something more, but because he is half Eskarn and I am of Noble Tarnish blood, this love can never be. I must act coldly towards him while harboring my secret feelings.***
 
-This belief already strongly colors their interactions and adds potential for future intrigue. When Malik finds out, he may then be conflicted over Elaria’s role as a surrogate daughter or perhaps reciprocate her amorous feelings. Malik’s Player might even be inspired by this narrative avenue and shape his backstory to add fuel to it. He could say that Malik was always in love with Elaria’s mother, whom she very much resembles, but who chose Elaria’s father over him.This is just one of a multitude of engaging interactions made possible by a strong Belief. Perhaps Elaria hates Malik, blaming him for her father’s death, and wants nothing to do with what she views as his attempt at penance. Even though each Player only makes a single Other Belief, they are encouraged when creating their Character to discuss potential shared backstory that may tie them to other Characters. The Other Belief simply represents the strongest or most interesting of these connections that a Player wishes to explore.
+This belief already strongly colors their interactions and adds potential for future intrigue. When Malik finds out, he may then be conflicted over Elaria’s role as a surrogate daughter or perhaps reciprocate her amorous feelings. Malik’s Player might even be inspired by this narrative avenue and shape his backstory to add fuel to it. He could say that Malik was always in love with Elaria’s mother, whom she very much resembles, but who chose Elaria’s father over him. This is just one of a multitude of engaging interactions made possible by a strong Belief. Perhaps Elaria hates Malik, blaming him for her father’s death, and wants nothing to do with what she views as his attempt at penance. Even though each Player only makes a single Other Belief, they are encouraged when creating their Character to discuss potential shared backstory that may tie them to other Characters. The Other Belief simply represents the strongest or most interesting of these connections that a Player wishes to explore.
 
 ## Self Belief  
 
 The Self Belief is the most complex of the three, and is often the most difficult for new Players to craft well. It is a philosophical Belief, tied to one of the Character’s moral or ethical priorities. The most interesting Characters will have this third Belief in some way come into tension with the other two.
 
-> Malik’s Self Belief: I am of Eskarn blood, the Inoruit are my kinsmen, and the Tarnish have caused much wrong to my people. I will uphold my bonds of blood and clan before those of gold or fealty.
+> Malik’s Self Belief: ***I am of Eskarn blood, the Inoruit are my kinsmen, and the Tarnish have caused much wrong to my people. I will uphold my bonds of blood and clan before those of gold or fealty.***
 
-> Elaria’s Self Belief: I have always resented being a bastard. I can lead the House better than my half brother, and I will use subterfuge to ensure that I sit upon my father’s throne.
+> Elaria’s Self Belief: ***I have always resented being a bastard. I can lead the House better than my half brother, and I will use subterfuge to ensure that I sit upon my father’s throne.***
 
 ## Complication
 
 Complications are core negative or detrimental facets of a Character's personality. Each Character must start with at least one Complication. A player may invent their own Complication or choose one from the following list.
 
-|   |   |
+| d20  |  Complication |
 |---|---|
 |1|Loner: Your trust is not easily earned. Even those you do trust, you never trust completely. You think everyone should be able to take care of themselves; if they can’t, it’s their own fault. You often have trouble saying thanks.<br><br>This characters suffers from a fundamental lack of trust in others, and will in a crisis seek to keep knowledge to themselves, keep away from others, and trust no one.|
 |2|Cowardly: If things are going south, you’re likely to save yourself. Even if you care for your companions, the fear for your own life is greater. Even if you’re a fighter, you’d rather slit a man’s throat than risk a fair fight.<br><br>As things turn against the character, they do not stand fast. Rather, they are prepared to change their convictions, serve those who are stronger, and abandon those who rely upon them.|
@@ -656,125 +601,6 @@ Complications are core negative or detrimental facets of a Character's personal
 |18|Guilty: You blame yourself for everything even when it’s not your fault. Every death or injury of those around you weighs on your conscience.<br><br>This character withdraws from all emotion and engagement as they get stressed, becoming cold and distant as they seek to take no part in anything.|
 |19|Childish: You are whimsical or naive, a poor judge of character and wont to be taken advantage of. Others may not take you seriously, viewing you as puerile or simpleminded, but you simply experience the world in a different way.<br><br>Thinking about things only brings distress and uncertainty, so it’s better to act upon impulses and follow your whims, as this character is wont to do when in danger.|
 |20|Lawful: You have a creed you live by, a code of honor you never stray from. Any violator of your precepts, no matter how close to you, is not above the code.<br><br>A memorable death is the only true sign of a life well lived, so this character seeks to plunge themselves into worthy danger in order to prove their value.|
-
-# Player Hooks and Backgrounds
-
-The following player hooks give the characters a reason to be in Barovia. At least one PC should have one of these player hooks at the beginning of the campaign. Optionally, each PC could have the same player hook, uniting them in a common quest to Barovia. Included with each player hook is a suggested background for the player to select at character creation.
-
-Decide which one best suits your character.
-
-### Curse of Lycanthropy
-
-You have learned of a werewolf den in the mythical lands of Barovia, where werewolves have learned to control their transformations.
-
-in addition to your background, yIn addition to your background, you gain the Lycanthrope background below.
-
-#### Lycanthrope
-
-You have been cursed with a virulent strain of lycanthropy that resists remove curse.
-Skill Proficiencies: Stealth, Perception
-Languages: Sylvan
-Equipment: Monster hunter’s pack
-
-|   |   |
-|---|---|
-|d6|Personality Trait|
-|1|I am not trusting of others and am afraid how they will judge me if they know the truth.|
-|2|The first things I notice about a new location are the exits—in case I have to escape.|
-|3|I enjoy the outdoors; fresh air makes me feel invigorated.|
-|4|I feel empathy for those who are different.|
-|5|I anger quickly if I see someone mistreat animals.|
-|6|I constantly am hungry for fresh meat; the smell makes me salivate.|
-
-|   |   |
-|---|---|
-|d6|Ideal|
-|1|Natural Order. I respect the natural order of things. (Neutral)|
-|2|Live and Let Live. I do not harm or seek to change others through violence. (Neutral)|
-|3|Honor. If I dishonor myself, I dishonor those who stand by me. (Lawful)|
-|4|Independence. I value making my own decisions (Chaotic)|
-|5|Glory. I must earn glory in battle, for myself and my allies. (Any)|
-|6|Adventure. I enjoy the journey more than the destination. (Any)|
-
-|   |   |
-|---|---|
-|d6|Bond|
-|1|I see awful visions of what I may do, and I protect those I care about and try to prevent it.|
-|2|I owe my allegiance to those who protect me from myself.|
-|3|No one else should have to be burdened by my hardships.|
-|4|I am guilty by nature, so I constantly strive to redeem myself.|
-|5|I would give my life to those who have help save mine.|
-|6|My anger got someone hurt; I will learn to control my anger.|
-
-|   |   |
-|---|---|
-|d6|Flaw|
-|1|I lie to others to hide my secret.|
-|2|I know I have power to change things, and sometimes use it without considering the consequences. I must learn to control my power.|
-|3|My hatred for the enemy is blinding.|
-|4|I have little respect for those who are not proven in battle.|
-|5|I harbor bloodthirsty thoughts on clear nights when I can see the moon.|
-|6|I am headstrong and stubbornly seek an end to my curse, sometimes making rash decisions.|
-
-Feature: The Beast Within. Each full moon, you turn into a werewolf under the DM’s control for the night. Unless caged or fully restrained with silver manacles, you go on a bloody rampage. Each full moon happens 3 consecutive nights per month. Each morning after a full moon, you must succeed on a DC 10 Wisdom save or suffer a long-term madness until dusk. Each subsequent full moon, the Wisdom save DC increases by 1.
-
-During the waxing gibbous phase (4 consecutive days before the full moon), you must make a Nightmare check (see Nightmare rules). If you succeed you feel a change coming.
-
-### Missing Merchant
-
-One of your family members is a merchant who obtains rare items for wealthy noble houses. They left months ago to obtain a case of rare wine from the lands of Barovia. You received a letter saying they had met a group of traders, the Vistani, who helped them locate the wine. Your relative promised to be home in a month. That was six months ago. You have grown concerned, and so has the noble house that hired them to obtain the rare wine. You’re determined to discover your lost relative’s fate in the lands of Barovia. Because of your family ties, in addition to your background, you gain the Guild Artisan background.
-
-### Sun Blade Relic
-
-A holy order has called upon you for a quest of utmost importance. An ancient document has revealed the location of a mythical sword called the Sun Blade. This great weapon once belonged to the order and was used in a battle against dark forces centuries ago. The Sun Blade now lies in the mythical lands of Barovia, where it is protected by the Order of the Silver Dragon.
-
-You must find the mythical sword, learn what you can about the Order of the Silver Dragon, and return with the Sun Blade.
-
-In addition to your background, you gain the Acolyte background.
-
-### The Temple
-
-The inner circle of your order has shared with you the order’s greatest secret. Long ago, the first members of the order were ancient wizards tasked with protecting the world from darkness. An ancient temple in the snow covered mountains was built to imprison a great darkness, but that darkness has escaped. An elder from the order was sent to find the ancient temple and learn what happened, but that was over a year ago. The order is now sending you to find the temple and the missing elder. You must learn what happened and seal the temple, if you can. The temple lies in the snow-covered mountains of darkest Barovia.
-
-In addition to your background, you gain the Sage background.
-
-### Vistani Blood
-
-You recently received a package with a book wrapped in paper and a note that reads as follows:
-
-> Dear [character name],
-> I hope you are well in these troubled times. Your mother never
-> told you, but your grandfather was a Vistani, a traveling people from
-> a long-forgotten land called Barovia. His land became my land, and
-> together we traveled the forgotten realm. But a dark shadow hung
-> over Barovia when I became pregnant with your mother, and your
-> grandfather knew it was no longer safe for me and our child. He
-> helped me escape and told me never to look back or speak of
-> Barovia or the Vistani ever again.
-> But it is time you knew the truth about your family. The lands of
-> Barovia have been dark for centuries, yet a faint hope remains. The
-> book in this box will tell you its true history. Read it, know it, and
-> embrace it. I saw in your mother hope to bring peace to a troubled
-> land. That hope flourishes in you as well. Barovia’s time is coming.
-> Your time is coming.
-> A small camp lies near Tser Falls. There, a man called Petra
-> resides. Your grandfather helped raise him and kept him out of
-> trouble. Show him the book—he will know where it came from. He
-> may be a friend when you have none.
-> My time has passed, and I leave you with a heavy heart, knowing
-> what lies ahead.
-> With all my love and hope,
-> Your Grandmother
-
-In addition to your background, your character gains the Haunted One background.
-
-The book is called the Fanes of Barovia.
-
-# Mysterious Secrets
-
-Your character has a secret, either terrible or seemingly benign. This Player Primer has a separate, accompanying document entitled, Mysterious Secrets, that contains a list of secrets that pertain to the Curse of Strahd campaign. These secrets can help your Dungeon Master integrate your character into the module.
-
-If you are a player, do not open the Mysterious Secrets document unless you have permission from your Dungeon Master. If you are a Dungeon Master, use the Mysterious Secrets document privately and distribute the results individually to your players.
 
 # Finishing Touches
 
