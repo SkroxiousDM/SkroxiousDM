@@ -51,7 +51,7 @@ You act before thinking. This means that as soon as the player declares that the
 
 You are haunted by nightmares each and every night, possibly because of something you have experienced, or for more abstruse reasons, such as an ominous omen or the consequence of a family curse. Each night, you must pass a DC 10 Constitution saving throw or gain a level of exhaustion.
 
-# Mystical Mark
+## Mystical Mark
 
 - Bonus: +2 to Charisma
 
