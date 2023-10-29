@@ -43,9 +43,18 @@ Suggested Characteristics
 
 Many folks have turned away from you. Your disappointment in them has given you a rock-­hard sense of independence and a desire to learn more about where you come from.
 
-|   |   |
+|1d8|PERSONALITY TRAIT|
 |---|---|
-|\|   \|   \|<br>\|---\|---\|<br>\|1d8\|PERSONALITY TRAIT\|<br>\|1\|I am curious about everything elven, changeling or Iron Pact-­related.\|<br>\|2\|I will likely do the opposite of what people expect me to do, just to show who runs my life.\|<br>\|3\|I am cautious, always expecting people to abandon or turn on me.\|<br>\|4\|I prefer animals to other supposedly “intelligent” creatures.\|<br>\|5\|I can’t handle praise, something bad will surely follow!\|<br>\|6\|I speak my mind, no matter what.\|<br>\|7\|I keep a bug out bag nearby at all times, always prepared to run.\|<br>\|8\|I am thankful for the smallest things, everything is better than where I come from.\||\|   \|   \|<br>\|---\|---\|<br>\|1d6\|IDEAL\|<br>\|1\|Independence. I was left here to my own devices, and I will follow my own path through life.\|<br>\|2\|Truth. My childhood was a lie, but my life won’t be.\|<br>\|3\|Friendship. The world is horrible, close friends are all you can count on.\|<br>\|4\|Wealth. The wealthy rule the world, and I will be one of them.\|<br>\|5\|Passion. Our feelings are both the compass and the destination.\|<br>\|6\|Kindness. No ­one can make it without help from others.\||
+|1|I am curious about everything elven, changeling or Iron Pact-­related.\|<br>\
+|2|I will likely do the opposite of what people expect me to do, just to show who runs my life.|
+|3|I am cautious, always expecting people to abandon or turn on me.\|<br>\
+|4\|I prefer animals to other supposedly “intelligent” creatures.\|<br>\
+|5\|I can’t handle praise, something bad will surely follow!\|<br>\
+|6\|I speak my mind, no matter what.\|<br>\
+|7\|I keep a bug out bag nearby at all times, always prepared to run.\|<br>\
+|8\|I am thankful for the smallest things, everything is better than where I come from.\||\|   \|   \|<br>\
+
+|---\|---\|<br>\|1d6\|IDEAL\|<br>\|1\|Independence. I was left here to my own devices, and I will follow my own path through life.\|<br>\|2\|Truth. My childhood was a lie, but my life won’t be.\|<br>\|3\|Friendship. The world is horrible, close friends are all you can count on.\|<br>\|4\|Wealth. The wealthy rule the world, and I will be one of them.\|<br>\|5\|Passion. Our feelings are both the compass and the destination.\|<br>\|6\|Kindness. No ­one can make it without help from others.\||
 |\|   \|   \|<br>\|---\|---\|<br>\|1d6\|BOND\|<br>\|1\|Someone saved me from the mob. I am forever bound to this person.\|<br>\|2\|One of my ‘human family’ did not give up on me even when my true heritage was revealed.\|<br>\|3\|I seek the elf who swapped me for who I should have been. I will demand an explanation.\|<br>\|4\|I am a dedicated member of one of the world’s factions; I cannot imagine living without them.\|<br>\|5\|Somewhere out there is a human who’s childhood I lived. We must meet to become whole.\|<br>\|6\|I am sworn to help and protect changelings everywhere.\||\|   \|   \|<br>\|---\|---\|<br>\|1d6\|FLAW\|<br>\|1\|I don’t really trust anyone, and I assume they will leave me when I need them most.\|<br>\|2\|I’ve always felt different and special, now I know why.\|<br>\|3\|Humans are no longer worth my time.\|<br>\|4\|I despise elves and enjoy seeing them struggle.\|<br>\|5\|I abandoned my earlier “friends,” and they are now out to get me.\|<br>\|6\|I am envious of those who have more than me in life.\||
 
 Mage’s Assistant
