@@ -1,5 +1,4 @@
-
-** **
+# Ability Scores via Stat Banks
 Ability Scores are determined by Stat Banks. Stat banks are 23/25/27.
 
 To determine scores, roll 4d6 drop lowest 1. Do this three times. These are the first half of your scores. (Example: 7, 11, 17)
