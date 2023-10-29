@@ -196,9 +196,8 @@ Every character has or has had relationships that have helped shape their person
 
 If you encounter an inconsistency by rolling on the following chart, such as rolling an option that notes a parent but your character has no parents, you may change that option to denote a different relation, like to a sibling or friend. Roll a d4 - 1 (minimum 1) to determine your number of fateful relations. And then roll that number of times on the following chart to determine the nature of those relations.
 
-|   |   |
-|---|---|
 |D100|Relationship|
+|---|---|
 |1 - 3|You once saved a small animal from dying and it has followed you ever since. Choose one beast of CR 1/8 or lower as a pet. This pet cannot help you in battle or in social encounters unless you have the magic or mechanical abilities to justify that help.|
 |4 - 7|You once tried to steal from someone, but were caught in the act. Instead of turning you in for your attempted crime, this person employed you.|
 |8 - 10|One of your parents left home. You were the only one to see them leave.|
@@ -468,12 +467,7 @@ Roll a d20 on the table below to discover your character's quirk.
 |19|You can easily roll a coin through the base of your figures and do so habitually when your mind wanders.|
 |20|Whether or not you need to, you prefer wearing a hood at all times. Maybe it makes you feel safe. Or maybe you're just trying to hide an early developing bald spot.|
 
-### Alignment
-
-Alignments are reserved for creatures from the outer planes and creatures tightly connected to them (such as, for example, paladins and clerics).
-
 # Finishing Touches
-
 You should now have all the information you need to start building a solid player character. You know where your character has lived the majority of their life, the composition of their family, and the important relationships that have helped define them. You also know some of their personality quirks, their fears, and their likes and dislikes. You also may have a character secret. All that’s left is to turn this information into a cohesive story. Take the information you’ve gathered and stitch it all together, interpreting what you need to along the way.
 
 Remember that if a result or two from your rolls doesn't quite work for your character concept, you can ask your Dungeon Master to reroll or disregard the result entirely. And, of course, don’t forget to choose a race and class.
@@ -488,3 +482,5 @@ when trying to decide your character include
 - Is the character rational or passionate? Sophisticated or superstitious? Impulsive or habitual? Logical or faithful?
 - What drives the character to adventure? What are his goals and drives? What would he do to accomplish them?
 - What is the character’s worst nightmare?
+
+[[Backstory_Questions]]
