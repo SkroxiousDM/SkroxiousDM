@@ -8,7 +8,7 @@ Certain ability checks can only be made by those with proficiency unless otherwi
 When another player attempts a Skill check roll to gain new information (Perception, History, Arcana, etc.) from the DM and fails, you may attempt the same check only if you have a higher Skill modifier than theirs.
 
 ## Helping Others
-When you use the Help action to aid another character in a task, you must have proficiency in that Skill.
+When you use the Help action to aid another character in a task, you must be at least trained in that Skill.
 
 # TIERS OF PROFICIENCY
 In addition to the two tiers of proficiency present in the Player’s Handbook - proficiency and expertise - these rules introduces two new tiers of proficiency: trained, and specialization. Progressing from one tier to the next is not a given, however; if you’re proficient in a skill, and you gain that proficiency again from another source, you do not automatically gain expertise. Instead, in these instances, you can choose another proficiency of the same type, as discussed in Chapter 4 of the Player’s Handbook.
@@ -64,11 +64,9 @@ This gradual increase of skills will make characters slightly more powerful, but
 	*Prerequisite: You have proficiency in Sleight of Hand.*
 	You attempt to retrieve a particular item in the possession of a creature within 5 feet of you that is not currently holding it, or plant a particular item on that creature’s person. Make a Dexterity (Sleight of Hand) check against that creature’s passive Wisdom (Perception) score. On a success, you retrieve or plant the item successfully.
 ### Stealth (Dexterity)
-- Failure on a group check doesn’t count as a failure, but it doesn't count as a success either. Your failed check isn't counted when determining whether failures outnumber successes.
 - You may attempt to hide as a bonus action with disadvantage.
 ### Arcana (Intelligence)
 - Automatically succeed on checks against a DC that is less than or equal to 10 plus your bonus.
-- Failure on a group check doesn’t count as a failure, but it doesn't count as a success either. Your failed check isn't counted when determining whether failures outnumber successes.
 - When your total bonus is equal to or greater than +8, you can cast Detect Magic as a ritual.
 - The DM can simply give you certain clues just because you are well-studied in this skill. Taken from Lorefinder
 - If you use this skill to successfully identify a creature, you have advantage on one opposed check with that creature. This can be, for example, a social check, a grapple check, or an initiative check.
@@ -87,7 +85,6 @@ This gradual increase of skills will make characters slightly more powerful, but
 	You try to recall a pertinent piece of information about a creature, object, place, or event. Make the Dungeon Master’s choice of an Intelligence (History), Intelligence (Religion), Intelligence (Arcana), or Intelligence (Nature) check against the Dungeon Master’s DC. On a success, the Dungeon Master decides what information you recall.
 
 ### Investigation (Intelligence)
-- Failure on a group check doesn’t count as a failure, but it doesn't count as a success either. Your failed check isn't counted when determining whether failures outnumber successes.
 - Gives you advantage on Wisdom (Survival) checks to track.
 - Adds 1 to your passive Perception.
 - Gives you advantage on disabling traps with Sleight of Hand.
@@ -96,7 +93,6 @@ This gradual increase of skills will make characters slightly more powerful, but
 	You attempt to identify a weak point in a particular mechanism or apparatus within 10 feet. Make an Intelligence (Investigation) check against the Dungeon Master’s DC. On a success, creatures that can hear and understand you have advantage on attacks against that device or attempts to tamper with it made before your next turn.
 ### Nature (Intelligence)
 - Automatically succeed on checks against a DC that is less than or equal to 10 plus your bonus.
-- Failure on a group check doesn’t count as a failure, but it doesn't count as a success either. Your failed check isn't counted when determining whether failures outnumber successes.
 - Advantage on saves to avoid the effects of poison that the character was exposed to by failing a check to harvest the poison by 5 or more. 
 - The DM can simply give you certain clues just because you are well-studied in this skill. Taken from Lorefinder.
 - If you use this skill to successfully identify a creature, you have advantage on one opposed check with that creature. This can be, for example, a social check, a grapple check, or an initiative check.
@@ -107,7 +103,6 @@ This gradual increase of skills will make characters slightly more powerful, but
 
 ### Religion (Intelligence)
 - Automatically succeed on checks against a DC that is less than or equal to 10 plus your bonus.
-- Failure on a group check doesn’t count as a failure, but it doesn't count as a success either. Your failed check isn't counted when determining whether failures outnumber successes.
 - The DM can simply give you certain clues just because you are well-studied in this skill. Taken from Lorefinder.
 - If you use this skill to successfully identify a creature, you have advantage on one opposed check with that creature. This can be, for example, a social check, a grapple check, or an initiative check.
 - Gives you advantage on Charisma checks with creatures from planes other than the natural plane and members of religious orders.
@@ -155,7 +150,6 @@ This gradual increase of skills will make characters slightly more powerful, but
 - Your passive perception is never penalized, not even for sleeping, unless you are unconscious due to some external cause. 
 ### Survival (Wisdom)
 - Automatically succeed on checks against a DC that is less than or equal to 10 plus your bonus.
-- Failure on a group check doesn’t count as a failure, but it doesn't count as a success either. Your failed check isn't counted when determining whether failures outnumber successes.
 - Your first Constitution check to avoid exhaustion due to [lack of food or water](https://www.dndbeyond.com/compendium/rules/basic-rules/adventuring#FoodandWater) in a sequence of such checks is made with advantage.
 - ###### Camouflage
 	*Prerequisite: You have proficiency in Survival.*
@@ -164,7 +158,6 @@ This gradual increase of skills will make characters slightly more powerful, but
 ### Deception (Charisma)
 - Failing a check doesn't make characters hostile unless the failure was by 5 or more.
 - Advantage on saving throws against someone trying to read your thoughts, detect your alignment, or reveal when you are lying.
-- Failure on a group check doesn’t count as a failure, but it doesn't count as a success either. Your failed check isn't counted when determining whether failures outnumber successes.
 - ###### Juke
 	*Prerequisites: You have proficiency in Deception.*
 	You attempt to lure a number of creatures up to your Charisma modifier within 5 feet of you to move toward a point you choose within 10 feet of you. Make a Dexterity (Deception) check contested by those creatures’ passive Wisdom (Insight) scores. On a success, a target must immediately use its reaction, if available, to move up to its speed toward that point.
@@ -189,7 +182,6 @@ This gradual increase of skills will make characters slightly more powerful, but
 **Wisdom:** You're trying to soothe or connect feelings. Rapport, empathize, calm, discretion, and tact.
 **Charisma:** You're trying to be likeable or dominating. Charm, bluff, banter, incite, command, and intimidate.
 - Pay 10% less for mundane equipment at shops (this can be cumulative with the similar advantage Animal Handling proficiency grants).
-- Failure on a group check doesn’t count as a failure, but it doesn't count as a success either. Your failed check isn't counted when determining whether failures outnumber successes.
 - ###### Coordinate
 	*Prerequisite: You have proficiency in Persuasion.*
 	You attempt to direct a number of creatures up to your Intelligence modifier within 30 feet that can hear and understand you. Make an Intelligence (Persuasion) check. If the result is 20 or more, each target has advantage on the next ability check it makes before your next turn.
