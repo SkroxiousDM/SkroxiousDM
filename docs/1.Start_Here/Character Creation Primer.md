@@ -1,4 +1,4 @@
-# C
+# Character Creation Primer
 Character creation is an important aspect of Dungeons & Dragons, but creating a compelling character and backstory can be difficult. The purpose of this primer is to inspire players’ creativity and help develop unique characters that they may have not considered without rolling on the following tables.
 
 This primer should also help target player character backstories towards the Curse of Strahd campaign setting, allowing the Dungeon Master to better integrate them into the narrative.
