@@ -22,7 +22,6 @@ Spells cast in Barovia function as described in **Alterations to Magic** and **R
 >
 > However, to help you make that decision, each section in this guide includes a **Design Notes** section that explains which major changes have been made, *why* they have been made, and how they can be properly implemented.
 
-\columnbreak
 
  ### Geography
 
@@ -68,18 +67,6 @@ The dusk elves are as described in **Roleplaying the Vistani and the Elves** (p.
 
 The First Folk are a loose society of druidic hunter-gatherers descended from the nomads who first settled in the valley millenia ago. Since Strahd’s arrival in the valley, they have split into two factions: the Forest Folk, who worship Strahd as a deity and do his bidding across the Svalich Woods; and the Mountain Folk, a reclusive people who keep to the old religion of the Ladies Three and who largely remain within the sheltered settlement of Yaedrag, tucked away on the slopes of Mount Ghakis.
 
-<img src="https://drive.google.com/uc?export=view&id=
-1vugPmJWPM8VEOL3lLmpU9VhCQpGBcgiS
-" style="position: absolute; top: 0; left: -300px; height: 100%;">
-
-<img src="https://drive.google.com/uc?export=view&id=
-1Nt2ogCzClCDm24JrAR-KVPwB0c9CRT_U
-" style="position: absolute; left: 0px; top: 0px;">
-
-\pagebreakNum
-
-\columnbreak
-
 ### Factions
 #### Dark Powers
 
@@ -100,16 +87,6 @@ The Keepers, despite their lycanthropic nature, are spies—not warriors. With t
 More importantly, one of the Keepers—a young **wereraven** named Elric, Muriel’s former romantic partner—recently accompanied Doru’s mob of Barovians to Castle Ravenloft, and was killed in the slaughter. Fearing Strahd’s attention, the rest of the Keepers are now laying low, hoping to keep their members safe and their secrets out of the vampire’s hands.
 
 That doesn’t mean, though, that the Keepers are staying idle. Their spy network—led by Urwin Martikov and his wereraven associates—has tendrils that reach throughout the valley and mountains, gathering constant intelligence from the flocks of ravens that soar through the skies. Some among the Keepers joke that not a twig could be snapped in the Svalich Woods without Urwin knowing of it—and, sometimes, they wouldn’t be far wrong.
-
-<img src="https://drive.google.com/uc?export=view&id=
-1_A0N39IQFjT_8-a0EMbKJheuCSn8Ys-9
-" style="position: absolute; top: 0; left: -550px; height: 100%;">
-
-<img src="https://drive.google.com/uc?export=view&id=
-1Nt2ogCzClCDm24JrAR-KVPwB0c9CRT_U
-" style="position: absolute; left: 0px; top: 0px; transform: scaleX(-1);">
-
-\pagebreakNum
 
 #### Barovian Refugees
 
@@ -146,18 +123,6 @@ Their spiritual leader, an elder **storm giant** named Ormir, is the sole mortal
 #### Beasts of Barovia
 
 While not members of any civilized society, the wolves, rats, and bats of Barovia are Strahd’s loyal servants and spies. Each day, at sunrise and sunset, each beast with news to report—of outsiders, of turmoil, or simply of interesting trinkets or treasures—returns to Castle Ravenloft to share what it's learned and to receive new orders to disseminate through the valley. Strahd’s vampiric brides gather and organize their intelligence: the wolves to Volenta Popfsky, the rats to Ludmilla Vilisevic, and the bats to Anastrasya Karelova.
-
-\pagebreakNum
-
-<img src="https://drive.google.com/uc?export=view&id=
-17nbZ_x0l6fertc-7Forpp_UJufXoeoxc
-" style="position: absolute; top: 0; left: -1150px; height: 100%; transform: scaleX(-1);">
-
-<img src="https://drive.google.com/uc?export=view&id=
-1Nt2ogCzClCDm24JrAR-KVPwB0c9CRT_U
-" style="position: absolute; left: 0px; top: 0px; transform: scaleX(-1);">
-
-\columnbreak
 
 #### Brides of Strahd
 
@@ -203,31 +168,11 @@ With each scrap of spirit a vestige claims, it grows in power, inching closer to
 
 With their holy places desecrated and their worshippers weakened and divided, two of the three Ladies of the Fanes—the Weaver and the Huntress—have been reduced to little more than spirit, unable to take action or exercise the power they once wielded. Only the Seeker, who forged a pact with Katarina, the bastard sister of Strahd von Zarovich, to free the valley from Strahd’s evil, survives. Through their pact, the Seeker subsumed Katarina’s soul to manifest an avatar of her divine power: the Vistana seer Madam Eva.
 
-<img src="https://drive.google.com/uc?export=view&id=
-1pfuSums0RXOigbRWQySpXHUZLGXVJaGD
-" style="position: absolute; top: 0; left: -350px; height: 100%;">
-
-<img src="https://drive.google.com/uc?export=view&id=
-1Nt2ogCzClCDm24JrAR-KVPwB0c9CRT_U
-" style="position: absolute; left: 0px; top: 0px;">
-
-\pagebreakNum
-
 As an aspect of the Seeker, Madam Eva is bound to follow the rules of her divinity. She cannot refuse to read another’s fortune, nor can she share her foretellings with any but those who hear them. Many individuals, both savory and not, have therefore called upon her to see their futures—including, at times, Strahd von Zarovich himself.
 
 Given Madam Eva’s exceptionally long lifespan—far longer than any ordinary human—Strahd strongly suspects that she is more than she appears. However, thus far, Madam Eva has been content to give him the foretellings he seeks—and he, in response, has been content to accept her sly smiles and denials.
 
 However, Madam Eva foresees that Strahd will soon return to her for a final, terrible time—and that the reading she will deliver shall define the fate of all Barovia.
-
-<img src="https://drive.google.com/uc?export=view&id=
-1rUYZTufk2kBkz0qHml_wN4bCKhUg-Noq
-" style="position: absolute; bottom: -230px; left: -800px; height: 100%;">
-
-<img src="https://drive.google.com/uc?export=view&id=
-1cepc1LKtIGRaPeG075vJn9E8TbZMemq4
-" style="position: absolute; left: -40px; top: 0px; transform: scaleX(1.2);">
-
-\columnbreak
 
  ### Religions
 
@@ -325,18 +270,6 @@ When the forces of evil sought to claim the vestiges’ power for their own, the
 
 However, these defenses could not stop the wizards themselves from falling to the vestiges’ corruption. Within three generations, nearly all of the wizards were dead as described in **Chapter 13: The Amber Temple** (p. 181). The lone survivor—an archmage named Neferon—was transfigured to an immortal, monstrous form and settled in to guard his “hoard.”
 
-<img src="https://drive.google.com/uc?export=view&id=
-1U6sxurzYcQk8tZ2o5L8EIc6-EeW0Rrgg
-" style="position: absolute; bottom: -125px; left: -200px; height: 100%;">
-
-<img src="https://drive.google.com/uc?export=view&id=
-1EFqjfPiz9iNgera5833UDR_IgGMxG6j2
-" style="position: absolute; right: 40px; top: 0px; transform: scaleX(1.2);">
-
-\pagebreakNum
-
-\columnbreak
-
  #### Fall of the First Folk
 
 The seven tribes of the First Folk kept largely apart from one another until, one day, a proud and ambitious warlord named Kavan led his tribe down the slopes of the Balinok Mountains, waging a bloody war to unite them. His magic spear, the symbol of his might, drank the blood from his enemies and fed their strength to its wielder; for this, Kavan was called Blood-Drinker, and his spear *bloodthorn*.
@@ -357,16 +290,6 @@ Meanwhile, near the peak of Mount Ghakis, the evil **archmage** Exethanter breac
 
 #### The Von Zarovich Line
 More than four centuries after King Dostron's death, King Barov von Zarovich I became the first monarch of his House, unifying several separate city states to found the nation of Zarovia. The young kingdom thrived for two hundred years, until civil strife and foreign invaders caused it to fracture and drove House von Zarovich into exile.
-
-<img src="https://drive.google.com/uc?export=view&id=
-1bf0zNug_Z2Akn481O4bjLCYMvCoVlSOB
-" style="position: absolute; bottom: -0; left: -790px; height: 100%;">
-
-<img src="https://drive.google.com/uc?export=view&id=
-1Nt2ogCzClCDm24JrAR-KVPwB0c9CRT_U
-" style="position: absolute; left: 0px; top: 0px; transform: scaleX(-1);">
-
-\pagebreakNum
 
 However, the dream of Zarovia never left King Barov’s descendants. One hundred years after their exile, Barov von Zarovich II, the heir to the family name, took up arms to reclaim his namesake’s legacy. Wielding his cunning, his wealth, and the shining sword called the *Brightblade*, Barov II built an army of soldiers legions strong and began to carve out a territory that he could be proud to call his kingdom. 
 
@@ -394,18 +317,6 @@ The dragon moved quickly to develop plans for the Order of the Silver Dragon: an
 After relocating to the valley, Argynvost began the construction of the manor of Argynvostholt, his new lair and the headquarters for the Order of the Silver Dragon. He dedicated its chapel to the Morninglord, and—as a shrewd political gesture—its upstairs gallery to both Saint Andral *and* Saint Markovia, who by now had become the two competing spiritual leaders of the Morninglord’s faith. 
 
 With the mansion complete, Argynvost put out the call for knights to join his order—and, as described in **Chapter 7: Argynvostholt** (p. 129) and **Q40. Argynvost's Study** (p. 140), they came. 
-
-<img src="https://drive.google.com/uc?export=view&id=
-1Zas53IoK710uMfioGVs22vDlyL1ID-GH
-" style="position: absolute; bottom: 0; left: 0px; width: 100%;">
-
-<img src="https://drive.google.com/uc?export=view&id=
-162wuMX-OY5n-HdXK9Mmz_TqwLUlbS-mj
-" style="position: absolute; left: 0px; top: 0px;">
-
-
-
-\pagebreakNum
 
 Many were dispatched to the front lines of nearby conflicts to wage war against evil—including, in some places, the armies of King Barov von Zarovich II, who had begun to test the borders of long-peaceful nations with an ambitious and obvious hunger.
 
@@ -472,16 +383,6 @@ What she left unspoken, of course, was that the vestige’s dark gift could be w
 
 Patrina was not surprised when Strahd insisted upon speaking with each of the three vestiges in the temple’s amber vault; he was a man of power, and men of power enjoyed the drugs of knowledge and control. She was astounded, however, when—after being offered the dark gifts of Tenebrous, of Zhudun, and the Vampyr—Strahd declined them all, refusing Patrina’s promise of immortality.
 
-<img src="https://drive.google.com/uc?export=view&id=
-1EkRUjavQpekFZZRLVeSRrC5HAWYCUcec
-" style="position: absolute; bottom: -30px; right: -300px; width: 100%;">
-
-<img src="https://drive.google.com/uc?export=view&id=
-1Es5n5zTqUbR6_tCehwV6LPXgYkQSFBd6
-" style="position: absolute; left: 0px; top: 0px;">
-
-\pagebreakNum
-
 Strahd returned to Castle Ravenloft, mortal and unchanged. Troubled, yet fascinated, Patrina followed after him.
 
 Strahd continued his studies of magic, learning at a far more rapid—and voracious—pace then any student Patrina had yet seen. Suspicious of his fellow dusk elf’s motives, however, Rahadin—now one of Strahd’s most trusted advisors—began to seek out women who could distract him from Patrina.
@@ -519,8 +420,6 @@ By the time Strahd returned once more to Castle Ravenloft, his spirits buoyed by
 Strahd lavished Tatyana, a woman more than thirty years his junior, with gifts and attention—but it was Sergei, of an age with Tatyana and still in his prime, who swiftly won her affections. Now, it was Tatyana who visited Sergei as often as he did her, escorted to Castle Ravenloft in a snow-white carriage with gold filigree. 
 
 Each time she did, Strahd welcomed her with the fondness of a suitor—and each time he did, she accepted his warmth with the obeisance of a niece. Slowly, Strahd felt a darkness begin to clutch at his heart, finding his aging reflection more repulsive by the day. Only his pride, tinted with bitterness, stayed his hand from obstructing the young couple’s love.
-
-\pagebreakNum
 
 Tatyana was not the first visitor to walk Castle Ravenloft’s halls, nor the last. As Strahd fumed and longed for her love, he also hosted a number of dignified guests—including Duchess Dorfniya Dilisnya and her fool, Pidlwick, further described in **Pidlwick II** (p. 235). Determined to win Strahd’s hand in marriage, the Duchess nonetheless was blind to his infatuation with Tatyana, visiting the castle many times with gifts and stories. Eager to please him, she commissioned the legendary toymaker, Fritz von Weerg, to build a clockwork effigy of Pidlwick, as described in **Pidlwick II** (p. 235), and assigned Pidlwick to train it.
 
@@ -578,17 +477,6 @@ The Dark Powers replied, *Escape is within your reach, dear one—within the rea
 
 *An end by stone, or an end by blood,* the voice said sweetly. *The choice is yours.*
 
-\pagebreakNum
-
-
-<img src="https://drive.google.com/uc?export=view&id=
-1yreI7smDweuVE4pwiJQ0FSQWvp7S5vcC
-" style="position: absolute; top: -70px; right: 0px; height: 50%;">
-
-<img src="https://drive.google.com/uc?export=view&id=
-1bz3XASdS7rBS--D7nCwJIzbin7NBt_25
-" style="position: absolute; left: 0px; top: 0px;">
-
 <div class="wide" style="height:400px;"></div>
 
 With a deep breath, Tatyana leapt—and Death claimed her.
@@ -614,8 +502,6 @@ By nightfall, Strahd's heart was consumed by fury, hatred, and grief. He preserv
 
 As dawn approached, only Leo Dilisnya, the mastermind of the conspiracy, still eluded him. Bloated with blood, but his thoughts still in chaos, Strahd returned to the castle. He descended to the carnage he had unleashed in the cellars below, only to find dried husks— the soldiers' corpses, drained of all blood.
 
-\pagebreakNum
-
 Instead, an enormous blood-red human heart hovered at the pinnacle of the dark and empty tower, looming far above the killing grounds. Forged of shattered crystal and as tall as a man, it stood as an unholy monument to Strahd's first victims: the Heart of Sorrow, described in **K20. Heart of Sorrow (p. 59)**.
 
 As Strahd surveyed the wreckage of his former nobility, the revenants of the Order of the Silver Dragon marched towards Castle Ravenloft, determined to understand why Strahd's death had not freed their spirits. Upon arrival, they encountered Madam Eva, as described in **The Order of the Silver Dragon (p. 129),** who informed them of Strahd's fate. Hearing this, Vladimir Horngaard halted his advance and led his knights back to Argynvostholt.
@@ -633,28 +519,6 @@ By now, only a remnant of the castle’s original staff remained, driven by loya
 The stableboy spoke true. Gone was Beucephalus, the Wonder-Horse, a stallion fit for an emperor. In its place was a **nightmare**, a demon that burned with rage and spite. (See **Crypt 39: Beucephalus** (p. 93).) Strahd found the demonic steed fitting for a creature such as himself and rode forth from the castle to the Amber Temple, determined to seek a means of escaping his fate.
 
 It was in the archives of the Amber Temple that Strahd learned his new name. "Vampire," the books called him, an enemy of the sun and its blessed light. But the sun had not shone upon the valley since his transformation days earlier, the skies remaining dark and overcast.  Strahd couldn't help but wonder if it was a blessing to be granted respite from the light he once knew, or a curse, to endure without it.
-
-<div class="wide" style="height:600px;"></div>
-
-<img src="https://drive.google.com/uc?export=view&id=
-1eA_UitHBpD9_MioryH8kvFh2mzadeUrX
-" style="position: absolute; bottom: -70px; right: -150px; height: 60%;">
-
-<img src="https://drive.google.com/uc?export=view&id=
-1YcFyj0_xD-YW3N0V7-fFePiwJhGVr3Kd
-" style="position: absolute; left: 0px; top: 0px;">
-
-\pagebreakNum
-
-<img src="https://drive.google.com/uc?export=view&id=
-1XofuS2R48IOSYyChVymwG8iBcXon4gIN
-" style="position: absolute; top: -70px; right: -150px; height: 70%;">
-
-<img src="https://drive.google.com/uc?export=view&id=
-1Qayk6WnxMBV03o9Ti3HQFTRRIUh7uvXl
-" style="position: absolute; left: 0px; top: 0px;">
-
-<div class="wide" style="height:500px;"></div>
 
 #### Ghosts of the Past
 
@@ -700,14 +564,6 @@ With its aid, Elisabeth summoned Walter’s soul from the Mists and bound it to 
 
 As Walter fed, he grew, transforming into a misshapen aberration of flesh. Meanwhile, in the twisted labyrinth of her own mind, Elisabeth found solace in nightly prayers to Strahd, whom she perceived as the source of the power that sustained her.
 
-<img src="https://drive.google.com/uc?export=view&id=1NwPOSpBbQllD78sXdd2qycgbltvx9Hq0" alt="Death House, a haunted mansion filled with dreadful past." style="position: absolute; top: 0; left: -90px; height: 100%;">
-
-<img src="https://drive.google.com/uc?export=view&id=
-1Nt2ogCzClCDm24JrAR-KVPwB0c9CRT_U
-" style="position: absolute; left: 0px; top: 0px;">
-
-\pagebreakNum
-
 Slowly, she gathered a group of like-minded followers to do her bidding, using her newfound power and Walter’s monstrous strength to keep them in line. The cult made sacrifices to Strahd on an altar deep underground, worshipping him as a messiah sent by the powers of darkness. They feasted on the organs of those that they killed, and fed the carcasses to the ever-hungry Walter. 
 
 [[Rosavalda 'Rose' Durst|Rose]] and Thorn, haunted by the ghastly sounds below, begged their mother to end their nightmares. Elisabeth ignored them at first, but when the sight of their faces—painful reminders of her late husband’s blood—became too agonizing to bear, she locked them in their attic bedroom and left them to starve.
@@ -733,16 +589,6 @@ Together, they developed a spell that would preserve Sergei’s body for eternit
 Strahd learned also to imbue his armor with permanent spells and a sliver of his being, creating **Strahd’s Animated Armor** (p. 227). Meanwhile, he delved deeper into the secrets of necromancy; as an amusement and a challenge, he created **Strahd zombies**—foul creatures both stronger and more horrible than the ordinary undead.
 
 But as time stood still for the immortals of Castle Ravenloft, its sands continued to flow for those in the valley beyond. The once-loyal retainers and vassals of the von Zarovich line began to pass into death—Artimus, the castle’s architect; General Grislek, Strahd's most trusted commander; Prefect Ciril Romulich, high priest of the Morninglord; and countless others. Strahd found each one when they died and sealed their corpses in places of honor in the catacombs beneath Ravenloft, as described in **K84. Catacombs** (p. 85).
-
-<img src="https://drive.google.com/uc?export=view&id=
-1NhxBbKp0GKkxSfF7ZFDihJdLsrmO92en
-" style="position: absolute; bottom: -150px; left: 0px; width: 120%;">
-
-<img src="https://drive.google.com/uc?export=view&id=
-162wuMX-OY5n-HdXK9Mmz_TqwLUlbS-mj
-" style="position: absolute; left: 0px; top: 0px; transform: scale(1.5);">
-
-\pagebreakNum
 
 One life yet eluded him, however: Leo Dilisnya, the traitor. Through his spies, though, Strahd soon discovered that Lovina Wachter had discovered Leo’s location. To avoid causing alarm, Strahd disguised himself as a human nobleman and journeyed to the Wachter manor in Vallaki. There, he introduced himself under the pseudonym of Vasili von Holtz, claiming to be an envoy from Ravenloft.
 
