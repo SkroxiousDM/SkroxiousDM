@@ -15,3 +15,9 @@ I have used some called shots systems in the past, and yes, they are broken, but
 •If they miss, they must plan for another 3 rounds before making another attempt.
 
 This rule makes called shots very difficult to pull off, but keeps players from spamming the rule. Feel free to adjust the number of rounds it takes to prepare the called shot, or do away with the permanent disadvantage. But be careful that your players don't find a way to abuse it.
+
+from [Old School House Rules for 5E RPGs by Castle Clark](https://preview.drivethrurpg.com/en/product/446004/old-school-house-rules-for-5e-rpgs)
+
+From   [](https://preview.drivethrurpg.com/en/publisher/21866/castle-clark)
+
+[Castle Clark](https://preview.drivethrurpg.com/en/publisher/21866/castle-clark)]
