@@ -1,4 +1,15 @@
 # Conditions
+## Partially Blinded [New]
+- You have disadvantage on Wisdom (Perception) checks that rely on sight.
+## Blinded
+You can't see.
+- You automatically fail ability checks that require sight.
+- Attack rolls against you have advantage if your opponent can see you.
+- Your attack rolls have disadvantage.
+- You can't cast spells or use effects that require you to see the target.
+- You can't actively target creatures that have hidden from you (such as with a Hide action).
+In addition, the following new rules apply:
+- Your speed is halved.
 ## Grappled
 -  **Speed 0**. Your Speed is 0 and can’t change.
 - **Attacks Affected**. You have Disadvantage on Attack Rolls against any target other than the grappler.
@@ -48,17 +59,6 @@ In addition, the following new rules apply:
 - When a poisoned creature takes poison damage equal to or more than its Constitution modifier (minimum of one), its hit point maximum is reduced by 1d6.
 - While poisoned, if a creature's hit point maximum is reduced below half than normal it suffers one level of Exhaustion that cannot be removed. This exhaustion persists even if the creature is no longer Poisoned, as long as its Vigor point maximum is  reduced below half.
 - Creature's Vigor point maximum recover at the end of a long rest, as long as it is no longer Poisoned during the rest. Healing using Recovery dice or magical means also recovers the same amount to their Vigor point maximum lost this way.
-## Blinded
-You can't see.
-- You automatically fail ability checks that require sight.
-- Attack rolls against you have advantage if your opponent can see you.
-- Your attack rolls have disadvantage.
-- You can't cast spells or use effects that require you to see the target.
-- You can't actively target creatures that have hidden from you (such as with a Hide action).
-In addition, the following new rules apply:
-- Your speed is halved.
-## Partially Blinded [New]
-- You have disadvantage on Wisdom (Perception) checks that rely on sight.
 ## SLOWED [New]
  While Slowed, you experience the following effects:
 - Limited Movement. You must spend 1 extra foot of movement for every foot you move using your Speed.
@@ -76,6 +76,23 @@ Limited Activity.
 - Characters remain Staggered until they are restored to 1 hit point or higher.
 -  A character who takes any damage while at 0 hit points immediately gains 2 additional wound levels and must make a Constitution Saving Throw or fall unconscious. If the character falls unconscious, they are out of the fight.
 - At the end of the battle, the PC makes a single death save. If the PC receives healing or treatment of some kind (First Aid, Spare the Dying, etc), they gain advantage on the save. If the death save is failed, the PC dies. If successful, the adventurer survives but rolls on the Lingering Injuries table with Disadvantage. A natural 20 death save negates the injury roll. Without further healing, the PC awakens in 1d3 minutes with 1 hp.
+## Dominance [New]
+When you have advantage on your attack rolls against your target and your target doesn't have the same benefit against you, or a hostile creature that attacks you has disadvantage to its attack rolls and you don't suffer the same penalty, this condition is called having Dominance. You also benefit from Dominance if your target is standing on difficult terrain while you are not, or you hold the higher ground position on steep terrain.
+Some [[Actions_in_Combat]] require Dominance as prerequisite for their use during combat. Some combat options or abilities may also allow you to benefit from Dominance even if the conditions above are not met.
+## INCAPACITATED 
+While Incapacitated, you experience the following effects:
+- Inactive. You can’t take any action, Bonus Action, or Reaction.
+- No Concentration. Your Concentration is broken.
+- Speechless. You can’t speak.
+- Surprised. If you are Incapacitated when you roll Initiative, you have Disadvantage on the roll.
+## UNCONSCIOUS
+While Unconscious, you experience the following effects:
+- Inert. You have the Incapacitated and Prone conditions, and you drop whatever you are holding. When this condition ends, you remain Prone.
+- Speed 0. Your Speed is 0 and can’t change.
+- Attacks Affected. Attack rolls against you have Advantage.
+- Fail Str. and Dex. Saves. You automatically fail Strength and Dexterity saving throws.
+- Critical Hits. Any attack roll that hits you is a critical hit if the attacker is within 5 feet of you.
+- Unaware. You are unaware of your surroundings
 ## Expanded Exhaustion
 The Exhaustion condition covers all effects from casual exhaustion to life drain. These rules allow differentiation between normal fatigue and more dangerous effects.
 Levels 1-3 of Exhaustion (called Soft) often happen with strenuous activity like working, training or fighting. Soft Exhaustion accumulates easily but is recovered quickly with a short or longer rest. Any rule or DM decision that makes you gain Soft Exhaustion increases your Exhaustion only if your current Exhaustion is level 2 or less.
@@ -96,20 +113,3 @@ If you have reached the maximum level of Soft Exhaustion and you take another le
 |4|You can only take an action or a bonus action during your turn, and you can't take reactions. You can concentrate on one thing only, such as a spell or enemy target, and ignore all the rest. You're limited to simple mental tasks.|
 |5|Speed reduced to 5. Anyone can tell you're on the verge of passing out. You cannot concentrate, or cast spells requiring Concentration. You have blurry vision, tunnel vision, or vertigo and may experience hallucinations (DM's choice).|
 |6|You are Dying. You gain two wound levels. Any additional Exhaustion counts as two wound levels.|
-## Dominance [New]
-When you have advantage on your attack rolls against your target and your target doesn't have the same benefit against you, or a hostile creature that attacks you has disadvantage to its attack rolls and you don't suffer the same penalty, this condition is called having Dominance. You also benefit from Dominance if your target is standing on difficult terrain while you are not, or you hold the higher ground position on steep terrain.
-Some [[Actions_in_Combat]] require Dominance as prerequisite for their use during combat. Some combat options or abilities may also allow you to benefit from Dominance even if the conditions above are not met.
-## INCAPACITATED [CONDITION]
-While Incapacitated, you experience the following effects:
-- Inactive. You can’t take any action, Bonus Action, or Reaction.
-- No Concentration. Your Concentration is broken.
-- Speechless. You can’t speak.
-- Surprised. If you are Incapacitated when you roll Initiative, you have Disadvantage on the roll.
-## UNCONSCIOUS [CONDITION]
-While Unconscious, you experience the following effects:
-- Inert. You have the Incapacitated and Prone conditions, and you drop whatever you are holding. When this condition ends, you remain Prone.
-- Speed 0. Your Speed is 0 and can’t change.
-- Attacks Affected. Attack rolls against you have Advantage.
-- Fail Str. and Dex. Saves. You automatically fail Strength and Dexterity saving throws.
-- Critical Hits. Any attack roll that hits you is a critical hit if the attacker is within 5 feet of you.
-- Unaware. You are unaware of your surroundings

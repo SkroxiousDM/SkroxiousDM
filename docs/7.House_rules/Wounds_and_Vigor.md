@@ -52,8 +52,6 @@ Continuing to ﬁght at 0 Vigor points is possible, but very dangerous. You can 
 - Characters remain Staggered until they are restored to 1 hit point or higher.
 - A character who takes any damage while at 0 vigor immediately gains 2 additional wound levels and must make a Constitution Saving Throw or fall unconscious. If the character falls unconscious, they are out of the fight. At the end of the battle, the PC makes a single death save. If the PC receives healing or treatment of some kind (binding wounds, etc), they gain advantage on the save. If the death save is failed, the PC dies. If successful, the adventurer survives but rolls on the Lingering Injuries table with Disadvantage. A natural 20 death save negates the injury roll. Without further healing, the PC awakens in 1d3 minutes with 1 vigour.
 
-The purpose of this rule is to make death and persistent injuries more common, increasing lethality and combat risks. Note that, assuming the death save is made at advantage, there is approx a 20% chance of failing (which is actually much lower than the standard fail three death saves rule, for which there is approx 40% chance of dying). The critical difference with this variant however is that the death save cannot be avoided; healing dramatically increases the chance of survival, but the roll must still be made.
-
 # Lingering Injuries
 
 Any time one of your characters receives a wound level from any source (combat, traps, spell attacks, etc.) they roll 3d6 on the table that matches that damage type. If the wounding hit deals more than one type of damage, they roll on the on the table for the type that dealt the majority.
