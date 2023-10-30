@@ -69,3 +69,5 @@ Corruption Categories
 |1 point or more|Blight-stricken|Visible to those who can see Shadows as black spots moving within the Shadow.|
 |At half your Threshold or higher|Blight-marked|Your Shadow is covered with darkness, causing great concern for those who can see it.|
 |Beyond your Threshold|Thoroughly Corrupt|Your Shadow becomes completely black and your character must become a NPC as you are overwhelmed by the burdens you bear.|
+
+From [Ruins of Symbaroum]

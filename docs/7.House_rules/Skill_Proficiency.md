@@ -191,3 +191,6 @@ This gradual increase of skills will make characters slightly more powerful, but
 - ###### Charm
 	*Prerequisite: You have proficiency in Persuasion.*
 	You attempt to curry favor with an indifferent creature. Make a Charisma (Persuasion) check against the Dungeon Master’s DC. On a success, that creature is charmed by you until the end of your next turn.
+
+
+Actions from [DragnaCarta]
