@@ -47,30 +47,21 @@ Horror does not imply a threat but rather a certain amount of revulsion, anguish
 - Outside attempts to control your mind
 
 ### Forbidden Knowledge
-
 Tomes and codices of unspeakable evil or unknowable truths have driven many sages to lunacy. The histories, spells, and rituals contained within such eldritch books as Iggwilv’s Demonomicon, the Necronomicon, and Nameless Cults attack the reader’s mind with each page read and truth learned.
-
-DC = 8 + the level of the highest spell in the tome*
-
+>DC = 8 + the level of the highest spell in the tome*
 *If the tome does not contain spells the DC is 12 for a rare item, 14 for very rare, 16 for legendary, and 18 for an artifact
 
 ### Unspeakable Horrors
-
 Aberrations and fiends by their very nature can crack the protective walls around a character’s mind. Creatures of either of these types may induce a Horror check at the DM’s discretion. The sight of a creature whose CR exceeds the character’s level by 3 or more always provokes a Horror check.
-
-DC = 8 + [creature CR – the character’s level]
+>DC = 8 + [creature CR – the character’s level]
 
 ### Mind-Numbing Terror
-
 The activation of the hindbrain due to extreme terror often causes an immediate effect on a character’s psyche. Few things incite that terror more than the sight of legions of undead razing everything in their path. An encounter in which the characters are outnumbered by at least 5 to 1 induces a Horror check.
-
-DC = 8 + [Encounter CR* – the character’s level]*
-
+>DC = 8 + [Encounter CR* – the character’s level]*
 *For a horde of creatures use this table to determine the CR of the encounter:
 
-|   |   |   |
-|---|---|---|
 |CR of the Creatures in the Horde|Number of Creatures|Multiplier|
+|---|---|---|
 ||1|x1|
 ||2|x1.5|
 ||3–6|x2|
@@ -79,25 +70,19 @@ DC = 8 + [Encounter CR* – the character’s level]*
 ||15+|x4|
 
 The presence of an unholy greater undead has the same effect. The sight of an undead creature whose CR exceeds the character’s level by 3 or more provokes a Horror check.
-
-DC = 8 + [creature CR – the character’s level]
+>DC = 8 + [creature CR – the character’s level]
 
 The final way in which stark terror may affect the stability of the character’s mind is if a character fumbles (rolls a natural 1) on a check against a fear effect. If the character’s level is equal to or greater than the creature that generated the fear effect the DC is 8.
-
-DC = 8 + [creature CR – the character’s level]
+>DC = 8 + [creature CR – the character’s level]
 
 ### Struggle for Dominance
-
 The struggle for dominance between a sentient item and its owner may damage the wielder’s mind. If the wielder loses a Conflict between herself and her item, and the item possesses her, she should make a Horror check as the item overwhelms her mental defenses and forces her to act as it wishes.
-
-DC = 12 + the item’s Charisma modifier
+>DC = 12 + the item’s Charisma modifier
 
 ### Character Death
-
 Any character that fails their death save and is subsequently brought back to life through whatever means are available to her allies automatically fumbles a Horror check as their soul is tormented in the mists.
 
 ## Madness
-
 Unless otherwise noted any madness developed by a character is transient. If a character must roll on the Madness table while afflicted with a transient madness the subsequent insanity will be short-term. If a character is suffering from a short-term insanity and must roll on the Madness table the newly developed psychosis is long-term.
 
 - Transient insanity will continue to affect the character until she has completed the encounter that caused the Sanity check. To quell the transient insanity the character need only find a quiet place and spend a few minutes reassuring herself. (Breather)
@@ -131,10 +116,9 @@ During a high-stress situation, the PC may attempt to control themselves for the
 
 ## Transient and Short-Term Psychoses
 
-|   |   |   |
-|---|---|---|
 |d100|Disorder|Effects|
-|01-05|Arithmomania -<br><br>The character fixates on a mundane object within the room and begins to count all instances of it. She cannot do anything until finished counting the objects.|The DM chooses an object(s) in the room and the character must use her action to count the objects.<br><br>The character can only take reactions while counting.<br><br>Counting takes 1d4 rounds.|
+|---|---|---|
+|01-05|Arithmomania - The character fixates on a mundane object within the room and begins to count all instances of it. She cannot do anything until finished counting the objects.|The DM chooses an object(s) in the room and the character must use her action to count the objects.<br><br>The character can only take reactions while counting.<br><br>Counting takes 1d4 rounds.|
 |06-10|Babbling - The character babbles unintelligibly. Vocalizations are in her native language and can be heard by any nearby creatures.|The character cannot  communicate or cast any spells with vocal components for 1d4 rounds. Perception checks against the character have a +2 modifier.|
 |11-15|Feeling of Dread - The hairs on the character’s arms prickle, her heart races, and she break out into a sweat as a feeling of dread suffuses her.|The character has a +2 bonus on initiative.|
 |16-20|Terrified - The character is terrified of the object of her Sanity check.|The character must use her full movement to retreat from the object of her terror. She can still take actions after her movement. The effect lasts one round.|
