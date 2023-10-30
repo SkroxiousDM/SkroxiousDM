@@ -14,3 +14,5 @@ Is another form of metagaming, where players have a discussion about what to do,
 ## My rule on Table-Talk is also pretty simple:
 
 Everything is happening in real time. Everything they are saying is being said out loud! I only make exceptions for new players to clarify some rules. Players can call a timeout if they wish, but they can't confer on how to proceed during that timeout (it's a bathroom break). Whatever they say to each other can be heard by all the NPC's within earshot, who will now act accordingly. This includes joking around. I've had experienced players say some terrible things in jest in front of a Drow matriarch. They all died. Ending table-talk is essential to creating urgency and immediacy in your games and helping your players engage their imaginations.
+
+from [Old School House Rules for 5E RPGs by Castle Clark](https://preview.drivethrurpg.com/en/product/446004/old-school-house-rules-for-5e-rpgs)
