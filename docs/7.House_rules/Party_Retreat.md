@@ -3,3 +3,5 @@ At the start of a round, if the whole party wishes to flee from a battle, they m
 If unsuccessful, the GM might permit any individually successful adventurers to flee, with the other PCs remaining behind. The party, or any remaining PCs, may attempt to flee again next round if desired.
 
 Party Retreat is the most important tool in Hardmode. By implementing a formal retreat mechanic (as early editions had), the GM is freed from the shackles of “balanced” encounters, and may throw whatever makes sense at the party. Monsters completely outside the usual range may be used, safe in the knowledge that if the party needs to escape, they probably will (albeit at a cost). If the players choose to fight on despite overwhelming odds, they reap what they sow.
+
+from [5e Hardmode - Pickpocket Press](https://preview.drivethrurpg.com/en/product/241570/5e-hardmode)

@@ -4,4 +4,4 @@ No PC race grants darkvision. Only monsters can see naturally in the dark. Races
 
  The purpose of this rule is to make monsters with darkvision scarier and the infiltration of dark places more difficult.
 
-from[5e Hardmode by Pickpocket Press]([5e Hardmode - Pickpocket Press](https://preview.drivethrurpg.com/en/product/241570/5e-hardmode))
+from [5e Hardmode - Pickpocket Press](https://preview.drivethrurpg.com/en/product/241570/5e-hardmode)
