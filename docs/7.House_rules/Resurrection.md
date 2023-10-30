@@ -23,3 +23,5 @@ After all contributions are completed, the DM then rolls a single, final Resurre
 ## Quick Resurrections
 
 If a spell with a casting time of 1 action is used to attempt to restore life (via the Revivify spell or similar effects), no contribution skill checks are allowed. The character casting the spell makes a Rapid Resurrection check, rolling a d20 and adding their spellcasting ability modifier. The DC is 10, increasing by 1 for each previous successful resurrection the character has undergone. On a failure, the character’s soul is not lost, but the resurrection fails and increases any future Resurrection checks’ DC by 1. No further attempts can be made to restore this character to life until a resurrection spell with a casting time higher than 1 action is attempted.
+
+From [Matthew Mercer]
