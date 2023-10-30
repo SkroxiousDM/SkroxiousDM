@@ -13,8 +13,7 @@ The following tables will help you discover your character's origins. First, you
 
 ## Hometown
 
-### Where I’m From
-Create a snapshot of where you came from and how it shaped the person you became. Pick details to inspire you and use them to answer the prompts.
+
 
 ### Choose a Size for Your Town
 #### Metropolis

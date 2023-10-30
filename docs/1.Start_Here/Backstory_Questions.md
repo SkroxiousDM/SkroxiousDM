@@ -1,3 +1,5 @@
+# Where I’m From
+Create a snapshot of where you came from and how it shaped the person you became. Pick details to inspire you and use them to answer the prompts.
 #  What Gets Left Behind
 Most people think of adventurers as being larger-than-life heroes, but all heroes come from somewhere. In this exercise, you’re going to explore objects associated with a life you walked away from. Choose details that will help inspire your creativity and answer the prompts to discover the building blocks of your past.
 

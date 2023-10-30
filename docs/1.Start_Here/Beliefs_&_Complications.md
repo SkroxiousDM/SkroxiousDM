@@ -89,3 +89,6 @@ Complications are core negative or detrimental facets of a Character's personal
 |18|Guilty: You blame yourself for everything even when it’s not your fault. Every death or injury of those around you weighs on your conscience.<br><br>This character withdraws from all emotion and engagement as they get stressed, becoming cold and distant as they seek to take no part in anything.|
 |19|Childish: You are whimsical or naive, a poor judge of character and wont to be taken advantage of. Others may not take you seriously, viewing you as puerile or simpleminded, but you simply experience the world in a different way.<br><br>Thinking about things only brings distress and uncertainty, so it’s better to act upon impulses and follow your whims, as this character is wont to do when in danger.|
 |20|Lawful: You have a creed you live by, a code of honor you never stray from. Any violator of your precepts, no matter how close to you, is not above the code.<br><br>A memorable death is the only true sign of a life well lived, so this character seeks to plunge themselves into worthy danger in order to prove their value.|
+
+
+From [Blood and Bone - Arcana Games](https://preview.drivethrurpg.com/en/product/215028/blood-and-bone)
