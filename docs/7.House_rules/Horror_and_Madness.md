@@ -191,15 +191,15 @@ A player cannot choose to fail a save against any of the following spells.
 - Enthrall (PHB, pg. 238) — as  Charm Person for the duration of the spell
 - Geas (PHB, pg. 245) — as Charm Person for a single psychosis for the duration of the spell
 - Greater Restoration (PHB, pg. 246) — cure a long-term (or shorter duration) madness  
-• Heal (PHB, pg. 250) —  cure a long-term (or shorter duration) madness
-• Holy Aura (PHB, pg. 251) — advantage on all Horror checks; creatures that have failed a Horror check and are within the radius of the spell may repeat the check at the end of their turn, ending the transient/short-term madness on a success
-• Lesser Restoration (PHB, pg. 255) — allows the character to make an additional save to end the effects of a transient/short-term madness
-• Mass Heal (PHB, pg. 258) — as heal
-• Mass Suggestion (PHB, pg. 258) — as Charm Person for the duration of the spell
-• Mind Blank (PHB, pg. 259-260) — automatically succeeds all Fear, Despair, and Horror checks while the spell is active; the character is also affected as Charm Person for the duration of the spell
-• Modify Memory (PHB, pg. 261) — the target’s memories of a specific event causing psychoses that resulted from the original failed Horror check can be removed along with the Psychoses.
-• Suggestion (PHB, pg. 279) — as Charm Person for the duration of the spell
-• Wish (PHB, pg. 288-289) — can cure any single form of madness that a character is suffering from, up to and including indefinite madness
+- Heal (PHB, pg. 250) —  cure a long-term (or shorter duration) madness
+- Holy Aura (PHB, pg. 251) — advantage on all Horror checks; creatures that have failed a Horror check and are within the radius of the spell may repeat the check at the end of their turn, ending the transient/short-term madness on a success
+- Lesser Restoration (PHB, pg. 255) — allows the character to make an additional save to end the effects of a transient/short-term madness
+- Mass Heal (PHB, pg. 258) — as heal
+- Mass Suggestion (PHB, pg. 258) — as Charm Person for the duration of the spell.
+- Mind Blank (PHB, pg. 259-260) — automatically succeeds all Fear, Despair, and Horror checks while the spell is active; the character is also affected as Charm Person for the duration of the spell
+- Modify Memory (PHB, pg. 261) — the target’s memories of a specific event causing psychoses that resulted from the original failed Horror check can be removed along with the Psychoses.
+- Suggestion (PHB, pg. 279) — as Charm Person for the duration of the spell
+- Wish (PHB, pg. 288-289) — can cure any single form of madness that a character is suffering from, up to and including indefinite madness
 
 ## Class Updates
 
@@ -219,7 +219,7 @@ Think about it this way:
 
 ## Horror Checks
 
- Charisma Saveing Trow
+ Charisma Saving Throw
 
 ## Failed Horror Check
 
@@ -268,3 +268,5 @@ Spells: numerous spells are available to prevent, treat, and/or suppress madness
 ## Class-Specific Updates
 
 Paladins, Clerics, and Warlocks are all able to add their proficiency bonus to Fear, Despair, and Horror checks. Monks may end a transient or short-term madness using the Stillness of Mind feature. Stillness of Mind can also suppress a long-term or indefinite madness for one encounter. The Diamond Soul Monk feature allows the monk to add her proficiency bonus to Fear, Despair, and Horror checks.
+
+[adapted from Pyram King's Legends of Barovia, and Lampslight Sanitarium]
