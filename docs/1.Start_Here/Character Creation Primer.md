@@ -12,9 +12,6 @@ Should you choose to create a character entirely by rolling, it may be more fun 
 The following tables will help you discover your character's origins. First, you’ll start with your character’s hometown and family composition. Afterward, you’ll figure out a few of the more important relationships in their lives.
 
 ## Hometown
-
-
-
 ### Choose a Size for Your Town
 #### Metropolis
 A sprawling city with thousands, perhaps millions of inhabitants. People and goods from many different places around the globe make their way through a place like this. Despite being surrounded by people, it is easy to feel alone and lost here. Wealth and poverty live beside each other in stark juxtaposition. Infrastructure is vast and almost impossible for a single person to comprehend.
@@ -30,126 +27,6 @@ Home to at most a few dozen. Civic and familial bonds are blurred. Community obl
 
 #### Pack
 A small group. Even if not related by blood, members treat one another as family, with all the emotion, obligation, and loyalty that come with it. A pack can weave in and out of larger communities or shun civilization altogether.
-
-### Where Did You Call Home?
-For some characters this is a permanent room or residence. For others it is an abstract feeling about certain periods of safety and stability. Finding those truths for your character will help you understand how he or she approaches the concept of home on the road.
-
-  Where did you most often sleep? ________________________
-  What did you need to do to maintain it? ________________________
-  Did it protect you and what you cared for? ________________________
-  Do you long for it now? ________________________
-
-### Where Did People Socialize?
-There are places of merriment and relaxation everywhere. This exercise will examine one of particular importance to your character.
-
-  Choose two:
-  The hearth was always warm when the wind was cold.
-  The music moves your heart even in memory.
-  The owner was wise or at least gave advice as though he were.
-  The food was cooked with quiet pride.
-  It always seemed to hold a dazzling glow.
-  Being there faded the weight of obligation just enough.
-  You watched more than you took part.
-
-  But . . . (choose one)
-  You rarely left with a full belly.
-  Everything was watered down.
-  It drew the most dangerous thugs and criminals.
-  You were often present but never welcome.
-  The spell it cast wore off all too quickly.
-  You risked everything to be there.
-  You could never ignore where the money went.
-
-  What was it officially titled? ________________________
-  What did people call it? ________________________
-
-### What Did People Respect?
-Where people assign their respect shows us what they value. To get an idea of the values held by the people of your hometown, select everything you believe is true.
-
-  People respected . . .
-  Power
-  Authority
-  Cunning
-  Nature
-  Wealth
-  Ambition
-  The divine
-  One another
-  The law
-  Life
-  Love
-  Strength
-  Wisdom
-  Knowledge
-  Skill
-  Discovery
-  Justice
-
-  Are these values you hold today? ________________________
-  How do your personal values differ?
-
-### Who Was in Charge?
-Any collective is under the rule of some other force. Even those who reject rule by other creatures are subject to the will of law or nature. This exercise explores the relationship between your character and authority.
-
-  The force in charge of your hometown: (choose two)
-	Was a thing of power and majesty
-	Never spoke but was always heard
-	Ruled with wisdom
-	Demanded loyalty
-	Understood kindness
-	Worked diligently
-	Was controlled by another
-	Earned your hatred
-	Was the product of divine right
-
-  But . . . (choose one)
-	  It was worthy of respect.
-	  It killed without thought.
-	  It made many mistakes.
-	  It aged and died.
-	  It was eventually overthrown.
-	  It expected much from me.
-
-  What was the ruler’s name?
-  Based on this experience, when you picture a ruler, what does he, she, or they look like?
-  If given the chance to lead, whom would you emulate?
-
-### What Was Your Place?
-Perhaps the single thing that most dramatically colors your character’s perception of place of origin is her or his place in it. It is useless to know your character was a student, noble, or blacksmith if you do not understand how he or she feels about it. Finding this will solidify what your character is running away from and toward.
-
-  I was: (choose one)
-  Safe
-  Respected
-  Worshipped
-  Ignored
-  Hated
-  Feared
-  Mistreated
-
-  My duty was to: (choose one)
-  Learn
-  Grow
-  Protect
-  Provide
-  Serve
-  Die
-
-  Which I: (choose one)
-  Humbly accepted
-  Regretfully fulfilled
-  Actively resisted
-  Desperately ran from
-  Painfully failed
-  Continue to carry out
-
-  If you could return to this role, would you?
-  Not if the chains of hell dragged me back.
-  No, I am now unworthy.
-  No, I am too important.
-  I don’t know.
-  Yes, with great sorrow.
-  Yes, but this time would be different.
-  Yes, with great pride.
 
 Discovering your character’s hometown will help determine the foundation of their backstory. While the table below will provide a home or birthplace for your character, it is up to you to determine your character's relationship with that location. Was your character both born and raised in this location? Or were they born elsewhere, but have lived in this settlement the majority of their lives? Is your character well traveled or have they rarely left their hometown? The details are yours to develop.
 
@@ -442,9 +319,8 @@ Roll a d20 on the table below to discover your character's quirk.
 
 ###### Quirks Table
 
-|   |   |
-|---|---|
 |d20.|Quirk|
+|---|---|
 |1|Birds unnerve you. You feel as though any bird perched nearby is watching you.|
 |2|You have trouble sleeping with lights, such as lamps or candles, still illuminated. Any source of light will keep you awake unless extinguished or unless they are very faint, such as moonlight.|
 |3|Though you have no trouble sleeping on the ground or in uncomfortable situations, you take great joy in having a comfortable bed and a room to yourself.|

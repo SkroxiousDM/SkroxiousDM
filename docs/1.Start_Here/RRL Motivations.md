@@ -1,4 +1,4 @@
-# Motivations
+# RRL Motivations
 
 If you choose to use the ***Barovian Relics*** adventure hook for one or more players (see **Chapter 3: Running the Game**), have those players choose a core character motivation from the following table.
 
@@ -19,8 +19,6 @@ If you choose to use the ***Barovian Relics*** adventure hook for one or more pl
 
 
 Once a player has chosen their core motivation, use the relevant section below to aid that player in developing their character's history and goals.
-
-
 ##### Knowledge—The Amber Shard
 A player seeking **knowledge** begins the campaign with the *amber shard*, a small chunk of amber resin mounted on a chain-link cord. The shard is inset with complex, three-dimensional arcane runes. When viewed under the *detect magic* spell, it exudes a strong aura of abjuration magic.
 The player who possesses the *amber shard* should have strong, vivid reasons to want to unlock its secrets and the magic that it possesses.
