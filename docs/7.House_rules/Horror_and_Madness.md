@@ -179,46 +179,26 @@ During a high-stress situation, the PC may attempt to control themselves for the
 ## Getting Better: Treating Madness with Spells
 
 A player cannot choose to fail a save against any of the following spells.
-
-• Beacon of Hope (PHB, pg. 216) — the target(s) have advantage on Fear, Despair, and Horror checks
-
-• Bless (PHB, pg. 219) — bonus can be applied to Fear, Despair, and Horror checks
-
-• Calm Emotions (PHB, pg. 221) —  removes the following:
-
-† The frightened condition
-
-† Short-term madness caused by Horror
-
-† Long-term madness caused by Horror if the creature also takes a full rest
-
-† Despair if the creature also takes a Short Rest
-
-• Charm Person (PHB, pg. 221) — ends the effects of a transient/short-term madness or suppresses long-term/indefinite madness for the duration of the spell
-
-• Dominate Beast/Monster/Person (PHB, pg. 234-235) — as Charm Person for the duration of the spell
-
-• Enthrall (PHB, pg. 238) — as  Charm Person for the duration of the spell
-
-• Geas (PHB, pg. 245) — as Charm Person for a single psychosis for the duration of the spell
-
-• Greater Restoration (PHB, pg. 246) — cure a long-term (or shorter duration) madness  
+- Beacon of Hope (PHB, pg. 216) — the target(s) have advantage on Fear, Despair, and Horror checks
+- Bless (PHB, pg. 219) — bonus can be applied to Fear, Despair, and Horror checks
+- Calm Emotions (PHB, pg. 221) —  removes the following:
+	- The frightened condition
+	- Short-term madness caused by Horror
+	- Long-term madness caused by Horror if the creature also takes a full rest
+	- Despair if the creature also takes a Short Rest
+- Charm Person (PHB, pg. 221) — ends the effects of a transient/short-term madness or suppresses long-term/indefinite madness for the duration of the spell
+- Dominate Beast/Monster/Person (PHB, pg. 234-235) — as Charm Person for the duration of the spell
+- Enthrall (PHB, pg. 238) — as  Charm Person for the duration of the spell
+- Geas (PHB, pg. 245) — as Charm Person for a single psychosis for the duration of the spell
+- Greater Restoration (PHB, pg. 246) — cure a long-term (or shorter duration) madness  
 • Heal (PHB, pg. 250) —  cure a long-term (or shorter duration) madness
-
 • Holy Aura (PHB, pg. 251) — advantage on all Horror checks; creatures that have failed a Horror check and are within the radius of the spell may repeat the check at the end of their turn, ending the transient/short-term madness on a success
-
 • Lesser Restoration (PHB, pg. 255) — allows the character to make an additional save to end the effects of a transient/short-term madness
-
 • Mass Heal (PHB, pg. 258) — as heal
-
 • Mass Suggestion (PHB, pg. 258) — as Charm Person for the duration of the spell
-
 • Mind Blank (PHB, pg. 259-260) — automatically succeeds all Fear, Despair, and Horror checks while the spell is active; the character is also affected as Charm Person for the duration of the spell
-
 • Modify Memory (PHB, pg. 261) — the target’s memories of a specific event causing psychoses that resulted from the original failed Horror check can be removed along with the Psychoses.
-
 • Suggestion (PHB, pg. 279) — as Charm Person for the duration of the spell
-
 • Wish (PHB, pg. 288-289) — can cure any single form of madness that a character is suffering from, up to and including indefinite madness
 
 ## Class Updates
