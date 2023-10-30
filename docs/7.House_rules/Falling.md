@@ -1,16 +1,15 @@
-  
+# Falling  
 A Player Character falling from a height greater than 10 feet for any reason makes a Dexterity Save.  
+
 | 1d20 | Result |
 | --- | --- |
 | 1 – 10 | Falls. Suffers xd8 bludgeoning damage. x = 1 per 10 feet. Plus 1 wound level for each 10 feet beyond 10 feet. Eg 20ft fall would be 2d8 Bludgeoning damage and 1 wound|
 | 11 – 18 | Slips but manages to hang on but must roll on the Fall Conditions Table. Needs to be rescued.  |
 | 19+ | Close call and pulls themselves to safety.|
-
   
-  
-  
-FALL CONDITIONS  
+### FALL CONDITIONS  
 You slip and catch yourself. You are hanging on but suffer…  
+
 |1d20 | Results  |
 | --- | --- |
 |1 – 5 |1d4 bludgeoning damage  |

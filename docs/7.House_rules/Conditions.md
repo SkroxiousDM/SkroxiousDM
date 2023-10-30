@@ -2,7 +2,7 @@
 
 While you are Grappled, you experience the following effects:
 
--  Speed 0. Your Speed is 0 and can’t change.
+-  **Speed 0**. Your Speed is 0 and can’t change.
 - Attacks Affected. You have Disadvantage on Attack Rolls against any target other than the grappler.
 -  Movable. The grappler can drag or carry you, but the grappler suffers the Slowed Condition while moving, unless you are Tiny or two or more Sizes smaller than the grappler.
 -  Escape. While Grappled, you can make a Dexterity or Strength Saving Throw against the grapple’s escape DC at the end of each of your turns, ending the Condition on yourself on a success. The Condition also ends if the grappler is Incapacitated or if something moves you outside the grapple’s range without using your Speed
