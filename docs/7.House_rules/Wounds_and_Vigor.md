@@ -9,7 +9,6 @@ This represents the expenditure of stamina, luck and reflexes to avoid a lethal 
 ## Wounds
 
 ### Wound levels
-
 The ﬁrst time you fall to 0 vigor points, you become Wounded. There are six levels of wounds, and they work in a similar way to Exhaustion ( p291 PH ). Each time you are reduced to 0 vigor points, you gain one level of wounds. These wound levels represent signiﬁcant injuries, like an arrow in your arm, a serious cut, or a club cracking your skull. The more wound levels you have, the more penalties you suﬀer. Consult the chart below for the eﬀects of wound levels.
 
 #### WOUND LEVEL EFFECTS
@@ -24,7 +23,6 @@ The ﬁrst time you fall to 0 vigor points, you become Wounded. There are six le
 |6. Dead|Dead|
 
 The eﬀects of being Wounded stack, just like Exhaustion does. If you have 2 wound levels, you suﬀer disadvantage on physical Ability Checks and your speed is halved. The eﬀects of wound levels do not stack with exhaustion levels, however. A character with 2 wound levels and 2 exhaustion levels has their speed halved, not quartered.
-
   
 You gain a Wound level when:
 - you take damage that reduces your Vigor to 0
@@ -34,18 +32,14 @@ You gain a Wound level when:
 - you take damage during a surprise round. You can make a Dexterity or Constitution saving throw with a DC equal to 10 or half the damage, whichever is greater. If you fail the save, you take a wound level.
 
 ## Bleeding
-
 For each Wound level gained since the beginning of the combat, you lose 1 Vigor point as bleeding damage.  
 You can stop the bleeding during combat if you spend your action, use a charge from a healers kit, and make a Wisdom (Medicine) check at DC 10 + bleeding damage. When combat ends and heart rates slow, bleeding causes you to gain one Wound level every 10 minutes, without Injury roll.
 
 ## Nonlethal Damage to Wounds
-
 Nonlethal damage that results in gain of Wound level doesn't provoke an Injury roll. The same rule applies to bleeding damage lost outside of combat.
 
 ## Acting at 0 Vigor
-
 Continuing to ﬁght at 0 Vigor points is possible, but very dangerous. You can no longer count on stamina, luck, or reﬂexes to keep you from taking a fatal wound. When your Vigor reaches 0 you remain standing and conscious but you are reeling. You gain the Staggered condition:
-
 - Staggered characters can move or take an action, but not both.
 - Anytime you use your action while Staggered, make a DC 12 Constitution check. If you fail, you take one level of Soft Exhaustion.
 - You cannot take bonus actions or reactions.
