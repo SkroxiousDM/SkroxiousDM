@@ -14,9 +14,7 @@ roll fear checks in the following situations:
 The DC of the Wisdom saving throw for the examples above should be 10 plus the creature’s Challenge Rating.
 
 ## Despair
-
 A melancholic atmosphere pervades Barovia, and creatures who spend an extended amount of time there may succumb to it. Creatures who experience one of the following situations must make a Despair check:
-
 - Taking a long rest or short rest in an unsecured location
 - Waking from a long rest after suffering the loss of a fellow party member
 - Suffering a lingering injury
@@ -28,20 +26,16 @@ Creatures who face Despair must succeed a Wisdom saving throw or be affected by 
 After finishing a short rest, a creature can attempt to overcome Despair by making a Wisdom saving throw. On a successful save, the Despair effect ends for that creature. Calm emotions, lesser restoration, and greater restoration also remove Despair. Other spells or potions found in Barovia may also remove despair.
 
 #### Despair Table
-
-|   |   |
-|---|---|
 |1d6|Effect|
+|---|---|
 |1–3|Apathy.  The character has disadvantage on death saving throws and on Intelligence checks for initiative and gains the following flaw: “I don’t believe I can make a difference to anyone or anything.”|
 |4–5|Dread.  The character has disadvantage on all saving throws and gains the following flaw: “I am convinced that this place is going to kill me.”|
 |6|Insane.  The character has disadvantage on ability checks and saving throws that use Intelligence, Wisdom, or Charisma, and gains the following flaw: “I can’t tell what’s real anymore.”|
 
 ## Horror
-
 When a character learns, sees, or experiences something horrific, the DM may call for a Horror check. The affected  characters must roll a Charisma saving throw to resist. A  character who fails the save gains rolls on the madness table. Any madness that a character develops is transient unless otherwise noted. A roll of a natural 1 is considered a fumble and always fails and the madness will be 1 step higher. A specific encounter and/or named NPC/ creature can only incite a single Horror check.
 
 Horror does not imply a threat but rather a certain amount of revulsion, anguish, and repugnance. It could come from learning a terrible truth or witnessing an unfathomable scene that runs contrary to their beliefs or is altogether gruesome. Examples of when to roll a horror check include the following:
-
 - Seeing a mangled body
 - Seeing a creature devouring another human
 - Learning something horrific
