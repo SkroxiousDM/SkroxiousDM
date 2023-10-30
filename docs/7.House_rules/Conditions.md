@@ -98,7 +98,7 @@ If you have reached the maximum level of Soft Exhaustion and you take another le
 |6|You are Dying. You gain two wound levels. Any additional Exhaustion counts as two wound levels.|
 ## Dominance [New]
 When you have advantage on your attack rolls against your target and your target doesn't have the same benefit against you, or a hostile creature that attacks you has disadvantage to its attack rolls and you don't suffer the same penalty, this condition is called having Dominance. You also benefit from Dominance if your target is standing on difficult terrain while you are not, or you hold the higher ground position on steep terrain.
-Some Combat Options (pg. 18-21) and Melee Weapon Properties (pg. 35-37) require Dominance as prerequisite for their use during combat. Some combat options or abilities may also allow you to benefit from Dominance even if the conditions above are not met.
+Some [[Actions_in_Combat]] require Dominance as prerequisite for their use during combat. Some combat options or abilities may also allow you to benefit from Dominance even if the conditions above are not met.
 ## INCAPACITATED [CONDITION]
 While Incapacitated, you experience the following effects:
 - Inactive. You can’t take any action, Bonus Action, or Reaction.
