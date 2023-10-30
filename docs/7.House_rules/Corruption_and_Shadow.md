@@ -1,16 +1,14 @@
 IN THE Realm of Mists magic has a real and immediate price. Every creature has a shadow, an ethereal reflection of themselves. For most normal people, their shadow turns gray as their life, with its disappointments, turnings and sorrows, passes. But for those who wield magic or delve into the most dangerous places of sorrow and memory, the deadly darkness of true deep shadow awaits. The darkness can overcome you, driving you to madness and despair. But it is also the only path to power. What will you dare?
 
-SHADOW
+## SHADOW
 
 Each living creature possesses a Shadow, an aura around them that can be seen by those with the talent to perceive such things. In the world of Symbaroum, no one possesses a singularly bright-white Shadow, instead most folk have a shifting pattern of muted colors and grayness, representing a hard life full of sacrifices and suffering. Those who would brave the forest of Davokar or serve the Queen boldly might have brighter, more vibrant and more complex Shadows, but for those heroes who choose to fight against the evil nature of the world, gaining Corruption is inevitable. As Corruption increases, a Shadow becomes darker, more twisted and tainted.
 
 Natural beasts have green, red and white shadows or sometimes another bright primary color. Civilized creatures have gold, silver, copper or sometimes other metallic shades. Corrupted creatures have dark shadows: blight beasts or nearly-corrupt creatures are black and purple while less blight-stricken beings exhibit a slight change in their colors, like corroded copper, blackened silver, sickly green, red with streaks of rust or white with flakes of ashen gray.
 
-Marks of Corruption
-
-|   |   |
-|---|---|
+#### Marks of Corruption
 |1d20|MARK OF CORRUPTION|
+|---|---|
 |1-2|No mark, but you gain a point of permanent Corruption. Erase all current temporary Corruption.|
 |3|Thirst for warm blood, must drink warm blood every day or gain a level of exhaustion.|
 |4|Taste for cadavers, must feed on something rancid every day or gain a level of exhaustion.|
@@ -31,11 +29,11 @@ Marks of Corruption
 |19|Breath that stinks of sulfur. Disadvantage on social checks. Reduce temporary Corruption to half, rounding down.|
 |20|Eyes that glitter in the dark. Reduce temporary Corruption to half, rounding down.|
 
-Shadow and Alignment
+#### Shadow and Alignment
 
 The underlying theme of Ruins of Symbaroum is the struggle between nature and civilization, between creativity and discipline – and what happens when nature is cultivated (mainly by humanity); in this fantasy we imagine that nature lashes out in the form of Corruption, blightmarks, abominations and a darkening of the land. It is very much a matter of belief, action and feedback, but less about clear-cut good and evil. We do not think you need alignments to play in this world. You can of course use them, if you want to; it’s not incompatible, just not necessary for the world to make sense.
 
-CORRUPTION
+## CORRUPTION
 
 Power corrupts, and in Ruins of Symbaroum this is quite literally true. A fundamental principle is that when nature is cultivated or violated it grows dark and vengeful – and strikes back! The darkness that comes alive in this way feeds off and can continue to infect its surroundings. Since Mystics bend and warp nature according to their will, they are constantly threatened by Corruption. This principle is mirrored in the concept of Shadows and in creatures like abominations and the undead.
 
@@ -53,21 +51,18 @@ Example: Mira’s ogre mystic Grumpa has been casting several spells in a despe
 
 You only make a roll when you gain new Corruption and that new Corruption exceeds your Threshold. If you receive the same mark of Corruption twice then it can either intensify or your GM can choose another result for you.
 
-Corruption and Shadow
+### Corruption and Shadow
 
 As you gain Corruption, your Shadow changes. Temporary Corruption darkens the Shadow, muting any color that it once possessed.
 
 The category listing in the table below indicates how the theurgs of Prios would judge a person’s Shadow, based on their holy smoke ritual (see Holy Smoke ).
 
 Permanent Corruption affects it in the following ways:
-
-Corruption Categories
-
-|   |   |   |
-|---|---|---|
+##### Corruption Categories
 |PERMANENT CORRUPTION|CATEGORY|EFFECT|
+|---|---|---|
 |1 point or more|Blight-stricken|Visible to those who can see Shadows as black spots moving within the Shadow.|
 |At half your Threshold or higher|Blight-marked|Your Shadow is covered with darkness, causing great concern for those who can see it.|
 |Beyond your Threshold|Thoroughly Corrupt|Your Shadow becomes completely black and your character must become a NPC as you are overwhelmed by the burdens you bear.|
 
-From [Ruins of Symbaroum]
+From[Ruins of Symbaroum [5E] - The Promised Land - Free League Publishing](https://preview.drivethrurpg.com/en/product/317720/ruins-of-symbaroum-5e-the-promised-land)
