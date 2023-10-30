@@ -16,7 +16,8 @@ CANTRIPS
 
 |   |   |
 |---|---|
-|{Acid Splash}<br><br>{Chill Touch}<br><br>{Mage Hand}<br><br>{Mending}<br><br>{Message}<br><br>{Minor Illusion}|{Poison Spray}<br><br>{Prestidigitation}<br><br>{Ray of Frost}  <br>{Shocking Grasp}<br><br>{Witchfire}|
+|{Acid Splash}<br><br>{Chill Touch}<br><br>{Mage Hand}<br><br>{Mending}<br><br>{Message}<br><br>{Minor Illusion}|{Poison Spray}<br><br>{Prestidigitation}<br><br>{Ray of Frost}  <br>{Shocking Grasp}
+[[WITCHFIRE]]
 
 1ST LEVEL
 
@@ -54,7 +55,7 @@ CANTRIPS
 
 |   |   |
 |---|---|
-|{Accurate Strike}<br><br>{Acid Splash}<br><br>{Guidance}<br><br>{Mending}<br><br>{Ray of Frost}<br><br>{Resistance}|{Sacred Flame}<br><br>{Shocking Grasp}<br><br>{Spare the Dying}<br><br>{Thaumaturgy}<br><br>{Witchfire}|
+|[[ACCURATE STRIKE]]<br><br>{Acid Splash}<br><br>{Guidance}<br><br>{Mending}<br><br>{Ray of Frost}<br><br>{Resistance}|{Sacred Flame}<br><br>{Shocking Grasp}<br><br>{Spare the Dying}<br><br>{Thaumaturgy}<br>[[WITCHFIRE]]
 
 1ST LEVEL
 
