@@ -1,96 +1,62 @@
-# Grappled
-
-While you are Grappled, you experience the following effects:
-
+# Conditions
+## Grappled
 -  **Speed 0**. Your Speed is 0 and can’t change.
-- Attacks Affected. You have Disadvantage on Attack Rolls against any target other than the grappler.
--  Movable. The grappler can drag or carry you, but the grappler suffers the Slowed Condition while moving, unless you are Tiny or two or more Sizes smaller than the grappler.
--  Escape. While Grappled, you can make a Dexterity or Strength Saving Throw against the grapple’s escape DC at the end of each of your turns, ending the Condition on yourself on a success. The Condition also ends if the grappler is Incapacitated or if something moves you outside the grapple’s range without using your Speed
-
-In addition, the following new rules apply:
-
+- **Attacks Affected**. You have Disadvantage on Attack Rolls against any target other than the grappler.
+-  **Movable**. The grappler can drag or carry you, but the grappler suffers the Slowed Condition while moving, unless you are Tiny or two or more Sizes smaller than the grappler.
+-  **Escape**. While Grappled, you can make a Dexterity or Strength Saving Throw against the grapple’s escape DC at the end of each of your turns, ending the Condition on yourself on a success. The Condition also ends if the grappler is Incapacitated or if something moves you outside the grapple’s range without using your Speed
 - Attacks targeting the grappled creature are at disadvantage unless a Light or Natural weapon is used.
 - If you have a Strength of 13 or more, you can spend one of your attacks to make a Grapple check to restrain them. If you succeed, the creature is Restrained by you. If you fail, the Grapple is broken and the creature can use its reaction to make an opportunity attack against you.
 
-# Restrained
-
-A restrained creature’s speed becomes 0, and it can’t benefit from any bonus to its speed.
-
-Attack rolls against the creature have advantage, and the creature’s Attack rolls have disadvantage. The creature has disadvantage on Dexterity Saving Throws.
-
-In addition, the following new rules apply:
-
+## Restrained
+- A restrained creature’s speed becomes 0, and it can’t benefit from any bonus to its speed.
+- Attack rolls against the creature have advantage, and the creature’s Attack rolls have disadvantage. The creature has disadvantage on Dexterity Saving Throws.
 - If you have Strength of 13 or more, you can spend one of your attacks to make a Grapple check to pin them down. If you succeed the creature is Pinned by you. If you fail, the Grapple is broken and the creature can use its reaction to make an opportunity attack against you.
 
-# Pinned [New]
-
+## Pinned [New]
 Pinned creatures are usually pressed against a hard surface, their limbs held in a lock and struggling under body weight.
-
 You can pin down creatures of the same size or smaller than you. Creatures larger than you cannot be pinned.
-
 - A pinned creature is unable to perform any actions other than an opposed Grapple check to break the grapple, or cast spells and cantrips with verbal components only.
 - A pinned creature does not benefit from Dexterity or Shield bonuses to AC, fails all Dexterity-based checks and saving throws, and Coup de Grace against it has disadvantage.
 - At the start of your turn, you must spend one of your attacks to maintain the pin down. If you fail to maintain the grapple, the creature is no longer pinned by you.
 - During your turn and as long as you have used one of your attack to maintain the pin down, you can attempt a Disarm action as a bonus action.
 - A creature remains Pinned and Restrained by you as long as it is also grappled and restrained by you. If the grapple breaks, it is no longer Pinned and Restrained by you.
 
-# Shaken [New]
-
+## Shaken [New]
 A shaken creature is dealing with the initial shock from a horrifying sight or a powerful enemy attack. Unless stated otherwise, the effect ends on the end of your next turn.
-
 - A shaken creature has disadvantage on its first Attack roll or Ability Check on its turn.
 - If a shaken creature is subjected to an effect that causes it to become Shaken again, it becomes Frightened.
 
-# Frightened
-
+## Frightened
 A frightened creature has disadvantage on Ability Checks and Attack rolls while the source of its fear is within sight.
-
 The creature can’t willingly approach the source of its fear.
-
 In addition, the following new rules apply:
-
 - If a frightened creature is subjected to an effect that causes it to become frightened again, the creature must make a Wisdom saving throw at Save DC of the source. If it fails, it becomes Panicked.
 
-# Panicked [New]
-
+## Panicked [New]
 An unspeakable dread can break the will of weaker creatures and send them running for their lives.
-
 - A panicked creature remains panicked as long as it is frightened. If it is no longer frightened, it stops panicking.
 - A panicked creature must Disengage or Dash with all its movement speed from the source of its fear, as well as any other dangers it encounters, along a random path. The creature uses the Dodge action anytime it can, and will attack or interact with obstacles, use special abilities including spells as a means of escape. If cornered, a panicked creature cowers and does not attack.
 - At the start of its turn, a panicking creature can attempt a Wisdom saving throw at Save DC of the source of the fear. If it succeeds, it is no longer panicked. It may continue to feign panicking to surprise any pursuers.
-
-# Nauseated [New]
-
+## Nauseated [New]
 Nauseated is a lesser variant of the Poisoned condition. It can be caused by consumption of spoiled food or exposure to toxic conditions without direct contact with poisons. Unless stated otherwise, the effect persists while exposed to its source.
-
 - A nauseated creatures has disadvantage on its first Attack roll or Ability Check on its turn.
 - If a nauseated creature is subjected to an effect that causes it to become Nauseated again, it becomes Poisoned.
 - A nauseated creature can spend its action to wretch to remove the Nauseated condition.
-
-# Poisoned
-
+## Poisoned
 A poisoned creature has disadvantage on Attack rolls and Ability Checks.
-
 In addition, the following new rules apply:
-
 - When a poisoned creature takes poison damage equal to or more than its Constitution modifier (minimum of one), its hit point maximum is reduced by 1d6.
 - While poisoned, if a creature's hit point maximum is reduced below half than normal it suffers one level of Exhaustion that cannot be removed. This exhaustion persists even if the creature is no longer Poisoned, as long as its Vigor point maximum is  reduced below half.
 - Creature's Vigor point maximum recover at the end of a long rest, as long as it is no longer Poisoned during the rest. Healing using Recovery dice or magical means also recovers the same amount to their Vigor point maximum lost this way.
-
-# Blinded
-
+## Blinded
 You can't see.
-
 - You automatically fail ability checks that require sight.
 - Attack rolls against you have advantage if your opponent can see you.
 - Your attack rolls have disadvantage.
 - You can't cast spells or use effects that require you to see the target.
 - You can't actively target creatures that have hidden from you (such as with a Hide action).
-
 In addition, the following new rules apply:
-
 - Your speed is halved.
-
 # Partially Blinded [New]
 
 - You have disadvantage on Wisdom (Perception) checks that rely on sight.
