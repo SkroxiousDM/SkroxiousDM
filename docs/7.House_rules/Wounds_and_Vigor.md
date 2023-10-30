@@ -3,6 +3,7 @@ Wounds and Vigor are variant to hit points made popular in previous editions of 
 ## Vigor
 
 Your stamina and ability to evade enemy attacks is your Vigor points. It's equal to your hit points. Anytime you take damage, subtract that amount from Vigor.  
+This represents the expenditure of stamina, luck and reflexes to avoid a lethal blow
 #### Vigor = Hit Points
 
 ## Wounds
@@ -26,7 +27,7 @@ The eﬀects of being Wounded stack, just like Exhaustion does. If you have 2 wo
 
   
 You gain a Wound level when:
-
+- you take damage that reduces your Vigor to 0
 - you take damage and your current Vigor is 0.
 - you take damage from a critical hit. Even if your Vigor is more than 0.
 - you take damage while unconscious, stunned, paralyzed, incapacitated, or you take falling damage.
