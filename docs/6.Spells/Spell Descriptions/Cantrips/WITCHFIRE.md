@@ -1,0 +1,14 @@
+WITCHFIRE
+Evocation cantrip  (ritual)
+Casting Time: 1 action
+Range: Self.
+Components: V, S
+Duration: 1 hour
+
+This spell creates a small magical flame or light within 5 feet of the caster. This light or flame is the equal in intensity of a torch, providing bright light in a 20-foot radius and dim light for an additional 20 feet,  though a caster may will keep at a lower intensity if they wish.
+
+The light can be colored as you like. The flame version used to give light, light candles, torches and other easily ignited substances or to entertain others. The witchfire can move as the caster directs but cannot move farther than 5 feet from the caster at any time. The light version of this spell can be used underwater, but not the fire.
+
+You can also attack with the flame, although doing so ends the spell. When you cast this spell, or as an action on a later turn, you can hurl the flame at a creature within 30 feet of you. Make a ranged spell attack against the target. On a hit, the target takes 1d10 fire damage. A flammable object hit by this spell ignites if it isn't being worn or carried.
+
+This spell's damage increases by 1d10 when you reach 3rd level (2d10), 6th level (3d10), and 9th level (4d10).
