@@ -13,15 +13,14 @@ The ﬁrst time you fall to 0 vigor points, you become Wounded. There are six le
 
 #### WOUND LEVEL EFFECTS
 
-|   |   |
-|---|---|
 |Level|Effect|
+|---|---|
 |1. Lightly wounded|Disadvantage on ability checks|
-|1. Moderately wounded|Speed halved|
-|1. Bloodied|Disadvantage on attack rolls and saving throws|
-|1. Brutally wounded|Vitality point maximum halved|
-|1. Broken|Speed reduced to 0|
-|1. Dead|Dead|
+|2. Moderately wounded|Speed halved|
+|3. Bloodied|Disadvantage on attack rolls and saving throws|
+|4. Brutally wounded|Vitality point maximum halved|
+|5. Broken|Speed reduced to 0|
+|6. Dead|Dead|
 
 The eﬀects of being Wounded stack, just like Exhaustion does. If you have 2 wound levels, you suﬀer disadvantage on physical Ability Checks and your speed is halved. The eﬀects of wound levels do not stack with exhaustion levels, however. A character with 2 wound levels and 2 exhaustion levels has their speed halved, not quartered.
 
