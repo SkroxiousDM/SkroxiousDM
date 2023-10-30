@@ -269,4 +269,5 @@ Spells: numerous spells are available to prevent, treat, and/or suppress madness
 
 Paladins, Clerics, and Warlocks are all able to add their proficiency bonus to Fear, Despair, and Horror checks. Monks may end a transient or short-term madness using the Stillness of Mind feature. Stillness of Mind can also suppress a long-term or indefinite madness for one encounter. The Diamond Soul Monk feature allows the monk to add her proficiency bonus to Fear, Despair, and Horror checks.
 
-[adapted from Pyram King's Legends of Barovia, and Lampslight Sanitarium]
+adapted from [Pyram King's Legends of Barovia] and
+[Lamp's Light Sanitarium: A horror campaign for 5e - Saturday Morning Scenarios | DriveThruRPG](https://preview.drivethrurpg.com/en/product/273816/Lamps-Light-Sanitarium-A-horror-campaign-for-5e)
