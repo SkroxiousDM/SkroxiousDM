@@ -76,82 +76,48 @@ This is a liquid elixir made from drone spores, also containing accelerants. A l
 #### Elemental Essence.
 If you apply a dose of elemental essence then either one melee weapon, four throwing weapons or all the arrows/bolts in a quiver deal an additional 1d4 elemental damage for 1 minute. The alchemist must choose which element to prepare: fire, cold, acid or lightning.
 #### Elixir of Life.
-Consuming an Elixir of Life gives the drinker regenerative powers that heal 1d6 hit points during 1d6 turns, at the start of the character’s turn. Sadly the character also suffers 1 temporary Corruption for each turn the elixir is in effect.
+Consuming an Elixir of Life gives the drinker regenerative powers. You regain 1 recovery die when you drink this potion. Sadly the character also suffers 1 temporary Corruption
 #### Eye Drops
 These drops will immediately return the gift of sight to a temporarily blinded creature.
 #### Fire Dye.
 Fire dye consists of salts that change the color of any fire they are cast into. If the colors are ascribed a specific meaning known to the user and an allied observer it can be used for signaling over long distances. They are also used for entertainment among the wealthy, and by charlatans to impress commoners.
 ### Flash Powder.
 A finely grained powder that emits a blinding light when thrown (range 30/90). Creatures within 5 feet of the effect must make a DC 15 Constitution saving throw or become blinded until the end of their next turn.
-
 #### Ghost Candle.
-
 The fumes from this candle make visible all invisible objects and creatures within a 30-foot radius..
-
 #### Herbal Cure.
-
 An herbal cure consists of an alchemical poultice coupled with bandages. It smells vile but heals 1d4 hit points. A user must take a short or longer rest between doses.
-
 #### Holy Water.
-
 This water, instilled with the light of Prios, can heal wounds and sooth souls. It heals 2d4 + 2 hit points and reduces temporary Corruption by 1 point.
-
 #### Homing Arrow.
-
 The alchemist marinates an arrow in homing essences, thereby creating an arrow that flies past other combatants, i.e. it does not require a clear line of sight and ignores cover effects. However, the archer must be able to see some portion of the target and must succeed at a regular attack roll to successfully hit it.
-
 #### Homunculus.
-
 A seed is planted and one day later a miniature servant sprouts from the ground. The homunculus is Tiny, has no skills or features and all of its ability scores are 10 (+0). It serves its maker loyally then withers away after a month; all it leaves behind is a pile of dirt. Creating a homunculus is a true violation of the natural order, meaning that the one using the seed suffers 1d6 temporary Corruption.
-
 #### Poison.
-
 The DC for the poison is dependent on the type of effect selected. For example, a weak poison at its base either causes the Poisoned condition for 1 round or 1d6 of poison damage. Choose one effect and raise the DC for the manufacture of the poison based on the total effect. The save against the poison itself is the base DC before any modifiers.
-
 ##### Poison Candle.
-
 A candle that emits poisonous fumes for 1 hour when lit; The poison is airborne and affects everyone within a 30-foot radius. The candle must burn for 1d4 turns before the poison is released, so the assassin can light it and leave the room before it takes effect. In all other ways it is the same as a regular poison, above.
-
 #### Protective Oil.
-
 This alchemical oil protects against elemental damage by providing resistance to damage from one of the elements for the duration of a scene. The alchemist must choose which of the elements that the oil shields against: fire, cold, acid or lightning.
-
 #### Purple Sap.
-
 This elixir is made from a decoction of a purple Lily of the Valley, a flower whose cleansing properties and resistance to Corruption were discovered by the witches of Davokar long ago. Purchasing the elixir is expensive, because the ingredient is so rare and few alchemists are skilled enough to brew it. The elixir has no effect on permanent Corruption or on blight-­marks which have already appeared on the user.
-
 - Weak: This potion removes 1 temporary Corruption from the soul.
 - Moderate: The elixir immediately removes 1d4 temporary Corruption.
 - Strong: This version removes 1d8 temporary Corruption.
-
 #### Revealing Light.
-
 A wax candle that when lit makes living creatures (not undead or abominations) glow softly in the dark, making it harder to stay hidden (disadvantage on Dexterity (Stealth) checks and advantage on Wisdom (Perception checks) for everyone. This affects everyone within a 30-foot radius, including the one who lit the candle.
-
 #### Shadow Tint.
-
 This horribly sickening elixir was once used by mystics wanting to hide just how close they were to becoming thoroughly corrupt, making it a welcomed addition to all sorcerers’ collections of mystical decoctions. Whoever manages to force down the sludge distorts their shadow for 24 hours, making it appear as if their Corruption total is 2d4 points lower.
-
 #### Smoke Bomb.
-
 The smoke bomb is a ceramic vessel that emits dense alchemical smoke when crushed, causing a sphere with a 15-foot radius to become highly obscured.
-
 #### Spirit Friend.
-
 The miraculous drug called Spirit Friend is cooked in a cauldron, but it is not the liquid that is bottled, but the vapors. The gray-­white smoke is captured in small ceramic jars and inhaled when needed. Spirit Friend shifts the user into the ethereal for 1d4 turns, to the price of as many points in temporary Corruption.
-
 #### Spore Bomb.
-
 The spore bomb can be thrown up to 30 feet and affects all creatures within a 10-foot radius, requiring them to make a DC 15 Constitution saving throw. On a failure the creature has disadvantage on Constitution saving throws for 1d4 + 1 rounds.
-
 #### Stun Bolt.
-
 The alchemist covers a crossbow bolt in a fast acting muscle relaxant; anyone hit by the bolt must pass a DC 13 Constitution saving throw or become stunned and prone. The victim can repeat the saving throw at the end of its turn, ending the stunned effect on a success.
-
 #### Thorn Beasties.
-
 A handful of seeds are thrown to the ground and one turn later 1d4 + 1 thorn beasties appear to serve the user. The thorn beasties are small, vaguely humanoid creatures made of thorns; they do not speak but squeak and crack as twigs that are bent and rubbed together. The beasties live for one hour before drying up to look like thorny witch dolls. The summoning of the thorn beasties is a clear violation of the natural order, meaning that the one using the seeds suffers 1d6 + 1 temporary Corruption.
-
 |   |   |   |   |   |   |
 |---|---|---|---|---|---|
 |Thorn Beasty||||||
@@ -164,71 +130,47 @@ A handful of seeds are thrown to the ground and one turn later 1d4 + 1 thorn bea
 |ACTIONS<br><br>Sharp Talons. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 1 slashing damage.||||||
 
 #### Thunder Ball.
-
 An alchemical load that is thrown (range 30/90) at a target and detonates in a 5-foot radius with a sudden, loud flash, causing 1d12 thunder damage.
-
 #### Transforming Draught.
-
 This is a powerful mutagen which transforms the body of the user in a monstrous way. During a scene the user is twisted into a half-bestiaal creature and has disadvantage on all Charisma checks until the effect wears off.
-
 The draught gives the user a monstrous trait for the rest of the scene; the level of the trait is decided by the strength of the elixir. In addition, each dose consumed deals temporary Corruption, also determined by the strength of the elixir. Of course, the physical transformation and the corrupting effect is reason enough for the elixir to be banned and only available on Ambria’s black market.
-
 The following monstrous traits (see Bestial in the Bestiary) can be acquired, decided by the alchemist when brewing the elixir:
-
 - Weak: The elixir gives either Aggressive or Awareness, at the cost of 1d4 temporary Corruption.
 - Moderate: The elixir gives either Bite, Claws, or Leathery Skin, at the cost of 1d6 temporary Corruption.
 - Strong: The elixir gives either Blood Frenzy, Enlarge, Reduce, or Wings, at the cost of 1d8 temporary Corruption.
-
 #### Twilight Tincture.
-
 This is an extract of dried stems and leaves from the extremely rare Twilight Thistle. Up until recently the rareness of the herb (on occasion, one or a couple of stems can be found among other offerings in the ruins of Davokar, rather than an actual growing site) coupled with its moderate medical effect made it not very sought-­after; it seems to have an effect on certain types of eczema and possibly also on senility if consumed.
-
 However, with the aging of the queen mother has come an increased demand from the court. Of course, the tale of how Lasifor Nightpitch bought the land on which Thistle Hold is built for an armful of Twilight Thistles gave the herb a hefty boost in popularity among fortune hunters.
-
 Lately, the twilight tincture has found another group of users, and a new area of use: it has proven capable of disguising a number of symptoms gained from being undead. Desperate unfortunates – some of them alchemists – searched for ways to hide their death marks, and someone discovered that the twilight tincture (consumed, not smeared on the skin) temporarily made an undead body come to life: the skin regained its redness, the body temperature rose, and the smell of the breath improved dramatically.
-
 The effect lasts for a week and then the undead creature must make a DC 15 Constitution saving throw. If the save fails, the effect lingers for one more day before dissipating completely. On thoroughly corrupt creatures the effect only lasts for a day per dose, no saving throw is made.
-
 #### War Paint.
-
 Mystically charged paints can help a warrior in combat. War paint adds +1 to either your Strength modifier or Dexterity modifier for the next 10 minutes, and the warrior decides which attribute to boost when the paint is applied.
-
 #### Waybread.
-
 One loaf of this rich waybread corresponds to a week’s food supply for one person.
-
 #### Wild Chew.
-
 This is a strong stimulant, making the chewer more spirited, less careful and very aggressive. One dose of wild chew adds Reckless. The creature has advantage on its attacks and attackers have advantage on their attacks against the creature. The effect lasts one hour, after which the creature gains a level of exhaustion. Over time wild chew becomes very addictive and severe withdrawal symptoms will occur unless the user consumes at least one dose each week, with the risk of permanent madness or death. No known drugs can counteract this.
-
 #### Wraith Dust.
-
 Wraith dust forces an incorporeal being to take physical form for the next 10 minutes. The dust must be thrown (range 5/15) at a target. While corporeal the spirit takes damage as living creatures do (it loses any resistances or immunities during this time).
 
 # Apothecary
-
 Many herbs and plants can be found in the wilds. Each herb has a specific DC to find growing wild, through use of Survival or Apothecary. Some herbs only grow in specific environments, while others are pervasive and found in most areas of Ossura. Many common herbs are also available for sale by traders or in market places. Each herb also has a specific CR to brew into an oil or elixir. Both a failed and a successful Apothecary Skill Check to brew herbs consumes them.
 
 ### Augur’s Fire
 Found: Distilled from Mercish Oil
 To Brew: Alchemist Kit (DC22)
 This thick, volatile, golden oil is extraordinarily dangerous to create and use. Even master alchemists will decline wealthy clients who seek to pay a fortune to have it made. Sometimes called alchemist’s gold, this oil burns with a white-amber heat. Only the Augurs have perfected the art of producing the oil, and the Tower of Eyes closely guards this secret.
-
 A failed check to create the oil results in an explosion, inflicting a major wound on the brewer and all adjacent characters. On a roll of 1 on the d20 to brew the oil, this effect occurs twice. The oil is stored in clay spheres or other impermeable vessels. A character can light and throw such a vessel. If the Attack roll Critically Fails, it explodes in their hand, engulfing them and all adjacent characters in flame. If successfully thrown, it engulfs a small area in flame. Character that are engulfed in flame take one wound each round.
 
 ### Black Nightshade
 Found: Pervasive - DC 17
 Black Nightshade is a flower with a black bell. It grows in dark forests, caves, sewers, and other damp places with little light. It is used as a medicine and a poison. Its seeds are often brewed into beer as a way to increase its intoxicating effects. It impairs vision and causes deep dreamless sleep, but too much of it is poison.
-
 Consuming the seeds or essence of Black Nightshade prompts a Constitution Save. If the dose is small, meant to induce sleep, the DC is 11 . A successful Check results in blurred and darkened vision. A failure results in deep sleep, lasting (10 - Con Modifier) hours.
-
 If the dose is large, meant to kill, the Constitution Save is DC 16. If passed, the Character falls into a deep sleep and awakens with a Wound. If failed, they fall into a deep sleep and must make a Constitution Save (DC 16) each hour they are asleep or take a Wound. The drug induced slumber lasts (10 - Con Modifier) hours.
 
 ### Blue Lotus
 Found: Banks of River - DC 10
 To Brew: Alchemist Kit (DC 10)
 Blue Lotus is grown along the banks of the Grey River and the foothills that are its wellspring. Referred to as sapphire-bliss, the Blue Lotus causes a state of relaxed inhibitions in which users are more talkative, comfortable, and aroused. Known to induce lassitude and blissful sleep, it is harvested seasonally and sold for recreational use in Mercos. It is especially popular among nobles and high-end pleasure houses. The most common method of consumption is to brew the flowers into a tea or steep them in alcohol for up to three weeks, as the alcohol enhances the effects of the active chemicals.
-
 Those affected by Blue Lotus have Disadvantage to contest all Charisma Checks and Saves until they complete a Rest.
 
 ### Chokeweed
@@ -240,7 +182,6 @@ Eating the herb imposes Disadvantage on all Perception Checks made against you b
 Found: Pervasive - DC 16
 To Brew: Alchemist Kit (DC 14)
 An ash grey mold that grows best on land scorched by fire, Corpse Dust is used by thieves and assassins in powder packets to blind and disorient their foes.
-
 Each packet creates a 5ft radius cloud of dust that hangs in the air for a round. The dust provides Total Concealment to characters inside or on the far side of the cloud.
 
 ### Copperbell
