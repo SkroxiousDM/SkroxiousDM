@@ -14,83 +14,6 @@ Spells with an asterisk (*) cannot be favored.
 
 
 1st Level Spells
-
-
-
-
-
-
-
-
-
-
-
-
-
-DETECT EVIL AND GOOD
-
-1st-­level divination
-
-Casting Time: 1 action
-
-Range: Self
-
-Components: V, S
-
-Duration: Concentration, up to 10 minutes
-
-For the duration, you know if there is an aberration, blight-­born, celestial, elemental, fey, fiend, or undead within 30 feet of you, as well as where the creature is located. Similarly, you know if there is a place or object within 30 feet of you that has been magically consecrated or desecrated.
-
-The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
-
-FALSE LIFE*
-
-1st-­level necromancy
-
-Casting Time: 1 action
-
-Range: Self
-
-Components: V, S, M (a small amount of alcohol or distilled spirits)
-
-Duration: 1 Hour
-
-Bolstering yourself with a necromantic facsimile of life, you gain 1d4 + 4 temporary hit points for the spell’s duration.
-
-At Higher Levels. When you cast this spell at 2nd level or higher, you gain 5 additional temporary hit points for each level above 1st.
-
-FOG CLOUD
-
-1st-­level conjuration
-
-Casting Time: 1 action
-
-Range: 120 feet
-
-Components: V, S
-
-Duration: Concentration, up to 1 hour
-
-You create a 20-foot-­radius sphere of fog centered on a point within range. The sphere spreads around corners, and its area is heavily obscured. It lasts for the duration or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it.
-
-At Higher Levels. When you cast this spell at 2nd level or higher, the radius of the fog increases by 20 feet for each level above 1st.
-
-GUIDING BOLT
-
-1st-­level evocation
-
-Casting Time: 1 action
-
-Range: 120 feet
-
-Components: V, S
-
-Duration: 1 round
-
-A flash of light streaks toward a creature of your choice within range. Make a ranged spell attack against the target. On a hit, the target takes 4d6 radiant damage, and the next attack roll made against this target before the end of your next turn has advantage, thanks to the mystical light glittering on the target until then.
-
-At Higher Levels. When you cast this spell at 2nd level or higher, the damage increases by 1d6 for each level above 1st.
-
 HEALING WORD*
 
 1st-­level evocation
@@ -1795,7 +1718,7 @@ In combat, the spirit becomes a glowing figure with a flail made out of light an
 |STR|DEX|CON|INT|WIS|CHA|
 |18 (+4)|18 (+4)|18 (+4)|17 (+3)|20 (+5)|20 (+5)|
 |Saving Throws Wis +9, Cha +9<br><br>Skills Insight +9, Perception +9<br><br>Condition Immunities charmed, exhaustion, frightened<br><br>Damage Immunities fire, poison, psychic<br><br>Damage Resistances radiant; bludgeoning, piercing, and slashing from nonmagical attacks<br><br>Senses darkvision 120 ft., passive Perception 19<br><br>Languages telepathy with its summoner<br><br>Challenge 9 (5,000 XP, proficiency bonus +4)<br><br>Manner proud and helpful<br><br>Shadow gleaming gold<br><br>Corruption: 0/13<br><br>Equipment none||||||
-|Divine Weapons. The patron saint’s weapon attacks are magical. When it hits with any weapon, the weapon does an extra 3d8 radiant damage (included below).<br><br>Innate Spellcasting. The patron saint’s spellcasting ability is Charisma (spell save DC 17). It can innately cast the following spells, requiring no components:<br><br>    At will: detect evil and good 3/day each: cure wounds (at 3rd level)<br><br>Magic Resistance. The patron saint has advantage on saving throws against spells and other magical effects.||||||
+|Divine Weapons. The patron saint’s weapon attacks are magical. When it hits with any weapon, the weapon does an extra 3d8 radiant damage (included below).<br><br>Innate Spellcasting. The patron saint’s spellcasting ability is Charisma (spell save DC 17). It can innately cast the following spells, requiring no components:<br><br>    At will: [[detect evil and good]] 3/day each: cure wounds (at 3rd level)<br><br>Magic Resistance. The patron saint has advantage on saving throws against spells and other magical effects.||||||
 |ACTIONS<br><br>Multiattack. The patron saint makes two melee attacks.<br><br>Flail. Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) bludgeoning damage plus 13 (3d8) radiant damage. On a critical hit, the target is knocked prone as well.||||||
 
 SOUL STONE
