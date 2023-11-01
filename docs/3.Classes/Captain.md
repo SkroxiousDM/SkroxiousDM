@@ -142,67 +142,51 @@ At 9th level, your commitment in battle is unparalleled. If you are reduced to 0
 Not every captain fights on behalf of their higher-­ups. An Outlaw has broken free from their society and now disobeys its laws. Human Outlaws, either from the barbarians or Ambrians, are often concerned with those their society has left behind. Others, like elves or dwarves may have strained at their limitations and decided on plotting their own way forward. Outlaws focus on stealth and ranged weaponry to even the odds and remain free.
 
 ### Hard to Find
-
 You tend to avoid people, especially those associated with authority. Gain proficiency in your choice of Deception, Stealth or Survival.
 
 ### Secret Signs
-
 You have taught some of your companions (a number equal to your proficiency bonus) how to communicate by using subtle gestures and movements of the body. This secret language invented by you can only communicate basic concepts but during your turn you can use your bonus action to discreetly signal one of your companions.
 
 ### Fleet-­footed
-
 At 2nd level you become very light on your feet and are accustomed to running very quickly. Your base speed increases by 10 feet.
 
 ### Eagle’s Eye
-
 At 3rd level, you can use your reaction to give yourself or a friendly creature within 30 feet of you advantage on a ranged weapon attack, as long as they can see and hear you.
 
 ### Natural Leader of the Common Folk
-
 Also at 3rd level, you have advantage on any Charisma checks as long as half or more of the people who can hear you are non-­noble members of your origin.
 
 ### Archery Expert
-
 At 5th level, you can use your bonus action to make a ranged weapon attack.
 
 ### Secret Folk
-
 At 7th level you become an expert at hiding. If you are within 30 feet of an ally, each ally gains a bonus to their Dexterity (Stealth) check equal to twice your proficiency bonus.
 
 ### Superior Marksman
-
 At 9th level, you can shoot other missiles out of the air. When targeted by a ranged weapon attack you may use your reaction to make a ranged weapon attack roll, using the opponent’s attack roll result as your target number. On a success, the opponent’s attack fails.
 
 ## Poet-warrior
-
-THUS SPOKE AROALETA
-
-“… and the search goes on forever, for the hidden Ambal Seba, where the truth is spelled in gold, where the keys to the primal power are etched in circles, round and round the thirteen pillars. See, the mists will never fade. Not even Fofar the Destroyer can dispel the veil over a valley that does not exist.”
+	THUS SPOKE AROALETA
+	“… and the search goes on forever, for the hidden Ambal Seba, where the truth is spelled in gold, where the keys to the primal power are etched in circles, round and round the thirteen pillars. See, the mists will never fade. Not even Fofar the Destroyer can dispel the veil over a valley that does not exist.”
 
 You became a captain not because you love war, or hate oppression, or even wish to profit from your own safety. But instead you are a true philosopher of war, one that observes and then acts with efficiency for its own sake. Your weapon becomes like your pen, a teacher in deeds, not words. And those that survive your lessons would do well to think on them.
 
 ### Reflection
-
 When you take a short rest, you can meditate on an enemy that you have fought before. This could be an individual or a specific type of foe. You have advantage on attack rolls against that enemy until you miss, after which the effect ends.
 
 ### Withering Words
-
 At 2nd level, you may use either your bonus action or your reaction when a creature that can hear and understand you takes damage. You sap their confidence using choice phrases, observations and reflections on their character. The creature takes an additional 1d6 psychic damage and has disadvantage on its next attack roll.
 
 Once you use this feature you cannot use it again until your next turn.
 
 ### Quiet Fortitude
-
 When you reach 3rd level, you have extraordinary sensitivity to what drives people. When you roll initiative, choose a number of allies equal to your proficiency bonus that can hear and understand you. They are considered proficient with all saving throws for the next minute as your quiet words help steel their resolve. You must take a long or extended rest before using this feature again.
 
 ### Song of the Blade
-
 At 5th level, choose a melee weapon that you are proficient in. When wielding that weapon, you can use your bonus action to make an additional single attack roll with that weapon.
 
 ### Subtle Words
-
 At 7th level, when you use your Bid to Action feature, the ally has advantage on their first ability check or attack roll they make on their turn.
 
 ### Dancing Blade
-
 At 9th level, you can combine your skill with words and weapons to inspire fear in your enemies. On your first turn of a combat, choose a creature. If you succeed at a Charisma (Intimidation) check they become frightened of you until the combat ends. The DC is 10 or their challenge rating, whichever is higher.
