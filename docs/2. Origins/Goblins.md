@@ -6,31 +6,31 @@ The only reason why goblins are tolerated in Thistle Hold is that they are pract
 
 Some goblins stray from this pattern, mainly treasure-­hunters and goblins employed in the households of wealthy individuals in Thistle Hold. A dozen or so goblin younglings can also be found in the convent school in the capital city, where a handful of extremely patient monks have committed themselves to saving whatever soul resides inside the wild whelps. The most renowned goblin to represent both of these phenomena is Garm Wormwriggler, brought up at the convent school to later become a successful treasure-­hunter.
 
-GOBLIN TRAITS
+## GOBLIN TRAITS
 
 All goblins encountered share a set of inborn tendencies and features.
 
-- Ability Score Increase. Your Dexterity score increases by 2. Increase any other ability score by 1.
-- Age. Goblins are adults at 10 and few remain in human lands past their 30th year.
-- Size. All goblins are under four feet in height and average around 50 pounds. Your size is Small
-- Speed. Goblins scurry underfoot of the bigger peoples but their strides cannot match them distance for distance. You have a base speed of 20 feet.
-- Darkvision. Accustomed to the gloom of Davokar and underground mines, you have superior vision in dark and dim conditions. You can see in dim light as if it were normal light. In complete darkness, you rely on your other senses to give you blindsight within 10 feet. You never receive disadvantage on Wisdom (Perception) checks due to darkness.
-- Pariahs. Goblins are poorly treated in society and have disadvantage on Charisma checks with other peoples. However, the insular tendency of Goblin society provides advantage on Charisma checks when interacting with another goblin.
-- Survival Instinct. While goblins are a loud and fractious people, they have a powerful will to survive. You can take either the Dash, Dodge or Disengage actions using your bonus action. You also gain proficiency with the Stealth and Survival skills.
-- Languages. Goblins usually speak the local human language, either Ambrian or Barbarian. Some near Davokar speak the language of trolls or elves as well.
+- **Ability Score Increase.** Your Dexterity score increases by 2. Increase any other ability score by 1.
+- **Age.** Goblins are adults at 10 and few remain in human lands past their 30th year.
+- **Size.** All goblins are under four feet in height and average around 50 pounds. Your size is Small
+- **Speed.** Goblins scurry underfoot of the bigger peoples but their strides cannot match them distance for distance. You have a base speed of 20 feet.
+- **Darkvision.** Accustomed to the gloom of Davokar and underground mines, you have superior vision in dark and dim conditions. You can see in dim light as if it were normal light. In complete darkness, you rely on your other senses to give you blindsight within 10 feet. You never receive disadvantage on Wisdom (Perception) checks due to darkness.
+- **Pariahs.** Goblins are poorly treated in society and have disadvantage on Charisma checks with other peoples. However, the insular tendency of Goblin society provides advantage on Charisma checks when interacting with another goblin.
+- **Survival Instinct.** While goblins are a loud and fractious people, they have a powerful will to survive. You can take either the Dash, Dodge or Disengage actions using your bonus action. You also gain proficiency with the Stealth and Survival skills.
+- **Languages.** Goblins usually speak the local human language, either Ambrian or Barbarian. Some near Davokar speak the language of trolls or elves as well.
 
-GOBLIN NAMES
+## GOBLIN NAMES
 
 Goblin names are varied and it is hard to see any clear naming conventions. It is also common for goblins to change their names or add a syllable depending on what they experience in life. If one were to attempt to point out something general regarding their names, it would be that the length of the names usually goes hand-­in-­hand with the bearer’s rank – the longer the name, the higher the status within the tribe.
 
 - Goblin male names: Alfbolg, Barra, Goltas, Illefons, Ler, Rosti, Shigg, Tengel, Ul.
 - Goblin female names: Aa, Fosa, Guhula, Hugalea, Tulga, Udelia, Ufa, Wamba, Yla, Yppa.
 
-Goblin Backgrounds
+## Goblin Backgrounds
 
 Three different backgrounds are provided for goblin characters. However, the Laborer and Convert backgrounds can also be used for humans, especially members of the clanfolks that were captured by Ambria.
 
-Laborer
+### Laborer
 
 You are a daily worker, tolerated in town during the day as you work but then forced to take your rest in either a central resting area or outside the village. Think about the kind of work that you might do? Do you have any friends inside town? Do you have a hated enemy among the other laborers? Are you saving your scant coin for the future, or do you spend it on drink and entertainment as soon as you get it?
 
@@ -38,20 +38,53 @@ You are a daily worker, tolerated in town during the day as you work but then fo
 - Tool Proficiencies (choose one): Carpenter’s tools or mason’s tools
 - Equipment: A kit to match your tool proficiency, thick working clothes and 1d6 + 4 shillings.
 
-Feature: Tireless Worker
+##### Feature: Tireless Worker
 
 You are used to long days of physical work with little opportunity to rest. As long as you do not have any levels of exhaustion you have advantage on any saving throws to avoid gaining exhaustion.
 
-Suggested Characteristics
+#### Suggested Characteristics
 
 Laborers are one of the lowest members of society and are often ill-­treated. They are also easily ignored, and a quick-­eared and quick-­witted person can learn much while they work.
 
-|   |   |
+|1d8|PERSONALITY TRAIT|
 |---|---|
-|\|   \|   \|<br>\|---\|---\|<br>\|1d8\|PERSONALITY TRAIT\|<br>\|1\|I make friends easily, I don‘t have time or energy to fight anyone unless they truly do me wrong.\|<br>\|2\|I‘ve heard rumors of great opportunities outside of the village and yearn to leave.\|<br>\|3\|I like to be proud of my work and am sensitive to critique.\|<br>\|4\|This is just a job and I look forward to when I don’t need to work anymore.\|<br>\|5\|I like farm (or work) animals more than most people. They’re more trustworthy.\|<br>\|6\|I don‘t understand humans very well at all, but I do like money and food.\|<br>\|7\|I don’t care about the work much, but there is someone who matters to me here.\|<br>\|8\|I heard a human say ‘work hard, play hard’ once. That’s my motto now.\||\|   \|   \|<br>\|---\|---\|<br>\|1d6\|IDEAL\|<br>\|1\|Tradition. My family has always worked here. I feel obligated to my employers, at least for now.\|<br>\|2\|Entertainment. I do almost everything I do for my own sense of fun or to make others laugh.\|<br>\|3\|Opportunity. It’s my right to try my own way, even if it fails.\|<br>\|4\|Pride. I can say that I’ve accomplished something when I go to the forest to die.\|<br>\|5\|Work. When I’m bored I get in much more trouble.\|<br>\|6\|Humor. What is the point of life if you can’t laugh?\||
-|\|   \|   \|<br>\|---\|---\|<br>\|1d6\|BOND\|<br>\|1\|I’ll take any amount of punishment to keep my fellow workers out of trouble.\|<br>\|2\|I actually feel something towards my employers. They’re nicer than most humans.\|<br>\|3\|I had one old hand who showed me the ropes. I wonder where they are now?\|<br>\|4\|I used to have a great love, but they had to leave long ago. I miss them.\|<br>\|5\|I trust my new friends, much more than my old ones.\|<br>\|6\|I have a tool that has been with me forever, I think of it as a good luck charm.\||\|   \|   \|<br>\|---\|---\|<br>\|1d6\|FLAW\|<br>\|1\|I’m so used to meanness that if you show me a kindness I’ll take it too far.\|<br>\|2\|I really don’t understand that other peoples don’t share our sense of humor or tolerance for pain.\|<br>\|3\|I’m not really one for plans, or planning, or following instructions exactly.\|<br>\|4\|There is no reason to argue today about what I did yesterday.\|<br>\|5\|I’m often petty and direct my frustration at those who can do nothing about it.\|<br>\|6\|I get distracted by grandiose plans sometimes. Alright, all the time. So listen, I have this idea…\||
+|1|I make friends easily, I don‘t have time or energy to fight anyone unless they truly do me wrong.|
+|2|I‘ve heard rumors of great opportunities outside of the village and yearn to leave.|
+|3|I like to be proud of my work and am sensitive to critique.|
+|4|This is just a job and I look forward to when I don’t need to work anymore.|
+|5|I like farm (or work) animals more than most people. They’re more trustworthy.|
+|6|I don‘t understand humans very well at all, but I do like money and food.|
+|7|I don’t care about the work much, but there is someone who matters to me here.|
+|8|I heard a human say ‘work hard, play hard’ once. That’s my motto now.|
 
-Convert
+|1d6|IDEAL|
+|---|---|
+|1|Tradition. My family has always worked here. I feel obligated to my employers, at least for now.|
+|2|Entertainment. I do almost everything I do for my own sense of fun or to make others laugh.|
+|3|Opportunity. It’s my right to try my own way, even if it fails.|
+|4|Pride. I can say that I’ve accomplished something when I go to the forest to die.|
+|5|Work. When I’m bored I get in much more trouble.|
+|6|Humor. What is the point of life if you can’t laugh?||
+
+|1d6|BOND|
+|---|---|
+|1|I’ll take any amount of punishment to keep my fellow workers out of trouble.|
+|2|I actually feel something towards my employers. They’re nicer than most humans.|
+|3|I had one old hand who showed me the ropes. I wonder where they are now?|
+|4|I used to have a great love, but they had to leave long ago. I miss them.|
+|5|I trust my new friends, much more than my old ones.\|
+|6|I have a tool that has been with me forever, I think of it as a good luck charm.|
+
+|1d6|FLAW|
+|---|---|
+|1|I’m so used to meanness that if you show me a kindness I’ll take it too far.|
+|2|I really don’t understand that other peoples don’t share our sense of humor or tolerance for pain.|
+|3|I’m not really one for plans, or planning, or following instructions exactly.|
+|4|There is no reason to argue today about what I did yesterday.|
+|5|I’m often petty and direct my frustration at those who can do nothing about it.|
+|6|I get distracted by grandiose plans sometimes. Alright, all the time. So listen, I have this idea…|
+
+### Convert
 
 The teachings of the Giver of Laws says that all are worthy of salvation and your teachers made every effort with you. Eventually, they were successful, or at least you began to give them the answers that they wanted to hear. And you’ve learned amazing things from the Sun Church – history and theology that your people never knew. You’ve become interested in what dark secrets lie in other old places…
 
@@ -59,20 +92,38 @@ The teachings of the Giver of Laws says that all are worthy of salvation and you
 - Tool Proficiencies (choose one): Calligrapher’s tools or cartographer’s tools
 - Equipment: A kit to match your tool proficiency, religious robes, and 4d6 + 11 ortegs
 
-Feature: Member of the Church
+##### Feature: Member of the Church
 
 If given the chance, you can prove yourself to be a member of the Sun Church and gain shelter there for yourself and your companions. Unfortunately, some of the faithful are not as open-­minded as your teachers and the GM might require you to make a DC 10 Charisma (Persuasion) check in order to receive healing or other Church services.
 
-Suggested Characteristics
+#### Suggested Characteristics
 
 Goblin converts exist in two worlds: they are still goblins, with short lifespans and a particular sense of humor, but they have been taught the ways of Prios and some of them see his teachings as a great opportunity for them to gain status in the new kingdom.
 
-|   |   |
+|1d8|PERSONALITY TRAIT|
 |---|---|
-|\|   \|   \|<br>\|---\|---\|<br>\|1d8\|PERSONALITY TRAIT\|<br>\|1\|I repeat back things that you say to me. I’m not trying to be annoying, I want to make sure I understand.\|<br>\|2\|I’m always frowning and being very serious. I am trying hard to not be a goblin, in other words.\|<br>\|3\|Let me tell you about all the great things I have learned from the Church!\|<br>\|4\|I am very open-­minded. If my teachers could accept me, I can accept anyone.\|<br>\|5\|I think that everyone should be given the chances I was.\|<br>\|6\|I go to sleep every night with many doubts and fears in my mind.\|<br>\|7\|The Church provides all the answers, even to questions I didn’t know I had.\|<br>\|8\|I make jokes on Prios’ behalf; I know he has a sense of humor. Just look at me.\||\|   \|   \|<br>\|---\|---\|<br>\|1d6\|IDEAL\|<br>\|1\|Faith. I am truly devoted to the Giver of Laws and have no pretenses about my beliefs.\|<br>\|2\|Power. The humans say that the Sun God is the chief god now. The humans have many victories to prove this, so I choose to believe them.\|<br>\|3\|The Word. What is written cannot be changed or undone. That is power.\|<br>\|4\|Truth. I think everyone should be honest. Lies dishonor the Lawgiver.\|<br>\|5\|The Sun. The day-­star seems permanent and untouchable, like a god itself.\|<br>\|6\|Followership. I am not a leader, but I find worthy leaders and do their bidding.\||
-|\|   \|   \|<br>\|---\|---\|<br>\|1d6\|BOND\|<br>\|1\|I would do anything to keep my teachers safe.\|<br>\|2\|I feel like I have a personal connection to Prios.\|<br>\|3\|Despite my new life, I still remember my family.\|<br>\|4\|I have a huge regret from my earlier life and would do almost anything to set it right.\|<br>\|5\|I carry my primer from when I first learned to read and write still. It is a reminder of how far I have come.\|<br>\|6\|I am obsessed with a member of the church, perhaps even a member of the Black Cloaks.\||\|   \|   \|<br>\|---\|---\|<br>\|1d6\|FLAW\|<br>\|1\|I am a passionate believer and often seek to prove others have less faith than me by pointing out minor errors in their prayers or other rituals.\|<br>\|2\|I am suspicious of my human teachers. Why are they so nice to me?\|<br>\|3\|Deep down inside, I still wonder if this is real.\|<br>\|4\|I’m only pretending and going through the motions.\|<br>\|5\|I tend to be easily swayed by those who profess to share my beliefs.\|<br>\|6\|I am dismissive of unbelievers and other strangers.\||
+|1|I repeat back things that you say to me. I’m not trying to be annoying, I want to make sure I understand.|
+|2|I’m always frowning and being very serious. I am trying hard to not be a goblin, in other words.|
+|3\|Let me tell you about all the great things I have learned from the Church!\|
+|4|I am very open-­minded. If my teachers could accept me, I can accept anyone.\|
+|5|I think that everyone should be given the chances I was.\|
+|6|I go to sleep every night with many doubts and fears in my mind.
+|7|The Church provides all the answers, even to questions I didn’t know I had.\|<br>\|8\|I make jokes on Prios’ behalf; I know he has a sense of humor. Just look at me.\|
 
-Wild
+|1d6|IDEAL|
+|---|---|
+|1|Faith. I am truly devoted to the Giver of Laws and have no pretenses about my beliefs.|
+|2|Power. The humans say that the Sun God is the chief god now. The humans have many victories to prove this, so I choose to believe them.|
+|3|The Word. What is written cannot be changed or undone. That is power.|
+|4|Truth. I think everyone should be honest. Lies dishonor the Lawgiver.|
+|5|The Sun. The day-­star seems permanent and untouchable, like a god itself.|
+|6|Followership. I am not a leader, but I find worthy leaders and do their bidding.|
+
+|\|   \|   \|<br>\|---\|---\|<br>\|1d6\|BOND\|<br>\|1\|I would do anything to keep my teachers safe.\|<br>\|2\|I feel like I have a personal connection to Prios.\|<br>\|3\|Despite my new life, I still remember my family.\|<br>\|4\|I have a huge regret from my earlier life and would do almost anything to set it right.\|<br>\|5\|I carry my primer from when I first learned to read and write still. It is a reminder of how far I have come.\|<br>\|6\|I am obsessed with a member of the church, perhaps even a member of the Black Cloaks.\|
+
+|\|   \|   \|<br>\|---\|---\|<br>\|1d6\|FLAW\|<br>\|1\|I am a passionate believer and often seek to prove others have less faith than me by pointing out minor errors in their prayers or other rituals.\|<br>\|2\|I am suspicious of my human teachers. Why are they so nice to me?\|<br>\|3\|Deep down inside, I still wonder if this is real.\|<br>\|4\|I’m only pretending and going through the motions.\|<br>\|5\|I tend to be easily swayed by those who profess to share my beliefs.\|<br>\|6\|I am dismissive of unbelievers and other strangers.\||
+
+### Wild
 
 While many goblins have found themselves under the thumb of the newcomers, you and your clan have stayed away from both the Ambrians and barbarians by staying in the darker parts of Davokar. But the forest is changing, and the trolls and elves whisper that the humans have something to do with it. You’ve decided to explore these ideas but are also cautious about who you befriend, since you have no desire to become a laborer.
 
@@ -80,11 +131,11 @@ While many goblins have found themselves under the thumb of the newcomers, you a
 - Tool Proficiencies (choose One): Carpenter’s tools, leatherworker’s tools, potter’s tools, weaver’s tools
 - Equipment: A kit to match your tool proficiency, scant clothes and 2d6 + 8 ortegs.
 
-Feature: Go to Ground
+##### Feature: Go to Ground
 
 If you’re in the wilderness you can always find a hiding place. You can choose to have advantage on a Dexterity (Stealth) check as part of your Hide action. Once you use this feature you must take a short or longer rest before using it again.
 
-Suggested Characteristics
+#### Suggested Characteristics
 
 You are a goblin as they should have always been: wild and free and able to do anything you wish. Of course, you sometimes see your cousins in the human cities, with their fancy clothes, weapons and flashing coins…
 

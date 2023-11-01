@@ -65,10 +65,10 @@ Starting at 2nd level, your quick thinking and agility allow you to move and act
 ### ABILITY SCORE IMPROVEMENT OR FEAT
 When you reach 4th level, and again at 8th, 10th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
 
-Instead of improving your ability scores you can instead choose to gain a feat. See @Compendium[symbaroum5eplayersguide.ros-pg-player-guide-journal.5Ya7wZlEARDOWd2u]{01.4a - Classes and Feats}for more about feats.
+Instead of improving your ability scores you can instead choose to gain a feat. See [[General Feats]] for more about feats.
 
 ### UNCANNY DODGE
-Starting at 3rdlevel, when an attacker that you can see hits you with an attack, you can use your reaction to halve the attack's damage against you.
+Starting at 3rd level, when an attacker that you can see hits you with an attack, you can use your reaction to halve the attack's damage against you.
 
 ### Amazing Dodge
 You twist, bend, and roll out of the path of an incoming attack
@@ -79,7 +79,7 @@ When you use your Uncanny Dodge feature, you can spend a Recovery Die to further
 Beginning at 4th level, you can nimbly dodge out of the way of certain area effects, such as an ice storm spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
 
 ### RELIABLE TALENT
-By 6thlevel, you have refined your chosen skills until they approach perfection. Whenever you make an ability check that lets you add your proficiency bonus, you can treat a d20 roll of 9 or lower as a 10.
+By 6th level, you have refined your chosen skills until they approach perfection. Whenever you make an ability check that lets you add your proficiency bonus, you can treat a d20 roll of 9 or lower as a 10.
 
 ### BLINDSENSE
 Starting at 7th level, if you are able to hear, you are aware of the location of any hidden or invisible creature within 10 feet of you.
@@ -185,12 +185,12 @@ Not just anyone is qualified to be a Guild Thief. Sure, pick-­pockets and simpl
 
 Speciality Each Guild Thief chooses one avenue to specialize in:
 
-- Fence Work. Become proficient with Deception if you’re not already. You have a Market contact.
-- Overhead Work. Become proficient with Acrobatics if you’re not already. Your climb speed is equal to your normal speed.
-- Special Work. You focus on higher-end targets. Gain a Noble contact.
-- Streetwise Work. Become proficient with Sleight of Hand if you are not yet. You have an Alleyway contact.
+- **Fence Work.** Become proficient with Deception if you’re not already. You have a Market contact.
+- **Overhead Work.** Become proficient with Acrobatics if you’re not already. Your climb speed is equal to your normal speed.
+- **Special Work.** You focus on higher-end targets. Gain a Noble contact.
+- **Streetwise Work.** Become proficient with Sleight of Hand if you are not yet. You have an Alleyway contact.
 
-If you gain a contact, this is a person you can have a social challenge () with to learn appropriate information.
+If you gain a contact, this is a person you can have a social challenge with to learn appropriate information.
 
 Blade Work
 
