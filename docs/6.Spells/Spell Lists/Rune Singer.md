@@ -3,7 +3,7 @@ CANTRIPS
 
 |   |   |
 |---|---|
-|{Accurate Strike}<br><br>{Mage Hand}<br><br>{Mending}<br><br>{Message}|{Minor Illusion}<br><br>{Prestidigitation}<br><br>{Vicious Mockery}<br><br>{Witchfire}|
+|{[[Accurate Strike]]}<br><br>{Mage Hand}<br><br>{Mending}<br><br>{Message}|{Minor Illusion}<br><br>{Prestidigitation}<br><br>{Vicious Mockery}<br><br>{[[Witchfire]]}|
 
 1ST LEVEL
 

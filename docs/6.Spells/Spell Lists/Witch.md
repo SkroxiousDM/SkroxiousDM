@@ -2,7 +2,7 @@ CANTRIPS
 
 |   |   |
 |---|---|
-|{Accurate Strike}<br><br>{Chill Touch}<br><br>{Eldritch Blast}<br><br>{Mage Hand}|{Minor Illusion}<br><br>{Poison Spray}<br><br>{Prestidigitation}<br><br>{Witchfire}|
+|{[[Accurate Strike]]}<br><br>{Chill Touch}<br><br>{Eldritch Blast}<br><br>{Mage Hand}|{Minor Illusion}<br><br>{Poison Spray}<br><br>{Prestidigitation}<br><br>{[[Witchfire]]}|
 
 1ST LEVEL
 

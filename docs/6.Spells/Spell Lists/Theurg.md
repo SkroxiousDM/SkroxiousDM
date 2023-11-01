@@ -3,7 +3,7 @@ CANTRIPS
 
 |   |   |
 |---|---|
-|[[ACCURATE STRIKE]]<br><br>{Acid Splash}<br><br>{Guidance}<br><br>{Mending}<br><br>{Ray of Frost}<br><br>{Resistance}|{Sacred Flame}<br><br>{Shocking Grasp}<br><br>{Spare the Dying}<br><br>{Thaumaturgy}<br>[[WITCHFIRE]]
+|[[Accurate Strike]]<br><br>{Acid Splash}<br><br>{Guidance}<br><br>{Mending}<br><br>{Ray of Frost}<br><br>{Resistance}|{Sacred Flame}<br><br>{Shocking Grasp}<br><br>{Spare the Dying}<br><br>{Thaumaturgy}<br>[[Witchfire]]
 
 1ST LEVEL
 

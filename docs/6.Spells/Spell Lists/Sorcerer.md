@@ -4,7 +4,7 @@ CANTRIPS
 |   |   |
 |---|---|
 |{Acid Splash}<br><br>{Chill Touch}<br><br>{Mage Hand}<br><br>{Mending}<br><br>{Message}<br><br>{Minor Illusion}|{Poison Spray}<br><br>{Prestidigitation}<br><br>{Ray of Frost}  <br>{Shocking Grasp}
-[[WITCHFIRE]]
+[[Witchfire]]
 
 1ST LEVEL
 
