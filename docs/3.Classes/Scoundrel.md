@@ -1,72 +1,48 @@
-Scoundrel
+# Scoundrel
 
 IN AMBRIA THE word “scoundrel” is used broadly and refers to all who “steal” something from others, be it their trust, secrets, money or life. The calling of the warrior, to proudly face an opponent face-­to-­face, is an exception to this rule: it is the sneaky assassin that counts among the thieving scoundrels. In essence, warriors, craftsmen and scholars are the ideal occupations among the Ambrians; the rest are more or less regarded as scoundrels.
 
-SCOUNDRELS AND ORIGINS
-
+##### SCOUNDRELS AND ORIGINS
 People at large would say that changelings and goblins are synonymous with scoundrels, and are usually surprised when they realize that ogres and humans can also be found amongst their number.
 
-SCOUNDREL SHADOWS
-
+##### SCOUNDREL SHADOWS
 The Shadows of scoundrels are invariably darker than their fellows’, but the nature of their appearance varies based on their focus. A charlatan looks like they’re wearing a mask or hood of deep shadow while a thug is grim and gray all over. Tendrils of darkness emerge from a treasure-­hunter’s heart and a ranger is cloaked by a green so dark that it seems black and it obscures their movements.
 
-Class Features
-
-The Scoundrel
-
-|   |   |   |   |
-|---|---|---|---|
+## Class Features
+###### The Scoundrel
 |Level|Proficiency Bonus|Backstab Bonus|Features|
-|1st|+2|1d6|Expertise, Backstab, Approach|
-|1st|+2|1d6|Cunning Action|
-|2nd|+2|2d6|Approach|
-|2nd|+2|2d6|Ability Score Improvement or Feat|
-|3rd|+3|3d6|Uncanny Dodge, Amazing Dodge|
-|3rd|+3|3d6|Expertise, Approach|
-|4th|+3|4d6|Evasion|
-|4th|+3|4d6|Ability Score Improvement or Feat|
-|5th|+4|5d6|Approach|
-|5th|+4|5d6|Ability Score Improvement or Feat|
-|6th|+4|6d6|Reliable Talent|
-|6th|+4|6d6|Ability Score Improvement or Feat|
-|7th|+5|7d6|Approach|
-|7th|+5|7d6|Blindsense|
-|8th|+5|8d6|Slippery Mind|
-|8th|+5|8d6|Ability Score Improvement or Feat|
-|9th|+6|9d6|Approach|
-|9th|+6|9d6|Elusive|
-|10th|+6|10d6|Ability Score Improvement or Feat|
-|10th|+6|10d6|Stroke of Luck|
+|---|---|---|---|
+|1st|+1|1d6|Expertise, Backstab, Approach, Cunning Action|
+|2nd|+1|2d6|Approach, Ability Score Improvement or Feat|
+|3rd|+2|3d6|Uncanny Dodge, Amazing Dodge, Expertise, Approach|
+|4th|+2|4d6|Evasion, Ability Score Improvement or Feat|
+|5th|+3|5d6|Approach, Ability Score Improvement or Feat|
+|6th|+3|6d6|Reliable Talent, Ability Score Improvement or Feat|
+|7th|+4|7d6|Approach, Blindsense|
+|8th|+4|8d6|Slippery Mind, Ability Score Improvement or Feat|
+|9th|+5|9d6|Approach, Elusive|
+|10th|+5|10d6|Ability Score Improvement or Feat, Stroke of Luck|
 
 As a scoundrel, you have the following class features:
 
-Hit Points
-
+##### Hit Points
 - Hit Dice: If you are not using your origin to determine Hit Dice, your Hit Die is a d8.
 - Hit Points at 1st Level: If you do not use your origin to determine hit points, you have 8 + your Constitution modifier.
 - Hit Points at Higher Levels: If you do not use your origin to determine hit points, you gain 1d8 (or 5) + your Constitution modifier per scoundrel level after 1st.
-
-Proficiencies
-
+#### Proficiencies
 - Armor: Light armor
 - Weapons: Simple weapons, hand crossbows, longswords, rapiers, shortswords
 - Tools: Thieves’ tools
 - Saving Throws: Dexterity, Charisma
 - Skills: Choose three from Acrobatics, Athletics, Deception, Insight, Intimidation, Investigation, Perception, Performance, Persuasion, Sleight of Hand, and Stealth
-
-Shadow
-
+##### Shadow
 Your Corruption Threshold is equal to twice your proficiency bonus plus your Charisma modifier, to a minimum of 2.
-
-Equipment
-
+##### Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
-
 - (a) a fencing sword or (b) a shortsword
 - (a) a Hunting bow and quiver of 20 arrows or (b) a shortsword
 - (a) a burglar’s pack, (b) a dungeoneer’s pack, or (c) an explorer’s pack
 - (a) studded leather armor, two daggers, and thieves’ tools or (b) woven silk armor
-
 EXPERTISE
 
 At 1st level, choose two of your skill proficiencies, or one of your skill proficiencies and your proficiency with thieves' tools. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies. At 6th level, you can choose two more of your proficiencies (in skills or with thieves' tools) to gain this benefit.
