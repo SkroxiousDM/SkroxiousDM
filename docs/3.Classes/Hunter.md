@@ -177,44 +177,36 @@ At 3rd level, you can use your action during combat to deploy a mechanical or al
 
 At 5th level, if you have time before a combat, you can prepare an area with improvised traps. Each trap requires 10 minutes of preparation and does 1d8 damage (bludgeoning, piercing or slashing, depending on the trap design). See @Compendium[symbaroum5eplayersguide.ros-pg-player-guide-journal.yVYJwqVtcJU3MQuY]{Traps}for rules on traps.
 
-Polearm Master
-
+### Polearm Master
 When you have reached the 7th level, when a creature comes within reach of your weapon you can use your reaction to make a single attack using a weapon with reach against that creature.
 
 At 9th level, any melee attacks against you with a weapon whose reach is smaller than yours have disadvantage.
 
 ## Witch Hunter
-
-THUS SPOKE AROALETA
-
-“… and troll-mother Vouax’s cauldron, lined with the words of the weaver, smeared with the fat of the wardens, fell down the abyss, fell into oblivion. The vessel brewing the downfall of all may never again be heated, not by fire, not by the dark of the Abyss.”
+	THUS SPOKE AROALETA
+	“… and troll-mother Vouax’s cauldron, lined with the words of the weaver, smeared with the fat of the wardens, fell down the abyss, fell into oblivion. The vessel brewing the downfall of all may never again be heated, not by fire, not by the dark of the Abyss.”
 
 You have dedicated your life to fighting blight beasts, maybe as a consequence of having your own life torn apart by the growing and infectious darkness: a farm burned to the ground, the grave of your family, a friend’s horrendous transformation – something that reminds you of what will happen if the power of the blighted ones is not broken in time.
 
 You will stop at nothing in your fight against evil: you wield steel, fire and even rituals learned from defeated sorcerers. You realize that the use of mystical powers may ultimately corrupt you too, but you turn a blind eye to that and instead fight on with the fervor of the fanatic.
 
-Deep Knowledge
-
+### Deep Knowledge
 At 1st level you gain proficiency with both Arcana and Religion, representing your knowledge of transgressive magic and the proper teachings of the Church of Prios.
 
-Ritualist
-
+### Ritualist
 At 1st, 2nd, 3rd, 5th, 7th and 9th level choose a ritual spell (one with the ritual tag) from the Theurg tradition list. The spell level must be equal to or lower than half your current proficiency bonus.
 
 You gain permanent Corruption (see {[[Corruption and Shadow]]}) equal to half the spell level, rounded up. If the ritual is a cantrip, you gain no permanent Corruption. You can only cast the chosen spell as a ritual – the ritual version of a spell takes 10 minutes longer to cast than normal and can only be cast at its base level. You gain no Corruption from casting one of these spells.
 
-Deadly Need
-
+### Deadly Need
 Starting at 3rd level you have learned enough of the sorcerous arts that, if pressed, you can cast a spell at need. You can cast one of the spells you know as a non-ritual spell but you gain twice the normal Corruption since your understanding of the magical arts is limited.
 
-Steadfast
-
+### Steadfast
 At 5th level, as part of your ritual learnings, you have developed both an iron will and stomach. You can use your reaction to give yourself advantage on a Constitution or Wisdom saving throw.
 
 You can do this a number of times equal to your proficiency bonus and then must take a short or longer rest before using this feature again.
 
-Retributive Rebuke
-
+### Retributive Rebuke
 At 7th level, when you succeed at a saving throw granted to you by Steadfast and the source of the saving throw was a spellcaster, that creature takes 1d6 psychic damage.
 
 At 9th level, the psychic damage increases to 1d12.
