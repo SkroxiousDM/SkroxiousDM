@@ -113,3 +113,5 @@ If you have reached the maximum level of Soft Exhaustion and you take another le
 |4|You can only take an action or a bonus action during your turn, and you can't take reactions. You can concentrate on one thing only, such as a spell or enemy target, and ignore all the rest. You're limited to simple mental tasks.|
 |5|Speed reduced to 5. Anyone can tell you're on the verge of passing out. You cannot concentrate, or cast spells requiring Concentration. You have blurry vision, tunnel vision, or vertigo and may experience hallucinations (DM's choice).|
 |6|You are Dying. You gain two wound levels. Any additional Exhaustion counts as two wound levels.|
+
+Mostly adapted from [Grit and Glory v6](https://www.reddit.com/r/gritandglory5e/comments/empff0/grit_and_glory_v6_100_pages_of_dd_5e_rules_for/)[https://drive.google.com/file/d/16uCnUXvwyDageKT2dCdY_n1LbtPVSq4A/view?usp=drivesdk]

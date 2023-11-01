@@ -40,7 +40,7 @@ Strahd has a complex web of relationships with the denizens of Barovia, many of 
 
 ***Death House.*** Strahd views the cult of Death House with respectful disdain; he finds their methods and obsessions distasteful, but appreciates their efforts to bring worthy consorts and adversaries from the lands beyond the Mists.
 
-***Village of Barovia.*** Strahd believes, without romance or obsession, that Ireena Kolyana’s body is the host for Tatyana’s soul, and that Tatyana’s soul belongs to him. Through his spies, he is aware of Ismark Kolyanovich’s position and relationship to Ireena, but finds him to be a lackluster leader and a half-rate swordsman. He views Donavich and Doru with scorn, disdaining the convictions, pride, and faith that Doru had in life.
+***Village of Barovia.*** Strahd believes, without romance or obsession, that [[Ireena Kolyana]]’s body is the host for Tatyana’s soul, and that Tatyana’s soul belongs to him. Through his spies, he is aware of Ismark Kolyanovich’s position and relationship to Ireena, but finds him to be a lackluster leader and a half-rate swordsman. He views Donavich and Doru with scorn, disdaining the convictions, pride, and faith that Doru had in life.
 
 ***Tser Pool Encampment.*** Strahd finds Madam Eva a fascinating enigma, but has come to an unspoken understanding with her: she shall read his fortune whenever he requests it, and, in exchange, he will not delve too deeply into her history or affairs.
 
@@ -428,7 +428,7 @@ ___
 
 As such, this section provides a structured, methodical approach to developing Strahd's character through his relationship with the players. Importantly, each transition is tied to a particular point in the adventure's timeline, ensuring that Strahd does not, for example, spoil his relationship with the players before inviting them to dinner, or treat them as enemies before they have the capacity to defend themselves.
 
-***Strahd's Relationships.*** This section preserves Strahd's canonical relationship with Ireena in order to keep his (cold, calculating, and sociopathic) characterization consistent.
+***Strahd's Relationships.*** This section preserves Strahd's canonical relationship with [[Ireena Kolyana|Ireena]] in order to keep his (cold, calculating, and sociopathic) characterization consistent.
 
 ***Strahd's Goals.*** This section is structured to ensure a high-tension, action-packed sequence of challenges from the beginning to the end of the campaign. Specifically, it explains:
 

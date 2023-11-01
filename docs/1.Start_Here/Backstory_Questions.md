@@ -3,40 +3,40 @@ Create a snapshot of where you came from and how it shaped the person you became
 ### Where Did You Call Home?
 For some characters this is a permanent room or residence. For others it is an abstract feeling about certain periods of safety and stability. Finding those truths for your character will help you understand how he or she approaches the concept of home on the road.
 
-  Where did you most often sleep? ________________________
-  What did you need to do to maintain it? ________________________
-  Did it protect you and what you cared for? ________________________
-  Do you long for it now? ________________________
+  >Where did you most often sleep? `________________________
+  >What did you need to do to maintain it? `________________________
+  >Did it protect you and what you cared for? `________________________
+  >Do you long for it now? `________________________
 
 ### Where Did People Socialize?
 There are places of merriment and relaxation everywhere. This exercise will examine one of particular importance to your character.
 
   Choose two:
-  The hearth was always warm when the wind was cold.
-  The music moves your heart even in memory.
-  The owner was wise or at least gave advice as though he were.
-  The food was cooked with quiet pride.
-  It always seemed to hold a dazzling glow.
-  Being there faded the weight of obligation just enough.
-  You watched more than you took part.
+  - The hearth was always warm when the wind was cold.
+  - The music moves your heart even in memory.
+  - The owner was wise or at least gave advice as though he were.
+  - The food was cooked with quiet pride.
+  - It always seemed to hold a dazzling glow.
+  - Being there faded the weight of obligation just enough.
+  - You watched more than you took part.
 
   But . . . (choose one)
-  You rarely left with a full belly.
-  Everything was watered down.
-  It drew the most dangerous thugs and criminals.
-  You were often present but never welcome.
-  The spell it cast wore off all too quickly.
-  You risked everything to be there.
-  You could never ignore where the money went.
+  - You rarely left with a full belly.
+  - Everything was watered down.
+  - It drew the most dangerous thugs and criminals.
+  - You were often present but never welcome.
+  - The spell it cast wore off all too quickly.
+  - You risked everything to be there.
+  - You could never ignore where the money went.
 
-  What was it officially titled? ________________________
-  What did people call it? ________________________
+  What was it officially titled? `________________________
+  What did people call it? `________________________
 
 ### What Did People Respect?
 Where people assign their respect shows us what they value. To get an idea of the values held by the people of your hometown, select everything you believe is true.
 
   People respected . . .
-  Power
+>Power
   Authority
   Cunning
   Nature
@@ -54,71 +54,72 @@ Where people assign their respect shows us what they value. To get an idea of th
   Discovery
   Justice
 
-  Are these values you hold today? ________________________
+  Are these values you hold today? `________________________
   How do your personal values differ?
 
 ### Who Was in Charge?
 Any collective is under the rule of some other force. Even those who reject rule by other creatures are subject to the will of law or nature. This exercise explores the relationship between your character and authority.
 
-  The force in charge of your hometown: (choose two)
-	Was a thing of power and majesty
-	Never spoke but was always heard
-	Ruled with wisdom
-	Demanded loyalty
-	Understood kindness
-	Worked diligently
-	Was controlled by another
-	Earned your hatred
-	Was the product of divine right
+The force in charge of your hometown: (choose two)
+- Was a thing of power and majesty
+- Never spoke but was always heard
+- Ruled with wisdom
+- Demanded loyalty
+- Understood kindness
+- Worked diligently
+- Was controlled by another
+- Earned your hatred
+- Was the product of divine right
 
-  But . . . (choose one)
-	  It was worthy of respect.
-	  It killed without thought.
-	  It made many mistakes.
-	  It aged and died.
-	  It was eventually overthrown.
-	  It expected much from me.
+But . . . (choose one)
+- It was worthy of respect.
+-  It killed without thought.
+- It made many mistakes.
+- It aged and died.
+- It was eventually overthrown.
+- It expected much from me.
 
-  What was the ruler’s name?
-  Based on this experience, when you picture a ruler, what does he, she, or they look like?
-  If given the chance to lead, whom would you emulate?
+What was the ruler’s name?
+Based on this experience, when you picture a ruler, what does he, she, or they look like?
+If given the chance to lead, whom would you emulate?
 
 ### What Was Your Place?
 Perhaps the single thing that most dramatically colors your character’s perception of place of origin is her or his place in it. It is useless to know your character was a student, noble, or blacksmith if you do not understand how he or she feels about it. Finding this will solidify what your character is running away from and toward.
 
-  I was: (choose one)
-  Safe
+I was: (choose one)
+>Safe
   Respected
   Worshipped
   Ignored
   Hated
   Feared
   Mistreated
-
-  My duty was to: (choose one)
-  Learn
+  
+My duty was to: (choose one)
+>Learn
   Grow
   Protect
   Provide
   Serve
   Die
 
-  Which I: (choose one)
-  Humbly accepted
+Which I: (choose one)
+>Humbly accepted
   Regretfully fulfilled
   Actively resisted
   Desperately ran from
   Painfully failed
   Continue to carry out
 
-  If you could return to this role, would you?
-  Not if the chains of hell dragged me back.
+If you could return to this role, would you?
+>Not if the chains of hell dragged me back.
   No, I am now unworthy.
   No, I am too important.
   I don’t know.
   Yes, with great sorrow.
   Yes, but this time would be different.
   Yes, with great pride.
+  
 #  What Gets Left Behind
 Most people think of adventurers as being larger-than-life heroes, but all heroes come from somewhere. In this exercise, you’re going to explore objects associated with a life you walked away from. Choose details that will help inspire your creativity and answer the prompts to discover the building blocks of your past.
 
@@ -155,17 +156,17 @@ These are five lessons your character learned growing up and in training that he
 1. Growing up you experienced something that you never wish to revisit. It could be the desperation of extreme poverty, the isolation of social rejection, or even the guilt associated with having done something wrong.  
    What have you learned should be avoided at all costs? What measures do you take these days to avoid this?
 
-2. Before you truly understood your abilities, you unintentionally caused harm with them.  
-   What did you break or whom did you injure? How did you make up for your mistake? What did this situation teach you about managing your strength? 
+2. Before you truly understood your abilities, you unintentionally caused harm with them.
+	What did you break or whom did you injure? How did you make up for your mistake? What did this situation teach you about managing your strength? 
 
-3. As an adolescent you stood up against something stronger than you to fight a perceived injustice.  
-  What did you lose in pursuit of your ideals? How did this event shape your response to wrongdoing as an adult? 
+4. As an adolescent you stood up against something stronger than you to fight a perceived injustice.
+	What did you lose in pursuit of your ideals? How did this event shape your response to wrongdoing as an adult? 
 
-4. When you were a child, someone close to you hid a truth from you. As an adult you realized that person’s deception.  
-  How did the lie shape you? Did the truth hurt you? How do you approach deception as an adult? 
+4. When you were a child, someone close to you hid a truth from you. As an adult you realized that person’s deception.  
+	How did the lie shape you? Did the truth hurt you? How do you approach deception as an adult? 
 
-5. During your training you risked your life for something and were rewarded for it.  
-  How close did you come to death? What was the nature of your reward? What do you take into consideration when risking your life these days?
+5. During your training you risked your life for something and were rewarded for it.
+	How close did you come to death? What was the nature of your reward? What do you take into consideration when risking your life these days?
 
 # Five Things You Packed but Shouldn’t Have
 Examine your character’s inexperience by examining items that really don’t belong in an adventurer’s pack.

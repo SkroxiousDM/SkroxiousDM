@@ -1,9 +1,8 @@
+# Resting and Healing
 ## Hit Dice = Recovery Dice
 
 ## Rest
-
 Resting in the oppressive, bleak land of Barovia is difficult. The following rule changes reflect this.
-
 ### Breather
 
 Taking a breather is a short period of rest, at least 5 minutes long, after a strenuous activity. During that time you may rest, slake your thirst and hunger, or check on a single wound and bandage it. During a breather, you may spend one Recovery Die. If a Recovery Die is spent to heal, you roll the die and add your Constitution modifier to it. You regain Vigour  points equal to the total. You can spend a Recovery Die in order to reduce your temporary Corruption by your proficiency bonus.
@@ -11,50 +10,31 @@ Taking a breather is a short period of rest, at least 5 minutes long, after a st
 ### Short Rest
 
 A short rest is a period of downtime, at least 1 hour long, during which you do nothing more strenuous than light activity like eating, drinking, reading, dozing, tending to wounds, and standing watch..
-
-INTERRUPTING THE REST
-
+###### INTERRUPTING THE REST
  A Short Rest is stopped by the following interruptions:
-
-• Rolling Initiative
-
-• Casting a spell other than a cantrip
-
-• Taking any damage
-
+- Rolling Initiative
+- Casting a spell other than a cantrip
+- Taking any damage
 An interrupted Short Rest confers no benefits, and it must be started over to confer any.
-
 - You can spend one or more Recovery Dice to recover vigor points, up to the character’s maximum number of Recovery Dice, which is equal to your level. For each Recovery Die spent in this way, you roll the die and add your Constitution modifier to it. You regain vigor points equal to the total. You can decide to spend an additional Recovery Die after each roll. You regain spent Recovery Dice upon finishing an extended rest, as explained below.
 - You reduce your temporary Corruption by your proficiency bonus.
 - You can spend a Recovery Die in order to reduce your temporary Corruption by your proficiency bonus again. You can continue to do this as long as you have Recovery Dice to spend and temporary Corruption to reduce.
 -  If you have exactly 1 level of Exhaustion, you can remove that level.
-
 You can't benefit from more than two short rest in a 24-hour period, and you must have at least 1 hit point at the start of the rest to gain its benefits.
 
 ### Long Rest
-
 A long rest is a period of extended downtime, at least 8 hours long, during which a character sleeps for at least 6 hours and performs no more than 2 hours of light activity, such as reading, talking, eating, or standing watch.
-
-INTERRUPTING THE REST
-
+###### INTERRUPTING THE REST
 A Long Rest is stopped by the following interruptions:
-
-• Rolling Initiative
-
-• Casting a spell other than a cantrip
-
-• Taking any damage
-
-• 1 hour of walking or other physical exertion
-
+- Rolling Initiative
+- Casting a spell other than a cantrip
+- Taking any damage
+- 1 hour of walking or other physical exertion
 If the rest was at least 1 hour long before the interruption, you gain the benefits of a Short Rest. You can resume a Long Rest immediately after an interruption. If you do so, the rest requires 1 additional hour to finish per interruption.
-
 - During a long rest, you must consume at least 2 pints of water and a ration. If you consume at least one sustenance, food or water, you do not gain any exhaustion. If you consume both food and water, you can recover from a single level of Exhaustion with a DC 10 constitution check, restoring 1 extra level of Exhaustion for an Exceptional Success. Sleeping in Medium or Heavy armor prevents you from reducing your Exhaustion during rest.
 - You recover vigor points equal to the maximum value of your Recovery Die (e.g. 8 for 1d8) plus your Constitution modifier. This does not count as using a Recovery Die.
 - You reduce your temporary Corruption by twice your proficiency bonus.
-
 At the end of a long rest you regain up to half of your total number of Recovery Dice, rounded down and you can spend any number of Recovery Dice in that order to recover vigor points. Any Recovery Dice above the maximum amount for your level must be spent, otherwise they are lost.
-
 - You can spend one or more Recovery Dice to recover hit points, up to the character’s maximum number of Recovery Dice, which is equal to your level. For each Recovery Die spent in this way, you roll the die and add your Constitution modifier to it. You regain vigor points equal to the total. You can decide to spend an additional Recovery Die after each roll.
 - You can spend a Recovery Die in order to reduce your temporary Corruption by your proficiency bonus again. You can continue to do this as long as you have Recovery Dice to spend and temporary Corruption to reduce.
 

@@ -266,3 +266,5 @@ While you are grappling a creature that is unable to speak, you may attempt to r
 When you make an attack that qualifies as an automatic critical hit against a defenseless target, roll a regular Attack roll. If you hit the target's AC minus Dexterity modifier, the creature takes damage equal to its current HP and is dying.
 
 If you miss, the creature instead takes damage equal to half its current HP.
+
+Mostly adapted from [Grit and Glory v6](https://www.reddit.com/r/gritandglory5e/comments/empff0/grit_and_glory_v6_100_pages_of_dd_5e_rules_for/)[https://drive.google.com/file/d/16uCnUXvwyDageKT2dCdY_n1LbtPVSq4A/view?usp=drivesdk]
