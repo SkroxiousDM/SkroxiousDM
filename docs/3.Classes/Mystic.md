@@ -443,7 +443,7 @@ Matter of Faith
 
 When you reach 9th level, choose one of your ritual spells. Remove permanent Corruption equal to half its spell level, rounded up. This spell no longer weighs on your soul, since you have internalized its power as being provided solely by Prios.
 
-Rune Singer
+## Rune Singer
 
 Singing as a source of power has its most evident expression in the dwarf-­singing skalds, whose voices lay mysteries bare and win battles. Poetry and singing exist in all cultures, but they are most powerful among elves and dwarves – with the possible addition of ogres. In all of these diverse cultures, singing is often combined with physical attributes – most skalds are true warrior poets that lead their allies to victory using the great power of their voice and muscles.
 
