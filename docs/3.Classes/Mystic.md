@@ -100,7 +100,7 @@ Your approach gives you benefits at 1st, 2nd, 3rd, 5th, 7th and 9th levels.
 
 #### RITUAL CASTING
 
-At 1st level, you may choose a spell that you do not already know that is on your mystic approach spell list, has the ritual tag, and does not exceed your current maximum spell level. If you do so, you gain permanent Corruption (see {Corruption and Shadow}) equal to half the spell level, rounded up. If the ritual is a cantrip, you gain no permanent Corruption. You can only cast the chosen spell as a ritual – the ritual version of a spell takes 10 minutes longer to cast than normal and can only be cast at its base level. You gain no Corruption from casting one of these spells.
+At 1st level, you may choose a spell that you do not already know that is on your mystic approach spell list, has the ritual tag, and does not exceed your current maximum spell level. If you do so, you gain permanent Corruption (see {[[Corruption and Shadow]]}) equal to half the spell level, rounded up. If the ritual is a cantrip, you gain no permanent Corruption. You can only cast the chosen spell as a ritual – the ritual version of a spell takes 10 minutes longer to cast than normal and can only be cast at its base level. You gain no Corruption from casting one of these spells.
 
 You may also learn another spell as a ritual using these rules at 3rd, 4th, 6th and 7th level.
 
@@ -200,7 +200,7 @@ With limited access to new spells and the innate understanding of how to use you
 
 Spellcasting Ability
 
-Self-­taught mystics rely on learning and then applying the inherent principles of magic by experimentation. They use Intelligence as their spellcasting ability modifier. You learn spells from any of the traditions lists other than the Theurg (see @Compendium[symbaroum5eplayersguide.ros-pg-player-guide-journal.437WBHVjRtODSilr]{01.5m - Listing of Spells}and onwards).
+Self-­taught mystics rely on learning and then applying the inherent principles of magic by experimentation. They use Intelligence as their spellcasting ability modifier. You learn spells from any of the traditions lists other than the Theurg (see [[0 Spell Lists]]).
 
 Boundless Magic
 
@@ -282,7 +282,7 @@ Unholy Aura
 
 At 9th level you are surrounded by a field of negative energy. You can use your bonus action to cause each creature of your choice within 30 feet of you to make a Constitution saving throw, inflicting 1d6 necrotic damage for each point of permanent Corruption that you possess, or half that amount on a success. You must take a short or longer rest before using this feature again.
 
-Staff Mage
+## Staff Mage
 
 The mystics called Staff Mages have gotten their epithet from the rune covered staffs they always carry. A rune staff is an expression of the Staff Mage’s strength as well as a powerful weapon – something that has led to some Wizards of Ordo Magica calling them by degrading names like “wand-­throwers” or “broomsticks.” To the Staff Mage, the staff is an extension of their soul and to experienced staff mages it may sometimes be difficult to tell where the mage ends and the staff begins; they are part of the same whole.
 
@@ -351,7 +351,7 @@ At 9th level, the staff mage gains the following benefits from the rune staff:
 - The elemental damage rises to 1d12.
 - The rune staff provides advantage on all Corruption checks.
 
-Symbolist
+## Symbolist
 
 That symbols and signs have power is well-­known and made use of in most mystical traditions, at least in rituals. Pure Symbolism is a tradition that almost solely builds its power on symbols and signs. Symbolism was born in the east, beyond the Ravens, and fleeing mystics brought it to what is now Clan Vajvod’s territory in Davokar. The symbolists predate the founding of Clan Vajvod, at least according to the rune-­covered remnants that the clanfolks discovered when they first came to the area.
 
@@ -401,7 +401,7 @@ At 7th level, you can prepare a special rune that you can use as a reaction. You
 
 At 9th level, you can improve your special rune that you can use as a reaction for another point of permanent Corruption. It now provides the benefit of counterspell or dispel magic (your choice) as if cast at 6th level. You cannot use this feature again until you take a long or extended rest.
 
-Theurg
+## Theurg
 
 You are a theurg, a priest with mystical powers. Your faith in the Lawgiver is unwavering: Prios is the sun and the light of the soul, the One who saved mankind from the bondage of the Young Gods, the creator of the world and protector of all life. From this pure spring flows extraordinary power. Your mystical knowledge would have been aimless and dangerous without your faith as a compass and foundation, as is often shown when godless mystics wield their powers.
 
