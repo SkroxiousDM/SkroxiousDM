@@ -312,42 +312,34 @@ Staff Mages use arcane hand gestures and the movement of their staff to draw for
 
 The staff mage does not need to attune to their rune staff, it is an integral part of their magical practice and uses your own internal energy.
 
-Bonus Spell
+### Bonus Spell
 
 At 1st level, you learn the detect magic spell in addition to your chosen spells.
 
-Staff Fighting
-
+### Staff Fighting
 At 1st level, the staff mage is proficient with the rune staff, which provides the following benefits:
-
 - +1 to AC when unarmored.
 - The rune staff counts as a finesse quarterstaff that weighs 3 lbs.
 
 At 3rd level, the staff mage gains the following benefits for their rune staff:
-
 - The staff is considered magical for the purposes of magical weapons and armor. The rune staff gains a +1 bonus to attack and damage rolls.
 - You can use your bonus action to make an attack with your rune staff.
 
 At 7th level, the rune staff gains these additional effects:
-
 - The staff now provides a +2 bonus to AC, as well as on attack and damage rolls.
 - When a creature that is in your reach ends its turn you can use your reaction to make an attack roll against that creature.
 
-Staff Magic
-
+### Staff Magic
 At 2nd level, the staff mage gains the following benefits from the rune staff:
-
 - A touch from your staff as long as you wield it counts as you touching a creature for spell effects.
 - When the staff mage gains a point of permanent Corruption they can assign it to the rune staff instead of themselves. Once the rune staff already has three or more permanent Corruption, each time you add a point of permanent Corruption to the staff, roll a d20. If the result is equal to or lower than the new total of permanent Corruption held by the staff then the staff splits asunder and you gain the staff’s permanent Corruption immediately. Creating a new staff requires an extended rest.
 - The mage can use their bonus action to activate an elemental rune on the staff and add 1d4 damage to a single damage roll using the staff. The additional damage is your choice of acid, cold, fire, or lightning.
 
 At 6th level, the rune staff grants these additional effects:
-
 - The elemental damage rises to 1d8.
 - Once per long or extended rest you can cast an additional spell of a level equal to half your staff’s permanent Corruption total, rounded down. You gain no Corruption from casting this spell.
 
 At 9th level, the staff mage gains the following benefits from the rune staff:
-
 - The elemental damage rises to 1d12.
 - The rune staff provides advantage on all Corruption checks.
 
@@ -541,7 +533,6 @@ Spellcasting Ability
 You are sensitive to the natural flow of magic and the ancient power of the land. You use Wisdom as your spellcasting ability modifier. You learn spells from the Witch tradition list.
 
 ### A Chosen Path
-
 At 1st level choose one of the following paths to follow. You receive the first benefit when you make the choice and an additional benefit when you gain your next Approach feature (e.g. if you choose the Red Path at 1st level you gain Lay on Hands immediately, Nature’s Embrace at 2nd level, and Song of Spring at 3rd level). At 5th level, choose another path, gaining one benefit now, then 7th level and finally 9th level.
 #### The Green Path
 These features interact with nature itself.
