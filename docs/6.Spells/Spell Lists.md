@@ -6,9 +6,9 @@ Important Notes
 
 If a spell appears in the core rules (Spells (SRD) Compendium) without significant changes, it is listed here but not included in the detailed spell list. If a spell that is not included in the detailed list has a material component cost listed in gold pieces (gp) higher than 50 gp, the actual cost is half that value in thaler (e.g. a 100 gp material component costs 50 thaler, a 25 gp component costs 25 thaler).
 
-Spells in semibold italics can be cast as rituals.
+Spells in *semibold italics* can be cast as rituals.
 
-*Spells with an asterisk ('*) *cannot be favored.*
+Spells with an asterisk (`*`) *cannot be favored.*
 
 Sorcerer
 
@@ -23,7 +23,7 @@ CANTRIPS
 
 |   |   |
 |---|---|
-|{Black Bolt*}<br><br>{Burning Hands*}<br><br>{Charm Person*}<br><br>{Comprehend Languages}<br><br>{Detect Magic}<br><br>{Disguise Self}<br><br>{Expeditious Retreat}<br><br>{False Life*}<br><br>{Feather Fall}|{Fog Cloud}<br><br>{Mage Armor}<br><br>{Magic Missile*}<br><br>{Silent Image}<br><br>{Spirit Walk}<br><br>{Thunderwave}|
+|[[Black Bolt]]*<br><br>[[Burning Hands]]*<br><br>[[Charm Person]]`*`<br><br>{Comprehend Languages}<br><br>{Detect Magic}<br><br>{Disguise Self}<br><br>{Expeditious Retreat}<br><br>{False Life*}<br><br>{Feather Fall}|{Fog Cloud}<br><br>{Mage Armor}<br><br>{Magic Missile*}<br><br>{Silent Image}<br><br>{Spirit Walk}<br><br>{Thunderwave}|
 
 2ND LEVEL
 
