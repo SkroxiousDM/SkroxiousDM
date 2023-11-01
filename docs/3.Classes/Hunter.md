@@ -66,122 +66,95 @@ When you reach 2nd level, and again at 4th, 5th, 6th, 8th, and 10h level, you ca
 
 Instead of improving your ability scores you can instead choose to gain a feat. See [[General Feats]]}for more about feats.
 
-# EXTRA ATTACK
-
+### EXTRA ATTACK
 Beginning at 3rd level, you can attack twice, instead of once, whenever you take the Attack action on your turn. The number of attacks increases to three when you reach 9th level in this class.
 
-# Rapid Shot
-
+### Rapid Shot
 You know that in battle, those who act first usually also get to act last.
-
 When combat is imminent but before initiative is rolled, you can spend a Recovery Die to make an immediate ranged or melee weapon attack against a creature in range you can see. You receive advantage on this attack.
 
-EXPERTISE
-
+### EXPERTISE
 At 3rd level, choose either Nature or Survival and one of your other skill proficiencies. Your proficiency bonus is doubled for any ability check you make that uses either of these chosen proficiencies.
 
 At 7th level, choose two more skills. Your proficiency bonus is doubled for any ability check you make that uses either of these chosen proficiencies.
 
-LAND'S STRIDE
-
+### LAND'S STRIDE
 Starting at 4th level, moving through nonmagical difficult terrain costs you no extra movement. You can also pass through nonmagical plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard.
 
 In addition, you have advantage on saving throws against plants that are magically created or manipulated to impede movement, such as those created by the entangle spell.
 
-HIDE IN PLAIN SIGHT
-
+### HIDE IN PLAIN SIGHT
 At 6th level, you can spend 1 minute creating camouflage for yourself and a number of creatures up to your proficiency bonus. You must have access to fresh mud or other naturally occurring materials with which to create your camouflage.
 
 Once you are camouflaged in this way, you can try to hide by pressing yourself up against a solid surface, such as a tree or wall, that is at least as tall and wide as you are. While camouflaged, you gain a +10 bonus to Dexterity (Stealth) checks. You can move at half-speed without breaking the camouflage effect.
 
 Once you take an action, a reaction or move faster than half your speed, you must camouflage again to gain this benefit.
 
-VANISH
-
+### VANISH
 Starting at 7th level, you can use the Hide action as a bonus action on your turn. Also, you can’t be tracked by nonmagical means, unless you choose to leave a trail.
 
-FERAL SENSES
-
+### FERAL SENSES
 Starting at 8th level, you gain preternatural senses that help you fight creatures you can’t see. When you attack a creature you can’t see, your inability to see it doesn’t impose disadvantage on your attack rolls against it. You are also aware of the location of any invisible creature within 30 feet of you, provided that the creature isn’t hidden from you and you aren’t blinded or deafened.
 
-EXPERT HUNTER
-
+### EXPERT HUNTER
 At 10th level, you have an uncanny knack for succeeding when you need to. If your attack misses a target within range, you can turn the miss into a hit. Alternatively, if you fail an ability check, you can treat the d20 roll as a 20.
 
 Once you use this feature, you can't use it again until you finish a short or longer rest.
 
-Hunter Approaches
-
-A lone and broken pillar standing on the island of Hael in the south of Lake Volgoma carries this inscription, believed to tell of the escape from something called “Symbaroum’s Bane”.
-
+# Hunter Approaches
 HUNTERS MIGHT BE Bounty Hunters, who seek the most dangerous prey in city alleyways and other dark places, or Ironsworn, defenders of the Iron Pact. They might elect to become Monster Hunters and venture far into Davokar, or they might be a Witch Hunter, seeking out blighted humans on behalf of the Church or their own personal quest of vengeance.
 
-Bounty Hunter
-
+## Bounty Hunter
 During The Great War there were deserters – many doubted that a victory over the Dark Lords was possible. To deal with the problem, King Ynedar, Queen Korinthia’s father, placed a permanent bounty on the heads of the runaways. In doing so, he indirectly founded the guild of the Bounty Hunters. The tradition to pay for having fugitives caught lives on and nowadays the bounty hunters are often forced to venture into the forest of Davokar, where the most desperate – and also most valuable – targets tend to seek refuge.
 
-Sturdy Holds
-
+### Sturdy Holds
 If you have a creature your size or smaller grappled, that creature has disadvantage on their attempts to escape the grapple.
 
-Delicate Conversations
-
+### Delicate Conversations
 You gain proficiency with the Deception skill.
 
-Rough Fighting
-
+### Rough Fighting
 At 2nd level, you’ve mastered such alleyway techniques as “gutter-kiss” (a head-butt) and “goblin-squeeze” (groin kick). You do 1d6 bludgeoning damage with your unarmed strikes.
 
 At 3rd level you can use your bonus action to have advantage on an attempt to grapple a target that is your size or smaller.
 
-Urban Tracker
-
+### Urban Tracker
 At 5th level, you can find or follow almost anyone in the maze of a city. You have advantage on Dexterity (Stealth) checks to hide in an urban environment and for Wisdom (Survival) checks to track someone in a city.
 
-Precise Strike
-
+### Precise Strike
 When you reach 7th level, your ranged weapon accuracy is such that you can disarm a creature with a shot. Use your bonus action when making an attack to attempt a precise strike; on a hit you don’t do any damage but the creature must make a Strength saving throw against your attack roll result or drop what it is holding.
 
-Stunning Blows
-
+### Stunning Blows
 At 9th level, your attacks are designed to bring a foe down without killing them. Use your bonus action when making an attack roll; on a hit, instead of doing damage, the target must make a Constitution saving throw against the attack roll total. On a failure it becomes stunned. The creature can repeat the saving throw at the end of each of its turns, ending the effect on a success.
 
-Ironsworn
+## Ironsworn
 
 The work of the Iron Pact is never done, which places great demands on its agents, the Ironsworn. The pact was created by elves at the time of Symbaroum’s downfall, and after a long time in the shadows its members are on the move again, trying to stop the spreading darkness. Davokar must never awaken, and it won’t, if the Ironsworn can help it.
 
 Nowadays, the Iron Pact recruits new agents from all origins and cultures; anyone sympathetic to the struggle is tested in a series of both physical and moral challenges. Those who make it with both life and loyalty intact are invited to swear the Iron Oath. After that follows a time of training and further testing before initiates become true members of the Pact – agents devoted to the fight against Corruption.
 
-Agile Combat
-
+### Agile Combat
 Your armor class when you wear no armor is equal to 10 plus twice your Dexterity modifier.
 
-Lore of the Wild
-
+### Lore of the Wild
 You gain proficiency with the Animal Handling and Nature skills.
 
-Loremaster
-
+### Loremaster
 You are proficient in the spoken and written forms of Symbaroum and know many things about those ancient people. The character is educated and well-versed in the ways of the world: its cultures, its history, languages and artifacts. For centuries heroes, monsters and kingdoms have come and gone, leaving behind powerful items and secret texts. This ability represents knowledge about such objects. Through extensive studies a character with this ability knows not only the story of an object but also its properties and applications.
-
 - At 2nd level, you can attempt an Intelligence (Investigation) check to determine the properties of a magic item. On a success, if it is a magic item, you learn its properties and how to use them, whether it requires attunement to use, and how many charges it has, if any. You learn whether any spells are affecting the item and what they are. If the item was created by a spell, you learn which spell created it. The DC is dependent on the kind of magic item: common (DC 10), uncommon (DC 13), rare (DC 16), very rare (DC 19), legendary (DC 22).
-
 Additionally, you are proficient in both human languages (Ambrian and Barbarian).
-
 - At 3rd level, your understanding of artifacts is extensive enough that you are not as affected by their corruptive power. You may reduce your cost of a single artifact’s permanent Corruption by 1, to a minimum of 1 Corruption.
 - At 5th level, you may cast spells of a level equal to or lower than half your proficiency bonus directly from scrolls and such parchments.
-
 You gain advantage on saving throws against magical effects.
 
-Sniper
-
+### Sniper
 At 5th level, your ranged weapon attacks have extraordinary precision. When a creature takes damage from such an attack, it must make a Constitution saving throw. On a failure, its speed becomes zero until the end of its next turn. The DC is equal to 8 + your Dexterity modifier + your proficiency bonus or the damage, whichever is higher.
 
 At 7th level, you score a critical hit with a ranged weapon on a natural result of 19 or 20.
 
 At 9th level, you double your ability modifier for damage with a ranged weapon.
 
-Monster Hunter
+## Monster Hunter
 
 Monster Hunting Societies
 
@@ -191,11 +164,10 @@ As more and more Ambrians settle down in the shadow of Davokar, it grows more co
 
 A majority of the Ambrian Monster Hunters are members of monster hunting societies, established in or around places like Thistle Hold and Kastor. These groups both compete and cooperate in the never-ending work to keep the border settlements secure and the members of the societies rich. The latter part, the wealth, has attracted a growing number of barbarian Monster Hunters south, where they have turned into very successful trophy collectors, thanks to their vast knowledge of Davokar.
 
-The Bigger They are…
-
+### The Bigger They are…
 You have advantage on all attacks against targets that are Large size or bigger.
 
-Clever Fingers
+### Clever Fingers
 
 You gain proficiency with the Sleight of Hand skill.
 
@@ -213,7 +185,7 @@ When you have reached the 7th level, when a creature comes within reach of your 
 
 At 9th level, any melee attacks against you with a weapon whose reach is smaller than yours have disadvantage.
 
-Witch Hunter
+## Witch Hunter
 
 THUS SPOKE AROALETA
 
