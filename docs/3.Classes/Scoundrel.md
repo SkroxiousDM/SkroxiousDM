@@ -43,103 +43,83 @@ You start with the following equipment, in addition to the equipment granted by 
 - (a) a Hunting bow and quiver of 20 arrows or (b) a shortsword
 - (a) a burglar’s pack, (b) a dungeoneer’s pack, or (c) an explorer’s pack
 - (a) studded leather armor, two daggers, and thieves’ tools or (b) woven silk armor
-EXPERTISE
 
+### EXPERTISE
 At 1st level, choose two of your skill proficiencies, or one of your skill proficiencies and your proficiency with thieves' tools. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies. At 6th level, you can choose two more of your proficiencies (in skills or with thieves' tools) to gain this benefit.
 
-BACKSTAB
-
+### BACKSTAB
 Beginning at 1st level, you know how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an extra 1d6 damage to one creature you hit with a melee weapon attack if you have advantage on the attack roll. You must be proficient with the weapon used.
 
 You don’t need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn’t incapacitated, and you don’t have disadvantage on the ­attack roll.
 
 The amount of the extra damage increases as you gain levels in this class, as shown in the Backstab column of the Scoundrel table.
 
-APPROACH
-
+### APPROACH
 At first level you also choose your approach, the way that your scoundrel interacts with the world: are they an Explorer, a Spy, a Treasure-hunter, a Thug, or a Sapper? Each approach deals with subterfuge and a careful approach to problems, but they typically find themselves in different environments with drastically different foes.
 
 Your approach gives you benefits at 1st, 3rd, 6th, 9th, 13th and 17th levels.
 
-CUNNING ACTION
-
+### CUNNING ACTION
 Starting at 2nd level, your quick thinking and agility allow you to move and act quickly. You can take a bonus action on each of your turns in combat. This action can be used only to take the Dash, Disengage, or Hide action.
 
-ABILITY SCORE IMPROVEMENT OR FEAT
-
+### ABILITY SCORE IMPROVEMENT OR FEAT
 When you reach 4th level, and again at 8th, 10th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
 
 Instead of improving your ability scores you can instead choose to gain a feat. See @Compendium[symbaroum5eplayersguide.ros-pg-player-guide-journal.5Ya7wZlEARDOWd2u]{01.4a - Classes and Feats}for more about feats.
 
 ### UNCANNY DODGE
-
 Starting at 3rdlevel, when an attacker that you can see hits you with an attack, you can use your reaction to halve the attack's damage against you.
 
 ### Amazing Dodge
-
 You twist, bend, and roll out of the path of an incoming attack
 
 When you use your Uncanny Dodge feature, you can spend a Recovery Die to further reduce the damage you suffer. Subtract the result of the roll before halving the damage. You can expend more than one Recovery Die to reduce the damage as part of your Uncanny Dodge, to a maximum equal to your proficiency bonus.
 
 ### EVASION
-
 Beginning at 4th level, you can nimbly dodge out of the way of certain area effects, such as an ice storm spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
 
-RELIABLE TALENT
-
+### RELIABLE TALENT
 By 6thlevel, you have refined your chosen skills until they approach perfection. Whenever you make an ability check that lets you add your proficiency bonus, you can treat a d20 roll of 9 or lower as a 10.
 
 ### BLINDSENSE
-
 Starting at 7th level, if you are able to hear, you are aware of the location of any hidden or invisible creature within 10 feet of you.
 
 ### SLIPPERY MIND
-
 By 8th level, you have acquired greater mental strength. You gain proficiency in Wisdom saving throws.
 
 ### ELUSIVE
-
 Beginning at 9th level, you are so evasive that attackers rarely gain the upper hand against you. No attack roll has advantage against you while you aren’t incapacitated.
 
 ### STROKE OF LUCK
-
 At 10th level, you have an uncanny knack for succeeding when you need to. If your attack misses a target within range, you can turn the miss into a hit. Alternatively, if you fail an ability check, you can treat the d20 roll as a 20.
 
 Once you use this feature, you can’t use it again until you finish a short or longer rest.
 
-## Scoundrel Approaches
+# Scoundrel Approaches
 
 WE COVER THE Explorer approach for those who wish to get into trouble in the wild, the Former Cultist for scoundrels with a dark history, a Guild Thief for one that follows (certain) rules, Sappers that attack the foundations of society, Spies that seek secret information on behalf of their master, Thugs that serve as the chosen enforcers of other criminals and Treasure-­hunters that are only concerned with finding more valuables.
 
-Explorer
+## Explorer
 
 You have chosen to turn away from civilization and strike out into the wilderness. Your home is in the deep forest or the mountain valley, where you hunt beasts for food and fur or to protect inhabitants and travelers from harm. You have learned how to stay clear of your enemies’ reach while your arrows still find their mark.
 
-Precise Shot
-
+### Precise Shot
 You can add your backstab damage to a ranged weapon attack. You must either have advantage on the attack or have an ally within 5 feet of the target and not have disadvantage on the attack.
 
-Wilderness-­master
-
+### Wilderness-­master
 You gain proficiency with the Nature and Survival skills along with the Light Crossbow and Longbow.
 
-Steadfast Watch
-
+### Steadfast Watch
 At 2nd level, you become so adept at preparing and securing campsites in the wilderness that some of your party can gain additional benefits during a long rest. Choose a number of creatures up to your proficiency bonus to each regain a Hit Die. You can include yourself as one of the creatures.
 
-Specialties
-
+### Specialties
 When you reach 3rd level, choose one of the following specialties.
-
-Marksman
-
+#### Marksman
 Marksmen have their natural position in every army, scouting party and band of brigands. You can inflict serious damage on enemies with a bow or crossbow, hoping to either bring them down or at least make sure that they do not reach your allies who are equipped only for melee combat.
-
 - At the start of your turn you can use your bonus action to aim. Your speed becomes 0 and you now have advantage on ranged weapon attacks.
 - At 5th level you score a critical hit on ranged weapon attacks with a natural roll of 19 or 20 on the die.
 - At 7th level you no longer suffer disadvantage for being at long range.
-
-Monster Lore
+#### Monster Lore
 
 The character is schooled in the lore of beasts and knows the secrets of most monsters. Many monsters possess special abilities and unique attacks as well as weaknesses which are good to know about when trying to bring them down.
 
@@ -159,7 +139,7 @@ Wilderness Home
 
 At 9th level you are almost more comfortable in the wilderness than civilization. You and a number of creatures equal to your proficiency bonus can take long or extended rests almost anywhere in the wilderness. Your camp is always considered a safe location.
 
-Former Cultist
+## Former Cultist
 
 Many sorcerers foster cults around themselves and their beliefs, promising drug-­induced insights and black salvation to those willing to follow the mystic into the dark. Not many defect from such cults and those who do and survive more than a few days are fewer still, hunted as they are by both the cult they left behind and by witch hunters and Black Cloaks. The situation is not made any easier by the defector’s own burdens – memories of services rendered to please their master and explicitly cruel actions performed in the name of the cult weigh most Former Cultists down and haunt their nightmares long after leaving the master.
 
@@ -211,7 +191,7 @@ In any case, the poison lasts only until your next rest, at which time you must 
 
 At 7th level the poison damage rises to 3d6.
 
-Guild Thief
+## Guild Thief
 
 The Guild Thief has a long, if not proud, tradition rooted in Alberetor, a tradition that emerged stronger after the relocation to the north. Each of Ambria’s towns has at least one Thieves’ Guild, larger ones often have one based in each district or block.
 
@@ -250,7 +230,7 @@ Trapper
 At 9th level, you can use your action during combat to deploy an alchemical or mechanical trap within 5 feet of your position. You are never threatened by the trap but treat movement within 5 feet of a trapped area as difficult terrain. See for rules on traps.
 
 
-Spy
+## Spy
 
 Already during The Great War there were secret agents working for the King and the court in Alberetor. After the war, the agency lay dormant until the recent troubling times made Queen Korinthia breathe life into what is called the Royal Sekretorium.
 
@@ -301,7 +281,7 @@ At 7th level the poison damage rises to 3d6.
 
 At 9th level, the poison damage rises to 5d6.
 
-Thug
+## Thug
 
 The eastern districts of Yndaros are a wilderness as dangerous as Davokar, and just as rewarding for those who know how to harvest its fruits. You grew up on streets whose gangs have taught you the art of making a profit from others’ hard work, right under the noses of the city watch. Other Thugs rise through the ranks by becoming employed by barons or counts, free to act as ruffians and enforcers without being bothered by the Queen’s watchmen.
 
@@ -325,7 +305,7 @@ At 7th level, when you have a creature garroted they have disadvantage on their 
 
 At 9th level, when you grapple a creature you can use Dexterity (Acrobatics) to initiate the grapple.
 
-Treasure-­hunter
+## Treasure-­hunter
 
 The depths of Davokar hide many treasures; to locate, salvage and return them to civilization is your bread and butter. You dream of overgrown ruins and fantasize about sunken temples. Unlike many others, you have proven yourself willing to risk your life in order to succeed. You have developed an impressive set of skills in order to do just that and there are few situations within Davokar for which you have not prepared a strategy.
 
