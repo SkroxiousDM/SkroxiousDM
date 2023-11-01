@@ -1,6 +1,6 @@
-“War is not just won with soldiers, war is won in the planning tent and with leaders on the field.”
-
-– Field Marshal Beremo Herengol.
+	
+	“War is not just won with soldiers, war is won in the planning tent and with leaders on the field.”
+	– Field Marshal Beremo Herengol.
 
 THE CAPTAIN CLASS provides the battlefield leaders that were so important in the defeat of the Dark Lords. They are expected to lead both on the battlefield and off it, so they possess both personal martial prowess combined with a capability to command and train others to improve the fighting ability of a group as a whole.
 

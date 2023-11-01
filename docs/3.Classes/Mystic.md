@@ -1,11 +1,9 @@
 # Mystic
 IT IS WIDELY accepted that the world does not only consist of matter, and it is obvious to everyone that there are individuals who can manipulate the flows of both material and non-­material energies. The use of mystical powers is in no way commonplace, not in Ambria, nor among the barbarians. But it is common enough for many cultures to have formed traditions around it. There are many sources of mystical power in the world. These can be tapped by one who understands the underlying laws of nature or through alliances with either the light of the heavens, the spirits of the forest or the darkness of Corruption. Some mystics consider themselves to be scholars of reality and existence; others would claim they are part of a pact that offers them an intimate relationship with the source of their power.
 
-#### MYSTICS AND THE ORIGINS
-
-Changelings and humans dominate the domain of the mystical, at least according to public opinion. The stories of the witches of the barbarian clans are spread far and wide and it is near impossible not to notice the presence and influence of Ordo Magica when in Ambria. The theurgs of the Light are a less obvious group since they tend to keep to the temples or move among the faithful, but the Lawgiver is known to bless some of his champions with extraordinary powers.
-
-Mystics among the goblins are shamans, bound to no mystic tradition but earning high status among their own kind with their home-­brewed theories regarding the world and its spirits. Changelings often have the mystical gift – those who grow up among the barbarians are sent away to train with the witches, while changelings in the slums of Ambria become self-­taught mystics without any specific tradition. Ogres with the mystical gift may seem like a rarity, but Ordo Magica has documented a fair number of cases since the Ambrians arrived in the region.
+	MYSTICS AND THE ORIGINS
+	Changelings and humans dominate the domain of the mystical, at least according to public opinion. The stories of the witches of the barbarian clans are spread far and wide and it is near impossible not to notice the presence and influence of Ordo Magica when in Ambria. The theurgs of the Light are a less obvious group since they tend to keep to the temples or move among the faithful, but the Lawgiver is known to bless some of his champions with extraordinary powers.
+	Mystics among the goblins are shamans, bound to no mystic tradition but earning high status among their own kind with their home-­brewed theories regarding the world and its spirits. Changelings often have the mystical gift – those who grow up among the barbarians are sent away to train with the witches, while changelings in the slums of Ambria become self-­taught mystics without any specific tradition. Ogres with the mystical gift may seem like a rarity, but Ordo Magica has documented a fair number of cases since the Ambrians arrived in the region.
 
 ## Class Features
 
@@ -23,11 +21,8 @@ Mystics among the goblins are shamans, bound to no mystic tradition but earning 
 |9th|+5|Approach, Spell Mastery|6/9|5th|
 |10th|+5|Ability Score Improvement or Feat, Signature Spells|6/10|5th|
 
-
 As a mystic, you have the following class features:
-
-Hit Points
-
+#### Hit Points
 - Hit Dice: If you are not using your origin to determine Hit Dice, your Hit Die is a d8.
 - Hit Points at 1st Level: If you do not use your origin to determine hit points, you have 8 + your Constitution modifier.
 - Hit Points at Higher Levels: If you do not use your origin to determine hit points, you gain 1d8 (or 5) + your Constitution modifier per mystic level after 1st.
@@ -53,19 +48,13 @@ At 1st level, you know six cantrips of your choice from the spell list for your 
 You know two 1st level spells from the spell list belonging to your mystical approach. When you gain a level in mystic you learn another two spells, which can be any spell on your list, up to the spell level shown on the Mystic table. You can also swap one spell you already know for another one of the same level.
 #### Casting a Spell
 To cast a spell you take an appropriate action and gain temporary Corruption. A cantrip causes 1 point of temporary Corruption while a leveled spell causes 1d4 plus the spell’s level points of temporary Corruption.
-
-Example: Mira’s ogre mystic Grumpa casts message, a cantrip, and gains 1 point of Corruption. Later, Grumpa uses knock, a 2nd-­level spell. She now adds 1d4+2 points of Corruption.
-
+	Example: Mira’s ogre mystic Grumpa casts message, a cantrip, and gains 1 point of Corruption. Later, Grumpa uses knock, a 2nd-­level spell. She now adds 1d4+2 points of Corruption.
 Some spells allow you to cast them using a higher level spell. You can cast up to your maximum spell level as long as you pay the additional Corruption cost.
 #### Spellcasting Ability
 Your mystic approach determines your spellcasting ability, which affects your Corruption Threshold, spell save DC and your spell attack modifier:
-
-Corruption Threshold = (your proficiency bonus + your spellcasting ability modifier) × 2
-
-Spell save DC = 8 + your proficiency bonus + your spellcasting ability modifier
-
-Spell attack modifier = your proficiency bonus + your spellcasting ability modifier
-
+	Corruption Threshold = (your proficiency bonus + your spellcasting ability modifier) × 2
+	Spell save DC = 8 + your proficiency bonus + your spellcasting ability modifier
+	Spell attack modifier = your proficiency bonus + your spellcasting ability modifier
 #### Favored Spells
 There are certain spells that a mystic has studied extensively, so much that they can mitigate the corrupting influence of the familiar magic.
 
@@ -90,10 +79,9 @@ When you reach 2nd level, and again at 4th, 5th, 6th, 8th, and 10th level, you c
 
 Instead of improving your ability scores you can instead choose to gain a feat. See  Classes and Feats}for more about feats.
 
-###### The Myth of Pure Magic
-Within all traditions there is a myth of Pure Magic, the undefiled miracle. In different versions it tells about a time when the world was unspoiled and when the use of mystical powers yielded no Corruption. Then something happened. Evil entered the world and with it came the blight.
-
-Some mystics dream about recreating the pure magic of yore by healing the wounds of the world, expelling evil, slaying the World Serpent or reclaiming the long lost arch magic. However, most mystics accept Corruption as a part of their trade and just something to be dealt with.
+	 The Myth of Pure Magic
+	Within all traditions there is a myth of Pure Magic, the undefiled miracle. In different versions it tells about a time when the world was unspoiled and when the use of mystical powers yielded no Corruption. Then something happened. Evil entered the world and with it came the blight.
+	Some mystics dream about recreating the pure magic of yore by healing the wounds of the world, expelling evil, slaying the World Serpent or reclaiming the long lost arch magic. However, most mystics accept Corruption as a part of their trade and just something to be dealt with.
 
 ### Blood Magic
 At 3rd Level you draw on your life force reserve to fuel your magic. You’ll pay the price later, but for now you need all the power you can grasp.
