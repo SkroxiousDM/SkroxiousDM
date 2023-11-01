@@ -1,97 +1,70 @@
+# Hunter
 THE HUNTERS AND their toil are of great importance, both for the Ambrians and among the clans of the forest. To commoners in Ambria, they may not appear to be any different from your average rogue, but for many (especially among those living close to Davokar) they are on par with true heroes. Covered in the dirt of the wilds, eyes shining with the light of the future, the hunters are vital in the project of cultivating and taming the great forest.
 
 Among both Ambrians and barbarians, the hunters are often signified by their skillful use of ranged weapons and techniques. Exactly how they fight is primarily decided based on what they are hunting: criminals, monsters or dark-minded sorcerers.
 
 But no matter the target, what unites the hunters is a highly developed sense for where the prey has been, how it moves and to where it is headed – a sense that borders on supernatural precision.
 
-## HUNTERS AND ORIGINS
-
+#### HUNTERS AND ORIGINS
 All folk have their hunters, but in general it is primarily elves, abducted humans and humans that excel in this role. Still, in Thistle Hold you may very well come across goblins and even a few ogres known as trustworthy guides through the wilds.
 
 Dwarves are not usually seen as hunters in the forest, but some of Ambria’s most widely known bounty hunters are dwarves who for some reason have left their families in Yndaros.
 
-## HUNTER SHADOWS
-
+#### HUNTER SHADOWS
 The Shadows of hunters can be as dark as the forest they venture into but it depends on their quarry. Ironsworn and monster-hunters tend to be lighter shades of gray than bounty-hunters or especially witch-hunters, which have to be careful not to become what they seek.
 
 ## Class Features
-
-The Hunter
-
-|   |   |   |
-|---|---|---|
+###### The Hunter
 |Level|Proficiency Bonus|Features|
-|1st|+2|Wilderness Explorer, Approach|
-|1st|+2|Hunter’s Instinct|
-|2nd|+2|Approach|
-|2nd|+2|Ability Score Improvement or Feat|
-|3rd|+3|Extra Attack (2), Rapid Shot|
-|3rd|+3|Expertise, Approach|
-|4th|+3|Land’s Stride|
-|4th|+3|Ability Score Improvement or Feat|
-|5th|+4|Approach|
-|5th|+4|Ability Score Improvement or Feat|
-|6th|+4|Hide in Plain Sight|
-|6th|+4|Ability Score Improvement or Feat|
-|7th|+5|Approach|
-|7th|+5|Vanish|
-|8th|+5|Feral Senses|
-|8th|+5|Ability Score Improvement or Feat|
-|9th|+6|Approach|
-|9th|+6|Extra Attack (3)|
-|10th|+6|Ability Score Improvement or Feat|
-|10th|+6|Expert Hunter|
+|---|---|---|
+|1st|+1|Wilderness Explorer, Approach, Hunter’s Instinct|
+|2nd|+1|Approach, Ability Score Improvement or Feat|
+|3rd|+2|Extra Attack (2), Rapid Shot, Expertise, Approach|
+|4th|+2|Land’s Stride, Ability Score Improvement or Feat|
+|5th|+3|Approach, Ability Score Improvement or Feat|
+|6th|+3|Hide in Plain Sight, Ability Score Improvement or Feat|
+|7th|+4|Approach, Vanish|
+|8th|+4|Feral Senses, Ability Score Improvement or Feat|
+|9th|+5|Approach, Extra Attack (3)|
+|10th|+5|Ability Score Improvement or Feat, Expert Hunter|
 
 As a hunter, you have the following class features:
 
-Hit Points
-
+####Hit Points
 - Hit Dice: If you are not using your origin to determine Hit Dice, your Hit Die is a d8.
 - Hit Points at 1st Level: If you do not use your origin to determine hit points, you have 8 + your Constitution modifier.
 - Hit Points at Higher Levels: If you do not use your origin to determine hit points, you gain 1d8 (or 5) + your Constitution modifier per hunter level after 1st.
-
-Proficiencies
-
+#### Proficiencies
 - Armor: Light armor, medium armor, shields
 - Weapons: Simple weapons, martial weapons
 - Tools: None
 - Saving Throws: Strength, Dexterity
 - Skills: Choose four from Acrobatics, Athletics, Insight, Investigation, Nature, Perception, Stealth, and Survival
-
-Shadow
-
+#### Shadow
 Your Corruption Threshold is equal to twice your proficiency bonus plus your Charisma modifier, to a minimum of 2.
-
-Equipment
-
+#### Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
-
 - (a) a fencing sword or (b) a shortsword
 - (a) a longbow and 20 arrows or (b) a light crossbow and 20 bolts
 - (a) a dungeoneer’s pack, or (b) an explorer’s pack
 - (a) Studded leather armor and two daggers or (b) a lacquered silk cuirass
-
-# WILDERNESS EXPLORER
-
+### WILDERNESS EXPLORER
 Beginning at 1st level, you are adept at preparing and securing campsites in the wilderness so that some of your party can gain additional benefits during a long rest. Choose a number of creatures up to your proficiency bonus to each regain an additional Hit Die. You can include yourself as one of the creatures.
 
 If you spend an hour in the wild and succeed at a DC 10 Wisdom (Survival) check, you can supply enough food and drink for your party for one day. You must take a long rest before using this feature again.
 
-# APPROACH
-
+### APPROACH
 At first level you also choose your approach, which determines the chosen prey of your hunter: are you a Bounty Hunter that chases criminals, an Ironsworn that enforces the ancient treaty, a Monster Hunter that seeks out the most dangerous creatures or a Witch Hunter that seeks corrupted mortals instead?
 
 Your approach gives you benefits at 1st, 2nd, 3rd, 5th, 7th and 9th levels.
 
-# HUNTER'S INSTINCT
-
+### HUNTER'S INSTINCT
 Starting at 1st level, if you don’t already have a chosen target, you can use a bonus action on your turn to mark one creature as your chosen target. The first time you do damage to the creature on your turn add your proficiency bonus as damage (using the same type of damage as your weapon). If you are wielding a ranged weapon, you can use your reaction to make an attack when the creature uses its own movement, counting the range from the creature’s starting position.
 
-# ABILITY SCORE IMPROVEMENT OR FEAT
-
+### ABILITY SCORE IMPROVEMENT OR FEAT
 When you reach 2nd level, and again at 4th, 5th, 6th, 8th, and 10h level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
-Instead of improving your ability scores you can instead choose to gain a feat. See @Compendium[symbaroum5eplayersguide.ros-pg-player-guide-journal.5Ya7wZlEARDOWd2u]{01.4a - Classes and Feats}for more about feats.
+Instead of improving your ability scores you can instead choose to gain a feat. See [[General Feats]]}for more about feats.
 
 # EXTRA ATTACK
 
