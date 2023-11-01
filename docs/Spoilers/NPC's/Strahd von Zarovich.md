@@ -40,7 +40,7 @@ Strahd has a complex web of relationships with the denizens of Barovia, many of 
 
 ***Death House.*** Strahd views the cult of Death House with respectful disdain; he finds their methods and obsessions distasteful, but appreciates their efforts to bring worthy consorts and adversaries from the lands beyond the Mists.
 
-***Village of Barovia.*** Strahd believes, without romance or obsession, that [[Ireena Kolyana]]’s body is the host for Tatyana’s soul, and that Tatyana’s soul belongs to him. Through his spies, he is aware of Ismark Kolyanovich’s position and relationship to Ireena, but finds him to be a lackluster leader and a half-rate swordsman. He views Donavich and Doru with scorn, disdaining the convictions, pride, and faith that Doru had in life.
+***Village of Barovia.*** Strahd believes, without romance or obsession, that [[Ireena Kolyana]]’s body is the host for Tatyana’s soul, and that Tatyana’s soul belongs to him. Through his spies, he is aware of [[Ismark Kolyanovich]]’s position and relationship to Ireena, but finds him to be a lackluster leader and a half-rate swordsman. He views Donavich and [[Doru]] with scorn, disdaining the convictions, pride, and faith that Doru had in life.
 
 ***Tser Pool Encampment.*** Strahd finds Madam Eva a fascinating enigma, but has come to an unspoken understanding with her: she shall read his fortune whenever he requests it, and, in exchange, he will not delve too deeply into her history or affairs.
 

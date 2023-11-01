@@ -17,4 +17,4 @@
 
 ***Morale.*** In a fight, Father Donavich would ordinarily fight to defend his people and church. In his current state, however, he would immediately surrender, too wracked with guilt to even defend his own life.
 
-***Relationships.*** Father Donavich is Doru’s father and the priest of the Barovian church.
+***Relationships.*** Father Donavich is [[Doru]]’s father and the priest of the Barovian church.

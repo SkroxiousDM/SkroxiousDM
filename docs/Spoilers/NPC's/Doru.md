@@ -17,4 +17,4 @@
 
 ***Morale.*** In a fight, Doru would ordinarily seek to flee to avoid hurting anyone. However, if his father or [[Gertruda]] were endangered, he would fight savagely to defend them.
 
-***Relationships.*** Doru is the son of Father Donavich, the former best friend of [[Escher]], and the betrothed of [[Gertruda]].
+***Relationships.*** Doru is the son of [[Father Donavich]], the former best friend of [[Escher]], and the betrothed of [[Gertruda]].
