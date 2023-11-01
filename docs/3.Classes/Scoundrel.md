@@ -120,33 +120,25 @@ Marksmen have their natural position in every army, scouting party and band of b
 - At 5th level you score a critical hit on ranged weapon attacks with a natural roll of 19 or 20 on the die.
 - At 7th level you no longer suffer disadvantage for being at long range.
 #### Monster Lore
-
 The character is schooled in the lore of beasts and knows the secrets of most monsters. Many monsters possess special abilities and unique attacks as well as weaknesses which are good to know about when trying to bring them down.
-
 - Make an Intelligence (Nature) check with the DC equal to 10 plus the challenge rating (rounding down for fractional ratings) of any beast, giant, humanoid or plant. On a success, the GM must inform you of any vulnerabilities, resistances or immunities the creature possesses and provide you with a general assessment of its threat to the party (‘minimal’, ’average’, or ’severe’).
 - At 5th level, you can also make the same assessment of dragons, elementals, fey and monstrosities.
 - At 7th level you can make the same assessment for abominations, constructs, oozes and undead.
-
-Sixth Sense
-
+#### Sixth Sense
 When moving through dark forests or mountain tunnels, one’s eyes are no longer very useful. Lighting a lantern or torch may attract dangers, so the explorer had better learn to rely on their other senses. With dedicated training it is possible to awaken these other senses and sharpen them to the brink of eeriness.
-
 - You can see in dim light as if it were normal light. In complete darkness, you rely on your other senses to give you blindsight within 30 feet. You never receive disadvantage on Wisdom (Perception) checks due to darkness.
 - At 5th level, you are always aware of your environment and cannot be surprised.
 - At 7th level, your blindsight increases to a 90-foot range.
 
-Wilderness Home
-
+### Wilderness Home
 At 9th level you are almost more comfortable in the wilderness than civilization. You and a number of creatures equal to your proficiency bonus can take long or extended rests almost anywhere in the wilderness. Your camp is always considered a safe location.
 
 ## Former Cultist
-
 Many sorcerers foster cults around themselves and their beliefs, promising drug-­induced insights and black salvation to those willing to follow the mystic into the dark. Not many defect from such cults and those who do and survive more than a few days are fewer still, hunted as they are by both the cult they left behind and by witch hunters and Black Cloaks. The situation is not made any easier by the defector’s own burdens – memories of services rendered to please their master and explicitly cruel actions performed in the name of the cult weigh most Former Cultists down and haunt their nightmares long after leaving the master.
 
 You might have been a deeply convinced fanatic, or someone for whom the membership was more of a practical choice motivated by ambition or greed. However, if one is to believe the interrogation protocols of the Black Cloaks, desperation is the most common characteristic among cultists – the injustices of life combined with a charismatic leader who promises redemption and strength can be an attractive combination. But no matter your background, the choices of the cultist were never innocent; your hands are forever colored by blood.
 
-Channeling
-
+### Channeling
 You were taught some of the lesser powers of your sorcerous master. Like other Sorcerers, your spellcasting ability modifier is Charisma. You learn spells from the Sorcerer tradition list.
 
 Corruption Threshold = (your proficiency bonus × 2) + your Charisma modifier
@@ -167,26 +159,20 @@ Spell attack modifier = your proficiency bonus + your Charisma modifier
 
 You know two cantrips and one 1st level spell from the sorcerer list, plus the detect magic spell. You do not have any favored spells. You learn spells according to the chart to the right, and can cast any spell you know at any time, gaining Corruption each time.
 
-The Darkened Path
-
+### The Darkened Path
 Like your former master, you are used to bearing Corruption as you seek power. When you make a Corruption check, you have advantage on the d20 roll. Note: this is for the initial roll to determine if you gain a mark of Corruption, not the roll to determine the mark’s nature.
 
-Alchemy
-
+### Alchemy
 At 2nd level, you gain proficiency with Alchemist’s supplies, which you can use to produce elixirs (see - Alchemical Elixirs) or identify drugs and poisons, or to gain clues as to where they came from. You have a natural talent to create elixirs. You can also make a DC 10 Intelligence (Alchemist’s supplies) check to produce one dose of a weak or basic elixir. You must take an extended rest before using your talent again to manufacture an elixir.
-
 - When you reach 5th level, you can make a DC 15 Intelligence (Alchemist’s supplies) check to produce one dose of a moderate elixir or 1d3+1 doses of a weak or basic elixir. You must take an extended rest before using your talent again to manufacture an elixir.
 - When you attain 9th level, you can make a DC 20 Intelligence (Alchemist’s supplies) check to produce one dose of a strong elixir, or 1d3+1 doses of a moderate elixir, or 1d6+2 doses of a weak or basic elixir. You must take an extended rest before using your talent again to manufacture an elixir.
 
-Poisoner
-
+### Poisoner
 At 3rd level, you become bold enough to try your hand at the arts of poison. While taking a short or long rest, you can prepare a weapon or 20 pieces of ammunition with a poisonous coating. Make a DC 15 Intelligence (Poisoner’s kit) check:
-
 - If you succeed by 5 or more, the weapon adds (a) 1d6 poison damage to any successful strike and (b) the creature must make a Constitution saving throw vs 8 + your Intelligence modifier + your proficiency bonus or become poisoned for one minute.
 - If you score a normal success, you can choose either (a) or (b) but not both.
 - If you fail by four or less, the creature must make a Constitution saving throw as (b), but the Poisoned effect lasts only until the end of its next turn and it takes no damage.
 - If you fail by five or more the poison has no effect.
-
 In any case, the poison lasts only until your next rest, at which time you must either reapply it or go without.
 
 At 7th level the poison damage rises to 3d6.
