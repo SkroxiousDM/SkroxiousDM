@@ -190,7 +190,7 @@ Speciality Each Guild Thief chooses one avenue to specialize in:
 - **Special Work.** You focus on higher-end targets. Gain a Noble contact.
 - **Streetwise Work.** Become proficient with Sleight of Hand if you are not yet. You have an Alleyway contact.
 
-If you gain a contact, this is a person you can have a [[Social_Challenges]] with to learn appropriate information.
+If you gain a contact, this is a person you can have a [[Social Challenges]] with to learn appropriate information.
 
 ### Blade Work
 If you are wielding only knives or daggers, add your ability modifier to damage with your off-­hand weapon.
@@ -221,7 +221,7 @@ Some other organizations surely have a few spies placed in Ambria, causing many 
 Spies gain proficiency in the Deception skill.
 
 ### Network of Contacts
-As a spy, you’ve built up a group of individuals that can provide you with information. You number of contacts is equal to twice your proficiency bonus. When you first take this approach and each time your proficiency bonus increases, you can select new contacts. You can learn appropriate information from them or arrange a meeting with a person of that social level by meeting with your contact (see [[Social_Challenges]]).
+As a spy, you’ve built up a group of individuals that can provide you with information. You number of contacts is equal to twice your proficiency bonus. When you first take this approach and each time your proficiency bonus increases, you can select new contacts. You can learn appropriate information from them or arrange a meeting with a person of that social level by meeting with your contact (see [[Social Challenges]]).
 
 Each belongs to one of the following types:
 - **Alleyway Contact.** This contact is in touch with the shady dealings of a community and the lowest rungs of society.
@@ -277,30 +277,22 @@ At 9th level, when you grapple a creature you can use Dexterity (Acrobatics) to 
 The depths of Davokar hide many treasures; to locate, salvage and return them to civilization is your bread and butter. You dream of overgrown ruins and fantasize about sunken temples. Unlike many others, you have proven yourself willing to risk your life in order to succeed. You have developed an impressive set of skills in order to do just that and there are few situations within Davokar for which you have not prepared a strategy.
 
 ### Steel Throw
-
 At 1st level, you can use your Backstab feature if you make a ranged weapon attack with a throwing weapon.
 
 By 7th level, you have become an expert at throwing weapons. You do not receive disadvantage with throwing weapons for being at long range and score a critical hit on a natural roll of 19 or 20.
 
-Tactician
-
+### Tactician
 Also at 1st level, you have extensively studied small-­scale combat. You have advantage on initiative rolls.
 
-Alchemy
-
+### Alchemy
 At 2nd level, you gain proficiency with alchemist’s supplies, which you can use to produce elixirs (see Alchemical Elixirs) or identify drugs and poisons, or to gain clues as to where they came from. You can also make a DC 10 Intelligence (Alchemist’s supplies) check to produce one dose of a weak or basic elixir. You must take an extended rest before trying again to manufacture an elixir.
-
 - When you reach 5th level, you can make a DC 15 Intelligence (Alchemist’s supplies) check to produce one dose of a moderate elixir or 1d3+1 doses of a weak or basic elixir. You must take an extended rest before trying again to manufacture an elixir.
 - When you attain 9th level, you can make a DC 20 Intelligence (Alchemist’s supplies) check to produce one dose of a strong elixir, or 1d3+1 doses of a moderate elixir, or 1d6+2 doses of a weak or basic elixir. You must take an extended rest before trying again to manufacture an elixir.
-
-Fast Hands
-
+### Fast Hands
 Also starting at 2nd level, you can use the bonus action granted by your Cunning to make a Dexterity (Sleight of Hand) check, use your thieves’ tools to disarm a trap or open a lock, or take the Use an Object action.
 
-Nimbleness
-
+### Nimbleness
 At 3rd level, you gain the ability to climb faster than normal; climbing no longer costs you extra movement. In addition, when you make a running jump, the distance you cover increases by a number of feet equal to your Dexterity modifier. You also have advantage on a Dexterity (Stealth) check if you move no more than half your speed on the same turn.
 
-Treasure Surveyor
-
+### Treasure Surveyor
 At 5th level, you have a keen eye for value and when you find a curiosity or a Mystical treasure in a ruin you can double its value at market.
