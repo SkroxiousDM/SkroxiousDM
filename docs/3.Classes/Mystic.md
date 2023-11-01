@@ -10,29 +10,21 @@ Mystics among the goblins are shamans, bound to no mystic tradition but earning 
 ## Class Features
 
 ###### The Mystic
+The Mystic
 
 |Level|Proficiency Bonus|Features|Favored Spells|Maximum Spell Level|
 |---|---|---|---|---|
-|1st|+2|Spellcasting, Approach|3/1|1st|
-|1st|+2|Ritual Casting|3/1|1st|
-|2nd|+2|Approach|5/2|1st|
-|2nd|+2|Ability Score Improvement or Feat|5/2|1st|
-|3rd|+3|Ritual Casting, Blood Magic|6/3|2nd|
-|3rd|+3|Approach|6/3|2nd|
-|4th|+3|Ritual Casting|6/4|2nd|
-|4th|+3|Ability Score Improvement or Feat|6/4|2nd|
-|5th|+4|Approach|6/5|3rd|
-|5th|+4|Ability Score Improvement or Feat|6/5|3rd|
-|6th|+4|Ritual Casting|6/6|3rd|
-|6th|+4|Ability Score Improvement or Feat|6/6|3rd|
-|7th|+5|Approach|6/7|4th|
-|7th|+5|Ritual Casting|6/7|4th|
-|8th|+5|—|6/8|4th|
-|8th|+5|Ability Score Improvement or Feat|6/8|4th|
-|9th|+6|Approach|6/9|5th|
-|9th|+6|Spell Mastery|6/9|5th|
-|10th|+6|Ability Score Improvement or Feat|6/10|5th|
-|10th|+6|Signature Spells|6/10|5th|
+|1st|+1|Spellcasting, Approach, Ritual Casting, Magic Sense|3/1|1st|
+|2nd|+1|Approach, Ability Score Improvement or Feat|5/2|1st|
+|3rd|+2|Ritual Casting, Blood Magic, Approach|6/3|2nd|
+|4th|+2|Ritual Casting, Ability Score Improvement or Feat|6/4|2nd|
+|5th|+3|Approach, Ability Score Improvement or Feat|6/5|3rd|
+|6th|+3|Ritual Casting, Ability Score Improvement or Feat|6/6|3rd|
+|7th|+4|Approach, Ritual Casting|6/7|4th|
+|8th|+4|Ability Score Improvement or Feat|6/8|4th|
+|9th|+5|Approach, Spell Mastery|6/9|5th|
+|10th|+5|Ability Score Improvement or Feat, Signature Spells|6/10|5th|
+
 
 As a mystic, you have the following class features:
 
