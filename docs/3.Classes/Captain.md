@@ -1,45 +1,31 @@
-	
+# Captain
 	“War is not just won with soldiers, war is won in the planning tent and with leaders on the field.”
 	– Field Marshal Beremo Herengol.
 
 THE CAPTAIN CLASS provides the battlefield leaders that were so important in the defeat of the Dark Lords. They are expected to lead both on the battlefield and off it, so they possess both personal martial prowess combined with a capability to command and train others to improve the fighting ability of a group as a whole.
 
-## CAPTAINS AND ORIGINS
+#### CAPTAINS AND ORIGINS
 
 Most captains are found among humans, especially the Ambrian nobility. Barbarian tactics are usually more direct, but they sometimes produce a chieftain that values long-­term thinking and strategy. Sometimes, exceptional ogres can become captains, focusing less on complex tactics and instead using ‘lead from the front’ tactics. Changelings are rarely trusted enough to serve as captains and the few goblin captains that exist tend to focus on leading goblin raiding parties rather than adventuring groups.
 
-## CAPTAIN SHADOWS
+#### CAPTAIN SHADOWS
 
 The Shadows of young captains can glow like their burnished armor shining in the noon-­day sun. But for those captains who have experienced battle and sent forth warriors on impossible missions, knowing that their deaths were part of a larger plan, they have darker spots where their soul no longer shines and they might begin to coalesce into darkness as a captain realizes the futility of struggling against the world itself.
 
 ## Class Features
-
-The Captain
-
-|   |   |   |
-|---|---|---|
+###### The Captain
 |Level|Proficiency Bonus|Features|
-|1st|+2|Approach, Fighting Style, Tactical Acumen|
-|1st|+2|Field Dressings (d6)|
-|2nd|+2|Approach, Bid to Action|
-|2nd|+2|Ability Score Improvement or Feat|
-|3rd|+3|Extra Attack (2), Iron Determination|
-|3rd|+3|Approach|
-|4th|+3|War Stories|
-|4th|+3|Ability Score Improvement or Feat|
-|5th|+4|Approach, Field Dressings (d8)|
-|5th|+4|Ability Score Improvement or Feat|
-|6th|+4|Field Dressings (d10)|
-|6th|+4|Ability Score Improvement or Feat|
-|7th|+5|Approach|
-|7th|+5|Ability Score Improvement or Feat|
-|8th|+5|War Stories (x2)|
-|8th|+5|Ability Score Improvement or Feat|
-|9th|+6|Approach, Field Dressings (d12)|
-|9th|+6|Extra Attack (3)|
-|10th|+6|Ability Score Improvement or Feat|
-|10th|+6|Unending Conflict|
-
+|---|---|---|
+|1st|+1|Approach, Fighting Style, Tactical Acumen, Field Dressings (d6)|
+|2nd|+1|Approach, Bid to Action, Ability Score Improvement or Feat|
+|3rd|+2|Extra Attack (2), Iron Determination, Approach|
+|4th|+2|War Stories, Ability Score Improvement or Feat|
+|5th|+3|Approach, Field Dressings (d8), Ability Score Improvement or Feat|
+|6th|+3|Field Dressings (d10), Ability Score Improvement or Feat|
+|7th|+4|Approach, Ability Score Improvement or Feat|
+|8th|+4|War Stories (x2), Ability Score Improvement or Feat|
+|9th|+5|Approach, Field Dressings (d12), Extra Attack (3)|
+|10th|+5|Ability Score Improvement or Feat, Unending Conflict|
 As a captain, you have the following class features:
 
 Hit Points
