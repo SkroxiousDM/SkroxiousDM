@@ -10,8 +10,6 @@ Mystics among the goblins are shamans, bound to no mystic tradition but earning 
 ## Class Features
 
 ###### The Mystic
-The Mystic
-
 |Level|Proficiency Bonus|Features|Favored Spells|Maximum Spell Level|
 |---|---|---|---|---|
 |1st|+1|Spellcasting, Approach, Ritual Casting, Magic Sense|3/1|1st|
@@ -54,7 +52,7 @@ You start with the following equipment, in addition to the equipment granted by 
 - (a) a scholar’s pack, or (b) an explorer’s pack
 - any one light armor, two daggers, and a component pouch
 
-SPELLCASTING
+#### SPELLCASTING
 
 You are a wielder of arcane might, drawing on unseen powers to bend the world to your will. However, such changes are not without a price and mystics face a constant threat of gaining Corruption that can ruin their body and soul. For more about Corruption, see .
 
@@ -94,49 +92,49 @@ When you cast a favored spell at a higher level you add the new level as Corrupt
 
 Certain spells are poorly researched, unreliable, or on the edge of dark sorcery. These spells cannot be favored. Unfavored spells are marked with an asterisk (*) in the spell lists found beginning on .
 
-APPROACH
+#### APPROACH
 
 At first level you also choose your approach, which determines how you learned your arcane knowledge and how you understand the nature of the world. You might be an Artifact Crafter that makes magical items; a Sorcerer that seeks shortcuts to power despite their danger; a Staff-­mage that gathers and binds power; a Symbolist that wields word-­magic; a Rune Singer that brings forth magic with their voice; a Theurg that wields the power of the Sun God; a Witch that follows the old ways; or a Wizard that learned an orderly and philosophical approach to magic. Or you might be self-­taught, without boundaries but a danger to yourself and others.
 
 Your approach gives you benefits at 1st, 2nd, 3rd, 5th, 7th and 9th levels.
 
-RITUAL CASTING
+#### RITUAL CASTING
 
 At 1st level, you may choose a spell that you do not already know that is on your mystic approach spell list, has the ritual tag, and does not exceed your current maximum spell level. If you do so, you gain permanent Corruption (see {Corruption and Shadow}) equal to half the spell level, rounded up. If the ritual is a cantrip, you gain no permanent Corruption. You can only cast the chosen spell as a ritual – the ritual version of a spell takes 10 minutes longer to cast than normal and can only be cast at its base level. You gain no Corruption from casting one of these spells.
 
 You may also learn another spell as a ritual using these rules at 3rd, 4th, 6th and 7th level.
 
-ABILITY SCORE IMPROVEMENT OR FEAT
+#### ABILITY SCORE IMPROVEMENT OR FEAT
 
 When you reach 2nd level, and again at 4th, 5th, 6th, 8th, and 10th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
 
 Instead of improving your ability scores you can instead choose to gain a feat. See  Classes and Feats}for more about feats.
 
-The Myth of Pure Magic
+###### The Myth of Pure Magic
 
 Within all traditions there is a myth of Pure Magic, the undefiled miracle. In different versions it tells about a time when the world was unspoiled and when the use of mystical powers yielded no Corruption. Then something happened. Evil entered the world and with it came the blight.
 
 Some mystics dream about recreating the pure magic of yore by healing the wounds of the world, expelling evil, slaying the World Serpent or reclaiming the long lost arch magic. However, most mystics accept Corruption as a part of their trade and just something to be dealt with.
 
-# Blood Magic
+#### Blood Magic
 
 At 3rd Level you draw on your life force reserve to fuel your magic. You’ll pay the price later, but for now you need all the power you can grasp.
 
 You can expend one or more Recovery Die to increase your maximum spell level by 1 per die to a maximum of half your proficiency modifier.
 
-SPELL MASTERY
+#### SPELL MASTERY
 
 At 9th level, you have achieved such mastery over certain spells that you can cast them at will and gain no Corruption. Choose two 1st or 2nd level spells that you know. You can cast them at their base level without gaining any Corruption. If you cast them as a higher level, you gain Corruption as normal.
 
-SIGNATURE SPELLS
+#### SIGNATURE SPELLS
 
 When you reach 10th level, you gain mastery over two powerful spells and can cast them with little effort. Choose two 3rd-­level or lower spells that you know. You can cast them at their base level without gaining any Corruption. If you cast them as a higher level, you gain Corruption as normal.
 
-Mystic Approaches
+# Mystic Approaches
 
 THE FOLLOWING APPROACHES are available: the Artifact Crafter which invests magical power into objects, the Self-­taught mystic that treads a dangerous line, the Sorcerer who has already crossed that line, the Staff Mage which uses their weapon to focus their power, the Symbolist who organizes and focuses magical thoughts in writing, the Theurg who understands magic through their god Prios, the Rune Singers who best understand the magic of the world and the Witches who lead the barbarians in their worship of nature.
 
-Artifact Crafter
+## Artifact Crafter
 
 The making of artifacts is a highly sought-­after art form that for a long time was lost to elves and humans. However, among the dwarves it has been kept alive, as an almost sacred practice.
 
@@ -184,7 +182,7 @@ Artifact Master
 
 At 9th level you can create one artifact of greater power. This is the work of a lifetime of learning and effort and so can only be accomplished once. The Game­master has further rules and sample artifacts, see Greater Artifacts in the Ruins of Symbaroum Game­master’s Guide.
 
-Self-­taught
+## Self-­taught
 
 You are a Self-­taught mystic, excluded from the traditions, never accepted by your peers and completely uninterested in the narrow worldviews they offer. However, your freedom comes at a price: Corruption is lurking around each corner and you are fair game to witch hunters and Black Cloaks. Whether you wander from village to village or hide in a bustling city, you probably earn your living by offering your services as an occult consultant or a finder of misplaced objects.
 
@@ -224,7 +222,7 @@ At 7th level, when you succeed at a Constitution or Wisdom saving throw you take
 
 At 9th level, when you succeed at a Constitution or Wisdom saving throw and the effect was caused by a spellcaster then that spellcaster takes 1d6 psychic damage.
 
-Sorcerer
+## Sorcerer
 
 The character is one of those who are arrogant or desperate enough to cling to the darkness. While other mystical traditions do everything they can to avoid the soul-­eroding powers of Corruption, the Sorcerer chooses to do the opposite.
 
@@ -272,7 +270,7 @@ Example: If you have 5 permanent Corruption then you could cast up to five 1st l
 
 The Call of Darkness
 
-At 5th level, the Sorcerer can make use of the shadows that lie in the hearts of others. When you cast a spell that requires a Wisdom saving throw, each affected creature adds its permanent Corruption to the spell saving throw DC. If the creature is thoroughly corrupt (see @UUID[Compendium.symbaroum5eplayersguide.ros-pg-player-guide-journal.Ol1KxVFen1z7P4g6.JournalEntryPage.I4B6DAkxdcLaR4ow#corruption-and-shadow]{Corruption and Shadow}) then this effect does not apply.
+At 5th level, the Sorcerer can make use of the shadows that lie in the hearts of others. When you cast a spell that requires a Wisdom saving throw, each affected creature adds its permanent Corruption to the spell saving throw DC. If the creature is thoroughly corrupt (see [[Corruption and Shadow]]) then this effect does not apply.
 
 Revenant Strike
 
