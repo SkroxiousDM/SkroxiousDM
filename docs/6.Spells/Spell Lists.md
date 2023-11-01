@@ -8,7 +8,7 @@ If a spell appears in the core rules (Spells (SRD) Compendium) without significa
 
 Spells in semibold italics can be cast as rituals.
 
-*Spells with an asterisk (''*'**') cannot be favored.*
+*Spells with an asterisk ('*) *cannot be favored.*
 
 Sorcerer
 
