@@ -52,7 +52,7 @@ You start with the following equipment, in addition to the equipment granted by 
 - (a) a scholar’s pack, or (b) an explorer’s pack
 - any one light armor, two daggers, and a component pouch
 
-#### SPELLCASTING
+### SPELLCASTING
 
 You are a wielder of arcane might, drawing on unseen powers to bend the world to your will. However, such changes are not without a price and mystics face a constant threat of gaining Corruption that can ruin their body and soul. For more about Corruption, see .
 
@@ -92,42 +92,35 @@ When you cast a favored spell at a higher level you add the new level as Corrupt
 
 Certain spells are poorly researched, unreliable, or on the edge of dark sorcery. These spells cannot be favored. Unfavored spells are marked with an asterisk (*) in the spell lists found beginning on .
 
-#### APPROACH
-
+### APPROACH
 At first level you also choose your approach, which determines how you learned your arcane knowledge and how you understand the nature of the world. You might be an Artifact Crafter that makes magical items; a Sorcerer that seeks shortcuts to power despite their danger; a Staff-­mage that gathers and binds power; a Symbolist that wields word-­magic; a Rune Singer that brings forth magic with their voice; a Theurg that wields the power of the Sun God; a Witch that follows the old ways; or a Wizard that learned an orderly and philosophical approach to magic. Or you might be self-­taught, without boundaries but a danger to yourself and others.
 
 Your approach gives you benefits at 1st, 2nd, 3rd, 5th, 7th and 9th levels.
 
-#### RITUAL CASTING
-
+### RITUAL CASTING
 At 1st level, you may choose a spell that you do not already know that is on your mystic approach spell list, has the ritual tag, and does not exceed your current maximum spell level. If you do so, you gain permanent Corruption (see {[[Corruption and Shadow]]}) equal to half the spell level, rounded up. If the ritual is a cantrip, you gain no permanent Corruption. You can only cast the chosen spell as a ritual – the ritual version of a spell takes 10 minutes longer to cast than normal and can only be cast at its base level. You gain no Corruption from casting one of these spells.
 
 You may also learn another spell as a ritual using these rules at 3rd, 4th, 6th and 7th level.
 
-#### ABILITY SCORE IMPROVEMENT OR FEAT
-
+### ABILITY SCORE IMPROVEMENT OR FEAT
 When you reach 2nd level, and again at 4th, 5th, 6th, 8th, and 10th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
 
 Instead of improving your ability scores you can instead choose to gain a feat. See  Classes and Feats}for more about feats.
 
 ###### The Myth of Pure Magic
-
 Within all traditions there is a myth of Pure Magic, the undefiled miracle. In different versions it tells about a time when the world was unspoiled and when the use of mystical powers yielded no Corruption. Then something happened. Evil entered the world and with it came the blight.
 
 Some mystics dream about recreating the pure magic of yore by healing the wounds of the world, expelling evil, slaying the World Serpent or reclaiming the long lost arch magic. However, most mystics accept Corruption as a part of their trade and just something to be dealt with.
 
-#### Blood Magic
-
+### Blood Magic
 At 3rd Level you draw on your life force reserve to fuel your magic. You’ll pay the price later, but for now you need all the power you can grasp.
 
 You can expend one or more Recovery Die to increase your maximum spell level by 1 per die to a maximum of half your proficiency modifier.
 
-#### SPELL MASTERY
-
+### SPELL MASTERY
 At 9th level, you have achieved such mastery over certain spells that you can cast them at will and gain no Corruption. Choose two 1st or 2nd level spells that you know. You can cast them at their base level without gaining any Corruption. If you cast them as a higher level, you gain Corruption as normal.
 
-#### SIGNATURE SPELLS
-
+### SIGNATURE SPELLS
 When you reach 10th level, you gain mastery over two powerful spells and can cast them with little effort. Choose two 3rd-­level or lower spells that you know. You can cast them at their base level without gaining any Corruption. If you cast them as a higher level, you gain Corruption as normal.
 
 # Mystic Approaches
@@ -296,49 +289,36 @@ It is up to the now living Staff Mages to correct the errors of the past, meanin
 
 Aside from attacking those who from ignorance or a hunger for power fraternize with the powers of Corruption, the Staff Mages continuously seek “The descendant and rightful heir of the last emperor”. The search is as difficult as it is frustrating, with many mages in serious disagreement regarding both how to orchestrate the search and how to define the target. Most Staff Mages prefer the more tangible combat against abominations, Sorcerers and the few treasure hunters who venture so far into Davokar that they get close to the heart of Symbaroum: the ruined city of Symbar and its empty throne.
 
-Titles
-
+#### Titles
 The order of Staff Mages has three titles: Staffless (apprentices; i.e. established mystics who train with the order but have yet to earn a staff), Rune Staff (those who have received a staff) and finally the Staff Masters.
-
-Corruption
-
+#### Corruption
 The order teaches that Corruption is a side-­effect of the negligent exercise of power. Mages do not regard Corruption as immoral in itself, but emphasize that the Corruption of the mystic can become the enemy’s weapon; all mages are taught that Sorcerers can use the mage’s own Corruption against him or her, which is why Corruption must be avoided.
 
 The order also keeps older and darker lessons alive, lessons that claim the careless use of mystical powers, rituals and artifacts not only affect the mystic who wields them, but also the surrounding world. As proof of this, they often refer to the deserted wasteland east of the Ravens – which at one time is said to have been flourishing farmlands and the cradle of humankind’s first empire. And since the order, according to the mages, stems from the east, it is not unlikely that their moral tales on the importance of mystical restraint contain some grains of truth.
-
-Spellcasting Ability
-
+#### Spellcasting Ability
 Staff Mages use arcane hand gestures and the movement of their staff to draw forth their magical energies and direct them. You use Intelligence as your spellcasting ability modifier. You learn spells from the Wizard tradition list.
 
 The staff mage does not need to attune to their rune staff, it is an integral part of their magical practice and uses your own internal energy.
-
 ### Bonus Spell
-
 At 1st level, you learn the detect magic spell in addition to your chosen spells.
-
 ### Staff Fighting
 At 1st level, the staff mage is proficient with the rune staff, which provides the following benefits:
 - +1 to AC when unarmored.
 - The rune staff counts as a finesse quarterstaff that weighs 3 lbs.
-
 At 3rd level, the staff mage gains the following benefits for their rune staff:
 - The staff is considered magical for the purposes of magical weapons and armor. The rune staff gains a +1 bonus to attack and damage rolls.
 - You can use your bonus action to make an attack with your rune staff.
-
 At 7th level, the rune staff gains these additional effects:
 - The staff now provides a +2 bonus to AC, as well as on attack and damage rolls.
 - When a creature that is in your reach ends its turn you can use your reaction to make an attack roll against that creature.
-
 ### Staff Magic
 At 2nd level, the staff mage gains the following benefits from the rune staff:
 - A touch from your staff as long as you wield it counts as you touching a creature for spell effects.
 - When the staff mage gains a point of permanent Corruption they can assign it to the rune staff instead of themselves. Once the rune staff already has three or more permanent Corruption, each time you add a point of permanent Corruption to the staff, roll a d20. If the result is equal to or lower than the new total of permanent Corruption held by the staff then the staff splits asunder and you gain the staff’s permanent Corruption immediately. Creating a new staff requires an extended rest.
 - The mage can use their bonus action to activate an elemental rune on the staff and add 1d4 damage to a single damage roll using the staff. The additional damage is your choice of acid, cold, fire, or lightning.
-
 At 6th level, the rune staff grants these additional effects:
 - The elemental damage rises to 1d8.
 - Once per long or extended rest you can cast an additional spell of a level equal to half your staff’s permanent Corruption total, rounded down. You gain no Corruption from casting this spell.
-
 At 9th level, the staff mage gains the following benefits from the rune staff:
 - The elemental damage rises to 1d12.
 - The rune staff provides advantage on all Corruption checks.
