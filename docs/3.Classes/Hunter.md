@@ -168,11 +168,9 @@ A majority of the Ambrian Monster Hunters are members of monster hunting societi
 You have advantage on all attacks against targets that are Large size or bigger.
 
 ### Clever Fingers
-
 You gain proficiency with the Sleight of Hand skill.
 
-Trapper
-
+### Trapper
 At 2nd level, you become proficient with alchemical and mechanical traps. You can use your action during combat to deploy a mechanical trap within 5 feet of your position. You are never threatened by the trap but treat movement within 5 feet of a trapped area as difficult terrain. You can use your action to make a Dexterity (Sleight of Hand) check to disable a mechanical trap. The DC is given on the @UUID[Compendium.symbaroum5eplayersguide.ros-pg-player-guide-journal.yVYJwqVtcJU3MQuY.JournalEntryPage.y7BYuRbNTawlODTC#traps]{Traps Table}.
 
 At 3rd level, you can use your action during combat to deploy a mechanical or alchemical trap within 5 feet of your position. You are never threatened by the trap but treat movement within 5 feet of a trapped area as difficult terrain. You can use your action to make a Dexterity (Sleight of Hand) check to disable a mechanical or alchemical trap.
