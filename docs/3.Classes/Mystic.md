@@ -32,48 +32,32 @@ Hit Points
 - Hit Points at 1st Level: If you do not use your origin to determine hit points, you have 8 + your Constitution modifier.
 - Hit Points at Higher Levels: If you do not use your origin to determine hit points, you gain 1d8 (or 5) + your Constitution modifier per mystic level after 1st.
 
-Proficiencies
-
+#### Proficiencies
 - Armor: Light armor
 - Weapons: Simple weapons
 - Tools: None
 - Saving Throws: Wisdom, then choose either Intelligence or Charisma
 - Skills: Choose three from Arcana, Deception, History, Insight, Investigation, Medicine, Persuasion and Religion
-
-Shadow
-
+#### Shadow
 Your Corruption Threshold is equal to twice the total of your proficiency bonus plus your spellcasting modifier, to a minimum of 4. See your mystic approach for more information.
-
-Equipment
-
+#### Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
-
 - (a) a horseman's bow and quiver of 20 arrows or (b) a staff
 - (a) a scholar’s pack, or (b) an explorer’s pack
 - any one light armor, two daggers, and a component pouch
-
 ### SPELLCASTING
-
 You are a wielder of arcane might, drawing on unseen powers to bend the world to your will. However, such changes are not without a price and mystics face a constant threat of gaining Corruption that can ruin their body and soul. For more about Corruption, see .
-
-Cantrips
-
+#### Cantrips
 At 1st level, you know six cantrips of your choice from the spell list for your mystical approach. When you cast most cantrips (see Favored Spells, below) you gain 1 point of temporary Corruption.
-
-Leveled Spells
-
+#### Leveled Spells
 You know two 1st level spells from the spell list belonging to your mystical approach. When you gain a level in mystic you learn another two spells, which can be any spell on your list, up to the spell level shown on the Mystic table. You can also swap one spell you already know for another one of the same level.
-
-Casting a Spell
-
+#### Casting a Spell
 To cast a spell you take an appropriate action and gain temporary Corruption. A cantrip causes 1 point of temporary Corruption while a leveled spell causes 1d4 plus the spell’s level points of temporary Corruption.
 
 Example: Mira’s ogre mystic Grumpa casts message, a cantrip, and gains 1 point of Corruption. Later, Grumpa uses knock, a 2nd-­level spell. She now adds 1d4+2 points of Corruption.
 
 Some spells allow you to cast them using a higher level spell. You can cast up to your maximum spell level as long as you pay the additional Corruption cost.
-
-Spellcasting Ability
-
+#### Spellcasting Ability
 Your mystic approach determines your spellcasting ability, which affects your Corruption Threshold, spell save DC and your spell attack modifier:
 
 Corruption Threshold = (your proficiency bonus + your spellcasting ability modifier) × 2
@@ -82,15 +66,14 @@ Spell save DC = 8 + your proficiency bonus + your spellcasting ability modifier
 
 Spell attack modifier = your proficiency bonus + your spellcasting ability modifier
 
-Favored Spells
-
+#### Favored Spells
 There are certain spells that a mystic has studied extensively, so much that they can mitigate the corrupting influence of the familiar magic.
 
 At 1st level, you can select 3 cantrips and 1 leveled spell. When you cast a favored cantrip you gain no Corruption, and when you cast a leveled favored spell you gain Corruption equal only to the level of the spell. Each time you gain a level of mystic you can make more spells favored, as shown on the Mystic table under Favored Spells, the first number is the current amount of favored cantrips and the second number is for leveled spells.
 
 When you cast a favored spell at a higher level you add the new level as Corruption instead of the base level. For example, if you cast a favored 3rd level spell at 5th level, you gain 5 temporary Corruption instead of 3.
 
-Certain spells are poorly researched, unreliable, or on the edge of dark sorcery. These spells cannot be favored. Unfavored spells are marked with an asterisk (*) in the spell lists found beginning on .
+Certain spells are poorly researched, unreliable, or on the edge of dark sorcery. These spells cannot be favored. Unfavored spells are marked with an asterisk (`*`) in the spell lists found (here [[0 Spell Lists]]) .
 
 ### APPROACH
 At first level you also choose your approach, which determines how you learned your arcane knowledge and how you understand the nature of the world. You might be an Artifact Crafter that makes magical items; a Sorcerer that seeks shortcuts to power despite their danger; a Staff-­mage that gathers and binds power; a Symbolist that wields word-­magic; a Rune Singer that brings forth magic with their voice; a Theurg that wields the power of the Sun God; a Witch that follows the old ways; or a Wizard that learned an orderly and philosophical approach to magic. Or you might be self-­taught, without boundaries but a danger to yourself and others.
