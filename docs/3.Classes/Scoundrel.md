@@ -190,72 +190,58 @@ Speciality Each Guild Thief chooses one avenue to specialize in:
 - **Special Work.** You focus on higher-end targets. Gain a Noble contact.
 - **Streetwise Work.** Become proficient with Sleight of Hand if you are not yet. You have an Alleyway contact.
 
-If you gain a contact, this is a person you can have a social challenge with to learn appropriate information.
+If you gain a contact, this is a person you can have a [[Social_Challenges]] with to learn appropriate information.
 
-Blade Work
-
+### Blade Work
 If you are wielding only knives or daggers, add your ability modifier to damage with your off-­hand weapon.
 
 At 3rd level, you are an expert at close-­in fighting. If you’re wielding knives or daggers in both hands and your opponent has longer weapons they have disadvantage on their attack rolls against you. Natural weapons don’t trigger this feature.
 
-Cheap Shot
-
+### Cheap Shot
 At 2nd level, you’ve mastered such alleyway techniques as “gutter-­kiss” (a head-­butt) and “goblin-­squeeze” (groin kick). You do 1d6 bludgeoning damage with your unarmed strikes.
 
 At 5th level you can use your bonus action to gain one of the following benefits:
-
 - Make two additional unarmed attacks.
 - Make a single strike that, instead of doing damage, may stun your opponent. The target must make a Constitution saving throw against 8 + your Dexterity modifier + your proficiency bonus. On a failure, they are stunned until the end of your next turn.
 
-Opportunist
-
+### Opportunist
 When you reach 7th level, you have advantage on any opportunity attacks. If you deal damage to a creature with an opportunity attack their movement becomes zero.
 
-Trapper
-
+### Trapper
 At 9th level, you can use your action during combat to deploy an alchemical or mechanical trap within 5 feet of your position. You are never threatened by the trap but treat movement within 5 feet of a trapped area as difficult terrain. See for rules on traps.
 
-
 ## Spy
-
 Already during The Great War there were secret agents working for the King and the court in Alberetor. After the war, the agency lay dormant until the recent troubling times made Queen Korinthia breathe life into what is called the Royal Sekretorium.
 
 The Sekretorium consists of a number of reliable nobles who secretly enforce the Queen’s command to infiltrate various operations and hunt for sensitive information – or spread disinformation. The committee is led by high-­borns, while the field work is carried out by nobles of lower rank. A vital part of the operations is aimed at Korinthia’s own allies within the Sun Church, Ordo Magica, the military and also the duchies of the realm, meaning the Queen’s close relatives. Some Spies are not equipped to handle the intrigues and moral ambiguities; others are cast out in the cold after incriminating failures. Former Spies of the Queen often live short lives, constantly on the run from both enemies and their former superiors.
 
 Some other organizations surely have a few spies placed in Ambria, causing many people to be suspicious of converted barbarians, changelings, abducted humans who have returned, and other strangers.
 
-Dissembling Words
-
+### Dissembling Words
 Spies gain proficiency in the Deception skill.
 
-Network of Contacts
-
-As a spy, you’ve built up a group of individuals that can provide you with information. You number of contacts is equal to twice your proficiency bonus. When you first take this approach and each time your proficiency bonus increases, you can select new contacts. You can learn appropriate information from them or arrange a meeting with a person of that social level by meeting with your contact (see Social Challenges).
+### Network of Contacts
+As a spy, you’ve built up a group of individuals that can provide you with information. You number of contacts is equal to twice your proficiency bonus. When you first take this approach and each time your proficiency bonus increases, you can select new contacts. You can learn appropriate information from them or arrange a meeting with a person of that social level by meeting with your contact (see [[Social_Challenges]]).
 
 Each belongs to one of the following types:
+- **Alleyway Contact.** This contact is in touch with the shady dealings of a community and the lowest rungs of society.
+- **Market Contact.** This contact is involved in the trade concerns of the community and the middle class merchants and traders.
+- **Noble Contact.** This contact is involved in the political concerns of the community and the machinations of the royalty and other nobles for control of the community.
 
-- Alleyway Contact. This contact is in touch with the shady dealings of a community and the lowest rungs of society.
-- Market Contact. This contact is involved in the trade concerns of the community and the middle class merchants and traders.
-- Noble Contact. This contact is involved in the political concerns of the community and the machinations of the royalty and other nobles for control of the community.
-
-Feint
-
+### Feint
 You have developed techniques for feinting – handling a weapon in both a discreet and confusing manner. You must be wielding a weapon with the finesse property to use these features.
 
 At 1st level you can use your bonus action to intentionally leave an opening free in your defense to take advantage of later. Until your next turn, when an opponent attacks you they have advantage on the attack but you can use your reaction to make an attack roll immediately after their attack. Attackers lose advantage once you use your reaction.
 
 At 3rd level, you can use your bonus action to make a feint against an opponent. Make a Dexterity (Sleight of Hand) check against an opponent’s armor class. If successful, you have advantage on attacks against that opponent until the end of your turn.
 
-Twin Attack
-
+### Twin Attack
 At 2nd level, if you are wielding a finesse melee weapon in your primary hand and a light weapon in the other hand, you add your ability modifier to damage rolls with your off hand.
 
 At 5th level you can wield a finesse weapon in each hand and add your ability modifier to damage rolls with each hand.
 
-Poisoner
-
+### Poisoner
 At 3rd level, you become bold enough to try your hand at the arts of poison. While taking a short or long rest, you can prepare a weapon with a poisonous coating. Make a DC 15 Intelligence (Poisoner’s kit) check and compare it to below:
-
 - If you succeed by 5 or more, the weapon adds 1d6 poison damage to any successful strike and the creature must make a Constitution saving throw vs 8 + your Intelligence modifier + your proficiency bonus or become poisoned for one minute.
 - If you score a normal success, you can choose one of the above effects but not both.
 - If you fail by four or less, the creature must make a Constitution saving throw as above, but the Poisoned effect lasts only until the end of its next turn and it takes no damage.
@@ -268,23 +254,19 @@ At 7th level the poison damage rises to 3d6.
 At 9th level, the poison damage rises to 5d6.
 
 ## Thug
-
 The eastern districts of Yndaros are a wilderness as dangerous as Davokar, and just as rewarding for those who know how to harvest its fruits. You grew up on streets whose gangs have taught you the art of making a profit from others’ hard work, right under the noses of the city watch. Other Thugs rise through the ranks by becoming employed by barons or counts, free to act as ruffians and enforcers without being bothered by the Queen’s watchmen.
 
 You have always preferred the direct approach, dispensing violence directly against your enemies and your employer’s enemies.
 
-Twin Attack
-
+### Twin Attack
 At 1st level, if you are wielding a finesse melee weapon in your primary hand and a light weapon in the other hand, you add your ability modifier to damage rolls with your off hand.
 
 At 3rd level you can wield a finesse weapon in each hand and add your ability modifier to damage rolls with each hand.
 
-Acrobatic Fighter
-
+### Acrobatic Fighter
 By 2nd level, if you are not already proficient with Acrobatics you become proficient with that skill. When a weapon attack targets you, you can use your reaction to make a Dexterity (Acrobatics) check with the attack roll result as the DC. If you succeed, you take no damage from the attack.
 
-Strangler
-
+### Strangler
 Once you reach 5th level, if you are grappling a living creature your size or smaller and are not carrying anything else, you may use a garrote to strangle the creature as your action. If you have a creature garroted at the start of their turn, they begin to choke and will become unconscious after a number of rounds equal to their Constitution modifier. A garroted creature can’t call out for help, but might be able to get an ally’s attention by other means.
 
 At 7th level, when you have a creature garroted they have disadvantage on their Escape attempts.
@@ -292,10 +274,9 @@ At 7th level, when you have a creature garroted they have disadvantage on their 
 At 9th level, when you grapple a creature you can use Dexterity (Acrobatics) to initiate the grapple.
 
 ## Treasure-­hunter
-
 The depths of Davokar hide many treasures; to locate, salvage and return them to civilization is your bread and butter. You dream of overgrown ruins and fantasize about sunken temples. Unlike many others, you have proven yourself willing to risk your life in order to succeed. You have developed an impressive set of skills in order to do just that and there are few situations within Davokar for which you have not prepared a strategy.
 
-Steel Throw
+### Steel Throw
 
 At 1st level, you can use your Backstab feature if you make a ranged weapon attack with a throwing weapon.
 
