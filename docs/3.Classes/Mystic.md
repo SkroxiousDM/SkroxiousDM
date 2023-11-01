@@ -435,7 +435,7 @@ Theurgs rely on the teachings of the Sun God when interpreting his teachings or 
 
 Bonus Spell
 
-At 1st level, you learn the bless spell in addition to your chosen spells.
+At 1st level, you learn the [[bless]] spell in addition to your chosen spells.
 
 Turn Undead
 

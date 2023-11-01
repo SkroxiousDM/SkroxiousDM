@@ -231,7 +231,7 @@ Amputation's DC is always 10.
 
 Magical Healing taxes the reserves of the body for immediate gains in Vigor. When a Spell or potion would heal vigor points, expend a Recovery Die and heal Recovery Die + stated dice + Constitution bonus. E.g. a regular Healing Potion drunk by a first level fighter with 14 Constitution would spend a Recovery Die and heal d10 + 2d4 + 2.
 
-If a character has no Recovery Dice left and receives some form of healing (e.g., cure wounds), he receives the healing as temporary vigor points, not normal ones.
+If a character has no Recovery Dice left and receives some form of healing (e.g., [[cure wounds]]), he receives the healing as temporary vigor points, not normal ones.
 
 - Higher-level or more powerful healing, such as heal, does not require expenditure or presence of Recovery Dice.
 - Certain kinds of healing don’t require the rolling of dice, such as the paladin’s Lay on Hands feature. These are used without recovery dice.

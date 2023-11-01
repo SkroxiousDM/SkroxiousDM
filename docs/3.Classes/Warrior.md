@@ -319,7 +319,7 @@ Spell save DC = 8 + your proficiency bonus + your Wisdom modifier
 
 Spell attack modifier = your proficiency bonus + your Wisdom modifier
 
-You know two cantrips and one 1st level spell from the Theurg list, in addition to the bless spell. You do not have any favored spells. You learn spells according to the chart below, and can cast any spell you know at any time
+You know two cantrips and one 1st level spell from the Theurg list, in addition to the [[bless]] spell. You do not have any favored spells. You learn spells according to the chart below, and can cast any spell you know at any time
 
 |   |   |   |   |   |   |
 |---|---|---|---|---|---|

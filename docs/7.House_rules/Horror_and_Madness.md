@@ -180,13 +180,13 @@ During a high-stress situation, the PC may attempt to control themselves for the
 
 A player cannot choose to fail a save against any of the following spells.
 - Beacon of Hope (PHB, pg. 216) — the target(s) have advantage on Fear, Despair, and Horror checks
-- Bless (PHB, pg. 219) — bonus can be applied to Fear, Despair, and Horror checks
+- [[Bless]] (PHB, pg. 219) — bonus can be applied to Fear, Despair, and Horror checks
 - Calm Emotions (PHB, pg. 221) —  removes the following:
 	- The frightened condition
 	- Short-term madness caused by Horror
 	- Long-term madness caused by Horror if the creature also takes a full rest
 	- Despair if the creature also takes a Short Rest
-- Charm Person (PHB, pg. 221) — ends the effects of a transient/short-term madness or suppresses long-term/indefinite madness for the duration of the spell
+- [[Charm Person]] (PHB, pg. 221) — ends the effects of a transient/short-term madness or suppresses long-term/indefinite madness for the duration of the spell
 - Dominate Beast/Monster/Person (PHB, pg. 234-235) — as Charm Person for the duration of the spell
 - Enthrall (PHB, pg. 238) — as  Charm Person for the duration of the spell
 - Geas (PHB, pg. 245) — as Charm Person for a single psychosis for the duration of the spell
