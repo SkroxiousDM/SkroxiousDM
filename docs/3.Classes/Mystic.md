@@ -1,18 +1,18 @@
+# Mystic
 IT IS WIDELY accepted that the world does not only consist of matter, and it is obvious to everyone that there are individuals who can manipulate the flows of both material and non-­material energies. The use of mystical powers is in no way commonplace, not in Ambria, nor among the barbarians. But it is common enough for many cultures to have formed traditions around it. There are many sources of mystical power in the world. These can be tapped by one who understands the underlying laws of nature or through alliances with either the light of the heavens, the spirits of the forest or the darkness of Corruption. Some mystics consider themselves to be scholars of reality and existence; others would claim they are part of a pact that offers them an intimate relationship with the source of their power.
 
-MYSTICS AND THE ORIGINS
+#### MYSTICS AND THE ORIGINS
 
 Changelings and humans dominate the domain of the mystical, at least according to public opinion. The stories of the witches of the barbarian clans are spread far and wide and it is near impossible not to notice the presence and influence of Ordo Magica when in Ambria. The theurgs of the Light are a less obvious group since they tend to keep to the temples or move among the faithful, but the Lawgiver is known to bless some of his champions with extraordinary powers.
 
 Mystics among the goblins are shamans, bound to no mystic tradition but earning high status among their own kind with their home-­brewed theories regarding the world and its spirits. Changelings often have the mystical gift – those who grow up among the barbarians are sent away to train with the witches, while changelings in the slums of Ambria become self-­taught mystics without any specific tradition. Ogres with the mystical gift may seem like a rarity, but Ordo Magica has documented a fair number of cases since the Ambrians arrived in the region.
 
-Class Features
+## Class Features
 
-The Mystic
+###### The Mystic
 
-|   |   |   |   |   |
-|---|---|---|---|---|
 |Level|Proficiency Bonus|Features|Favored Spells|Maximum Spell Level|
+|---|---|---|---|---|
 |1st|+2|Spellcasting, Approach|3/1|1st|
 |1st|+2|Ritual Casting|3/1|1st|
 |2nd|+2|Approach|5/2|1st|
