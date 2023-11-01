@@ -16,79 +16,13 @@ Spells with an asterisk (*) cannot be favored.
 1st Level Spells
 
 
-BLESS
 
-1st-­level enchantment
 
-Casting Time: 1 action
 
-Range: 30 ft.
 
-Components: V, S, M (a sprinkling of holy water)
 
-Duration: Concentration, up to 1 minute
 
-You bless up to three creatures of your choice within range. Whenever a target makes an attack roll or a saving throw before the spell ends, the target can roll a d4 and add the number rolled to the attack roll or saving throw.
 
-At Higher Levels. When you cast this spell at 2nd level or higher, you can target one additional creature for each level above 1st.
-
-BURNING HANDS*
-
-1st-­level evocation
-
-Casting Time: 1 action
-
-Range: 15 ft.
-
-Components: V, S
-
-Duration: Instantaneous
-
-As you hold your hands with thumbs touching and fingers spread, a thin sheet of flames shoots forth from your outstretched fingertips. Each creature in a 15-foot cone must make a Dexterity saving throw. A creature takes 3d6 fire damage on a failed save, or half as much damage on a successful one.
-
-The fire ignites any flammable objects in the area that aren’t being worn or carried.
-
-At Higher Levels. When you cast this spell at 2nd level or higher, the damage increases by 1d6 for each level above 1st.
-
-CHARM PERSON*
-
-1st-­level enchantment
-
-Casting Time: 1 action
-
-Range: 30 ft.
-
-Components: V, S
-
-Duration: 1 hour
-
-You attempt to charm a humanoid you can see within range. It must make a Wisdom saving throw, and does so with advantage if you or your companions are fighting it. If it fails the saving throw, it is charmed by you until the spell ends or until you or your companions do anything harmful to it. The charmed creature regards you as a friendly acquaintance. When the spell ends, the creature knows it was charmed by you.
-
-At Higher Levels. When you cast this spell at 2nd level or higher, you can target one additional creature for each level above 1st. The creatures must be within 30 feet of each other when you target them.
-
-COMMAND*
-
-1st-­level illusion
-
-Casting Time: 1 action
-
-Range: 60 ft.
-
-Components: V
-
-Duration: 1 round
-
-You speak a one-­word command to a creature you can see within range. The target must succeed on a Wisdom saving throw or follow the command on its next turn. The spell has no effect if the target is undead, if it doesn’t understand your language, or if your command is directly harmful to it.
-
-Some typical commands and their effects follow. You might issue a command other than one described here. If you do so, the GM determines how the target behaves. If the target can’t follow your command, the spell ends.
-
-- Approach. The target moves toward you by the shortest and most direct route, ending its turn if it moves within 5 feet of you.
-- Drop. The target drops whatever it is holding and then ends its turn.
-- Flee. The target spends its turn moving away from you by the fastest available means.
-- Grovel. The target falls prone and then ends its turn.
-- Halt. The target doesn’t move and takes no actions. A flying creature stays aloft, provided that it is able to do so. If it must move to stay aloft, it flies the minimum distance needed to remain in the air.
-
-At Higher Levels. When you cast this spell at 2nd level or higher, you can affect one additional creature for each level above 1st. The creatures must be within 30 feet of each other when you target them.
 
 CREATE OR DESTROY WATER
 
