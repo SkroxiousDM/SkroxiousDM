@@ -520,7 +520,7 @@ Weakening Hymn
 
 As an action, you can force up to seven creatures of your choice to make a Charisma saving throw. On a failure they have disadvantage on all saving throws until the song ends. On a success they are immune to this song for 24 hours. If you continue your singing, then a creature that failed the saving throw can repeat it at the end of their turn (with disadvantage) in order to become immune for 24 hours as above. You must take a short or longer rest before singing this song again.
 
-Witch
+## Witch
 
 Your home is the wilds; to balance your own needs with the ones of nature is your calling. As a witch you have a strong connection to the land itself and can add its primal powers to your inner strength. You negotiate with the spirits of nature, understand the flow and needs of the land, and your powers are derived from the circle of life and death.
 
@@ -540,19 +540,16 @@ Spellcasting Ability
 
 You are sensitive to the natural flow of magic and the ancient power of the land. You use Wisdom as your spellcasting ability modifier. You learn spells from the Witch tradition list.
 
-## A Chosen Path
+### A Chosen Path
 
 At 1st level choose one of the following paths to follow. You receive the first benefit when you make the choice and an additional benefit when you gain your next Approach feature (e.g. if you choose the Red Path at 1st level you gain Lay on Hands immediately, Nature’s Embrace at 2nd level, and Song of Spring at 3rd level). At 5th level, choose another path, gaining one benefit now, then 7th level and finally 9th level.
-
-### The Green Path
-
+#### The Green Path
 These features interact with nature itself.
-
-#### Forest Trails. 
+##### Forest Trails. 
 - You can find or create trails in Davokar or wherever you go that make travel easier. You and a number of companions equal to your proficiency bonus have advantage on saving throws against Exhaustion due to travel.
-#### Shapeshifter. 
+##### Shapeshifter. 
 - You can use your action to magically assume the shape of a natural beast you have seen before. You can use this feature a number of times equal to your proficiency bonus before you have to take a short or longer rest to regain your expended uses. Your mystic level determines the type of beast you can transform into, see the table below.
-#### Nature’s Lullaby. 
+##### Nature’s Lullaby. 
 - By singing softly and focusing on a particular abomination that can hear you, you and your companions can pass by it without it reacting – you are essentially invisible to the blighted creature. If anyone acts aggressively or you stop singing (to cast a spell, for example) the benefit ends. You can make use of this feature a number of times equal to your proficiency bonus and then must take a long or extended rest before using this feature again.
 ##### Beast Shapes  
 
@@ -569,28 +566,26 @@ You can stay in a beast shape for a number of hours equal to half your mystic le
         ○ You can’t cast spells, and your ability to speak or take any action that requires hands is limited to the capabilities of your beast form. Transforming doesn’t break your concentration on a spell you’ve already cast, however, or prevent you from taking actions that are part of a spell, such as eyebite, that you’ve already cast. 
         ○ You retain the benefit of any features from your class, origin, or other source and can use them if the new form is physically capable of doing so. However, you can’t use any of your special senses, such as darkvision, unless your new form also has that sense.
         ○ You choose whether your equipment falls to the ground in your space, merges into your new form, or is worn by it. Worn equipment functions as normal, but the GM decides whether it is practical for the new form to wear a piece of equipment, based on the creature’s shape and size. Your equipment doesn’t change size or shape to match the new form, and any equipment that the new form can’t wear must either fall to the ground or merge with it. Equipment that merges with the form has no effect until you leave the form.  
-
-### The Red Path
-
+#### The Red Path
 These powers focus on your healing features.
-
-- Lay on Hands. As an action you can restore 1 plus your Wisdom modifier hit points to a creature. You can do this a number of times equal to your proficiency bonus before you must take a long or extended rest to use this feature again.
-- Nature’s Embrace. If you take a long rest in the wilderness, you can use your knowledge of natural restoratives to have a number of creatures up to your proficiency bonus regain a Hit Die. You can include yourself in this benefit.
-- Song of Spring. You can use your action to restore 10 × your proficiency bonus of hit points to a number of allies equal to your proficiency bonus that can see and hear you. You must then take an extended rest to use this feature again.
-
-### The White Path
-
+##### Lay on Hands. 
+- As an action you can restore 1 plus your Wisdom modifier hit points to a creature. You can do this a number of times equal to your proficiency bonus before you must take a long or extended rest to use this feature again.
+##### Nature’s Embrace
+- If you take a long rest in the wilderness, you can use your knowledge of natural restoratives to have a number of creatures up to your proficiency bonus regain a Hit Die. You can include yourself in this benefit.
+##### Song of Spring. 
+- You can use your action to restore 10 × your proficiency bonus of hit points to a number of allies equal to your proficiency bonus that can see and hear you. You must then take an extended rest to use this feature again.
+#### The White Path
 These powers focus on your interactions with spirits.
-
-- Censure Undead. As an action, you rebuke the undead. Each undead within 30 feet that can see and/or hear you must make a Wisdom saving throw against your spell save DC. If the creature fails its saving throw, it is rebuked for 1 minute or until it takes any damage. A rebuked creature must spend its turns trying to move as far away from you as it can, and it can’t willingly move to a space within 30 feet of you. It also can’t take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there’s nowhere to move, the creature can use the Dodge action.
-- Call Spirits. You can seek to communicate with the local spirits and learn something useful from them. You must spend 10 minutes preparing the area and then you invite the spirits to join you. Roll the percentile dice, if the result is equal to or lower than twice your mystic level you have been successful. The spirits might be able to provide you with extensive and helpful knowledge or a magical effect that resembles a spell of level equal to or lower than your proficiency bonus. You must take a long or extended rest before you use this feature again.
+##### Censure Undead. 
+- As an action, you rebuke the undead. Each undead within 30 feet that can see and/or hear you must make a Wisdom saving throw against your spell save DC. If the creature fails its saving throw, it is rebuked for 1 minute or until it takes any damage. A rebuked creature must spend its turns trying to move as far away from you as it can, and it can’t willingly move to a space within 30 feet of you. It also can’t take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there’s nowhere to move, the creature can use the Dodge action.
+##### Call Spirits. 
+- You can seek to communicate with the local spirits and learn something useful from them. You must spend 10 minutes preparing the area and then you invite the spirits to join you. Roll the percentile dice, if the result is equal to or lower than twice your mystic level you have been successful. The spirits might be able to provide you with extensive and helpful knowledge or a magical effect that resembles a spell of level equal to or lower than your proficiency bonus. You must take a long or extended rest before you use this feature again.
 - Purification. Use your action to touch one melee weapon. For the next minute, that weapon does radiant damage and adds 1d4 plus your proficiency bonus to its damage total. You gain 1 point of temporary Corruption.
-
-Nature’s Bounty
+### Nature’s Bounty
 
 At 1st level you become proficient with Alchemist’s Supplies and the Field Laboratory, allowing you to create Alchemical Elixirs in the wild.
 
-Wizard
+## Wizard
 
 You are schooled in the secrets of the old magic of the Order, knowledge born in the southern kingdom and refined by a millennium of research and education. To you, mystical powers are an extension of the fundamental laws of the world, laws that you have studied carefully and know how to use for effects both grand and impressive.
 
