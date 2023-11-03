@@ -36,23 +36,23 @@ There are places of merriment and relaxation everywhere. This exercise will exam
 Where people assign their respect shows us what they value. To get an idea of the values held by the people of your hometown, select everything you believe is true.
 
   People respected . . .
->Power
-  Authority
-  Cunning
-  Nature
-  Wealth
-  Ambition
-  The divine
-  One another
-  The law
-  Life
-  Love
-  Strength
-  Wisdom
-  Knowledge
-  Skill
-  Discovery
-  Justice
+- Power
+- Authority
+- Cunning
+- Nature
+- Wealth
+- Ambition
+- The divine
+- One another
+- The law
+- Life
+- Love
+- Strength
+- Wisdom
+- Knowledge
+- Skill
+- Discovery
+- Justice
 
   Are these values you hold today? `________________________`
   How do your personal values differ?
@@ -73,7 +73,7 @@ The force in charge of your hometown: (choose two)
 
 But . . . (choose one)
 - It was worthy of respect.
--  It killed without thought.
+- It killed without thought.
 - It made many mistakes.
 - It aged and died.
 - It was eventually overthrown.
