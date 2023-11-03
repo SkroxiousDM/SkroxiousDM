@@ -3,10 +3,10 @@ Create a snapshot of where you came from and how it shaped the person you became
 ### Where Did You Call Home?
 For some characters this is a permanent room or residence. For others it is an abstract feeling about certain periods of safety and stability. Finding those truths for your character will help you understand how he or she approaches the concept of home on the road.
 
->Where did you most often sleep? `________________________`
->What did you need to do to maintain it? `________________________`
->Did it protect you and what you cared for? `________________________`
->Do you long for it now? `________________________`
+Where did you most often sleep? `________________________`
+What did you need to do to maintain it? `________________________`
+Did it protect you and what you cared for? `________________________`
+Do you long for it now? `________________________`
 
 ### Where Did People Socialize?
 There are places of merriment and relaxation everywhere. This exercise will examine one of particular importance to your character.
