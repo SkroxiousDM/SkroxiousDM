@@ -87,38 +87,38 @@ If given the chance to lead, whom would you emulate?
 Perhaps the single thing that most dramatically colors your character’s perception of place of origin is her or his place in it. It is useless to know your character was a student, noble, or blacksmith if you do not understand how he or she feels about it. Finding this will solidify what your character is running away from and toward.
 
 I was: (choose one)
->Safe
-  Respected
-  Worshipped
-  Ignored
-  Hated
-  Feared
-  Mistreated
+- Safe
+- Respected
+- Worshipped
+- Ignored
+- Hated
+- Feared
+- Mistreated
   
 My duty was to: (choose one)
->Learn
-  Grow
-  Protect
-  Provide
-  Serve
-  Die
+- Learn
+- Grow
+- Protect
+- Provide
+- Serve
+- Die
 
 Which I: (choose one)
->Humbly accepted
-  Regretfully fulfilled
-  Actively resisted
-  Desperately ran from
-  Painfully failed
-  Continue to carry out
+- Humbly accepted
+- Regretfully fulfilled
+- Actively resisted
+- Desperately ran from
+- Painfully failed
+- Continue to carry out
 
 If you could return to this role, would you?
->Not if the chains of hell dragged me back.
-  No, I am now unworthy.
-  No, I am too important.
-  I don’t know.
-  Yes, with great sorrow.
-  Yes, but this time would be different.
-  Yes, with great pride.
+- Not if the chains of hell dragged me back.
+- No, I am now unworthy.
+- No, I am too important.
+- I don’t know.
+- Yes, with great sorrow.
+- Yes, but this time would be different.
+- Yes, with great pride.
   
 #  What Gets Left Behind
 Most people think of adventurers as being larger-than-life heroes, but all heroes come from somewhere. In this exercise, you’re going to explore objects associated with a life you walked away from. Choose details that will help inspire your creativity and answer the prompts to discover the building blocks of your past.
@@ -130,7 +130,7 @@ Choose two:    
 - I could not take this with me on the road.  
 - My interest slowly waned over time until  my heart had fully stolen away. 
 - I could hold it in my hand and feel pride.
-- There were many in my life who smiled when they saw this. 
+- There were many in my life who smiled when they saw this.
 - Even now, I sometimes think of it during wistful nights. 
 - This was crafted specifically for me with love. 
 - I made this with my own hands.  
