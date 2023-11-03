@@ -3,34 +3,34 @@ Create a snapshot of where you came from and how it shaped the person you became
 ### Where Did You Call Home?
 For some characters this is a permanent room or residence. For others it is an abstract feeling about certain periods of safety and stability. Finding those truths for your character will help you understand how he or she approaches the concept of home on the road.
 
-Where did you most often sleep? `________________________`
-What did you need to do to maintain it? `________________________`
-Did it protect you and what you cared for? `________________________`
-Do you long for it now? `________________________`
+Where did you most often sleep? `________________________`<br/>
+What did you need to do to maintain it? `________________________`<br/>
+Did it protect you and what you cared for? `________________________`<br/>
+Do you long for it now? `________________________`<br/>
 
 ### Where Did People Socialize?
 There are places of merriment and relaxation everywhere. This exercise will examine one of particular importance to your character.
 
   Choose two:
- - The hearth was always warm when the wind was cold.
- - The music moves your heart even in memory.
- - The owner was wise or at least gave advice as though he were.
- - The food was cooked with quiet pride.
- - It always seemed to hold a dazzling glow.
- - Being there faded the weight of obligation just enough.
- - You watched more than you took part.
+- The hearth was always warm when the wind was cold.
+- The music moves your heart even in memory.
+- The owner was wise or at least gave advice as though he were.
+- The food was cooked with quiet pride.
+- It always seemed to hold a dazzling glow.
+- Being there faded the weight of obligation just enough.
+- You watched more than you took part.
 
   But . . . (choose one)
- - You rarely left with a full belly.
- - Everything was watered down.
- - It drew the most dangerous thugs and criminals.
- - You were often present but never welcome.
- - The spell it cast wore off all too quickly.
- - You risked everything to be there.
- - You could never ignore where the money went.
+- You rarely left with a full belly.
+- Everything was watered down.
+- It drew the most dangerous thugs and criminals.
+- You were often present but never welcome.
+- The spell it cast wore off all too quickly.
+- You risked everything to be there.
+- You could never ignore where the money went.
 
-  What was it officially titled? `________________________`
-  What did people call it? `________________________`
+  What was it officially titled? `________________________`<br/>
+  What did people call it? `________________________`<br/>
 
 ### What Did People Respect?
 Where people assign their respect shows us what they value. To get an idea of the values held by the people of your hometown, select everything you believe is true.
@@ -54,7 +54,7 @@ Where people assign their respect shows us what they value. To get an idea of th
 - Discovery
 - Justice
 
-  Are these values you hold today? `________________________`
+  Are these values you hold today? `________________________`<br/>
   How do your personal values differ?
 
 ### Who Was in Charge?
@@ -79,7 +79,7 @@ But . . . (choose one)
 - It was eventually overthrown.
 - It expected much from me.
 
-What was the ruler’s name?
+What was the ruler’s name?<br/>
 Based on this experience, when you picture a ruler, what does he, she, or they look like?
 If given the chance to lead, whom would you emulate?
 
@@ -192,19 +192,19 @@ Constantly on the road, most adventurers split their time between staying at inn
 During the months when the cold stings even indoors, inns tend to skimp on the sheets.
   What do you bring to keep yourself warm?
 
-Although there are hidden gems everywhere, most inns don’t pride themselves on culinary delicacies.
+Although there are hidden gems everywhere, most inns don’t pride themselves on culinary delicacies.<br/>
   What do you always keep with you to liven up a bland meal?
 
-Wood, thatch, pitch, and mud—the materials most inns are built from—are warmer than a tent but aren’t exactly pretty.
+Wood, thatch, pitch, and mud—the materials most inns are built from—are warmer than a tent but aren’t exactly pretty.<br/>
   What colorful thing cuts through the monotony of most inns?
 
-An evening of carousing often leads to singing and swapping stories.
+An evening of carousing often leads to singing and swapping stories.<br/>
   What tale or song do you bring to an evening of revelry to warm your homesick heart?
 
-Not every hero gambles his or her treasure, but almost all adventurers play games to pass the time.
+Not every hero gambles his or her treasure, but almost all adventurers play games to pass the time.<br/>
   What is your favorite thing to play?
 
-For some adventurers, taking a bath is the ultimate luxury.
+For some adventurers, taking a bath is the ultimate luxury.<br/>
   When you’re not scrubbing away the dirt of the road, how do you make the most of the experience?
 
 # Five Fears
