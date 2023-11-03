@@ -94,7 +94,7 @@ I was: (choose one)
 - Hated
 - Feared
 - Mistreated
-  
+<br/>
 My duty was to: (choose one)
 - Learn
 - Grow
