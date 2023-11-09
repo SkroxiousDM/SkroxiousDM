@@ -48,9 +48,17 @@ Gothic horror is about the terror within, not without. It shatters the illusion 
 
 Gothic horror’s roots trace back to Horace Walpole’s 1764 book, The  Castle  of  Otranto.  Typically  centered  on  a  battle between  humanity  and  the  forces  of  evil,  gothic  horror features   bleak,   oppressive,   dark   landscapes   and,   often, stories of tragic romance. Other examples of classic gothic horror  include  Bram  Stoker’s Dracula,  Mary  Shelly’s Frankenstein, Edgar Allan Poe’s “The Raven,” and Charles Pierre Baudelaire’s poems (such as “Les Fleurs du mal”). Curse of Strahd and the Ravenloft setting is D&D’s version of  gothic  horror.  Characters  in  this  type  of  world  are  not fantastic  heroes  but  ordinary  adventurers  achieving  the extraordinary—that  is,  simply  surviving  and  overcoming their fears .In  essence,  the  player  character  (PC)  must  endure  their bleak  and  desperate  position  in  the  world.  The  odds  are against  them,  and  evil  and  dangers  surrounding  them  are not   only   inescapable   but   unfathomable,   fueling   fear, horror, dread, and possibly even madness and insanity. Gothic  realms  are  full  of  decay,  dead  trees,  corpses, skeletons, and decrepit areas. Villagers are usually locked in their homes, and only those willing to risk death wander the open  road.  Despair  is  common  among  villagers,  who  have no hope of escape. Apathy born of the oppressive weight of fear.
 
-## Extraordinary Adventurer
+# Setting Expectations
+Welcome to a world shrouded in darkness and horror, where secrets and conspiracies lurk around every corner. In order to fully immerse themselves in this chilling adventure, you should consider these expectations when crafting your characters and preparing for the campaign:
 
-In   Legends   of   Barovia, your character   is   an ordinary adventurer that  can achieve the extraordinary—but  they have to earn it. No one becomes a hero in Barovia until they prove their merit. Barovia is a  unique place, and your character will  be out of  their  element.  At  least  initially, they will not be seen  as heroes   and   will   be   treated accordingly. This   serves   to reinforce  the  shock  your  character may  experience  when they  first  face  the darkness and  horrors  that  plague  this realm. Depression,  fear,  and  darkness  cover  the  land.  Talk  is cheap, and  only  results that  are  hard won through brave deeds are valued.  Dozens if not hundreds have ventured into this  realm,  all  believing they  would  be the triumphant heroes to save this dark place. None have succeeded. 
+* ***Tone***. Embrace the dark fantasy setting and create characters with heroic hearts or the potential to grow into true heroes when faced with life-or-death situations. Cooperation and collaboration will be key in this twisted realm.
+* ***Theme***. As you explore this gothic horror landscape, prepare to allow your characters to confront their own regrets, traumas, flaws, and fears, enhancing the overall atmosphere and tension of the campaign.
+* ***Engagement***. Prepare to delve deep into the rich lore and history of this world. Taking notes and engaging with the story will not only heighten your experience but also benefit your party as you navigate this intricate adventure.
+* ***Tactics***. Tread carefully in a land rife with hidden allies and potential enemies. Consider the consequences of your actions and avoid making unnecessary enemies who could hinder your progress.
+* ***Roleplay***. Be open to forming meaningful relationships with the unique and intriguing non-player characters that inhabit this world. Emotional investment in these characters will enrich your overall experience.
+* ***Difficulty***. Death may lurk around every corner, but with clever thinking and strategic alliances, your party can overcome even the most daunting obstacles.
+* ***Rewards***. While material treasures may be scarce, the true rewards of this campaign lie in the allies, information, and story hooks you'll uncover as you complete each harrowing quest. Experience points will be awarded for milestones achieved along the way.
+* ***Narrative***. Expect the campaign to begin with a clear path but quickly evolve into an expansive sandbox. Balancing and prioritizing multiple quests will be crucial as you navigate the world's urgent deadlines and far-reaching consequences.
 
 ### Warning
 
@@ -81,25 +89,16 @@ Legends of Barovia leans into to roleplaying pillar of D&D. NPCs are not just qu
 Your character will face difficulty, even disappointment. However, what does not destroy those in Barovia, makes one stronger. Setbacks make victory all the sweeter.
 
 ### Lore
-
-Lore matters in Legends of Barovia. Not only does it provide context, but it also offers clues and important information. NPCs may share history, myths, and lore with you, filling in the gaps and creating a rich world and experience. Books, journals, and letters found throughout Barovia serve a similar purpose. Libraries, homes, and bookstores are great places to find books with valuable information.
+Lore matters in Barovia. Not only does it provide context, but it also offers clues and important information. NPCs may share history, myths, and lore with you, filling in the gaps and creating a rich world and experience. Books, journals, and letters found throughout Barovia serve a similar purpose. Libraries, homes, and bookstores are great places to find books with valuable information.
 
 ### Mystery
-
 Everything is connected, and there is always something deeper to learn. Not everyone should be trusted, and not everyone tells the truth. Some enemies may become strange bedfellows, so don’t judge a book by its cover!
 
 ### Sacrifice
-
 There may be times when your character must make a choice that results in unsavory consequences and sacrifices. Which road to take? Is there enough time? Is the reward worth the risk? In Legends of Barovia, your choices matter.
 
 ### Humor
-
 Humor, even dark humor, provides a sense of comfort and safety in the most desperate situations. Laughter is often the best medicine. Don’t be afraid to laugh.
 
-### Romantic Tragedy
-
-Legends of Barovia is a world of romantic tragedy. Even in the land of darkness love, desire, and passion yearns even in the darkest souls. Yet there is hope, and that is what your character brings to Barovia—hope to end the dark romantic tragedy and bring forth a renaissance.
-
 ### Sanity
-
 The realm of Barovia is like no other. Your character has never seen nor faced such a realm. They will face fear, horror, despair, and even madness. Managing your sanity is one of the important factors in surviving and succeeding in Barovia. While Legendsof Barovia includes mechanics to address character sanity, roleplaying the various mental afflictions plaguing your character further enhances the play experience.
