@@ -57,7 +57,7 @@ Equipment: Monster hunter’s pack
 |5|I harbor bloodthirsty thoughts on clear nights when I can see the moon.|
 |6|I am headstrong and stubbornly seek an end to my curse, sometimes making rash decisions.|
 
-Feature: The Beast Within. Each full moon, you turn into a werewolf under the DM’s control for the night. Unless caged or fully restrained with silver manacles, you go on a bloody rampage. Each full moon happens 3 consecutive nights per month. Each morning after a full moon, you must succeed on a DC 10 Wisdom save or suffer a long-term madness until dusk. Each subsequent full moon, the Wisdom save DC increases by 1.
+**Feature:** _The Beast Within_. Each full moon, you turn into a werewolf under the DM’s control for the night. Unless caged or fully restrained with silver manacles, you go on a bloody rampage. Each full moon happens 3 consecutive nights per month. Each morning after a full moon, you must succeed on a DC 10 Wisdom save or suffer a long-term madness until dusk. Each subsequent full moon, the Wisdom save DC increases by 1.
 
 During the waxing gibbous phase (4 consecutive days before the full moon), you must make a Nightmare check (see Nightmare rules). If you succeed you feel a change coming.
 
