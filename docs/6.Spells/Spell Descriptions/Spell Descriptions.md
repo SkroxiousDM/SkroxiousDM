@@ -13,30 +13,6 @@ Spells in semibold italics can be cast as rituals.
 Spells with an asterisk (*) cannot be favored.
 
 
-1st Level Spells
-[[Healing Word]]
-
-[[Hellish Rebuke]]
-
-[[Heroism]]
-
-[[Holy Smoke]]
-
-[[Inflict Wounds]]
-
-[[Longstrider]]
-
-[[Mage Armor]]
-
-[[Magic Missile]]
-
-[[Protection from Evil and Good]]
-
-[[Sleep]]
-
-
-[[Thunderwave]]
-
 2nd Level Spells
 
 ACID ARROW

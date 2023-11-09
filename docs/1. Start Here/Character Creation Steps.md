@@ -1,5 +1,5 @@
 
-Step 1. Roll [[Ability Scores]]
+Step 1. Roll [[Ability Scores]] 
 Step 2. Choose an [[Origin]] and background
 Step 3. Choose a [[Class]]
 Step 4. Choose a [[Bond]], [[Flaw]] and [[Complication]]
