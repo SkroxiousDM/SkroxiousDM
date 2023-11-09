@@ -1,14 +1,5 @@
 # Character Creation Primer
 
-Step 1. Roll [[Ability Scores]]
-Step 2. choose an [[Origin]] and background
-Step 3. choose a [[Class]]
-Step 4. choose a [[Flaw]] and [[Bond]]
-step 5. choose a [[Motivation]]
-
-
-
-
 
 
 Character creation is an important aspect of Dungeons & Dragons, but creating a compelling character and backstory can be difficult. The purpose of this primer is to inspire players’ creativity and help develop unique characters that they may have not considered without rolling on the following tables.

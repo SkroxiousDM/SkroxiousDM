@@ -50,3 +50,5 @@ If, after reading this far, you think Curse of Strahd may be the campaign for yo
 
 ### Oh - and don’t Google anything related to the campaign.
 **The Web, after all, is dark, and full of spoilers.**
+
+[[Character Creation Steps]]
