@@ -37,21 +37,21 @@ Each Player should make one Belief about some aspect of the Premise of the Campa
 
 The World Belief directly connects your Character to a key part of the Premise of the Campaign and their goals regarding it. It could relate to a Character, a faction, impending conflict, recent disaster, or any other force requiring immediate action. Pick something that interests you as a Player, and think about your Character's opinion on it. How do they view it and feel about it? Consider how they will act based on this opinion, and what has prevented them from doing so already, or what stands in their way now. The DM may want to use this Belief to unite the Players under a common cause. Using our previous example, they might say the Campaign is about an impending disaster in Tarn. Each Player should have their Character’s Belief provide a reason for them to sympathize with House Thorn or have animosity towards the factors that threaten it. Being bound by a similar World Belief helps move the story forwards while giving all Characters the opportunity to be true to their concept.
 
-Malik’s World Belief: ***House Thorn is the only power holding order in eastern Tarn, and if it falls many Eskarn will suffer. For the sake of my people I will use my might to defeat the House’s enemies wherever I find them.***
+>Malik’s World Belief: ***House Thorn is the only power holding order in eastern Tarn, and if it falls many Eskarn will suffer. For the sake of my people I will use my might to defeat the House’s enemies wherever I find them.***
 
-Elaria’s World belief: ***Before he died, the Lord of House Thorn took me in even though I’m his bastard. I owe him my life, and I will defend House Thorn with my guile and my bow to the very end.***
+>Elaria’s World belief: ***Before he died, the Lord of House Thorn took me in even though I’m his bastard. I owe him my life, and I will defend House Thorn with my guile and my bow to the very end.***
 
 ## Other Belief  
 
 The Other Belief pertains directly to another Player’s Character. Pick a Character that interests you as a Player, and think about your Character’s feelings about or towards that Character. You may wish to help or hinder them in some way.
 
-Malik’s Other Belief: ***I loved Elaria’s father as a brother and owed him my life. To pay this debt, I must protect his daughter’s honor and person with my steel as if she were my own.***
+>Malik’s Other Belief: ***I loved Elaria’s father as a brother and owed him my life. To pay this debt, I must protect his daughter’s honor and person with my steel as if she were my own.***
 
 This tells us a lot about this Character. It is strongert han the simple expression of a statistic characteristic. We know from this that he is loyal, and imbued with a sense of honor and duty beyond the simple idea that he will protect Elaria. More importantly, it tells the DM and other Players what types of activities his Player wants from the game. He wants to fight to protect others. Ideals of honor and bonds of kinship are important to him.
 
 A strong Belief like this opens up the possibility for exciting interactions between Characters.
 
-Elaria’s Other Belief: ***As I grew to maturity, my adoration of Mailk became something more, but because he is half Eskarn and I am of Noble Tarnish blood, this love can never be. I must act coldly towards him while harboring my secret feelings.***
+>Elaria’s Other Belief: ***As I grew to maturity, my adoration of Mailk became something more, but because he is half Eskarn and I am of Noble Tarnish blood, this love can never be. I must act coldly towards him while harboring my secret feelings.***
 
 This belief already strongly colors their interactions and adds potential for future intrigue. When Malik finds out, he may then be conflicted over Elaria’s role as a surrogate daughter or perhaps reciprocate her amorous feelings. Malik’s Player might even be inspired by this narrative avenue and shape his backstory to add fuel to it. He could say that Malik was always in love with Elaria’s mother, whom she very much resembles, but who chose Elaria’s father over him. This is just one of a multitude of engaging interactions made possible by a strong Belief. Perhaps Elaria hates Malik, blaming him for her father’s death, and wants nothing to do with what she views as his attempt at penance. Even though each Player only makes a single Other Belief, they are encouraged when creating their Character to discuss potential shared backstory that may tie them to other Characters. The Other Belief simply represents the strongest or most interesting of these connections that a Player wishes to explore.
 
@@ -62,6 +62,3 @@ The Self Belief is the most complex of the three, and is often the most difficul
 > Malik’s Self Belief: ***I am of Eskarn blood, the Inoruit are my kinsmen, and the Tarnish have caused much wrong to my people. I will uphold my bonds of blood and clan before those of gold or fealty.***
 
 > Elaria’s Self Belief: ***I have always resented being a bastard. I can lead the House better than my half brother, and I will use subterfuge to ensure that I sit upon my father’s throne.***
-
-[[Beliefs]]
-[[Complication]]

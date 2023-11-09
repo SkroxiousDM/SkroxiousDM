@@ -49,7 +49,7 @@ The Games Master will be more likely to accept proposed uses of Destiny which co
 
 When a player spends a Fate Point, it is gone forever. It does not recover with time, nor does the player automatically gain new Fate Points as he advances in level.
 
-Any time a player chooses to roleplay their characters Complications (see[[Beliefs]]) or Flaws (see [[RRL Flaws & Bonds]]) in such a way as to create a difficult situation for their character or affects the story in an interesting way the GM should award a Fate Point.
+Any time a player chooses to roleplay their characters Complications (see[[Beliefs]]) or Flaws (see [[Flaws]]) in such a way as to create a difficult situation for their character or affects the story in an interesting way the GM should award a Fate Point.
 At the end of each Act, characters are awarded Fate points based on how they were played. The group decides by consensus:
 - Who most embodied their character? Which character most closely adhered to their belief, traits and goal? Up to one character may receive this award.
 - Who came through when the party most needed it? Who rolled well at a critical moment, or devised the most ingenious plan. Up to one character may receive this award.
