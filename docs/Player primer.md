@@ -5,7 +5,7 @@ _You are but a small, frail handful of flickering lights set against great darkn
 _Time will tell. Enter the land of Barovia. A land of greys and shadows where light struggles against eternal darkness.
 
 # Player’s Guide
-This player’s guide serves to inform you about the campaign, set expectations, and clarify rules pertaining to the campaign. Please carefully review this guide. Rules related to D&D may be found online in the D&D Basic Rules. Your Dungeon Master may have additional rules and information beyond the scope of the Basic Rules and this guide, which you can discuss during session zero. see [7. House Rules]
+This player’s guide serves to inform you about the campaign, set expectations, and clarify rules pertaining to the campaign. Please carefully review this guide. Rules related to D&D may be found online in the [D&D Basic Rules](https://www.dndbeyond.com/sources/basic-rules). Your Dungeon Master may have additional rules and information beyond the scope of the Basic Rules and this guide, which you can discuss during session zero. see [7. House Rules]
 ## What Is Gothic Horror?
 
 Gothic horror is about the terror within, not without. It shatters the illusion of humanity in a poignant way by holding a mirror up to us and saying: look at what we truly are, and look at what we pretend to be. Under that mask of civility, there is depravity. Under that thin veneer of society, there is wickedness. Under all the trappings of sophistication, are we not all predators or prey? Gothic horror shatters the lies we trick ourselves into believing and shows that we, not some distant entity, are and ever shall be the architects of our doom. The quest for perfection leads us to discover our own imperfection. Our quest for the divine leads us to believe we, ourselves, are gods. These are the themes that haunt stories of Gothic horror.
@@ -47,8 +47,6 @@ If, after reading this far, you think Curse of Strahd may be the campaign for yo
 - Outside goals are hard (if not impossible) to achieve in Barovia. It's worth working with your DM to create a character driven to Barovia for some purpose that can only be fulfilled within its borders. Make sure to speak with your DM about how to shape your backstory into something that can be relevant in the world of Barovia.
 - Try to remove yourself from the “XP and loot” model of progression in traditional campaigns and video games, and instead try to enjoy the narrative progression of winning allies, fulfilling objectives, and advancing the story of the campaign and player characters.
 - Don't try to play an apathetic or evil player character unless you are 100% sure that you can pull it off while being a supportive team player and engaging the story like a normal PC. Seriously. You'll make this adventure a lot more difficult and unenjoyable for your DM, and you'll be cheating yourself out of a fun experience. You don't need to play a knight in shining armor, but you definitely shouldn't play a villain.
-- Curse of Strahd, as-written, is full of disturbing and graphic content. If you are potentially triggered by elements of child abuse, murder, stalking, gaslighting, racism, torture, mind control, cannibalism, situations paralleling sexual assault, child death, references to stillbirth/miscarriage, abuse of those with disabilities or mental illness, animal cruelty, body horror, child abandonment, portrayals of alcoholism or drug abuse, potential incest, implied necrophilia, or suicide, speak with your DM about potentially working around or entirely avoiding these elements.
 
-Oh - and don’t Google anything related to the campaign.
-
-The Web, after all, is dark, and full of spoilers.
+### Oh - and don’t Google anything related to the campaign.
+**The Web, after all, is dark, and full of spoilers.**
