@@ -99,7 +99,7 @@ You learn the following rituals: holy smoke, anathema, purgatory. You gain only 
 
 The Spirit World is the outer realm of the world, where the dead journey towards their final rest – if they are not disturbed by a necromancer on the way. Necromancers can force the spirits of the outer realm to return, in order to relay their secrets or to occupy a dead body and serve the death mage as a dragoul or some other undead being. An understanding of the mechanics of death also gives the necromancer access to ghastly powers and rituals.
 
-You learn the rituals spirit walk, animate dead, commune with spirits. You gain only 3 permanent Corruption for these rituals and do not gain any Corruption when you cast them.
+You learn the rituals [[spirit walk]], animate dead, commune with spirits. You gain only 3 permanent Corruption for these rituals and do not gain any Corruption when you cast them.
 
 ### Pyromancer
 

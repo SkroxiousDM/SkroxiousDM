@@ -10,7 +10,7 @@ CANTRIPS
 
 |   |   |
 |---|---|
-|[[Black Bolt]]*<br><br>[[Burning Hands]]*<br><br>[[Charm Person]]`*`<br><br>{Comprehend Languages}<br><br>{Detect Magic}<br><br>{Disguise Self}<br><br>{Expeditious Retreat}<br><br>{[[False Life]]*}<br><br>{Feather Fall}|{[[Fog Cloud]]}<br><br>{[[Mage Armor]]}<br><br>{[[Magic Missile]]*}<br><br>{Silent Image}<br><br>{Spirit Walk}<br><br>{Thunderwave}|
+|[[Black Bolt]]*<br><br>[[Burning Hands]]*<br><br>[[Charm Person]]`*`<br><br>{Comprehend Languages}<br><br>{Detect Magic}<br><br>{Disguise Self}<br><br>{Expeditious Retreat}<br><br>{[[False Life]]*}<br><br>{Feather Fall}|{[[Fog Cloud]]}<br><br>{[[Mage Armor]]}<br><br>{[[Magic Missile]]*}<br><br>{Silent Image}<br><br>{[[Spirit Walk]]}<br><br>{Thunderwave}|
 
 2ND LEVEL
 

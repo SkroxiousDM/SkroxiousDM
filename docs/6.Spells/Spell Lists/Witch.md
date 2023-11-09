@@ -8,7 +8,7 @@ CANTRIPS
 
 |   |   |
 |---|---|
-|{[[Charm Person]]*}<br><br>{Comprehend Languages}<br><br>{Entangle}<br><br>{Expeditious Retreat}<br><br>{Find Familiar}|{[[Hellish Rebuke]]*}<br><br>{Illusory Script}<br><br>{Protection from Evil<br><br>{Spirit Walk}<br><br>{Unseen Servant}|
+|{[[Charm Person]]*}<br><br>{Comprehend Languages}<br><br>{Entangle}<br><br>{Expeditious Retreat}<br><br>{Find Familiar}|{[[Hellish Rebuke]]*}<br><br>{Illusory Script}<br><br>{Protection from Evil<br><br>{[[Spirit Walk]]}<br><br>{Unseen Servant}|
 
 2ND LEVEL
 

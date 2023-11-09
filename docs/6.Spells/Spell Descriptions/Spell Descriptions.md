@@ -66,19 +66,7 @@ Undead and creatures immune to being charmed aren’t affected by this spell.
 
 At Higher Levels. When you cast this spell at 2nd level or higher, roll an additional 2d8 for each level above 1st.
 
-SPIRIT WALK
 
-1st-­level transmutation (ritual)
-
-Casting Time: 1 minute
-
-Range: Self
-
-Components: V
-
-Duration: 10 minutes
-
-You become part of the spirit world for up to 10 minutes. You are invisible to creatures in the material world but can see (and be seen by) any local spirits. Unfriendly spirits might attack you and you can use your reaction to end this spell early.
 
 THUNDERWAVE
 
