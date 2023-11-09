@@ -8,7 +8,7 @@ Step 6. Craft your [[Beliefs]]
 Step 7.  Choose a [[Character Creation Feat]], and optional [[Burden]]
 Step 8. Work through the [[Character Creation Primer]] and [[Backstory Questions]]
 
-The Campaign will begin at Level 2
+The Campaign will begin at Level 2.
 
 
 

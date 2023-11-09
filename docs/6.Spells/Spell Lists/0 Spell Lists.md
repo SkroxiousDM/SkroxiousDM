@@ -14,4 +14,4 @@ Spells with an asterisk (`*`) *cannot be favored.*
 [[Theurg]]
 [[Rune Singer]]
 [[Witch]]
-Wizard
+[[Wizard]]
