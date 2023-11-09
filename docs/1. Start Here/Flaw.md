@@ -36,4 +36,4 @@ Stubbornness | I must learn to overcome my pride and make amends to those I have
 Timidity | I must learn to stand up for myself, rather than letting others control me.
 
 
-[[Bonds]]
+[[Bond]]
