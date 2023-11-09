@@ -9,7 +9,7 @@ CANTRIPS
 
 |   |   |
 |---|---|
-|{[[Animal Friendship]]}<br><br>{[[Bane]]*}<br><br>{[[Charm Person]]*}<br><br>{Comprehend Languages}<br><br>{[[Cure Wounds]]*}<br><br>{Detect Magic}<br><br>{Disguise Self}<br><br>{Entangle}<br><br>{Faerie Fire}<br><br>{[[Healing Word]]*}|{Heroism}<br><br>{Hideous Laughter*}<br><br>{Identify}<br><br>{Illusory Script}<br><br>{Longstrider}<br><br>{Silent Image}<br><br>{Sleep}<br><br>{Speak with Animals}<br><br>{Thunderwave}<br><br>{Unseen Servant}|
+|{[[Animal Friendship]]}<br><br>{[[Bane]]*}<br><br>{[[Charm Person]]*}<br><br>{Comprehend Languages}<br><br>{[[Cure Wounds]]*}<br><br>{Detect Magic}<br><br>{Disguise Self}<br><br>{Entangle}<br><br>{Faerie Fire}<br><br>{[[Healing Word]]*}|{[[Heroism]]}<br><br>{Hideous Laughter*}<br><br>{Identify}<br><br>{Illusory Script}<br><br>{[[Longstrider]]}<br><br>{Silent Image}<br><br>{Sleep}<br><br>{Speak with Animals}<br><br>{Thunderwave}<br><br>{Unseen Servant}|
 
 2ND LEVEL
 

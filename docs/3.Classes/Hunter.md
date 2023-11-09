@@ -196,7 +196,7 @@ At 1st level you gain proficiency with both Arcana and Religion, representing yo
 ### Ritualist
 At 1st, 2nd, 3rd, 5th, 7th and 9th level choose a ritual spell (one with the ritual tag) from the Theurg tradition list. The spell level must be equal to or lower than half your current proficiency bonus.
 
-You gain permanent Corruption (see {[[Corruption and Shadow]]}) equal to half the spell level, rounded up. If the ritual is a cantrip, you gain no permanent Corruption. You can only cast the chosen spell as a ritual – the ritual version of a spell takes 10 minutes longer to cast than normal and can only be cast at its base level. You gain no Corruption from casting one of these spells.
+You gain permanent Corruption (see {[[Corruption & Shadow]]}) equal to half the spell level, rounded up. If the ritual is a cantrip, you gain no permanent Corruption. You can only cast the chosen spell as a ritual – the ritual version of a spell takes 10 minutes longer to cast than normal and can only be cast at its base level. You gain no Corruption from casting one of these spells.
 
 ### Deadly Need
 Starting at 3rd level you have learned enough of the sorcerous arts that, if pressed, you can cast a spell at need. You can cast one of the spells you know as a non-ritual spell but you gain twice the normal Corruption since your understanding of the magical arts is limited.

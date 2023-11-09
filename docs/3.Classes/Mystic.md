@@ -71,7 +71,7 @@ At first level you also choose your approach, which determines how you learned y
 Your approach gives you benefits at 1st, 2nd, 3rd, 5th, 7th and 9th levels.
 
 ### RITUAL CASTING
-At 1st level, you may choose a spell that you do not already know that is on your mystic approach spell list, has the ritual tag, and does not exceed your current maximum spell level. If you do so, you gain permanent Corruption (see {[[Corruption and Shadow]]}) equal to half the spell level, rounded up. If the ritual is a cantrip, you gain no permanent Corruption. You can only cast the chosen spell as a ritual – the ritual version of a spell takes 10 minutes longer to cast than normal and can only be cast at its base level. You gain no Corruption from casting one of these spells.
+At 1st level, you may choose a spell that you do not already know that is on your mystic approach spell list, has the ritual tag, and does not exceed your current maximum spell level. If you do so, you gain permanent Corruption (see {[[Corruption & Shadow]]}) equal to half the spell level, rounded up. If the ritual is a cantrip, you gain no permanent Corruption. You can only cast the chosen spell as a ritual – the ritual version of a spell takes 10 minutes longer to cast than normal and can only be cast at its base level. You gain no Corruption from casting one of these spells.
 
 You may also learn another spell as a ritual using these rules at 3rd, 4th, 6th and 7th level.
 
@@ -235,7 +235,7 @@ Example: If you have 5 permanent Corruption then you could cast up to five 1st l
 
 The Call of Darkness
 
-At 5th level, the Sorcerer can make use of the shadows that lie in the hearts of others. When you cast a spell that requires a Wisdom saving throw, each affected creature adds its permanent Corruption to the spell saving throw DC. If the creature is thoroughly corrupt (see [[Corruption and Shadow]]) then this effect does not apply.
+At 5th level, the Sorcerer can make use of the shadows that lie in the hearts of others. When you cast a spell that requires a Wisdom saving throw, each affected creature adds its permanent Corruption to the spell saving throw DC. If the creature is thoroughly corrupt (see [[Corruption & Shadow]]) then this effect does not apply.
 
 Revenant Strike
 

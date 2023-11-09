@@ -16,85 +16,15 @@ Spells with an asterisk (*) cannot be favored.
 1st Level Spells
 [[Healing Word]]
 
-HELLISH REBUKE*
+[[Hellish Rebuke]]
 
-1st-­level evocation
+[[Heroism]]
 
-Casting Time: 1 reaction (when a creature damages you)
+[[Holy Smoke]]
 
-Range: 60 feet
+[[Inflict Wounds]]
 
-Components: V, S
-
-Duration: Instantaneous
-
-You point your finger, and the creature that damaged you is momentarily surrounded by hellish flames. The creature must make a Dexterity saving throw. It takes 2d10 fire damage on a failed save, or half as much damage on a successful one.
-
-At Higher Levels. When you cast this spell at 2nd level or higher, the damage increases by 1d10 for each level above 1st.
-
-HEROISM
-
-1st-­level enchantment
-
-Casting Time: 1 action
-
-Range: Touch
-
-Components: V, S
-
-Duration: Concentration, up to 1 minute
-
-A willing creature you touch is imbued with bravery. Until the spell ends, the creature is immune to being frightened and gains temporary hit points equal to your spellcasting ability modifier at the start of each of its turns. When the spell ends, the target loses any remaining temporary hit points gained from this spell.
-
-At Higher Levels. When you cast this spell at 2nd level or higher, you can target one additional creature for each level above 1st.
-
-HOLY SMOKE
-
-1st-­level divination (ritual only)
-
-Casting Time: 1 action
-
-Range: 10 feet
-
-Components: V,M (incense)
-
-Duration: Concentration, up to 1 minute
-
-You light incense and choose a 10-foot cube within range. The smoke spreads among those present and gathers around objects and creatures in relation to how corrupted they are: the closer the smoke gathers, the more tainted the creature in question is. The Game­master clearly states if objects or creatures are blight-­stricken, blightmarked or thoroughly corrupt. (See {[[Corruption and Shadow]]}).
-
-Holy smoke can be countered by the exchange shadow spell.
-
-INFLICT WOUNDS*
-
-1st-­level necromancy
-
-Casting Time: 1 action
-
-Range: Touch
-
-Components: V, S
-
-Duration: Instantaneous
-
-Make a melee spell attack against a creature you can reach. On a hit, the target takes 3d10 necrotic damage.
-
-At Higher Levels. When you cast this spell at 2nd level or higher, the damage increases by 1d10 for each level above 1st.
-
-LONGSTRIDER
-
-1st-­level transmutation
-
-Casting Time: 1 action
-
-Range: Touch
-
-Components: V, S, M (a pinch of dirt)
-
-Duration: 1 hour
-
-You touch a creature. The target’s speed increases by 10 feet until the spell ends.
-
-At Higher Levels. When you cast this spell at 2nd level or higher, you can target one additional creature for each level above 1st.
+[[Longstrider]]
 
 MAGE ARMOR
 
