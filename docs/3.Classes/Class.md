@@ -1,0 +1,5 @@
+[[Captain]]
+[[Hunter]]
+[[Mystic]]
+[[Scoundrel]]
+[[Warrior]]
