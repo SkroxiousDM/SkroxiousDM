@@ -196,7 +196,7 @@ Before the players leave Franz’s tent, he grabs for the closest one and rasps,
 >
 > The players can identify the nature of Franz’s current condition by consulting *Ethereal Entities* or by asking Dr. Rudolph van Richten for a diagnosis of his symptoms.
 >
-> If consulted, Van Richten informs the players that the only true way to end a **night hag's** ***nightmare haunting*** is to kill the hag herself or to strike a bargain with her. In the meantime, however, he offers to keep Franz safe from Morgantha's hauntings through the use of his *talisman of protection from evil and good* if Franz can be surreptitiously moved to Van Richten’s current location for supervision.
+> If consulted, Van Richten informs the players that the only true way to end a **night hag's** ***nightmare haunting*** is to kill the hag herself or to strike a bargain with her. In the meantime, however, he offers to keep Franz safe from Morgantha's hauntings through the use of his *talisman of [[protection from evil and good]]* if Franz can be surreptitiously moved to Van Richten’s current location for supervision.
 
 # I3. Victor’s Plan
 <span class="citation"><em>This scene takes place in Chapter 5: Area N3t.</em></span>
