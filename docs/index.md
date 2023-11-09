@@ -9,6 +9,6 @@ MonD'n'Day Crew stay out of the link below
 I'm using a modified version of Free League's "Ruins of Symbaroum" for charcter classes, wherin I've compressed the original 20 levels into 10.
 
 navigation on the top right
-[[1. Character Creation Primer]]
+[[Character Creation Primer]]
 
 

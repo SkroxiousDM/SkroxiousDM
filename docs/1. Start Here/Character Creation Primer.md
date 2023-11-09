@@ -3,7 +3,10 @@
 Step 1. Roll [[Ability Scores]]
 Step 2. choose an [[Origin]] and background
 Step 3. choose a [[Class]]
-Step 4. 
+Step 4. choose a Flaw and Bond from [[RRL Flaws & Bonds]]
+step 5. choose a Motivation from [[RRL Motivations]]
+
+
 
 
 
@@ -277,7 +280,6 @@ For the last section of personality development, you'll roll for a quirk. Everyo
 Roll a d20 on the table below to discover your character's quirk.
 
 ###### Quirks Table
-
 |d20.|Quirk|
 |---|---|
 |1|Birds unnerve you. You feel as though any bird perched nearby is watching you.|
