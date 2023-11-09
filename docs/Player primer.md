@@ -5,12 +5,10 @@ _You are but a small, frail handful of flickering lights set against great darkn
 _Time will tell. Enter the land of Barovia. A land of greys and shadows where light struggles against eternal darkness.
 
 # Player’s Guide
-This player’s guide serves to inform you about the campaign, set expectations, and clarify rules pertaining to the campaign. Please carefully review this guide. Rules related to D&D may be found online in the D&D Basic Rules. Your Dungeon Master may have additional rules and information beyond the scope of the Basic Rules and this guide, which you can discuss during session zero. Curse of Strahd and Legends of Barovia lean on the three pillars of RPGs: exploration, social encounters, and combat. Legends of Barovia delves into each of these pillars and more. To survive and succeed in Barovia, the PCs must learn about the history that has shaped the realm. The lore reveals NPC motives and clues about how to succeed in quests and eventually escape the Mists. Additional lore can be learned by finding letters, journals, and tomes. The unspoken power in Barovia is knowledge, and deciphering myths from truths will help the players successfully navigate the realm. 
-
+This player’s guide serves to inform you about the campaign, set expectations, and clarify rules pertaining to the campaign. Please carefully review this guide. Rules related to D&D may be found online in the D&D Basic Rules. Your Dungeon Master may have additional rules and information beyond the scope of the Basic Rules and this guide, which you can discuss during session zero. see [7. House Rules]
 ## What Is Gothic Horror?
 
 Gothic horror is about the terror within, not without. It shatters the illusion of humanity in a poignant way by holding a mirror up to us and saying: look at what we truly are, and look at what we pretend to be. Under that mask of civility, there is depravity. Under that thin veneer of society, there is wickedness. Under all the trappings of sophistication, are we not all predators or prey? Gothic horror shatters the lies we trick ourselves into believing and shows that we, not some distant entity, are and ever shall be the architects of our doom. The quest for perfection leads us to discover our own imperfection. Our quest for the divine leads us to believe we, ourselves, are gods. These are the themes that haunt stories of Gothic horror.
-
 # Setting Expectations
 Welcome to a world shrouded in darkness and horror, where secrets and conspiracies lurk around every corner. In order to fully immerse themselves in this chilling adventure, you should consider these expectations when crafting your characters and preparing for the campaign:
 
@@ -39,35 +37,6 @@ Welcome to a world shrouded in darkness and horror, where secrets and conspiraci
 ### Pause for a Second
 In addition to the safety tools implemented by your DM, at any time you may say, “pause for a second” to discuss the current situation out of character, including stating “I am not comfortable with where this is going.” All players should be respectful if a player invokes“ pause for a second.”
 
-### Gothic Atmosphere
-The realm of Barovia is foreboding, dark, odd, and unsafe. The PCs are adventurers in a foreign land that, at times, will outmatch them. Victory will be hard won, and defeat, even death, is an option. Yet for all Barovia’s darkness, there is light and hope. The characters’ goal is to restore beauty and splendor to Barovia, which it has not seen in almost four hundred years.
-
-### Combat Encounters
-Combat encounters may not be balanced. To provide a gothic horror feel, some encounters may be easy and others extremely hard. Retreat is an option. Sometimes retreating to fight another day is better than pressing on.  Analyze the situation and determine the best course of action. You will not win every encounter and sometimes could face deadly situations or suffer serious injuries.
-
-### Social Encounters
-Legends of Barovia leans into to roleplaying pillar of D&D. NPCs are not just quest givers or shopkeepers—they bring the world to life. Remember the following:
-- Barovians are fearful and untrusting. They may whisper or tell only part of what they know.
-- Some know valuable secrets, listen carefully.
-- Rumors, myths, and lore is often told in different ways.
-
-### Setbacks
-Your character will face difficulty, even disappointment. However, what does not destroy those in Barovia, makes one stronger. Setbacks make victory all the sweeter.
-
-### Lore
-Lore matters in Barovia. Not only does it provide context, but it also offers clues and important information. NPCs may share history, myths, and lore with you, filling in the gaps and creating a rich world and experience. Books, journals, and letters found throughout Barovia serve a similar purpose. Libraries, homes, and bookstores are great places to find books with valuable information.
-
-### Mystery
-Everything is connected, and there is always something deeper to learn. Not everyone should be trusted, and not everyone tells the truth. Some enemies may become strange bedfellows, so don’t judge a book by its cover!
-
-### Sacrifice
-There may be times when your character must make a choice that results in unsavory consequences and sacrifices. Which road to take? Is there enough time? Is the reward worth the risk? In Legends of Barovia, your choices matter.
-
-### Humor
-Humor, even dark humor, provides a sense of comfort and safety in the most desperate situations. Laughter is often the best medicine. Don’t be afraid to laugh.
-
-### Sanity
-The realm of Barovia is like no other. Your character has never seen nor faced such a realm. They will face fear, horror, despair, and even madness. Managing your sanity is one of the important factors in surviving and succeeding in Barovia. While Legends of Barovia includes mechanics to address character sanity, roleplaying the various mental afflictions plaguing your character further enhances the play experience.
 
 If, after reading this far, you think Curse of Strahd may be the campaign for you, awesome! You’re in for a fantastic time. With that said, here are a few protips to succeeding in the course of this campaign:
 
