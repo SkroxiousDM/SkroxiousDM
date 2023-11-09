@@ -1,4 +1,5 @@
 # CHARACTER CREATION FEATS
+You may choose any [[General Feats]], [[Origin Feats]] or [[Class Feats]] you qualify for instead of a Character Creation Feat.
 
 ## Climbing Adept  
 Your character has been blessed with the supernatural ability to climb almost any surface. Perhaps you were raised by creatures dwelling among the trees, or on the faces of perilous cliffs and have learned special techniques and tools that allow you to scale most any obstacle. Or, perhaps this ability is the result of a blessing from some divine or eldritch being, or the result of magical  
