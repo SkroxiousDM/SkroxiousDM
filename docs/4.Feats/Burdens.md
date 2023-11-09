@@ -23,7 +23,7 @@ You have a thirst for blood, easily awoken and hard to quench. The thirst appear
 
 - Bonus: +2 to Wisdom
 
-You have adopted a very strict code of honor, applicable in all situations but especially burdensome in combat. The code might specify that all opponents must be defeated, or that you never stand down from a fight or that every battle must be an honorable battle one on one. Work with your GM to determine the specifics.
+You have adopted a very strict [[Code of Honour]], applicable in all situations but especially burdensome in combat. The code might specify that all opponents must be defeated, or that you never stand down from a fight or that every battle must be an honorable battle one on one. Work with your GM to determine the specifics.
 
 ## Dark Blood
 
