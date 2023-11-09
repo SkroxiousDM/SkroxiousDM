@@ -8,7 +8,7 @@ CANTRIPS
 
 |   |   |
 |---|---|
-|{Alarm}<br><br>{[[Burning Hands]]*}<br><br>{[[Charm Person]]*}<br><br>{Comprehend Languages}<br><br>{Detect Magic}<br><br>{Disguise Self}<br><br>{Expeditious Retreat}<br><br>{[[False Life]]*}<br><br>{Feather Fall}<br><br>{Find Familiar}<br><br>{Floating Disk}<br><br>{[[Fog Cloud]]}<br><br>{Grease}|{Hideous Laughter*}<br><br>{Identify}<br><br>{Illusory Script}<br><br>{Jump}<br><br>{[[Longstrider]]}<br><br>{[[Mage Armor]]}<br><br>{[[Magic Missile]]*}<br><br>{Protection from Evil and Good*}<br><br>{Shield}<br><br>{Silent Image}<br><br>{Sleep}<br><br>{Thunderwave}<br><br>{Unseen Servant}|
+|{Alarm}<br><br>{[[Burning Hands]]*}<br><br>{[[Charm Person]]*}<br><br>{Comprehend Languages}<br><br>{Detect Magic}<br><br>{Disguise Self}<br><br>{Expeditious Retreat}<br><br>{[[False Life]]*}<br><br>{Feather Fall}<br><br>{Find Familiar}<br><br>{Floating Disk}<br><br>{[[Fog Cloud]]}<br><br>{Grease}|{Hideous Laughter*}<br><br>{Identify}<br><br>{Illusory Script}<br><br>{Jump}<br><br>{[[Longstrider]]}<br><br>{[[Mage Armor]]}<br><br>{[[Magic Missile]]*}<br><br>{Protection from Evil and Good*}<br><br>{Shield}<br><br>{Silent Image}<br><br>{Sleep}<br><br>{[[Thunderwave]]}<br><br>{Unseen Servant}|
 
 2ND LEVEL
 
