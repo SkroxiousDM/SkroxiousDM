@@ -468,7 +468,7 @@ The circle, which extends five hundred feet vertically into the air, remains for
 
 As the players ascend the hill, Lady Wachter’s crow familiar, Majesto, gives a haughty, defiant caw and joins them from the skies, assuming its true **imp** form before becoming invisible. 
 
-Meanwhile, [[Non-Player Characters#Victor Vallakovich|Victor]] casts the *mage armor* spell on himself and any players who request it. He also uses a single third-level spell to cast *fly* on himself, though he can be persuaded to use a fourth-level spell to share its benefits with another. 
+Meanwhile, [[Non-Player Characters#Victor Vallakovich|Victor]] casts the *[[Mage Armor]]* spell on himself and any players who request it. He also uses a single third-level spell to cast *fly* on himself, though he can be persuaded to use a fourth-level spell to share its benefits with another. 
 
 Victor reminds the players that, according to *Ethereal Entities*, he'll need to remain close to the windmill—within sixty feet—in order use his _counterspell_ to protect the circle from the coven's ability to dispel it. He asks the players to protect him accordingly.
 
@@ -635,7 +635,7 @@ When the hags assume their **Nightmare Three** phase, Bella assumes the form of 
 
 ***Victor Vallakovich.*** In battle, [[Non-Player Characters#Victor Vallakovich|Victor]] remains aloft through the use of his *fly* spell, maintaining a height of 60 feet above the battlefield—and remaining within 60 feet of the windmill—at all times. 
 
-Victor casts *counterspell* at 3rd or 4th level as-needed to counter Morgantha's *lightning bolt* and *eyebite* spells. Otherwise, he casts *magic missile* at 3rd, 2nd, and 1st level to avoid collateral damage and minimize the hags' magic resistance. 
+Victor casts *counterspell* at 3rd or 4th level as-needed to counter Morgantha's *lightning bolt* and *eyebite* spells. Otherwise, he casts *[[Magic Missile]]* at 3rd, 2nd, and 1st level to avoid collateral damage and minimize the hags' magic resistance. 
 
 Victor retains his lone 5th-level spell slot to cast *counterspell* in response to the hags' ***dispel magic*** lair action. (See **Dispel Magic** below.)
 

@@ -26,33 +26,9 @@ Spells with an asterisk (*) cannot be favored.
 
 [[Longstrider]]
 
-MAGE ARMOR
+[[Mage Armor]]
 
-1st-Ring Arcane (Abjuration)
-
-Casting Time: 1 action
-
-Range: Touch
-
-Components: V, S, M (a thread of spider silk)Duration: 8 hours
-
-With a touch, you weave invisible defenses around your target.A defensive magical ward surrounds one willing creature you touch. When the creature is not wearing armor, they gain a +3 bonus to AC, otherwise the ward has no effect. You can choose to end the spell early by spending an action to mentally unravel the ward.
-
-MAGIC MISSILE*
-
-1st-­level evocation
-
-Casting Time: 1 action
-
-Range: 120 feet
-
-Components: V, S
-
-Duration: Instantaneous
-
-You create three glowing darts of magical force. Each dart hits a creature of your choice that you can see within range. A dart deals 1d4 + 1 force damage to its target. The darts all strike simultaneously, and you can direct them to hit one creature or several.
-
-At Higher Levels. When you cast this spell at 2nd level or higher, the spell creates one more dart for each level above 1st.
+[[Magic Missile]]
 
 PROTECTION FROM EVIL AND GOOD*
 
