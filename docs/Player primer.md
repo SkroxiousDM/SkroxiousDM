@@ -51,9 +51,12 @@ Gothic horror’s roots trace back to Horace Walpole’s 1764 book, The  Castle
 # Setting Expectations
 Welcome to a world shrouded in darkness and horror, where secrets and conspiracies lurk around every corner. In order to fully immerse themselves in this chilling adventure, you should consider these expectations when crafting your characters and preparing for the campaign:
 
-* ***Tone***. Embrace the dark fantasy setting and create characters with heroic hearts or the potential to grow into true heroes when faced with life-or-death situations. Cooperation and collaboration will be key in this twisted realm.
-* ***Theme***. As you explore this gothic horror landscape, prepare to allow your characters to confront their own regrets, traumas, flaws, and fears, enhancing the overall atmosphere and tension of the campaign.
-* ***Engagement***. Prepare to delve deep into the rich lore and history of this world. Taking notes and engaging with the story will not only heighten your experience but also benefit your party as you navigate this intricate adventure.
+* ***Tone***. 
+* Embrace the dark fantasy setting and create characters with heroic hearts or the potential to grow into true heroes when faced with life-or-death situations. Cooperation and collaboration will be key in this twisted realm.
+* ***Theme***. 
+* As you explore this gothic horror landscape, prepare to allow your characters to confront their own regrets, traumas, flaws, and fears, enhancing the overall atmosphere and tension of the campaign.
+* ***Engagement***. 
+* Prepare to delve deep into the rich lore and history of this world. Taking notes and engaging with the story will not only heighten your experience but also benefit your party as you navigate this intricate adventure.
 * ***Tactics***. Tread carefully in a land rife with hidden allies and potential enemies. Consider the consequences of your actions and avoid making unnecessary enemies who could hinder your progress.
 * ***Roleplay***. Be open to forming meaningful relationships with the unique and intriguing non-player characters that inhabit this world. Emotional investment in these characters will enrich your overall experience.
 * ***Difficulty***. Death may lurk around every corner, but with clever thinking and strategic alliances, your party can overcome even the most daunting obstacles.
@@ -62,30 +65,26 @@ Welcome to a world shrouded in darkness and horror, where secrets and conspiraci
 
 ### Warning
 
-> Legends of Barovia and Curse of Strahd is gothic horror, and some subject matter may be unsuitable or offensive to some players. This campaign is for ages 18+ and contains child abuse and neglect, emotional and physical abuse, murder and attempted murder, kidnapping, stalking, assault, gaslighting, abuse of power, racism, xenophobia, cruelty, torture, references to genocide, mutilation, mind control, the desecration of the dead and places of worship, cannibalism, mercy killing, parental death, child death, mental illness, starvation, cruelty to animals, prolonged and painful deaths, body horror, insects and infestation horror, decay, betrayal, consumption of alcohol and drugs, involuntary homicide, graphic depictions of death and violence, necrophilia, self-harm, suicide, and potentially other mature themes. If you find any of this material objectionable, offensive, or potentially disturbing, please inform the Dungeon Master to adjust the campaign and determine what is suitable.
+> Legends of Barovia and Curse of Strahd is gothic horror, and some subject matter may be unsuitable or offensive to some players. This campaign is for ages 18+ and contains:
+> 		 Child abuse and neglect, emotional and physical abuse, murder and attempted murder, kidnapping, stalking, assault, gaslighting, abuse of power, racism, xenophobia, cruelty, torture, references to genocide, mutilation, mind control, the desecration of the dead and places of worship, cannibalism, mercy killing, parental death, child death, mental illness, starvation, cruelty to animals, prolonged and painful deaths, body horror, spiders, insects and infestation horror, decay, betrayal, consumption of alcohol and drugs, involuntary homicide, graphic depictions of death and violence, necrophilia, self-harm, suicide, and potentially other mature themes. 
+>  If you find any of this material objectionable, offensive, or potentially disturbing, please inform the Dungeon Master to adjust the campaign and determine what is suitable.
 
 ### Pause for a Second
-
 In addition to the safety tools implemented by your DM, at any time you may say, “pause for a second” to discuss the current situation out of character, including stating “I am not comfortable with where this is going.” All players should be respectful if a player invokes“ pause for a second.”
 
 ### Gothic Atmosphere
-
 The realm of Barovia is foreboding, dark, odd, and unsafe. The PCs are adventurers in a foreign land that, at times, will outmatch them. Victory will be hard won, and defeat, even death, is an option. Yet for all Barovia’s darkness, there is light and hope. The characters’ goal is to restore beauty and splendor to Barovia, which it has not seen in almost four hundred years.
 
 ### Combat Encounters
-
 Combat encounters may not be balanced. To provide a gothic horror feel, some encounters may be easy and others extremely hard. Retreat is an option. Sometimes retreating to fight another day is better than pressing on.  Analyze the situation and determine the best course of action. You will not win every encounter and sometimes could face deadly situations or suffer serious injuries.
 
 ### Social Encounters
-
 Legends of Barovia leans into to roleplaying pillar of D&D. NPCs are not just quest givers or shopkeepers—they bring the world to life. Remember the following:
-
 - Barovians are fearful and untrusting. They may whisper or tell only part of what they know.
 - Some know valuable secrets, listen carefully.
 - Rumors, myths, and lore is often told in different ways.
 
 ### Setbacks
-
 Your character will face difficulty, even disappointment. However, what does not destroy those in Barovia, makes one stronger. Setbacks make victory all the sweeter.
 
 ### Lore
@@ -101,4 +100,4 @@ There may be times when your character must make a choice that results in unsavo
 Humor, even dark humor, provides a sense of comfort and safety in the most desperate situations. Laughter is often the best medicine. Don’t be afraid to laugh.
 
 ### Sanity
-The realm of Barovia is like no other. Your character has never seen nor faced such a realm. They will face fear, horror, despair, and even madness. Managing your sanity is one of the important factors in surviving and succeeding in Barovia. While Legendsof Barovia includes mechanics to address character sanity, roleplaying the various mental afflictions plaguing your character further enhances the play experience.
+The realm of Barovia is like no other. Your character has never seen nor faced such a realm. They will face fear, horror, despair, and even madness. Managing your sanity is one of the important factors in surviving and succeeding in Barovia. While Legends of Barovia includes mechanics to address character sanity, roleplaying the various mental afflictions plaguing your character further enhances the play experience.
