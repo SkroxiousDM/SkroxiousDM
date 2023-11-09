@@ -5,13 +5,13 @@ _You are but a small, frail handful of flickering lights set against great darkn
 _Time will tell. Enter the land of Barovia. A land of greys and shadows where light struggles against eternal darkness.
 
 # Player’s Guide
-This player’s guide serves to inform you about the campaign, set expectations, and clarify rules pertaining to the campaign. Please carefully review this guide. Rules related to D&D may be found online in the [D&D Basic Rules](https://www.dndbeyond.com/sources/basic-rules). Your Dungeon Master may have additional rules and information beyond the scope of the Basic Rules and this guide, which you can discuss during session zero. see [7. House Rules]
+This player’s guide serves to inform you about the campaign, set expectations, and clarify rules pertaining to the campaign. Please carefully review this guide. Rules related to D&D may be found online in the [D&D Basic Rules](https://www.dndbeyond.com/sources/basic-rules). Your Dungeon Master may have additional rules and information beyond the scope of the Basic Rules and this guide, which you can discuss during session zero. 
+see [[1. House Rules Index]]
 ## What Is Gothic Horror?
 
 Gothic horror is about the terror within, not without. It shatters the illusion of humanity in a poignant way by holding a mirror up to us and saying: look at what we truly are, and look at what we pretend to be. Under that mask of civility, there is depravity. Under that thin veneer of society, there is wickedness. Under all the trappings of sophistication, are we not all predators or prey? Gothic horror shatters the lies we trick ourselves into believing and shows that we, not some distant entity, are and ever shall be the architects of our doom. The quest for perfection leads us to discover our own imperfection. Our quest for the divine leads us to believe we, ourselves, are gods. These are the themes that haunt stories of Gothic horror.
 # Setting Expectations
 Welcome to a world shrouded in darkness and horror, where secrets and conspiracies lurk around every corner. In order to fully immerse themselves in this chilling adventure, you should consider these expectations when crafting your characters and preparing for the campaign:
-
 ##### Tone
 * Embrace the dark fantasy setting and create characters with heroic hearts or the potential to grow into true heroes when faced with life-or-death situations. Cooperation and collaboration will be key in this twisted realm.
 ##### Theme 
