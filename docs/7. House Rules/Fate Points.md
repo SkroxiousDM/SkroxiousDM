@@ -45,14 +45,15 @@ One good use of Destiny is when the players are at a dead end in an adventure. P
 
 The Games Master will be more likely to accept proposed uses of Destiny which could plausibly relate to a character’s own future destiny, as reflected by his goals. For example, in the story Black Colossus, Conan is offered the position of commander of a nation’s armies and given a fine suit of plate armour as an indication of his position. Everyone around observes a regal quality about him which they had not seen before. This is a deliberate foreshadowing of his destiny to one day be King of Aquilonia. Had Conan’s player always made it clear that his ambition was to one day be king, the Games Master might allow him to be made commander for just one Fate Point, since it would allow that very foreshadowing.
 
+Adapted from [Conan: The Roleplaying Game 2nd Edition by Mongoose Publishing.](https://www.scribd.com/doc/275454911/Conan-Rpg-2nd-edition)
 ## Gaining More Fate Points
 
 When a player spends a Fate Point, it is gone forever. It does not recover with time, nor does the player automatically gain new Fate Points as he advances in level.
 
 Any time a player chooses to roleplay their characters [[Complication]] or [[Flaw]] in such a way as to create a difficult situation for their character or affects the story in an interesting way the GM should award a Fate Point.
 At the end of each Act, characters are awarded Fate points based on how they were played. The group decides by consensus:
-- Who most embodied their character? Which character most closely adhered to their belief, traits and goal? Up to one character may receive this award.
+- Who most embodied their character? Which character most closely adhered to their [[Beliefs]], [[Bond]] and [[Motivation]]? Up to one character may receive this award.
 - Who came through when the party most needed it? Who rolled well at a critical moment, or devised the most ingenious plan. Up to one character may receive this award.
 
-Adapted from [Conan: The Roleplaying Game 2nd Edition by Mongoose Publishing.](https://www.scribd.com/doc/275454911/Conan-Rpg-2nd-edition)
-and [Grendel](https://drive.google.com/file/d/1u94vyXSUj16P3ZL9PMAmCcHaSipgacj-/view?usp=drive_link)
+
+Adapted from [Grendel by Kurt Marosk](https://drive.google.com/file/d/1u94vyXSUj16P3ZL9PMAmCcHaSipgacj-/view?usp=drive_link)
