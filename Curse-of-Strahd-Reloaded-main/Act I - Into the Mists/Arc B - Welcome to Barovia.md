@@ -133,6 +133,12 @@ As the PCs speak with Arik, Ismark approaches, offers to pay for their drinks, a
 > ***Morale.*** In a fight, Ismark would first seek to mediate the parties' conflict, but would gladly draw his sword—and even fight to the death—if he believed that he was fighting for something or someone worth protecting.
 >
 > ***Relationships.*** Ismark is the adoptive brother of Ireena Kolyana, and the great-grandson of Ismark the Great.
+> 
+>1. **Regarding His Sister**: "I should have been more vigilant. Ireena has suffered because of my shortcomings. Every night I lie awake, haunted by the thought that I could have done more to protect her."
+>2. **About His Village**: "This village looks to me for guidance, but I fear I'm leading them further into darkness. The weight of their expectations is a heavy burden, and I worry I'm not strong enough to carry it."
+>3. **On His Ancestor's Legacy**: "I stand in the shadow of my great ancestor, yet every step I take seems to pale in comparison. How can I ever hope to match his legacy when I struggle to even keep my own family safe?"
+>4. **His Own Doubts**: "There are moments when I doubt every decision I make. The fear of failing those I've sworn to protect is a constant companion, and it's a battle I fight every day."
+
 ### Mary's Request
 As [[Non-Player Characters#Ismark Kolyanovich|Ismark]] and the players await their drinks, read:
 

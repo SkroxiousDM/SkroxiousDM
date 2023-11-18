@@ -81,6 +81,7 @@ This gradual increase of skills will make characters slightly more powerful, but
 	You try to recall a pertinent piece of information about a creature, object, place, or event. Make the Dungeon Master’s choice of an Intelligence (History), Intelligence (Religion), Intelligence (Arcana), or Intelligence (Nature) check against the Dungeon Master’s DC. On a success, the Dungeon Master decides what information you recall.
 
 ### Investigation (Intelligence)
+- Gives the option to take 20 times the amount of time to conduct the search and substute a 20 for their dice roll.
 - Gives you advantage on Wisdom (Survival) checks to track.
 - Adds 1 to your passive Perception.
 - Gives you advantage on disabling traps with Sleight of Hand.
