@@ -34,7 +34,7 @@ In this role, Strahd most often feels indifferent, curious, satisfied, and deter
 
 The Monster crushes any resistance ruthlessly and efficiently. Though he can't be provoked, he's too proud to ever flee from a fight.
 
-####**How to Enjoy Roleplaying Strahd**
+#### **How to Enjoy Roleplaying Strahd**
 Strahd can be a challenging and anxiety-inducing villain to roleplay. To enjoy the experience, rather than dreading it, consider the following tips:
 * **Enjoy Invincibility.** Strahd is the one NPC in the entire campaign that (until they obtain the *Sunsword*) your players cannot hurt in any meaningful way. Their strongest attacks do little more than tickle him. Their cruelest insults merely amuse him. Enter Strahd-related scenes without fear of player action.
 
@@ -42,7 +42,7 @@ Strahd can be a challenging and anxiety-inducing villain to roleplay. To enjoy t
 
 * **Explore Darkness.** Strahd provides a risk-free opportunity to explore and relish darker emotions, such as (justified) arrogance, (quiet) cruelty, and (subtle) contempt. Savor those emotions and the impact they have on your players.
 
-#####+ **Challenging Strahd**
+##### + **Challenging Strahd**
 If, at any point during the encounter, a player challenges Strahd or insists that he must be defeated, Strahd smiles, admits he's "never been one to decline a challenge," and invites the player to defeat him—right here, right now—if they can. He promises to make no effort to stop them for the first thirty seconds of their assault.
 
  If the player declines, Strahd dismisses them as a coward, noting with disappointment, "A pity. I had hoped for better." If the player accepts, Strahd allows them to attack him for five full rounds. During this time, each attack the player makes against Strahd automatically hits, and Strahd automatically fails all Strength and Dexterity saving throws.
