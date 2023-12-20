@@ -1,5 +1,4 @@
-|Experience Points	|Level	|Proficiency Bonus| points to next level |
-|
+|Experience Points	|Level	|Proficiency Bonus|
 | --- | --- | --- |
 |0|1 | +1|
 |300| 2| +1|
