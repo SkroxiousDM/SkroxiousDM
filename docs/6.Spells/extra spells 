@@ -4,17 +4,17 @@
 |0	|Blade Ward	|Warding Sigil|
 |0	|Chill Touch	|Ghost Touch|
 |0	|Control Flames	|Manipulate Fire|
-0	Dancing Lights	Ghost Lights
-0	Friends	Befriend
-0	Frostbite	Black Ice
-0	Guidance	Benediction
-0	Gust	Manipulate Wind
-0	Infestation	Stinging Insects
-0	Lightning Lure	Lightning Leash
-0	Mold Earth	Manipulate Earth
-0	Poison Spray	Poison Fang
-0	Sapping Sting	Draining Bolt
-0	Shape Water	Manipulate Water
+|0	|Dancing Lights	|Ghost Lights|
+|0	|Friends	|Befriend|
+|0	Frostbite	|Black Ice|
+|0	|Guidance	|Benediction|
+|0	|Gust	|Manipulate Wind|
+|0	|Infestation	|Stinging Insects|
+|0	|Lightning Lure	|Lightning Leash|
+|0	|Mold Earth	|Manipulate Earth|
+|0	|Poison Spray	|Poison Fang|
+|0	|Sapping Sting	|Draining Bolt|
+|0	|Shape Water	|Manipulate Water|
 0	Sword Burst	Blade Burst
 0	Thunderclap	Thunder Burst
 0	Toll the Dead	Grave Call
