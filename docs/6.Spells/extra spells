@@ -15,67 +15,67 @@
 |0	|Poison Spray	|Poison Fang|
 |0	|Sapping Sting	|Draining Bolt|
 |0	|Shape Water	|Manipulate Water|
-0	Sword Burst	Blade Burst
-0	Thunderclap	Thunder Burst
-0	Toll the Dead	Grave Call
-0	True Strike	Fated Strike
-1	Animal Friendship	Befriend Beast
-1	Animal Messenger	Befriend Beast
-1	Armor of Agathys	Ice Armor
-1	Burning Hands	Cone of Flame
-1	Cause Fear	Frighten
-1	Chaos Bolt	Prismatic Bolt
-1	Color Spray	Dazzle
+|0	|Sword Burst	|Blade Burst|
+|0	|Thunderclap	|Thunder Burst|
+|0	|Toll the Dead	|Grave Call|
+|0	|True Strike	|Fated Strike|
+|1	|Animal Friendship	|Befriend Beast|
+|1	|Animal Messenger	|Befriend Beast|
+|1	|Armor of Agathys	|Ice Armor|
+|1	|Burning Hands	|Cone of Flame|
+|1	|Cause Fear	|Frighten|
+|1	|Chaos Bolt	|Prismatic Bolt|
+|1	|Color Spray	|Dazzle|
 |1	|Detect Evil and Good	|Detect Otherworldly Influence|
-1	Earth Tremor	Earth Rumble
-1	Frost Fingers	Arctic Breath
+|1	|Earth Tremor	|Earth Rumble|
+|1	|Frost Fingers	|Arctic Breath|
 |1	|Goodberry	|Magic Fruit|
-1	Ice Knife	Frost Shuriken
-1	Illusory Script	Secret Missive
-1	Ray of Sickness	Minor Drain
-1	Ray of Sickness	Touch of Filth
-1	Shield	Deflect
-1	Snare	Magic Net
-1	Speak With Animals	Speak with Nature
-1	Witch Bolt	Lightning Tendril
-2	Acid Arrow	Caustic Quarrel
-2	Aganazzar's Scorcher	Stream of Flame
-2	Alter Self	Adaptation
-2	Barkskin	Oakenhide
-2	Beast Bond	Animal Ally
-2	Beast Sense	Animal Ally
-2	Beast Sense	Beast Perception
-2	Borrowed Knowledge	Erudition
-2	Cloud of Daggers	Whirling Daggers
-2	Crown of Madness	Unbridled Fury
-2	Dust Devil	Dust Cyclone
-2	Earthbind	Earth Leash
-2	Enthrall	Captivate
-2	Find Traps	Detect Hazards
-2	Flame Blade	Fiery Blade
-2	Heat Metal	Enkindle
-2	Locate Animals or Plants	Find in Nature
-2	Magic Mouth	Conjure Herald
-2	Maximilian's Earthen Grasp	Earthen Hand
-2	Mind Spike	Psychic Skewer
-2	Moonbeam	Lunar Beam
-2	Pass Without Trace	Aura of Concealment
-2	Phantasmal Force	Hallucination
-2	Phantasmal Force	Phantasm
-2	Pyrotechnics	Burst of Flame
-2	Ray of Enfeeblement	Curse of Weakness
-2	Silvery Barbs	Misfortune
-2	Silvery Barbs	Fortune
-2	Skywrite	Conjure Herald
-2	Skywrite	Sky Omen
-2	Snilloc's Snowball Swarm	Cold Snap
-2	Summon Beast	Summon Animal Spirit
-2	Zone of Truth	Aura of Truth
-3	Animate Dead	Reanimation
-3	Animate Dead	Reanimation, Greater
+|1	|Ice Knife	|Frost Shuriken|
+|1	|Illusory Script	|Secret Missive|
+|1	|Ray of Sickness	|Minor Drain|
+|1	|Ray of Sickness	|Touch of Filth|
+|1	|Shield	|Deflect|
+|1	|Snare	|Magic Net|
+|1	|Speak With Animals	|Speak with Nature|
+|1	|Witch Bolt	|Lightning Tendril|
+|2	|Acid Arrow	|Caustic Quarrel|
+|2	|Aganazzar's |Scorcher	|Stream of Flame|
+|2	|Alter Self	|Adaptation|
+|2	|Barkskin	|Oakenhide|
+|2	|Beast Bond	|Animal Ally|
+|2	|Beast Sense	|Animal Ally|
+|2	|Beast Sense	|Beast Perception|
+|2	|Borrowed Knowledge	|Erudition|
+|2	|Cloud of Daggers	|Whirling Daggers|
+|2	|Crown of Madness	|Unbridled Fury|
+|2	|Dust Devil	|Dust Cyclone|
+|2	|Earthbind	|Earth Leash|
+|2	|Enthrall	|Captivate|
+|2	|Find Traps	|Detect Hazards|
+|2	|Flame Blade	|Fiery Blade|
+|2	|Heat Metal	|Enkindle|
+|2	|Locate Animals or Plants	|Find in Nature|
+|2	|Magic Mouth	|Conjure Herald|
+|2	|Maximilian's Earthen Grasp	|Earthen Hand|
+|2	|Mind Spike	|Psychic Skewer|
+|2	|Moonbeam	|Lunar Beam|
+|2	|Pass Without Trace	|Aura of Concealment|
+|2	|Phantasmal Force	|Hallucination|
+|2	|Phantasmal Force	|Phantasm|
+|2	|Pyrotechnics	|Burst of Flame|
+|2	|Ray of Enfeeblement	|Curse of Weakness|
+|2	|Silvery Barbs	|Misfortune|
+|2	|Silvery Barbs	|Fortune|
+|2	|Skywrite	|Conjure Herald|
+|2	|Skywrite	|Sky Omen|
+|2	|Snilloc's Snowball Swarm	|Cold Snap|
+|2	|Summon Beast	|Summon Animal Spirit|
+|2	|Zone of Truth	|Aura of Truth|
+|3	|Animate Dead	|Reanimation|
+|3	|Animate Dead	|Reanimation, Greater
 3	Beacon of Hope	Aura of Resilience
 3	Catnap	Power Word Nap
-3	Conjure Animals	Conjure Beast Pack
+3	Conjure Animals	Conjure Beast Pack÷÷
 3	Conjure Barrage	Spreadshot
 3	Daylight	Brilliance
 3	Elemental Weapon	Imbue Element
