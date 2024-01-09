@@ -104,6 +104,7 @@ If the thrown creature or object comes into contact with a hard surface or heavy
 | 20 | 60 ft. | 45 ft. | 30 ft. | 15 ft. | - | - |
 | 25 | 90 ft. | 60 ft. | 45 ft. | 30 ft. | 15 ft. | - |
 | 30 | 120 ft. | 90 ft. | 60 ft. | 45 ft. | 30 ft. | 15 ft. |
+
 ### Maneuver
 *Prerequisites: You are driving a vehicle.*
 You attempt to maneuver a vehicle through a treacherous environment. Make an Intelligence (Insight) check against the Dungeon Master’s DC, with advantage if you have proficiency with that vehicle. On a success, you have advantage on the next saving throw you make against any physical effect before the start of your next turn while still driving the vehicle. When you make that saving throw, you can choose a number of creatures up to your Intelligence modifier to gain advantage on their saving throws against the same effect.
