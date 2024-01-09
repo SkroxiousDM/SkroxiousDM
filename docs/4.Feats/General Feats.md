@@ -170,11 +170,9 @@ You have a tough body and a strong soul, meaning that your heart keeps beating w
 You've learned to put the weight of a weapon to your advantage, letting its momentum empower your strikes. You gain the following benefits:
 
 - On your turn, when you score a critical hit with a melee weapon or reduce a creature to 0 hit points with one, you can make one melee weapon attack as a bonus action.
-- Before you make a melee attack with a heavy weapon that you are proficient with,
+- Before you make a melee attack with a heavy weapon that you are proficient with, you can choose to make an attack roll without adding your proficiency bonus to it and if your attack results in a hit, you deal twice your proficiency bonus as extra damage.  If the attack is a critical hit, instead you deal three times your proficiency bonus as extra damage.
 
-##  you can choose to make an attack roll without adding your proficiency bonus to it and if your attack results in a hit, you deal twice your proficiency bonus as extra damage.  If the attack is a critical hit, instead you deal three times your proficiency bonus as extra damage.
-
-Sharpshooter
+# Sharpshooter
 
 You have mastered ranged weapons and can make shots that others find impossible. You gain the following benefits:
 
@@ -202,17 +200,16 @@ Through regular practice in wrestling, boxing, or engaging in some other form of
 - You add your proficiency bonus to the Save DC to initiate a grapple and have advantage on saving throws to escape a grapple.
 - When you hit a creature with an Unarmed Strike as part of the Attack Action on your turn, you can deal damage to the target and also attempt to grapple the target.
 
-Axe Master: 
+# Axe Master: 
 
 - +1 dmg with axes.
 - Bonus action – Axe hook: With an axe, hook and pull a piece of your opponent’s armor, shield or weapon out of position. You cannot use this ability again until you have completed a short or long rest.  
     Choose an effect:
-
 - Reduce targets ac by 2 until the end of your next turn
 - Nullify the target’s shield until the end of your next turn
 - The target has disadvantage on attacks until the end of your next turn
 
-Sword Master: 
+# Sword Master: 
 
 - +1 dmg with swords.
 - Reaction – Deft Parry: When an opponent makes an attack against you, you may make an attack roll with your sword. If your attack hits a higher armor class than their attack, their attack does not hit and you may immediately make a melee weapon attack against them. You cannot use this ability again until you have completed a short or long rest.
@@ -222,6 +219,6 @@ Hammer Master:
 -  +1 dmg with maces and hammers
 - Maces and hammers add the +1 dmg to Armor Crushing and gain armor crushing if they do not already have it.
 
-new feat: mounted ChaRGeR
+new feat: Mounted Charger
 
 Your training with a lance while mounted has given you mastery of the weapon, making you deadly against foes while charging. If your mount first moves more than 20ft directly toward an enemy and you hit with a lance, the weapon does 2d12 + STR damage instead of 1d12. If your mount first moves more than 10ft you can ride down opponents who are one size category smaller than your mount or smaller. When entering an enemy space, the mount's speed is reduced by half. Any enemy caught in the path can make a Strength (Athletics) or Dexterity (Acrobatics) check vs. the mount's Strength (Athletics). The mount rolls with advantage. If the mount wins, the enemy is shoved up to 10 feet, takes 1d6 bludgeoning damage, and is knocked prone. The mount can ride down up to three creatures this way.
