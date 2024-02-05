@@ -24,3 +24,31 @@ She warned of a spy approaching and when we left the tent Eliza and Arturi were 
 
 I’ve heard many tales about Vistani hospitality, and last night exceeded all expectations. The fire was a welcome reprieve after our first day on the road.  I am glad for the Game of Stories, to have learned more of my companions. I am convinced however that the land beyond the mists is no better than this. Hatred and greed know no boundaries. I can’t believe it was the Vistani themselves that saved Strahd hundreds of years ago and for it have been granted safe passage through his realm ever since! If only they had left him to die then perhaps none of this misery would have befallen Barovia. I had never quite heard the myth of the Holy Symbol of Ravenkind quite how Eliza described it. Madam Eva spoke of a holy symbol of great hope in her card reading. Perhaps after I have ensured my people’s protection in Barovia I will convince my companions to investigate Yester Hill.  
 
+### 10th day of Fallrise
+
+For the briefest of moments, with the cool fresh air and the sound of Tser Falls I almost forgot where I was. This land is beautiful. Sometimes I can almost feel what it must have been like before the mists. This time it was the decaying knight sworn to kill Strahd who pulled me from my dream. But at least I am not alone in my desire to rid Strahd from this world. Argynvostholt. Seek Sir Godfrey. West beyond Vallaki and then south at the ash-gray path.
+
+I had seen that lake so many times before and never had I stepped foot on its shores until today. How could I have dreamt every detail of that lake? Was it a dream or a memory? Father found me in the woods, could it have been there? All my memories from then feel like the mists itself. And to be set upon by wolves and a werewolf just like my dream! 
+
+There are few who travel the Slavich Woods and do not find themselves stalked by them and I am grateful for my companions. Despite severe injury to Bogokom and Dorian, we were able to defeat the wolves.  
+
+We arrived at the walls of Vallaki soon after to the most terrible sight. My people living in tents outside the walls in squaller! How could the Baron allow such misery to be inflicted? I will not stand for this, he will hear my plea to let them in. They need food and shelter. Not scorn and dream pastries. What kind of Baron does this to innocents?
+
+As we found the Blue Water Inn, it took everything I had not to break down in front of everyone. After paying for the rooms I took my leave and let the sorrow consume me.  Through the tears and my despair at having to hold so much grief, I realized that this is my path, there is no hiding from it. Not while Strahd curses this land and its people. I will do what must be done and one way or another, when the time comes I will remember all those we have lost and all that we endured, and I will grieve. But that time is not yet. 
+
+I was relieved to return downstairs. Losing myself in healing my friends and listening to that odd man Rictavio’s stories.  Those Wachter boys seemed to despise the Baron. Time will tell if they can be trusted, but time is not on my side.
+
+
+### 11th day of Fallrise
+
+How could they just stand there and watch that poor woman get dragged away for what… Malicious Unhappiness? Perhaps these men are not who I thought they were. I should have walked straight up to the Baron instead of pleading with my companions to do something and when I finally realized they wouldn’t help I was too late, the Baron was on the move. Izek, what a terrible monster of a man and yet something seems almost familiar. Who is he and why will he not cease staring at me?
+
+I sit here now in the pews of St. Andrals Church, the one place in this whole godforsaken place that was supposed to be safe only to learn in 4 days time, its protection will be lost should the bones of St. Andral not be returned.  
+
+They are searching for clues now, at least they are not just standing by now. 
+
+Dear Morninglord I pray they find the bones. You are lucky to have a follower as devout as Father Petrovich. His warmth and kindness has given me glimmer of hope. 
+
+How did Blinsky create a doll that looks exactly like me? My stomach sank at the sight. Him and his toys instills within me a most disconcerting sense of unease. So many questions. This place was suppose to be a refuge and now it swirls in the same madness as everywhere else.
+We must find those bones.
+
