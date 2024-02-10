@@ -9,3 +9,8 @@ There was once a silver Fox, renowned among all for his curative touch. On a col
 “And so the Fox passed from light into dark, his legs aching and sore, his paws bramble-pricked and bloody. It was in the keep of Dusk’s Sovereign that he found his lost quarry—and uncovered his kit’s dreadful fate. His kit now shared the Sovereign’s curse, the features of life now twisted and warped, his once-lively eyes now deadened and cold.
 
 The kit begged for reprieve—for his father to free him from his cursed existence. And the silver Fox, with a heart heavier than the mountains, with eyes stinging with tears, did the unthinkable—and ended his kit’s torment. As the Fox’s anguished howl shattered the night, so, too, did his heart. A father had entered the Kingdom that day, but it was a phantom, born of anguish and rage, that vanished into the shrouded night.”
+
+
+
+
+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
