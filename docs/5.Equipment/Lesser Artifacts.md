@@ -26,9 +26,15 @@ Some lesser artifacts are tightly linked to a mystical tradition or a mystical p
 |Rune Staff|60 thaler|
 |Soul Stone|100 thaler|
 |Spark Stone|50 thaler|
-|Spell Seal:|<br>\|Novice|15 thaler per spell level|<br>\|Adept|25 thaler per spell level|<|Spell Scroll:|<br>\|Novice|10 thaler per spell level|<br>\|Adept|20 thaler per spell level|<br>\|Master|30 thaler per spell level|
-|Staff Foot*|50 thaler|
-|Staff Head*|50 thaler|
+|Spell Seal:| - |
+|Novice|15 thaler per spell level|
+|Adept|25 thaler per spell level|
+|Spell Scroll:| - |
+|Novice|10 thaler per spell level|
+|Adept|20 thaler per spell level|
+|Master|30 thaler per spell level|
+|Staff Foot * |50 thaler|
+|Staff Head * |50 thaler|
 |Sun Mask|50 thaler|
 |Toad Guard|5 thaler|
 |Transcendental Weapon|60 thaler|
