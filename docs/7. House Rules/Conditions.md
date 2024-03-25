@@ -97,12 +97,13 @@ While Unconscious, you experience the following effects:
 The Exhaustion condition covers all effects from casual exhaustion to life drain. These rules allow differentiation between normal fatigue and more dangerous effects.
 Levels 1-3 of Exhaustion (called Soft) often happen with strenuous activity like working, training or fighting. Soft Exhaustion accumulates easily but is recovered quickly with a short or longer rest. Any rule or DM decision that makes you gain Soft Exhaustion increases your Exhaustion only if your current Exhaustion is level 2 or less.
 Levels 4-6 of Exhaustion come in play when you push past your limits or your life is being drained. If you have 4 or more levels of Exhaustion, you may recover a level of Exhaustion only during long or full rest.
+
 ### Soft Exhaustion
 |Level|Effect|
 |---|---|
 |1|Disadvantage on Strength and Dexterity Ability and Skill checks. You can't perform the Dash action during combat.|
-|2|Disadvantage on all Ability and Skill checks. Speed halved. Anyone can tell you're tired with DC 10 Wisdom (Insight) check.|
-|3|Disadvantage on Attack rolls and Saving Throws. Rolling 1 on attack rolls leads to critical fumbles|
+|2|Disadvantage on all Ability and Skill checks. Speed halved and unable to maintain a fast travel pace. Anyone can tell you're tired with DC 10 Wisdom (Insight) check.|
+|3|Disadvantage on Attack rolls and Saving Throws and unable to maintain a normal travel pace. Rolling 1 on attack rolls leads to critical fumbles|
 
 ###### Excess Soft Exhaustion  
 If you have reached the maximum level of Soft Exhaustion and you take another level of it, instead of increasing your Exhaustion level you lose one Recovery die. If you have no Recovery dice left, your Exhaustion increases as normal
@@ -111,7 +112,7 @@ If you have reached the maximum level of Soft Exhaustion and you take another le
 |Level|Effect|
 |---|---|
 |4|You can only take an action or a bonus action during your turn, and you can't take reactions. You can concentrate on one thing only, such as a spell or enemy target, and ignore all the rest. You're limited to simple mental tasks.|
-|5|Speed reduced to 5. Anyone can tell you're on the verge of passing out. You cannot concentrate, or cast spells requiring Concentration. You have blurry vision, tunnel vision, or vertigo and may experience hallucinations (DM's choice).|
+|5|Speed reduced to 5 and unable to maintain a slow travel pace. Anyone can tell you're on the verge of passing out. You cannot concentrate, or cast spells requiring Concentration. You have blurry vision, tunnel vision, or vertigo and may experience hallucinations (DM's choice).|
 |6|You are Dying. You gain two wound levels. Any additional Exhaustion counts as two wound levels.|
 
 Mostly adapted from [Grit and Glory v6](https://www.reddit.com/r/gritandglory5e/comments/empff0/grit_and_glory_v6_100_pages_of_dd_5e_rules_for/)[https://drive.google.com/file/d/16uCnUXvwyDageKT2dCdY_n1LbtPVSq4A/view?usp=drivesdk]
