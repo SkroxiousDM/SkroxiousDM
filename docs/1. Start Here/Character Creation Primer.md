@@ -1,6 +1,19 @@
+# Character Creation Guidelines
+
+- ‘Curse of Strahd’ is a very human-centric campaign. Your character will have an easier time fitting in if you choose a race that isn’t extremely exotic. Anything within the PHB is fair game and I am happy to consider other player-proposed options.
+- Instead of taking a background, you may instead choose two skill proficiencies and two tool/language proficiencies that fit your backstory.
+- Any inclusion of UA/Homebrew should be first discussed with me. As long as it’s not too unbalanced, fits the story and the mood of the campaign I am very likely to allow it.
+- Characters start at level 2! This is a 2-10 campaign, do not expect to level higher than that.
+- You should use standard point-buy for stats.
+- Tasha’s optional class abilities should be fine but discuss with me just in case.
+- As laid out in the campaign expectations, you should make and play a character who is actively heroic, or, if the character doesn't begin as a hero, a sociable, cooperative character that will inevitably and actively begin growing towards heroism soon after the start of the game.
+- Moreover, this campaign will take place in a “fish-out-of-water” setting, and elements from your character's backstory will not directly appear or be referenced in the campaign. It is your sole responsibility to collaborate with me and other players to provide your character with an internal emotional character arc if desired.
+- However, I would encourage you to create a flawed character that will experience growth during the campaign. For your inspiration, please see the attached flaws and bonds tables for a sense of what kind of characters would work well within the campaign.
+- Additionally, I highly encourage you to pick a motivation for your character from the attached motivation table and adapt it for your character idea. You may instead come up with your own internal motivation for your character that is not included in the table. I would highly prefer that each player picks a different motivation for the best campaign experience.
+- Should you wish (and both parties agree), you may have bonds with some of the other characters joining the campaign before it starts.
+- You are encouraged to ask any other mechanical or backstory questions and I am more than happy to help guide you towards a character that will fit in well with the campaign.
+
 # Character Creation Primer
-
-
 
 Character creation is an important aspect of Dungeons & Dragons, but creating a compelling character and backstory can be difficult. The purpose of this primer is to inspire players’ creativity and help develop unique characters that they may have not considered without rolling on the following tables.
 
