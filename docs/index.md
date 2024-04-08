@@ -11,5 +11,4 @@ I'm using a modified version of Free League's "Ruins of Symbaroum" for character
 
 navigation on the top left
 [[Player primer]]
-
-
+[[HouseRules Index]]
