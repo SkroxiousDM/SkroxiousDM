@@ -274,9 +274,11 @@ At 1st level, you learn the detect magic spell in addition to your chosen spells
 At 1st level, the staff mage is proficient with the rune staff, which provides the following benefits:
 - +1 to AC when unarmored.
 - The rune staff counts as a finesse quarterstaff that weighs 3 lbs.<br/>
+
 At 3rd level, the staff mage gains the following benefits for their rune staff:
 - The staff is considered magical for the purposes of magical weapons and armor. The rune staff gains a +1 bonus to attack and damage rolls.
 - You can use your bonus action to make an attack with your rune staff.<br/>
+
 At 7th level, the rune staff gains these additional effects:
 - The staff now provides a +2 bonus to AC, as well as on attack and damage rolls.
 - When a creature that is in your reach ends its turn you can use your reaction to make an attack roll against that creature.
