@@ -81,8 +81,8 @@ When you reach 2nd level, and again at 4th, 5th, 6th, 8th, and 10th level, you c
 Instead of improving your ability scores you can instead choose to gain a feat. See  Classes and Feats}for more about feats.
 
 	 The Myth of Pure Magic
-	Within all traditions there is a myth of Pure Magic, the undefiled miracle. In different versions it tells about a time when the world was unspoiled and when the use of mystical powers yielded no Corruption. Then something happened. Evil entered the world and with it came the blight.
-	Some mystics dream about recreating the pure magic of yore by healing the wounds of the world, expelling evil, slaying the World Serpent or reclaiming the long lost arch magic. However, most mystics accept Corruption as a part of their trade and just something to be dealt with.
+	Within all traditions there is a myth of Pure Magic, the undefiled miracle. In different versions<br/> it tells about a time when the world was unspoiled and when the use of mystical powers yielded no Corruption.<br/>Then something happened. Evil entered the world and with it came the blight.<br/>
+	Some mystics dream about recreating the pure magic of yore by healing the wounds of the world, expelling<br/> evil, slaying the World Serpent or reclaiming the long lost arch magic. However, most mystics accept Corruption<br/> as a part of their trade and just something to be dealt with.<br/>
 
 ### Blood Magic
 At 3rd Level you draw on your life force reserve to fuel your magic. You’ll pay the price later, but for now you need all the power you can grasp.
@@ -303,19 +303,19 @@ Foremost among these remnants is the Azure Temple, built in blue stone brought t
 
 Ambrian scholars suspect that Symbolism – strange, powerful and decadent – is a vital clue to understanding why the barbarians of eastern Davokar are in disagreement with Karvosti and its authorities, the Huldra and the High Chieftain. It may lead to an explanation as to why the Vajvods, for cultural and philosophical reasons, distance themselves from Karvosti, and at the same time, are more open to outsiders than other clans, Clan Odaiova excluded. Rumor has it that Vajvod’s Clan Chieftain, Zoltar the Old, has not a witch but a symbolist by his side, likely one trained at the Azure Temple in the heart of the river lands.
 
-Titles
+#### Titles
 
 The symbolists have few titles and only differ between apprentices and initiated members, often called “Followers” and “Weavers”. The term “Master Weaver” is also used as an honorary title for prominent symbolists. The followers are sometimes jokingly called “Spindles,” after the spinning tool, since many symbolists think of the world as a weave or painting which they remodel or repaint with their powers.
 
 It is also customary for Weavers to take titles they think they deserve – from “Sign Carver,” “Fate Painter” and “Pattern Braider,” to “Rune Artist” and “Power Crafter.” At the Rune Meet, a yearly gathering where symbolists who are able convene at the Azure Temple in Vojvodar, only Weavers may speak and vote, while Followers listen. Master Weavers have no special authority besides that which is granted to all Weavers, but naturally their opinions carry extra weight.
 
-Corruption
+#### Corruption
 
 The origin of Symbolism can be traced back to the destruction of the east, and many rune crafters explain the birth of their tradition as based on the aim to resist and/or avoid Corruption. As the east was drained of life and became the ruined, deserted wasteland it is today, the symbolists were busy advancing their knowledge. Not until the empire beyond the Ravens fell and the surrounding region proved to be devastated – the work of other mystics, according to symbolist legends – did the founding mystics of Symbolism flee across the mountains to the uninhabited river landscape that is today known as Vojvodar, the home of clan Vajvod.
 
 The strength of Symbolism is its resilience to Corruption. They suffer some Corruption when a symbol is activated, but less than the members of other traditions – as little as only one point in temporary Corruption per activated symbol. Symbolism’s weakness is that it is slow; a symbolist trades their protection from Corruption for the time it takes to craft the symbols. However, the rituals of Symbolism function just like the rituals of other traditions.
 
-Spellcasting Ability
+#### Spellcasting Ability
 
 Symbolism requires the creation of intricate and complex runes that contain and bind their magical power. Thus, a symbolist uses Intelligence for the spellcasting ability modifier. You learn spells from the Wizard tradition list. However, you do not cast most magic as a normal mystic, preparing and activating runes instead. You do cast cantrips and rituals as normal. You can favor cantrips as normal, but you use runes instead of normal spells otherwise.
 
@@ -327,11 +327,11 @@ At the beginning of a long or extended rest, you must choose one of your runes t
 
 Runes can only be prepared during a rest. You may prepare four runes during an extended rest, two runes during a long rest and one rune during a short rest. You cannot have more active runes than twice your proficiency bonus.
 
-Bonus Spell
+### Bonus Spell
 
 At 1st level, you learn the detect magic spell in addition to your chosen spells.
 
-Rune Tattoos
+### Rune Tattoos
 
 At 2nd level, you can make a rune tattoo that protects from weather and wind like a full set of clothes. Also, when attacked, you can spend your reaction and gain +4 to your AC until the start of your next turn and you gain 1 point of temporary Corruption. As long as you choose to continue to gain Corruption at the start of your turn, you can continue this effect for additional rounds.
 
@@ -339,7 +339,7 @@ At 3th level, you learn how to make a rune tattoo that glows when you take a wou
 
 At 5th level, you make a rune tattoo that adds power to your attacks. Use your bonus action to empower yourself and gain 1 or more points of temporary Corruption. Add 1d8 radiant damage to a number of attacks equal to the Corruption gained.
 
-Protective Runes
+### Protective Runes
 
 At 7th level, you can prepare a special rune that you can use as a reaction. You must attune to the rune, gaining 1 point of permanent Corruption. You choose counterspell or dispel magic and can now activate that spell as a reaction. The spell functions as if cast at 3rd level. You cannot use this feature again until you take a long or extended rest.
 
@@ -353,37 +353,37 @@ Theurgy is nowadays understood as the teachings of the mystical force that radia
 
 Theurgy is an ancient tradition, first developed by the priesthoods devoted to the Old Gods. It is disputed among scholars and the learned whether witchcraft is older than theurgy or if it is the other way around. Either way, the golden age of theurgy is now. Ever since Prios earned himself the devotion and faith of most Ambrians, the bearers of the tradition have thrived. It is not important to them which of the traditions came first and which is the oldest. As far as the theurgs are concerned, the worshiping of moss and veneration of trees are unworthy of mankind’s holy spirit, and most consider witchcraft to be a path that leads only to decay and sorcery. They regard wizardry – the mystical order built on the foundation of older theurgy – in much the same way, as a truly godless and morally questionable practice.
 
-The Titles of Theurgy
+#### The Titles of Theurgy
 
 The titles within the tradition of theurgy are intertwined with the Church of Prios, since theurgs are the defenders of the Church, chosen by the Sun God himself. Obedience to one’s elders is both highly regarded and enforced, and the punishments for disobedience are severe. Lowest in rank are the initiates, who assist and are tutored by the Church’s Brothers and Sisters, who in turn serve under the elder theurgs, called Fathers or Mothers. Within the organization of the Sun Church there are also priests who have not been granted the God-­given powers of the theurgs, and they are called liturgs.
 
-Corruption
+#### Corruption
 
 The theurgs of Prios teach that Corruption occurs when nature is allowed to grow without being cultivated and tamed. Corruption thrives in the wild, in chaos, that which is uncontrolled by humans – and in their encounters with Davokar they seem to find all the evidence needed to support this interpretation of the world order.
 
 Every devotee of Prios must accept the threat of Corruption and keep their inner flame burning despite the risk of taint; just as the Lightbringer Ofelya Attio is said to have proclaimed while standing at the threshold of the Dark Lords’ stronghold: “Fire shall with fire be fought, darkness shall with darkness be vanquished!”
 
-Spellcasting Ability
+#### Spellcasting Ability
 
 Theurgs rely on the teachings of the Sun God when interpreting his teachings or calling upon his power. They use Wisdom as their spellcasting ability modifier. You learn spells from the Theurg tradition list.
 
-Bonus Spell
+### Bonus Spell
 
 At 1st level, you learn the [[bless]] spell in addition to your chosen spells.
 
-Turn Undead
+### Turn Undead
 
 At 2nd level, you can use the power of the Lawgiver to rebuke the undying. As an action, you present your holy symbol and speak a prayer censuring the undead. Each undead within 30 feet of you that can see and/or hear you must make a Wisdom saving throw against your spell save DC. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage. A turned creature must spend its turns trying to move as far away from you as it can, and it can’t willingly move to a space within 30 feet of you. It also can’t take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there’s nowhere to move, the creature can use the Dodge action. You can perform this a number of times equal to your proficiency bonus before needing to take a long or extended rest.
 
 At 5th level, any affected undead with a challenge rating equal to or lower than half your proficiency bonus (rounded down) are destroyed instead of turned. Player characters of the undead origin do not have a challenge rating and cannot be destroyed by this feature, though they can be turned.
 
-Medicus
+### Medicus
 
 At 3rd level, you can invest some of your faith into healing energies that do not incur any chance of Corruption to you. If you spend an action binding a wound, you restore one Hit Die to the treated creature. You can do this a number of times equal to twice your proficiency bonus and then must take an extended rest to recharge.
 
 At 7th level, when you use this ability you restore 1d8 + your Wisdom modifier hit points immediately and the creature also regains the Hit Die.
 
-Matter of Faith
+### Matter of Faith
 
 When you reach 9th level, choose one of your ritual spells. Remove permanent Corruption equal to half its spell level, rounded up. This spell no longer weighs on your soul, since you have internalized its power as being provided solely by Prios.
 
@@ -395,17 +395,17 @@ As a tradition, Rune Singing is as old as the race of dwarves – at least, thei
 
 To dwarvess, the songs of the skalds together with the hammering of the smiths, and the warriors’ clawing at the stone walls of the Abyss compose the great hymn of life. The dwarf culture, yes even the existence of a single dwarf, is unthinkable without the songs.
 
-Titles
+#### Titles
 
 Rune singers have no titles, but follow a simple apprenticeship system where a promising singer learns from a master. When an apprentice has learned enough they are tasked with serving the rulers as best they can, and later on the time comes to pass knowledge and skills on to some new apprentice.
 
-Corruption
+#### Corruption
 
 To willingly accept Corruption is unthinkable to most Rune singers. Through the songs, the dwarves remember the world as it was before the Corruption, long before humans arrived and started building their empires. When Symbaroum grew dark from hunger and rapacity, the dwarves welcomed the elven intervention; they supported the Iron Pact and contributed to the birth of Davokar. At least this is said in the songs.
 
 Nowadays, the dwarves live beneath the woods in the Abyss where darkness broods; in cavities and caves it gathers in pools of malice. These birthplaces of abominations remind all dwarves, singer or not, that the twilight or winter of the world has come. They also know that this twilight cannot be expelled by the eerie lights glowing in their underground halls; that this is a winter during which even the temperatures of the Underworld will not protect them from being bitten by the frost.
 
-Spellcasting Ability
+#### Spellcasting Ability
 
 As Rune Singing is dependent on the performance of singer and song, the spellcasting ability modifier is Charisma. You learn spells from the Rune Singer tradition list.
 
@@ -413,7 +413,7 @@ Each spell must be sung, which always requires at least one action. If a Rune si
 
 Spells whose casting time is longer than an action use the same unit of time for each spell level upgrade. For example casting geas as a 7th level spell would require 3 minutes (1 minute for the base casting, 1 minute for each spell level upgraded).
 
-Songs of the Dawn
+### Songs of the Dawn
 
 Rune singers do not gain temporary Corruption for singing their spells. Instead they must make a Charisma saving throw for each leveled casting, gaining a point of permanent Corruption on a failure. If a spell is favored, you have advantage on the saving throw. If the spell is unfavored, you gain disadvantage instead. Rune singers automatically succeed at casting cantrips. The DC is based on the spell level, using the chart below (the DC is equal to double the spell level plus 12).
 
@@ -430,37 +430,37 @@ Rune singers do not gain temporary Corruption for singing their spells. Instead 
 |8th|28|
 |9th|30|
 
-Songs of the Dusk
+###Songs of the Dusk
 
 At 2nd level Rune singers have mastered the ability to invoke some of their ancient magic without the threat of Corruption. You can cast spells with a level total of up to your proficiency bonus, with a maximum spell level equal to half your proficiency bonus without Corruption. You recover used spell levels when you complete a long rest.
 
 1. Example: If you are a 7th level Rune singer, you could cast up to a 3rd level spell without a saving throw and then cast two 1st level spells, or any other combination of spells totalling 5 spell levels.
 
-Songs of the Masters
+### Songs of the Masters
 
 At 3rd, 5th, 7th and 9th level, Rune singers can learn one of the following songs. You begin a song by using your action on your turn. Any creature affected by the spell must be within 60 feet of you and able to hear you. You must concentrate on these magical songs just like spells. You can use a bonus action on subsequent turns to continue the same song to maintain it up to 1 minute. Singing a spell, singing a new song or ending the song causes the effect to end.
 
-Combat Hymn
+#### Combat Hymn
 
 There is a raw and untamed power in singing, and some mystics learn to sing while fighting to gain considerable extra strength when battling the enemy. When you sing this song, you and up to six allies gain a bonus equal to half your proficiency bonus (rounded up) to your attack rolls and weapon damage rolls. Your weapon damage now counts as magical. You must take a short or longer rest before singing this song again.
 
-Dancing Weapon
+#### Dancing Weapon
 
 When you sing this song, a simple one-­handed weapon that belongs to you becomes animated and can hover up to 6 feet above the ground. Other than this, it remains as it was. If it is magical, you can use any magical effect as if you were wielding the weapon yourself. On your initiative it can move up to 30 feet and then make a single attack roll. It uses your Charisma modifier and your proficiency bonus for attack rolls and your Charisma modifier for damage. You must take a short or longer rest before singing this song again.
 
-Heroic Hymn
+#### Heroic Hymn
 
 When you sing this song you and up to six friendly creatures gain advantage on Dexterity, Constitution or Wisdom saving throws (the same saving throw for each). You must take a short or longer rest before singing this song again.
 
-Retribution Hymn
+#### Retribution Hymn
 
 Choose an enemy creature that you can see. It must make a Charisma saving throw. On a failure, when the creature does damage to you, you split the damage evenly between the two of you. In the case of an odd division, you receive the extra point of damage. You must take a short or longer rest before singing this song again.
 
-Sustaining Hymn
+#### Sustaining Hymn
 
 When you begin this spell and on the start of your turn as long as you continue singing this song, you and up to six allies gain a number of temporary hit points equal to your proficiency bonus plus your Charisma modifier. You must take a short or longer rest before singing this song again.
 
-Weakening Hymn
+#### Weakening Hymn
 
 As an action, you can force up to seven creatures of your choice to make a Charisma saving throw. On a failure they have disadvantage on all saving throws until the song ends. On a success they are immune to this song for 24 hours. If you continue your singing, then a creature that failed the saving throw can repeat it at the end of their turn (with disadvantage) in order to become immune for 24 hours as above. You must take a short or longer rest before singing this song again.
 
@@ -472,15 +472,15 @@ The witches’ world is composed of winds, blood and all things growing, togethe
 
 Witchcraft is believed to be the oldest and most deeply rooted of the traditions. Some tutors at Ordo Magica even claim that witchcraft – despite its primitive flaws – forms the basis of theurgy, and because of this, both Theurgs and Wizards have the wise Witches of old to thank for understanding the fundamental principles of magic.
 
-Titles
+#### Titles
 
 Witches believe in independence, thus they are wary of titles and hierarchical structures. The harsh living conditions of Davokar have resulted in each barbarian village housing a witch, and every witch is expected to have a helper (an apprentice). Furthermore, within each clan there is a witches’ node supervised by a Keeper, often called a Hex Mistress by southern scholars. All nodes convene at Karvosti, where the High Chieftain is advised by the Huldra, the foremost of all witches, whom outsiders generally call the Arch Witch.
 
-Corruption
+#### Corruption
 
 For practitioners of witchcraft Corruption is viewed as nature’s way of seeking balance; what the witch does to the world strikes back against him or her. The Corruption must be weighed against the necessity of what the witch is about to do and be handled accordingly. Some witches will choose to sacrifice themselves to the Corruption in order to save their people; such is the fate of a witch according to the demands of life in the gloom of Davokar.
 
-Spellcasting Ability
+### Spellcasting Ability
 
 You are sensitive to the natural flow of magic and the ancient power of the land. You use Wisdom as your spellcasting ability modifier. You learn spells from the Witch tradition list.
 
@@ -535,7 +535,7 @@ The powers of wizardry come from disciplined studies into the fundamental laws o
 
 Wizardry grew out of early forms of theurgy, in a time when the people of Alberetor still worshiped the pantheon of the Young Gods. Philosophers and scholars started to renounce the metaphysical ideas of the priesthood, instead regarding the laws of nature as independent from the machinations of deities. To the founders of wizardry, the Young Gods were seen as the creators of the world, but not its shepherds. Instead the world is regarded as being profoundly magical and not in need of any gods to function. Nor is the world meant to be worshiped, merely understood – and used.
 
-The Titles of Ordo Magica
+#### The Titles of Ordo Magica
 
 The titles of wizardry are closely linked to the competence and function, as well as the status, of the individual. The list of a novice’s duties is a long one, and the commitments of the adept Wizard are considerable, though their new title comes with a touch of authority and privilege. An adept who is experienced enough to teach students carries the title Magistrate.
 
@@ -543,23 +543,23 @@ The Masters often have a specific area of expertise, and the few obligations the
 
 The title of Arch Mage is no longer in use. Before The Great War the Grand Master of the organization was chosen from within the circle of Arch Mages. But since all Arch Mages perished in the war, the Grand Master is instead chosen by, and often from among, the acting Chapter Masters.
 
-Corruption
+#### Corruption
 
 According to Ordo Magica, Corruption is largely misunderstood, thanks to the sermons of hot-­headed theurgs and the fairy tales of witches. It all comes down to a regulated response; a reaction that occurs when a mystic uses their power to affect nature.
 
 This is not that different from what happens when someone jumps off the stern of a boat, simultaneously pushing the boat forward with the same amount of force that goes into the jump. If the jumper is reckless, he will drop into the water; if the jumper is careful, he will land on the dock with dry shoes.
 
-Spellcasting Ability
+#### Spellcasting Ability
 
 Wizards rely on the philosophy and knowledge taught to them during their time with Ordo Magica to understand the ancient secrets of the world. You use Intelligence as your spellcasting ability modifier. You learn spells from the Wizard tradition list.
 
-Bonus Spells
+### Bonus Spells
 
 At 1st level, you learn the detect magic spell in addition to your chosen spells. At 2nd level you learn arcane lock as a bonus spell.
 
 At 3rd level you learn your choice of counterspell or dispel magic as a bonus spell.
 
-Loremaster
+### Loremaster
 
 At 2nd level, the character is educated and well-­versed in the ways of the world: its cultures, history, languages and artifacts. For centuries heroes, monsters and kingdoms have come and gone and left behind powerful items and secret texts. This ability represents knowledge about such things. Through extensive studies a character with this ability knows not only the story of an object but also its properties and applications.
 
@@ -577,10 +577,10 @@ You gain advantage on saving throws against magical effects.
 
 You are proficient in the spoken and written language once used in Symbaroum and know many things about that realm’s ancient people.
 
-Overpowering Magic
+### Overpowering Magic
 
 At 7th level, when you cast a 1st - 5th level spell that requires an action to cast, you can use your bonus action to empower that spell. When you roll damage for the spell, you can reroll any 1s or 2s on the dice. (You must use the new value, even if it is a 1 or 2.) You must take a long or extended rest before you use this feature again.
 
-Ritual Mastery
+### Ritual Mastery
 
 When you reach 9th level, you can reduce your permanent Corruption by 1 for each ritual spell that you know of 3rd level or higher.
