@@ -11,5 +11,5 @@ I'm using a modified version of Free League's "Ruins of Symbaroum" for character
 Navigation<br/>
 [Player primer](https://skroxiousdm.github.io/SkroxiousDM/1.%20Start%20Here/Character%20Creation%20Steps) <br/>
 [House Rules Index](https://skroxiousdm.github.io/SkroxiousDM/7.%20House%20Rules/1.%20House%20Rules%20Index)<br/>
-[Class](https://skroxiousdm.github.io/SkroxiousDM/3.%20Classes/Class)<br/>
+[Class](https://skroxiousdm.github.io/SkroxiousDM/3.Classes/Class)<br/>
 [Spell Lists](https://skroxiousdm.github.io/SkroxiousDM/6.Spells/Spell%20Lists/0%20Spell%20Lists)
