@@ -9,6 +9,7 @@ Mystics among the goblins are shamans, bound to no mystic tradition but earning 
 ## Class Features
 
 ###### The Mystic
+
 |Level|Proficiency Bonus|Features|Favored Spells|Maximum Spell Level|
 |---|---|---|---|---|
 |1st|+1|Spellcasting, Approach, Ritual Casting, Magic Sense|3/1|1st|
@@ -107,25 +108,25 @@ Lately, the knowledge has been revived by humans and elves, in both cases thanks
 
 The sudden reemergence of artifact crafting among mystics has made others question the source of the knowledge. One belief is that the Ambrian mystics have stolen it from the Dwarves – maybe even captured and tortured a dwarf – while others suspect that the rulers of the Underworld have traded this gift in exchange for something very valuable. What version lays closest to the truth is not easily guessed and the Grand Master refuses to speak on the topic.
 
-Titles
+#### Titles
 
 While the dwarves may have specific titles to go with the ever-­increasing understanding of their artifact crafters, they have not shared these with anyone else. In Ordo Magica, artifact crafters share the same titles as other magic users and those that are self-­taught can give themselves what names please them best.
 
-Corruption
+#### Corruption
 
 Artifact Crafters use physical objects to mitigate the effects of Corruption. They still understand Corruption based on their origin and background – for example, an Ordo Magica Artifact Crafter still views Corruption as a natural reaction to magic, just one that can be filtered and reduced by the physical presence of an artifact. Dwarves see Corruption as one more piece of evidence of the darkness now consuming the world and strive to use discipline alongside their powers to slow its conquest.
 
-Spellcasting Ability
+#### Spellcasting Ability
 
 You use talismans to help manage the cost of Corruption but otherwise use the normal mystic rules. You can favor cantrips and spells as normal, and each talisman is bonded to one spell, reducing its Corruption whenever it is cast. You use Wisdom as your spellcasting ability modifier. You learn spells from the Rune Singer tradition list.
 
-Talisman Crafter
+### Talisman Crafter
 
 During a long rest you can create a talisman to help you channel the power of a spell. You begin an adventure with one talisman already prepared. You cannot have more talismans than your proficiency bonus. While you possess the talisman, when you cast that spell you gain half the normal temporary Corruption (rounding up to a minimum of 1).
 
 When you take an extended rest, you can divest yourself of all talismans and then begin to prepare new ones with the next long rest.
 
-Artifact Expert
+### Artifact Expert
 
 At 2nd level, you know something about the powerful secrets of the old rune smiths. At higher levels you are able to create lesser artifacts.
 
@@ -135,15 +136,11 @@ At 3rd level, your understanding of artifacts is extensive enough that you are n
 
 At 5th level, you are able to complete construction of a lesser artifact (see ) when you complete an extended rest (including the one before an adventure begins).
 
-Complex Approaches
-
-As you look at the various approaches available for each class, you’ll find some of them contain more complexity than others. This is intentional – after all, some folks enjoy working with the mechanics of the game system to produce an interesting character. Others are more focused on the roleplay elements or the background story and prefer a more straightforward progression of mechanics. Simply select what you prefer, it won’t change the overall balance of the game.
-
-Talisman Master
+### Talisman Master
 
 At 7th level you can use a number of talismans equal to twice your proficiency bonus. Making a new talisman still requires a long rest to prepare.
 
-Artifact Master
+### Artifact Master
 
 At 9th level you can create one artifact of greater power. This is the work of a lifetime of learning and effort and so can only be accomplished once. The Game­master has further rules and sample artifacts, see Greater Artifacts in the Ruins of Symbaroum Game­master’s Guide.
 
@@ -155,31 +152,31 @@ Particularly gifted individuals have always been able to bend and break seemingl
 
 Independent mystics are not burdened with the theories of a traditions, which gives them more freedom in their choice of powers. However, they are also much more vulnerable to Corruption. Many untamed mystics tend to evolve their own understanding of the world and come to espouse theories that contradict those of the established traditions.
 
-Titles
+#### Titles
 
 As a Self-­taught mystic, you’re free to call yourself whatever you wish, although both Ordo Magica and the Church of Prios take a very dim view of folks who use a title that they have not earned.
 
-Corruption
+#### Corruption
 
 With limited access to new spells and the innate understanding of how to use your personal focus, most self-­taught mystics think of Corruption as a secondary consideration. You do not know how to favor spells and cannot have any favored spells or cantrips. It is only as you gain power that the marks of Corruption become more prominent and the watching eyes of the villagers become colder and less trusting; then you must choose between gathering more power or more attention. The gift of freedom is double-­edged and darkness is drawn to the gifted as envy to those with talent. The power of Corruption cuts deep and must be kept under control; many a free mystic has accepted the darkness although it truly is a kiss of death.
 
-Spellcasting Ability
+#### Spellcasting Ability
 
 Self-­taught mystics rely on learning and then applying the inherent principles of magic by experimentation. They use Intelligence as their spellcasting ability modifier. You learn spells from any of the traditions lists other than the Theurg (see [[0 Spell Lists]]).
 
-Boundless Magic
+### Boundless Magic
 
 With your Self-­taught approach, you can learn spells from any of the given spell lists. However, you only know three cantrips and one 1st level spell at 1st level.
 
-Personal Investment
+### Personal Investment
 
 At 2nd level when you cast a spell you can choose to put some of your personal power into it. You cast the spell as if it was using the highest spell level you know but gain Corruption as if it was cast at its base level. You then must make a Constitution saving throw against your own spell save DC. On a failure you gain a level of exhaustion.
 
-Natural Alchemy
+### Natural Alchemy
 
 At 3rd level, if you take a long rest in a wild area, you can prepare a number of tonics equal to your proficiency bonus. Each tonic restores one Hit Die when consumed. The tonics do not keep well, and lose their effectiveness within 24 hours.
 
-Steadfast
+### Steadfast
 
 At 5th level, as a Self-­taught mystic, you have learned to have both an iron will and stomach. You can use your reaction to give yourself advantage on a Constitution or Wisdom saving throw. You must then take a short or longer rest before using this feature again.
 
@@ -197,7 +194,7 @@ Korinthia’s people faced the undead servants of the Dark Lords during The Grea
 
 Sorcery is the mystical tradition that comprises powers and rituals fueled by Corruption and taint, whose usage provides power in the short run, but corrodes the mystic’s body and soul in the long run. Theurgs active among the Twilight Friars gather rituals of sorcery as well as blight-­stricken artifacts in an attempt to understand this new, dark enemy. Within their monastery in the Titans, it is said that the Black Cloaks hide dark vaults oozing with corruptive energies and echoing with the lamentations of the poor, tainted souls kept there for study.
 
-Titles
+#### Titles
 
 Would-­be Sorcerers begin as either lowly members of another Sorcerer’s cult, desperately believing that if they please their master then they will be rewarded with power. And, sometimes, this may be true, though most cult members are only useful to their leader as scapegoats or sacrifices.
 
@@ -205,45 +202,45 @@ Still, some become acolytes, the first true step on the path of sorcery. Changel
 
 At some point, an acolyte will decide they know enough and wish to escape their master before they find themselves on the sacrificial altar. If they are successful then they may give themselves the title Sorcerer and begin to collect their own followers. If they fail, well perhaps their blood will be useful for the next ritual.
 
-Corruption
+#### Corruption
 
 In the view of the sorcerer the world is dying or already dead, and Corruption is but one of many symptoms of its irredeemable state. To fight Corruption is like pretending that death does not exist. Better to know it, and learn how to understand and use it as much as possible before everything meets its fated end.
 
 To walk side by side with darkness is a precarious act of balance, to say the least. Not to give in to darkness is the key, for doing so would surely mean being completely devoured. Wise Sorcerers accept Corruption, and exploit it, while still keeping a distance from its cold embrace, for as long as they possibly can.
 
-Spellcasting Ability
+#### Spellcasting Ability
 
 Sorcerers rely on their willpower and force of personality to use their own reserves of personal power. You use Charisma as your spellcasting ability modifier. You learn spells from the Sorcerer tradition list.
 
-The Darkened Path
+### The Darkened Path
 
 You have proficiency in your choice of either Deception or Intimidation.
 
 Sorcerers are used to bearing Corruption as they seek to gain ever greater power. When you make a Corruption check, you have advantage on the d20 roll. Note: this is for the initial roll to determine if you gain a mark of Corruption, not the roll to determine the mark’s nature.
 
-The Shadowed Slope
+### The Shadowed Slope
 
 At 2nd level when you cast an unfavored spell of 4th level or lower, and you have permanent Corruption equal to the spell level or higher, you gain one less temporary Corruption than normal, to a minimum of 1 point.
 
 Example: Lightning Bolt is an unfavored spell and would normally cause 1d4+3 points of temporary Corruption. A Sorcerer might gain only 1d4+2 temporary Corruption instead.
 
-The Power of Corruption
+### The Power of Corruption
 
 At 3rd level, a Sorcerer can draw on their Corruption in order to power their spells. You can cast spells up to a level total equal to or lower than your permanent Corruption without gaining any Corruption. Each spell must be equal to or lower than your maximum spell level. When you take an extended rest your total of cast spells resets to zero.
 
 Example: If you have 5 permanent Corruption then you could cast up to five 1st level spells, two 2nd level spells and one 1st level spell, one 3rd level spell and one 2nd level spell, or any other combination totaling to five spell levels. Then you would need an extended rest before doing so again.
 
-The Call of Darkness
+### The Call of Darkness
 
 At 5th level, the Sorcerer can make use of the shadows that lie in the hearts of others. When you cast a spell that requires a Wisdom saving throw, each affected creature adds its permanent Corruption to the spell saving throw DC. If the creature is thoroughly corrupt (see [[Corruption & Shadow]]) then this effect does not apply.
 
-Revenant Strike
+### Revenant Strike
 
 At 7th level when you kill a living creature on your turn, you may choose to gain a point of temporary Corruption. If you do so, you can use your bonus action to cause the slain creature to rise immediately as an undead (use Dragoul stats) under your control. It retains its initiative count but you now control the creature during its turn. This power has no effect on abominations.
 
 After the combat, the creature collapses and cannot be reanimated.
 
-Unholy Aura
+### Unholy Aura
 
 At 9th level you are surrounded by a field of negative energy. You can use your bonus action to cause each creature of your choice within 30 feet of you to make a Constitution saving throw, inflicting 1d6 necrotic damage for each point of permanent Corruption that you possess, or half that amount on a success. You must take a short or longer rest before using this feature again.
 
@@ -430,7 +427,7 @@ Rune singers do not gain temporary Corruption for singing their spells. Instead 
 |8th|28|
 |9th|30|
 
-###Songs of the Dusk
+### Songs of the Dusk
 
 At 2nd level Rune singers have mastered the ability to invoke some of their ancient magic without the threat of Corruption. You can cast spells with a level total of up to your proficiency bonus, with a maximum spell level equal to half your proficiency bonus without Corruption. You recover used spell levels when you complete a long rest.
 
@@ -493,18 +490,21 @@ These features interact with nature itself.
 ##### Shapeshifter. 
 - You can use your action to magically assume the shape of a natural beast you have seen before. You can use this feature a number of times equal to your proficiency bonus before you have to take a short or longer rest to regain your expended uses. Your mystic level determines the type of beast you can transform into, see the table below.
 ##### Beast Shapes  
+
 |Mystic Level |Max. CR |Limitations |Example| 
 | --- | --- | --- | ---|
 |3rd |1/4 |No flying or swimming speed |Mare Cat  
 |5th |1/2        |No flying speed |Skullan  
 |8th|1        |-        |Giant Vulture  
-	You can stay in a beast shape for a number of hours equal to half your mystic level (rounded down). You can then expend another use of this feature to remain in the beast shape. You can revert to your normal form as a bonus action and you automatically revert if you fall unconscious, drop to 0 hit points, or die.  
+
+    You can stay in a beast shape for a number of hours equal to half your mystic level (rounded down). You can then expend another use of this feature to remain in the beast shape. You can revert to your normal form as a bonus action and you automatically revert if you fall unconscious, drop to 0 hit points, or die.  
 	While you are transformed, the following rules apply:  
         - Your game statistics are replaced by the statistics of the beast, but you retain your personality, and Intelligence, Wisdom, and Charisma scores. You also retain all of your skill and saving throw proficiencies, in addition to gaining those of the creature. If the creature has the same proficiency as you and the bonus in its stat block is higher than yours, use the creature’s bonus instead of yours. If the creature has any legendary or lair actions, you can’t use them.
         - When you transform, you assume the beast’s hit points and Hit Dice. When you revert to your normal form, you return to the number of hit points you had before you transformed. However, if you revert as a result of dropping to 0 hit points, any excess damage carries over to your normal form. For example, if you take 10 damage in animal form and have only 1 hit point left, you revert and take 9 damage. As long as the excess damage doesn’t reduce your normal form to 0 hit points, you aren’t knocked unconscious.
         - You can’t cast spells, and your ability to speak or take any action that requires hands is limited to the capabilities of your beast form. Transforming doesn’t break your concentration on a spell you’ve already cast, however, or prevent you from taking actions that are part of a spell, such as eyebite, that you’ve already cast. 
         - You retain the benefit of any features from your class, origin, or other source and can use them if the new form is physically capable of doing so. However, you can’t use any of your special senses, such as darkvision, unless your new form also has that sense.
         - You choose whether your equipment falls to the ground in your space, merges into your new form, or is worn by it. Worn equipment functions as normal, but the GM decides whether it is practical for the new form to wear a piece of equipment, based on the creature’s shape and size. Your equipment doesn’t change size or shape to match the new form, and any equipment that the new form can’t wear must either fall to the ground or merge with it. Equipment that merges with the form has no effect until you leave the form.  
+	
 ##### Nature’s Lullaby. 
 - By singing softly and focusing on a particular abomination that can hear you, you and your companions can pass by it without it reacting – you are essentially invisible to the blighted creature. If anyone acts aggressively or you stop singing (to cast a spell, for example) the benefit ends. You can make use of this feature a number of times equal to your proficiency bonus and then must take a long or extended rest before using this feature again.
 
