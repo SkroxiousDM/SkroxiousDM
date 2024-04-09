@@ -214,11 +214,11 @@ Through regular practice in wrestling, boxing, or engaging in some other form of
 - +1 dmg with swords.
 - Reaction – Deft Parry: When an opponent makes an attack against you, you may make an attack roll with your sword. If your attack hits a higher armor class than their attack, their attack does not hit and you may immediately make a melee weapon attack against them. You cannot use this ability again until you have completed a short or long rest.
 
-Hammer Master:
+# Hammer Master:
 
 -  +1 dmg with maces and hammers
 - Maces and hammers add the +1 dmg to Armor Crushing and gain armor crushing if they do not already have it.
 
-new feat: Mounted Charger
+# Mounted Charger
 
 Your training with a lance while mounted has given you mastery of the weapon, making you deadly against foes while charging. If your mount first moves more than 20ft directly toward an enemy and you hit with a lance, the weapon does 2d12 + STR damage instead of 1d12. If your mount first moves more than 10ft you can ride down opponents who are one size category smaller than your mount or smaller. When entering an enemy space, the mount's speed is reduced by half. Any enemy caught in the path can make a Strength (Athletics) or Dexterity (Acrobatics) check vs. the mount's Strength (Athletics). The mount rolls with advantage. If the mount wins, the enemy is shoved up to 10 feet, takes 1d6 bludgeoning damage, and is knocked prone. The mount can ride down up to three creatures this way.
