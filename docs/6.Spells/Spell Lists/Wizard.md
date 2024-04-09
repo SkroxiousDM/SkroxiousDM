@@ -6,6 +6,8 @@ CANTRIPS
 
 1ST LEVEL
 
+|   |   |
+|---|---|
 {Alarm}<br><br>{[Burning Hands](https://skroxiousdm.github.io/SkroxiousDM/6.Spells/Spell%20Descriptions/1st%20Level/Burning%20Hands) * }<br><br>{[Charm Person](https://skroxiousdm.github.io/SkroxiousDM/6.Spells/Spell%20Descriptions/1st%20Level/Charm%20Person) * }<br><br>{Comprehend Languages}<br><br>{Detect Magic}<br><br>{Disguise Self}<br><br>{Expeditious Retreat}<br><br>{[False Life](https://skroxiousdm.github.io/SkroxiousDM/6.Spells/Spell%20Descriptions/1st%20Level/False%20Life) * }<br><br>{Feather Fall}<br><br>{Find Familiar}<br><br>{Floating Disk}<br><br>{[[Fog Cloud]]}<br><br>{Grease}|{Hideous Laughter * }<br><br>{Identify}<br><br>{Illusory Script}<br><br>{Jump}<br><br>{[[Longstrider]]}<br><br>{[[Mage Armor]]}<br><br>{[[Magic Missile]] * }<br><br>{Protection from Evil and Good*}<br><br>{Shield}<br><br>{Silent Image}<br><br>{[[Sleep 1]]}<br><br>{[[Thunderwave 1]]}<br><br>{Unseen Servant}|
 
 |{Alarm}<br><br>[[Burning Hands]] * <br><br>[[Charm Person]] * <br><br>{Comprehend Languages}<br><br>{Detect Magic}<br><br>{Disguise Self}<br><br>{Expeditious Retreat}<br><br>[[False Life]] * <br><br>{Feather Fall}<br><br>{Find Familiar}<br><br>{Floating Disk}<br><br>[[Fog Cloud]]<br><br>{Grease}|{Hideous Laughter * }<br><br>{Identify}<br><br>{Illusory Script}<br><br>{Jump}<br><br>[[Longstrider]]<br><br>[[Mage Armor]]<br><br>[[Magic Missile]] * <br><br>{Protection from Evil and Good * }<br><br>{Shield}<br><br>{Silent Image}<br><br>[[Sleep]]<br><br>[[Thunderwave]]<br><br>{Unseen Servant}|
