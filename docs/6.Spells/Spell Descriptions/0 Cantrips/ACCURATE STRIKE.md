@@ -1,4 +1,4 @@
-# ACCURATE STRIKE**
+# ACCURATE STRIKE
 *Divination cantrip<br/>
 Casting Time: 1 action<br/>
 **Range:** 30 ft.<br/>
