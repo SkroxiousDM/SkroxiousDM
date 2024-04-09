@@ -1,7 +1,7 @@
 # Class Feats
 A certain selection of feats are available to specific classes. These are additional features that only a specific class can learn. For the mystic, some of these features provide access to spells that are otherwise unavailable.
 
-## CAPTAIN
+# CAPTAIN
 
 As a battlefield leader, you can train yourself to instill fortitude in your allies, aid them in combat and defend yourself admirably.
 
@@ -21,7 +21,7 @@ You have trained extensively to lead others in battle. You gain a number of Comm
 
 You can use your reaction to a melee attack to add your proficiency bonus to your armor class. If your new armor class is higher than the attack roll you take no damage. You must be wielding a melee weapon.
 
-## HUNTER
+# HUNTER
 
 As a master of ranged weaponry, you can become an exceptional guard, and learn to deliver extraordinarily precise shots that can amaze and amuse your allies.
 
@@ -39,7 +39,7 @@ You have trained extensively in ranged combat. You gain a number of Ranged dice 
 
 You have practiced performing exceptional shots with your ranged weapon. You can use one of your attacks to provoke an object interaction (such as shooting a lantern to put out its flame, hitting a switch or lever, cutting a rope, etc.) If you attempt to knock a weapon out of a creature’s control, it can make a Strength saving throw with your attack roll as the DC to retain control of the weapon.
 
-## MYSTIC
+# MYSTIC
 
 As a master of magic you might excel in combat situations, learn additional spells from your research or become inducted into one of special orders within your magical organization.
 
@@ -121,7 +121,7 @@ You gain the following three abilities:
 - Unity. As a bonus action you may fuse your staff with your own body, drawing it into yourself. Whilst fused in this manner the staff weighs nothing and cannot be detected or discovered by other creatures. As another bonus action you call forth your staff causing it to grow from your palm ready to be used. After the first hour of being fused with you, any permanent Corruption begins to be drawn to you. At the end of the second hour the staff loses a point of permanent Corruption and you gain that point. This effect continues each hour until the staff has no permanent Corruption left.
 - Strength. You draw vigor from wielding your staff, whilst you are touching your staff you have advantage on saving throws against poison and diseases. In addition, while you are wielding your staff as a weapon, you have advantage on ability checks to resist being pushed or knocked prone.
 
-## SCOUNDREL
+# SCOUNDREL
 
 You are a master of stealth and thievery. You might focus on being flexible and fast, or disappearing into darkness or surprising folks in combat.
 
@@ -150,7 +150,7 @@ You have trained extensively in close-­in spontaneous combat. You gain a number
 
 You regain any spent Skirmish dice when you take a short or longer rest.
 
-## WARRIOR
+# WARRIOR
 
 As a master of weapons and strength, you might learn to bring your full weight and strength against your enemy, to hold them steady and prevent them from hurting others or to wield your weapon with deadly grace.
 
