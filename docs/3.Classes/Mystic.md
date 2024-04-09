@@ -284,10 +284,10 @@ At 7th level, the rune staff gains these additional effects:
 At 2nd level, the staff mage gains the following benefits from the rune staff:
 - A touch from your staff as long as you wield it counts as you touching a creature for spell effects.
 - When the staff mage gains a point of permanent Corruption they can assign it to the rune staff instead of themselves. Once the rune staff already has three or more permanent Corruption, each time you add a point of permanent Corruption to the staff, roll a d20. If the result is equal to or lower than the new total of permanent Corruption held by the staff then the staff splits asunder and you gain the staff’s permanent Corruption immediately. Creating a new staff requires an extended rest.
-- The mage can use their bonus action to activate an elemental rune on the staff and add 1d4 damage to a single damage roll using the staff. The additional damage is your choice of acid, cold, fire, or lightning.
+- The mage can use their bonus action to activate an elemental rune on the staff and add 1d4 damage to a single damage roll using the staff. The additional damage is your choice of acid, cold, fire, or lightning.<br/>
 At 6th level, the rune staff grants these additional effects:
 - The elemental damage rises to 1d8.
-- Once per long or extended rest you can cast an additional spell of a level equal to half your staff’s permanent Corruption total, rounded down. You gain no Corruption from casting this spell.
+- Once per long or extended rest you can cast an additional spell of a level equal to half your staff’s permanent Corruption total, rounded down. You gain no Corruption from casting this spell.<br/>
 At 9th level, the staff mage gains the following benefits from the rune staff:
 - The elemental damage rises to 1d12.
 - The rune staff provides advantage on all Corruption checks.
