@@ -15,6 +15,7 @@ The Shadows of hunters can be as dark as the forest they venture into but it dep
 
 ## Class Features
 ###### The Hunter
+
 |Level|Proficiency Bonus|Features|
 |---|---|---|
 |1st|+1|Wilderness Explorer, Approach, Hunter’s Instinct|
@@ -30,7 +31,7 @@ The Shadows of hunters can be as dark as the forest they venture into but it dep
 
 As a hunter, you have the following class features:
 
-####Hit Points
+#### Hit Points
 - Hit Dice: If you are not using your origin to determine Hit Dice, your Hit Die is a d8.
 - Hit Points at 1st Level: If you do not use your origin to determine hit points, you have 8 + your Constitution modifier.
 - Hit Points at Higher Levels: If you do not use your origin to determine hit points, you gain 1d8 (or 5) + your Constitution modifier per hunter level after 1st.
@@ -156,7 +157,7 @@ At 9th level, you double your ability modifier for damage with a ranged weapon.
 
 ## Monster Hunter
 
-Monster Hunting Societies
+#### Monster Hunting Societies
 
 In Thistle Hold, the Monster Hunters have gathered into a number of Societies, of which The Red Claw is the most famous. Other such Societies of note are the boastful newcomers Markas’ Impalers, and the more serious teratologists belonging to Nikanor’s Taxidermists Guild, who collect monster carcasses in good condition for study purposes. Many of these groups have openly established outposts close to Karvosti and frequently visit the newly opened store Crueljaws’ Traps, where the retired ogre who has given the establishment its name sells his ingenious hunting devices.
 
