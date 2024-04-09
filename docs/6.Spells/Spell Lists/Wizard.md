@@ -1,3 +1,4 @@
+# Wizard Spell List
 # CANTRIPS
 
 |   |   |
