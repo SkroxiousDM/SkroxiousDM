@@ -1,5 +1,3 @@
-# Obsidian Notes
-
 Hey I'm SkroxiousDM, here in this collection of pages are a bunch of Homebrew rules I use in my 5e games.
 
 This is also the repository for my latest campaign [DragnaCarta's Curse of Strahd Re-Reloaded](https://www.strahdreloaded.com/) <br/>
