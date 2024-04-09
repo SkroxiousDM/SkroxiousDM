@@ -16,7 +16,7 @@ The Warrior
 |1st|+2|Battle Wind, Fighting Style, Approach, Action Surge|
 |2nd|+2|Approach, Ability Score Improvement or Feat|
 |3rd|+3|Extra Attack (2), Approach|
-|4th|+3|Indomitable, |Ability Score Improvement or Feat|
+|4th|+3|Indomitable, Ability Score Improvement or Feat|
 |5th|+4|Approach, Ability Score Improvement or Feat|
 |6th|+4|Extra Attack (3), Ability Score Improvement or Feat|
 |7th|+5|Approach, Ability Score Improvement or Feat|
