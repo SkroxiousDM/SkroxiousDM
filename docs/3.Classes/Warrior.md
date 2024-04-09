@@ -13,26 +13,16 @@ The Warrior
 |   |   |   |
 |---|---|---|
 |Level|Proficiency Bonus|Features|
-|1st|+2|Battle Wind, Fighting Style, Approach|
-|1st<br><br>1st|+2|Action Surge|
-|2nd|+2|Approach|
-|2nd<br><br>2nd|+2|Ability Score Improvement or Feat|
-|3rd<br><br>3rd|+3|Extra Attack (2)|
-|3rd<br><br>3rd|+3|Approach|
-|4th|+3|Indomitable|
-|4th|+3|Ability Score Improvement or Feat|
-|5th|+4|Approach|
-|5th|+4|Ability Score Improvement or Feat|
-|6th|+4|Extra Attack (3)|
-|6th|+4|Ability Score Improvement or Feat|
-|7th|+5|Approach|
-|7th|+5|Ability Score Improvement or Feat|
-|8th|+5|Action Surge|
-|8th|+5|Ability Score Improvement or Feat|
-|9th|+6|Approach|
-|9th|+6|Extra Attack (4)|
-|10th|+6|Ability Score Improvement or Feat|
-|10th|+6|Undying Courage|
+|1st|+2|Battle Wind, Fighting Style, Approach, Action Surge|
+|2nd|+2|Approach, Ability Score Improvement or Feat|
+|3rd|+3|Extra Attack (2), Approach|
+|4th|+3|Indomitable, |Ability Score Improvement or Feat|
+|5th|+4|Approach, Ability Score Improvement or Feat|
+|6th|+4|Extra Attack (3), Ability Score Improvement or Feat|
+|7th|+5|Approach, Ability Score Improvement or Feat|
+|8th|+5|Action Surge, Ability Score Improvement or Feat|
+|9th|+6|Approach, Extra Attack (4)|
+|10th|+6|Ability Score Improvement or Feat, Undying Courage|
 
 As a warrior, you have the following class features:
 
