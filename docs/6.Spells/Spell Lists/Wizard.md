@@ -2,7 +2,7 @@ CANTRIPS
 
 |   |   |
 |---|---|
-|[[Accurate Strike]]<br><br>{Acid Splash}<br><br>{Chill Touch}<br><br>{Mage Hand}<br><br>{Mending}<br><br>{Message}|{Minor Illusion}<br><br>{Poison Spray}<br><br>{Prestidigitation}<br><br>{Ray of Frost}<br><br>{Shocking Grasp}<br><br>[[Witchfire]]|
+|[Accurate Strike](https://skroxiousdm.github.io/SkroxiousDM/6.Spells/Spell%20Descriptions/0%20Cantrips/ACCURATE%20STRIKE)<br><br>{Acid Splash}<br><br>{Chill Touch}<br><br>{Mage Hand}<br><br>{Mending}<br><br>{Message}|{Minor Illusion}<br><br>{Poison Spray}<br><br>{Prestidigitation}<br><br>{Ray of Frost}<br><br>{Shocking Grasp}<br><br>[Witchfire](https://skroxiousdm.github.io/SkroxiousDM/6.Spells/Spell%20Descriptions/0%20Cantrips/WITCHFIRE)|
 
 1ST LEVEL
 
