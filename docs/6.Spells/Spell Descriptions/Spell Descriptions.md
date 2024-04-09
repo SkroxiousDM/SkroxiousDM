@@ -13,7 +13,7 @@ Spells in semibold italics can be cast as rituals.
 Spells with an asterisk (*) cannot be favored.
 
 
-2nd Level Spells
+# 2nd Level Spells
 
 ACID ARROW
 
@@ -362,7 +362,7 @@ Duration: Instantaneous
 
 This spell allows a mystic to read the ashes of a burnt object and thereby discern what the object once was and what happened when it burned – the mystic experiences all impressions from the fire, sees who was there and hears what was being said. A campfire can have much to tell about what happened around it.
 
-3rd Level Spells
+# 3rd Level Spells
 
 ANATHEMA
 
@@ -787,7 +787,7 @@ Just a touch from your shadow-­wreathed hand can siphon the life force from oth
 
 At Higher Levels. When you cast this spell at 4th level or higher, the damage increases by 1d6 for each level above 3rd.
 
-4th Level Spells
+# 4th Level Spells
 
 BANISHMENT*
 
@@ -1012,7 +1012,7 @@ Either the inside or outside of the wall, selected by you when you cast this spe
 
 At Higher Levels. When you cast this spell at 5th level or higher, the damage increases by 1d8 for each level above 4th.
 
-5th Level Spells
+# 5th Level Spells
 
 ANIMATE OBJECTS
 
@@ -1441,7 +1441,7 @@ When you change a weather condition, find the current condition on the following
 |---|---|---|
 |\|   \|   \|<br>\|---\|---\|<br>\|Stage\|Condition\|<br>\|1\|Clear\|<br>\|2\|Light clouds\|<br>\|3\|Overcast or ground fog\|<br>\|4\|Rain, hail, or snow\|<br>\|5\|Torrential rain, driving hail, or blizzard\|<br><br>Precipation|\|   \|   \|<br>\|---\|---\|<br>\|Stage\|Condition\|<br>\|1\|Unbearable heat\|<br>\|2\|Hot\|<br>\|3\|Warm\|<br>\|4\|Cool\|<br>\|5\|Cold\|<br>\|6\|Arctic cold\|<br><br>Temperature|\|   \|   \|<br>\|---\|---\|<br>\|Stage\|Condition\|<br>\|1\|Calm\|<br>\|2\|Moderate wind\|<br>\|3\|Strong wind\|<br>\|4\|Gale\|<br>\|5\|Storm\|<br><br>Wind|
 
-6th Level Spells
+# 6th Level Spells
 
 ATONEMENT
 
