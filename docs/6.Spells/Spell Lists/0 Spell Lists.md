@@ -10,8 +10,8 @@ Spells in *semibold italics* can be cast as rituals.
 
 Spells with an asterisk (`*`) *cannot be favored.*
 
-[[Sorcerer]]
-[[Theurg]]
-[[Rune Singer]]
-[[Witch]]
-[[Wizard]]
+[Sorcerer](https://skroxiousdm.github.io/SkroxiousDM/6.Spells/Spell%20Lists/Sorcerer)<br/>
+[Theurg](https://skroxiousdm.github.io/SkroxiousDM/6.Spells/Spell%20Lists/Theurg))<br/>
+[Rune Singer](https://skroxiousdm.github.io/SkroxiousDM/6.Spells/Spell%20Lists/Rune%20Singer))<br/>
+[Witch](https://skroxiousdm.github.io/SkroxiousDM/6.Spells/Spell%20Lists/Witch)<br/>
+[Wizard](https://skroxiousdm.github.io/SkroxiousDM/6.Spells/Spell%20Lists/Wizard)<br/>
