@@ -3,6 +3,7 @@ Unless you are a spellcaster, Intelligence can be one of the least useful scores
 When creating a character, you gain a number of points equal to your Intelligence modifier (minimum of 0).
 
 ##### Proficiency Costs
+
 |Benefit|Cost|
 |---|---|
 |Additional Class or Background Skill proficiency|2|
@@ -15,4 +16,4 @@ When creating a character, you gain a number of points equal to your Intelligenc
 When you permanently increase your Intelligence modifier, you may spend additional points as normal.  
 Proficiencies learned by spending points cannot be lost once gained.
 
-Adapted from [Grit and Glory v6](https://www.reddit.com/r/gritandglory5e/comments/empff0/grit_and_glory_v6_100_pages_of_dd_5e_rules_for/)[https://drive.google.com/file/d/16uCnUXvwyDageKT2dCdY_n1LbtPVSq4A/view?usp=drivesdk]
+Adapted from [Grit and Glory v6](https://www.reddit.com/r/gritandglory5e/comments/empff0/grit_and_glory_v6_100_pages_of_dd_5e_rules_for/)
