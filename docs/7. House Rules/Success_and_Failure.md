@@ -1,6 +1,6 @@
 # Success and Failure
 ## Critical Success  
-rolled a natural 20 on an attack see also [[Crueler Critical Hits]]
+rolled a natural 20 on an attack see also [Crueler Critical Hits](https://skroxiousdm.github.io/SkroxiousDM/7.%20House%20Rules/Crueler%20Critical%20Hits)<br/>
 
 skill checks move up one level
 for example an untrained DC 25 skill check with a +3 attribute modifier would normally be a Minor Failure, moving up one level turns it into a Success.
