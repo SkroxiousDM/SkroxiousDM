@@ -1,3 +1,4 @@
+# Called Shots
 Called shots can really break the combat mechanics of 5E for various reasons I won't go into here. But there is something very cinematic about called shots in combat that feeds the imagination, and adds a level of potential heroism that isn't possible otherwise. Imagine the Hobbit (the book) without Bard's incredible shot with the black bow to Smaug's missing scale. Or if Theseus couldn't behead Medusa with a single, well planned strike.
 
 I have used some called shots systems in the past, and yes, they are broken, but they have been very fun for my players. Here's a pretty basic example that you can try:
