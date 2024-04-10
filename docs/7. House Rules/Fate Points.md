@@ -1,3 +1,4 @@
+# Fate Points
 Fate Points are a narrative device that enable players to bring creative input to bear in the game, beyond merely describing their own actions and throwing the dice. With Fate Points, players can alter the game world in some way so as to benefit their characters. Fate Points are intended to offer players the chance to add to the story of their characters, adapting the events around them or the circumstances that befall them so as to improve the game and give it a more ‘Conanesque’ feel.
 
 At the start of his career, a player has three Fate Points.
