@@ -12,7 +12,7 @@ Any noncritical Attack Roll that beats AC by 10 or any Skill Roll that beats DC 
 ## Success:  
 You achieve your goal.  
 ## Minor Failure or Success at a Cost:  
-You failed by 1, 2, 3, or 4. You can choose to succeed, at the cost of gaining a Push Condition. See also [[Pushing_a_Roll]]
+You failed by 1, 2, 3, or 4. You can choose to succeed, at the cost of gaining a Push Condition. See also [Pushing_a_Roll](https://skroxiousdm.github.io/SkroxiousDM/7.%20House%20Rules/Pushing_a_Roll)<br/>
 ## Failure:  
 You failed by 5 or more. Something bad happens—you take damage, lose a Recovery die, a Condition worsens, etc.  
 ## Critical Failure:  
