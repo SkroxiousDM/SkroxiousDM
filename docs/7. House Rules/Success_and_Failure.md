@@ -19,6 +19,7 @@ You failed by 5 or more. Something bad happens—you take damage, lose a Recover
 You failed by 10 or more on a skill check, or rolled a natural 1 on an attack. It's all gone badly for you and you suffer a second consequence in addition to the normal failure effects—you take extra damage, lose a Recovery die, drop an item, etc.  
   
 #### Fumble Chart  
+
 |D6 |Effect|
 | --- | --- |
 |1 |***Prone*** The combatant slips and falls prone  
@@ -38,4 +39,4 @@ When a creature rolls a 20 on their saving throw against an effect, they automat
 When a creature rolls a 1 on their saving throw against an effect, they automatically fail the saving throw, even if the result of their save would meet or exceed the save DC. Additionally, if the effect would deal damage, they treat the effect’s damage as if it had rolled the maximum.
 Or if it imposes a condition double the duration.
 
-see also [[Pushing_a_Roll]]
+see also [Pushing_a_Roll](https://skroxiousdm.github.io/SkroxiousDM/7.%20House%20Rules/Pushing_a_Roll)<br/>
