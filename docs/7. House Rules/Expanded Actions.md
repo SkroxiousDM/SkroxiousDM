@@ -1,3 +1,4 @@
+# Expanded Actions
 ### Calm
 *Prerequisites: You have proficiency in Animal Handling.*
 You attempt to calm a hostile beast or monster. Make a Wisdom (Animal Handling) check against the Dungeon Master’s DC. On a success, the target becomes indifferent about creatures of your choice that it is hostile toward. If you succeed by 10 or more, the target becomes friendly toward you instead.
