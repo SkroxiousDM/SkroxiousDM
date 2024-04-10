@@ -7,6 +7,7 @@ Each living creature possesses a Shadow, an aura around them that can be seen by
 Natural beasts have green, red and white shadows or sometimes another bright primary color. Civilized creatures have gold, silver, copper or sometimes other metallic shades. Corrupted creatures have dark shadows: blight beasts or nearly-corrupt creatures are black and purple while less blight-stricken beings exhibit a slight change in their colors, like corroded copper, blackened silver, sickly green, red with streaks of rust or white with flakes of ashen gray.
 
 #### Marks of Corruption
+
 |1d20|MARK OF CORRUPTION|
 |---|---|
 |1-2|No mark, but you gain a point of permanent Corruption. Erase all current temporary Corruption.|
@@ -59,6 +60,7 @@ The category listing in the table below indicates how the theurgs of Prios would
 
 Permanent Corruption affects it in the following ways:
 ##### Corruption Categories
+
 |PERMANENT CORRUPTION|CATEGORY|EFFECT|
 |---|---|---|
 |1 point or more|Blight-stricken|Visible to those who can see Shadows as black spots moving within the Shadow.|
