@@ -2,12 +2,12 @@
     <aside>
       <h2>Navigation</h2>
       <ul>
-        <li><a href="./1.%20Start%20Here/Character%20Creation%20Steps">Player primer </a></li>
-        <li><a href="./7.%20House%20Rules/1.%20House%20Rules%20Index">House Rules Index </a></li>
-        <li><a href="./3.Classes/Class">Class </a></li>
-        <li><a href="./6.Spells/Spell%20Lists/0%20Spell%20Lists">Spell Lists </a></li>
-        <li><a href="./4.Feats/General%20Feats">General Feats </a></li>
-        <li><a href="./4.Feats/Class%20Feats">Class Feats </a></li>
+        <li><a href="https://skroxiousdm.github.io/SkroxiousDM/1.%20Start%20Here/Character%20Creation%20Steps">Player primer </a></li>
+        <li><a href="https://skroxiousdm.github.io/SkroxiousDM/7.%20House%20Rules/1.%20House%20Rules%20Index">House Rules Index </a></li>
+        <li><a href="https://skroxiousdm.github.io/SkroxiousDM/3.Classes/Class">Class </a></li>
+        <li><a href="https://skroxiousdm.github.io/SkroxiousDM/6.Spells/Spell%20Lists/0%20Spell%20Lists">Spell Lists </a></li>
+        <li><a href="https://skroxiousdm.github.io/SkroxiousDM/4.Feats/General%20Feats">General Feats </a></li>
+        <li><a href="https://skroxiousdm.github.io/SkroxiousDM/4.Feats/Class%20Feats">Class Feats </a></li>
     </ul>
     </aside>
     <main>
