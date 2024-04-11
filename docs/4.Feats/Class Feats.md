@@ -13,7 +13,7 @@ As a reaction when you roll initiative and are not surprised, you can make a spe
 
 ### Command Expert
 
-You have trained extensively to lead others in battle. You gain a number of Command dice (d6s) equal to your proficiency bonus. Using your reaction you can add a Command die to an ally’s weapon attack or damage roll. It can also be used in place of a Superiority Die {see[Actions in Combat](https://skroxiousdm.github.io/SkroxiousDM/7.%20House%20Rules/Actions%20in%20Combat#%20Combat%20Options)} You regain any spent Command dice when you take a short or longer rest.
+You have trained extensively to lead others in battle. You gain a number of Command dice (d6s) equal to your proficiency bonus. Using your reaction you can add a Command die to an ally’s weapon attack or damage roll. It can also be used in place of a Superiority Die {see[Actions in Combat](https://skroxiousdm.github.io/SkroxiousDM/7.%20House%20Rules/Actions%20in%20Combat#Combat%20Options)} You regain any spent Command dice when you take a short or longer rest.
 
 ### Parry
 
@@ -31,7 +31,7 @@ You can spend up to two hours each day in a state of heightened awareness, usual
 
 ### Ranged Expert
 
-You have trained extensively in ranged combat. You gain a number of Ranged dice (d6s) equal to your proficiency bonus. On your turn you can use your bonus action to add a Ranged die to your ranged attack roll or your weapon damage if you succeed with a ranged attack. It can also be used in place of a Superiority Die {see[Actions in Combat](https://skroxiousdm.github.io/SkroxiousDM/7.%20House%20Rules/Actions%20in%20Combat#%20Combat%20Options)} You regain any spent Ranged dice when you take a short or longer rest.
+You have trained extensively in ranged combat. You gain a number of Ranged dice (d6s) equal to your proficiency bonus. On your turn you can use your bonus action to add a Ranged die to your ranged attack roll or your weapon damage if you succeed with a ranged attack. It can also be used in place of a Superiority Die {see[Actions in Combat](https://skroxiousdm.github.io/SkroxiousDM/7.%20House%20Rules/Actions%20in%20Combat#Combat%20Options)} You regain any spent Ranged dice when you take a short or longer rest.
 
 ### Trick Shot
 
@@ -45,7 +45,7 @@ As a master of magic you might excel in combat situations, learn additional spel
 
 ### Combat Magic Expert
 
-You have trained extensively to use your magic in combat. You gain a number of Combat dice (d6) equal to your proficiency bonus. On your turn you can use a bonus action to add a Combat die to your spell attack roll or your spell damage. You can use your reaction to add a Combat die to a saving throw to maintain concentration. It can also be used in place of a Superiority Die {see[Actions in Combat](https://skroxiousdm.github.io/SkroxiousDM/7.%20House%20Rules/Actions%20in%20Combat#%20Combat%20Options)}
+You have trained extensively to use your magic in combat. You gain a number of Combat dice (d6) equal to your proficiency bonus. On your turn you can use a bonus action to add a Combat die to your spell attack roll or your spell damage. You can use your reaction to add a Combat die to a saving throw to maintain concentration. It can also be used in place of a Superiority Die {see[Actions in Combat](https://skroxiousdm.github.io/SkroxiousDM/7.%20House%20Rules/Actions%20in%20Combat#Combat%20Options)}
 
 You regain any spent Combat dice when you take a short or longer rest.
 
@@ -146,7 +146,7 @@ You are an expert at stealth. You gain the following benefits:
 
 ### Skirmish Expert
 
-You have trained extensively in close-­in spontaneous combat. You gain a number of Skirmish dice (d6s) equal to your proficiency bonus. When it is your turn, if you are unarmed or are using an improvised weapon, you can use a bonus action to add a Skirmish die to your attack roll or damage roll. It can also be used in place of a Superiority Die {see[Actions in Combat](https://skroxiousdm.github.io/SkroxiousDM/7.%20House%20Rules/Actions%20in%20Combat#%20Combat%20Options)}
+You have trained extensively in close-­in spontaneous combat. You gain a number of Skirmish dice (d6s) equal to your proficiency bonus. When it is your turn, if you are unarmed or are using an improvised weapon, you can use a bonus action to add a Skirmish die to your attack roll or damage roll. It can also be used in place of a Superiority Die {see[Actions in Combat](https://skroxiousdm.github.io/SkroxiousDM/7.%20House%20Rules/Actions%20in%20Combat#Combat%20Options)}
 
 You regain any spent Skirmish dice when you take a short or longer rest.
 
@@ -162,6 +162,6 @@ If you move 20 feet or more towards a target that is at least 20 feet away you h
 
 ### Melee Expert
 
-You have trained extensively in the arts of war. You gain a number of Melee dice (d6s) equal to your proficiency bonus. On your turn you can use a bonus action to add a Melee die to your melee attack roll or your weapon damage if you succeed with a melee attack. It can also be used in place of a Superiority Die {see[Actions in Combat](https://skroxiousdm.github.io/SkroxiousDM/7.%20House%20Rules/Actions%20in%20Combat#%20Combat%20Options)}
+You have trained extensively in the arts of war. You gain a number of Melee dice (d6s) equal to your proficiency bonus. On your turn you can use a bonus action to add a Melee die to your melee attack roll or your weapon damage if you succeed with a melee attack. It can also be used in place of a Superiority Die {see[Actions in Combat](https://skroxiousdm.github.io/SkroxiousDM/7.%20House%20Rules/Actions%20in%20Combat#Combat%20Options)}
 
 You regain any spent Melee dice when you take a short or longer rest.
