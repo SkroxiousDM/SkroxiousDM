@@ -1,8 +1,4 @@
-<!DOCTYPE html>
 <html>
-<head>
-  <title>SkroxiousDM Homebrew Rules</title>
-</head>
 <body>
     <header>
     <h1> SkroxiousDM Homebrew Rules </h1>
