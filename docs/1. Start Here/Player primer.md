@@ -49,6 +49,24 @@ If, after reading this far, you think Curse of Strahd may be the campaign for yo
 - Don't try to play an apathetic or evil player character unless you are 100% sure that you can pull it off while being a supportive team player and engaging the story like a normal PC. Seriously. You'll make this adventure a lot more difficult and unenjoyable for your DM, and you'll be cheating yourself out of a fun experience. You don't need to play a knight in shining armor, but you definitely shouldn't play a villain.
 
 <h3> Oh - and don’t Google anything related to the campaign.</h3>
-<strong>The Web, after all, is dark, and full of spoilers.</strong>
+<strong>The Web, after all, is dark, and full of spoilers.</strong><br>
 
+
+<h2>Contract</h2>
+I, PLAYER NAME, understand and agree to the following expectations:
+<ul>
+<li>I will make and play a character who is—while potentially flawed—either (a) actively heroic; or (b) a sociable, cooperative character who inevitably and actively begins growing towards heroism within the first five sessions.</li>
+<li>I will allow my character to feel true, powerless fear when faced with an overwhelming threat, and allow that fear to impact my character’s actions, growth, and development.</li>
+<li>I will make every reasonable effort to build meaningful short- and long-term relationships with NPCs, and allow myself to become emotionally invested in their lives and goals.</li>
+<li>This campaign requires alliances and cooperation with NPCs and other players, rather than paranoia or antisocial behavior.</li>
+<li>The DM will not try to trick me, and will give me a fair chance to avoid bad situations through clear foreshadowing.</li>
+<li>This campaign will largely focus on social encounters, investigations, and exploration, and combat may occur as infrequently as once every two or three sessions.</li>
+<li>Treasure and magic items will be rare and infrequently obtained, with most rewards taking the form of relationships and alliances with friendly NPCs.</li>
+<li>This campaign will take place in a “fish-out-of-water” setting, and elements from my character’s backstory will not directly appear or be referenced in the campaign.</li>
+<li>It is my sole responsibility to collaborate with the DM and other players to provide my character with an internal emotional character arc if desired.</li>
+<li>Some powerful enemies will be impossible to defeat through combat, and that we will need to either gain levels, allies, or resources in order to do so.</li>
+<li>The DM has balanced any expected combat encounters to make a TPK unlikely unless we make poor decisions; should a TPK occur, the party may have an opportunity to “fail forward” and continue the campaign, albeit with severe consequences.</li>
+<li>This campaign has altered the statistics for many official D&D 5e monsters, and has introduced additional mechanics or altered statistics for other enemies to create a balanced, high-tension combat experience that may differ from the Monster Manual and other official supplements.</li>
+<li>I will not seek out any information, artwork, videos, or other media relevant to Curse of Strahd, or any characters, locations, or lore within the campaign.</li>
+</ul>
 [Character Creation Steps](https://skroxiousdm.github.io/SkroxiousDM/1.%20Start%20Here/Character%20Creation%20Steps)
