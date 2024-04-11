@@ -2,7 +2,7 @@
     <aside>
       <h2>Navigation</h2>
       <ul>
-        <li><a href="https://skroxiousdm.github.io/SkroxiousDM/1.%20Start%20Here/Player%Primer">Player Primer </a></li>
+        <li><a href="https://skroxiousdm.github.io/SkroxiousDM/1.%20Start%20Here/Player%20primer">Player Primer </a></li>
         <li><a href="https://skroxiousdm.github.io/SkroxiousDM/7.%20House%20Rules/1.%20House%20Rules%20Index">House Rules Index </a></li>
         <li><a href="https://skroxiousdm.github.io/SkroxiousDM/3.Classes/Class">Class </a></li>
         <li><a href="https://skroxiousdm.github.io/SkroxiousDM/6.Spells/Spell%20Lists/0%20Spell%20Lists">Spell Lists </a></li>
