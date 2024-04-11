@@ -1,12 +1,12 @@
-_Come, strangers, in to a tale of woe...
+<em>Come, strangers, in to a tale of woe...
 
-_You are but a small, frail handful of flickering lights set against great darkness. Many such embers have been consumed over the centuries but perhaps your tale will differ. Perhaps you have a unique destiny in store. It takes but a single strong spark to set the world on fire.  Are you that flickering mote of hope? Perhaps... Then again, perhaps not...
+You are but a small, frail handful of flickering lights set against great darkness. Many such embers have been consumed over the centuries but perhaps your tale will differ. Perhaps you have a unique destiny in store. It takes but a single strong spark to set the world on fire.  Are you that flickering mote of hope? Perhaps... Then again, perhaps not...
 
-_Time will tell. Enter the land of Barovia. A land of greys and shadows where light struggles against eternal darkness.
+Time will tell. Enter the land of Barovia. A land of greys and shadows where light struggles against eternal darkness.</em>
 
 # Player’s Guide
 This player’s guide serves to inform you about the campaign, set expectations, and clarify rules pertaining to the campaign. Please carefully review this guide. Rules related to D&D may be found online in the [D&D Basic Rules](https://www.dndbeyond.com/sources/basic-rules). Your Dungeon Master may have additional rules and information beyond the scope of the Basic Rules and this guide, which you can discuss during session zero. 
-see [[1. House Rules Index]]
+see [House Rules Index](https://skroxiousdm.github.io/SkroxiousDM/7.%20House%20Rules/1.%20House%20Rules%20Index)
 ## What Is Gothic Horror?
 
 Gothic horror is about the terror within, not without. It shatters the illusion of humanity in a poignant way by holding a mirror up to us and saying: look at what we truly are, and look at what we pretend to be. Under that mask of civility, there is depravity. Under that thin veneer of society, there is wickedness. Under all the trappings of sophistication, are we not all predators or prey? Gothic horror shatters the lies we trick ourselves into believing and shows that we, not some distant entity, are and ever shall be the architects of our doom. The quest for perfection leads us to discover our own imperfection. Our quest for the divine leads us to believe we, ourselves, are gods. These are the themes that haunt stories of Gothic horror.
@@ -29,12 +29,12 @@ Welcome to a world shrouded in darkness and horror, where secrets and conspiraci
 ##### Narrative
 * Expect the campaign to begin with a clear path but quickly evolve into an expansive sandbox. Balancing and prioritizing multiple quests will be crucial as you navigate the world's urgent deadlines and far-reaching consequences.
 
-### Warning
+<h3>Warning</h3> 
 > Curse of Strahd is gothic horror, and some subject matter may be unsuitable or offensive to some players. This campaign is for ages 18+ and contains:
 > 		 Child abuse and neglect, emotional and physical abuse, murder and attempted murder, kidnapping, stalking, assault, gaslighting, abuse of power, racism, xenophobia, cruelty, torture, references to genocide, mutilation, mind control, the desecration of the dead and places of worship, cannibalism, mercy killing, parental death, child death, mental illness, starvation, cruelty to animals, prolonged and painful deaths, body horror, spiders, insects and infestation horror, decay, betrayal, consumption of alcohol and drugs, involuntary homicide, graphic depictions of death and violence, necrophilia, self-harm, suicide, and potentially other mature themes. 
 >  If you find any of this material objectionable, offensive, or potentially disturbing, please inform the Dungeon Master to adjust the campaign and determine what is suitable.
 
-### Pause for a Second
+<h3>Pause for a Second</h3> 
 In addition to the safety tools implemented by your DM, at any time you may say, “pause for a second” to discuss the current situation out of character, including stating “I am not comfortable with where this is going.” All players should be respectful if a player invokes“ pause for a second.”
 
 
@@ -48,7 +48,7 @@ If, after reading this far, you think Curse of Strahd may be the campaign for yo
 - Try to remove yourself from the “XP and loot” model of progression in traditional campaigns and video games, and instead try to enjoy the narrative progression of winning allies, fulfilling objectives, and advancing the story of the campaign and player characters.
 - Don't try to play an apathetic or evil player character unless you are 100% sure that you can pull it off while being a supportive team player and engaging the story like a normal PC. Seriously. You'll make this adventure a lot more difficult and unenjoyable for your DM, and you'll be cheating yourself out of a fun experience. You don't need to play a knight in shining armor, but you definitely shouldn't play a villain.
 
-### Oh - and don’t Google anything related to the campaign.
-**The Web, after all, is dark, and full of spoilers.**
+<h3> Oh - and don’t Google anything related to the campaign.</h3>
+<strong>The Web, after all, is dark, and full of spoilers.</strong>
 
 [Character Creation Steps](https://skroxiousdm.github.io/SkroxiousDM/1.%20Start%20Here/Character%20Creation%20Steps)
