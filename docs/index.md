@@ -1,4 +1,12 @@
-<div class="container">
+<!DOCTYPE html>
+<html>
+<head>
+  <title>SkroxiousDM Homebrew Rules</title>
+</head>
+<body>
+    <header>
+    <h1> SkroxiousDM Homebrew Rules </h1>
+  </header>
     <aside>
       <h2>Navigation</h2>
       <ul>
@@ -20,4 +28,5 @@
         I'm using a modified version of <a href="https://preview.drivethrurpg.com/en/product/317720/ruins-of-symbaroum-5e-the-promised-land">Free League's "Ruins of Symbaroum" </a> for character classes, wherein I've compressed the original 20 levels into 10.
         </p>
     </main>
-  </div>
+</body>
+</html>
