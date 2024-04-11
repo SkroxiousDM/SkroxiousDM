@@ -69,4 +69,5 @@ I, PLAYER NAME, understand and agree to the following expectations:
 <li>This campaign has altered the statistics for many official D&D 5e monsters, and has introduced additional mechanics or altered statistics for other enemies to create a balanced, high-tension combat experience that may differ from the Monster Manual and other official supplements.</li>
 <li>I will not seek out any information, artwork, videos, or other media relevant to Curse of Strahd, or any characters, locations, or lore within the campaign.</li>
 </ul>
+
 [Character Creation Steps](https://skroxiousdm.github.io/SkroxiousDM/1.%20Start%20Here/Character%20Creation%20Steps)
