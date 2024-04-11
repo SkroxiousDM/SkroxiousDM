@@ -79,9 +79,10 @@ A creature can use a weapon attack to knock a weapon or another item from a targ
 
 ## Marking
 The Dungeon Master's Guide (pg. 271) 
-		Mark
+		**Mark**
 		This option makes it easier for melee combatants to harry each other with opportunity attacks.
 		When a creature makes a melee attack, it can also mark its target. Until the end of the attacker’s next turn, any opportunity attack it makes against the marked target has advantage. The opportunity attack doesn’t expend the attacker’s reaction, but the attacker can’t make the attack if anything, such as the incapacitated condition or the shocking grasp spell, is preventing it from taking reactions. The attacker is limited to one opportunity attack per turn
+  
 introduces marking as a way to harry each other with opportunity attacks. This rule overrides the original effect. When you use the Mark action, you gain a second reaction that can only be used for opportunity attack provoked by your marked target, and only this attack benefits from advantage. However, you cannot perform reactions against any hostile creatures other than your marked target until the end of your next turn.
 
 # Combat Options
