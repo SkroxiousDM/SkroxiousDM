@@ -3,7 +3,7 @@ CANTRIPS
 
 |   |   |
 |---|---|
-|[Accurate Strike](https://skroxiousdm.github.io/SkroxiousDM/6.Spells/Spell%20Descriptions/0%20Cantrips/ACCURATE%20STRIKE)<br><br>{Acid Splash}<br><br>{Guidance}<br><br>{Mending&reg;}<br><br>{Ray of Frost}<br><br>{Resistance}|{Sacred Flame}<br><br>{Shocking Grasp}<br><br>{Spare the Dying}<br><br>{Thaumaturgy}<br>[[Witchfire&reg;](https://skroxiousdm.github.io/SkroxiousDM/6.Spells/Spell%20Descriptions/0%20Cantrips/WITCHFIRE)&reg;|
+|[Accurate Strike](https://skroxiousdm.github.io/SkroxiousDM/6.Spells/Spell%20Descriptions/0%20Cantrips/ACCURATE%20STRIKE)<br>{Acid Splash}<br><br>{Guidance}<br>{Mending&reg;}<br>{Ray of Frost}<br>{Resistance}|{Sacred Flame}<br>{Shocking Grasp}<br>{Spare the Dying}<br>{Thaumaturgy}<br>[[Witchfire&reg;](https://skroxiousdm.github.io/SkroxiousDM/6.Spells/Spell%20Descriptions/0%20Cantrips/WITCHFIRE)&reg;|
 
 
 1ST LEVEL
