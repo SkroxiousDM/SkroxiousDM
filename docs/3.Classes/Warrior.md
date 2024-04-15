@@ -317,8 +317,11 @@ You know two cantrips and one 1st level spell from the Theurg list, in addition 
 |1st|2|1|-|-|-|
 |2nd|3|2|-|-|-|
 |3rd|4|3|1|-|-|
+|4th|5|3|2|-|-|
 |5th|5|4|2|1|-|
+|6th|5|4|2|2|-|
 |7th|5|4|3|2|1|
+|8th|5|4|3|3|1|
 |9th|5|4|4|3|2|
 
 ### Holy Aura
