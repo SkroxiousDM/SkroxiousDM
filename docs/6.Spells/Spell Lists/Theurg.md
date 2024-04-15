@@ -3,7 +3,7 @@ CANTRIPS
 
 |   |   |
 |---|---|
-|[Accurate Strike](https://skroxiousdm.github.io/SkroxiousDM/6.Spells/Spell%20Descriptions/0%20Cantrips/ACCURATE%20STRIKE)<br>{Acid Splash}<br><br>{Guidance}<br>{Mending&reg;}<br>{Ray of Frost}<br>{Resistance}|{Sacred Flame}<br>{Shocking Grasp}<br>{Spare the Dying}<br>{Thaumaturgy}<br>[[Witchfire&reg;](https://skroxiousdm.github.io/SkroxiousDM/6.Spells/Spell%20Descriptions/0%20Cantrips/WITCHFIRE)&reg;|
+|[Accurate Strike](https://skroxiousdm.github.io/SkroxiousDM/6.Spells/Spell%20Descriptions/0%20Cantrips/ACCURATE%20STRIKE)<br>{Acid Splash}<br>{Guidance}<br>{Mending&reg;}<br>{Ray of Frost}<br>{Resistance}|{Sacred Flame}<br>{Shocking Grasp}<br>{Spare the Dying}<br>{Thaumaturgy}<br>[[Witchfire&reg;](https://skroxiousdm.github.io/SkroxiousDM/6.Spells/Spell%20Descriptions/0%20Cantrips/WITCHFIRE)&reg;|
 
 
 1ST LEVEL
@@ -16,7 +16,7 @@ CANTRIPS
 
 |   |   |
 |---|---|
-|{Aid}<br><br>{Augury&reg;}<br><br>{Blindness/Deafness * }<br><br>{Calm Emotions}<br><br>{Continual Flame}<br><br>{Cure Minor Injury * }<br><br>{Enhance Ability}<br><br>{Find Traps}<br><br>{Gentle Repose&reg;}<br><br>{Hold Person * }|{Inherit Wound}<br><br>{Levitate}<br><br>{Locate Object&reg;}<br><br>{Prayer of Healing}<br><br>{Protection from Poison}<br><br>{Silence&reg;}<br><br>{Spiritual Weapon}<br><br>{Warding Bond}<br><br>{Zone of Truth * }|
+|{Aid}<br>{Augury&reg;}<br>{Blindness/Deafness * }<br>{Calm Emotions}<br>{Continual Flame}<br>{Cure Minor Injury * }<br>{Enhance Ability}<br>{Find Traps}<br>{Gentle Repose&reg;}<br>{Hold Person * }|{Inherit Wound}<br>{Levitate}<br>{Locate Object&reg;}<br>{Prayer of Healing}<br>{Protection from Poison}<br>{Silence&reg;}<br>{Spiritual Weapon}<br>{Warding Bond}<br>{Zone of Truth * }|
 
 3RD LEVEL
 
