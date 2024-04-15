@@ -10,14 +10,7 @@ CANTRIPS
 
 |   |   |
 |---|---|
-|{[[Bane]] * }<br>
-{[[Bless]]}<br>
-{Command * }<br>
-{[[Create or Destroy Water]]}<br>
-{[[Cure Wounds]] * }<br>
-{[[Detect Evil and Good]]}<br>
-{Detect Magic&reg;}<br>{Detect Poison and Disease&reg;}|
-{[[Guiding Bolt]]}<br>{[[Healing Word]] * }<br>{Holy Smoke&reg;}<br>{[[Inflict Wounds]] * }<br>{[[Protection from Evil and Good]]*}<br>{Purify Food and Drink&reg;}<br>{Sanctuary}<br>{Shield of Faith}|
+|{[[Bane]] * }<br>{[[Bless]]}<br>{Command * }<br>{[[Create or Destroy Water]]}<br>{[[Cure Wounds]] * }<br>{[[Detect Evil and Good]]}<br>{Detect Magic&reg;}<br>{Detect Poison and Disease&reg;}|{[[Guiding Bolt]]}<br>{[[Healing Word]] * }<br>{Holy Smoke&reg;}<br>{[[Inflict Wounds]] * }<br>{[[Protection from Evil and Good]]*}<br>{Purify Food and Drink&reg;}<br>{Sanctuary}<br>{Shield of Faith}|
 
 2ND LEVEL
 
