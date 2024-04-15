@@ -147,15 +147,20 @@ Spell save DC = 8 + your proficiency bonus + your Charisma modifier
 
 Spell attack modifier = your proficiency bonus + your Charisma modifier
 
+
 |   |   |   |   |   |   |
 |---|---|---|---|---|---|
 |Level|Cantrips Known|Total 1st|Total 2nd|Total 3rd|Total 4th|
 |1st|2|1|-|-|-|
-|2nd|3|2|-|-|-|
-|3rd|4|3|1|-|-|
-|5th|5|4|2|1|-|
-|7th|5|4|3|2|1|
-|9th|5|4|4|3|2|
+|2nd|2|2|-|-|-|
+|3rd|2|3|-|-|-|
+|4th|3|3|1|-|-|
+|5th|3|4|2|-|-|
+|6th|3|4|3|-|-|
+|7th|4|4|3|1|-|
+|8th|4|4|4|2|-|
+|9th|5|4|4|3|-|
+|10th|5|4|4|3|1|
 
 You know two cantrips and one 1st level spell from the sorcerer list, plus the detect magic spell. You do not have any favored spells. You learn spells according to the chart to the right, and can cast any spell you know at any time, gaining Corruption each time.
 
