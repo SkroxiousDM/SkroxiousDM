@@ -3,7 +3,7 @@
 
 |   |   |
 |---|---|
-|[Accurate Strike](https://skroxiousdm.github.io/SkroxiousDM/6.Spells/Spell%20Descriptions/0%20Cantrips/ACCURATE%20STRIKE)<br>{Acid Splash}<br>{Chill Touch}<br>{Mage Hand}<br>{Mending&reg;}<br>{Message}|{Minor Illusion}<br>{Poison Spray}<br>{Prestidigitation&reg;}<br>{Ray of Frost}<br>{Shocking Grasp}<br>[Witchfire](https://skroxiousdm.github.io/SkroxiousDM/6.Spells/Spell%20Descriptions/0%20Cantrips/WITCHFIRE)&reg;|
+|[Accurate Strike](https://skroxiousdm.github.io/SkroxiousDM/6.Spells/Spell%20Descriptions/0%20Cantrips/ACCURATE%20STRIKE)<br>{Acid Splash}<br>{Chill Touch}<br>{Mage Hand}<br>{Mending&reg;}<br>{Message}|{Minor Illusion}<br>{Poison Spray}<br>{Prestidigitation&reg;}<br>{Ray of Frost}<br>{Shocking Grasp}<br>[[Witchfire](https://skroxiousdm.github.io/SkroxiousDM/6.Spells/Spell%20Descriptions/0%20Cantrips/WITCHFIRE)&reg;|
 
 # 1ST LEVEL
 
