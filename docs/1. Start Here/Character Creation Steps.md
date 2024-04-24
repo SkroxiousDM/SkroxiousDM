@@ -9,3 +9,13 @@ Step 7. Choose a [Character Creation Feat](https://skroxiousdm.github.io/Skroxio
 Step 8. Work through the [Backstory Questions](https://skroxiousdm.github.io/SkroxiousDM/1.%20Start%20Here/Backstory%20Questions)<br>
 
 The Campaign will begin at Level 2.
+
+
+each character should focus on two of the following roles.<br>
+Scout: Scout out areas in advance <br>
+Scholar: Gather or collect academic information <br>
+Spy: Gather human intelligence <br>
+Infiltrator: Get into hard to reach spaces<br>
+Troubleshooter: Deal with tricky maneuvers or obstacles <br>
+Face: Manipulate social encounters <br>
+Muscle: Break through brute obstacles<br>
