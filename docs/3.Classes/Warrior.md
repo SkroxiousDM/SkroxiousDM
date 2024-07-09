@@ -117,7 +117,7 @@ Instead of improving your ability scores you can instead choose to gain a feat. 
 
 Beginning at 3rd level, you can attack twice, instead of once, whenever you take the Attack action on your turn. The number of attacks increases to three when you reach 6th level in this class and to four when you reach 9th level in this class.
 
-Second Wind  
+### Second Wind  
 Your reserves are gone but the battle stands at a critical point. You push past all physical limits, drawing on sheer willpower to keep fighting.  
 At 3rd level you can use a bonus action to regain vigor points equal to 1d10 + your warrior level by spending a Recovery Die. Usable once per rest.
 
