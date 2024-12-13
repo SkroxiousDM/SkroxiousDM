@@ -16,7 +16,7 @@
     </aside>
     <main>
         <p>
-        Hey I'm SkroxiousDM, here in this collection of pages are a bunch of Homebrew rules I use in my 5e games.</br>
+        Hey I'm SkroxiousDM, here in this collection of pages are a bunch of Homebrew rules I use in my 5e games. </br>
         This is also the repository for my latest campaign <a href="https://www.strahdreloaded.com">DragnaCarta's Curse of Strahd Re-Reloaded</a> </br>
         MonD'n'Day Crew stay out of the link above.
         </p>
