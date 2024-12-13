@@ -1,8 +1,8 @@
-<em>Come, strangers, in to a tale of woe...
+<em>Come, strangers, in to a tale of woe...</em>
 
-You are but a small, frail handful of flickering lights set against great darkness. Many such embers have been consumed over the centuries but perhaps your tale will differ. Perhaps you have a unique destiny in store. It takes but a single strong spark to set the world on fire.  Are you that flickering mote of hope? Perhaps... Then again, perhaps not...
+<em>You are but a small, frail handful of flickering lights set against great darkness. Many such embers have been consumed over the centuries but perhaps your tale will differ. Perhaps you have a unique destiny in store. It takes but a single strong spark to set the world on fire.  Are you that flickering mote of hope? Perhaps... Then again, perhaps not...</em>
 
-Time will tell. Enter the land of Barovia. A land of greys and shadows where light struggles against eternal darkness.</em>
+<em>Time will tell. Enter the land of Barovia. A land of greys and shadows where light struggles against eternal darkness.</em>
 
 # Player’s Guide
 This player’s guide serves to inform you about the campaign, set expectations, and clarify rules pertaining to the campaign. Please carefully review this guide. Rules related to D&D may be found online in the [D&D Basic Rules](https://www.dndbeyond.com/sources/basic-rules). Your Dungeon Master may have additional rules and information beyond the scope of the Basic Rules and this guide, which you can discuss during session zero. 
