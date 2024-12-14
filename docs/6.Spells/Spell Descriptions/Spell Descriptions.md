@@ -364,7 +364,7 @@ This spell allows a mystic to read the ashes of a burnt object and thereby disce
 
 # 3rd Level Spells
 
-ANATHEMA
+## ANATHEMA
 
 3rd-­level abjuration (ritual)
 
@@ -378,7 +378,7 @@ Duration: Concentration, up to 1 hour
 
 This spell blocks harmful magics. While in effect you have advantage on saving throws against magical effects and resistance to damage from spells.
 
-ANIMATE DEAD*
+## ANIMATE DEAD*
 
 3rd-­level necromancy, ritual
 
@@ -398,7 +398,7 @@ The creature is under your control for 24 hours, after which it stops obeying an
 
 At Higher Levels. When you cast this spell at 4th level or higher, you animate or reassert control over two additional undead creatures for each level above 3rd. Each of the creatures must come from a different corpse or pile of bones.
 
-BESTOW CURSE*
+## BESTOW CURSE*
 
 3rd-­level necromancy
 
@@ -421,7 +421,7 @@ A remove curse spell ends this effect. At the GM’s discretion, you may invent 
 
 At Higher Levels. If you cast this spell at 4th level, the duration is concentration, up to 10 minutes. If you cast it at 5th level, the duration is 8 hours. If you cast at 7th level, the duration is 24 hours. If you cast at 9th level, the spell lasts until it is dispelled. Casting at 5th level or higher grants a duration that doesn’t require concentration.
 
-BLINK
+## BLINK
 
 Symbols carved on the ancient stone fundament on which the palace of Mergile is built, likely a curse aimed at the lords and ladies who once lived there.
 
@@ -439,7 +439,7 @@ Roll a d20 at the end of each of your turns for the duration of the spell. On a 
 
 While in the Yonderworld, you can see and hear the place you originated from, which is cast in translucent shades of gray, and you can’t see anything there more than 60 feet away. You can only affect and be affected by other creatures in the Yonderworld. Creatures that aren’t there can’t perceive you or interact with you, unless they have the ability to do so.
 
-COUNTERSPELL*
+## COUNTERSPELL*
 
 3rd-­level abjuration
 
@@ -451,13 +451,11 @@ Components: S
 
 Duration: Instantaneous
 
-@Compendium[symbaroum5eplayersguide.ros-pg-spells.Blr7kREPzm4fNB4D]{Counterspell}
-
 You attempt to interrupt a creature in the process of casting a spell. If the creature is casting a spell of 3rd level or lower, its spell fails and has no effect. If it is casting a spell of 4th level or higher, make an ability check using your spellcasting ability. The DC equals 10 + the spell’s level. On a success, the creature’s spell fails and has no effect.
 
 At Higher Levels. When you cast this spell at 4th level or higher, the interrupted spell has no effect if its level is less than or equal to the level of the counterspell you cast.
 
-DISPEL MAGIC*
+## DISPEL MAGIC*
 
 3rd-­level abjuration
 
@@ -475,7 +473,7 @@ Choose one creature, object, or magical effect within range. Any spell of 3rd le
 
 At Higher Levels. When you cast this spell at 4th level or higher, you automatically end the effects of a spell on the target if the spell’s level is equal to or less than the level at which you cast dispel magic.
 
-FIREBALL*
+## FIREBALL*
 
 3rd-­level evocation
 
@@ -487,15 +485,13 @@ Components: V, S, M (a tiny ball of bat guano and sulfur)
 
 Duration: Instantaneous
 
-@Compendium[symbaroum5eplayersguide.ros-pg-spells.wPcX08Fr7n3tEFxT]{Fireball}
-
 A bright streak flashes from your finger to a point you choose within range and then blossoms with a low roar into an explosion of flame. Each creature in a 20-foot-­radius sphere centered on that point must make a Dexterity saving throw. A target takes 8d6 fire damage on a failed save, or half as much damage on a successful one.
 
 The fire spreads around corners. It ignites flammable objects in the area that aren’t being worn or carried.
 
 At Higher Levels. When you cast this spell at 4th level or higher, the damage increases by 1d6 for each level above 3rd.
 
-FLAMING SERVANT
+## FLAMING SERVANT
 
 3rd-­level conjuration, ritual
 
@@ -511,8 +507,6 @@ Duration: 8 hours
 
 You summon a creature of living fire to occupy a suit of armor that you provide. The summoned creature remains within 30 feet of you at all times and follows your commands. It shares your initiative count and you can use your bonus action to command it to take an action, such as attack a target. It can suppress its fiery nature to interact with objects normally or you can command it to use its action to set unattended flammable objects alight. If it is destroyed then you cannot summon the creature again until the next day.
 
-@Compendium[symbaroum5eplayersguide.ros-pg-actors.Q5Z4BZJBdGpdaiu5]{Flaming Servant}
-
 |   |   |   |   |   |   |
 |---|---|---|---|---|---|
 |Flaming Servant||||||
@@ -521,10 +515,10 @@ You summon a creature of living fire to occupy a suit of armor that you provide.
 |STR|DEX|CON|INT|WIS|CHA|
 |16 (+3)|16 (+3)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|
 |Condition Immunities exhaustion, paralyzed, petrified, poisoned, unconscious<br><br>Damage Immunities fire, poison, psychic<br><br>Senses passive Perception 10<br><br>Languages understands the caster’s language<br><br>Challenge special (see below)<br><br>Manner always restless<br><br>Shadow bright orange and red<br><br>Corruption: 0/4<br><br>Equipment none||||||
-|Summoned Creature. The flaming servant’s Hit Dice are equal to the caster’s proficiency bonus (2d8 = 9 hp, 3d8 = 13 hp, 4d8 = 18 hp, 5d8 = 22 hp, 6d8 = 27 hp) and its armor class is dependent on the armor provided as a material component. Its challenge rating is dependent on the caster’s proficiency bonus (+2 to +3 = 1/2 CR, +4 to +6 = 1 CR).||||||
+|Summoned Creature. The flaming servant’s Hit Dice are equal to the caster’s proficiency bonus (2d8 = 9 hp, 3d8 = 13 hp, 4d8 = 18 hp, 5d8 = 22 hp, 6d8 = 27 hp) and its armor class is dependent on the armor provided as a material component. Its challenge rating is dependent on the caster’s proficiency bonus (+1 to +3 = 1/2 CR, +4 to +5 = 1 CR).||||||
 |ACTIONS<br><br>Sword of Flame. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) fire damage.||||||
 
-FLY*
+## FLY*
 
 3rd-­level transmutation
 
@@ -536,13 +530,11 @@ Components: V, S, M (a wing feather from any bird)
 
 Duration: Concentration, up to 10 minutes
 
-@Compendium[symbaroum5eplayersguide.ros-pg-spells.v3TLUwrRIAtjVvOZ]{Fly}
-
 You touch a willing creature. The target gains a flying speed of 60 feet for the duration. When the spell ends, the target falls if it is still aloft, unless it can stop the fall.
 
 At Higher Levels. When you cast this spell at 4th level or higher, you can target one additional creature for each level above 3rd.
 
-GLYPH OF WARDING
+## GLYPH OF WARDING
 
 3rd-­level abjuration
 
@@ -553,8 +545,6 @@ Range: Touch
 Components: V, S, M (incense and powdered diamond worth at least 100 thaler, which the spell consumes)
 
 Duration: Until dispelled or triggered
-
-@Compendium[dnd5e.spells.pB7XVYwdGNcUG935]{Glyph of Warding}
 
 When you cast this spell, you inscribe a glyph that later unleashes a magical effect. You inscribe it either on a surface (such as a table or a section of floor or wall) or within an object that can be closed (such as a book, a scroll, or a treasure chest) to conceal the glyph. The glyph can cover an area no larger than 10 feet in diameter. If the surface or object is moved more than 10 feet from where you cast this spell, the glyph is broken, and the spell ends without being triggered.
 
@@ -571,7 +561,7 @@ When you inscribe the glyph, choose explosive runes or a spell glyph.
 
 At Higher Levels. When you cast this spell at 4th level or higher, the damage of an explosive runes glyph increases by 1d8 for each level above 3rd. If you create a spell glyph, you can store any spell of up to the same level as you use for the glyph of warding.
 
-JUDGING BONDS
+## JUDGING BONDS
 
 3rd-­level enchantment (ritual)
 
@@ -583,11 +573,9 @@ Components: V, S
 
 Duration: 1 month
 
-@Compendium[symbaroum5eplayersguide.ros-pg-spells.cuLV3grR5q0yTYZi]{Judging Bonds}
-
 You allow pacifying light to flow through the chains or shackles holding a person. This prevents that person from using mystical powers and provides disadvantage on Strength and Dexterity checks and saving throws while bound.
 
-LARVAE BOIL
+## LARVAE BOIL
 
 3rd-­level conjuration
 
@@ -599,15 +587,13 @@ Components: V, S, M (a live wasp)
 
 Duration: Concentration, up to 1 minute
 
-@Compendium[symbaroum5eplayersguide.ros-pg-spells.Z6pmOlroJ6cnkYNf]{Larvae Boil}
-
 Drawing from the force of wrath you can infuse an enemy’s body with larvae that then start to eat their way out. Although it is loudly refuted by members of the court, persistent rumors say that this is how the hero king Ynedar met his demise.
 
 On a successful melee spell attack, the victim is infected with larvae. At the end of its turn, it suffers 1d4 piercing damage. On the next round the damage increases to 1d6 piercing damage, on the third round the damage is 1d8, and on the fourth round it is 1d10 damage, and on the fifth and all following rounds it increases to 1d12 piercing damage.
 
 At Higher Levels. If cast at 4th level, the victim takes 1d6 piercing damage on the first round, which increases each subsequent round, to a total of 1d12 piercing damage per round. At 5th level, the damage starts off at 1d8 on the first round, then at 6th level it starts at 1d10 piercing damage, and at 7th level it starts at 1d12 piercing damage.
 
-LIGHTNING BOLT*
+## LIGHTNING BOLT*
 
 3rd-­level evocation
 
@@ -619,13 +605,11 @@ Components: V, S, M (a bit of fur and a rod of amber, crystal, or glass)
 
 Duration: Instantaneous
 
-@Compendium[symbaroum5eplayersguide.ros-pg-spells.8hKOmdNlW01cSUuX]{Lightning Bolt}
-
 A stroke of lightning forming a line 100 feet long and 5 feet wide blasts out from you in a direction you choose. Each creature in the line must make a Dexterity saving throw. A creature takes 8d6 lightning damage on a failed save, or half as much damage on a successful one. The lightning ignites flammable objects in the area that aren’t being worn or carried.
 
 At Higher Levels. When you cast this spell at 4th level or higher, the damage increases by 1d6 for each level above 3rd.
 
-MAGIC CIRCLE
+## MAGIC CIRCLE
 
 3rd-­level abjuration
 
@@ -636,8 +620,6 @@ Range: 10 feet
 Components: V, S, M (holy water or powdered silver and iron worth at least 50 thaler, which the spell consumes)
 
 Duration: 1 hour
-
-@Compendium[dnd5e.spells.y8A4HfTwd93ypdEz]{Magic Circle}
 
 You create a 10-foot-­radius, 20-foot-­tall cylinder of magical energy centered on a point on the ground that you can see within range. Glowing runes appear wherever the cylinder intersects with the floor or another surface. Choose one option: a) A mystic that knows the pattern to a permanent teleportation circle may communicate telepathically with the attendant of that circle (see The Chapter Circles of Ordo Magica below). Or b) Choose one or more of the following types of creatures: celestials, elementals, fey, fiends, or phenomenons. The circle affects a creature of the chosen type in the following ways:
 
@@ -655,7 +637,7 @@ Each chapter of Ordo Magica has a permanent teleportation circle and these are m
 
 Telepathy is the transmission of direct thought, with no opportunity for subtlety or dissembling, so wizards are generally reluctant to overuse telepathic communication, especially with mystics they do not know very well. Even with trusted colleagues, transmissions are kept as short as possible – on the crowded career ladder of Ordo Magica there is no room to give even a close friend any competitive advantage, if you can avoid it.
 
-MAJOR IMAGE
+## MAJOR IMAGE
 
 3rd-­level illusion
 
@@ -667,8 +649,6 @@ Components: V, S, M (a bit of fleece)
 
 Duration: Concentration, up to 10 minutes
 
-@Compendium[dnd5e.spells.nslx2nT3p4lNkmdp]{Major Image}
-
 You create the image of an object, a creature, or some other visible phenomenon that is no larger than a 20-foot cube. The image appears at a spot that you can see within range and lasts for the duration. It seems completely real, including sounds, smells, and temperature appropriate to the thing depicted. You can’t create sufficient heat or cold to cause damage, a sound loud enough to deal thunder damage or deafen a creature, or a smell that might sicken a creature (like a troglodyte’s stench).
 
 As long as you are within range of the illusion, you can use your action to cause the image to move to any other spot within range. As the image changes location, you can alter its appearance so that its movements appear natural for the image. For example, if you create an image of a creature and move it, you can alter the image so that it appears to be walking. Similarly, you can cause the illusion to make different sounds at different times, even making it carry on a conversation, for example.
@@ -677,7 +657,7 @@ Physical interaction with the image reveals it to be an illusion, because things
 
 At Higher Levels. When you cast this spell at 6th level or higher, the spell lasts until dispelled, without requiring your concentration.
 
-MASS HEALING WORD*
+## MASS HEALING WORD*
 
 3rd-­level evocation
 
@@ -689,13 +669,11 @@ Components: V
 
 Duration: Instantaneous
 
-@Compendium[symbaroum5eplayersguide.ros-pg-spells.c2hB2wF0rLvsF0MP]{Mass Healing Word}
-
 As you call out words of restoration, up to six creatures of your choice that you can see within range regain hit points equal to 1d4 + your spellcasting ability modifier. This spell has no effect on constructs.
 
 At Higher Levels. When you cast this spell at 4th level or higher, the healing increases by 1d4 for each level above 3rd.
 
-PURGING FIRE
+## PURGING FIRE
 
 3rd-­level evocation (ritual)
 
@@ -707,13 +685,11 @@ Components: V, S, M (holy incense, 50 thaler worth)
 
 Duration: Concentration, up to 1 minute
 
-@Compendium[symbaroum5eplayersguide.ros-pg-spells.lguKefLuxYeAfzEj]{Purging Fire}
-
 You prepare yourself with songs and prayers before climbing onto a burning pyre to cleanse your body of Corruption. Each round you remain in the fire you take 1d12 fire damage. If you do not lose concentration on the spell, you reduce your permanent Corruption by 1 point. You must take damage in order to reduce your Corruption. Thus you can remove up to 10 points of permanent Corruption if you remain in the pyre for the duration.
 
 You cannot cast this spell for anyone else, only you may benefit from it.
 
-SPIRIT GUARDIANS*
+## SPIRIT GUARDIANS*
 
 3rd-­level conjuration
 
@@ -725,15 +701,13 @@ Components: V, S, M (a holy symbol)
 
 Duration: Concentration, up to 10 minutes
 
-@Compendium[symbaroum5eplayersguide.ros-pg-spells.QMSDFoovgiuS9Fta]{Spirit Guardians}
-
 You call forth spirits to protect you. They flit around you to a distance of 15 feet for the duration. If you are blight-­stricken or uncorrupted, their spectral form appears angelic or fey (your choice). If you are blight-­marked, they appear fiendish.
 
 When you cast this spell, you can designate any number of creatures you can see to be unaffected by it. An affected creature’s speed is halved in the area, and when the creature enters the area for the first time on a turn or starts its turn there, it must make a Wisdom saving throw. On a failed save, the creature takes 3d8 radiant damage or 3d8 necrotic damage (if you are blight-­marked). On a successful save, the creature takes half as much damage.
 
 At Higher Levels. When you cast this spell at 4th level or higher, the damage increases by 1d8 for each level above 3rd.
 
-SUMMON DAEMON
+## SUMMON DAEMON
 
 3rd-­level conjuration (ritual)
 
@@ -744,8 +718,6 @@ Range: Self
 Components: V, S, M (candles, dagger and golden bowl)
 
 Duration: Special
-
-@Compendium[symbaroum5eplayersguide.ros-pg-spells.L5BsvIjJ0mTN5i4r]{Summon Daemon}
 
 You summon an abomination from the Yonderworld, a daemon. The creature resists your control and you must make a contested Charisma check to keep it under your control. If you fail and the daemon was not summoned into an inverted magic circle, the daemon is free to do as it likes (including attacking you or your allies) and is free to roam until it chooses to return to the Yonderworld (which it can do as an action) or it is destroyed. If it is trapped in an inverted magic circle it instead cannot move and returns to the Yonderworld at the end of the magic circle’s duration. You can talk to the daemon during this time, but it is under no compulsion to speak or to give you truthful answers.
 
@@ -769,7 +741,7 @@ When you cast this spell, you summon a Servant Daemon. If you choose to gain a p
 |---|---|
 |\|   \|   \|   \|   \|   \|   \|<br>\|---\|---\|---\|---\|---\|---\|<br>\|Knowledge Daemon\|<br>\|Medium fiend\|<br>\|Armor Class 10<br><br>Hit Points 71 (13d8 + 13)<br><br>Speed 30 ft, fly 60 ft\|<br>\|STR\|DEX\|CON\|INT\|WIS\|CHA\|<br>\|11 (+0)\|11 (+0)\|18 (+4)\|19 (+4)\|10 (+0)\|20 (+5)\|<br>\|Skills Arcana +10, Deception +11, History +10, Perception +10<br><br>Saving Throws Dex +3, Cha +8<br><br>Condition Immunities exhaustion, paralyzed, petrified, poisoned, unconscious<br><br>Damage Immunities fire, poison, psychic<br><br>Senses passive Perception 20<br><br>Languages understands and speaks the caster’s language<br><br>Challenge 6 (2,300 XP, proficiency bonus +3)<br><br>Manner fawning and wheezing<br><br>Shadow calm blackness, like a pool of liquid bitumen<br><br>Thoroughly corrupt<br><br>Equipment none\|<br>\|Expertise. The daemon has expertise in all its skills.<br><br>Wrest Knowledge. The summoner can use its action to make a contested Charisma check with the daemon to receive information. On a success the daemon provides a useful answer to an open-­ended question or a definitive answer to a yes-­or-­no question. On a failure, the daemon refuses to answer any more questions. If the summoner offers a blood sacrifice they have advantage on their Charisma check.\|<br>\|ACTIONS<br><br>Claws. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 2 (1d4) slashing damage.<br><br>Dominate. The daemon selects a creature within 30 feet. That creature must make a Charisma saving throw (DC 15) or become charmed by the daemon, following its instructions (the creature will not harm itself, however). At the end of its turn the creature can repeat the saving throw, ending the effect on itself. A daemon inside a magic circle cannot use this feature.<br><br>Life Consuming Kiss. Melee Weapon Attack: +3 to hit, reach 0 ft., one target. Hit: The creature must make a DC 10 Constitution saving throw or gain a level of exhaustion.\||\|   \|   \|   \|   \|   \|   \|<br>\|---\|---\|---\|---\|---\|---\|<br>\|Guardian Daemon\|<br>\|Large fiend\|<br>\|Armor Class 16 (natural armor)<br><br>Hit Points 84 (8d10 + 40)<br><br>Speed 30 ft, fly 60 ft\|<br>\|STR\|DEX\|CON\|INT\|WIS\|CHA\|<br>\|26 (+8)\|11 (+0)\|20 (+5)\|11 (+0)\|15 (+2)\|20 (+5)\|<br>\|Saving Throws Dex +3, Con +8, Wis +5<br><br>Condition Immunities exhaustion, paralyzed, petrified, poisoned, unconscious<br><br>Damage Immunities fire, poison, psychic<br><br>Senses passive Perception 12<br><br>Languages understands and speaks the caster’s language<br><br>Challenge 8 (3,900 XP, proficiency bonus +3)<br><br>Manner snorting and clawing the ground<br><br>Shadow night-­black as bubbling and boiling tar<br><br>Thoroughly corrupt<br><br>Equipment daemon-­glaive\|<br>\|Alertness. The daemon has advantage on initiative rolls as long as it is not surprised.\|<br>\|ACTIONS<br><br>Multiattack. The daemon makes an attack with its Claws and a Daemon-­glaive attack.<br><br>Claws. Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 14 (1d12 + 8) slashing damage. Daemon-­glaive. Melee Weapon Attack: +13 to hit, reach 10 ft., one target. Hit: 21 (2d10 + 10) magical slashing damage.\|<br>\|REACTIONS<br><br>Preemptive Attack. When a creature comes within reach, the daemon can make a Claws or Daemon-­glaive attack.\||
 
-VAMPIRIC TOUCH*
+## VAMPIRIC TOUCH*
 
 3rd-­level necromancy
 
@@ -789,7 +761,7 @@ At Higher Levels. When you cast this spell at 4th level or higher, the damage in
 
 # 4th Level Spells
 
-BANISHMENT*
+## BANISHMENT*
 
 4th-­level abjuration
 
@@ -811,7 +783,7 @@ If the target is native to a different plane of existence (such as a fiend) than
 
 At Higher Levels. When you cast this spell at 5th level or higher, you can target one additional creature for each level above 4th.
 
-BLIGHT*
+## BLIGHT*
 
 4th-­level necromancy
 
@@ -833,7 +805,7 @@ If you target a nonmagical plant that isn’t a creature, such as a tree or shru
 
 At Higher Levels. When you cast this spell at 5th level or higher, the damage increases by 1d8 for each level above 4th.
 
-CONFUSION*
+## CONFUSION*
 
 4th-­level enchantment
 
@@ -863,7 +835,7 @@ At Higher Levels. When you cast this spell at 5th level or higher, the radius of
 |7–8|The creature uses its action to make a melee attack against a randomly determined creature within its reach. If there is no creature within its reach, the creature does nothing this turn.|
 |9–10|The creature can act and move normally.|
 
-DOMINATE BEAST
+## DOMINATE BEAST
 
 4th-­level enchantment
 
@@ -887,7 +859,7 @@ Each time the target takes damage, it makes a new Wisdom saving throw against th
 
 At Higher Levels. When you cast this spell at 5th-­level, the duration is concentration, up to 10 minutes. When you cast at 6th-­level, the duration is concentration, up to 1 hour. When you cast at 7th level or higher, the duration is concentration, up to 8 hours.
 
-ICE STORM
+## ICE STORM
 
 4th-­level evocation
 
@@ -907,7 +879,7 @@ Hailstones turn the storm’s area of effect into difficult terrain until the en
 
 At Higher Levels. When you cast this spell at 5th level or higher, the bludgeoning damage increases by 1d8 for each level above 4th.
 
-ILLUSORY CORRECTION
+## ILLUSORY CORRECTION
 
 4th-­level illusion
 
@@ -925,7 +897,7 @@ There are gaps between reality and our perception of it. By casting this spell, 
 
 At the end of your turn if you have used your reaction since your previous turn, you must make a spellcasting ability check to keep track of the differences between your personal reality and that which others perceive. The DC starts at 5 and increases each time by 5. If you fail the check the spell immediately ends (you cannot use your reaction to reroll).
 
-LIFEGIVER
+## LIFEGIVER
 
 4th-­level evocation (ritual)
 
@@ -943,7 +915,7 @@ As you cast this spell, you touch a number of creatures equal to your proficienc
 
 At Higher Levels. If you cast this spell at 5th level or higher, you can heal one additional creature per spell level.
 
-PHANTASMAL KILLER*
+## PHANTASMAL KILLER*
 
 4th-­level illusion
 
@@ -961,7 +933,7 @@ You tap into the nightmares of a creature you can see within range and create an
 
 At Higher Levels. When you cast this spell at 5th level or higher, the damage increases by 1d10 for each level above 4th.
 
-PRIVATE SANCTUM
+## PRIVATE SANCTUM
 
 4th-­level abjuration
 
@@ -990,7 +962,7 @@ Casting this spell on the same spot every day for a year makes this effect perma
 
 At Higher Levels. When you cast this spell at 5th level or higher, you can increase the size of the cube by 100 feet for each level beyond 4th. Thus you could protect a cube that can be up to 200 feet on one side by casting this spell at 5th level.
 
-WALL OF FIRE
+## WALL OF FIRE
 
 4th-­level evocation
 
