@@ -37,7 +37,7 @@ a tome, or observation, or whether it is an innate ability granted by your ances
 
 • You learn one cantrip from the Wizard spell list. Choose between Intelligence, Wisdom, or Charisma as the spellcasting ability for this cantrip.
 
-• This cantrip improves for you at 5th, 11th, and 17th levels just as it would for a magic caster.
+• This cantrip improves for you at 3rd, 6th, and 9th levels just as it would for a magic caster.
 
 ## Dangerous over short distances
 
