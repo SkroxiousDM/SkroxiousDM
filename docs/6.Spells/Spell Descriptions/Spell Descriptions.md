@@ -15,7 +15,7 @@ Spells with an asterisk (*) cannot be favored.
 
 # 2nd Level Spells
 
-ACID ARROW
+## ACID ARROW
 
 2nd-­level evocation
 
@@ -31,7 +31,7 @@ A shimmering green arrow streaks toward a target within range and bursts in a sp
 
 At Higher Levels. When you cast this spell at 3rd level or higher, the damage (both initial and later) increases by 1d4 for each level above 2nd.
 
-AID
+## AID
 
 2nd-­level abjuration
 
@@ -47,7 +47,7 @@ Your spell bolsters your allies with toughness and resolve. Choose up to three c
 
 At Higher Levels. When you cast this spell at 3rd level or higher, a target’s hit points increase by an additional 5 for each level above 2nd.
 
-ANIMAL MESSENGER
+## ANIMAL MESSENGER
 
 2nd-­level enchantment (ritual)
 
@@ -65,7 +65,7 @@ When the messenger arrives, it delivers your message to the creature that you de
 
 At Higher Levels. If you cast this spell at 3rd level or higher, the duration of the spell increases by 48 hours for each level above 2nd.
 
-BLACK BREATH*
+## BLACK BREATH*
 
 2nd-­level evocation
 
@@ -81,7 +81,7 @@ With this spell the caster can heal those already tainted by darkness, though at
 
 At Higher Levels. If you cast this spell at 3rd level or higher, you add 1 to your result for each level above 2nd.
 
-BLINDNESS/DEAFNESS*
+## BLINDNESS/DEAFNESS*
 
 2nd-­level necromancy
 
@@ -97,7 +97,7 @@ You can blind or deafen a foe. Choose one creature that you can see within range
 
 At Higher Levels. When you cast this spell at 3rd level or higher, you can target one additional creature for each level above 2nd.
 
-BLOOD BOND*
+## BLOOD BOND*
 
 2nd-­level transmutation (ritual)
 
@@ -113,7 +113,7 @@ You magically link yourself to your familiar to an even greater degree, allowing
 
 If the familiar’s permanent Corruption becomes equal to or higher than its Threshold, it becomes a blight-­born spirit creature and abandons the caster, possibly attacking them as it escapes.
 
-# Cure Minor Injury
+## Cure Minor Injury
 
 2nd-level evocation
 
@@ -127,7 +127,7 @@ Duration: Instantaneous
 
 Over the course of 6 hours sleep during a Long Rest, this spell mends one temporary injury, or restores 1d4 lost attribute points, or removes one level of exhaustion.
 
-ENHANCE ABILITY
+## ENHANCE ABILITY
 
 2nd-­level transmutation
 
@@ -150,7 +150,7 @@ You touch a creature and bestow upon it a magical enhancement. Choose one of the
 
 At Higher Levels. When you cast this spell at 3rd level or higher, you can target one additional creature for each level above 2nd.
 
-EXCHANGE SHADOW
+## EXCHANGE SHADOW
 
 2nd-­level transmutation (ritual)
 
@@ -164,7 +164,7 @@ Duration: 24 hours
 
 You can exchange your Shadow with another creature. If the creature is unwilling, it is able to make a Wisdom saving throw to resist the effect. A successful save prevents the process and alerts the target. A failed saving throw indicates that the swap was successful and the target is unaware of the exchange. Your Shadow appears as the target’s Shadow and their Shadow appears as yours.
 
-FARAWAY WRITING
+## FARAWAY WRITING
 
 2nd-­level evocation (ritual)
 
@@ -178,7 +178,7 @@ Duration: Instantaneous
 
 When you cast this spell you inscribe a message of 25 words or less, which automatically appears in the other journal as well, as long as it is on the same plane of existence. You can make simple sketches or draw symbols or letters that you do not know the meaning of as part of your message, a simple diagram is equivalent to five to ten words in most cases. The keeper of the other journal must cast this spell themselves in order to respond.
 
-FLAMING SPHERE
+## FLAMING SPHERE
 
 2nd-­level evocation
 
@@ -198,7 +198,7 @@ When you move the sphere, you can direct it over barriers up to 5 feet tall and 
 
 At Higher Levels. When you cast this spell at 3rd level or higher, the damage increases by 1d6 for each level above 2nd.
 
-HEAT METAL
+## HEAT METAL
 
 2nd-­level transmutation
 
@@ -216,7 +216,7 @@ If a creature is holding or wearing the object and takes the damage from it, the
 
 At Higher Levels. When you cast this spell at 3rd level or higher, the damage increases by 1d8 for each level above 2nd.
 
-HOLD PERSON*
+## HOLD PERSON*
 
 2nd-­level enchantment
 
@@ -232,7 +232,7 @@ Choose a humanoid that you can see within range. The target must succeed on a Wi
 
 At Higher Levels. When you cast this spell at 3rd level or higher, you can target one additional humanoid for each level above 2nd. The humanoids must be within 30 feet of each other when you target them.
 
-INHERIT WOUND
+## INHERIT WOUND
 
 2nd-­level necromancy
 
@@ -246,7 +246,7 @@ Duration: 1 minute
 
 Choose a creature within range. If it is unwilling, it can make a Constitution saving throw to avoid the effect. When you take damage from a weapon attack or a spell effect you divide the damage done between you and the creature (in the case of an odd damage total, you take the extra point of damage). An unwilling creature can make another Constitution saving throw at the end of its turn to end the effect.
 
-INVISIBILITY
+## INVISIBILITY
 
 2nd-­level illusion
 
@@ -262,7 +262,7 @@ A single creature that you touch becomes invisible until the spell ends. Anythin
 
 At Higher Levels. When you cast this spell at 3rd level or higher, you can target one additional creature for each level above 2nd.
 
-MAGIC WEAPON
+## MAGIC WEAPON
 
 2nd-­level transmutation
 
@@ -278,7 +278,7 @@ You touch a nonmagical weapon. Until the spell ends, that weapon becomes a magic
 
 At Higher Levels. When you cast this spell at 4th level, the bonus increases to +2. When you cast it at 6th level or higher, the bonus increases to +3.
 
-PRAYER OF HEALING
+## PRAYER OF HEALING
 
 2nd-­level evocation
 
@@ -294,7 +294,7 @@ Up to six creatures of your choice that you can see within range each regain hit
 
 At Higher Levels. When you cast this spell at 3rd level or higher, the healing increases by 1d8 for each level above 2nd.
 
-SCORCHING RAY
+## SCORCHING RAY
 
 2nd-­level evocation
 
@@ -312,7 +312,7 @@ Make a ranged spell attack for each ray. On a hit, the target takes 2d6 fire dam
 
 At Higher Levels. When you cast this spell at 3rd level or higher, you create one additional ray for each level above 2nd.
 
-SHATTER
+## SHATTER
 
 2nd-­level evocation
 
@@ -330,7 +330,7 @@ A nonmagical object that isn’t being worn or carried also takes the damage if 
 
 At Higher Levels. When you cast this spell at 3rd level or higher, the damage increases by 1d8 for each level above 2nd.
 
-SPIRITUAL WEAPON
+## SPIRITUAL WEAPON
 
 2nd-­level evocation
 
@@ -348,7 +348,7 @@ As a bonus action on your turn, you can move the weapon up to 20 feet and repeat
 
 At Higher Levels. When you cast this spell at 4th level or higher, the damage increases by 1d8 for every two levels above 2nd.
 
-TALE OF ASHES
+## TALE OF ASHES
 
 2nd-­level divination (ritual)
 
