@@ -4,7 +4,7 @@ A changeling looks human during childhood and starts to develop more elf-­like 
 
 A changeling’s lot in life is usually a hard one, since few of them are allowed to stay with their families when their true nature has been revealed. Changelings are sometimes taken in by witches or wizards to serve as assistants, but most of them end up on the street where they have to fend for themselves as best they can. Exiled from human society, the changeling wanders a long and lonely road, often bitter and dark minded, in other cases frivolous and indifferent to the hardship of others.
 
-CHANGELING TRAITS
+<h1>CHANGELING TRAITS</h1>
 
 As changeling youngsters grow up, their elven nature is gradually revealed.
 
@@ -16,18 +16,18 @@ As changeling youngsters grow up, their elven nature is gradually revealed.
 - Shapeshifting. You are eligible to take the Change Self feat if your group allows feats. If so, you can take the feat instead of an ability score improvement.
 - Languages. Changelings usually speak the local human language, either Ambrian or Barbarian. Some near Davokar speak the language of elves as well.
 
-CHANGELING NAMES
+<h2>CHANGELING NAMES</h2>
 
 Some changelings choose elven names when they are thrown out into the street or left in the forest, maybe in an attempt to reclaim a lost identity. Others – like the infamous gutter mage Grimorio Abramelin in Yndaros – take a new and often bombastic name as a defiant gesture or an expression of independence.
 
 - Changeling male names: Aka, Ardri, Eneáno, Feon, Ganderald, Goriol, Ibliglin, Kalfu, Radomaramei, Sinue.
 - Changeling female names: Bekora, Danive, Yeloéna, Elorinda, Hinéua, Kinlegelana, Riamata, Roha, Seanua, Varaneia.
 
-Changeling Backgrounds
+<h1>Changeling Backgrounds</h1>
 
 The following backgrounds represent some of the most likely fates for changelings once they are discovered to be inhuman in nature.
 
-Broken Home
+<h2>Broken Home</h2>
 
 When you were revealed to be a changeling it tore your family apart. Everyone seems to blame you (even you sometimes blame yourself, although in your moments of clarity you realize that you never had a choice in the matter). Still, you move forward, taking what solace you can in a new, found family of your friends.
 
@@ -35,11 +35,11 @@ When you were revealed to be a changeling it tore your family apart. Everyone se
 - Tool Proficiencies (choose one): Any set of tools
 - Equipment: A kit to match your tool proficiency, clothes and 2d6 + 3 shillings.
 
-Feature: Open Senses
+<h3>Feature: Open Senses</h3>
 
 Ever since you finished your ‘maturation’, you have noticed that you see more, hear more and sense more than your old human family and friends. When you make a Wisdom (Insight or Perception) check you can focus your senses and give yourself advantage on the check. Once you do this, you must take a short or longer rest before using this feature again.
 
-Suggested Characteristics
+<h3>Suggested Characteristics</h3>
 
 Many folks have turned away from you. Your disappointment in them has given you a rock-­hard sense of independence and a desire to learn more about where you come from.
 
@@ -57,7 +57,7 @@ Many folks have turned away from you. Your disappointment in them has given you 
 |---\|---\|<br>\|1d6\|IDEAL\|<br>\|1\|Independence. I was left here to my own devices, and I will follow my own path through life.\|<br>\|2\|Truth. My childhood was a lie, but my life won’t be.\|<br>\|3\|Friendship. The world is horrible, close friends are all you can count on.\|<br>\|4\|Wealth. The wealthy rule the world, and I will be one of them.\|<br>\|5\|Passion. Our feelings are both the compass and the destination.\|<br>\|6\|Kindness. No ­one can make it without help from others.\||
 |\|   \|   \|<br>\|---\|---\|<br>\|1d6\|BOND\|<br>\|1\|Someone saved me from the mob. I am forever bound to this person.\|<br>\|2\|One of my ‘human family’ did not give up on me even when my true heritage was revealed.\|<br>\|3\|I seek the elf who swapped me for who I should have been. I will demand an explanation.\|<br>\|4\|I am a dedicated member of one of the world’s factions; I cannot imagine living without them.\|<br>\|5\|Somewhere out there is a human who’s childhood I lived. We must meet to become whole.\|<br>\|6\|I am sworn to help and protect changelings everywhere.\||\|   \|   \|<br>\|---\|---\|<br>\|1d6\|FLAW\|<br>\|1\|I don’t really trust anyone, and I assume they will leave me when I need them most.\|<br>\|2\|I’ve always felt different and special, now I know why.\|<br>\|3\|Humans are no longer worth my time.\|<br>\|4\|I despise elves and enjoy seeing them struggle.\|<br>\|5\|I abandoned my earlier “friends,” and they are now out to get me.\|<br>\|6\|I am envious of those who have more than me in life.\||
 
-Mage’s Assistant
+<h2>Mage’s Assistant</h2>
 
 You were very fortunate – most changelings are subject to ridicule and rejection as they grow up, but at the first signs of your inner nature a mystic visited your family and convinced them to allow you to apprentice with them. Fascinated by your magical nature, you are well treated by your tutor, or at least better than you would be in your home village.
 
@@ -65,11 +65,11 @@ You were very fortunate – most changelings are subject to ridicule and rejecti
 - Tool Proficiencies (choose one): Alchemist’s supplies, glassblower’s tools, disguise kit, herbalism kit
 - Equipment: A kit to match your tool proficiency, robes and 1d6 + 4 thaler.
 
-Feature: Student Of Magic
+<h3>Feature: Student Of Magic</h3>
 
 You have much practice in the ways of magic and the danger of Corruption. Your Corruption Threshold is 1 higher than it would be otherwise.
 
-Suggested Characteristics
+<h3>Suggested Characteristics</h3>
 
 Though most of your training time was spent inside, away from curious eyes, you are still awkward when meeting others or trying to convince them of your sincerity and dedication.
 
