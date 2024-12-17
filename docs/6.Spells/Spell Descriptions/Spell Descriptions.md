@@ -631,7 +631,7 @@ When you choose this option, you can elect to cause its magic to operate in the 
 
 At Higher Levels. When you cast this spell at 4th level or higher, the duration increases by 1 hour for each level above 3rd.
 
-The Chapter Circles of Ordo Magica
+##### The Chapter Circles of Ordo Magica
 
 Each chapter of Ordo Magica has a permanent teleportation circle and these are more or less always manned by a bored and/or studying novice, making it possible to always reach the chapter telepathically.
 
