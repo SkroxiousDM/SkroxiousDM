@@ -90,6 +90,8 @@ At 3rd Level you draw on your life force reserve to fuel your magic. You’ll pa
 
 You can expend one or more Recovery Die to increase your maximum spell level by 1 per die to a maximum of half your proficiency modifier [round up].
 
+For example at 3rd level you could spend 1 recovery die [1/2 your PB of +2] to cast a spell you know as a level 3 spell.  At 9th level you could spend 3 recovery dice to cast a spell you know at 8th level.
+
 ### SPELL MASTERY
 At 9th level, you have achieved such mastery over certain spells that you can cast them at will and gain no Corruption. Choose two 1st or 2nd level spells that you know. You can cast them at their base level without gaining any Corruption. If you cast them as a higher level, you gain Corruption as normal.
 
@@ -501,7 +503,7 @@ These features interact with nature itself.
 |5th |1/2        |No flying speed |Skullan  
 |8th|1        |-        |Giant Vulture  
 
-    You can stay in a beast shape for a number of hours equal to half your mystic level (rounded down). You can then expend another use of this feature to remain in the beast shape. You can revert to your normal form as a bonus action and you automatically revert if you fall unconscious, drop to 0 hit points, or die.  
+You can stay in a beast shape for a number of hours equal to half your mystic level (rounded down). You can then expend another use of this feature to remain in the beast shape. You can revert to your normal form as a bonus action and you automatically revert if you fall unconscious, drop to 0 hit points, or die.  
 	While you are transformed, the following rules apply:  
         - Your game statistics are replaced by the statistics of the beast, but you retain your personality, and Intelligence, Wisdom, and Charisma scores. You also retain all of your skill and saving throw proficiencies, in addition to gaining those of the creature. If the creature has the same proficiency as you and the bonus in its stat block is higher than yours, use the creature’s bonus instead of yours. If the creature has any legendary or lair actions, you can’t use them.
         - When you transform, you assume the beast’s hit points and Hit Dice. When you revert to your normal form, you return to the number of hit points you had before you transformed. However, if you revert as a result of dropping to 0 hit points, any excess damage carries over to your normal form. For example, if you take 10 damage in animal form and have only 1 hit point left, you revert and take 9 damage. As long as the excess damage doesn’t reduce your normal form to 0 hit points, you aren’t knocked unconscious.
@@ -528,11 +530,9 @@ These powers focus on your interactions with spirits.
 - You can seek to communicate with the local spirits and learn something useful from them. You must spend 10 minutes preparing the area and then you invite the spirits to join you. Roll the percentile dice, if the result is equal to or lower than twice your mystic level you have been successful. The spirits might be able to provide you with extensive and helpful knowledge or a magical effect that resembles a spell of level equal to or lower than your proficiency bonus. You must take a long or extended rest before you use this feature again.
 - Purification. Use your action to touch one melee weapon. For the next minute, that weapon does radiant damage and adds 1d4 plus your proficiency bonus to its damage total. You gain 1 point of temporary Corruption.
 ### Nature’s Bounty
-
 At 1st level you become proficient with Alchemist’s Supplies and the Field Laboratory, allowing you to create Alchemical Elixirs in the wild.
 
 ## Wizard
-
 You are schooled in the secrets of the old magic of the Order, knowledge born in the southern kingdom and refined by a millennium of research and education. To you, mystical powers are an extension of the fundamental laws of the world, laws that you have studied carefully and know how to use for effects both grand and impressive.
 
 The powers of wizardry come from disciplined studies into the fundamental laws of nature, and from insights regarding how those laws can be used and controlled by sheer will and reason. It is a strenuous education, even without the boring everyday tasks that the novices must perform for their masters. Only half of those who begin their studies with Ordo Magica see them through, but those who prevail are rewarded with a deep understanding of the mysteries of wizardry.
