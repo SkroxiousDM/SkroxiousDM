@@ -17,7 +17,7 @@
     <main>
          <p> Hey I'm SkroxiousDM, here in this collection of pages are a bunch of Homebrew rules I use in my 5e games.</p> 
         <p>This is also the repository for my latest campaign <a href="https://www.strahdreloaded.com">DragnaCarta's Curse of Strahd Re-Reloaded</a> </p>
-        MonD'n'Day Crew stay out of the link above.</p>
+        <p>MonD'n'Day Crew stay out of the link above.</p>
         <p>I'm using a modified version of <a href="https://preview.drivethrurpg.com/en/product/317720/ruins-of-symbaroum-5e-the-promised-land">Free League's "Ruins of Symbaroum" </a> for character classes, wherein I've compressed the original 20 levels into 10.</p>
     </main>
 </body>
