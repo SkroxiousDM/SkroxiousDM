@@ -1440,7 +1440,7 @@ When you change a weather condition, find the current condition on the following
 
 # 6th Level Spells
 
-ATONEMENT
+## ATONEMENT
 
 6th-­level transmutation ritual
 
@@ -1456,7 +1456,7 @@ You are able to lighten the spiritual burdens of a non-­possessed, willing pers
 
 If the target goes a month or more without making effort towards the task, the spell ends and the target gains one point of permanent Corruption for failing Prios.
 
-CREATE UNDEAD*
+## CREATE UNDEAD*
 
 6th-­level necromancy
 
@@ -1476,7 +1476,7 @@ As a bonus action on each of your turns, you can mentally command any creature y
 
 The creature is under your control for 24 hours, after which it stops obeying any command you have given it. To maintain control of the creature for another 24 hours, you must cast this spell on the creature before the current 24-hour period ends. This use of the spell reasserts your control over up to three creatures you have animated with this spell, rather than animating new ones.
 
-LIVING FORTRESS
+## LIVING FORTRESS
 
 6th-­level transmutation (ritual)
 
@@ -1496,7 +1496,7 @@ You can allow creatures of your choice to enter or exit the fortress and teach t
 
 The fortress lives a season (three months) and then the spell must be cast again or the magic will fade and it will start to wither away.
 
-PATRON SAINT*
+## PATRON SAINT*
 
 6th-­level conjuration
 
@@ -1525,7 +1525,7 @@ In combat, the spirit becomes a glowing figure with a flail made out of light an
 |Divine Weapons. The patron saint’s weapon attacks are magical. When it hits with any weapon, the weapon does an extra 3d8 radiant damage (included below).<br><br>Innate Spellcasting. The patron saint’s spellcasting ability is Charisma (spell save DC 17). It can innately cast the following spells, requiring no components:<br><br>    At will: [[detect evil and good]] 3/day each: cure wounds (at 3rd level)<br><br>Magic Resistance. The patron saint has advantage on saving throws against spells and other magical effects.||||||
 |ACTIONS<br><br>Multiattack. The patron saint makes two melee attacks.<br><br>Flail. Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) bludgeoning damage plus 13 (3d8) radiant damage. On a critical hit, the target is knocked prone as well.||||||
 
-SOUL STONE
+## SOUL STONE
 
 6th-­level necromancy (ritual)
 
@@ -1545,7 +1545,7 @@ Subsequent castings allow the mystic to move 1d4 points of permanent Corruption 
 
 You can only use a single soul stone at a time and cannot create a new one while an old one exists.
 
-SOUL CAGE
+## SOUL CAGE
 
 6th-­level necromancy (ritual)
 
@@ -1571,7 +1571,7 @@ Eyes of the Dead. You can use an action to name a place the humanoid saw in lif
 
 A creature that can see the sensor (such as one using [see invisibility](https://www.dndbeyond.com/spells/see-invisibility) or [truesight](https://www.dndbeyond.com/compendium/rules/basic-rules/monsters#Truesight)) sees a translucent image of the tormented humanoid whose soul you caged.
 
-SUNBEAM
+## SUNBEAM
 
 6th-­level Evocation (ritual)
 
