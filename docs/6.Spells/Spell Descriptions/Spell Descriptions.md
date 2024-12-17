@@ -1409,9 +1409,34 @@ When you cast the spell, you change one of the current weather conditions, which
 
 When you change a weather condition, find the current condition on the following tables and change its stage by one, up or down. When changing the winds, you can change its direction by one step (for example, from north to north-­east or from south-­west to south, etc.).
 
-|   |   |   |
-|---|---|---|
-|\|   \|   \|<br>\|---\|---\|<br>\|Stage\|Condition\|<br>\|1\|Clear\|<br>\|2\|Light clouds\|<br>\|3\|Overcast or ground fog\|<br>\|4\|Rain, hail, or snow\|<br>\|5\|Torrential rain, driving hail, or blizzard\|<br><br>Precipation|\|   \|   \|<br>\|---\|---\|<br>\|Stage\|Condition\|<br>\|1\|Unbearable heat\|<br>\|2\|Hot\|<br>\|3\|Warm\|<br>\|4\|Cool\|<br>\|5\|Cold\|<br>\|6\|Arctic cold\|<br><br>Temperature|\|   \|   \|<br>\|---\|---\|<br>\|Stage\|Condition\|<br>\|1\|Calm\|<br>\|2\|Moderate wind\|<br>\|3\|Strong wind\|<br>\|4\|Gale\|<br>\|5\|Storm\|<br><br>Wind|
+
+|   | Precipation |
+|---|---|
+|Stage|Condition|
+|1|Clear|
+|2|Light clouds|
+|3|Overcast or ground fog|
+|4|Rain, hail, or snow|
+|5|Torrential rain, driving hail, or blizzard|
+
+|   |  Temperature |
+|---|---|
+|Stage|Condition|
+|1|Unbearable heat|
+|2|Hot|
+|3|Warm|
+|4|Cool|
+|5|Cold|
+|6|Arctic cold|
+
+|   |  Wind |
+|---|---|
+|Stage|Condition|
+|1|Calm|
+|2|Moderate wind|
+|3|Strong wind|
+|4|Gale|
+|5|Storm|
 
 # 6th Level Spells
 
