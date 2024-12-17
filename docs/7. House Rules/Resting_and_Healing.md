@@ -235,4 +235,4 @@ If a character has no Recovery Dice left and receives some form of healing (e.g.
 
 - Higher-level or more powerful healing, such as heal, does not require expenditure or presence of Recovery Dice.
 - Certain kinds of healing don’t require the rolling of dice, such as the paladin’s Lay on Hands feature. These are used without recovery dice.
-- with magical healing after vigor is full. Each 15 points recovers 1 Wound level.
+- with magical healing after vigor is full. Each 10 points recovers 1 Wound level.
