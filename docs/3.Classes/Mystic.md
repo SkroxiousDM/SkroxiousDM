@@ -88,7 +88,7 @@ Instead of improving your ability scores you can instead choose to gain a feat. 
 ### Blood Magic
 At 3rd Level you draw on your life force reserve to fuel your magic. You’ll pay the price later, but for now you need all the power you can grasp.
 
-You can expend one or more Recovery Die to increase your maximum spell level by 1 per die to a maximum of half your proficiency modifier.
+You can expend one or more Recovery Die to increase your maximum spell level by 1 per die to a maximum of half your proficiency modifier [round up].
 
 ### SPELL MASTERY
 At 9th level, you have achieved such mastery over certain spells that you can cast them at will and gain no Corruption. Choose two 1st or 2nd level spells that you know. You can cast them at their base level without gaining any Corruption. If you cast them as a higher level, you gain Corruption as normal.
