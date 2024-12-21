@@ -26,12 +26,6 @@ The Warrior
 
 As a warrior, you have the following class features:
 
-#### Hit Points
-
-- Hit Dice: If you are not using your origin to determine Hit Dice, your Hit Die is a d8.
-- Hit Points at 1st Level: If you do not use your origin to determine hit points, you have 8 + your Constitution modifier.
-- Hit Points at Higher Levels: If you do not use your origin to determine hit points, you gain 1d8 (or 5) + your Constitution modifier per warrior level after 1st.
-
 #### Proficiencies
 
 - Armor: All armor, shields
