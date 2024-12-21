@@ -15,7 +15,7 @@ Though they do not realize it, all ogres share a common origin and have many mor
 - Darkvision. Accustomed to the gloom of Davokar, you have superior vision in dark and dim conditions. You can see in dim light as if it were normal light. In complete darkness, you rely on your other senses to give you blindsight within 10 feet. You never receive disadvantage on Wisdom (Perception) checks due to darkness.
 - Pariahs. Ogres are often poorly treated in society and have disadvantage on Charisma checks with other peoples. However, they tend to do well with goblins and make normal Charisma checks when interacting with them.
 - Calmness. Ogres are slow to speak, slow to take offense and are possessed by a deep mental placidity. You have advantage on Wisdom saving throws against enchantments and other mind-­altering magics.
-- Tough Skin. Ogres can withstand more hurt than most other creatures. When rolling for hit points, roll the Hit Die twice and use the higher result. If using the average result, use 6.
+- Tough Skin. Ogres can withstand more hurt than most other creatures. At first level you gain an additional hit point. When rolling for hit points, roll the Hit Die twice and use the higher result. If using the average result, use 6.
 - Languages. Ogres speak the language of whomever adopted them.
 
 OGRE NAMES
