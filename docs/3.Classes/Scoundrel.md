@@ -25,10 +25,6 @@ The Shadows of scoundrels are invariably darker than their fellows’, but the n
 
 As a scoundrel, you have the following class features:
 
-##### Hit Points
-- Hit Dice: If you are not using your origin to determine Hit Dice, your Hit Die is a d8.
-- Hit Points at 1st Level: If you do not use your origin to determine hit points, you have 8 + your Constitution modifier.
-- Hit Points at Higher Levels: If you do not use your origin to determine hit points, you gain 1d8 (or 5) + your Constitution modifier per scoundrel level after 1st.
 #### Proficiencies
 - Armor: Light armor
 - Weapons: Simple weapons, hand crossbows, longswords, rapiers, shortswords
