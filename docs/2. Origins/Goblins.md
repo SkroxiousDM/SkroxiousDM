@@ -12,7 +12,7 @@ All goblins encountered share a set of inborn tendencies and features.
 
 - **Ability Score Increase.** Your Dexterity score increases by 2. Increase any other ability score by 1.
 - **Age.** Goblins are adults at 10 and few remain in human lands past their 30th year.
-- **Size.** All goblins are under four feet in height and average around 50 pounds. Your size is Small
+- **Size.** All goblins are under four feet in height and average around 50 pounds. Your size is Small  and you have a d6 Hit Die. At first level you have 6 hit points plus your Constitution modifier. When you gain a level in any class, you gain an additional Hit Die and if using the average value, use 4 on even levels and 3 on odd (1d6) plus your Constitution modifier hit points.
 - **Speed.** Goblins scurry underfoot of the bigger peoples but their strides cannot match them distance for distance. You have a base speed of 20 feet.
 - **Darkvision.** Accustomed to the gloom of Davokar and underground mines, you have superior vision in dark and dim conditions. You can see in dim light as if it were normal light. In complete darkness, you rely on your other senses to give you blindsight within 10 feet. You never receive disadvantage on Wisdom (Perception) checks due to darkness.
 - **Pariahs.** Goblins are poorly treated in society and have disadvantage on Charisma checks with other peoples. However, the insular tendency of Goblin society provides advantage on Charisma checks when interacting with another goblin.
