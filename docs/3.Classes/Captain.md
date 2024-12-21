@@ -24,10 +24,6 @@ The Shadows of young captains can glow like their burnished armor shining in the
 |10th|+5|Ability Score Improvement or Feat, Unending Conflict|
 
 As a captain, you have the following class features:
-##### Hit Points
-- Hit Dice: If you are not using your origin to determine Hit Dice, your Hit Die is a d8.
-- Hit Points at 1st Level: If you do not use your origin to determine hit points, you have 8 + your Constitution modifier.
-- Hit Points at Higher Levels: If you do not use your origin to determine hit points, you gain 1d8 (or 5) + your Constitution modifier per captain level after 1st.
 ##### Proficiencies
 - Armor: All armor, shields
 - Weapons: Simple weapons, martial weapons
