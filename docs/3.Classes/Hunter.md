@@ -128,33 +128,6 @@ When you reach 7th level, your ranged weapon accuracy is such that you can disar
 ### Stunning Blows
 At 9th level, your attacks are designed to bring a foe down without killing them. Use your bonus action when making an attack roll; on a hit, instead of doing damage, the target must make a Constitution saving throw against the attack roll total. On a failure it becomes stunned. The creature can repeat the saving throw at the end of each of its turns, ending the effect on a success.
 
-## Ironsworn
-
-The work of the Iron Pact is never done, which places great demands on its agents, the Ironsworn. The pact was created by elves at the time of Symbaroum’s downfall, and after a long time in the shadows its members are on the move again, trying to stop the spreading darkness. Davokar must never awaken, and it won’t, if the Ironsworn can help it.
-
-Nowadays, the Iron Pact recruits new agents from all origins and cultures; anyone sympathetic to the struggle is tested in a series of both physical and moral challenges. Those who make it with both life and loyalty intact are invited to swear the Iron Oath. After that follows a time of training and further testing before initiates become true members of the Pact – agents devoted to the fight against Corruption.
-
-### Agile Combat
-Your armor class when you wear no armor is equal to 10 plus twice your Dexterity modifier.
-
-### Lore of the Wild
-You gain proficiency with the Animal Handling and Nature skills.
-
-### Loremaster
-You are proficient in the spoken and written forms of Symbaroum and know many things about those ancient people. The character is educated and well-versed in the ways of the world: its cultures, its history, languages and artifacts. For centuries heroes, monsters and kingdoms have come and gone, leaving behind powerful items and secret texts. This ability represents knowledge about such objects. Through extensive studies a character with this ability knows not only the story of an object but also its properties and applications.
-- At 2nd level, you can attempt an Intelligence (Investigation) check to determine the properties of a magic item. On a success, if it is a magic item, you learn its properties and how to use them, whether it requires attunement to use, and how many charges it has, if any. You learn whether any spells are affecting the item and what they are. If the item was created by a spell, you learn which spell created it. The DC is dependent on the kind of magic item: common (DC 10), uncommon (DC 13), rare (DC 16), very rare (DC 19), legendary (DC 22).
-Additionally, you are proficient in both human languages (Ambrian and Barbarian).
-- At 3rd level, your understanding of artifacts is extensive enough that you are not as affected by their corruptive power. You may reduce your cost of a single artifact’s permanent Corruption by 1, to a minimum of 1 Corruption.
-- At 5th level, you may cast spells of a level equal to or lower than half your proficiency bonus directly from scrolls and such parchments.
-You gain advantage on saving throws against magical effects.
-
-### Sniper
-At 5th level, your ranged weapon attacks have extraordinary precision. When a creature takes damage from such an attack, it must make a Constitution saving throw. On a failure, its speed becomes zero until the end of its next turn. The DC is equal to 8 + your Dexterity modifier + your proficiency bonus or the damage, whichever is higher.
-
-At 7th level, you score a critical hit with a ranged weapon on a natural result of 19 or 20.
-
-At 9th level, you double your ability modifier for damage with a ranged weapon.
-
 ## Monster Hunter
 
 #### Monster Hunting Societies
