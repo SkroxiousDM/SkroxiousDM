@@ -24,7 +24,7 @@ Despite their small stature goblins can endure a tremendous amount of pain.
 
 ## Tough and Stringy
 
-When rolling hit points for a new level, if you receive less than the average (4) you can reroll the Hit Die. You must use the new value. If using the average value, use 5 on even levels and 4 on odd.
+Your Hit Point maximum increases by an amount equal to twice your character level when you gain this feat. Whenever you gain a character level thereafter, your Hit Point maximum increases by an additional 2 Hit Points.
 
 # HUMANS
 
