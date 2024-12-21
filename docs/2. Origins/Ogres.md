@@ -10,11 +10,12 @@ Though they do not realize it, all ogres share a common origin and have many mor
 
 - Ability Score Increase. Your Constitution score increases by 2. Increase any other ability score by 1.
 - Age. Ogres have no sense of their ‘birth’ and it is up to other people to keep track of their age in whatever way they see fit. The general consensus is that ogres can live for several decades at least, and at least one ogre is known to have reached 100 years of service to the witches, plus however many years spent wandering in the wild before that.
-- Size. Ogres tend to be from 7 to 8 feet tall and weigh from 250 to 350 pounds. Your size is Medium
+- Size. Ogres tend to be from 7 to 8 feet tall and weigh from 250 to 350 pounds. Your size is Medium and you have a d8 Hit Die. At first level you have 9 hit points plus your Constitution modifier. When you gain a level in any class, you gain an additional Hit Die and 6 (1d8) plus your Constitution modifier hit points (see below).
 - Speed. Ogres have long limbs and an incautious attitude, your base speed is 40 feet.
 - Darkvision. Accustomed to the gloom of Davokar, you have superior vision in dark and dim conditions. You can see in dim light as if it were normal light. In complete darkness, you rely on your other senses to give you blindsight within 10 feet. You never receive disadvantage on Wisdom (Perception) checks due to darkness.
 - Pariahs. Ogres are often poorly treated in society and have disadvantage on Charisma checks with other peoples. However, they tend to do well with goblins and make normal Charisma checks when interacting with them.
 - Calmness. Ogres are slow to speak, slow to take offense and are possessed by a deep mental placidity. You have advantage on Wisdom saving throws against enchantments and other mind-­altering magics.
+- Tough Skin. Ogres can withstand more hurt than most other creatures. When rolling for hit points, roll the Hit Die twice and use the higher result. If using the average result, use 6.
 - Languages. Ogres speak the language of whomever adopted them.
 
 OGRE NAMES
