@@ -12,7 +12,7 @@ All of human origin start with the same basic features and then select a culture
 
 - Ability Score Increase. Your Strength score increases by 2. Increase Dexterity, Constitution or Charisma by 1.
 - Age. Humans reach adulthood in their late teens and live less than a century without magical assistance.
-- Size. Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is Medium and you have a d8 Hit Die. At first level you have 8 hit points plus your Constitution modifier. When you gain a level in any class, you gain an additional Hit Die and 5 (1d8) plus your Constitution modifier hit points.
+- Size. Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is Medium and you have a d8 Hit Die. At first level you have 8 hit points plus your Constitution modifier. When you gain a level in any class, you gain an additional Hit Die and if using the average value, use 5 on even levels and 4 on odd (1d8) plus your Constitution modifier hit points.
 - Speed. Your base walking speed is 30 feet.
 
 <h3>AMBRIAN</h3>
