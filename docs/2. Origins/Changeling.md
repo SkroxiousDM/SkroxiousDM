@@ -10,7 +10,7 @@ As changeling youngsters grow up, their elven nature is gradually revealed.
 
 - Ability Score Increase. Your Wisdom score increases by 2. Increase any other ability score by 1.
 - Age. By their 20th year changelings no longer resemble humans at all. Unless struck down by violence, they can live for centuries.
-- Size. Changelings seem to be of the same size as elves, usually at least five feet tall but rarely reaching six feet. Your size is Medium
+- Size. Changelings seem to be of the same size as elves, usually at least five feet tall but rarely reaching six feet. Your size is Medium and you have a d8 Hit Die. At first level you have 8 hit points plus your Constitution modifier. When you gain a level in any class, you gain an additional Hit Die and if using the average value, use 5 on even levels and 4 on odd (1d8) plus your Constitution modifier hit points.
 - Speed. Your base walking speed is 30 feet.
 - Darkvision. You inherit your true parents’ ability to see in dim light. You can see in dim light as if it were normal light. In complete darkness, you rely on your other senses to give you blindsight within 10 feet. You never receive disadvantage on Wisdom (Perception) checks due to darkness.
 - Shapeshifting. You are eligible to take the Change Self feat if your group allows feats. If so, you can take the feat instead of an ability score improvement.
