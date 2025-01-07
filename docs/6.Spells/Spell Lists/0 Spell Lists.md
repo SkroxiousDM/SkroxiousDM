@@ -15,3 +15,4 @@ Spells with an asterisk (`*`) *cannot be favored.*
 [Rune Singer](https://skroxiousdm.github.io/SkroxiousDM/6.Spells/Spell%20Lists/Rune%20Singer))<br/>
 [Witch](https://skroxiousdm.github.io/SkroxiousDM/6.Spells/Spell%20Lists/Witch)<br/>
 [Wizard](https://skroxiousdm.github.io/SkroxiousDM/6.Spells/Spell%20Lists/Wizard)<br/>
+[Spell descriptions](https://skroxiousdm.github.io/SkroxiousDM/6.Spells/Spell%20Descriptions/Spell%20Descriptions)
