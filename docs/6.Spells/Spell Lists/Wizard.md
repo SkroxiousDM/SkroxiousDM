@@ -21,7 +21,7 @@
 
 |   |   |
 |---|---|
-|{Blink}<br>{Clairvoyance * }<br>{Counterspell * }<br>{Dispel Magic*}<br>{Fear * }<br>{Fireball * }<br>{Flaming Servant&reg;}<br>{Fly * }<br>{Gaseous Form}<br>{Glyph of Warding}<br>{Haste}<br>{Hypnotic Pattern}<br>{Lightning Bolt * }|{Magic Circle}<br>{Major Image}<br>{Nondetection}<br>{Phantom Steed&reg;}<br>{Protection from Energy}<br>{Sending}<br>{Sleet Storm}<br>{Slow}<br>{Stinking Cloud}<br>{Tiny Hut&reg;}<br>{Tongues}<br>{Vampiric Touch * }<br>{Water Breathing&reg;}|
+|{Blink}<br>{Clairvoyance * }<br>{Counterspell * }<br>{Dispel Magic*}<br>{Fear * }<br>{Fireball * }<br>{[Flaming Servant](https://skroxiousdm.github.io/SkroxiousDM/6.Spells/Spell%20Descriptions/Spell%20Descriptions#flaming-servant)&reg;}<br>{Fly * }<br>{Gaseous Form}<br>{Glyph of Warding}<br>{Haste}<br>{Hypnotic Pattern}<br>{Lightning Bolt * }|{[Magic Circle](https://skroxiousdm.github.io/SkroxiousDM/6.Spells/Spell%20Descriptions/Spell%20Descriptions#magic-circle)}<br>{[Major Image](https://skroxiousdm.github.io/SkroxiousDM/6.Spells/Spell%20Descriptions/Spell%20Descriptions#major-image)}<br>{Nondetection}<br>{Phantom Steed&reg;}<br>{Protection from Energy}<br>{Sending}<br>{Sleet Storm}<br>{Slow}<br>{Stinking Cloud}<br>{Tiny Hut&reg;}<br>{Tongues}<br>{[Vampiric Touch](https://skroxiousdm.github.io/SkroxiousDM/6.Spells/Spell%20Descriptions/Spell%20Descriptions#vampiric-touch) * }<br>{Water Breathing&reg;}|
 
 # 4TH LEVEL
 
