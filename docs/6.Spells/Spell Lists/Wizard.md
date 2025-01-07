@@ -15,7 +15,7 @@
 
 |   |   |
 |---|---|
-|{Acid Arrow}<br>{Alter Self * }<br>{Arcane Lock}<br>{Arcanist's Magic Aura}<br>{Blindness/Deafness * }<br>{Blur}<br>{Continual Flame}<br>{Darkness}<br>{Darkvision}<br>{Detect Thoughts * }<br>{Enlarge/Reduce}<br>{Faraway Writing&reg;}<br>{Flaming Sphere}<br>{Gust of Wind}<br>{Hold Person*}<br>{Invisibility}|{Knock}<br>{Levitate * }<br>{Locate Object&reg;}<br>{Magic Mouth&reg;}<br>{Magic Weapon}<br>{Mirror Image}<br>{Misty Step*}<br>{Ray of Enfeeblement * }<br>{Rope Trick}<br>{Scorching Ray}<br>{See Invisibility}<br>{Shatter}<br>{Spider Climb}<br>{Suggestion * }<br>{Tale of Ashes&reg;}<br>{Web}|
+|{Acid Arrow}<br>{Alter Self * }<br>{Arcane Lock}<br>{Arcanist's Magic Aura}<br>{Blindness/Deafness * }<br>{Blur}<br>{Continual Flame}<br>{Darkness}<br>{Darkvision}<br>{Detect Thoughts * }<br>{Enlarge/Reduce}<br>{[Faraway Writing](https://skroxiousdm.github.io/SkroxiousDM/6.Spells/Spell%20Descriptions/Spell%20Descriptions#faraway-writing)&reg;}<br>{Flaming Sphere}<br>{Gust of Wind}<br>{Hold Person*}<br>{Invisibility}|{Knock}<br>{Levitate * }<br>{Locate Object&reg;}<br>{Magic Mouth&reg;}<br>{Magic Weapon}<br>{Mirror Image}<br>{Misty Step*}<br>{Ray of Enfeeblement * }<br>{Rope Trick}<br>{Scorching Ray}<br>{See Invisibility}<br>{Shatter}<br>{Spider Climb}<br>{Suggestion * }<br>{[Tale of Ashes](https://skroxiousdm.github.io/SkroxiousDM/6.Spells/Spell%20Descriptions/2nd_Level_Spells/Tale%20of%20Ashes)&reg;}<br>{Web}|
 
 # 3RD LEVEL
 
