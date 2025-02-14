@@ -295,7 +295,7 @@ Lately, a schism is said to have grown between the commander of the Templars and
 
 ### Armored Mystic
 
-Despite your extensive training in weapons and warfare, you have also been introduced to the ways of the mystic (see @Compendium[symbaroum5eplayersguide.ros-pg-player-guide-journal.vHBT7acUfvgO1bmA]{01.4d - Mystic}). Like other Theurgs, your spellcasting ability modifier is Wisdom. You learn spells from the Theurg tradition list.
+Despite your extensive training in weapons and warfare, you have also been introduced to the ways of the mystic (see [Mystic](https://skroxiousdm.github.io/SkroxiousDM/3.Classes/Mystic)). Like other Theurgs, your spellcasting ability modifier is Wisdom. You learn spells from the [Theurg tradition list](https://skroxiousdm.github.io/SkroxiousDM/6.Spells/Spell%20Lists/Theurg).
 
 If your Wisdom modifier is higher than your Charisma modifier, you can use it instead of Charisma to calculate your Corruption Threshold.
 
@@ -303,7 +303,7 @@ Spell save DC = 8 + your proficiency bonus + your Wisdom modifier
 
 Spell attack modifier = your proficiency bonus + your Wisdom modifier
 
-You know two cantrips and one 1st level spell from the Theurg list, in addition to the [[bless]] spell. You do not have any favored spells. You learn spells according to the chart below, and can cast any spell you know at any time
+You know two cantrips and one 1st level spell from the Theurg list, in addition to the [[bless](https://www.5esrd.com/database/spell/bless/)] spell. You do not have any favored spells. You learn spells according to the chart below, and can cast any spell you know at any time
 
 |   |   |   |   |   |   |
 |---|---|---|---|---|---|
@@ -336,7 +336,7 @@ By 3rd level, you have learned more of the secret arts taught by the Church of P
 
 You can use the power of the Lawgiver to rebuke the un­dying. As an action, you present your holy symbol and speak a prayer censuring the undead. Each undead within 30 feet that can see and/or hear you must make a Wisdom saving throw against your spell save DC. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage. A turned creature must spend its turns trying to move as far away from you as it can, and it can’t willingly move to a space within 30 feet of you. It also can’t take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there’s nowhere to move, the creature can use the Dodge action. You can do this a number of times equal to your proficiency bonus before needing to take a long or extended rest to use the feature again.
 
-####Medicus
+#### Medicus
 
 You can invest some of your faith into healing energies that do not incur any chance of Corruption to you. If you spend an action binding a wound, you restore one Hit Die to the treated creature. You can do this a number of times equal to twice your proficiency bonus and then must take an extended rest to recharge.
 
