@@ -10,4 +10,4 @@ Use these six scores for your abilities as you wish.
 
 No stat before racials can be below a 7 or above an 18. Simply raise and lower them to the limits. (A roll of 18/5 on the first bank of 23 would be 16/7)
 
-[Character Creation Steps](https://skroxiousdm.github.io/SkroxiousDM/1.%20Start%20Here/Character%20Creation%20Steps.md)
+[Character Creation Steps](https://skroxiousdm.github.io/SkroxiousDM/1.%20Start%20Here/Character%20Creation%20Steps)
