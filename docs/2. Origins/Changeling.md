@@ -121,10 +121,10 @@ Though most of your training time was spent inside, away from curious eyes, you 
 |---|---|
 |1|The mystic who brought me here saved my life.|
 |2|I feel a calling towards the forest, despite my fears.|
-|3\|I carry something from my childhood, to remind me of simpler days.|
-|4\|I feel a connection with magic itself, more important than any person.|
-|5\|I have a tome of study that I always keep within me – it changed my whole worldview.|
-|6\|I remember my ‘sibling’ weeping when my nature was discovered. I keep that memory forever.|
+|3|I carry something from my childhood, to remind me of simpler days.|
+|4|I feel a connection with magic itself, more important than any person.|
+|5|I have a tome of study that I always keep within me – it changed my whole worldview.|
+|6|I remember my ‘sibling’ weeping when my nature was discovered. I keep that memory forever.|
 
 |1d6|FLAW|
 |---|---|
