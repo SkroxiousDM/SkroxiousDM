@@ -63,4 +63,4 @@ The Self Belief is the most complex of the three, and is often the most difficul
 
 > Elaria’s Self Belief: ***I have always resented being a bastard. I can lead the House better than my half brother, and I will use subterfuge to ensure that I sit upon my father’s throne.***
 >
-> [Character Creation Steps](https://skroxiousdm.github.io/SkroxiousDM/1.%20Start%20Here/Character%20Creation%20Steps.md)
+> [Character Creation Steps](https://skroxiousdm.github.io/SkroxiousDM/1.%20Start%20Here/Character%20Creation%20Steps)
