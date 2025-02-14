@@ -53,4 +53,4 @@ Are your legs made of springs? Perhaps. Most likely, you’re simply a highly ev
 • Your long jump and high jump distances are doubled.
 
 
-[Character Creation Steps](https://skroxiousdm.github.io/SkroxiousDM/1.%20Start%20Here/Character%20Creation%20Steps.md)
+[Character Creation Steps](https://skroxiousdm.github.io/SkroxiousDM/1.%20Start%20Here/Character%20Creation%20Steps)
