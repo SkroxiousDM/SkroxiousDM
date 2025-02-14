@@ -36,4 +36,4 @@ Stubbornness | I must learn to overcome my pride and make amends to those I have
 Timidity | I must learn to stand up for myself, rather than letting others control me.
 
 
-[Character Creation Steps](https://skroxiousdm.github.io/SkroxiousDM/1.%20Start%20Here/Character%20Creation%20Steps.md)
+[Character Creation Steps](https://skroxiousdm.github.io/SkroxiousDM/1.%20Start%20Here/Character%20Creation%20Steps)
