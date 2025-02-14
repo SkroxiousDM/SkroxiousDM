@@ -5,6 +5,7 @@
 [Ogres](https://skroxiousdm.github.io/SkroxiousDM/2.%20Origins/Ogres)<br>
 
 ### Average Hit points at each level
+
 |Level	|Goblin	|Default	|Ogre|
 |---|---|---|---|
 |1	|6	|8	|9  |
