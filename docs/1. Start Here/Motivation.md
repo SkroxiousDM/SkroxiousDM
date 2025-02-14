@@ -55,3 +55,5 @@ The player who possesses the *stone crest* should have strong, vivid reasons to 
 ##### Justice—The Broken Blade
 A player seeking **justice** begins the campaign with the *broken blade*, the shattered tip of an elven longsword. The blade is engraved with the sigil of a lion rampant, which seems to roar when the light of dusk touches it.
 The player who possesses the *broken blade* should have strong, vivid reasons to believe that their ancestors were refugees, driven forth from their ancestral lands and persecuted, and that the blade will one day deliver justice to the traitor who destroyed them.
+
+[Character Creation Steps](https://skroxiousdm.github.io/SkroxiousDM/1.%20Start%20Here/Character%20Creation%20Steps.md)
