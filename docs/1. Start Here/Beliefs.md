@@ -62,3 +62,5 @@ The Self Belief is the most complex of the three, and is often the most difficul
 > Malik’s Self Belief: ***I am of Eskarn blood, the Inoruit are my kinsmen, and the Tarnish have caused much wrong to my people. I will uphold my bonds of blood and clan before those of gold or fealty.***
 
 > Elaria’s Self Belief: ***I have always resented being a bastard. I can lead the House better than my half brother, and I will use subterfuge to ensure that I sit upon my father’s throne.***
+>
+> [Character Creation Steps](https://skroxiousdm.github.io/SkroxiousDM/1.%20Start%20Here/Character%20Creation%20Steps.md)
