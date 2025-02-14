@@ -1,5 +1,5 @@
 # CHARACTER CREATION FEATS
-You may choose any [[General Feats](https://skroxiousdm.github.io/SkroxiousDM/docs/4.Feats/General%20Feats.md)], [[Origin Feats](https://skroxiousdm.github.io/SkroxiousDM/docs/4.Feats/Origin%20Feats.md)] or [[Class Feats](https://skroxiousdm.github.io/SkroxiousDM/docs/4.Feats/Class%20Feats.md)] you qualify for instead of a Character Creation Feat.
+You may choose any [[General Feats](https://skroxiousdm.github.io/SkroxiousDM/docs/4.Feats/General%20Feats)], [[Origin Feats](https://skroxiousdm.github.io/SkroxiousDM/docs/4.Feats/Origin%20Feats)] or [[Class Feats](https://skroxiousdm.github.io/SkroxiousDM/docs/4.Feats/Class%20Feats)] you qualify for instead of a Character Creation Feat.
 
 ## Climbing Adept  
 Your character has been blessed with the supernatural ability to climb almost any surface. Perhaps you were raised by creatures dwelling among the trees, or on the faces of perilous cliffs and have learned special techniques and tools that allow you to scale most any obstacle. Or, perhaps this ability is the result of a blessing from some divine or eldritch being, or the result of magical contamination seeping into your body.<br>  
