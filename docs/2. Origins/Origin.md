@@ -19,4 +19,4 @@
 |9	|34	|44	|57 |
 |10	|38	|49	|63 |
 
-[Character Creation Steps](https://skroxiousdm.github.io/SkroxiousDM/1.%20Start%20Here/Character%20Creation%20Steps.md)
+[Character Creation Steps](https://skroxiousdm.github.io/SkroxiousDM/1.%20Start%20Here/Character%20Creation%20Steps)
