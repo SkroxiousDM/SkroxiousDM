@@ -31,4 +31,4 @@ Responsibility | I watched someone allow their family to come to ruin. I'll neve
 Romance | Love never dies. It might flicker, but I'll never let it burn out.
 Secrecy | I once promised someone I'd keep their secrets safe. I intend to do so—no matter the cost.
 
-[Character Creation Steps](https://skroxiousdm.github.io/SkroxiousDM/1.%20Start%20Here/Character%20Creation%20Steps.md)
+[Character Creation Steps](https://skroxiousdm.github.io/SkroxiousDM/1.%20Start%20Here/Character%20Creation%20Steps)
