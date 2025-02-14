@@ -264,3 +264,6 @@ Despite being abstract, the beast is probably the most commonly represented fear
   Alien cultures and practices
   Unfamiliar devices
   Uncontained power
+
+
+[Character Creation Steps](https://skroxiousdm.github.io/SkroxiousDM/1.%20Start%20Here/Character%20Creation%20Steps)
