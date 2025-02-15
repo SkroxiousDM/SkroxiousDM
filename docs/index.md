@@ -12,6 +12,7 @@
         <li><a href="https://skroxiousdm.github.io/SkroxiousDM/6.Spells/Spell%20Lists/0%20Spell%20Lists">Spell Lists </a></li>
         <li><a href="https://skroxiousdm.github.io/SkroxiousDM/4.Feats/General%20Feats">General Feats </a></li>
         <li><a href="https://skroxiousdm.github.io/SkroxiousDM/4.Feats/Class%20Feats">Class Feats </a></li>
+     <li><a href="https://skroxiousdm.github.io/SkroxiousDM/5.Ewuipment/Equipment">Equipment </a></li>
     </ul>
     </aside>
     <main>
