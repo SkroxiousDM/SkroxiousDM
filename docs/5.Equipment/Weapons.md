@@ -288,6 +288,9 @@ If you miss with this weapon it returns to your hand.
 ### Siege. 
 This weapon does double damage to structures.
 
+### Special. 
+A weapon with the special property has unusual rules governing its use, explained in the weapon’s description (see “Special Weapons” later in this section).
+
 ### Thrown. 
 If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. For example, if you throw a handaxe, you use your Strength, but if you throw a dagger, you can use either your Strength or your Dexterity, since the dagger has the finesse property.
 
@@ -338,3 +341,11 @@ An object that bears no resemblance to a weapon deals 1d4 damage (the DM assigns
 ### SILVERED WEAPONS
 
 Some monsters that have immunity or resistance to nonmagical weapons are susceptible to silver weapons, so cautious adventurers invest extra coin to plate their weapons with silver. You can silver a single weapon or ten pieces of ammunition for 50 thaler. This cost represents not only the price of the silver, but the time and expertise needed to add silver to the weapon without making it less effective.
+
+## SPECIAL WEAPONS
+
+Weapons with special rules are described here.
+
+Net. A Large or smaller creature hit by a net is restrained until it is freed. A net has no effect on creatures that are formless, or creatures that are Huge or larger. A creature can use its action to make a DC 10 Strength check, freeing itself or another creature within its reach on a success. Dealing 5 slashing damage to the net (AC 10) also frees the creature without harming it, ending the effect and destroying the net.
+
+When you use an action, bonus action, or reaction to attack with a net, you can make only one attack regardless of the number of attacks you can normally make.
