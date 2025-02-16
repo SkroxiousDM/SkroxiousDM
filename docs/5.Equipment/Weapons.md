@@ -58,9 +58,9 @@ After each table notes are given on any unusual weapons.
 |Barda Faldir (Flail)|10 thaler|1d8 bludgeoning|2 lb.|Ensnaring, Grappling|
 |Barda Hammri (Battle Hammer)|25 thaler|1d8 bludgeoning|2 lb.|Versatile (1d10)|
 |Barda swerd (Arming Sword)|15 thale|1d8 slashing|2 lb.|Half-swording|
-|Bastur kedja (Troll Chain)|20 thaler|1d10 bludgeoning|10 lb.|[Ensnaring](https://github.com/SkroxiousDM/SkroxiousDM/blob/main/docs/5.Equipment/Weapons#ensnaring), Grappling, Massive, Reach, Two-handed|
+|Bastur kedja (Troll Chain)|20 thaler|1d10 bludgeoning|10 lb.|[Ensnaring](https://skroxiousdm.github.io/SkroxiousDM/5.Equipment/Weapons#ensnaring), Grappling, Massive, Reach, Two-handed|
 |Breid Spjót (Broad-bladed Spear)|20 thaler|1d10 slashing|6 lb.|Grappling, Heavy, Reach, Two-­handed|
-|Chain Staff|20 thaler|1d8 bludgeoning|3 lb.|[Ensnaring](https://github.com/SkroxiousDM/SkroxiousDM/blob/main/docs/5.Equipment/Weapons#ensnaring), Grappling, Reach, Two-­handed|
+|Chain Staff|20 thaler|1d8 bludgeoning|3 lb.|[Ensnaring](https://skroxiousdm.github.io/SkroxiousDM/5.Equipment/Weapons#ensnaring), Grappling, Reach, Two-­handed|
 |Estoc|30 thaler|1d8 piercing|3 lb.|Deep impact, Finesse|
 |Fencing Sword|25 thaler|1d8 piercing|2 lb.|Finesse|
 |Glaaf  (Shortsword)|10 thaler|1d6 piercing|2 lb.|Finesse, light|
@@ -74,10 +74,10 @@ After each table notes are given on any unusual weapons.
 |Stiletto|5 thaler|1d4 piercing|1 lb.|Deep impact, finesse|
 |Tvei Axi (Double-­axe)|30 thaler|1d12 slashing|7 lb.|Grappling, Massive, two-­handed|
 |Tvei hammri (Maul)|10 thaler|2d6 bludgeoning|10 lb.|Heavy, two-­handed|
-|Tvei faldir (Great Flail)|20 thaler|1d12 bludgeoning|8 lb.|[Ensnaring](https://github.com/SkroxiousDM/SkroxiousDM/blob/main/docs/5.Equipment/Weapons#ensnaring), Grappling, heavy, two-­handed|
+|Tvei faldir (Great Flail)|20 thaler|1d12 bludgeoning|8 lb.|[Ensnaring](https://skroxiousdm.github.io/SkroxiousDM/5.Equipment/Weapons#ensnaring), Grappling, heavy, two-­handed|
 |Tvei swerd (Greatsword)|60 thaler|1d12 slashing|6 lb.|Massive, Half-swording, Reach, Two-handed|
 |Villtur axi (Bearded Axe)|30 thaler|1d8 slashing|4 lb.|Grappling, Versatile (1d10)|
-|Whip|2 thaler|1d4 slashing|3 lb.|[Ensnaring](https://github.com/SkroxiousDM/SkroxiousDM/blob/main/docs/5.Equipment/Weapons#ensnaring), finesse, Grappling, long reach|
+|Whip|2 thaler|1d4 slashing|3 lb.|[Ensnaring](https://skroxiousdm.github.io/SkroxiousDM/5.Equipment/Weapons#ensnaring), finesse, Grappling, long reach|
 
 **Assassin’s Blade.** The slender grip and the feather-­thin steel of the blade makes this weapon easy to conceal without sacrificing its bite. It is easily strapped to the wrist or ankle, or even attached behind the neck with a lump of resin. Special girdles or hidden pockets in clothes work just as well. The weapon can be smuggled past guards, to be used on secret missions or to be handed over to a prisoner.
 
@@ -136,7 +136,7 @@ After each table notes are given on any unusual weapons.
 |Tunkur Krossbogur (Crossbow, heavy)|25 thaler|1d10 piercing|18 lb.|Ammunition (range 100/400), heavy, loading, two-­handed|
 |Crossbow, repeating|100 thaler|1d8 piercing|20 lb.|Ammunition (range 80/320), two-­handed|
 |Lang Bogi (Longbow)|20 thaler|1d8 piercing|2 lb.|Ammunition (range 150/600), heavy, two-­handed|
-|Net|1 thaler|—|3 lb.|[Ensnaring](https://github.com/SkroxiousDM/SkroxiousDM/blob/main/docs/5.Equipment/Weapons#ensnaring), special, thrown (range 5/15)|
+|Net|1 thaler|—|3 lb.|[Ensnaring](https://skroxiousdm.github.io/SkroxiousDM/5.Equipment/Weapons#ensnaring), special, thrown (range 5/15)|
 |Throwing Wing|10 thaler|1d6 bludgeoning|1 lb.|Returning, thrown (range 30/90)|
 
 Arbalest. This is a heavy Ambrian crossbow with a bow of feather-­light steel, which gives its bolts a bit of extra punch.
