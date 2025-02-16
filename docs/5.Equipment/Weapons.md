@@ -78,11 +78,6 @@ After each table notes are given on any unusual weapons.
 |Tvei swerd (Greatsword)|60 thaler|1d12 slashing|6 lb.|Massive, Half-swording, Reach, Two-handed|
 |Villtur axi (Bearded Axe)|30 thaler|1d8 slashing|4 lb.|Grappling, Versatile (1d10)|
 |Whip|2 thaler|1d4 slashing|3 lb.|Ensnaring, finesse, Grappling, long reach|
-|Breid swerd| 20 sc |1d10 slashing| 4 lb |-|
-|Drop Axi| 20 sc |1d10 slashing| 6 lb |Heavy, two-handed|
-|Stjorn makir |15 sc |1d8 piercing |4 lb |-|
-|Tvei hakk |15 sc |2d6 piercing |6 lb |Heavy, two-handed|
-|Tvei klubb |2 sc |1d10 bludgeoning |6 lb |Heavy, two-handed|
 
 **Assassin’s Blade.** The slender grip and the feather-­thin steel of the blade makes this weapon easy to conceal without sacrificing its bite. It is easily strapped to the wrist or ankle, or even attached behind the neck with a lump of resin. Special girdles or hidden pockets in clothes work just as well. The weapon can be smuggled past guards, to be used on secret missions or to be handed over to a prisoner.
 
@@ -221,65 +216,88 @@ Missile Battery. The missile battery is a siege weapon unsuitable for use by any
 
 Trebuchet. The queen of siege weapons is the mighty trebuchet, a ballistic device with power enough to raze the sturdiest walls, at least after a number of shots. The trebuchet can only be handled by someone proficient with siege weapons.
 
-WEAPON PROPERTIES
+## WEAPON PROPERTIES
 
 Many weapons have special properties related to their use, as shown in the Weapon tables.
 
-Ammunition. You can use a weapon that has the ammunition property to make a ranged attack only if you also have an appropriate type of ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-­handed weapon). At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.
+### Ammunition. 
+You can use a weapon that has the ammunition property to make a ranged attack only if you also have an appropriate type of ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-­handed weapon). At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.
 
 If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon (see “Improvised Weapons” later in the section). A sling must be loaded to deal any damage when used in this way.
 
-Area Effect. This weapon’s ammunition explodes. Instead of making an attack roll, the user designates an area and each creature in the area makes a Dexterity saving throw with the DC equal to 8 + the user’s proficiency bonus plus their attack modifier. A failed save means the target takes full damage and a successful save means that they take no damage.
+### Area Effect. 
+This weapon’s ammunition explodes. Instead of making an attack roll, the user designates an area and each creature in the area makes a Dexterity saving throw with the DC equal to 8 + the user’s proficiency bonus plus their attack modifier. A failed save means the target takes full damage and a successful save means that they take no damage.
 
-Balanced. The weapon is so well balanced that it is extra effective when parrying. If you wield this weapon in one hand with a weapon in the other hand increase your AC by 1.
+### Balanced. 
+The weapon is so well balanced that it is extra effective when parrying. If you wield this weapon in one hand with a weapon in the other hand increase your AC by 1.
 
-Crewed. These weapons requires several individuals to operate them successfully. The minimum crew is given in parentheses and at least one member must be proficient with siege weapons.
+### Crewed. 
+These weapons requires several individuals to operate them successfully. The minimum crew is given in parentheses and at least one member must be proficient with siege weapons.
 
-Concealed. This blade can be hidden on a creature’s body, underneath clothes or armor. Make a Dexterity (Sleight of Hand) check when you hide it, and compare against passive Perception or an active search as needed.
+### Concealed. 
+This blade can be hidden on a creature’s body, underneath clothes or armor. Make a Dexterity (Sleight of Hand) check when you hide it, and compare against passive Perception or an active search as needed.
 
-Deep Impact. This weapon is built such that a precise blow can cause extraordinary damage. If you score a critical hit with this weapon you double both the damage dice and the damage modifier.
+### Deep Impact. 
+This weapon is built such that a precise blow can cause extraordinary damage. If you score a critical hit with this weapon you double both the damage dice and the damage modifier.
 
-Ensnaring. This weapon can wrap around limbs, temporarily pulling an enemy off balance. When you make a critical hit with one of these weapons, if the target is a creature it is knocked prone in addition to taking normal damage.
+### Ensnaring. 
+This weapon can wrap around limbs, temporarily pulling an enemy off balance. When you make a critical hit with one of these weapons, if the target is a creature it is knocked prone in addition to taking normal damage.
 
-Finesse. When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.
+### Finesse. 
+When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.
 
-Grappling. This weapon can be used to initiate a grapple.
+### Grappling. 
+This weapon can be used to initiate a grapple.
 
-Half-Swording. Two-handed. Reduce the sword’s damage die to 1d4. Lose Reach property. Gain +2 to attack vs. armor, +2 to grapple, +1 to AC.
+### Half-Swording. 
+Two-handed. Reduce the sword’s damage die to 1d4. Lose Reach property. Gain +2 to attack vs. armor, +2 to grapple, +1 to AC.
 
-Heavy. Creatures that are Small or Tiny have disadvantage on attack rolls with heavy weapons. A heavy weapon’s size and bulk make it too large for a Small or Tiny creature to use effectively.
+### Heavy. 
+Creatures that are Small or Tiny have disadvantage on attack rolls with heavy weapons. A heavy weapon’s size and bulk make it too large for a Small or Tiny creature to use effectively.
 
-Immobile. Setting up this weapon or breaking it down can only be done outside of combat (several hours usually).
+### Immobile. 
+Setting up this weapon or breaking it down can only be done outside of combat (several hours usually).
 
-Light. A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons.
+### Light. 
+A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons.
 
-Loading. Because of the time required to load this weapon, you can fire only one piece of ammunition from it when you use an action, bonus action, or reaction to fire it, regardless of the number of attacks you can normally make.
+### Loading. 
+Because of the time required to load this weapon, you can fire only one piece of ammunition from it when you use an action, bonus action, or reaction to fire it, regardless of the number of attacks you can normally make.
 
-Long-reach. Long Reach weapons have reach of 15′, but they have disadvantage on attack rolls if an obstacle (walls, trees, etc.) or enemy is within 5 feet of the wielder.
+### Long-reach. 
+Long Reach weapons have reach of 15′, but they have disadvantage on attack rolls if an obstacle (walls, trees, etc.) or enemy is within 5 feet of the wielder.
 
-Massive. Creatures that are Small or Tiny have disadvantage on attack rolls with massive weapons. A massive weapon’s size and bulk make it too large for a Small or Tiny creature to use effectively. When rolling damage for a massive weapon, roll the damage die twice and take the better result. This applies only to the initial damage die, not any bonus damage.
+### Massive. 
+Creatures that are Small or Tiny have disadvantage on attack rolls with massive weapons. A massive weapon’s size and bulk make it too large for a Small or Tiny creature to use effectively. When rolling damage for a massive weapon, roll the damage die twice and take the better result. This applies only to the initial damage die, not any bonus damage.
 
-Range. A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition, ranged or thrown property. The range usually lists two numbers. The first is the weapon’s normal range in feet, and the second indicates the weapon’s long range. If it lists only 0, then the weapon fires directly, usually in a line or cone shape. When attacking a target beyond normal range, you have disadvantage on the attack roll, or defenders have advantage on their saving throw. You can’t attack a target beyond the weapon’s long range.
+### Range. 
+A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition, ranged or thrown property. The range usually lists two numbers. The first is the weapon’s normal range in feet, and the second indicates the weapon’s long range. If it lists only 0, then the weapon fires directly, usually in a line or cone shape. When attacking a target beyond normal range, you have disadvantage on the attack roll, or defenders have advantage on their saving throw. You can’t attack a target beyond the weapon’s long range.
 
-Reach. This weapon adds 5 feet to your reach when you attack with it, as well as when determining your reach for opportunity attacks with it (see chapter 9).
+### Reach. 
+This weapon adds 5 feet to your reach when you attack with it, as well as when determining your reach for opportunity attacks with it (see chapter 9).
 
-Reload. This weapon requires the crew to take the Reload action after firing it and thus can only be shot every other round.
+### Reload. 
+This weapon requires the crew to take the Reload action after firing it and thus can only be shot every other round.
 
-Restraining. A successful hit with this weapon causes the restrained condition.
+### Restraining.
+A successful hit with this weapon causes the restrained condition.
 
-Returning. If you miss with this weapon it returns to your hand.
+### Returning. 
+If you miss with this weapon it returns to your hand.
 
-Siege. This weapon does double damage to structures.
+### Siege. 
+This weapon does double damage to structures.
 
-Special. A weapon with the special property has unusual rules governing its use, explained in the weapon’s description (see “Special Weapons” later in this section).
+### Thrown. 
+If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. For example, if you throw a handaxe, you use your Strength, but if you throw a dagger, you can use either your Strength or your Dexterity, since the dagger has the finesse property.
 
-Thrown. If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. For example, if you throw a handaxe, you use your Strength, but if you throw a dagger, you can use either your Strength or your Dexterity, since the dagger has the finesse property.
+### Two-­Handed. 
+This weapon requires two hands when you attack with it. This property is relevant only when you attack with the weapon, not when you simply hold it.
 
-Two-­Handed. This weapon requires two hands when you attack with it. This property is relevant only when you attack with the weapon, not when you simply hold it.
+### Versatile. 
+This weapon can be used with one or two hands. A damage value in parentheses appears with the property – the damage when the weapon is used with two hands to make a melee attack.
 
-Versatile. This weapon can be used with one or two hands. A damage value in parentheses appears with the property – the damage when the weapon is used with two hands to make a melee attack.
-
-Armor-Piercing
+## Armor-Piercing
 
 +3 attack vs. targets in medium or heavy armor and monsters with equivalent defenses. (It’s up to the DM if a monster qualifies, but generally monsters with AC 16 or higher due to tough hides or armor plates would fit.)
 
@@ -292,7 +310,7 @@ The armor-piercing weapon property is added to these weapons:
 - Heavy crossbow
 - Firearms
 
-Armor-Crushing Weapons
+## Armor-Crushing Weapons
 
 If the attack misses by 5 or less, deal bludgeoning damage equal to strength bonus, minimum 1 damage.
 
@@ -306,11 +324,10 @@ The armor crushing weapon property is added to these weapons:
 
 That leaves swords out of the armor-piercing fun, but there was a tactic used to make them more useful against armor called half-swording. The wielder gripped the blade with their off-hand to use the sword as more of a precision and powerful thrusting weapon that could also be used better for grappling and defense. So swords can be used with this new attack stance:
 
-Half-Swording: 
-
+## Half-Swording: 
 Two-handed. Reduce the sword’s damage die to 1d4. Gain +2 to attack vs. armor, +2 to grapple, +1 to AC.
 
-IMPROVISED WEAPONS
+### IMPROVISED WEAPONS
 
 Sometimes characters don’t have their weapons and have to attack with whatever is at hand. An improvised weapon includes any object you can wield in one or two hands, such as broken glass, a table leg, a frying pan, or a wagon wheel.
 
@@ -318,16 +335,6 @@ Often, an improvised weapon is similar to an actual weapon and can be treated as
 
 An object that bears no resemblance to a weapon deals 1d4 damage (the DM assigns a damage type appropriate to the object). If a character uses a ranged weapon to make a melee attack, or throws a melee weapon that does not have the thrown property, it also deals 1d4 damage. An improvised thrown weapon has a normal range of 20 feet and a long range of 60 feet.
 
-SILVERED WEAPONS
+### SILVERED WEAPONS
 
 Some monsters that have immunity or resistance to nonmagical weapons are susceptible to silver weapons, so cautious adventurers invest extra coin to plate their weapons with silver. You can silver a single weapon or ten pieces of ammunition for 50 thaler. This cost represents not only the price of the silver, but the time and expertise needed to add silver to the weapon without making it less effective.
-
-SPECIAL WEAPONS
-
-Weapons with special rules are described here.
-
-Lance. You have disadvantage when you use a lance to attack a target within 5 feet of you. Also, a lance requires two hands to wield when you aren’t mounted.
-
-Net. A Large or smaller creature hit by a net is restrained until it is freed. A net has no effect on creatures that are formless, or creatures that are Huge or larger. A creature can use its action to make a DC 10 Strength check, freeing itself or another creature within its reach on a success. Dealing 5 slashing damage to the net (AC 10) also frees the creature without harming it, ending the effect and destroying the net.
-
-When you use an action, bonus action, or reaction to attack with a net, you can make only one attack regardless of the number of attacks you can normally make.
