@@ -31,6 +31,22 @@ A shimmering green arrow streaks toward a target within range and bursts in a sp
 
 At Higher Levels. When you cast this spell at 3rd level or higher, the damage (both initial and later) increases by 1d4 for each level above 2nd.
 
+## Adaptation 
+
+2nd-level transmutation 
+
+Casting Time: 1 action 
+
+Range: Touch 
+
+Components: V, S 
+
+Duration: 1 hour 
+
+Replaces: Alter Self 
+
+You touch a creature, modifying it for a specific environment. The target chooses one of the following options for the duration. It can end one option as an action to gain the benefits of a different one. The spell ends if you cast it again before its duration ends. The creature grows gills and webbing between its digits. It can breathe underwater and gains a swimming speed equal to its walking speed. The creature grows a membrane between its limbs. It can use its reaction to subtract up to 100 feet from a fall when calculating falling damage and can move up to 2 feet horizontally for every 1 foot it descends. The creature grows a prehensile tail. The tail has a 5-foot reach and can lift a number of pounds equal to five times the creature's Strength score. It can grasp, lift, drop, hold, push, or pull an object or a creature, open or close a door or a container, grapple someone, or make an unarmed strike. The creature's appearance changes. For the duration, it can use an action to change its height, weight, facial features, voice, hair length and coloration, and distinguishing characteristics. It cannot change its size or number of limbs. The creature grows a natural weapon. Unarmed strikes with the weapon deal 1d6 bludgeoning, piercing, or slashing damage as appropriate. The natural weapon is magical and has a +1 bonus to its attack and damage rolls. At Higher Levels. When you cast this spell using a spell slot of 4th level or higher, the natural weapon's bonus increases to +2. When you use a spell slot of 6th level or higher, the natural weapon's bonus increases to +3. Additionally, the target can select one additional option for every two slot levels above 2nd.
+
 ## AID
 
 2nd-­level abjuration
