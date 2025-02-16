@@ -4,7 +4,7 @@ The tables show the setting’s most common weapons, their price, weight, damage
 
 After each table notes are given on any unusual weapons.
 
-Simple Melee Weapons
+### Simple Melee Weapons
 
 |   |   |   |   |   |
 |---|---|---|---|---|
@@ -18,23 +18,23 @@ Simple Melee Weapons
 |Split axi (Handaxe)|5 thaler|1d6 slashing|2 lb.|Grappling, Light, thrown (range 20/60)|
 |Stafur (Quarterstaff)|2 shillings|1d6 bludgeoning|4 lb.|Half-swording, Versatile (1d8 + Reach)|
 
-Barda Makir (Battle Mace) The barda makir is prevalent among the warriors of the Tenets of Nid. It’s like a stjorn maker, but instead of spikes, the battle mace has sharp flanges.
+**Barda Makir (Battle Mace)** The barda makir is prevalent among the warriors of the Tenets of Nid. It’s like a stjorn maker, but instead of spikes, the battle mace has sharp flanges.
 
-Hring Seax (Ring Knife) The hring seax or ring knife is perhaps most common in Mittland. Its single-edged blade is usually slightly inward curving, and there is a ring at the end of the handle, sometimes used to tie the weapon to the wielder’s wrist. The shape of the hring seax in Mittland bears strong influences from Elven weapons. In Mittland, the hring seax shows that the wielder is faithful to the Eald Tradition. A hring seax is seldom used for household activities, it is instead a weapon mainly conceived for combat.
+**Hring Seax (Ring Knife)** The hring seax or ring knife is perhaps most common in Mittland. Its single-edged blade is usually slightly inward curving, and there is a ring at the end of the handle, sometimes used to tie the weapon to the wielder’s wrist. The shape of the hring seax in Mittland bears strong influences from Elven weapons. In Mittland, the hring seax shows that the wielder is faithful to the Eald Tradition. A hring seax is seldom used for household activities, it is instead a weapon mainly conceived for combat.
 
-Klubb (Club) A klubb is one of the most common weapons among those who cannot support themselves as warriors. The klubb is cheap and easy to fight with. Primitive klubbs consist of a truncated tree branch.
+**Klubb (Club)** A klubb is one of the most common weapons among those who cannot support themselves as warriors. The klubb is cheap and easy to fight with. Primitive klubbs consist of a truncated tree branch.
 
-Lill Spjót (Short Spear) The lill spjót is cheap and easy to use for an inexperienced warrior. It can also be used for hunting if the hunter is brave enough to stand close to his prey
+**Lill Spjót (Short Spear)** The lill spjót is cheap and easy to use for an inexperienced warrior. It can also be used for hunting if the hunter is brave enough to stand close to his prey
 
-Nagli Klubb (Spiked Club) A more developed variant of the klubb is the nagli klubb. Often made from wood, this club has spikes at the top to inflict more damage.
+**Nagli Klubb (Spiked Club)** A more developed variant of the klubb is the nagli klubb. Often made from wood, this club has spikes at the top to inflict more damage.
 
-Seax (Dagger or Knife) The seax is both a weapon and a tool that’s carried by most of Trudvang’s inhabitants. Seax exist in many varieties adapted for throwing, thrusting, and cutting. Some are made for hunting, fishing, and household use: these blades are usually single-edged knives. Other varieties are doubleedged daggers with sharp points, fit for piercing attacks. In the Stormlands, the Bjorn paw or bear paw is a favored weapon, and the short, broad-bladed seax carries much symbolism for Gerbanis. A knife is used for ritual Blood Gifting, and many warriors wear one on their belts as a last resort when all other weapons are lost or too heavy to lift.
+**Seax (Dagger or Knife)** The seax is both a weapon and a tool that’s carried by most of Trudvang’s inhabitants. Seax exist in many varieties adapted for throwing, thrusting, and cutting. Some are made for hunting, fishing, and household use: these blades are usually single-edged knives. Other varieties are doubleedged daggers with sharp points, fit for piercing attacks. In the Stormlands, the Bjorn paw or bear paw is a favored weapon, and the short, broad-bladed seax carries much symbolism for Gerbanis. A knife is used for ritual Blood Gifting, and many warriors wear one on their belts as a last resort when all other weapons are lost or too heavy to lift.
 
-Split Axi (Hand Axe) Like the seax, the split axi is partly carried as a utility tool, and partly as a weapon if need be.
+**Split Axi (Hand Axe)** Like the seax, the split axi is partly carried as a utility tool, and partly as a weapon if need be.
 
-Stafur (Staff) The stafur works both as a walking stick and as a weapon. Staves made for fighting need to be metal reinforced and balanced.
+**Stafur (Staff)** The stafur works both as a walking stick and as a weapon. Staves made for fighting need to be metal reinforced and balanced.
 
-Simple Ranged Weapons
+### Simple Ranged Weapons
 
 |   |   |   |   |   |
 |---|---|---|---|---|
@@ -44,11 +44,11 @@ Simple Ranged Weapons
 |Slingu (Sling)|1 shilling|1d4 bludgeoning|—|Ammunition (range 30/120)|
 |Spear Sling|5 thaler|1d6 piercing|2 lb.|Ammunition (range 40/160), deep impact|
 
-Veidi Bogi (Hunting Bow). Shorter than a longbow, this weapon can be used while mounted and also works well on foot within the forest of Davokar.
+**Veidi Bogi (Hunting Bow)**. Shorter than a longbow, this weapon can be used while mounted and also works well on foot within the forest of Davokar.
 
-Spear Sling. The barbarians of eastern Davokar, and especially the members of clan Karohar, prefer the use of spear slings – a throwing arm with a hook that is attached to the end of a short spear in order to throw it with tremendous force. It can also be used as a club in melee
+**Spear Sling.** The barbarians of eastern Davokar, and especially the members of clan Karohar, prefer the use of spear slings – a throwing arm with a hook that is attached to the end of a short spear in order to throw it with tremendous force. It can also be used as a club in melee
 
-Martial Melee Weapons
+### Martial Melee Weapons
 
 |   |   |   |   |   |
 |---|---|---|---|---|
@@ -78,62 +78,57 @@ Martial Melee Weapons
 |Tvei swerd (Greatsword)|60 thaler|1d12 slashing|6 lb.|Massive, Half-swording, Reach, Two-handed|
 |Villtur axi (Bearded Axe)|30 thaler|1d8 slashing|4 lb.|Grappling, Versatile (1d10)|
 |Whip|2 thaler|1d4 slashing|3 lb.|Ensnaring, finesse, Grappling, long reach|
+|Breid swerd| 20 sc |1d10 slashing| 4 lb |-|
+|Drop Axi| 20 sc |1d10 slashing| 6 lb |Heavy, two-handed|
+|Stjorn makir |15 sc |1d8 piercing |4 lb |-|
+|Tvei hakk |15 sc |2d6 piercing |6 lb |Heavy, two-handed|
+|Tvei klubb |2 sc |1d10 bludgeoning |6 lb |Heavy, two-handed|
 
-Breid swerd 20 sc 1d10 slashing 4 lb -
+**Assassin’s Blade.** The slender grip and the feather-­thin steel of the blade makes this weapon easy to conceal without sacrificing its bite. It is easily strapped to the wrist or ankle, or even attached behind the neck with a lump of resin. Special girdles or hidden pockets in clothes work just as well. The weapon can be smuggled past guards, to be used on secret missions or to be handed over to a prisoner.
 
-Drop Axi 20 sc 1d10 slashing 6 lb Heavy, two-handed
+**Axe**. Preferred weapon of many barbarians.
 
-Stjorn makir 15 sc 1d8 piercing 4 lb -
+**Bastjur Kedjá (Troll Chain)** A Bastjur kedjá is a bigger version of the barda klót that can also be thrown. Some balls have studs or long spikes. Fighting with this weapon is tough and requires much skill, but its force is good against shields and in spaces where the ball has the potential to hit with full power.
 
-Tvei hakk 15 sc 2d6 piercing 6 lb Heavy, two-handed
+**Chain Staff**. The chain staff was developed by elves and has been adopted by some barbarian clans. The weapon is composed of a staff with a short chain attached to each end, making it possible to use the weapon to ensnare a target. The chains often end in a weight or a short blade, making it even more deadly.
 
-Tvei klubb 2 sc 1d10 bludgeoning 6 lb Heavy, two-handed
+**Crow’s Beak** A less elegant, but still effective weapon is the crow’s beak, also known as a Kandorian war pick after the city in Alberetor where it was first forged. The crow’s beak is a club whose metal head is fitted with a spike or a beak of steel, in order to punch through armor more easily. After the escape to Yndaros, the smiths of the Kandorian war pick settled down in the district of Old Kadizar where they have continued to craft their dreaded weapons.
 
-Assassin’s Blade. The slender grip and the feather-­thin steel of the blade makes this weapon easy to conceal without sacrificing its bite. It is easily strapped to the wrist or ankle, or even attached behind the neck with a lump of resin. Special girdles or hidden pockets in clothes work just as well. The weapon can be smuggled past guards, to be used on secret missions or to be handed over to a prisoner.
+**Double-­axe**. The barbarian double-­axe (not to be confused with the more common pole axe with its single-­edged axe head) is aptly named after its twin axe heads and is presumed to be a legacy from the fallen Symbaroum. In those days the double-­axe was a weapon as well as a symbol of status and standing. Even though the knowledge of metallurgy has dwindled since the fall of Symbaroum these powerful weapons can still be forged, often made for particularly prominent warriors. Ambrians consider the double-­axe crude and savage, fit for barbarians and few else, but its shape is well known because of its similarity to the royal rune, Labrys.
 
-Axe. Preferred weapon of many barbarians.
+**Estoc.** This is a fencing sword but with a tapered blade that ends in a wedge-­shaped tip, intended to penetrate the target’s armor.
 
-Bastjur Kedjá (Troll Chain) A Bastjur kedjá is a bigger version of the barda klót that can also be thrown. Some balls have studs or long spikes. Fighting with this weapon is tough and requires much skill, but its force is good against shields and in spaces where the ball has the potential to hit with full power.
+**Fencing Sword**. In Yndaros, the Ambrian fencing sword is considered to be of the highest fashion, an instrument with superior precision made from strong but flexible steel. It is often combined with the duelist’s favorite, the parrying dagger, which gives the lightly armored fighter a stronger defense in combat.
 
-Chain Staff. The chain staff was developed by elves and has been adopted by some barbarian clans. The weapon is composed of a staff with a short chain attached to each end, making it possible to use the weapon to ensnare a target. The chains often end in a weight or a short blade, making it even more deadly.
+**Barda Faldir (Battle Flail)** The barda faldir is predominantly used by the warriors of the Tenets of Nid. It’s a combat version of the flails that are used for farming. The barda faldir often has a wooden shaft, a chain, and an oblong head with spikes.
 
-Crow’s Beak. A less elegant, but still effective weapon is the crow’s beak, also known as a Kandorian war pick after the city in Alberetor where it was first forged. The crow’s beak is a club whose metal head is fitted with a spike or a beak of steel, in order to punch through armor more easily. After the escape to Yndaros, the smiths of the Kandorian war pick settled down in the district of Old Kadizar where they have continued to craft their dreaded weapons.
+**Villtur Axi (Bearded Axe)** The blade of this axe is L-shaped in order to widen the cutting surface without augmenting the weight. The villtur axi is the battle axe that the Stormlanders prefer, notably the rangers. It is also used sparingly by the Viranns, but not that often by the Mittlanders, who think it to be too unwieldy. With its long shaft, the villtur axi is sometimes longer than the barda axi but smaller than the tvei axi. A strong and big wielder may be able to learn to use it with one hand.
 
-Double-­axe. The barbarian double-­axe (not to be confused with the more common pole axe with its single-­edged axe head) is aptly named after its twin axe heads and is presumed to be a legacy from the fallen Symbaroum. In those days the double-­axe was a weapon as well as a symbol of status and standing. Even though the knowledge of metallurgy has dwindled since the fall of Symbaroum these powerful weapons can still be forged, often made for particularly prominent warriors. Ambrians consider the double-­axe crude and savage, fit for barbarians and few else, but its shape is well known because of its similarity to the royal rune, Labrys.
+**Tvei Faldir (Two-Handed Flail)** The tvei feldir resembles the regular barda faldir except that it has a significantly longer shaft and striking head.
 
-Estoc. This is a fencing sword but with a tapered blade that ends in a wedge-­shaped tip, intended to penetrate the target’s armor.
+**Tvei swerd (Greatsword)**. This double-­handed blade is the weapon of choice for some of the most famous knights of Ambria.
 
-Fencing Sword. In Yndaros, the Ambrian fencing sword is considered to be of the highest fashion, an instrument with superior precision made from strong but flexible steel. It is often combined with the duelist’s favorite, the parrying dagger, which gives the lightly armored fighter a stronger defense in combat.
+**Breid Spjót (Broad-bladed Spear)** The breid spjót, or hoggvaspear (hewing spear) or pole blade, as it also is called, is most common in Mittland. It consists of a long wooden shaft and a tip that resembles a seax, or even a short sword. There are variants with a curved edge, but those are most common among the Arks. The length varies between that of a lill spjót and a spjót but is seldom longer than 7 feet. The main advantage of this weapon is long reach combined with the possibility of making not just piercing but also slashing and chopping attacks
 
-Barda Faldir (Battle Flail) The barda faldir is predominantly used by the warriors of the Tenets of Nid. It’s a combat version of the flails that are used for farming. The barda faldir often has a wooden shaft, a chain, and an oblong head with spikes.
+**Lance**. The value of this weapon should not be underestimated – the largest monstrosities of the Dark Lords were often slain by lances in the hands of brave knights. The weapon was also used by the Ambrian cavalry to gain dominance over the lowlands and drive barbarians, packs of predators and abominations into the forest of Davokar.
 
-Villtur Axi (Bearded Axe) The blade of this axe is L-shaped in order to widen the cutting surface without augmenting the weight. The villtur axi is the battle axe that the Stormlanders prefer, notably the rangers. It is also used sparingly by the Viranns, but not that often by the Mittlanders, who think it to be too unwieldy. With its long shaft, the villtur axi is sometimes longer than the barda axi but smaller than the tvei axi. A strong and big wielder may be able to learn to use it with one hand.
+**Barda Hammri (Battle Hammer)** The barda hammri is developed from a regular blacksmith hammer, though it sometimes can be hard to tell them apart. The barda hammri often has a wooden handle and a big iron head. Some barda hammris have studs or nails on one side of the head
 
-Tvei Faldir (Two-Handed Flail) The tvei feldir resembles the regular barda faldir except that it has a significantly longer shaft and striking head.
+**Stakk Swerd (Long Sword)** The stakk swerd has a long, double-edged blade. Often the blade is narrow and relatively thin, making it a weapon capable of being used in one hand.  It’s a good weapon for protection, and the small tip is good for working into cracks in the enemy’s armor. Using the crossguard as an improvised battle hammer is common. The master smiths of the Pansars forge the finest weapons in Ambria, and the swords of the Queen’s Guard are an exquisite testament to that fact, at least when wielded by the right warrior. The weapon is preferably handled with both hands but can also be used single-­handedly with a shield.
 
-Tvei swerd (Greatsword). This double-­handed blade is the weapon of choice for some of the most famous knights of Ambria.
+**Maul**. This weapon is a long-­handled hammer with a heavy head of wood, lead, or iron.
 
-Breid Spjót (Broad-bladed Spear). The breid spjót, or hoggvaspear (hewing spear) or pole blade, as it also is called, is most common in Mittland. It consists of a long wooden shaft and a tip that resembles a seax, or even a short sword. There are variants with a curved edge, but those are most common among the Arks. The length varies between that of a lill spjót and a spjót but is seldom longer than 7 feet. The main advantage of this weapon is long reach combined with the possibility of making not just piercing but also slashing and chopping attacks
+**Parrying Dagger** The parrying dagger, with its wide and v-­shaped cross-­guard, has become very popular in Yndaros, and is often wielded together with a fencing sword.
 
-Lance. The value of this weapon should not be underestimated – the largest monstrosities of the Dark Lords were often slain by lances in the hands of brave knights. The weapon was also used by the Ambrian cavalry to gain dominance over the lowlands and drive barbarians, packs of predators and abominations into the forest of Davokar.
+**Pike.** The slender shaft and fire-­tempered steel point of the Ambrian pike slides towards the target with great precision.
 
-Barda Hammri (Battle Hammer) The barda hammri is developed from a regular blacksmith hammer, though it sometimes can be hard to tell them apart. The barda hammri often has a wooden handle and a big iron head. Some barda hammris have studs or nails on one side of the head
+**Glaaf (Short Sword)** A glaaf is slightly longer than the hring seax and usually has two edges. The skalm is a variant with only one sharp edge. The glaaf is most common in the eastern parts of Trudvang and it was the weapon of choice of the ancient Broths.
 
-Stakk Swerd (Long Sword) The stakk swerd has a long, double-edged blade. Often the blade is narrow and relatively thin, making it a weapon capable of being used in one hand.  It’s a good weapon for protection, and the small tip is good for working into cracks in the enemy’s armor. Using the crossguard as an improvised battle hammer is common. The master smiths of the Pansars forge the finest weapons in Ambria, and the swords of the Queen’s Guard are an exquisite testament to that fact, at least when wielded by the right warrior. The weapon is preferably handled with both hands but can also be used single-­handedly with a shield.
+**Stiletto**. The slender and agile stiletto is a dagger whose razor sharp point stabs deeply – the weapon of an assassin.
 
-Maul. This weapon is a long-­handled hammer with a heavy head of wood, lead, or iron.
+**Whip.** This whip has been adapted from the common herding or slave-­driving whip; its function is not only to drive but also to snare the target. Also, its length gives it a considerable flicking power able to wound lightly armored targets.
 
-Parrying Dagger. The parrying dagger, with its wide and v-­shaped cross-­guard, has become very popular in Yndaros, and is often wielded together with a fencing sword.
-
-Pike. The slender shaft and fire-­tempered steel point of the Ambrian pike slides towards the target with great precision.
-
-Glaaf (Short Sword) A glaaf is slightly longer than the hring seax and usually has two edges. The skalm is a variant with only one sharp edge. The glaaf is most common in the eastern parts of Trudvang and it was the weapon of choice of the ancient Broths.
-
-Stiletto. The slender and agile stiletto is a dagger whose razor sharp point stabs deeply – the weapon of an assassin.
-
-Whip. This whip has been adapted from the common herding or slave-­driving whip; its function is not only to drive but also to snare the target. Also, its length gives it a considerable flicking power able to wound lightly armored targets.
-
-Martial Ranged Weapons
+### Martial Ranged Weapons
 
 |   |   |   |   |   |
 |---|---|---|---|---|
