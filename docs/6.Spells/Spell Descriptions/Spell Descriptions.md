@@ -63,6 +63,16 @@ Your spell bolsters your allies with toughness and resolve. Choose up to three c
 
 At Higher Levels. When you cast this spell at 3rd level or higher, a target’s hit points increase by an additional 5 for each level above 2nd.
 
+## Animal Ally 
+2nd-level enchantment
+Casting Time: 1 action 
+Range: 30 feet 
+Components: V, S, M (a biscuit baked out of meat and grain) 
+Duration: Concentration, 1 hour 
+Replaces: Beast Bond & Beast Sense 
+
+You establish a telepathic bond with a friendly beast within range. You can use your action to use its senses instead of your own for one round. While you are within 120 feet of one another, you and the beast can communicate telepathically and the beast can add your proficiency bonus to its ability checks. Additionally, its attacks deal 1d6 bonus damage, and it has advantage on attack rolls against any creature you have attacked since the start of your last turn. At Higher Levels. When you cast this spell using a spell slot of 4th level or higher, the spell's duration increases to 8 hours. When you cast this spell using a spell slot of 6th level or higher, the spell's duration increases to 24 hours.
+
 ## ANIMAL MESSENGER
 
 2nd-­level enchantment (ritual)
