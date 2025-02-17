@@ -6,9 +6,9 @@ The names of some OGL spells appear a little different in this listing than othe
 
 If a spell appears in the core rules without significant changes, it is listed here but not included in the detailed spell list. If a spell that is not included in the detailed list has a material component cost listed in gold pieces (gp) higher than 50 gp, the actual cost is half that value in thaler (e.g. a 100 gp material component costs 50 thaler, a 25 gp component costs 25 thaler).
 
-Spells in ***semibold italics*** can be cast as rituals.
+Spells with '®' can be cast as rituals.
 
-Spells with an asterisk (*) cannot be favored.
+Spells with an '£' cannot be favored.
 
 [Cantrips](https://skroxiousdm.github.io/SkroxiousDM/6.Spells/Spell%20Descriptions/0Cantrips)
 
