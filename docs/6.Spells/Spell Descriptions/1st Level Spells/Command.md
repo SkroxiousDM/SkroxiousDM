@@ -1,8 +1,13 @@
 COMMAND*
+
 1st-­level illusion
+
 Casting Time: 1 action
+
 Range: 60 ft.
+
 Components: V
+
 Duration: 1 round
 
 You speak a one-­word command to a creature you can see within range. The target must succeed on a Wisdom saving throw or follow the command on its next turn. The spell has no effect if the target is undead, if it doesn’t understand your language, or if your command is directly harmful to it.
