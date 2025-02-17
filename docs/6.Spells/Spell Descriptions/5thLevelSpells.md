@@ -1,7 +1,7 @@
 
 # 5th Level Spells
 
-ANIMATE OBJECTS
+## ANIMATE OBJECTS
 
 5th-­level transmutation
 
@@ -34,7 +34,7 @@ At Higher Levels. If you cast this spell at 6th level or higher, you can animate
 |Large|50|10|14 (+2)|10 (+0)|+6 to hit, 13 (2d10 + 2) damage|
 |Huge|80|10|18 (+4)|6 (−2)|+8 to hit, 17 (2d12 + 4) damage|
 
-ARCANE HAND
+## ARCANE HAND
 
 5th-­level evocation
 
@@ -59,7 +59,7 @@ The hand is an object that has AC 20 and hit points equal to your hit point maxi
 
 At Higher Levels. When you cast this spell at 6th level or higher, the damage from the clenched fist option increases by 2d8, the damage from the grasping hand increases by 2d6, the Strength for the forceful hand increases by 2 for each level above 5th.
 
-CLOUDKILL
+## CLOUDKILL
 
 5th-­level conjuration
 
@@ -81,7 +81,7 @@ The fog moves 10 feet away from you at the start of each of your turns, rolling 
 
 At Higher Levels. When you cast this spell at 6th level or higher, the damage increases by 1d8 for each level above 5th.
 
-COMMUNE WITH SPIRITS*
+## COMMUNE WITH SPIRITS*
 
 5th-­level divination (ritual)
 
@@ -101,7 +101,7 @@ The world is old and many spirits linger from days past; nature spirits in dirt 
 - You can ask them three yes or no questions that they will try to answer as accurately as possible. However, they are limited by their knowledge and won’t do well with questions outside their own experiences.
 - You can name or describe an enemy. For the next 24 hours if that enemy approaches within 30 feet of your current location the spirits will attack them. At the start of its turn each specified creature must make a Wisdom saving throw against your spell save DC. On a failure they become frightened of the area and take 1d6 psychic damage. On a success they are not frightened but still take 1d6 psychic damage.
 
-CONE OF COLD
+## CONE OF COLD
 
 5th-­level evocation
 
@@ -121,7 +121,7 @@ A creature killed by this spell becomes a frozen statue until it thaws.
 
 At Higher Levels. When you cast this spell at 6th level or higher, the damage increases by 1d8 for each level above 5th.
 
-CREATION
+## CREATION
 
 |   |   |
 |---|---|
@@ -150,7 +150,7 @@ The duration depends on the object’s material. If the object is composed of mu
 
 At Higher Levels. When you cast this spell at 6th level or higher, the cube increases by 5 feet for each level above 5th.
 
-DISPEL EVIL AND GOOD*
+## DISPEL EVIL AND GOOD*
 
 5th-­level abjuration
 
@@ -170,7 +170,7 @@ You can end the spell early by using the following special function:
 
 - Break Enchantment. As your action, you touch a creature you can reach that is charmed, frightened, or possessed by an abomination, a celestial, an elemental, a fey, or a fiend. The creature you touch is no longer charmed, frightened, or possessed by such creatures.
 
-DOMINATE PERSON*
+## DOMINATE PERSON*
 
 5th-­level enchantment
 
@@ -194,7 +194,7 @@ Each time the target takes damage, it makes a new Wisdom saving throw against th
 
 At Higher Levels. When you cast this spell at 6th-­level, the duration is concentration, up to 10 minutes. When you cast at 7th-­level, the duration is concentration, up to 1 hour. When you cast the spell at 8th level or higher, the duration is concentration, up to 8 hours.
 
-EXORCISM
+## EXORCISM
 
 5th-­level transmutation, ritual
 
@@ -210,7 +210,7 @@ Duration: Instantaneous
 
 You call out to Prios to purge the immediate area of any creature that is not native to the material world and anoint everything else with his holy water. At the end of the casting time, each extraplanar creature must make a Wisdom saving throw. If you can see the creature as you cast the spell (for example it is trapped within a magic circle or otherwise confined) then it has disadvantage on its saving throw. An exorcised creature cannot return to the material world until at least 24 hours have passed.
 
-FIRE SOUL
+## FIRE SOUL
 
 5th-­level transmutation, ritual
 
@@ -226,7 +226,7 @@ Duration: 1 hour
 
 Your eyes glow with a red light and you become extraordinarily hot to the touch. Creatures that touch you or attack you from within five feet take 6 (1d12) fire damage. You are immune to fire damage and the first time you take fire damage you instead regain hit points equal to half the damage you would have taken, rounded down.
 
-FLAME STRIKE*
+## FLAME STRIKE*
 
 5th-­level evocation
 
@@ -244,7 +244,7 @@ A vertical column of divine fire roars down from the heavens in a location you s
 
 At Higher Levels. When you cast this spell at 6th level or higher, the fire damage or the radiant damage (your choice) increases by 1d6 for each level above 5th.
 
-GEAS*
+## GEAS*
 
 5th-­level enchantment
 
@@ -266,7 +266,7 @@ You can end the spell early by using an action to dismiss it. A remove curse, gr
 
 At Higher Levels. When you cast this spell at 7th or 8th level, the duration is 1 year. When you cast this spell at 9th level, the spell lasts until it is ended by one of the spells mentioned above.
 
-HOLD MONSTER*
+## HOLD MONSTER*
 
 5th-­level enchantment
 
@@ -284,7 +284,7 @@ Choose a creature that you can see within range. The target must succeed on a Wi
 
 At Higher Levels. When you cast this spell at 6th level or higher, you can target one additional creature for each level above 5th. The creatures must be within 30 feet of each other when you target them.
 
-INSECT PLAGUE
+## INSECT PLAGUE
 
 5th-­level conjuration
 
@@ -304,7 +304,7 @@ When the locusts appears, each creature within the area of the sphere must make 
 
 At Higher Levels. When you cast this spell at 6th level or higher, the damage increases by 1d10 for each level above 5th.
 
-MASS CURE WOUNDS*
+## MASS CURE WOUNDS*
 
 5th-­level evocation
 
@@ -322,7 +322,7 @@ A wave of healing energy washes out from a point of your choice within range. Ch
 
 At Higher Levels. When you cast this spell at 6th level or higher, the healing increases by 1d8 for each level above 5th.
 
-MODIFY MEMORY*
+## MODIFY MEMORY*
 
 5th-­level enchantment
 
@@ -348,7 +348,7 @@ A remove curse or greater restoration spell cast on the target restores the crea
 
 At Higher Levels. If you cast this spell at 6th level or higher, you can alter the target’s memories of an event that took place up to 7 days ago (6th level), 30 days ago (7th level), 1 year ago (8th level), or any time in the creature’s past (9th level).
 
-PLANAR BINDING*
+## PLANAR BINDING*
 
 5th-­level abjuration
 
@@ -368,7 +368,7 @@ A bound creature must follow your instructions to the best of its ability. You m
 
 At Higher Levels. When you cast this spell at a higher level, the duration increases to 10 days at 6th level, to 30 days at 7th- level, to 180 days at 8th level, and to a year and a day at 9th level.
 
-PURGATORY
+## PURGATORY
 
 5th-­level evocation (ritual)
 
@@ -386,7 +386,7 @@ You choose a creature within range, it must make a Wisdom saving throw with its 
 
 At Higher Levels. If you cast this spell at 6th level or higher, you can target an additional creature for each level above 5th.
 
-# Regenerate*
+## Regenerate*
 
 5th-level transmutation (ritual)
 
@@ -404,7 +404,7 @@ The target’s severed body members (fingers, legs, tails, and so on), if any, a
 
 This spell replaces the 7th level version.
 
-TURN WEATHER
+** TURN WEATHER
 
 5th-­level transmutation
 
