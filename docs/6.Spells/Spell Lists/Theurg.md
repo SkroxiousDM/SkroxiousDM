@@ -3,7 +3,7 @@
 
 [Accurate Strike](https://skroxiousdm.github.io/SkroxiousDM/6.Spells/Spell%20Descriptions/0Cantrips#accurate-strike)<br>
 [Acid Splash]<br>
-[Guidance](https://skroxiousdm.github.io/SkroxiousDM/6.Spells/Spell%20Descriptions/0Cantrips#guidance--benediction)}<br>
+[Guidance](https://skroxiousdm.github.io/SkroxiousDM/6.Spells/Spell%20Descriptions/0Cantrips#guidance--benediction)<br>
 [Mending]&reg;<br>
 [Ray of Frost]<br>
 [Resistance]<br>
