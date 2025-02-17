@@ -2,130 +2,50 @@
 
 |Level	|Original	|Replacement|
 |---|---|---|
-|0	|Blade Ward	|Warding Sigil|
-|0	|Chill Touch	|Ghost Touch|
-|0	|Control Flames	|Manipulate Fire|
-|0	|Dancing Lights	|Ghost Lights|
-|0	|Friends	|Befriend|
-|0	|Frostbite	|Black Ice|
-|0	|Guidance	|Benediction|
-|0	|Gust	|Manipulate Wind|
-|0	|Infestation	|Stinging Insects|
-|0	|Lightning Lure	|Lightning Leash|
-|0	|Mold Earth	|Manipulate Earth|
-|0	|Poison Spray	|Poison Fang|
-|0	|Sapping Sting	|Draining Bolt|
-|0	|Shape Water	|Manipulate Water|
-|0	|Sword Burst	|Blade Burst|
-|0	|Thunderclap	|Thunder Burst|
-|0	|Toll the Dead	|Grave Call|
-|0	|True Strike	|Fated Strike|
-|1	|Animal Friendship	|Befriend Beast|
-|1	|Animal Messenger	|Befriend Beast|
-|1	|Armor of Agathys	|Ice Armor|
-|1	|Burning Hands	|Cone of Flame|
-|1	|Cause Fear	|Frighten|
-|1	|Chaos Bolt	|Prismatic Bolt|
-|1	|Color Spray	|Dazzle|
-|1	|Detect Evil and Good	|Detect Otherworldly Influence|
-|1	|Earth Tremor	|Earth Rumble|
-|1	|Frost Fingers	|Arctic Breath|
-|1	|Goodberry	|Magic Fruit|
-|1	|Ice Knife	|Frost Shuriken|
-|1	|Illusory Script	|Secret Missive|
-|1	|Ray of Sickness	|Minor Drain|
-|1	|Ray of Sickness	|Touch of Filth|
-|1	|Shield	|Deflect|
-|1	|Snare	|Magic Net|
-|1	|Speak With Animals	|Speak with Nature|
-|1	|Witch Bolt	|Lightning Tendril|
-|2	|Acid Arrow	|Caustic Quarrel|
-|2	|Aganazzar's |Scorcher	|Stream of Flame|
-|2	|Alter Self	|Adaptation|
-|2	|Barkskin	|Oakenhide|
-|2	|Beast Bond	|Animal Ally|
-|2	|Beast Sense	|Animal Ally|
-|2	|Beast Sense	|Beast Perception|
-|2	|Borrowed Knowledge	|Erudition|
-|2	|Cloud of Daggers	|Whirling Daggers|
-|2	|Crown of Madness	|Unbridled Fury|
-|2	|Dust Devil	|Dust Cyclone|
-|2	|Earthbind	|Earth Leash|
-|2	|Enthrall	|Captivate|
-|2	|Find Traps	|Detect Hazards|
-|2	|Flame Blade	|Fiery Blade|
-|2	|Heat Metal	|Enkindle|
-|2	|Locate Animals or Plants	|Find in Nature|
-|2	|Magic Mouth	|Conjure Herald|
-|2	|Maximilian's Earthen Grasp	|Earthen Hand|
-|2	|Mind Spike	|Psychic Skewer|
-|2	|Moonbeam	|Lunar Beam|
-|2	|Pass Without Trace	|Aura of Concealment|
-|2	|Phantasmal Force	|Hallucination|
-|2	|Phantasmal Force	|Phantasm|
-|2	|Pyrotechnics	|Burst of Flame|
-|2	|Ray of Enfeeblement	|Curse of Weakness|
-|2	|Silvery Barbs	|Misfortune|
-|2	|Silvery Barbs	|Fortune|
-|2	|Skywrite	|Conjure Herald|
-|2	|Skywrite	|Sky Omen|
-|2	|Snilloc's Snowball Swarm	|Cold Snap|
-|2	|Summon Beast	|Summon Animal Spirit|
-|2	|Zone of Truth	|Aura of Truth|
-|3	|Animate Dead	|Reanimation|
-|3	|Animate Dead	|Reanimation, Greater|
-|3	|Beacon of Hope	|Aura of Resilience|
-|3	|Catnap	|Power Word Nap|
-|3	|Conjure Animals	|Conjure Beast Pack÷÷
-|3	|Conjure Barrage	|Spreadshot|
-|3	|Daylight	Brilliance
-|3	|Elemental Weapon	|Imbue Element|
-|3	|Enemies Abound	|False Foes|
-|3	|Feign Death	|False Death|
-|3	|Fireball	|Fireblast|
-|3	|Flame Arrows	|Fiery Quiver|
-|3	|Life Transference	|Siphon Life|
-|3	|Lightning Bolt	|Lightning Beam|
-|3	|Meld into Stone	|Stone Pact|
-|3	|Speak With Plants	|Speak with Nature|
-|3	|Summon Lesser Demons	|Conjure Minor Fiends|
-|3	|Summon Undead	|Summon Grave Spirit|
-|3	|Thunder Step	|Sonic Rift|
-|3	|Tiny Hut	|Arcane Shelter|
-|3	|Vampiric Touch	|Life Drain|
-|3	|Wall of Sand	|Wall of Dust|
-|3	|Wall of Water	|Water Wall|
-|4	|Banishment	|Expulsion|
-|4	|Confusion	|Bewilder|
-|4	|Dominate Beast	|Command Beast|
-|4	|Elemental Bane	|Expose Weakness|
-|4	|Fabricate	|Assemble|
-|4	|Geas	|Injunction|
-|4	|Ice Storm	|Hailstorm|
-|4	|Faithful Hound	|Unerring Sentry|
-|4	|Grasping Vine	|Lashing Vine|
-|4	|Phantasmal Killer	|Phantasmal Horror|
-|4	|Polymorph	|Animal Transformation|
-|4	|Raulothim's Psychic Lance	|Synaptic Spear|
-|4	|Sickening Radiance	|Irradiate|
-|4	|Storm Sphere	|Stormcloud|
-|4	|Summon Construct	|Summon Golem|
-|4	|Vitriolic Sphere	|Corrosive Burst|
-|5	|Animate Objects	|Command Objects|
-|5	|Banishing Smite	|Disrupting Smite|
-|5	|Contagion	|Inflict Disease|
-|5	|Control Winds	|Shape Winds|
-|5	|Danse Macabre	|Corpse Puppets|
-|5	|Dispel Evil and Good	|Sacred Circle|
-|5	|Enervation	|Drink Life|
-|5	|Flame Strike	|Holy Fire|
-|5	|Geas	|Injunction|
-|5	|Immolation	|Incinerate|
-|5	|Legend Lore	|Unearth Legend|
-|5	|Mislead	|Misdirection|
-|5	|Negative Energy Flood	|Necromantic Infusion|
-|5	|Negative Energy Flood	|Necromantic Storm|
-|5	|Steel Wind Strike	|Flickering Strikes|
-|5	|Telekinesis	|Psychokinesis|
-|5	|Wall of Force	|Arcane Wall|
-|5	|Wrath of Nature	|Nature's Fury|
+|0	|**Chill Touch**	|Ghost Touch|
+|0	|**Dancing Lights**	|Witchfire|
+|0	|**Fire Bolt**	|Witchfire|
+|0	|**Guidance**	|Benediction|
+|0	|**Light**	|Witchfire|
+|0	|**Poison Spray**	|Poison Fang|
+|0	|**True Strike**	|Accurate Strike|
+|1	|**Animal Friendship**	|Befriend Beast|
+|1	|**Animal Messenger**	|Befriend Beast|
+|1	|**Burning Hands**	|Cone of Flame|
+|1	|**Detect Evil and Good**	|Detect Otherworldly Influence|
+|1	|**Illusory Script**	|Secret Missive|
+|1	|**Shield**	|Deflect|
+|1	|**Speak With Animals**	|Speak with Nature|
+|2	|**Acid Arrow**	|Caustic Quarrel|
+|2	|**Alter Self**	|Adaptation|
+|2	|**Enthrall**	|Captivate|
+|2	|**Heat Metal**	|Enkindle|
+|2	|**Locate Animals or Plants**	|Find in Nature|
+|2	|**Magic Mouth**	|Conjure Herald|
+|2	|**Ray of Enfeeblement**	|Curse of Weakness|
+|2	|**Zone of Truth**	|Aura of Truth|
+|3	|**Animate Dead**	|Reanimation|
+|3	|**Animate Dead**	|Reanimation, Greater|
+|3	|**Beacon of Hope**	|Aura of Resilience|
+|3	|**Fireball**	|Fireblast|
+|3	|**Lightning Bolt**	|Lightning Beam|
+|3	|**Speak With Plants**	|Speak with Nature|
+|3	|**Tiny Hut**	|Arcane Shelter|
+|3	|**Vampiric Touch**	|Life Drain|
+|4	|**Banishment**	|Expulsion|
+|4	|**Confusion**	|Bewilder|
+|4	|**Dominate Beast**	|Command Beast|
+|4	|**Fabricate**	|Assemble|
+|4	|**Geas**	|Injunction|
+|4	|**Ice Storm**	|Hailstorm|
+|4	|**Faithful Hound**	|Unerring Sentry|
+|4	|**Phantasmal Killer**	|Phantasmal Horror|
+|4	|**Polymorph**	|Animal Transformation|
+|5	|**Animate Objects**	|Command Objects|
+|5	|**Dispel Evil and Good**	|Sacred Circle|
+|5	|**Flame Strike**	|Holy Fire|
+|5	|**Geas**	|Injunction|
+|5	|**Legend Lore**	|Unearth Legend|
+|5	|**Mislead**	|Misdirection|
+|5	|**Telekinesis**	|Psychokinesis|
+|5	|**Wall of Force**	|Arcane Wall|
