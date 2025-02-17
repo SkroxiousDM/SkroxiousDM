@@ -293,3 +293,19 @@ Duration: Instantaneous<br/>
 
 This spell allows a mystic to read the ashes of a burnt object and thereby discern what the object once was and what happened when it burned – the mystic experiences all impressions from the fire, sees who was there and hears what was being said. A campfire can have much to tell about what happened around it.
 
+## Zone of Truth | Aura of Truth
+2nd-level enchantment<br/>
+Classes: Bard, Cleric, Paladin<br/>
+Casting Time: 1 action<br/>
+Range: Self (15-foot radius)<br/>
+Components: V, S<br/>
+Duration: Concentration, up to 10 minutes<br/>
+Replaces: Zone of Truth<br/>
+
+You radiate an aura of veracity, compelling honesty from all in your presence. The first time a creature comes within 15 feet of you, it must make a Charisma saving throw.
+
+On a failure, it cannot intentionally lie while in the aura. A creature can intentionally fail its save, and you know if a creature succeeds or fails. An affected creature is aware of the spell and can answer evasively.
+
+As an action, you can focus the aura to compel answers. You may ask two yes-or-no questions, each directed at an affected creature, who must answer truthfully. The spell then ends.
+
+At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher, the aura's radius increases by 5 feet for each slot level above 2nd. Additionally, the number of compelled questions you can ask when you end the spell increases by 1 for each slot level above 2nd.
