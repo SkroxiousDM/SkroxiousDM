@@ -13,12 +13,41 @@ Casting Time: 1 action<br/>
 
 ## Chill Touch | Ghost Touch
 
+Necromancy cantrip
+
+Casting Time: 1 action
+
+Range: 120 feet
+
+Components: V, S
+
+Duration: 1 round
+
+Replaces: Chill Touch
+
+You create an intangible, cadaverous hand that latches onto a creature within range, assailing its life force. Make a ranged spell attack against the target. On a hit, the target takes 1d8 necrotic damage, and it can't regain hit points until the startof your next turn.
+
+If you hit an undead target, it has disadvantage on attack rolls against you until the end of your next turn.
+
+This spell's damage increases by 1d8 when you reach 3rd level (2d8), 6th level (3d8), and 9th level (4d8).
 
 ## Eldritch Blast
 
 
 ## Guidance | Benediction
+Divination cantrip
 
+Casting Time: 1 minute
+
+Range: 30 feet
+
+Components: V, S
+
+Duration: Concentration, up to 1 minute
+
+Replaces: Guidance
+
+For the duration, magic enhances your words as you advise one creature that can perceive and understand you within range. Once within the next minute, the target can roll a d4 and add the number rolled to one ability check of its choice. It can roll the die before or after making the ability check. The spell then ends. A creature with 4 Intelligence or higher that perceives your spellcasting is aware of its magical influence and responds accordingly.
 
 ## Mage Hand
 
@@ -33,7 +62,21 @@ Casting Time: 1 action<br/>
 
 
 ## Poison Spray | Poison Fang
+Conjuration cantrip
 
+Casting Time: 1 action
+
+Range: 30 feet
+
+Components: V, S
+
+Duration: Instantaneous
+
+Replaces: Poison Spray
+
+You conjure a spectral snake that bites down on one creature you can see within range. The target must succeed on a Constitution saving throw or take 1d12 poison damage and be poisoned until the start of its next turn.
+
+This spell's damage increases by 1d12 when you reach 3rd level (2d12), 6th level (3d12), and 9th level (4d12).
 
 ## Prestidigitation®
 
