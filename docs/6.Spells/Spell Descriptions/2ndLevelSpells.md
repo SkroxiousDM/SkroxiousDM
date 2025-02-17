@@ -12,17 +12,7 @@ You conjure an arrow of acid and send it streaking towards a target within range
 
 At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher, both instances of damage increase by 1d4 for each slot level above 2nd.
 
-## Alter Self | Adaptation 
-2nd-level transmutation (No Favour)<br/>
-Casting Time: 1 action <br/>
-Range: Touch <br/>
-Components: V, S <br/>
-Duration: 1 hour <br/>
-Replaces: Alter Self <br/>
-
-You touch a creature, modifying it for a specific environment. The target chooses one of the following options for the duration. It can end one option as an action to gain the benefits of a different one. The spell ends if you cast it again before its duration ends. The creature grows gills and webbing between its digits. It can breathe underwater and gains a swimming speed equal to its walking speed. The creature grows a membrane between its limbs. It can use its reaction to subtract up to 100 feet from a fall when calculating falling damage and can move up to 2 feet horizontally for every 1 foot it descends. The creature grows a prehensile tail. The tail has a 5-foot reach and can lift a number of pounds equal to five times the creature's Strength score. It can grasp, lift, drop, hold, push, or pull an object or a creature, open or close a door or a container, grapple someone, or make an unarmed strike. The creature's appearance changes. For the duration, it can use an action to change its height, weight, facial features, voice, hair length and coloration, and distinguishing characteristics. It cannot change its size or number of limbs. The creature grows a natural weapon. Unarmed strikes with the weapon deal 1d6 bludgeoning, piercing, or slashing damage as appropriate. The natural weapon is magical and has a +1 bonus to its attack and damage rolls. At Higher Levels. When you cast this spell using a spell slot of 4th level or higher, the natural weapon's bonus increases to +2. When you use a spell slot of 6th level or higher, the natural weapon's bonus increases to +3. Additionally, the target can select one additional option for every two slot levels above 2nd.
-
-## AID
+## Aid
 2nd-­level abjuration<br/>
 Casting Time: 1 action<br/>
 Range: 30 feet<br/>
@@ -32,6 +22,16 @@ Duration: 8 hours<br/>
 Your spell bolsters your allies with toughness and resolve. Choose up to three creatures within range. Each target’s hit point maximum and current hit points increases by 5 for the duration.
 
 At Higher Levels. When you cast this spell at 3rd level or higher, a target’s hit points increase by an additional 5 for each level above 2nd.
+
+## Alter Self | Adaptation 
+2nd-level transmutation (No Favour)<br/>
+Casting Time: 1 action <br/>
+Range: Touch <br/>
+Components: V, S <br/>
+Duration: 1 hour <br/>
+Replaces: Alter Self <br/>
+
+You touch a creature, modifying it for a specific environment. The target chooses one of the following options for the duration. It can end one option as an action to gain the benefits of a different one. The spell ends if you cast it again before its duration ends. The creature grows gills and webbing between its digits. It can breathe underwater and gains a swimming speed equal to its walking speed. The creature grows a membrane between its limbs. It can use its reaction to subtract up to 100 feet from a fall when calculating falling damage and can move up to 2 feet horizontally for every 1 foot it descends. The creature grows a prehensile tail. The tail has a 5-foot reach and can lift a number of pounds equal to five times the creature's Strength score. It can grasp, lift, drop, hold, push, or pull an object or a creature, open or close a door or a container, grapple someone, or make an unarmed strike. The creature's appearance changes. For the duration, it can use an action to change its height, weight, facial features, voice, hair length and coloration, and distinguishing characteristics. It cannot change its size or number of limbs. The creature grows a natural weapon. Unarmed strikes with the weapon deal 1d6 bludgeoning, piercing, or slashing damage as appropriate. The natural weapon is magical and has a +1 bonus to its attack and damage rolls. At Higher Levels. When you cast this spell using a spell slot of 4th level or higher, the natural weapon's bonus increases to +2. When you use a spell slot of 6th level or higher, the natural weapon's bonus increases to +3. Additionally, the target can select one additional option for every two slot levels above 2nd.
 
 ## Black Breath
 2nd-­level evocation (No Favour)<br/>
