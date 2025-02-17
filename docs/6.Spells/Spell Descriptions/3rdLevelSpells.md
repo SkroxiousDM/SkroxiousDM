@@ -335,4 +335,82 @@ At Higher Levels. When you cast this spell at 4th level or higher, the healing i
 
 Casting Time: 8 hours
 
-Range: S
+Range: Self
+
+Components: V, S, M (holy incense, 50 thaler worth)
+
+Duration: Concentration, up to 1 minute
+
+You prepare yourself with songs and prayers before climbing onto a burning pyre to cleanse your body of Corruption. Each round you remain in the fire you take 1d12 fire damage. If you do not lose concentration on the spell, you reduce your permanent Corruption by 1 point. You must take damage in order to reduce your Corruption. Thus you can remove up to 10 points of permanent Corruption if you remain in the pyre for the duration.
+
+You cannot cast this spell for anyone else, only you may benefit from it.
+
+## SPIRIT GUARDIANS*
+
+3rd-­level conjuration
+
+Casting Time: 1 action
+
+Range: Self
+
+Components: V, S, M (a holy symbol)
+
+Duration: Concentration, up to 10 minutes
+
+You call forth spirits to protect you. They flit around you to a distance of 15 feet for the duration. If you are blight-­stricken or uncorrupted, their spectral form appears angelic or fey (your choice). If you are blight-­marked, they appear fiendish.
+
+When you cast this spell, you can designate any number of creatures you can see to be unaffected by it. An affected creature’s speed is halved in the area, and when the creature enters the area for the first time on a turn or starts its turn there, it must make a Wisdom saving throw. On a failed save, the creature takes 3d8 radiant damage or 3d8 necrotic damage (if you are blight-­marked). On a successful save, the creature takes half as much damage.
+
+At Higher Levels. When you cast this spell at 4th level or higher, the damage increases by 1d8 for each level above 3rd.
+
+## SUMMON DAEMON
+
+3rd-­level conjuration (ritual)
+
+Casting Time: 10 minutes
+
+Range: Self
+
+Components: V, S, M (candles, dagger and golden bowl)
+
+Duration: Special
+
+You summon an abomination from the Yonderworld, a daemon. The creature resists your control and you must make a contested Charisma check to keep it under your control. If you fail and the daemon was not summoned into an inverted magic circle, the daemon is free to do as it likes (including attacking you or your allies) and is free to roam until it chooses to return to the Yonderworld (which it can do as an action) or it is destroyed. If it is trapped in an inverted magic circle it instead cannot move and returns to the Yonderworld at the end of the magic circle’s duration. You can talk to the daemon during this time, but it is under no compulsion to speak or to give you truthful answers.
+
+If you succeed at the Charisma check then the daemon is under your control for 24 hours. If requested, it will return to the Yonderworld, which ends your control of it. It will also carry out your orders, unless they involve a clear danger to the daemon from the servants of Prios or another god. It takes its own turn and follows your commands.
+
+When you cast this spell, you summon a Servant Daemon. If you choose to gain a point of permanent Corruption you can instead summon a Vindictive Daemon, for two points of permanent Corruption you can summon a Knowledge Daemon or for three points of permanent Corruption you can summon a Guardian Daemon. The stats for the daemons are included below.
+
+|   |   |
+|---|---|
+|@Compendium[symbaroum5eplayersguide.ros-pg-actors.BSj6Wx3ztnEBOqSw]{Servant Daemon}|@Compendium[symbaroum5eplayersguide.ros-pg-actors.6cJj0CSGWmzXGmLF]{Vindictive Daemon}|
+
+|   |   |
+|---|---|
+|\|   \|   \|   \|   \|   \|   \|<br>\|---\|---\|---\|---\|---\|---\|<br>\|Servant Daemon\|<br>\|Small fiend\|<br>\|Armor Class 15<br><br>Hit Points 18 (4d6 + 4)<br><br>Speed 30 ft, fly 30 ft\|<br>\|STR\|DEX\|CON\|INT\|WIS\|CHA\|<br>\|8 (−1)\|20 (+5)\|12 (+1)\|10 (+0)\|10 (+0)\|13 (+1)\|<br>\|Condition Immunities exhaustion, paralyzed, petrified, poisoned, unconscious<br><br>Damage Immunities fire, poison, psychic<br><br>Senses passive Perception 10<br><br>Languages understands and speaks the caster’s language<br><br>Challenge 1 (200 XP, proficiency bonus +2)<br><br>Manner reluctant and cynical<br><br>Shadow same as the caster’s<br><br>Equipment none\|<br>\|ACTIONS<br><br>Sharp Fangs. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d4 + 5) piercing damage.\||\|   \|   \|   \|   \|   \|   \|<br>\|---\|---\|---\|---\|---\|---\|<br>\|Vindictive Daemon\|<br>\|Medium fiend\|<br>\|Armor Class 13<br><br>Hit Points 82 (11d8 + 33)<br><br>Speed 30 ft, fly 60 ft\|<br>\|STR\|DEX\|CON\|INT\|WIS\|CHA\|<br>\|11 (+0)\|16 (+3)\|17 (+3)\|10 (+0)\|10 (+0)\|17 (+3)\|<br>\|Skills Perception +2, Stealth +7<br><br>Condition Immunities exhaustion, paralyzed, petrified, poisoned, unconscious<br><br>Damage Immunities fire, poison, psychic<br><br>Senses passive Perception 12<br><br>Languages understands and speaks the caster’s language<br><br>Challenge 4 (1,100 XP, proficiency bonus +2)<br><br>Manner sniffing and prying<br><br>Shadow a black, oily cloud dancing in hard winds<br><br>Thoroughly corrupt<br><br>Equipment none\|<br>\|Ambusher. In the first round of a combat, the daemon has advantage on attack rolls against any creature it has surprised.\|<br>\|ACTIONS<br><br>Multiattack. The vindictive daemon makes two attacks with its long claws.<br><br>Long Claws. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage.\||
+
+|   |   |
+|---|---|
+|@Compendium[symbaroum5eplayersguide.ros-pg-actors.8EGLwp3YYpEiPDOx]{Knowledge Daemon}|@Compendium[symbaroum5eplayersguide.ros-pg-actors.8VUOWKLIi31qnnIl]{Guardian Daemon}|
+
+|   |   |
+|---|---|
+|\|   \|   \|   \|   \|   \|   \|<br>\|---\|---\|---\|---\|---\|---\|<br>\|Knowledge Daemon\|<br>\|Medium fiend\|<br>\|Armor Class 10<br><br>Hit Points 71 (13d8 + 13)<br><br>Speed 30 ft, fly 60 ft\|<br>\|STR\|DEX\|CON\|INT\|WIS\|CHA\|<br>\|11 (+0)\|11 (+0)\|18 (+4)\|19 (+4)\|10 (+0)\|20 (+5)\|<br>\|Skills Arcana +10, Deception +11, History +10, Perception +10<br><br>Saving Throws Dex +3, Cha +8<br><br>Condition Immunities exhaustion, paralyzed, petrified, poisoned, unconscious<br><br>Damage Immunities fire, poison, psychic<br><br>Senses passive Perception 20<br><br>Languages understands and speaks the caster’s language<br><br>Challenge 6 (2,300 XP, proficiency bonus +3)<br><br>Manner fawning and wheezing<br><br>Shadow calm blackness, like a pool of liquid bitumen<br><br>Thoroughly corrupt<br><br>Equipment none\|<br>\|Expertise. The daemon has expertise in all its skills.<br><br>Wrest Knowledge. The summoner can use its action to make a contested Charisma check with the daemon to receive information. On a success the daemon provides a useful answer to an open-­ended question or a definitive answer to a yes-­or-­no question. On a failure, the daemon refuses to answer any more questions. If the summoner offers a blood sacrifice they have advantage on their Charisma check.\|<br>\|ACTIONS<br><br>Claws. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 2 (1d4) slashing damage.<br><br>Dominate. The daemon selects a creature within 30 feet. That creature must make a Charisma saving throw (DC 15) or become charmed by the daemon, following its instructions (the creature will not harm itself, however). At the end of its turn the creature can repeat the saving throw, ending the effect on itself. A daemon inside a magic circle cannot use this feature.<br><br>Life Consuming Kiss. Melee Weapon Attack: +3 to hit, reach 0 ft., one target. Hit: The creature must make a DC 10 Constitution saving throw or gain a level of exhaustion.\||\|   \|   \|   \|   \|   \|   \|<br>\|---\|---\|---\|---\|---\|---\|<br>\|Guardian Daemon\|<br>\|Large fiend\|<br>\|Armor Class 16 (natural armor)<br><br>Hit Points 84 (8d10 + 40)<br><br>Speed 30 ft, fly 60 ft\|<br>\|STR\|DEX\|CON\|INT\|WIS\|CHA\|<br>\|26 (+8)\|11 (+0)\|20 (+5)\|11 (+0)\|15 (+2)\|20 (+5)\|<br>\|Saving Throws Dex +3, Con +8, Wis +5<br><br>Condition Immunities exhaustion, paralyzed, petrified, poisoned, unconscious<br><br>Damage Immunities fire, poison, psychic<br><br>Senses passive Perception 12<br><br>Languages understands and speaks the caster’s language<br><br>Challenge 8 (3,900 XP, proficiency bonus +3)<br><br>Manner snorting and clawing the ground<br><br>Shadow night-­black as bubbling and boiling tar<br><br>Thoroughly corrupt<br><br>Equipment daemon-­glaive\|<br>\|Alertness. The daemon has advantage on initiative rolls as long as it is not surprised.\|<br>\|ACTIONS<br><br>Multiattack. The daemon makes an attack with its Claws and a Daemon-­glaive attack.<br><br>Claws. Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 14 (1d12 + 8) slashing damage. Daemon-­glaive. Melee Weapon Attack: +13 to hit, reach 10 ft., one target. Hit: 21 (2d10 + 10) magical slashing damage.\|<br>\|REACTIONS<br><br>Preemptive Attack. When a creature comes within reach, the daemon can make a Claws or Daemon-­glaive attack.\||
+
+## VAMPIRIC TOUCH*
+
+3rd-­level necromancy
+
+Casting Time: 1 action
+
+Range: Self
+
+Components: V, S
+
+Duration: Concentration, up to 1 minute
+
+@Compendium[symbaroum5eplayersguide.ros-pg-spells.zOeUIVRdaQ8unYRf]{Vampiric Touch}
+
+Just a touch from your shadow-­wreathed hand can siphon the life force from others to heal your wounds. Make a melee spell attack against a creature within your reach. On a hit, the target takes 3d6 necrotic damage, and you regain hit points equal to half the amount of necrotic damage dealt (rounded down). Until the spell ends, you can make the attack again on each of your turns as an action.
+
+At Higher Levels. When you cast this spell at 4th level or higher, the damage increases by 1d6 for each level above 3rd.
