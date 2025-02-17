@@ -78,7 +78,7 @@
 |3	|Catnap	|Power Word Nap|
 |3	|Conjure Animals	|Conjure Beast Pack÷÷
 |3	|Conjure Barrage	|Spreadshot|
-|3	Daylight	Brilliance
+|3	|Daylight	Brilliance
 |3	|Elemental Weapon	|Imbue Element|
 |3	|Enemies Abound	|False Foes|
 |3	|Feign Death	|False Death|
