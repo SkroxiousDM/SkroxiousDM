@@ -83,6 +83,9 @@ The spell reveals the existence of any aberrations, celestials, elementals, fey,
 ## Holy Smoke.md
 (Ritual Only)
 
+## Illusory Script | Secret Missive
+
+
 ## Inflict Wounds.md
 (No Favour)
 
@@ -98,8 +101,41 @@ The spell reveals the existence of any aberrations, celestials, elementals, fey,
 ## Protection from Evil and Good.md
 (No Favour)
 
+##	Shield	| Deflect
+
+
 ## Sleep.md
 
+##	Speak With Animals/Plants	| Speak with Nature
+1st-level divination (ritual)
+Casting Time: 1 action
+Range: Self (30-foot radius)
+Components: V, S
+Duration: 10 minutes
+Replaces: Speak with Animals and Speak with Plants
+
+You can verbally communicate with natural organisms for the
+duration. This allows beasts to answer questions you pose; at
+minimum, beasts can inform you about whatever it can
+perceive or has perceived within the past day, including
+nearby locations and monsters.
+
+The knowledge, awareness, and personality of a beast is
+limited by its intelligence, but you may deceive, intimidate,
+persuade, or otherwise influence a beast at the DM's
+discretion. An organism is under no compulsion to answer
+(or answer truthfully) if you are hostile to it, or it recognizes
+you as an enemy.
+
+At Higher Levels. When you cast this spell using a spell
+slot of 2nd level or higher, you imbue plants with limited
+sentience, allowing you to communicate with them like
+beasts. When you cast this spell using a spell slot of 3rd level
+or higher, you imbue plants with limited animation, allowing
+them to freely move branches, tendrils, and stalks. You can
+command plants to release a restrained creature, to turn
+ordinary terrain into difficult terrain (or the opposite), or to
+perform other tasks at the DM's discretion.
 
 ## Spirit Walk
 1st-­level transmutation (ritual)<br/>
