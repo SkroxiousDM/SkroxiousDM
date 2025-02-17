@@ -7,7 +7,7 @@
 |0	|Control Flames	|Manipulate Fire|
 |0	|Dancing Lights	|Ghost Lights|
 |0	|Friends	|Befriend|
-|0	Frostbite	|Black Ice|
+|0	|Frostbite	|Black Ice|
 |0	|Guidance	|Benediction|
 |0	|Gust	|Manipulate Wind|
 |0	|Infestation	|Stinging Insects|
