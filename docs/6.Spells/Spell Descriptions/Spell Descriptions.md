@@ -10,9 +10,9 @@ Spells in ***semibold italics*** can be cast as rituals.
 
 Spells with an asterisk (*) cannot be favored.
 
-Cantrips
+[Cantrips](https://skroxiousdm.github.io/SkroxiousDM/6.Spells/Spell%20Descriptions/0Cantrips)
 
-1st Level Spells
+[1st Level Spells](https://skroxiousdm.github.io/SkroxiousDM/6.Spells/Spell%20Descriptions/1stLevelSpells)
 
 [2nd Level Spells](https://skroxiousdm.github.io/SkroxiousDM/6.Spells/Spell%20Descriptions/2ndLevelSpells)
 
@@ -21,3 +21,5 @@ Cantrips
 [4th Level Spells](https://skroxiousdm.github.io/SkroxiousDM/6.Spells/Spell%20Descriptions/4thLevelSpells)
 
 [5th Level Spells](https://skroxiousdm.github.io/SkroxiousDM/6.Spells/Spell%20Descriptions/5thLevelSpells)
+
+[6th Level Spells](https://skroxiousdm.github.io/SkroxiousDM/6.Spells/Spell%20Descriptions/6thLevelSpells)
