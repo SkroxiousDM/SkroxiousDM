@@ -13,8 +13,10 @@
         <li><a href="https://skroxiousdm.github.io/SkroxiousDM/4.Feats/General%20Feats">General Feats </a></li>
         <li><a href="https://skroxiousdm.github.io/SkroxiousDM/4.Feats/Class%20Feats">Class Feats </a></li>
         <li><a href="https://skroxiousdm.github.io/SkroxiousDM/5.Equipment/equipment">Equipment </a></li>
+        <li></li> 
         <li><a href="https://skroxiousdm.github.io/SkroxiousDM/RoS-CoS-RRL/Recap/IreenasJournal">Ireena's Journal </a></li>
-        <li><a href="https://skroxiousdm.github.io/SkroxiousDM/1.%20Start%20Here/Player%20primer">Player Primer </a></li>
+        <li><a href="https://skroxiousdm.github.io/SkroxiousDM/RoS-CoS-RRL/Recap/Quests">Quests</a></li>
+        <li><a href="https://skroxiousdm.github.io/SkroxiousDM/docs/RoS-CoS-RRL/Recap/DramatisPersonae">Dramatis Personae </a></li>
       </ul>
     </aside>
     <main>
