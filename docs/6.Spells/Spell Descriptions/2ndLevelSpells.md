@@ -33,6 +33,13 @@ Replaces: Alter Self <br/>
 
 You touch a creature, modifying it for a specific environment. The target chooses one of the following options for the duration. It can end one option as an action to gain the benefits of a different one. The spell ends if you cast it again before its duration ends. The creature grows gills and webbing between its digits. It can breathe underwater and gains a swimming speed equal to its walking speed. The creature grows a membrane between its limbs. It can use its reaction to subtract up to 100 feet from a fall when calculating falling damage and can move up to 2 feet horizontally for every 1 foot it descends. The creature grows a prehensile tail. The tail has a 5-foot reach and can lift a number of pounds equal to five times the creature's Strength score. It can grasp, lift, drop, hold, push, or pull an object or a creature, open or close a door or a container, grapple someone, or make an unarmed strike. The creature's appearance changes. For the duration, it can use an action to change its height, weight, facial features, voice, hair length and coloration, and distinguishing characteristics. It cannot change its size or number of limbs. The creature grows a natural weapon. Unarmed strikes with the weapon deal 1d6 bludgeoning, piercing, or slashing damage as appropriate. The natural weapon is magical and has a +1 bonus to its attack and damage rolls. At Higher Levels. When you cast this spell using a spell slot of 4th level or higher, the natural weapon's bonus increases to +2. When you use a spell slot of 6th level or higher, the natural weapon's bonus increases to +3. Additionally, the target can select one additional option for every two slot levels above 2nd.
 
+## Arcane Lock
+
+## Arcanist's Magic Aura
+
+## Augury
+(ritual)
+
 ## Black Breath
 2nd-­level evocation (No Favour)<br/>
 Casting Time: 1 action<br/>
@@ -66,6 +73,12 @@ You magically link yourself to your familiar to an even greater degree, allowing
 
 If the familiar’s permanent Corruption becomes equal to or higher than its Threshold, it becomes a blight-­born spirit creature and abandons the caster, possibly attacking them as it escapes.
 
+## Blur
+
+## Calm Emotions
+
+## Continual Flame
+
 ## Cure Minor Injury
 2nd-level evocation<br/>
 Casting Time: 1 action<br/>
@@ -74,6 +87,11 @@ Components: V, S<br/>
 Duration: Instantaneous<br/>
 
 Over the course of 6 hours sleep during a Long Rest, this spell mends one temporary injury, or restores 1 wound, or restores 1d4 lost attribute points, or removes one level of exhaustion.
+
+## Darkness
+
+## Detect Thoughts
+(No Favour)
 
 ## ENHANCE ABILITY
 2nd-­level transmutation<br/>
@@ -92,6 +110,8 @@ You touch a creature and bestow upon it a magical enhancement. Choose one of the
 - Owl’s Wisdom. The target has advantage on Wisdom checks.
 
 At Higher Levels. When you cast this spell at 3rd level or higher, you can target one additional creature for each level above 2nd.
+
+## Enlarge/Reduce
 
 ##	Enthrall	| Captivate
 2nd-level enchantment<br/>
@@ -115,7 +135,7 @@ Duration: 24 hours<br/>
 
 You can exchange your Shadow with another creature. If the creature is unwilling, it is able to make a Wisdom saving throw to resist the effect. A successful save prevents the process and alerts the target. A failed saving throw indicates that the swap was successful and the target is unaware of the exchange. Your Shadow appears as the target’s Shadow and their Shadow appears as yours.
 
-## FARAWAY WRITING
+## Faraway Writing
 2nd-­level evocation (ritual)<br/>
 Casting Time: 10 minutes<br/>
 Range: Special<br/>
@@ -123,6 +143,8 @@ Components: V, S, M (a pair of high quality journals, each worth 25 thaler or mo
 Duration: Instantaneous<br/>
 
 When you cast this spell you inscribe a message of 25 words or less, which automatically appears in the other journal as well, as long as it is on the same plane of existence. You can make simple sketches or draw symbols or letters that you do not know the meaning of as part of your message, a simple diagram is equivalent to five to ten words in most cases. The keeper of the other journal must cast this spell themselves in order to respond.
+
+## Find Traps
 
 ## FLAMING SPHERE
 2nd-­level evocation<br/>
@@ -138,6 +160,11 @@ As a bonus action, you can move the sphere up to 30 feet. If you ram the sphere 
 When you move the sphere, you can direct it over barriers up to 5 feet tall and jump it across pits up to 10 feet wide. The sphere ignites flammable objects not being worn or carried, and it sheds bright light in a 20-foot radius and dim light for an additional 20 feet.
 
 At Higher Levels. When you cast this spell at 3rd level or higher, the damage increases by 1d6 for each level above 2nd.
+
+## Gentle Repose
+(ritual)
+
+## Gust of Wind
 
 ##	Heat Metal	| Enkindle
 2nd-level transmutation<br/>
@@ -183,6 +210,13 @@ A single creature that you touch becomes invisible until the spell ends. Anythin
 
 At Higher Levels. When you cast this spell at 3rd level or higher, you can target one additional creature for each level above 2nd.
 
+## Knock
+
+## Lesser Restoration
+
+## Levitate
+(no favour)
+
 ##	Locate Animals or Plants | Find in Nature
 1st-level divination (ritual)<br/>
 Classes: Bard, Druid, Ranger<br/>
@@ -195,6 +229,9 @@ Replaces: Locate Animals or Plants<br/>
 This spell helps you locate a specific kind of beast or plant, which you can either name or describe. You learn the direction and distance to the closest creature or plant of that kind within 1 mile, if any are present.
 
 At Higher Levels. If you cast this spell using a spell slot of 2nd level, the range of the spell increases to 5 miles. If you use a spell slot of 3rd level or higher, the range increases by 5 miles for each slot level above 2nd.
+
+##	Locate Object
+(ritual)
 
 ##	Magic Mouth	| Conjure Herald
 2nd-level conjuration (ritual)<br/>
@@ -221,6 +258,11 @@ You touch a nonmagical weapon. Until the spell ends, that weapon becomes a magic
 
 At Higher Levels. When you cast this spell at 4th level, the bonus increases to +2. When you cast it at 6th level or higher, the bonus increases to +3.
 
+## Mirror Image
+
+## Misty Step
+(no favour)
+
 ## Prayer of Healing
 2nd-­level evocation<br/>
 Casting Time: 10 minutes<br/>
@@ -231,6 +273,8 @@ Duration: Instantaneous<br/>
 Up to six creatures of your choice that you can see within range each regain hit points equal to 2d8 + your spellcasting ability modifier. This spell has no effect on constructs.
 
 At Higher Levels. When you cast this spell at 3rd level or higher, the healing increases by 1d8 for each level above 2nd.
+
+## Protection from Poison
 
 ##	Ray of Enfeeblement |	Curse of Weakness
 2nd-level necromancy<br/>
@@ -245,7 +289,9 @@ Ghastly energy flickers within a 10-foot-radius sphere centered on a point you c
 
 At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher, the radius increases by 5 feet for each slot level above 2nd.
 
-## Scortching Ray
+## Rope Trick
+
+## Scorching Ray
 2nd-­level evocation<br/>
 Casting Time: 1 action<br/>
 Range: 120 feet<br/>
@@ -257,6 +303,8 @@ You create three rays of fire and hurl them at targets within range. You can hur
 Make a ranged spell attack for each ray. On a hit, the target takes 2d6 fire damage.
 
 At Higher Levels. When you cast this spell at 3rd level or higher, you create one additional ray for each level above 2nd.
+
+## See Invisibility
 
 ## Shatter
 2nd-­level evocation<br/>
@@ -271,6 +319,11 @@ A nonmagical object that isn’t being worn or carried also takes the damage if 
 
 At Higher Levels. When you cast this spell at 3rd level or higher, the damage increases by 1d8 for each level above 2nd.
 
+## Silence
+(ritual)
+
+## Spider Climb
+
 ## Spiritual Weapon
 2nd-­level evocation<br/>
 Casting Time: 1 bonus action<br/>
@@ -284,6 +337,9 @@ As a bonus action on your turn, you can move the weapon up to 20 feet and repeat
 
 At Higher Levels. When you cast this spell at 4th level or higher, the damage increases by 1d8 for every two levels above 2nd.
 
+## Suggestion
+(no favour)
+
 ## Tale of Ashes
 2nd-­level divination (ritual)<br/>
 Casting Time: 1 action<br/>
@@ -292,6 +348,10 @@ Components: V, S, M (the ashes of the object)<br/>
 Duration: Instantaneous<br/>
 
 This spell allows a mystic to read the ashes of a burnt object and thereby discern what the object once was and what happened when it burned – the mystic experiences all impressions from the fire, sees who was there and hears what was being said. A campfire can have much to tell about what happened around it.
+
+## Warding Bond
+
+## Web
 
 ## Zone of Truth | Aura of Truth
 2nd-level enchantment<br/>
