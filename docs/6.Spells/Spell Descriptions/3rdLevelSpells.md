@@ -10,7 +10,7 @@ Duration: Concentration, up to 1 hour<br>
 This spell blocks harmful magics. While in effect you have advantage on saving throws against magical effects and resistance to damage from spells.
 
 ## Animate Dead	| Reanimation
-3rd-level necromancy<br>
+3rd-level necromancy (No Favour)<br>
 Classes: Cleric, Wizard<br>
 Casting Time: 1 minute<br>
 Range: 10 feet<br>
@@ -60,7 +60,7 @@ slot of 4th level or higher, the amount of Hit Dice a creature
 can spend increases by 1 for each slot level above 3rd.
 
 ## BESTOW CURSE*
-3rd-­level necromancy<br>
+3rd-­level necromancy (No Favour)<br>
 Casting Time: 1 action<br>
 Range: Touch<br>
 Components: V, S<br>
@@ -89,7 +89,7 @@ Roll a d20 at the end of each of your turns for the duration of the spell. On a 
 While in the Yonderworld, you can see and hear the place you originated from, which is cast in translucent shades of gray, and you can’t see anything there more than 60 feet away. You can only affect and be affected by other creatures in the Yonderworld. Creatures that aren’t there can’t perceive you or interact with you, unless they have the ability to do so.
 
 ## COUNTERSPELL*
-3rd-­level abjuration<br>
+3rd-­level abjuration (No Favour)<br>
 Casting Time: 1 reaction (when a creature within range casts a spell)<br>
 Range: 60 feet<br>
 Components: S<br>
@@ -100,7 +100,7 @@ You attempt to interrupt a creature in the process of casting a spell. If the cr
 At Higher Levels. When you cast this spell at 4th level or higher, the interrupted spell has no effect if its level is less than or equal to the level of the counterspell you cast.
 
 ## DISPEL MAGIC*
-3rd-­level abjuration<br>
+3rd-­level abjuration (No Favour)<br>
 Casting Time: 1 action<br>
 Range: 120 feet<br>
 Components: V, S<br>
@@ -111,7 +111,7 @@ Choose one creature, object, or magical effect within range. Any spell of 3rd le
 At Higher Levels. When you cast this spell at 4th level or higher, you automatically end the effects of a spell on the target if the spell’s level is equal to or less than the level at which you cast dispel magic.
 
 ##	Fireball	| Fireblast
-3rd-level evocation<br>
+3rd-level evocation (No Favour)<br>
 Classes: Sorcerer, Wizard<br>
 Casting Time: 1 action<br>
 Range: 120 feet<br>
@@ -141,7 +141,7 @@ Duration: 8 hours<br>
 You summon a creature of living fire to occupy a suit of armor that you provide. The summoned creature remains within 30 feet of you at all times and follows your commands. It shares your initiative count and you can use your bonus action to command it to take an action, such as attack a target. It can suppress its fiery nature to interact with objects normally or you can command it to use its action to set unattended flammable objects alight. If it is destroyed then you cannot summon the creature again until the next day.[Flaming Servant](https://skroxiousdm.github.io/SkroxiousDM/6.Spells/Spell%20Descriptions/SpellBeastiary#flaming-servant)
 
 ## FLY*
-3rd-­level transmutation<br>
+3rd-­level transmutation (No Favour)<br>
 Casting Time: 1 action<br>
 Range: Touch<br>
 Components: V, S, M (a wing feather from any bird)<br>
@@ -196,7 +196,7 @@ On a successful melee spell attack, the victim is infected with larvae. At the e
 At Higher Levels. If cast at 4th level, the victim takes 1d6 piercing damage on the first round, which increases each subsequent round, to a total of 1d12 piercing damage per round. At 5th level, the damage starts off at 1d8 on the first round, then at 6th level it starts at 1d10 piercing damage, and at 7th level it starts at 1d12 piercing damage.
 
 ##	Lightning Bolt	| Lightning Beam
-3rd-level evocation<br>
+3rd-level evocation (No Favour)<br>
 Classes: Sorcerer, Wizard<br>
 Casting Time: 1 action<br>
 Range: Self (100-foot line)<br>
@@ -260,7 +260,7 @@ Physical interaction with the image reveals it to be an illusion, because things
 At Higher Levels. When you cast this spell at 6th level or higher, the spell lasts until dispelled, without requiring your concentration.
 
 ## MASS HEALING WORD*
-3rd-­level evocation<br>
+3rd-­level evocation (No Favour)<br>
 Casting Time: 1 bonus action<br>
 Range: 60 feet<br>
 Components: V<br>
@@ -282,7 +282,7 @@ You prepare yourself with songs and prayers before climbing onto a burning pyre 
 You cannot cast this spell for anyone else, only you may benefit from it.
 
 ## SPIRIT GUARDIANS*
-3rd-­level conjuration<br>
+3rd-­level conjuration (No Favour)<br>
 Casting Time: 1 action<br>
 Range: Self<br>
 Components: V, S, M (a holy symbol)<br>
