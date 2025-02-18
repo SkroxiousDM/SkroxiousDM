@@ -52,6 +52,145 @@ bonus is equal to your spell attack modifier. An object usually
 deals bludgeoning damage, but the DM might rule it inflicts
 slashing or piercing based on its form.
 
+## Dispel Evil and Good	| Sacred Circle
+5th-level abjuration<br>
+Classes: Cleric, Paladin<br>
+Casting Time: 1 action<br>
+Range: 60 feet<br>
+Components: V, S, M (a piece of turquoise mounted in silver)<br>
+Duration: Concentration, up to 10 minutes<br>
+Replaces: Dispel Evil and Good<br>
+
+You create a 60-foot radius, 120-foot-tall cylinder of
+resonating planar energy centered on a point on the ground
+that you can see within range. Until the spell ends,
+aberrations, celestials, elementals, fey, fiends, and undead
+have disadvantage on attack rolls against three creatures of
+your choice within the cylinder.
+
+As an action, you may remove any charm, fear, or
+possession effects caused by creatures of those types from a
+creature of your choice within the cylinder.
+Additionally, you can choose whether to allow or block
+teleportation, interplanar travel, or creatures being
+summoned within the cylinder.
+
+## 	Legend Lore	| Unearth Legend
+5th-level divination (ritual)<br>
+Classes: Bard, Cleric, Wizard<br>
+Casting Time: 10 minutes<br>
+Range: Self<br>
+Components: V, S, M (rare gems worth at least 250 gp,
+which the spell consumes, and a jeweled notebook worth at
+least 200 gp)<br>
+Duration: 1 week<br>
+Replaces: Legend Lore<br>
+
+You contact an otherworldly entity, offering it the gems used
+in the spell's casting in exchange for the history of a person,
+place, or object. The entity tells you everything it knows about
+the subject (typically well-known lore or widely-told stories).
+After it is contacted, the entity researches the subject for up
+to 1 week. Its discoveries appear as writing in the jeweled
+notebook. It might learn obscure myths, forgotten legends, or
+even lost secrets. The more information you possess when
+you cast the spell, the faster and more detailed the results will
+be. The entity may not understand the information it finds,
+and so might impart unsolved riddles, confusing poems, or
+other puzzling communications. Once the entity has
+conveyed everything it can discover, the spell ends.
+
+##	Mislead	| Misdirection
+5th-level illusion<br>
+Classes: Bard, Wizard<br>
+Casting Time: 1 action or 1 reaction, which you take when you are hit by an attack<br>
+Range: Self<br>
+Components: S<br>
+Duration: Concentration, up to 10 minutes<br>
+Replaces: Mislead<br>
+
+As an action, or as a reaction when you are hit by an attack,
+you become invisible and hidden and create an illusory
+double of yourself in your space. The double can move at
+your speed, can gesture or speak as you choose, and mimics
+any action you take (your attacks or spells appear to originate
+from the double). The double has the same armor class as you.
+
+Any time a creature would damage the double, or perceives
+the double making an attack or casting a spell, it makes an
+Intelligence (Investigation) check against your spell save DC.
+If the check succeeds, it realizes the double is an illusion and
+you are no longer invisible to that creature.
+
+As an action, you can use the double's senses instead of
+your own until you use your action to return to your normal
+senses. While you do so, you are blinded and deafened to
+your own surroundings.
+
+##	Telekinesis	| Psychokinesis
+5th-level transmutation<br>
+Classes: Sorcerer, Wizard<br>
+Casting Time: 1 action<br>
+Range: 60 feet<br>
+Components: V, S<br>
+Duration: Concentration, up to 10 minutes<br>
+Replaces: Telekinesis<br>
+
+You attempt to mentally manipulate a creature or object you
+can see within range. When you cast the spell, you can cause
+one of the following effects.
+
+Creature. You attempt to move a Huge or smaller
+creature, including yourself. The creature must make a
+Strength saving throw. A creature can willingly fail this
+save. On a failed save, you move the creature up to 30 feet
+in any direction within the spell's range. You may restrain
+the creature until the end of your next turn.
+
+Object. You attempt to move an object that weighs up to
+1,000 pounds and can exert fine control on it. If the object
+isn't being worn or carried, you move it up to 30 feet in any
+direction within the spell's range. If the object is worn or
+carried by a creature, the creature must make a Strength
+saving throw. On a failed save, you pull the object away
+from that creature and can move it up to 30 feet in any
+direction within the spell's range.
+
+A creature or object moved into mid-air will hover.
+On each of your turns after you cast this spell, you can use
+an action to attempt to continue the effect or choose a new
+target. You can only affect one object or creature at a time.
+
+##	Wall of Force	| Arcane Wall
+5th-level evocation<br>
+Classes: Wizard<br>
+Casting Time: 1 action<br>
+Range: 120 feet<br>
+Components: V, S, M (a pinch of powdered gemstone)<br>
+Duration: Concentration, up to 10 minutes<br>
+Replaces: Wall of Force
+
+An invisible wall of force springs into existence at a point you
+choose within range. The wall appears in any orientation you
+choose, as a horizontal or vertical barrier or at an angle. It
+can be free floating or resting on a solid surface. You can
+form it into a hemispherical dome or a sphere with a radius
+of up to 10 feet, or you can shape a flat surface made up of
+ten 10-foot-by-10-foot panels. Each panel must be contiguous
+with another panel. In any form, the wall is 1/4 inch thick. It
+lasts for the duration. If the wall cuts through a creature's
+space when it appears, the creature is pushed to one side of
+the wall (your choice which side).
+
+Nothing can physically pass through the wall. Each panel
+has an AC of 10 + the spell's level (15) and has 20 hit points
+per level of spell (100). The wall can't be dispelled by dispel
+magic, and is immune to psychic and nonmagical
+bludgeoning, piercing, and slashing damage. A disintegrate
+spell destroys the wall instantly, however. The wall also
+extends into the Ethereal Plane, blocking ethereal travel
+through the wall.
+
 ## ARCANE HAND
 5th-­level evocation<br>
 Casting Time: 1 action<br>
@@ -181,15 +320,26 @@ Duration: 1 hour<br>
 Your eyes glow with a red light and you become extraordinarily hot to the touch. Creatures that touch you or attack you from within five feet take 6 (1d12) fire damage. You are immune to fire damage and the first time you take fire damage you instead regain hit points equal to half the damage you would have taken, rounded down.
 
 ## Flame Strike	| Holy Fire
-5th-­level evocation<br>
+5th-level evocation<br>
+Classes: Cleric<br>
 Casting Time: 1 action<br>
-Range: 60 ft.<br>
-Components: V, S, M (pinch of sulfur)<br>
+Range: 60 feet<br>
+Components: V, S, M (a pinch of ash from burnt incense)<br>
 Duration: Instantaneous<br>
+Replaces: Flame Strike<br>
 
-A vertical column of divine fire roars down from the heavens in a location you specify. Each creature in a 10-foot-­radius, 40-foot-­high cylinder centered on a point within range must make a Dexterity saving throw. A creature takes 4d6 fire damage and 4d6 radiant damage on a failed save, or half as much damage on a successful one.
+A column of holy fire roars down from the heavens to smite
+your foes, striking all creatures within a 40-foot high, 10-foot
+radius cylinder. When you cast this spell, choose if it deals
+radiant damage, fire damage, or both. All creatures within the
+cylinder must make a Dexterity saving throw. A creature
+takes 8d8 damage of the chosen type (4d8 of each type if both
+were selected) on a failed save, or half as much on a success.
 
-At Higher Levels. When you cast this spell at 6th level or higher, the fire damage or the radiant damage (your choice) increases by 1d6 for each level above 5th.
+Targets gain no benefit from cover for this saving throw.
+At Higher Levels. When you cast this spell using a spell
+slot of 7th level or higher, the damage increases by 2d8 (or
+1d8 of each type) for each two slot levels above 5th.
 
 ##	Geas	| Injunction
 5th-level enchantment<br>
