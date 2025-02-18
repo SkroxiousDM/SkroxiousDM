@@ -185,20 +185,20 @@ When you inscribe the glyph, choose explosive runes or a spell glyph.
 At Higher Levels. When you cast this spell at 4th level or higher, the damage of an explosive runes glyph increases by 1d8 for each level above 3rd. If you create a spell glyph, you can store any spell of up to the same level as you use for the glyph of warding.
 
 ## JUDGING BONDS
-3rd-­level enchantment (ritual)
-Casting Time: 1 action
-Range: Touch
-Components: V, S
-Duration: 1 month
+3rd-­level enchantment (ritual)<br>
+Casting Time: 1 action<br>
+Range: Touch<br>
+Components: V, S<br>
+Duration: 1 month<br>
 
 You allow pacifying light to flow through the chains or shackles holding a person. This prevents that person from using mystical powers and provides disadvantage on Strength and Dexterity checks and saving throws while bound.
 
 ## LARVAE BOIL
-3rd-­level conjuration
-Casting Time: 1 action
-Range: Touch
-Components: V, S, M (a live wasp)
-Duration: Concentration, up to 1 minute
+3rd-­level conjuration<br>
+Casting Time: 1 action<br>
+Range: Touch<br>
+Components: V, S, M (a live wasp)<br>
+Duration: Concentration, up to 1 minute<br>
 
 Drawing from the force of wrath you can infuse an enemy’s body with larvae that then start to eat their way out. Although it is loudly refuted by members of the court, persistent rumors say that this is how the hero king Ynedar met his demise.
 
@@ -236,11 +236,11 @@ slot of 4th level or higher, the damage increases by 1d12 for
 each slot level above 3rd.
 
 ## MAGIC CIRCLE
-3rd-­level abjuration
-Casting Time: 1 action
-Range: 15 feet
-Components: V, S, M (holy water or powdered silver and iron worth at least 50 thaler, which the spell consumes)
-Duration: Concentration, up to 1 hour
+3rd-­level abjuration<br>
+Casting Time: 1 action<br>
+Range: 15 feet<br>
+Components: V, S, M (holy water or powdered silver and iron worth at least 50 thaler, which the spell consumes)<br>
+Duration: Concentration, up to 1 hour<br>
 
 You draw a 10-foot radius circular glyph upon the ground,
 which projects a 30-foot-tall cylinder of power upward. Glowing runes appear wherever the cylinder intersects with the floor or another surface. Choose one option: a) A mystic that knows the pattern to a permanent teleportation circle may communicate telepathically with the attendant of that circle (see The Chapter Circles of Ordo Magica below). Or b) Select one of the following creature types when you draw the glyph:
@@ -256,11 +256,11 @@ Each chapter of Ordo Magica has a permanent teleportation circle and these are m
 Telepathy is the transmission of direct thought, with no opportunity for subtlety or dissembling, so wizards are generally reluctant to overuse telepathic communication, especially with mystics they do not know very well. Even with trusted colleagues, transmissions are kept as short as possible – on the crowded career ladder of Ordo Magica there is no room to give even a close friend any competitive advantage, if you can avoid it.
 
 ## MAJOR IMAGE
-3rd-­level illusion
-Casting Time: 1 action
-Range: 120 feet
-Components: V, S, M (a bit of fleece)
-Duration: Concentration, up to 10 minutes
+3rd-­level illusion<br>
+Casting Time: 1 action<br>
+Range: 120 feet<br>
+Components: V, S, M (a bit of fleece)<br>
+Duration: Concentration, up to 10 minutesv
 
 You create the image of an object, a creature, or some other visible phenomenon that is no larger than a 20-foot cube. The image appears at a spot that you can see within range and lasts for the duration. It seems completely real, including sounds, smells, and temperature appropriate to the thing depicted. You can’t create sufficient heat or cold to cause damage, a sound loud enough to deal thunder damage or deafen a creature, or a smell that might sicken a creature (like a troglodyte’s stench).
 
@@ -271,33 +271,33 @@ Physical interaction with the image reveals it to be an illusion, because things
 At Higher Levels. When you cast this spell at 6th level or higher, the spell lasts until dispelled, without requiring your concentration.
 
 ## MASS HEALING WORD*
-3rd-­level evocation
-Casting Time: 1 bonus action
-Range: 60 feet
-Components: V
-Duration: Instantaneous
+3rd-­level evocation<br>
+Casting Time: 1 bonus action<br>
+Range: 60 feet<br>
+Components: V<br>
+Duration: Instantaneous<br>
 
 As you call out words of restoration, up to six creatures of your choice that you can see within range regain hit points equal to 1d4 + your spellcasting ability modifier. This spell has no effect on constructs.
 
 At Higher Levels. When you cast this spell at 4th level or higher, the healing increases by 1d4 for each level above 3rd.
 
 ## PURGING FIRE
-3rd-­level evocation (ritual)
-Casting Time: 8 hours
-Range: Self
-Components: V, S, M (holy incense, 50 thaler worth)
-Duration: Concentration, up to 1 minute
+3rd-­level evocation (ritual)<br>
+Casting Time: 8 hours<br>
+Range: Self<br>
+Components: V, S, M (holy incense, 50 thaler worth)v
+Duration: Concentration, up to 1 minute<br>
 
 You prepare yourself with songs and prayers before climbing onto a burning pyre to cleanse your body of Corruption. Each round you remain in the fire you take 1d12 fire damage. If you do not lose concentration on the spell, you reduce your permanent Corruption by 1 point. You must take damage in order to reduce your Corruption. Thus you can remove up to 10 points of permanent Corruption if you remain in the pyre for the duration.
 
 You cannot cast this spell for anyone else, only you may benefit from it.
 
 ## SPIRIT GUARDIANS*
-3rd-­level conjuration
-Casting Time: 1 action
-Range: Self
-Components: V, S, M (a holy symbol)
-Duration: Concentration, up to 10 minutes
+3rd-­level conjuration<br>
+Casting Time: 1 action<br>
+Range: Self<br>
+Components: V, S, M (a holy symbol)<br>
+Duration: Concentration, up to 10 minutes<br>
 
 You call forth spirits to protect you. They flit around you to a distance of 15 feet for the duration. If you are blight-­stricken or uncorrupted, their spectral form appears angelic or fey (your choice). If you are blight-­marked, they appear fiendish.
 
@@ -306,11 +306,11 @@ When you cast this spell, you can designate any number of creatures you can see 
 At Higher Levels. When you cast this spell at 4th level or higher, the damage increases by 1d8 for each level above 3rd.
 
 ## SUMMON DAEMON
-3rd-­level conjuration (ritual)
-Casting Time: 10 minutes
-Range: Self
-Components: V, S, M (candles, dagger and golden bowl)
-Duration: Special
+3rd-­level conjuration (ritual)<br>
+Casting Time: 10 minutes<br>
+Range: Self<br>
+Components: V, S, M (candles, dagger and golden bowl)<br>
+Duration: Special<br>
 
 You summon an abomination from the Yonderworld, a daemon. The creature resists your control and you must make a contested Charisma check to keep it under your control. If you fail and the daemon was not summoned into an inverted magic circle, the daemon is free to do as it likes (including attacking you or your allies) and is free to roam until it chooses to return to the Yonderworld (which it can do as an action) or it is destroyed. If it is trapped in an inverted magic circle it instead cannot move and returns to the Yonderworld at the end of the magic circle’s duration. You can talk to the daemon during this time, but it is under no compulsion to speak or to give you truthful answers.
 
