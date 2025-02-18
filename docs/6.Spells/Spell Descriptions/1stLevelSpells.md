@@ -28,7 +28,7 @@ You summon some measure of the darkness that plagues your soul and send it outwa
 
 At Higher Levels. When you cast this spell at 2nd level or higher, you can target one additional creature for each level above 1st.
 
-## Bless.md
+## Bless
 
 
 ## Burning Hands | Cone of Flame
@@ -45,16 +45,16 @@ The flames ignite any flammable objects in the area that aren't being worn or ca
 At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 and the range of the cone increases by 5 feet for each slot level above 1st.
 
 
-## Charm Person.md
+## Charm Person
 (No Favour)
 
 ## Command.md
 (No Favour)
 
-## Create or Destroy Water.md
+## Create or Destroy Water
 
 
-## Cure Wounds.md
+## Cure Wounds
 (No Favour)
 
 ## Detect Evil and Good | Detect Otherworldly Influence
@@ -68,25 +68,25 @@ Replaces: Detect Evil and Good<br/>
 You sense the presence of unnatural or extraplanar creatures. The spell reveals the existence of any aberrations, celestials, elementals, fey, fiends, or undead within 30 feet of you, as well as their locations. You also have advantage on any Wisdom (Perception) or Wisdom (Insight) checks against such creatures. The spell is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
 
 
-## False Life.md
+## False Life
 (No Favour)
 
-## Fog Cloud.md
+## Fog Cloud
 
 
-## Guiding Bolt.md
+## Guiding Bolt
 
 
-## Healing Word.md
+## Healing Word
 (No Favour)
 
-## Hellish Rebuke.md
+## Hellish Rebuke
 (No Favour)
 
-## Heroism.md
+## Heroism
 
 
-## Holy Smoke.md
+## Holy Smoke
 1st-level divination (ritual only)<br/>
 Casting Time: 1 action<br/>
 Range: 10 feet<br/>
@@ -134,19 +134,19 @@ expensive ink lasts an additional day for each 1gp spent; if
 100gp worth of magical ink is used, the duration becomes
 permanent.
 
-## Inflict Wounds.md
+## Inflict Wounds
 (No Favour)
 
-## Longstrider.md
+## Longstrider
 
 
-## Mage Armor.md
+## Mage Armor
 
 
-## Magic Missile.md
+## Magic Missile
 (No Favour)
 
-## Protection from Evil and Good.md
+## Protection from Evil and Good
 (No Favour)
 
 ##	Shield	| Deflect
@@ -171,7 +171,7 @@ AC) increases by 1 for every two slot levels above 1st (for
 example, when cast with a 5th level spell slot, you have a +7
 bonus to AC, to a maximum of 23 AC).
 
-## Sleep.md
+## Sleep
 
 ##	Speak With Animals/Plants	| Speak with Nature
 1st-level divination (ritual)
@@ -217,5 +217,5 @@ You remain in the Border Ethereal for the duration or until you use your action 
 
 The spell ends for you when you use your action to dismiss it. The spell might also end early. A successful dispel magic spell used against your spirit form or material body ends the spell. If your material body or your spirit form drops to 0 hit points, the spell ends. If the spell ends and the silver cord is intact, the cord pulls the your spirit form back to your material body, and you awaken.
 
-## Thunderwave.md
+## Thunderwave
 
