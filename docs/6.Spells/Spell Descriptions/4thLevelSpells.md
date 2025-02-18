@@ -157,38 +157,6 @@ There are gaps between reality and our perception of it. By casting this spell, 
 
 At the end of your turn if you have used your reaction since your previous turn, you must make a spellcasting ability check to keep track of the differences between your personal reality and that which others perceive. The DC starts at 5 and increases each time by 5. If you fail the check the spell immediately ends (you cannot use your reaction to reroll).
 
-##	Geas	| Injunction
-5th-level enchantment<br>
-Classes: Bard, Cleric, Druid, Paladin, Wizard<br>
-Casting Time: 1 minute<br>
-Range: 60 feetv
-Components: V<br>
-Duration: 30 days<br>
-Replaces: Geas<br>
-
-You magically bind a creature that can understand you within
-range to either complete or abstain from some action or
-activity. It must succeed on a Wisdom saving throw or
-become charmed by you for the duration. Once per turn while
-charmed in this way, the target's current and maximum hit
-points are reduced by 5d10 if its behavior contradicts your
-instructions. This reduction lasts until the spell ends.
-You can issue any command you choose, though the spell
-ends if you issue a suicidal command. The creature's death
-does not end the spell.
-
-As an action, you can end the spell early. Remove curse
-cast at the spell's level also ends the spell. Greater restoration
-ends the reduction of the target's hit point maximum, but it
-does not end the spell.
-
-At Higher Levels. The spell reduces maximum hit points
-by an additional 1d10 for each slot level above 5th. When you
-cast this spell using a spell slot of 7th or 8th level, the
-duration is 1 year. When you cast this spell using a spell slot
-of 9th level, the spell lasts until it is ended by one of the spells
-mentioned above.
-
 ## LIFEGIVER
 4th-­level evocation (ritual)<br>
 Casting Time: 1 hour<br>
