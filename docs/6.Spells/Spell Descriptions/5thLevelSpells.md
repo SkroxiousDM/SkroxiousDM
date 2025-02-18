@@ -1,9 +1,7 @@
-
 # 5th Level Spells
 
 ## Animate Objects |	Command Objects
 5th-level transmutation<br>
-Classes: Bard, Sorcerer, Wizard<br>
 Casting Time: 1 action<br>
 Range: 60 feet<br>
 Components: V, S<br>
@@ -54,7 +52,6 @@ slashing or piercing based on its form.
 
 ## Dispel Evil and Good	| Sacred Circle
 5th-level abjuration<br>
-Classes: Cleric, Paladin<br>
 Casting Time: 1 action<br>
 Range: 60 feet<br>
 Components: V, S, M (a piece of turquoise mounted in silver)<br>
@@ -77,7 +74,6 @@ summoned within the cylinder.
 
 ## 	Legend Lore	| Unearth Legend
 5th-level divination (ritual)<br>
-Classes: Bard, Cleric, Wizard<br>
 Casting Time: 10 minutes<br>
 Range: Self<br>
 Components: V, S, M (rare gems worth at least 250 gp,
@@ -102,7 +98,6 @@ conveyed everything it can discover, the spell ends.
 
 ##	Mislead	| Misdirection
 5th-level illusion<br>
-Classes: Bard, Wizard<br>
 Casting Time: 1 action or 1 reaction, which you take when you are hit by an attack<br>
 Range: Self<br>
 Components: S<br>
@@ -129,7 +124,6 @@ your own surroundings.
 
 ##	Telekinesis	| Psychokinesis
 5th-level transmutation<br>
-Classes: Sorcerer, Wizard<br>
 Casting Time: 1 action<br>
 Range: 60 feet<br>
 Components: V, S<br>
@@ -163,7 +157,6 @@ target. You can only affect one object or creature at a time.
 
 ##	Wall of Force	| Arcane Wall
 5th-level evocation<br>
-Classes: Wizard<br>
 Casting Time: 1 action<br>
 Range: 120 feet<br>
 Components: V, S, M (a pinch of powdered gemstone)<br>
@@ -271,7 +264,7 @@ The duration depends on the object’s material. If the object is composed of mu
 
 At Higher Levels. When you cast this spell at 6th level or higher, the cube increases by 5 feet for each level above 5th.
 
-## Dispel Evil and Good	Sacred Circle
+## Dispel Evil and Good	| Sacred Circle
 5th-­level abjuration<br>
 Casting Time: 1 action<br>
 Range: 120 ft.<br>
@@ -321,7 +314,6 @@ Your eyes glow with a red light and you become extraordinarily hot to the touch.
 
 ## Flame Strike	| Holy Fire
 5th-level evocation<br>
-Classes: Cleric<br>
 Casting Time: 1 action<br>
 Range: 60 feet<br>
 Components: V, S, M (a pinch of ash from burnt incense)<br>
@@ -343,7 +335,6 @@ slot of 7th level or higher, the damage increases by 2d8 (or
 
 ##	Geas	| Injunction
 5th-level enchantment<br>
-Classes: Bard, Cleric, Druid, Paladin, Wizard<br>
 Casting Time: 1 minute<br>
 Range: 60 feetv
 Components: V<br>
