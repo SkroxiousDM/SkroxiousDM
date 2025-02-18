@@ -1,7 +1,7 @@
 <html>
 <body>
     <header>
-    <h1> SkroxiousDM Homebrew Rules </h1>
+    <h1> Ruins of Symbaroum X Curse of Strahd </h1>
   </header>
     <aside>
       <h2>Navigation</h2>
@@ -12,8 +12,10 @@
         <li><a href="https://skroxiousdm.github.io/SkroxiousDM/6.Spells/Spell%20Lists/0%20Spell%20Lists">Spell Lists </a></li>
         <li><a href="https://skroxiousdm.github.io/SkroxiousDM/4.Feats/General%20Feats">General Feats </a></li>
         <li><a href="https://skroxiousdm.github.io/SkroxiousDM/4.Feats/Class%20Feats">Class Feats </a></li>
-     <li><a href="https://skroxiousdm.github.io/SkroxiousDM/5.Equipment/equipment">Equipment </a></li>
-    </ul>
+        <li><a href="https://skroxiousdm.github.io/SkroxiousDM/5.Equipment/equipment">Equipment </a></li>
+        <li><a href="https://skroxiousdm.github.io/SkroxiousDM/RoS-CoS-RRL/Recap/IreenasJournal">Ireena's Journal </a></li>
+        <li><a href="https://skroxiousdm.github.io/SkroxiousDM/1.%20Start%20Here/Player%20primer">Player Primer </a></li>
+      </ul>
     </aside>
     <main>
          <p> Hey I'm SkroxiousDM, here in this collection of pages are a bunch of Homebrew rules I use in my 5e games.</p> 
