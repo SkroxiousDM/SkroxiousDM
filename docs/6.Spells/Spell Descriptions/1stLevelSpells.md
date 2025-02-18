@@ -102,7 +102,26 @@ The spell reveals the existence of any aberrations, celestials, elementals, fey,
 (No Favour)
 
 ##	Shield	| Deflect
+1st-level abjuration<br/>
+Classes: Sorcerer, Wizard<br/>
+Casting Time: 1 reaction, which you take when you are hit
+by an attack or targeted by the magic missile spell<br/>
+Range: Self<br/>
+Components: V, S<br/>
+Duration: 1 round<br/>
+Replaces: Shield<br/>
 
+A transparent sphere of arcane force appears, averting
+incoming attacks. Until the start of your next turn, you have a
++5 bonus to AC, to a maximum of 21 AC, including against
+the triggering attack, and you take no damage from magic
+missile.
+
+At Higher Levels. When you cast this spell using a spell
+slot of 3rd level or higher, the bonus to AC (and the maximum
+AC) increases by 1 for every two slot levels above 1st (for
+example, when cast with a 5th level spell slot, you have a +7
+bonus to AC, to a maximum of 23 AC).
 
 ## Sleep.md
 
