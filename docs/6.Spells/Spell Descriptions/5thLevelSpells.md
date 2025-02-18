@@ -1,8 +1,7 @@
 
 # 5th Level Spells
 
-## ANIMATE OBJECTS
-
+## Animate Objects	Command Objects
 5th-­level transmutation
 
 Casting Time: 1 action
@@ -150,19 +149,12 @@ The duration depends on the object’s material. If the object is composed of mu
 
 At Higher Levels. When you cast this spell at 6th level or higher, the cube increases by 5 feet for each level above 5th.
 
-## DISPEL EVIL AND GOOD*
-
+## Dispel Evil and Good	Sacred Circle
 5th-­level abjuration
-
 Casting Time: 1 action
-
 Range: 120 ft.
-
 Components: V, S, M (holy water or powdered silver and iron)
-
 Duration: Concentration, up to 1 minute
-
-@Compendium[symbaroum5eplayersguide.ros-pg-spells.o0ROO26mNKevlhXc]{Dispel Evil and Good}
 
 Shimmering energy surrounds and protects you from abominations, celestials, elementals, fey, fiends, or phenomenons, providing disadvantage on their attack rolls against you.
 
@@ -171,18 +163,11 @@ You can end the spell early by using the following special function:
 - Break Enchantment. As your action, you touch a creature you can reach that is charmed, frightened, or possessed by an abomination, a celestial, an elemental, a fey, or a fiend. The creature you touch is no longer charmed, frightened, or possessed by such creatures.
 
 ## DOMINATE PERSON*
-
 5th-­level enchantment
-
 Casting Time: 1 action
-
 Range: 60 ft.
-
 Components: V, S
-
 Duration: Concentration, up to 1 minute
-
-@Compendium[symbaroum5eplayersguide.ros-pg-spells.1kT0DjUzkv3MUXjJ]{Dominate Person}
 
 You attempt to beguile a humanoid that you can see within range. It must succeed on a Wisdom saving throw or be charmed by you for the duration. If you or creatures that are friendly to you are fighting it, it has advantage on the saving throw.
 
@@ -195,56 +180,35 @@ Each time the target takes damage, it makes a new Wisdom saving throw against th
 At Higher Levels. When you cast this spell at 6th-­level, the duration is concentration, up to 10 minutes. When you cast at 7th-­level, the duration is concentration, up to 1 hour. When you cast the spell at 8th level or higher, the duration is concentration, up to 8 hours.
 
 ## EXORCISM
-
 5th-­level transmutation, ritual
-
 Casting Time: 1 hour
-
 Range: 30 feet
-
 Components: V, S, M (sprinkler of holy water)
-
 Duration: Instantaneous
-
-@Compendium[symbaroum5eplayersguide.ros-pg-spells.RNOpk0FGq5qIu7kw]{Exorcism}
 
 You call out to Prios to purge the immediate area of any creature that is not native to the material world and anoint everything else with his holy water. At the end of the casting time, each extraplanar creature must make a Wisdom saving throw. If you can see the creature as you cast the spell (for example it is trapped within a magic circle or otherwise confined) then it has disadvantage on its saving throw. An exorcised creature cannot return to the material world until at least 24 hours have passed.
 
 ## FIRE SOUL
-
 5th-­level transmutation, ritual
-
 Casting Time: 10 minutes
-
 Range: Self
-
 Components: V, S, M (pinch of ash)
-
 Duration: 1 hour
-
-@Compendium[symbaroum5eplayersguide.ros-pg-spells.jyRdZpt3bgT0nNZE]{Fire Soul}
 
 Your eyes glow with a red light and you become extraordinarily hot to the touch. Creatures that touch you or attack you from within five feet take 6 (1d12) fire damage. You are immune to fire damage and the first time you take fire damage you instead regain hit points equal to half the damage you would have taken, rounded down.
 
-## FLAME STRIKE*
-
+## Flame Strike	| Holy Fire
 5th-­level evocation
-
 Casting Time: 1 action
-
 Range: 60 ft.
-
 Components: V, S, M (pinch of sulfur)
-
 Duration: Instantaneous
-
-@Compendium[symbaroum5eplayersguide.ros-pg-spells.GYjF1BofAD66I1C4]{Flame Strike}
 
 A vertical column of divine fire roars down from the heavens in a location you specify. Each creature in a 10-foot-­radius, 40-foot-­high cylinder centered on a point within range must make a Dexterity saving throw. A creature takes 4d6 fire damage and 4d6 radiant damage on a failed save, or half as much damage on a successful one.
 
 At Higher Levels. When you cast this spell at 6th level or higher, the fire damage or the radiant damage (your choice) increases by 1d6 for each level above 5th.
 
-## GEAS*
+## Geas |	Injunction
 
 5th-­level enchantment
 
@@ -255,8 +219,6 @@ Range: 60 ft.
 Components: V
 
 Duration: 30 days
-
-@Compendium[symbaroum5eplayersguide.ros-pg-spells.XmmRdDTtx84xMbz1]{Geas}
 
 You place a magical command on a creature that you can see within range, forcing it to carry out some service or refrain from some action or activity as you decide. If the creature can understand you, it must succeed on a Wisdom saving throw or become charmed by you for the duration. While the creature is charmed by you, it takes 5d10 psychic damage each time it acts in a manner directly counter to your instructions, but no more than once each day. A creature that can’t understand you is unaffected by the spell.
 
