@@ -1,6 +1,6 @@
 # Dramatis Personae:
-
-#Durst Manor
+~~----------------------------------------------------~~
+# Durst Manor
 ### The Dursts: 
 Elizabeth, Gustav, Rosavalda, Thornboldt and Walter. Wealthy barovian merchants who owned a windmill.
 · Elizabeth went mad during Gustav’s affair with a nursemaid Klara, killing him, torturing her, turning their son into a flesh monster, and starving Rose and Thorn to death as she led a cannabilistic cult in their mansion.
