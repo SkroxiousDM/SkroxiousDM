@@ -4,7 +4,7 @@
 ### The Dursts: 
 Elizabeth, Gustav, Rosavalda, Thornboldt and Walter. Wealthy barovian merchants who owned a windmill.
 · Elizabeth went mad during Gustav’s affair with a nursemaid Klara, killing him, torturing her, turning their son into a flesh monster, and starving Rose and Thorn to death as she led a cannabilistic cult in their mansion.
-#Village of Barova
+# Village of Barova
 ### Ismark Kolyanovich 
 – Burgomaster of Barovia
 · Known as the lesser, a slight against him comparing him to his ancestor Ismark the Great
@@ -22,12 +22,13 @@ Elizabeth, Gustav, Rosavalda, Thornboldt and Walter. Wealthy barovian merchants 
 – Doru's betrothed, currently missing, presumed to have gone to the castle
 ### Mary 
 – Gertruda's mother
+### Rudolph Van Richten 
+– A famous monster hunter who aided the revolt. Current whereabouts unknown
+
 # Tser Pool Encampment
 ### Madam Eva 
 – A fortune teller who visited you in a dream asking you to see her at Tser Pool
 
-### Rudolph Van Richten 
-– A famous monster hunter who aided the revolt. Current whereabouts unknown
 #Town of Vallaki 
 ## Blue Water Inn
 ### Urwin Martikov
@@ -47,21 +48,27 @@ Elizabeth, Gustav, Rosavalda, Thornboldt and Walter. Wealthy barovian merchants 
 ### Erasmus
 ## Blinsky Toys 
 ### Gadof Blinsky
-# Wizard of Wines
-### The Martikovs
 ## Vistani Encampment 
 ### Luvash
 ### Arrigal
 ### Kasimir Velikov
+
+# Wizard of Wines
+### The Martikovs
+
 # Village of Krezk 
 ### Baron Dmitri Krezkov
-#Abbey of St. Markovia
+
+# Abbey of St. Markovia
 ### The Bellviews
 ### The Abbot
 ### Vasilka
 ### Ezmerelda d'Avenir
+
 # Argynvostholt 
 ### Sir Godfrey Gwilym
 ### Brother Marek
 ### Commander Vladimir Horngaard 
 
+# The Ruins of Berez
+### Baba Lysaga
