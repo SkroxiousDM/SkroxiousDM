@@ -56,6 +56,13 @@ A thousand souls in torment black.<br>
 ### ~~Investigate a shortage of wine deliveries from the Wizard of Wines~~
 ### ~~Defeat the Forest Folk and break the staff that their leader uses to control the blights, allowing the Martikovs to reclaim their home.~~
 ### ~~Journey to Yester Hill and prevent Wintersplinter’s birth and retrieve the stolen enchanted gemstone.~~
+#### Muriel overheard a troubling prophecy involving Strahd.
+"The Darklord—the master of shadows, the beast in the labyrinth that tears at his chains.<br>
+"The Six of Stars, the Evoker—the power you covet, a force untamed by mortal hands, raw and wild with burning fury.<br>
+"The Artifact—the token you seek, the key to power. Divinity’s heart waits, but where?<br>
+"The Innocent. I see a maid of raven hair and twilit eyes. She is one way to the token.<br>
+"But there is another—the Broken One. The path of sacrifice opens another door. The wall that whispers awaits your tribute."<br>
+
 ### ~~Kavan warns the players that Svarog, the druids’ leader, is a mighty foe, and invites them to return to his cairn should they defeat Svarog and retrieve his yew wand.~~
 ### Retrieve the Long-lost Spear of the Huntress from Dostron's Tomb in Castle Ravenloft
 Kavan tells them where to find the spear that he stole from the Forest Fane of the Huntress, whose return may convince the people of Soldav to grant them entry. “The spear's power waned when I took it, and it has no doubt grown ever-weaker since," he says. "But, should it serve your purposes, you can find it in the tomb of King Dostron, who claimed it from my tent when my chiefdom crumbled in the wake of his armies." <br> Kavan can inform the players that the tomb of King Dostron was hewn from the stone beneath Dostron’s fortress, which Dostron built in the eastern mountains—upon what is now called the Pillarstone of Ravenloft. Should they find it, Kavan asks that they take it to the shrine of the Ladies Three in Soldav, to reconsecrate it in the sacred spring there and redeem his past mistakes.
