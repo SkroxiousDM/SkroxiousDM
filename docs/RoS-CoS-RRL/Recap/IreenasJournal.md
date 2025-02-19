@@ -65,16 +65,18 @@ They survived though, and the bones have been returned. St. Andrals is safe from
 recieved an invitation to dine at Wachterhouse
 visited the Vistani encampment and met the camp’s leaders: Luvash and Arrigal, Arabelle’s father and uncle, respectively. Told of Arabelle's dissapearance
 talked to Kasimir Velikov, one of the dusk elves. He gave a clue from the scene of her disappearance—a strange platinum signet ring. Asked you to  research its secrets in the Baron’s personal library in Vallaki
+Baron Vargas allowed them entry into the library when they agree to investigate a hunting of the manor.
+the library has nothing of use exept for a genealogical tome archiving births and deaths to Vallakian families: Ireena Strazni, the younger sister of Izek Strazni and the daughter of Grygori and Fatima Strazni. According to the records, however, Ireena Strazni died more than eighteen years ago at the age of four, with Grygori and Fatima dying shortly thereafter. Grygori and Fatima’s deaths are marked as Suicide by hanging, while Ireena’s cause of death is marked as Unknown (presumed devoured by wolves).
 ### Session 12
-
+met Victor Vallakovich, his Spellbook has the same symbol as the ring
+ agree to investigate Khazan’s tower and give Victor any artifacts they find, for the information of where the tower can be found: a gravel causeway on Lake Baratok, to the west.
 ### Session 13
 dinner with lady wachter
 ## 5th day of Neyavr, 735 BC
 ### Session 14
 Ernst Larnak delivers the poisoned wine to you
 travel to the Tower on the shore of Lake Baratok
-
-
+found clues that Arabelle is hiding with Rictavio who is actually Rudolf Van RIchten
 travel back to Vallaki
 ### Session 15
 planted the wine
@@ -83,6 +85,9 @@ defeated Izek
 ## 6th day of Neyavr, 735 BC
 ### Session 16
 baron Vargas Abdicates
+confront Rictavio
+Agree to hide Arabelle in the Church
+hear Arabelles Prophecy
 ### Session 17
 
 ### Session 18
