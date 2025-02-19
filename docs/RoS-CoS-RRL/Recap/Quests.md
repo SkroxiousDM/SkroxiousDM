@@ -38,6 +38,15 @@ a depiction of a crowned, grinning emperor clad in royal finery and reaching for
 ### ~~Restore the bones of St. Andral~~
 
 ### ~~Find the missing Arabelle~~
+#### Arabelle's prophecy:
+In darkest night, the light shall flee,<br>
+No dawn to break, with no reprieve.<br>
+From the grave, the dead shall climb,<br>
+Their restless march a baleful sign.<br>
+At castle’s peak, a heart beats red,<br>
+Its hunger deep and ever-fed.<br>
+Should silence fall, the skies shall crack,<br>
+A thousand souls in torment black.<br>
 
 ### ~~Lady Wachters Wish~~
 
