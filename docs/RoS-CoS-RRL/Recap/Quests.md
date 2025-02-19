@@ -1,8 +1,9 @@
 # Barova Village
 ### ~~Bury the remains of Burgomaster Kolyan Indirovich in the cemetery of the village of Barova~~
 ### ~~Reconcile Doru with his father~~
+### ~~Escort Irena to St. Andrals Church~~
 
-## Receive the Tarokka reading from Madam Eva
+# Receive the Tarokka reading from Madam Eva
 ### card 1
 ~~*"This card tells of history. Knowledge of the ancient will help you better understand your enemy."*<br>
 A smirking guardsman looking up at a haughty priest, the priest’s pointing fingers mere inches from the guardsman’s nose as the guardsman readies a wickedly curved dagger behind his back. “The Nine of Glyphs—the Traitor.”<br>
@@ -30,7 +31,7 @@ a quiet graveyard choked with fog, its entrance sealed with a sharp iron fence. 
 a depiction of a crowned, grinning emperor clad in royal finery and reaching for a goblet of wine—though his limbs are wooden puppet’s limbs, lashed to corded strings that disappear into the darkness overhead. "The Marionette."<br>
 ***"Look to great heights. Find the beating heart of the castle. He waits nearby."***<br>
 
-## ~~Escort Irena to St. Andrals Church~~
+
 
 # Vallaki
 ## ~~Restore the bones of St. Andral~~ 1250 xp
@@ -39,8 +40,45 @@ a depiction of a crowned, grinning emperor clad in royal finery and reaching for
 
 ## ~~Lady Wachters Wish~~
 
+## ~~The Lost Soul~~
+
 # Krezk
 ### ~~1. Travel to Krezk to Harvest Wolfsbane flowers from the shores of the blessed pool.~~
 ### ~~2. negotiate with Baron Dimitri Krezkov for entry to Krezk~~
-### 3. travel to the ruins of Berez between Krezk and Vallaki, and there persuade the witch Baba Lysaga to scry the location of Baron Krezkov's son, Ilya, who vanished from Krezk in the wake of a recent werewolf attack
+### ~~3. travel to the ruins of Berez, there persuade the witch Baba Lysaga to scry the location of Baron Krezkov's son, Ilya, who vanished from Krezk in the wake of a recent werewolf attack.~~
+##### Baba Lysaga's Scrying of Illya Krezkov:
+***“I see a boy,” she hisses, “adolescent, shaggy-haired, and claw-scarred.” Her voice is a mixture of intrigue and mockery, and she licks her lips in obvious amusement. “They have collared him with silver, and chained him to a post. There he sits, huddled and pathetic. His eyes, oh, they are hidden, buried in his knees as he snivels and sobs.”,<br>She frowns, as if concentrating, and her voice drops to a rasping whisper. “The post is in a cavern—a dismal chamber lit by flickering torchlight. There is a woman chained beside him, sharp-eyed and with long, shaggy hair. I smell the gift of Mother Night on her. Nearby, I see a statue of a woman, wolf-headed—an idol to Mother Night, adorned in garlands and surrounded by a bounty of treasure. Rotting corpses kneel before her, bent to her majesty.” ***
+### 4. Investigate the werewolf den the 13th night of Neyavr, while the bulk of the pack is away hunting.
+Ezmerelda found what she believes to be Ilya’s location: a cavern at the base of a spur of Mount Baratok along the northwestern shore of Lake Baratok. Barovia’s werewolf pack uses the cave as its den, making any effort to rescue Ilya tremendously risky.
+After capturing and interrogating a werewolf with the Barovian pack, Ezmerelda learned that the bulk of the pack will soon be departing Barovia to range beyond the Mists with Strahd's permission. The pack's expedition will take place at dusk the 13th night of Neyavr. "My source didn't know how long the pack would be away," she notes. "It might be anywhere from twelve hours until twelve days, so we'll want to get in and out before dawn."
 
+# The Abbey of St.Markovia
+### help Ezmerelda save Krezk from the Abbot’s madness.
+### The Abbot intends to collect Anna Krezkov's heart at dusk the 16th night of Neyavr.
+##### ***The Seance with Esmerelda***
+ ~~-------------------------~~                                                           
+1. **Who is the abbot?** the Healer/the Broken One
+2. **What is the source of the Abbot's madness?** the Marionette and the Enchanter
+3. **How can it be cured?** the Artifact
+4. **What is the Artifact?** the Artifact and the Priest
+5. **What does this artifact do?** the Healer
+6. **Where can we find the artifact?** the Darklord and the Donjon
+7. **What is the source of the enchanters power?**  the Torturer, the Charlatan, the Dictator
+8. **How can we use the artifact once we’ve found it?** the Warrior and the Executioner
+9. **Who do we need to kill?** the Broken One
+10. **Are you Saint Markovia?** the Diviner (Yes)
+
+##### ***The Vision***
+ ~~-------------------------~~   
+A rush of ethereal wind sweeps through the room—and a radiant burst of light erupts from the center of the pentagram, painting the walls in shades of silver and gold.<br>
+Flashes of images flicker across your mind's eyes:<br>
++ A white-robed woman kneeling before a man with wings as white as the purest snow, who directs a gold-robed woman to present her with a silver statuette of a cleric kneeling in supplication, its chest glowing with the same golden light that encircles that man's head. [humility]<br>
++ The white-robed woman, standing before a half-built structure atop a cold mountain spur, her hands calloused as she lays bricks upon a mortared wall. [hope]<br>
++ The same woman, raising a golden mace above her head, a prayer upon her lips as a shadowed fortress looms above her. [defiance]
++ The silver statuette, sitting alone in a dark, cold tomb beneath a dark, twisted keep. The man, alone on a mountaintop, a veil of mist shrouding his eyes. [sorrow ]<br>
+Each image is accompanied by a surge of emotion: humility, hope, defiance, and sorrow so strong it rakes at your chest with long, bitter claws. But as quickly as they appeared—the visions fade, and when you open your eyes again, you find the room returned to its former state. <br>
+
+    
+# Castle Ravenloft
+## Dinner with the Devil
+***To [Player Names],<br><br>I have heard tell of your recent exploits in my domain, and wish to better know those who have arrived in my beloved land of Barovia. As such, I bid you dine at my castle so that we may meet in civilized surroundings.<br>I expect your attendance at dusk on the night of the moon's last light, the 14th night of Neyavr. Your passage to and from my home will be a safe one, and you shall be honored guests for as long as you remain at Castle Ravenloft.<br>My carriage shall meet you at the crossroads of Ravenloft, beyond the western gate. I await your arrival.<br><br>Your host,<br>Strahd von Zarovich***
