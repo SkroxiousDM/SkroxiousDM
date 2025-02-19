@@ -59,6 +59,91 @@ Thank the Morninglord his dog Strazni wasn’t there while we met. I can’t sta
 I left them to seek out the bones after Milivoj confessed to stealing them for the coffin maker Henrik, but perhaps I should have stayed to support them. When I returned from visiting my friends outside, some were closer to death than living. Wounds sustained from an encounter with Volenta. It would seem the terrible stories I’ve heard of her are true. Of all Strahd’s brides, she is the perhaps the least I would wish to encounter.
 
 They survived though, and the bones have been returned. St. Andrals is safe from the undead once again. I wish I could have helped heal Radmil, Virgil and Vix more when I returned but I was so tired.  The people of Barovia are wasting away beyond the gates, it is a miracle that they are even still alive. Wolves and Werewolves encircle them each night and their minds are snared with dream pastries each day.  They won’t survive much longer. 
-
+#### Extended Rest - from Noon - The Blue Water Inn
 ## 4th day of Neyavr, 735 BC
 ### Session 11
+recieved an invitation to dine at Wachterhouse
+visited the Vistani encampment and met the camp’s leaders: Luvash and Arrigal, Arabelle’s father and uncle, respectively. Told of Arabelle's dissapearance
+talked to Kasimir Velikov, one of the dusk elves. He gave a clue from the scene of her disappearance—a strange platinum signet ring. Asked you to  research its secrets in the Baron’s personal library in Vallaki
+### Session 12
+
+### Session 13
+
+## 5th day of Neyavr, 735 BC
+### Session 14
+travel to the Tower on the shore of Lake Baratok
+
+### Session 15
+killed Izek
+## 6th day of Neyavr, 735 BC
+### Session 16
+baron Vargas Abdicates
+### Session 17
+
+### Session 18
+
+## 7th day of Neyavr, 735 BC
+### Session 19
+returned to Krezk with the Scrying.
+Radmil and Dorian were cured of Lycanthropy by the Abbot
+### Session 20
+rescued the childrn and found the hags true names
+### Session 21
+defeated the Hags and returned to Vallaki
+#### Extended Rest from 5 PM - The Blue Water Inn
+## 8th day of Neyavr, 735 BC
+### Session 22
+Rahadin delivered the Invitation<br>
+spoke in defense of Henrik and Milivoj at ther Trial<br>
+performed the ritual at wachterhouse<br>
+### Session 23
+defeated the Spirit of Leo Dilisnya<br>
+returned Stella Wachter's Spirit to her body<br>
+## 9th day of Neyavr, 735 BC
+#### Extended Rest from 1 AM - The Blue Water Inn
+## 10th day of Neyavr, 735 BC
+### Session 24
+
+### Session 25
+
+## 11th day of Neyavr, 735 BC
+### Session 26
+
+visited Spirit of Kazan<br>
+Traveled to Yester Hill<br>
+### Session 27
+Destroyed Wintersplinter and Svarog. Ludmilla Escaped
+### Session 28 2025-01-06
+Whispering Wall<br>
+returned to Kazan<br>
+returned to Wizard of Wines with the Gem<br>
+#### Extended Rest from 9 AM - The Wizard Of Wines Winery
+## 12th day of Neyavr, 735 BC
+traveled to Krezk with the Wine<br>
+got the the Abbey<br>
+met the Bellviews<br>
+### Session 29 2025-01-20
+met the Abbot and Vasilka<br>
+met Ezmerelda and conduct the Seance<br>
+### Session 30 2025-02-03
+spent the evening with Krezkov Family<br>
+learned that they are a werewolf family<br>
+## 13th day of Neyavr, 735 BC
+### Session 31 2025-02-10
+Traveled from Krezk to Argynvostholt 2 hours<br>
+Met Sir Godfrey. Godfrey solemnly informs the players that, because he is bound to the will of his commander, Vladimir Horngaard, he can offer them no aid in their fight against Strahd. He can share, however, that the slumbering spirit of the silver dragon Argynvost—the deceased leader of their Order—has stirred in recent weeks, and that the dragon is seeking heroes willing to stand against Strahd, though Godfrey doesn't know for what purpose.<br>
+Though Godfrey cannot hear the voice of Argynvost himself, he encourages the players to explore the mansion and seek out the clues left by the dragon’s spirit by speaking with the other ghosts of the mansion—though he warns them to avoid the audience hall of Commander Horngaard himself.<br>
+Godfrey also warns the players to be wary of the cursed spirits that still haunt the mansion’s halls: soldiers who fell defending the mansion from Strahd’s armies long ago, and who have never ceased their fight against invaders<br>
+fought giant spiders and 2 phase spiders<br>
+harvested 3 doses of poison and a Fang for Vix<br>
+### Session 32 2025-02-17
+found pot with lid and filled it with 6 doses of Phase spider venom<br>
+Played Hide and seek with little Dragon Ghost<br>
+little Dragon Ghost gave key<br>
+talked to Minodora Taltos, pointed to Brother Marek<br>
+failed to convince Marek<br>
+went to the Mausoleum, brought torch to Marek<br>
+Brother Marek advises them: “Seek out the younger of the twin dragons above. Reignite the silver flame it once wielded, and remind it of the oath it once served. Do this, and the memory of the Silver Dragon may return to fill it once more."<br>
+moved to roof. engaged Phantom warriors<br>
+Ez and Vix moved the Bar on the door<br>
+finished round 3 Phantom Warrior 1 turn to begin next session<br>
