@@ -61,24 +61,24 @@ I left them to seek out the bones after Milivoj confessed to stealing them for t
 They survived though, and the bones have been returned. St. Andrals is safe from the undead once again. I wish I could have helped heal Radmil, Virgil and Vix more when I returned but I was so tired.  The people of Barovia are wasting away beyond the gates, it is a miracle that they are even still alive. Wolves and Werewolves encircle them each night and their minds are snared with dream pastries each day.  They won’t survive much longer. 
 #### Extended Rest - from Noon - The Blue Water Inn
 ## 4th day of Neyavr, 735 BC
-### Session 11
+### Session 11 2025-03-04
 recieved an invitation to dine at Wachterhouse
 visited the Vistani encampment and met the camp’s leaders: Luvash and Arrigal, Arabelle’s father and uncle, respectively. Told of Arabelle's dissapearance
 talked to Kasimir Velikov, one of the dusk elves. He gave a clue from the scene of her disappearance—a strange platinum signet ring. Asked you to  research its secrets in the Baron’s personal library in Vallaki
 Baron Vargas allowed them entry into the library when they agree to investigate a hunting of the manor.
 the library has nothing of use exept for a genealogical tome archiving births and deaths to Vallakian families: Ireena Strazni, the younger sister of Izek Strazni and the daughter of Grygori and Fatima Strazni. According to the records, however, Ireena Strazni died more than eighteen years ago at the age of four, with Grygori and Fatima dying shortly thereafter. Grygori and Fatima’s deaths are marked as Suicide by hanging, while Ireena’s cause of death is marked as Unknown (presumed devoured by wolves).
-### Session 12
+### Session 12 2025-03-11
 met Victor Vallakovich, his Spellbook has the same symbol as the ring
  agree to investigate Khazan’s tower and give Victor any artifacts they find, for the information of where the tower can be found: a gravel causeway on Lake Baratok, to the west.
-### Session 13
+### Session 13 2025-03-25
 dinner with lady wachter
 ## 5th day of Neyavr, 735 BC
-### Session 14
+### Session 14 2025-04-01
 Ernst Larnak delivers the poisoned wine to you
 travel to the Tower on the shore of Lake Baratok
 found clues that Arabelle is hiding with Rictavio who is actually Rudolf Van RIchten
 travel back to Vallaki
-### Session 15
+### Session 15 2025-04-08
 planted the wine
 trailed Izek to the shore of lake Zarovich and waited for him to drink the poisoned wine
 defeated Izek
