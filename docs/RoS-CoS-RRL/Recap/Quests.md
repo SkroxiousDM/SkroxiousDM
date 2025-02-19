@@ -34,7 +34,7 @@ a depiction of a crowned, grinning emperor clad in royal finery and reaching for
 
 
 # Vallaki
-## ~~Restore the bones of St. Andral~~ 1250 xp
+## ~~Restore the bones of St. Andral~~
 
 ## ~~Find the missing Arabelle~~
 
