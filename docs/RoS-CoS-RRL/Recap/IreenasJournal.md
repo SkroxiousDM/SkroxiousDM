@@ -101,7 +101,7 @@ spoke in defense of Henrik and Milivoj at ther Trial<br>
 Vallaki, received their reward from lady wachter. then saw Victor to tell him about the tower. Had them start Lost Soul. Visit the refugee camp and meet Franz. They rested at the BWI and headed
 ## 7th day of Neyavr, 735 BC
  to Krezk first thing in the morning. Received healing from the Abbott. Picked wolfsbane flowers. Brought the flowers to RVR asked him about Nighthags. We finished the session with the team in Victor's workshop.
-### Session 19 2024-07-08
+### Session 19 *2024-07-08*
 met Fiona Wacter and traveld to the Windmill<br>
 rescued the childrn and found the hags true names<br>
 ### Session 20
@@ -116,18 +116,18 @@ returned Stella Wachter's Spirit to her body<br>
 ## 9th day of Neyavr, 735 BC
 #### Extended Rest from 1 AM - The Blue Water Inn
 ## 10th day of Neyavr, 735 BC
-### Session 23 2025-11-04
+### Session 23 *2025-11-04*
 Urwin Martikov asked us to get Investigate a shortage of wine deliveries from the Wizard of Wines
-### Session 24 2025-11-11
+### Session 24 *2025-11-11*
 
 ## 11th day of Neyavr, 735 BC
-### Session 25 2025-11-18
+### Session 25 *2025-11-18*
 
 visited Spirit of Kazan<br>
 Traveled to Yester Hill<br>
-### Session 26 2025-11-25
+### Session 26 *2025-11-25*
 Destroyed Wintersplinter and Svarog. Ludmilla Escaped
-### Session 27 2025-01-06
+### Session 27 *2025-01-06*
 Whispering Wall<br>
 returned to Kazan<br>
 returned to Wizard of Wines with the Gem<br>
@@ -136,21 +136,21 @@ returned to Wizard of Wines with the Gem<br>
 traveled to Krezk with the Wine<br>
 got the the Abbey<br>
 met the Bellviews<br>
-### Session 28 2025-01-20
+### Session 28 *2025-01-20*
 met the Abbot and Vasilka<br>
 met Ezmerelda and conduct the Seance<br>
-### Session 29 2025-02-03
+### Session 29 *2025-02-03*
 spent the evening with Krezkov Family<br>
 learned that they are a werewolf family<br>
 ## 13th day of Neyavr, 735 BC
-### Session 30 2025-02-10
+### Session 30 *2025-02-10*
 Traveled from Krezk to Argynvostholt 2 hours<br>
 Met Sir Godfrey. Godfrey solemnly informs the players that, because he is bound to the will of his commander, Vladimir Horngaard, he can offer them no aid in their fight against Strahd. He can share, however, that the slumbering spirit of the silver dragon Argynvost—the deceased leader of their Order—has stirred in recent weeks, and that the dragon is seeking heroes willing to stand against Strahd, though Godfrey doesn't know for what purpose.<br>
 Though Godfrey cannot hear the voice of Argynvost himself, he encourages the players to explore the mansion and seek out the clues left by the dragon’s spirit by speaking with the other ghosts of the mansion—though he warns them to avoid the audience hall of Commander Horngaard himself.<br>
 Godfrey also warns the players to be wary of the cursed spirits that still haunt the mansion’s halls: soldiers who fell defending the mansion from Strahd’s armies long ago, and who have never ceased their fight against invaders<br>
 fought giant spiders and 2 phase spiders<br>
 harvested 3 doses of poison and a Fang for Vix<br>
-### Session 31 2025-02-17
+### Session 31 *2025-02-17*
 found pot with lid and filled it with 6 doses of Phase spider venom<br>
 Played Hide and seek with little Dragon Ghost<br>
 little Dragon Ghost gave key<br>
