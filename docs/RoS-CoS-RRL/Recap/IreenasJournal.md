@@ -11,7 +11,7 @@ Confirmed by the ghost of the nursemaid Klara trapped in a mirror and bearing th
 
 Eager to help, Klara revealed a hidden door behind the mirror leading you up to the attic. You made the acquaintance of Rose and Thorn, Elizabeth and Gustav’s legitimate children whom had been locked in their room and forgotten by their mother, eventually starving to death.
 
-### Session 2
+### Session 2 *2023-10-02*
 They agreed to help if you could take their bones from this horrible place and give them a proper burial. Rose then possessed Vix because he wore her father’s neck tie and Thorn possessed Bogokom who was the biggest. Rose then led you to the secret stairwell down to the crypts where all were empty save for the pulsating fleshly tendrils within Walters. After defeating a grick and nearly losing Dorian, Vix realized there was more to Rose than previously thought and the party returned to her room to vetch the spells contained within her diary. Realizing they had passed a secret door with a locked shaped exactly like an amber shard seen hanging from Elizabeth’s ghostly neck, you headed to the master bedroom where Rose had seen her mother talking to it.
 
 Before entering, a ghostly shadow appeared behind the glass door filling Vix with the most intense dread he had ever felt and the deafening sounds of Rose screaming in his head. But as quickly as it appeared so to did it disappear. Upon entering you immediately noticed on the bed that a knife had been plunged into a pillow, the sheets stained by a pool of blood.
@@ -22,7 +22,7 @@ You then headed down to the study and unlocked the secret door using the amber s
 
 As the clock continued to chime closer and closer to midnight and your demise you headed back to the crypts. Passing the larder led to an encounter with 3 ghoul cultists whom you dispatched but not without taking your own licks and leaving Vix with an insatiable urge to drink blood. A short rest was needed to gather your nerves within this dreadful place. With minutes left until midnight you explored deeper into the crypts only to be attacked by the boneless flayed skin of Gustav Durst. And at its defeat, the midnight chime came. So to did a huge and grotesque mass of flesh. The beast awoken at last and death crazed to destroy you.
 
-### Session 3
+### Session 3 *2023-10-16*
 As the battle ensued, it appeared that you were victorious when striking it down but the beast rose up once more. Desperation grew as the beast unleashed renewed fury. Virgil, face to face with it took a direct shot of its acid gore. In his stunned state while the rest of you fought on all his senses focused on the baby and its deafening cry lying at the centre of the mound of flesh. He cried out through his pain “Target the baby”.
 
 As Vix kept yelling “Walter” hoping to quell the beast, Radmil, Dorian and Bogokom kept up their attack until finally Bogokom dealt the final blow with a perfect shot through the mass and mercifully killing the baby.
@@ -60,7 +60,7 @@ Over drinks Ismark shares with you:
 
 # Ireena’s Journal
 ## 1st day of Neyavr, 735 BC
-### Session 4
+### Session 4 *2023-10-30*
 The nerve of him. How could Ismark do this without even consulting me. It’s not him the devil has bitten not once but twice! But he’s right, this is the only way. And at least if I’m in Vallaki I can help those Barovians who have fled there. How many made it? I dare not let my mind wander as to what those poor souls endured on the road.  
 
 Father is buried. And Doru is not lost. I have faith in him. If he can keep the monster within at bay, then perhaps hope does exist in this land. I wasn’t sure I could trust the visitors beyond the mists but after hearing of them giving Doru the chance to prove himself, the humanity in a world with so little... perhaps these visitors are trustworthy after all. Time will tell, Strahd has so many spies. I wish I knew what he wanted with me. Why is he obsessed with me? That bastard can’t have me. I will do what I must. As father did. Oh father I wish you were here. If not for me, then for Ismark. I fear he bears too much. Perhaps all leaders do regardless of their circumstances.  
@@ -122,26 +122,26 @@ I left them to seek out the bones after Milivoj confessed to stealing them for t
 They survived though, and the bones have been returned. St. Andrals is safe from the undead once again. I wish I could have helped heal Radmil, Virgil and Vix more when I returned but I was so tired.  The people of Barovia are wasting away beyond the gates, it is a miracle that they are even still alive. Wolves and Werewolves encircle them each night and their minds are snared with dream pastries each day.  They won’t survive much longer. 
 #### Extended Rest - from Noon - The Blue Water Inn
 ## 4th day of Neyavr, 735 BC
-### Session 11 *2025-03-04*
+### Session 11 *2024-03-04*
 recieved an invitation to dine at Wachterhouse
 visited the Vistani encampment and met the camp’s leaders: Luvash and Arrigal, Arabelle’s father and uncle, respectively. Told of Arabelle's dissapearance
 talked to Kasimir Velikov, one of the dusk elves. He gave a clue from the scene of her disappearance—a strange platinum signet ring. Asked you to  research its secrets in the Baron’s personal library in Vallaki
 Baron Vargas allowed them entry into the library when they agree to investigate a hunting of the manor.
 the library has nothing of use exept for a genealogical tome archiving births and deaths to Vallakian families: Ireena Strazni, the younger sister of Izek Strazni and the daughter of Grygori and Fatima Strazni. According to the records, however, Ireena Strazni died more than eighteen years ago at the age of four, with Grygori and Fatima dying shortly thereafter. Grygori and Fatima’s deaths are marked as Suicide by hanging, while Ireena’s cause of death is marked as Unknown (presumed devoured by wolves).
 
-### Session 12 *2025-03-11*
+### Session 12 *2024-03-11*
 met Victor Vallakovich, his Spellbook has the same symbol as the ring
  agree to investigate Khazan’s tower and give Victor any artifacts they find, for the information of where the tower can be found: a gravel causeway on Lake Baratok, to the west.
  
-### Session 13 *2025-03-25*
+### Session 13 *2024-03-25*
 dinner with lady wachter
 ## 5th day of Neyavr, 735 BC
-### Session 14 *2025-04-01*
+### Session 14 *2024-04-01*
 Ernst Larnak delivers the poisoned wine to you
 travel to the Tower on the shore of Lake Baratok
 found clues that Arabelle is hiding with Rictavio who is actually Rudolf Van RIchten
 travel back to Vallaki
-### Session 15 *2025-04-08*
+### Session 15 *2024-04-08*
 planted the wine
 trailed Izek to the shore of lake Zarovich and waited for him to drink the poisoned wine
 defeated Izek
@@ -172,16 +172,16 @@ returned Stella Wachter's Spirit to her body<br>
 ## 9th day of Neyavr, 735 BC
 #### Extended Rest from 1 AM - The Blue Water Inn
 ## 10th day of Neyavr, 735 BC
-### Session 22 *2025-11-04*
+### Session 22 *2024-11-04*
 Urwin Martikov asked us to get Investigate a shortage of wine deliveries from the Wizard of Wines
-### Session 23 *2025-11-11*
+### Session 23 *2024-11-11*
 
 ## 11th day of Neyavr, 735 BC
-### Session 24 *2025-11-18*
+### Session 24 *2024-11-18*
 
 visited Spirit of Kazan<br>
 Traveled to Yester Hill<br>
-### Session 25 *2025-11-25*
+### Session 25 *2024-11-25*
 Destroyed Wintersplinter and Svarog. Ludmilla Escaped
 ### Session 26 *2025-01-06*
 Whispering Wall<br>
