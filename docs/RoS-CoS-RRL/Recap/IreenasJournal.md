@@ -89,19 +89,20 @@ defeated Izek
 ## 6th day of Neyavr, 735 BC
 ### Session 16
 baron Vargas Abdicates
+
+
+### Session 17
 confront Rictavio
 Agree to hide Arabelle in the Church
 hear Arabelles Prophecy
-### Session 17
-
-### Session 18
-
+### Session 18 2024-04-22
+Rahadin delivered the Invitation<br>
+spoke in defense of Henrik and Milivoj at ther Trial<br>
+Vallaki, received their reward from lady wachter. then saw Victor to tell him about the tower. Had them start Lost Soul. Visit the refugee camp and meet Franz. They rested at the BWI and headed
 ## 7th day of Neyavr, 735 BC
 ### Session 19
-returned to Krezk with the Scrying.<br>
-Radmil and Dorian were cured of Lycanthropy by the Abbot<br>
-returned to Vallaki<br>
-### Session 20
+ to Krezk first thing in the morning. Received healing from the Abbott. Picked wolfsbane flowers. Brought the flowers to RVR asked him about Nighthags. We finished the session with the team in Victor's workshop.
+### Session 20 2024-07-08
 met Fiona Wacter and traveld to the Windmill<br>
 rescued the childrn and found the hags true names<br>
 ### Session 21
@@ -109,8 +110,6 @@ defeated the Hags and returned to Vallaki<br>
 #### Extended Rest from 5 PM - The Blue Water Inn
 ## 8th day of Neyavr, 735 BC
 ### Session 22
-Rahadin delivered the Invitation<br>
-spoke in defense of Henrik and Milivoj at ther Trial<br>
 performed the ritual at wachterhouse<br>
 ### Session 23
 defeated the Spirit of Leo Dilisnya<br>
@@ -119,7 +118,7 @@ returned Stella Wachter's Spirit to her body<br>
 #### Extended Rest from 1 AM - The Blue Water Inn
 ## 10th day of Neyavr, 735 BC
 ### Session 24 2025-11-04
-Utein Martikov asked us to get Investigate a shortage of wine deliveries from the Wizard of Wines
+Urwin Martikov asked us to get Investigate a shortage of wine deliveries from the Wizard of Wines
 ### Session 25 2025-11-11
 
 ## 11th day of Neyavr, 735 BC
