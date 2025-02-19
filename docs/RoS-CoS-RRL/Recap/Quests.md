@@ -2,6 +2,7 @@
 ### ~~Bury the remains of Burgomaster Kolyan Indirovich in the cemetery of the village of Barova~~
 ### ~~Reconcile Doru with his father~~
 ### ~~Escort Irena to St. Andrals Church~~
+### Find Doru’s betrothed Gertruda, who has likely gone to Castle Ravenloft.
 
 # Receive the Tarokka reading from Madam Eva
 ### card 1
@@ -42,6 +43,14 @@ a depiction of a crowned, grinning emperor clad in royal finery and reaching for
 
 ## ~~The Lost Soul~~
 
+# Wizard of Wines
+### ~~Investigate a shortage of wine deliveries from the Wizard of Wines~~
+### ~~Defeat the Forest Folk and break the staff that their leader uses to control the blights, allowing the Martikovs to reclaim their home.~~
+### ~~Journey to Yester Hill and prevent Wintersplinter’s birth and retrieve the stolen enchanted gemstone.~~
+### ~~Kavan warns the players that Svarog, the druids’ leader, is a mighty foe, and invites them to return to his cairn should they defeat Svarog and retrieve his yew wand.~~
+## Retrieve the Long-lost Spear of the Huntress from Dostron's Tomb in Castle Ravenloft
+Kavan tells them where to find the spear that he stole from the Forest Fane of the Huntress, whose return may convince the people of Soldav to grant them entry. “The spear's power waned when I took it, and it has no doubt grown ever-weaker since," he says. "But, should it serve your purposes, you can find it in the tomb of King Dostron, who claimed it from my tent when my chiefdom crumbled in the wake of his armies." <br> Kavan can inform the players that the tomb of King Dostron was hewn from the stone beneath Dostron’s fortress, which Dostron built in the eastern mountains—upon what is now called the Pillarstone of Ravenloft. Should they find it, Kavan asks that they take it to the shrine of the Ladies Three in Soldav, to reconsecrate it in the sacred spring there and redeem his past mistakes.
+
 # Krezk
 ### ~~1. Travel to Krezk to Harvest Wolfsbane flowers from the shores of the blessed pool.~~
 ### ~~2. negotiate with Baron Dimitri Krezkov for entry to Krezk~~
@@ -54,7 +63,7 @@ After capturing and interrogating a werewolf with the Barovian pack, Ezmerelda l
 
 # The Abbey of St.Markovia
 ### help Ezmerelda save Krezk from the Abbot’s madness.
-### The Abbot intends to collect Anna Krezkov's heart at dusk the 16th night of Neyavr.
+### Find the Icon of Dawn's Grace in the darklords dungeon (Castle Ravenloft?) and kill the Abbot before he collects Anna Krezkov's heart at dusk the 16th night of Neyavr.
 ##### ***The Seance with Esmerelda***
  ~~-------------------------~~                                                           
 1. **Who is the abbot?** the Healer/the Broken One
@@ -78,7 +87,16 @@ Flashes of images flicker across your mind's eyes:<br>
 + The silver statuette, sitting alone in a dark, cold tomb beneath a dark, twisted keep. The man, alone on a mountaintop, a veil of mist shrouding his eyes. [sorrow ]<br>
 Each image is accompanied by a surge of emotion: humility, hope, defiance, and sorrow so strong it rakes at your chest with long, bitter claws. But as quickly as they appeared—the visions fade, and when you open your eyes again, you find the room returned to its former state. <br>
 
+# Argynvostholt 
+### travel to Argynvostholt and speak to Sir Godfrey Gwilym
+He awaits those who would raise their swords against the darkness of Strahd. The knights of the Order of the Silver Dragon opposed the lord of Ravenloft in life.
+### seek out the clues left by the dragon’s spirit by speaking with the other ghosts of the mansion
+the slumbering spirit of the silver dragon Argynvost—the deceased leader of their Order—has stirred in recent weeks, and that the dragon is seeking heroes willing to stand against Strahd,
+pseudodragon familiar => Minodora, the spirit of a former clerk of the Order of the Silver Dragon => Brother Marek, the spirit of the Order's former chaplain
+
     
 # Castle Ravenloft
 ## Dinner with the Devil
 ***To [Player Names],<br><br>I have heard tell of your recent exploits in my domain, and wish to better know those who have arrived in my beloved land of Barovia. As such, I bid you dine at my castle so that we may meet in civilized surroundings.<br>I expect your attendance at dusk on the night of the moon's last light, the 14th night of Neyavr. Your passage to and from my home will be a safe one, and you shall be honored guests for as long as you remain at Castle Ravenloft.<br>My carriage shall meet you at the crossroads of Ravenloft, beyond the western gate. I await your arrival.<br><br>Your host,<br>Strahd von Zarovich***
+### The Belviews ask the players to find and speak with Cyrus upon visiting Castle Ravenloft. 
+They are clearly anxious to learn more of his experience with “perfection"—both the process that created it, and his life since attaining it. In exchange for news of Cyrus, Clovin promises to provide the players with a treasure hidden away somewhere in the Abbey
