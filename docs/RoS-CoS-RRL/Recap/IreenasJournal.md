@@ -25,7 +25,7 @@ She warned of a spy approaching and when we left the tent Eliza and Arturi were 
 I’ve heard many tales about Vistani hospitality, and last night exceeded all expectations. The fire was a welcome reprieve after our first day on the road.  I am glad for the Game of Stories, to have learned more of my companions. I am convinced however that the land beyond the mists is no better than this. Hatred and greed know no boundaries. I can’t believe it was the Vistani themselves that saved Strahd hundreds of years ago and for it have been granted safe passage through his realm ever since! If only they had left him to die then perhaps none of this misery would have befallen Barovia. I had never quite heard the myth of the Holy Symbol of Ravenkind quite how Eliza described it. Madam Eva spoke of a holy symbol of great hope in her card reading. Perhaps after I have ensured my people’s protection in Barovia I will convince my companions to investigate Yester Hill.  
 
 ## 2nd day of Neyavr, 735 BC
-### Session 8
+### Session 8 2024-01-08
 For the briefest of moments, with the cool fresh air and the sound of Tser Falls I almost forgot where I was. This land is beautiful. Sometimes I can almost feel what it must have been like before the mists. This time it was the decaying knight sworn to kill Strahd who pulled me from my dream. But at least I am not alone in my desire to rid Strahd from this world. Argynvostholt. Seek Sir Godfrey. West beyond Vallaki and then south at the ash-gray path.
 
 I had seen that lake so many times before and never had I stepped foot on its shores until today. How could I have dreamt every detail of that lake? Was it a dream or a memory? Father found me in the woods, could it have been there? All my memories from then feel like the mists itself. And to be set upon by wolves and a werewolf just like my dream! 
@@ -39,7 +39,7 @@ As we found the Blue Water Inn, it took everything I had not to break down in fr
 I was relieved to return downstairs. Losing myself in healing my friends and listening to that odd man Rictavio’s stories.  Those Wachter boys seemed to despise the Baron. Time will tell if they can be trusted, but time is not on my side.
 
 ## 3rd day of Neyavr, 735 BC
-### Session 9
+### Session 9 2024-01-29
 How could they just stand there and watch that poor woman get dragged away for what… Malicious Unhappiness? Perhaps these men are not who I thought they were. I should have walked straight up to the Baron instead of pleading with my companions to do something and when I finally realized they wouldn’t help I was too late, the Baron was on the move. Izek, what a terrible monster of a man and yet something seems almost familiar. Who is he and why will he not cease staring at me?
 
 I sit here now in the pews of St. Andrals Church, the one place in this whole godforsaken place that was supposed to be safe only to learn in 4 days time, its protection will be lost should the bones of St. Andral not be returned.  
@@ -51,7 +51,7 @@ Dear Morninglord I pray they find the bones. You are lucky to have a follower as
 How did Blinsky create a doll that looks exactly like me? My stomach sank at the sight. Him and his toys instills within me a most disconcerting sense of unease. So many questions. This place was suppose to be a refuge and now it swirls in the same madness as everywhere else.
 We must find those bones.
 
-### Session 10
+### Session 10 2024-02-05
 That monster is no Baron. A child driven to tantrum more like it. Though I really did not expect more. I’m lucky to have not been thrown into the stocks, and had I said anymore perhaps I would have been. At least he allowed me to pass freely through the gates, that coin is better put to use amongst my people than going to his coffers.
 
 Thank the Morninglord his dog Strazni wasn’t there while we met. I can’t stand the way he looks at me.  I am grateful to my companions for accompanying me, they know not what courage they provide to others just by their support.
