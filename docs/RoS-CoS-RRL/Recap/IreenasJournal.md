@@ -68,13 +68,18 @@ talked to Kasimir Velikov, one of the dusk elves. He gave a clue from the scene 
 ### Session 12
 
 ### Session 13
-
+dinner with lady wachter
 ## 5th day of Neyavr, 735 BC
 ### Session 14
+Ernst Larnak delivers the poisoned wine to you
 travel to the Tower on the shore of Lake Baratok
 
+
+travel back to Vallaki
 ### Session 15
-killed Izek
+planted the wine
+trailed Izek to the shore of lake Zarovich and waited for him to drink the poisoned wine
+defeated Izek
 ## 6th day of Neyavr, 735 BC
 ### Session 16
 baron Vargas Abdicates
@@ -84,12 +89,14 @@ baron Vargas Abdicates
 
 ## 7th day of Neyavr, 735 BC
 ### Session 19
-returned to Krezk with the Scrying.
-Radmil and Dorian were cured of Lycanthropy by the Abbot
+returned to Krezk with the Scrying.<br>
+Radmil and Dorian were cured of Lycanthropy by the Abbot<br>
+returned to Vallaki<br>
 ### Session 20
-rescued the childrn and found the hags true names
+met Fiona Wacter and traveld to the Windmill<br>
+rescued the childrn and found the hags true names<br>
 ### Session 21
-defeated the Hags and returned to Vallaki
+defeated the Hags and returned to Vallaki<br>
 #### Extended Rest from 5 PM - The Blue Water Inn
 ## 8th day of Neyavr, 735 BC
 ### Session 22
