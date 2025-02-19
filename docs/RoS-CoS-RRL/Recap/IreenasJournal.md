@@ -15,7 +15,7 @@ We made it to Tser Pool but not without incident and not without the graciousnes
 It was after this, at the crossroads that Strahd appeared, like an apparition, coming from our very same destination, Tser Pool. He thinks himself a gentlemen as he grasps the lives of men in his palms and squeezes. The way he looks at me makes my skin crawl. I was surprised the visitors were able to hold themselves back from his insults. Especially Radmill. Strahd loaths all humans but it would seem he loaths the lives of dwarfs even more. Bogokom and Radmil did well to reason with Strahd though. He could have taken me right then and there. Is this all just some sick game to him?  
 Poor Escher. Another soul lost to the darkness and forced to drive carriage for the devil. I was more than relieved when he finally departed but his game was not over. I don’t know what Radmill saw in that hanging man but his despair was intense. Perhaps the evil in this land is fraying these visitors more than I anticipated. I’ll keep an eye on them. Not all wounds bear visible scars and if left to fester can prove to be even more fatal than the bow or sword.
 
-### Session 7
+### Session 7 2023-12-11
 Further up the road, we saved a Raven who was being attacked by an abomination of feather and stick. A living scarecrow. Virgil fought valiantly and Vix proved himself a capable sorcerer. Magic is rare among the people of Barovia, I am glad he is with us.  
 
 We finally made it to Tser Pool only to learn of our cryptic fates. Madam Eva’s gifts are astounding but in true Vistani fashion, make almost no sense at all. Perhaps the path ahead will shed light on the fates of these mysterious visitors. Her words seemed to burn in my mind until I wrote them out.  
