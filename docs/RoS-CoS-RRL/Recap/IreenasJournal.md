@@ -1,3 +1,7 @@
+### Session 1 2023-09-18
+### Session 2
+### Session 3
+### Session 4
 # Ireena’s Journal
 ## 1st day of Neyavr, 735 BC
 ### Session 5
