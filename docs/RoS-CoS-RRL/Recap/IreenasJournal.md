@@ -114,16 +114,16 @@ returned Stella Wachter's Spirit to her body<br>
 ## 9th day of Neyavr, 735 BC
 #### Extended Rest from 1 AM - The Blue Water Inn
 ## 10th day of Neyavr, 735 BC
-### Session 24
-
-### Session 25
+### Session 24 2025-11-04
+Utein Martikov asked us to get Investigate a shortage of wine deliveries from the Wizard of Wines
+### Session 25 2025-11-11
 
 ## 11th day of Neyavr, 735 BC
-### Session 26
+### Session 26 2025-11-18
 
 visited Spirit of Kazan<br>
 Traveled to Yester Hill<br>
-### Session 27
+### Session 27 2025-11-25
 Destroyed Wintersplinter and Svarog. Ludmilla Escaped
 ### Session 28 2025-01-06
 Whispering Wall<br>
