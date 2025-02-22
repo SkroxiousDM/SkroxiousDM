@@ -1,4 +1,4 @@
-.
+# The Party
 ## ~~Cord - Virgil Beauchamp~~
 ![Virgil Beauchamp](https://raw.githubusercontent.com/SkroxiousDM/SkroxiousDM/refs/heads/main/Images/Virgil.webp)
 ~~Human (Ambrian) - Faithful of Prios<br>
