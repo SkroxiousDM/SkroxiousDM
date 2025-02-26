@@ -1,4 +1,23 @@
 # Conditions
+## HIDDEN [CONDITION]
+When you have the Hidden condition, you experience the following effects.
+- When you’re Hidden from a creature, they don’t know your location.
+- If you are no longer in a Concealable Location or benefiting from another condition that allows you to take the Hide action, you immediately lose the Hidden condition.
+- Concealed. You can’t be affected by any effect that requires its target to be seen if you are Hidden from the effect’s creator.
+- Surprise. If you are Hidden from all enemies when you roll Initiative, you have Advantage on the roll.
+- Combat Advantage. Attack rolls against a Hidden opponent have Disadvantage, and a Hidden opponent’s attack rolls have Advantage.
+- Detectable Actions. If you make an attack or take some other loud or overt action (such as talking louder than a whisper, kicking open a door, or casting a spell with a Verbal component), other creatures will pinpoint your current location, allowing them to, for example, aim attacks at you (although you would still benefit from your Combat Advantage). In addition, taking a detectable action allows any observer you’re currently Hidden from to make a Wisdom (Perception) check to spot you (removing the benefits of the Hidden condition). Observers can use a reaction to gain advantage on this check.
+- Leaving Concealment. If you are no longer in a Concealable Location or benefiting from another condition or effect that allows you to take the Hide action, you lose the Hidden condition. If this happens on your turn in combat, you lose the Hidden condition at the end of your turn. (If, after being revealed, you take the Hide action again, you can immediately regain the Hidden condition after losing it, but observes will remain aware of where they last saw or detected you.) If you Ready an action triggered by something that would reveal your location, you lose the Hidden condition at the end of your Readied action.<br>
+For example, you could Hide behind a closed door and then stab someone opening the door, while still gaining the benefits of Hidden on your attack.)
+
+## INVISIBLE [CONDITION]
+When you have the Invisible condition, you experience the following effects.
+- You cannot be seen. Any equipment you’re carrying or wearing is also invisible.
+- You can take the Hide action without needing to be in a Concealable Position.
+You gain Advantage on checks that would benefit from not being seen, including Dexterity (Stealth) checks.
+- Attack rolls against you have Disadvantage, and your attack rolls have Advantage.
+- You do not gain the benefits of Invisible against any creature who can somehow see you. (For example, due to a see invisibility )
+
 ## Partially Blinded [New]
 - You have disadvantage on Wisdom (Perception) checks that rely on sight.
 ## Blinded
