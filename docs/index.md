@@ -17,7 +17,7 @@
          <li><a href="https://skroxiousdm.github.io/SkroxiousDM/RoS-CoS-RRL/Player%20characters/Party">The Party</a></li>
         <li><a href="https://skroxiousdm.github.io/SkroxiousDM/RoS-CoS-RRL/Recap/IreenasJournal">Ireena's Journal </a></li>
         <li><a href="https://skroxiousdm.github.io/SkroxiousDM/RoS-CoS-RRL/Recap/Quests">Quests</a></li>
-        <li><a href="https://skroxiousdm.github.io/SkroxiousDM/docs/RoS-CoS-RRL/Recap/DramatisPersonae">Dramatis Personae </a></li>
+        <li><a href="https://skroxiousdm.github.io/SkroxiousDM/RoS-CoS-RRL/Recap/DramatisPersonae">Dramatis Personae </a></li>
       </ul>
     </aside>
     <main>
