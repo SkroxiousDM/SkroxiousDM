@@ -112,12 +112,14 @@ While Unconscious, you experience the following effects:
 - Fail Str. and Dex. Saves. You automatically fail Strength and Dexterity saving throws.
 - Critical Hits. Any attack roll that hits you is a critical hit if the attacker is within 5 feet of you.
 - Unaware. You are unaware of your surroundings
+- 
 ## Expanded Exhaustion
 The Exhaustion condition covers all effects from casual exhaustion to life drain. These rules allow differentiation between normal fatigue and more dangerous effects.
 Levels 1-3 of Exhaustion (called Soft) often happen with strenuous activity like working, training or fighting. Soft Exhaustion accumulates easily but is recovered quickly with a short or longer rest. Any rule or DM decision that makes you gain Soft Exhaustion increases your Exhaustion only if your current Exhaustion is level 2 or less.
 Levels 4-6 of Exhaustion come in play when you push past your limits or your life is being drained. If you have 4 or more levels of Exhaustion, you may recover a level of Exhaustion only during long or full rest.
 
 ### Soft Exhaustion
+
 |Level|Effect|
 |---|---|
 |1|Disadvantage on Strength and Dexterity Ability and Skill checks. You can't perform the Dash action during combat.|
@@ -128,6 +130,7 @@ Levels 4-6 of Exhaustion come in play when you push past your limits or your lif
 If you have reached the maximum level of Soft Exhaustion and you take another level of it, instead of increasing your Exhaustion level you lose one Recovery die. If you have no Recovery dice left, your Exhaustion increases as normal
 
 ### Heavy Exhaustion
+
 |Level|Effect|
 |---|---|
 |4|You can only take an action or a bonus action during your turn, and you can't take reactions. You can concentrate on one thing only, such as a spell or enemy target, and ignore all the rest. You're limited to simple mental tasks.|
