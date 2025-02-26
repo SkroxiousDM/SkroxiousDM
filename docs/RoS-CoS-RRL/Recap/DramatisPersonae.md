@@ -55,6 +55,16 @@ Elizabeth, Gustav, Rosavalda, Thornboldt and Walter. Wealthy barovian merchants 
 
 # Wizard of Wines
 ### The Martikovs
+# Yester Hill
+### Kavan
+![Kavan](https://publish-01.obsidian.md/access/7db64b11c71d88572ddc6cd06b888976/images/Kavan.png)
+
+***KAVAN, THE BLOOD-DRINKER<br>
+FORSAKEN OF THE ROZANA<br>
+FIRST AND LAST CHIEFTAIN OF THE BALINOK MOUNTAINS.<br>
+MAY HIS SPIRIT REAP THE HARVEST OF HIS ARROGANCE<br>***
+
+[Kavan & the First Folk](https://skroxiousdm.github.io/SkroxiousDM/RoS-CoS-RRL/Recap/Lore#kavan--the-first-folk)
 
 # Village of Krezk 
 ### Baron Dmitri Krezkov
