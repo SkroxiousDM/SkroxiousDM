@@ -29,7 +29,7 @@ Elizabeth, Gustav, Rosavalda, Thornboldt and Walter. Wealthy barovian merchants 
 ### Madam Eva 
 – A fortune teller who visited you in a dream asking you to see her at Tser Pool
 
-#Town of Vallaki 
+# Town of Vallaki 
 ## Blue Water Inn
 ### Urwin Martikov
 ### Danika Dorakova
