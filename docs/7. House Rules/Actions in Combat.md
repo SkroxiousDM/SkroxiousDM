@@ -1,3 +1,13 @@
+## HIDE [ACTION]
+
+With the Hide action, you try to prevent people from knowing where you are (or possibly that you are there at all). To do so, you must be in a Concealable Location, such as being Heavily Obscured, behind Three-Quarters Cover or Total Cover, or otherwise out of an observer’s line of sight.
+
+When attempting to Hide, you make a DC 15 Dexterity (Stealth) check. On a successful check, you gain the Hidden condition against all observers with a passive Wisdom (Perception) score lower than your check. If any new observers enter the area, you also gain the Hidden condition against them if their passive Wisdom (Perception) score is lower than your check.
+
+When an observer takes the Search action, they can immediately attempt a Wisdom (Perception) check against the DC set by the Hidden character’s Dexterity (Stealth) check. You lose the benefits of the Hidden condition against any creature who succeeds at the Wisdom (Perception) check or who can otherwise see you (because they’re on the same side of the wall you’re hiding behind or due to a magical effect, for example).
+
+Observers remain aware of where they last saw you or detected you.
+
 ## Free Item Interaction
 At any time during your combat turn, you have one free interaction with your inventory or the environment. You can draw a onehanded or two-handed weapon, or draw any Prepared items from worn containers (sheaths, quivers, belt pouches, Bandoliers, etc..). You can also interact with one feature of the environment (such as opening or closing a door, kicking a table).
 
