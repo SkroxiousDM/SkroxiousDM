@@ -120,7 +120,8 @@ They are clearly anxious to learn more of his experience with “perfection"—b
 [Spear of the Huntress](https://skroxiousdm.github.io/SkroxiousDM/RoS-CoS-RRL/Recap/Quests#retrieve-the-long-lost-spear-of-the-huntress-from-dostrons-tomb-in-castle-ravenloft)<br>
 [Icon of Dawn's Grace](https://skroxiousdm.github.io/SkroxiousDM/RoS-CoS-RRL/Recap/Quests#find-the-icon-of-dawns-grace-in-the-darklords-dungeon-castle-ravenloft-and-kill-the-abbot-before-he-collects-anna-krezkovs-heart-at-dusk-the-16th-night-of-neyavr)<br>
 [Cyrus](https://skroxiousdm.github.io/SkroxiousDM/RoS-CoS-RRL/Recap/Quests#the-belviews-ask-the-players-to-find-and-speak-with-cyrus-upon-visiting-castle-ravenloft)<br>
-<br>
+[Argynvost's Skull](https://skroxiousdm.github.io/SkroxiousDM/RoS-CoS-RRL/Recap/Quests#find-the-skull-of-argynvost-and-teturn-it-to-the-mausoleum)<br>
+
 ## Dinner with the Devil
 ### Invitation
 ***To [Player Names],<br><br>I have heard tell of your recent exploits in my domain, and wish to better know those who have arrived in my beloved land of Barovia. As such, I bid you dine at my castle so that we may meet in civilized surroundings.<br>I expect your attendance at dusk on the night of the moon's last light, the 14th night of Neyavr. Your passage to and from my home will be a safe one, and you shall be honored guests for as long as you remain at Castle Ravenloft.<br>My carriage shall meet you at the crossroads of Ravenloft, beyond the western gate. I await your arrival.<br><br>Your host,<br>Strahd von Zarovich***
