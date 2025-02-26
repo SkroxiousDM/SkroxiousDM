@@ -56,6 +56,13 @@ When Strahd invaded the valley hundreds of years later, many members of the drui
 
 Soldav is hidden somewhere in the Balinok Mountains, protected by a shroud of enchanted mist. So long as the mist remains, Soldav’s enemies can never find it, nor can they remember where it lies. Kavan remembers only the landmark that marks its entrance: a place in the mountains where two waterfalls run together. "Without a token of the Ladies, however," he warns, "you will never find the entrance, nor will Soldav's elders grant you entry."
 
+## Origins of The Keepers of the feather
+The Keepers were first founded by Livius Martikov, Davian’s grandfather and a little-known accomplice of the paladin Lugdana, who rooted out nests of vampire spawn across the valley using the Holy Symbol of Ravenkind one hundred years ago.
+
+As a younger man, Livius helped Lugdana and Burgomaster Ismark Antonovich steal the Holy Symbol of Ravenkind—then called the Sigil of the Sun—from Castle Ravenloft shortly after Strahd began his hibernation. (Livius stole it, as well as the Tome of Strahd, from the depths of the catacombs while Ismark and Lugdana distracted Strahd’s servants and children.)
+
+It was Ismark the Great who proposed renaming the Sigil to be the Holy Symbol of Ravenkind in order to inspire the Barovian people and conceal its origins, crafting a tale in which an angel in the shape of a raven delivered the relic to Lugdana directly. (Livius always found the tale incredibly amusing.) Lugdana would continue to wield the Holy Symbol until her death fighting the Green God Chernovog, a greater demon conjured by the mad witch Baba Zelenna, atop Yester Hill. The Holy Symbol was thought lost when Lugdana fell—seemingly for good.
+
 ## Sir Godfrey & Argynvost
 A great battle took place on the floodplain east of the mansion, and many of the knights of the Order were slaughtered. As Godfrey and his commander, Vladimir Horngaard, led a final sortie against the enemy general’s camp, both were killed as well—Commander Horngaard by Zarovich himself, and Godfrey by Zarovich’s second-in-command: a cruel-eyed dusk elf bearing twin scimitars. (If asked, Godfrey can confirm that the elf was Rahadin, the current chamberlain of Castle Ravenloft.)
 
