@@ -1,7 +1,7 @@
-[History](https://skroxiousdm.github.io/SkroxiousDM)/RoS-CoS-RRL/Recap/Lore)
+[History](https://skroxiousdm.github.io/SkroxiousDM/RoS-CoS-RRL/Recap/Lore)
 
-[library](https://skroxiousdm.github.io/SkroxiousDM)/simple-quest/lore/journalentry.bxzjoi9ypv07blbs/journalentry.bxzjoi9ypv07blbs.md)
+[library](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.bxzjoi9ypv07blbs/journalentry.bxzjoi9ypv07blbs.md)
 
-[Factions](https://skroxiousdm.github.io/SkroxiousDM)/simple-quest/lore/journalentry.zdyubgmrks0epify/journalentry.zdyubgmrks0epify)
+[Factions](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.zdyubgmrks0epify/journalentry.zdyubgmrks0epify)
 
-[Dramatis Personae](https://skroxiousdm.github.io/SkroxiousDM)/simple-quest/lore/journalentry.cgswpn6ymjxd4y5s/journalentry.cgswpn6ymjxd4y5s)
+[Dramatis Personae](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.cgswpn6ymjxd4y5s/journalentry.cgswpn6ymjxd4y5s)
