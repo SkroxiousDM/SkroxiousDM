@@ -1,1 +1,0 @@
- monologuing, "The wizards who built this place thought themselves safe, observing the Vestiges through the amber. But the path of wisdom shows us that observing a thing changes a thing. Little did the wizards know that they, too, were being observed... and being changed..."
