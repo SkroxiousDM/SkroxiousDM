@@ -31,9 +31,17 @@ This six-foot shaft of ash wood is adorned with carvings of wild animals, vines,
 - An ornate electrurn censer with platinum filigree (worth 750 gp)
 
 ### Icon of Dawn’s Grace
-The Icon of Dawn’s Grace is largely as described in Icon of Ravenloft (p. 222), but does not grant the benefits of a protection from evil and good spell. Instead, it gains the following additional feature, which can be used only by a creature attuned to the icon:
-
-Protection from Evil. You can present the icon as an action to grant yourself and each creature within 30 feet of you the effect of a protection from evil and good spell against fiends and undead until the start of your next turn. Once used, this property can’t be used again until the next dawn.
+The Icon of Dawn’s Grace is largely as described in 
+<details><summary>Icon of Ravenloft</summary>, 
+Wondrous item, legendary (requires attunement by a creature of good alignment)
+ 
+The Icon of Raven loft is a 12-inch-tall statuette made of the purest silver, weighing 10 pounds. It depicts a cleric kneeling in supplication.
+ 
+ Only a creature attuned to the icon can use its properties.
+- **Augury**. You can use an action to cast an augury spell from the icon, with no material components required. Once used, this property can't be used again until the next dawn.
+- **Bane of the Undead**. You can use the icon as a holy symbol while using the Turn Undead or Turn the Unholy feature. If you do so, increase the save DC by 2.
+- **Cure Wounds**. While holding the icon, you can take an action to heal one creature that you can see within 30 feet of you. The target regains 3d8 + 3 hit points, unless it is an undead, a construct, or a fiend. Once used, this property can't be used again until the next dawn.
+- **Protection from Evil**. You can present the icon as an action to grant yourself and each creature within 30 feet of you the effect of a protection from evil and good spell against fiends and undead until the start of your next turn. Once used, this property can’t be used again until the next dawn.</details>
 
 The Icon of Dawn’s Grace is a sentient magic item (see Dungeon Master’s Guide, p. 214) inhabited and empowered by a shard of the Abbot’s divine consciousness. The icon, which is Lawful Good, has hearing and darkvision out to 120 feet and the Intelligence, Wisdom, and Charisma scores of a deva. In addition, it can understand all languages and communicate telepathically with any character that carries or wields it.
 
