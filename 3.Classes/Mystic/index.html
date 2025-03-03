@@ -1,0 +1,4372 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../Hunter/">
+      
+      
+        <link rel="next" href="../Scoundrel/">
+      
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.7">
+    
+    
+      
+        <title>Mystic - SkroxiousDM</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.8608ea7d.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="pink" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#mystic" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="SkroxiousDM" class="md-header__button md-logo" aria-label="SkroxiousDM" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            SkroxiousDM
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Mystic
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="pink" data-md-color-accent="indigo"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 6H7c-3.31 0-6 2.69-6 6s2.69 6 6 6h10c3.31 0 6-2.69 6-6s-2.69-6-6-6m0 10H7c-2.21 0-4-1.79-4-4s1.79-4 4-4h10c2.21 0 4 1.79 4 4s-1.79 4-4 4M7 9c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="pink" data-md-color-accent="blue"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 7H7a5 5 0 0 0-5 5 5 5 0 0 0 5 5h10a5 5 0 0 0 5-5 5 5 0 0 0-5-5m0 8a3 3 0 0 1-3-3 3 3 0 0 1 3-3 3 3 0 0 1 3 3 3 3 0 0 1-3 3"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="SkroxiousDM" class="md-nav__button md-logo" aria-label="SkroxiousDM" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    SkroxiousDM
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Home
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    1. Start Here
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            1. Start Here
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../1.%20Start%20Here/Ability%20Scores/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ability Scores via Stat Banks
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../1.%20Start%20Here/Backstory%20Questions/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Where I’m From
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../1.%20Start%20Here/Beliefs/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Beliefs
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../1.%20Start%20Here/Bond/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Bonds
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../1.%20Start%20Here/Character%20Creation%20Primer/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Character Creation Guidelines
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../1.%20Start%20Here/Character%20Creation%20Steps/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Character Creation Steps
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../1.%20Start%20Here/Code%20of%20Honor/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Code of Honor
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../1.%20Start%20Here/Complication/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Complication
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../1.%20Start%20Here/Flaw/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Flaws
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../1.%20Start%20Here/Motivation/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    RRL Motivations
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../1.%20Start%20Here/Orphan%20Details/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Orphan Details
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../1.%20Start%20Here/Player%20primer/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Player primer
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../1.%20Start%20Here/XP%20per%20level/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    XP per level
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    2. Origins
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            2. Origins
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../2.%20Origins/Changeling/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Changeling
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../2.%20Origins/Dwarves/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Dwarves
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../2.%20Origins/Goblins/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Goblins
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../2.%20Origins/Humans/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Humans
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../2.%20Origins/Ogres/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ogres
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../2.%20Origins/Origin/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Origin
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    3.Classes
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            3.Classes
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Captain/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Captain
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Class/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Class
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Hunter/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Hunter
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    Mystic
+    
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  <span class="md-ellipsis">
+    Mystic
+    
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#mystics-and-the-origins" class="md-nav__link">
+    <span class="md-ellipsis">
+      MYSTICS AND THE ORIGINS
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#class-features" class="md-nav__link">
+    <span class="md-ellipsis">
+      Class Features
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Class Features">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#the-mystic" class="md-nav__link">
+    <span class="md-ellipsis">
+      The Mystic
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#proficiencies" class="md-nav__link">
+    <span class="md-ellipsis">
+      Proficiencies
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#shadow" class="md-nav__link">
+    <span class="md-ellipsis">
+      Shadow
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#equipment" class="md-nav__link">
+    <span class="md-ellipsis">
+      Equipment
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#spellcasting" class="md-nav__link">
+    <span class="md-ellipsis">
+      SPELLCASTING
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="SPELLCASTING">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#cantrips" class="md-nav__link">
+    <span class="md-ellipsis">
+      Cantrips
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#leveled-spells" class="md-nav__link">
+    <span class="md-ellipsis">
+      Leveled Spells
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#casting-a-spell" class="md-nav__link">
+    <span class="md-ellipsis">
+      Casting a Spell
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#spellcasting-ability" class="md-nav__link">
+    <span class="md-ellipsis">
+      Spellcasting Ability
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#favored-spells" class="md-nav__link">
+    <span class="md-ellipsis">
+      Favored Spells
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#approach" class="md-nav__link">
+    <span class="md-ellipsis">
+      APPROACH
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ritual-casting" class="md-nav__link">
+    <span class="md-ellipsis">
+      RITUAL CASTING
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ability-score-improvement-or-feat" class="md-nav__link">
+    <span class="md-ellipsis">
+      ABILITY SCORE IMPROVEMENT OR FEAT
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#blood-magic" class="md-nav__link">
+    <span class="md-ellipsis">
+      Blood Magic
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#spell-mastery" class="md-nav__link">
+    <span class="md-ellipsis">
+      SPELL MASTERY
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#signature-spells" class="md-nav__link">
+    <span class="md-ellipsis">
+      SIGNATURE SPELLS
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Scoundrel/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Scoundrel
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Warrior/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Warrior
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    4.Feats
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            4.Feats
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../4.Feats/Burden/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Burdens
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../4.Feats/Character%20Creation%20Feat/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    CHARACTER CREATION FEATS
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../4.Feats/Class%20Feats/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Class Feats
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../4.Feats/General%20Feats/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    General Feats
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../4.Feats/Origin%20Feats/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Origin Feats
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    5.Equipment
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            5.Equipment
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../5.Equipment/Alchemical%20Elixirs/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Alchemical Elixirs
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../5.Equipment/Armor/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Armor
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../5.Equipment/Lesser%20Artifacts/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Lesser Artifacts
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../5.Equipment/Tools/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Tools
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../5.Equipment/Weapons/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Weapons
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../5.Equipment/equipment/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Equipment
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7" >
+        
+          
+          <label class="md-nav__link" for="__nav_7" id="__nav_7_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    6.Spells
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7">
+            <span class="md-nav__icon md-icon"></span>
+            6.Spells
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../6.Spells/extra%20spells/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Extra spells
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_7_2" id="__nav_7_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Spell Descriptions
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_7_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7_2">
+            <span class="md-nav__icon md-icon"></span>
+            Spell Descriptions
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../6.Spells/Spell%20Descriptions/0Cantrips/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cantrips
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../6.Spells/Spell%20Descriptions/1stLevelSpells/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    1st Level Spells
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../6.Spells/Spell%20Descriptions/2ndLevelSpells/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    2nd Level Spells
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../6.Spells/Spell%20Descriptions/3rdLevelSpells/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    3rd Level Spells
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../6.Spells/Spell%20Descriptions/4thLevelSpells/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    4th Level Spells
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../6.Spells/Spell%20Descriptions/5thLevelSpells/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    5th Level Spells
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../6.Spells/Spell%20Descriptions/6thLevelSpells/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    6th Level Spells
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../6.Spells/Spell%20Descriptions/Spell%20Descriptions/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Spell Descriptions
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../6.Spells/Spell%20Descriptions/SpellBeastiary/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Flaming Servant
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_7_3" id="__nav_7_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Spell Lists
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_7_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7_3">
+            <span class="md-nav__icon md-icon"></span>
+            Spell Lists
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../6.Spells/Spell%20Lists/0%20Spell%20Lists/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    0 Spell Lists
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../6.Spells/Spell%20Lists/Rune%20Singer/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Rune Singer
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../6.Spells/Spell%20Lists/Sorcerer/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Sorcerer
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../6.Spells/Spell%20Lists/Theurg/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Theurg
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../6.Spells/Spell%20Lists/Witch/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Witch
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../6.Spells/Spell%20Lists/Wizard/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Wizard Spell List
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8" >
+        
+          
+          <label class="md-nav__link" for="__nav_8" id="__nav_8_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    7. House Rules
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_8_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_8">
+            <span class="md-nav__icon md-icon"></span>
+            7. House Rules
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../7.%20House%20Rules/1.%20House%20Rules%20Index/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    1. House Rules Index
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../7.%20House%20Rules/Actions%20in%20Combat/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Actions in Combat
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../7.%20House%20Rules/Called%20Shots/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Called Shots
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../7.%20House%20Rules/Conditions/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Conditions
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../7.%20House%20Rules/Corruption_and_Shadow/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Corruption and Shadow
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../7.%20House%20Rules/Crueler%20Critical%20Hits/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Crueler Critical Hits
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../7.%20House%20Rules/Darkvision/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Darkvision
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../7.%20House%20Rules/Exhausting_Combat/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Exhausting Combat
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../7.%20House%20Rules/Expanded%20Actions/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Expanded Actions
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../7.%20House%20Rules/Falling/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Falling
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../7.%20House%20Rules/Fate%20Points/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Fate Points
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../7.%20House%20Rules/Group%20Checks/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Group Checks.
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../7.%20House%20Rules/Horror_and_Madness/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Horror and Madness
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../7.%20House%20Rules/Ingenious%20Proficiency/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ingenious Proficiency
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../7.%20House%20Rules/Initiative/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Initiative
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../7.%20House%20Rules/Metagaming_and_Tabletalk/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Metagaming
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../7.%20House%20Rules/Mounted%20Combat/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Trained mounts
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../7.%20House%20Rules/New%20modifiers%20for%20persuasion%20tests/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    New modifiers for persuasion tests
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../7.%20House%20Rules/OVEREXTENDING_and_MISCASTING/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    OVEREXTENDING and MISCASTING
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../7.%20House%20Rules/Party_Retreat/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Party Retreat
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../7.%20House%20Rules/Pushing_a_Roll/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Pushing a Roll
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../7.%20House%20Rules/Resting_and_Healing/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Resting and Healing
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../7.%20House%20Rules/Resurrection/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Didn’t Come Back Right
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../7.%20House%20Rules/Scarier_Undead/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Scarier Undead
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../7.%20House%20Rules/Secret_DCs/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Secret DCs
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../7.%20House%20Rules/Silver_Standard_Economy/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Silver Standard Economy
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../7.%20House%20Rules/Skill%20Proficiency/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Skill Proficiency
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../7.%20House%20Rules/Social%20Challenges/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Social Challenges
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../7.%20House%20Rules/Success_and_Failure/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Success and Failure
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../7.%20House%20Rules/Training_to_Level_Up/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Training to Level Up
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../7.%20House%20Rules/Underwater_Combat/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Underwater Combat
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../7.%20House%20Rules/Wounds_and_Vigor/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Wounds and Vigor
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9" >
+        
+          
+          <label class="md-nav__link" for="__nav_9" id="__nav_9_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    RoS CoS RRL
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_9_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9">
+            <span class="md-nav__icon md-icon"></span>
+            RoS CoS RRL
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_9_1" id="__nav_9_1_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Player characters
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_9_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9_1">
+            <span class="md-nav__icon md-icon"></span>
+            Player characters
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../RoS-CoS-RRL/Player%20characters/Bogokom/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Bogokom
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../RoS-CoS-RRL/Player%20characters/Dorian%20the%20Monster%20Hunter/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Dorian the Monster Hunter
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../RoS-CoS-RRL/Player%20characters/Party/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    The Party
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../RoS-CoS-RRL/Player%20characters/Radmil%20Silvervein/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Radmil Silvervein
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../RoS-CoS-RRL/Player%20characters/Virgil%20Beauchamp/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Virgil Beauchamp
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../RoS-CoS-RRL/Player%20characters/Vix%20Bogs/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vix Bogs
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_9_2" id="__nav_9_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Recap
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_9_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9_2">
+            <span class="md-nav__icon md-icon"></span>
+            Recap
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../RoS-CoS-RRL/Recap/DramatisPersonae/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Dramatis Personae:
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../RoS-CoS-RRL/Recap/IreenasJournal/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    IreenasJournal
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../RoS-CoS-RRL/Recap/Lore/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    History
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../RoS-CoS-RRL/Recap/Quests/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Barova Village
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../RoS-CoS-RRL/Recap/Treasure/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Treasure
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_10" >
+        
+          
+          <label class="md-nav__link" for="__nav_10" id="__nav_10_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Spoilers
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_10_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_10">
+            <span class="md-nav__icon md-icon"></span>
+            Spoilers
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_10_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_10_1" id="__nav_10_1_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    NPC's
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_10_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_10_1">
+            <span class="md-nav__icon md-icon"></span>
+            NPC's
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Spoilers/NPC%27s/Bildrath%20Cantemir/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Bildrath Cantemir
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Spoilers/NPC%27s/Doru/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Doru
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Spoilers/NPC%27s/Emil%20Toranescu/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Emil Toranescu
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Spoilers/NPC%27s/Escher/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Escher
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Spoilers/NPC%27s/Father%20Donavich/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Father Donavich
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Spoilers/NPC%27s/Gertruda/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Gertruda
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Spoilers/NPC%27s/Ireena%20Kolyana/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ireena Kolyana
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Spoilers/NPC%27s/Ismark%20Kolyanovich/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ismark Kolyanovich
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Spoilers/NPC%27s/Izek%20Strazni/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Izek Strazni
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Spoilers/NPC%27s/Parriwimple/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Parriwimple
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Spoilers/NPC%27s/Rosavalda%20%27Rose%27%20Durst/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Rosavalda 'Rose' Durst
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Spoilers/NPC%27s/Strahd%20von%20Zarovich/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Strahd von Zarovich
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Spoilers/NPC%27s/Thornboldt%20%27Thorn%27%20Durst/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Thornboldt 'Thorn' Durst
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Spoilers/NPC%27s/Volenta%20Papovsky/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Volenta Papovsky
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Spoilers/NPC%27s/Zuleika%20Toranescu/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Zuleika Toranescu
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_10_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_10_2" id="__nav_10_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Places
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_10_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_10_2">
+            <span class="md-nav__icon md-icon"></span>
+            Places
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Spoilers/Places/Barova/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Barova
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Spoilers/Places/Castle%20Ravenloft/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Castle Ravenloft
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Spoilers/Places/Krezkovka/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Krezkovka
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Spoilers/Places/Places/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Places
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Spoilers/Places/Tser%20Pool/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Tser Pool
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Spoilers/Places/Vallakova/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vallakova
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#mystics-and-the-origins" class="md-nav__link">
+    <span class="md-ellipsis">
+      MYSTICS AND THE ORIGINS
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#class-features" class="md-nav__link">
+    <span class="md-ellipsis">
+      Class Features
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Class Features">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#the-mystic" class="md-nav__link">
+    <span class="md-ellipsis">
+      The Mystic
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#proficiencies" class="md-nav__link">
+    <span class="md-ellipsis">
+      Proficiencies
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#shadow" class="md-nav__link">
+    <span class="md-ellipsis">
+      Shadow
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#equipment" class="md-nav__link">
+    <span class="md-ellipsis">
+      Equipment
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#spellcasting" class="md-nav__link">
+    <span class="md-ellipsis">
+      SPELLCASTING
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="SPELLCASTING">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#cantrips" class="md-nav__link">
+    <span class="md-ellipsis">
+      Cantrips
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#leveled-spells" class="md-nav__link">
+    <span class="md-ellipsis">
+      Leveled Spells
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#casting-a-spell" class="md-nav__link">
+    <span class="md-ellipsis">
+      Casting a Spell
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#spellcasting-ability" class="md-nav__link">
+    <span class="md-ellipsis">
+      Spellcasting Ability
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#favored-spells" class="md-nav__link">
+    <span class="md-ellipsis">
+      Favored Spells
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#approach" class="md-nav__link">
+    <span class="md-ellipsis">
+      APPROACH
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ritual-casting" class="md-nav__link">
+    <span class="md-ellipsis">
+      RITUAL CASTING
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ability-score-improvement-or-feat" class="md-nav__link">
+    <span class="md-ellipsis">
+      ABILITY SCORE IMPROVEMENT OR FEAT
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#blood-magic" class="md-nav__link">
+    <span class="md-ellipsis">
+      Blood Magic
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#spell-mastery" class="md-nav__link">
+    <span class="md-ellipsis">
+      SPELL MASTERY
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#signature-spells" class="md-nav__link">
+    <span class="md-ellipsis">
+      SIGNATURE SPELLS
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+<h1 id="mystic">Mystic<a class="headerlink" href="#mystic" title="Permanent link">&para;</a></h1>
+<p>IT IS WIDELY accepted that the world does not only consist of matter, and it is obvious to everyone that there are individuals who can manipulate the flows of both material and non-­material energies. The use of mystical powers is in no way commonplace, not in Ambria, nor among the barbarians. But it is common enough for many cultures to have formed traditions around it. There are many sources of mystical power in the world. These can be tapped by one who understands the underlying laws of nature or through alliances with either the light of the heavens, the spirits of the forest or the darkness of Corruption. Some mystics consider themselves to be scholars of reality and existence; others would claim they are part of a pact that offers them an intimate relationship with the source of their power.</p>
+<h4 id="mystics-and-the-origins">MYSTICS AND THE ORIGINS<a class="headerlink" href="#mystics-and-the-origins" title="Permanent link">&para;</a></h4>
+<p>Changelings and humans dominate the domain of the mystical, at least according to public opinion. The stories of the witches of the barbarian clans are spread far and wide and it is near impossible not to notice the presence and influence of Ordo Magica when in Ambria. The theurgs of the Light are a less obvious group since they tend to keep to the temples or move among the faithful, but the Lawgiver is known to bless some of his champions with extraordinary powers.</p>
+<p>Mystics among the goblins are shamans, bound to no mystic tradition but earning high status among their own kind with their home-­brewed theories regarding the world and its spirits. Changelings often have the mystical gift – those who grow up among the barbarians are sent away to train with the witches, while changelings in the slums of Ambria become self-­taught mystics without any specific tradition. Ogres with the mystical gift may seem like a rarity, but Ordo Magica has documented a fair number of cases since the Ambrians arrived in the region.</p>
+<h2 id="class-features">Class Features<a class="headerlink" href="#class-features" title="Permanent link">&para;</a></h2>
+<h6 id="the-mystic">The Mystic<a class="headerlink" href="#the-mystic" title="Permanent link">&para;</a></h6>
+<table>
+<thead>
+<tr>
+<th>Level</th>
+<th>Proficiency Bonus</th>
+<th>Features</th>
+<th>Favored Spells</th>
+<th>Maximum Spell Level</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1st</td>
+<td>+1</td>
+<td>Spellcasting, Approach, Ritual Casting, Magic Sense</td>
+<td>3/1</td>
+<td>1st</td>
+</tr>
+<tr>
+<td>2nd</td>
+<td>+1</td>
+<td>Approach, Ability Score Improvement or Feat</td>
+<td>5/2</td>
+<td>1st</td>
+</tr>
+<tr>
+<td>3rd</td>
+<td>+2</td>
+<td>Ritual Casting, Blood Magic, Approach</td>
+<td>6/3</td>
+<td>2nd</td>
+</tr>
+<tr>
+<td>4th</td>
+<td>+2</td>
+<td>Ritual Casting, Ability Score Improvement or Feat</td>
+<td>6/4</td>
+<td>2nd</td>
+</tr>
+<tr>
+<td>5th</td>
+<td>+3</td>
+<td>Approach, Ability Score Improvement or Feat</td>
+<td>6/5</td>
+<td>3rd</td>
+</tr>
+<tr>
+<td>6th</td>
+<td>+3</td>
+<td>Ritual Casting, Ability Score Improvement or Feat</td>
+<td>6/6</td>
+<td>3rd</td>
+</tr>
+<tr>
+<td>7th</td>
+<td>+4</td>
+<td>Approach, Ritual Casting</td>
+<td>6/7</td>
+<td>4th</td>
+</tr>
+<tr>
+<td>8th</td>
+<td>+4</td>
+<td>Ability Score Improvement or Feat</td>
+<td>6/8</td>
+<td>4th</td>
+</tr>
+<tr>
+<td>9th</td>
+<td>+5</td>
+<td>Approach, Spell Mastery</td>
+<td>6/9</td>
+<td>5th</td>
+</tr>
+<tr>
+<td>10th</td>
+<td>+5</td>
+<td>Ability Score Improvement or Feat, Signature Spells</td>
+<td>6/10</td>
+<td>5th</td>
+</tr>
+</tbody>
+</table>
+<p>As a mystic, you have the following class features:</p>
+<h4 id="proficiencies">Proficiencies<a class="headerlink" href="#proficiencies" title="Permanent link">&para;</a></h4>
+<ul>
+<li>Armor: Light armor</li>
+<li>Weapons: Simple weapons</li>
+<li>Tools: None</li>
+<li>Saving Throws: Wisdom, then choose either Intelligence or Charisma</li>
+<li>Skills: Choose three from Arcana, Deception, History, Insight, Investigation, Medicine, Persuasion and Religion</li>
+</ul>
+<h4 id="shadow">Shadow<a class="headerlink" href="#shadow" title="Permanent link">&para;</a></h4>
+<p>Your Corruption Threshold is equal to twice the total of your proficiency bonus plus your spellcasting modifier, to a minimum of 4. See your mystic approach for more information.</p>
+<h4 id="equipment">Equipment<a class="headerlink" href="#equipment" title="Permanent link">&para;</a></h4>
+<p>You start with the following equipment, in addition to the equipment granted by your background:
+- (a) a horseman's bow and quiver of 20 arrows or (b) a staff
+- (a) a scholar’s pack, or (b) an explorer’s pack
+- any one light armor, two daggers, and a component pouch</p>
+<h3 id="spellcasting">SPELLCASTING<a class="headerlink" href="#spellcasting" title="Permanent link">&para;</a></h3>
+<p>You are a wielder of arcane might, drawing on unseen powers to bend the world to your will. However, such changes are not without a price and mystics face a constant threat of gaining Corruption that can ruin their body and soul. For more about Corruption, see .</p>
+<h4 id="cantrips">Cantrips<a class="headerlink" href="#cantrips" title="Permanent link">&para;</a></h4>
+<p>At 1st level, you know six cantrips of your choice from the spell list for your mystical approach. When you cast most cantrips (see Favored Spells, below) you gain 1 point of temporary Corruption.</p>
+<h4 id="leveled-spells">Leveled Spells<a class="headerlink" href="#leveled-spells" title="Permanent link">&para;</a></h4>
+<p>You know two 1st level spells from the spell list belonging to your mystical approach. When you gain a level in mystic you learn another two spells, which can be any spell on your list, up to the spell level shown on the Mystic table. You can also swap one spell you already know for another one of the same level.</p>
+<h4 id="casting-a-spell">Casting a Spell<a class="headerlink" href="#casting-a-spell" title="Permanent link">&para;</a></h4>
+<p>To cast a spell you take an appropriate action and gain temporary Corruption. A cantrip causes 1 point of temporary Corruption while a leveled spell causes 1d4 plus the spell’s level points of temporary Corruption.
+    Example: Mira’s ogre mystic Grumpa casts message, a cantrip, and gains 1 point of Corruption. Later, Grumpa uses knock, a 2nd-­level spell. She now adds 1d4+2 points of Corruption.
+Some spells allow you to cast them using a higher level spell. You can cast up to your maximum spell level as long as you pay the additional Corruption cost.</p>
+<h4 id="spellcasting-ability">Spellcasting Ability<a class="headerlink" href="#spellcasting-ability" title="Permanent link">&para;</a></h4>
+<p>Your mystic approach determines your spellcasting ability, which affects your Corruption Threshold, spell save DC and your spell attack modifier:
+    Corruption Threshold = (your proficiency bonus + your spellcasting ability modifier) × 2
+    Spell save DC = 8 + your proficiency bonus + your spellcasting ability modifier
+    Spell attack modifier = your proficiency bonus + your spellcasting ability modifier</p>
+<h4 id="favored-spells">Favored Spells<a class="headerlink" href="#favored-spells" title="Permanent link">&para;</a></h4>
+<p>There are certain spells that a mystic has studied extensively, so much that they can mitigate the corrupting influence of the familiar magic.</p>
+<p>At 1st level, you can select 3 cantrips and 1 leveled spell. When you cast a favored cantrip you gain no Corruption, and when you cast a leveled favored spell you gain Corruption equal only to the level of the spell. Each time you gain a level of mystic you can make more spells favored, as shown on the Mystic table under Favored Spells, the first number is the current amount of favored cantrips and the second number is for leveled spells.</p>
+<p>When you cast a favored spell at a higher level you add the new level as Corruption instead of the base level. For example, if you cast a favored 3rd level spell at 5th level, you gain 5 temporary Corruption instead of 3.</p>
+<p>Certain spells are poorly researched, unreliable, or on the edge of dark sorcery. These spells cannot be favored. Unfavored spells are marked with an asterisk (<code>*</code>) in the spell lists found (here <a href="../../6.Spells/Spell%20Lists/0%20Spell%20Lists/">0 Spell Lists</a>) .</p>
+<h3 id="approach">APPROACH<a class="headerlink" href="#approach" title="Permanent link">&para;</a></h3>
+<p>At first level you also choose your approach, which determines how you learned your arcane knowledge and how you understand the nature of the world. You might be an Artifact Crafter that makes magical items; a Sorcerer that seeks shortcuts to power despite their danger; a Staff-­mage that gathers and binds power; a Symbolist that wields word-­magic; a Rune Singer that brings forth magic with their voice; a Theurg that wields the power of the Sun God; a Witch that follows the old ways; or a Wizard that learned an orderly and philosophical approach to magic. Or you might be self-­taught, without boundaries but a danger to yourself and others.</p>
+<p>Your approach gives you benefits at 1st, 2nd, 3rd, 5th, 7th and 9th levels.</p>
+<h3 id="ritual-casting">RITUAL CASTING<a class="headerlink" href="#ritual-casting" title="Permanent link">&para;</a></h3>
+<p>At 1st level, you may choose a spell that you do not already know that is on your mystic approach spell list, has the ritual tag, and does not exceed your current maximum spell level. If you do so, you gain permanent Corruption (see {[[Corruption &amp; Shadow]]}) equal to half the spell level, rounded up. If the ritual is a cantrip, you gain no permanent Corruption. You can only cast the chosen spell as a ritual – the ritual version of a spell takes 10 minutes longer to cast than normal and can only be cast at its base level. You gain no Corruption from casting one of these spells.</p>
+<p>You may also learn another spell as a ritual using these rules at 3rd, 4th, 6th and 7th level.</p>
+<h3 id="ability-score-improvement-or-feat">ABILITY SCORE IMPROVEMENT OR FEAT<a class="headerlink" href="#ability-score-improvement-or-feat" title="Permanent link">&para;</a></h3>
+<p>When you reach 2nd level, and again at 4th, 5th, 6th, 8th, and 10th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.</p>
+<p>Instead of improving your ability scores you can instead choose to gain a feat. See  Classes and Feats}for more about feats.</p>
+<pre><code> The Myth of Pure Magic
+Within all traditions there is a myth of Pure Magic, the undefiled miracle. In different versions&lt;br/&gt; it tells about a time when the world was unspoiled and when the use of mystical powers yielded no Corruption.&lt;br/&gt;Then something happened. Evil entered the world and with it came the blight.&lt;br/&gt;
+Some mystics dream about recreating the pure magic of yore by healing the wounds of the world, expelling&lt;br/&gt; evil, slaying the World Serpent or reclaiming the long lost arch magic. However, most mystics accept Corruption&lt;br/&gt; as a part of their trade and just something to be dealt with.&lt;br/&gt;
+</code></pre>
+<h3 id="blood-magic">Blood Magic<a class="headerlink" href="#blood-magic" title="Permanent link">&para;</a></h3>
+<p>At 3rd Level you draw on your life force reserve to fuel your magic. You’ll pay the price later, but for now you need all the power you can grasp.</p>
+<p>You can expend one or more Recovery Die to increase your maximum spell level by 1 per die to a maximum of half your proficiency modifier [round up].</p>
+<p>For example at 3rd level you could spend 1 recovery die [1/2 your PB of +2] to cast a spell you know as a level 3 spell.  At 9th level you could spend 3 recovery dice to cast a spell you know at 8th level.</p>
+<h3 id="spell-mastery">SPELL MASTERY<a class="headerlink" href="#spell-mastery" title="Permanent link">&para;</a></h3>
+<p>At 9th level, you have achieved such mastery over certain spells that you can cast them at will and gain no Corruption. Choose two 1st or 2nd level spells that you know. You can cast them at their base level without gaining any Corruption. If you cast them as a higher level, you gain Corruption as normal.</p>
+<h3 id="signature-spells">SIGNATURE SPELLS<a class="headerlink" href="#signature-spells" title="Permanent link">&para;</a></h3>
+<p>When you reach 10th level, you gain mastery over two powerful spells and can cast them with little effort. Choose two 3rd-­level or lower spells that you know. You can cast them at their base level without gaining any Corruption. If you cast them as a higher level, you gain Corruption as normal.</p>
+<h1 id="mystic-approaches">Mystic Approaches<a class="headerlink" href="#mystic-approaches" title="Permanent link">&para;</a></h1>
+<p>THE FOLLOWING APPROACHES are available: the Artifact Crafter which invests magical power into objects, the Self-­taught mystic that treads a dangerous line, the Sorcerer who has already crossed that line, the Staff Mage which uses their weapon to focus their power, the Symbolist who organizes and focuses magical thoughts in writing, the Theurg who understands magic through their god Prios, the Rune Singers who best understand the magic of the world and the Witches who lead the barbarians in their worship of nature.</p>
+<h2 id="artifact-crafter">Artifact Crafter<a class="headerlink" href="#artifact-crafter" title="Permanent link">&para;</a></h2>
+<p>The making of artifacts is a highly sought-­after art form that for a long time was lost to elves and humans. However, among the dwarves it has been kept alive, as an almost sacred practice.</p>
+<p>Lately, the knowledge has been revived by humans and elves, in both cases thanks to the dwarves of Davokar. The elves received it as a gift from a former ally, to aid them in these dark days, but how Ordo Magica managed to get their hands on the lost art is not known. However it happened, the knowledge has spread so that every chapter soon will have at least one artifact crafter in its service.</p>
+<p>The sudden reemergence of artifact crafting among mystics has made others question the source of the knowledge. One belief is that the Ambrian mystics have stolen it from the Dwarves – maybe even captured and tortured a dwarf – while others suspect that the rulers of the Underworld have traded this gift in exchange for something very valuable. What version lays closest to the truth is not easily guessed and the Grand Master refuses to speak on the topic.</p>
+<h4 id="titles">Titles<a class="headerlink" href="#titles" title="Permanent link">&para;</a></h4>
+<p>While the dwarves may have specific titles to go with the ever-­increasing understanding of their artifact crafters, they have not shared these with anyone else. In Ordo Magica, artifact crafters share the same titles as other magic users and those that are self-­taught can give themselves what names please them best.</p>
+<h4 id="corruption">Corruption<a class="headerlink" href="#corruption" title="Permanent link">&para;</a></h4>
+<p>Artifact Crafters use physical objects to mitigate the effects of Corruption. They still understand Corruption based on their origin and background – for example, an Ordo Magica Artifact Crafter still views Corruption as a natural reaction to magic, just one that can be filtered and reduced by the physical presence of an artifact. Dwarves see Corruption as one more piece of evidence of the darkness now consuming the world and strive to use discipline alongside their powers to slow its conquest.</p>
+<h4 id="spellcasting-ability_1">Spellcasting Ability<a class="headerlink" href="#spellcasting-ability_1" title="Permanent link">&para;</a></h4>
+<p>You use talismans to help manage the cost of Corruption but otherwise use the normal mystic rules. You can favor cantrips and spells as normal, and each talisman is bonded to one spell, reducing its Corruption whenever it is cast. You use Wisdom as your spellcasting ability modifier. You learn spells from the Rune Singer tradition list.</p>
+<h3 id="talisman-crafter">Talisman Crafter<a class="headerlink" href="#talisman-crafter" title="Permanent link">&para;</a></h3>
+<p>During a long rest you can create a talisman to help you channel the power of a spell. You begin an adventure with one talisman already prepared. You cannot have more talismans than your proficiency bonus. While you possess the talisman, when you cast that spell you gain half the normal temporary Corruption (rounding up to a minimum of 1).</p>
+<p>When you take an extended rest, you can divest yourself of all talismans and then begin to prepare new ones with the next long rest.</p>
+<h3 id="artifact-expert">Artifact Expert<a class="headerlink" href="#artifact-expert" title="Permanent link">&para;</a></h3>
+<p>At 2nd level, you know something about the powerful secrets of the old rune smiths. At higher levels you are able to create lesser artifacts.</p>
+<p>At 2nd level, you can attempt an Intelligence (Investigation) check to determine the spell associated with a talisman. The DC is equal to 10 plus the spell level (DC 10 for cantrips). If you do not know the spell invested into the talisman you cannot use the talisman.</p>
+<p>At 3rd level, your understanding of artifacts is extensive enough that you are not as affected by their corruptive power. You may reduce your cost of an artifact’s permanent Corruption by 1, to a minimum of 1 Corruption.</p>
+<p>At 5th level, you are able to complete construction of a lesser artifact (see ) when you complete an extended rest (including the one before an adventure begins).</p>
+<h3 id="talisman-master">Talisman Master<a class="headerlink" href="#talisman-master" title="Permanent link">&para;</a></h3>
+<p>At 7th level you can use a number of talismans equal to twice your proficiency bonus. Making a new talisman still requires a long rest to prepare.</p>
+<h3 id="artifact-master">Artifact Master<a class="headerlink" href="#artifact-master" title="Permanent link">&para;</a></h3>
+<p>At 9th level you can create one artifact of greater power. This is the work of a lifetime of learning and effort and so can only be accomplished once. The Game­master has further rules and sample artifacts, see Greater Artifacts in the Ruins of Symbaroum Game­master’s Guide.</p>
+<h2 id="self-taught">Self-­taught<a class="headerlink" href="#self-taught" title="Permanent link">&para;</a></h2>
+<p>You are a Self-­taught mystic, excluded from the traditions, never accepted by your peers and completely uninterested in the narrow worldviews they offer. However, your freedom comes at a price: Corruption is lurking around each corner and you are fair game to witch hunters and Black Cloaks. Whether you wander from village to village or hide in a bustling city, you probably earn your living by offering your services as an occult consultant or a finder of misplaced objects.</p>
+<p>Particularly gifted individuals have always been able to bend and break seemingly inescapable laws of nature, and many scholars claim that it was through coalitions of such independent, or untamed, mystics that the traditions first arose. Whether this is true or not, there occasionally are individuals who either choose or are forced to study on their own, or in smaller groups.</p>
+<p>Independent mystics are not burdened with the theories of a traditions, which gives them more freedom in their choice of powers. However, they are also much more vulnerable to Corruption. Many untamed mystics tend to evolve their own understanding of the world and come to espouse theories that contradict those of the established traditions.</p>
+<h4 id="titles_1">Titles<a class="headerlink" href="#titles_1" title="Permanent link">&para;</a></h4>
+<p>As a Self-­taught mystic, you’re free to call yourself whatever you wish, although both Ordo Magica and the Church of Prios take a very dim view of folks who use a title that they have not earned.</p>
+<h4 id="corruption_1">Corruption<a class="headerlink" href="#corruption_1" title="Permanent link">&para;</a></h4>
+<p>With limited access to new spells and the innate understanding of how to use your personal focus, most self-­taught mystics think of Corruption as a secondary consideration. You do not know how to favor spells and cannot have any favored spells or cantrips. It is only as you gain power that the marks of Corruption become more prominent and the watching eyes of the villagers become colder and less trusting; then you must choose between gathering more power or more attention. The gift of freedom is double-­edged and darkness is drawn to the gifted as envy to those with talent. The power of Corruption cuts deep and must be kept under control; many a free mystic has accepted the darkness although it truly is a kiss of death.</p>
+<h4 id="spellcasting-ability_2">Spellcasting Ability<a class="headerlink" href="#spellcasting-ability_2" title="Permanent link">&para;</a></h4>
+<p>Self-­taught mystics rely on learning and then applying the inherent principles of magic by experimentation. They use Intelligence as their spellcasting ability modifier. You learn spells from any of the traditions lists other than the Theurg (see <a href="../../6.Spells/Spell%20Lists/0%20Spell%20Lists/">0 Spell Lists</a>).</p>
+<h3 id="boundless-magic">Boundless Magic<a class="headerlink" href="#boundless-magic" title="Permanent link">&para;</a></h3>
+<p>With your Self-­taught approach, you can learn spells from any of the given spell lists. However, you only know three cantrips and one 1st level spell at 1st level.</p>
+<h3 id="personal-investment">Personal Investment<a class="headerlink" href="#personal-investment" title="Permanent link">&para;</a></h3>
+<p>At 2nd level when you cast a spell you can choose to put some of your personal power into it. You cast the spell as if it was using the highest spell level you know but gain Corruption as if it was cast at its base level. You then must make a Constitution saving throw against your own spell save DC. On a failure you gain a level of exhaustion.</p>
+<h3 id="natural-alchemy">Natural Alchemy<a class="headerlink" href="#natural-alchemy" title="Permanent link">&para;</a></h3>
+<p>At 3rd level, if you take a long rest in a wild area, you can prepare a number of tonics equal to your proficiency bonus. Each tonic restores one Hit Die when consumed. The tonics do not keep well, and lose their effectiveness within 24 hours.</p>
+<h3 id="steadfast">Steadfast<a class="headerlink" href="#steadfast" title="Permanent link">&para;</a></h3>
+<p>At 5th level, as a Self-­taught mystic, you have learned to have both an iron will and stomach. You can use your reaction to give yourself advantage on a Constitution or Wisdom saving throw. You must then take a short or longer rest before using this feature again.</p>
+<p>At 7th level, when you succeed at a Constitution or Wisdom saving throw you take no damage from the effect. If you fail the saving throw you take half damage from the effect.</p>
+<p>At 9th level, when you succeed at a Constitution or Wisdom saving throw and the effect was caused by a spellcaster then that spellcaster takes 1d6 psychic damage.</p>
+<h2 id="sorcerer">Sorcerer<a class="headerlink" href="#sorcerer" title="Permanent link">&para;</a></h2>
+<p>The character is one of those who are arrogant or desperate enough to cling to the darkness. While other mystical traditions do everything they can to avoid the soul-­eroding powers of Corruption, the Sorcerer chooses to do the opposite.</p>
+<p>The legends are teeming with sorcerers: mystics who draw their power from musty wellsprings or gain their corrupt gifts from creatures of evil. It is harder to find them in the real world, but those who know how to read the Shadows can sense their presence or see traces of their tainted work.</p>
+<p>Korinthia’s people faced the undead servants of the Dark Lords during The Great War, and while the Dark Lords perished, their parasitic powers continued to drain the life out of Alberetor, forcing the Ambrians to flee north. There they instead faced the blighted creatures of Davokar, born from another kind of evil that festers in the fallen ruins of ancient Symbaroum.</p>
+<p>Sorcery is the mystical tradition that comprises powers and rituals fueled by Corruption and taint, whose usage provides power in the short run, but corrodes the mystic’s body and soul in the long run. Theurgs active among the Twilight Friars gather rituals of sorcery as well as blight-­stricken artifacts in an attempt to understand this new, dark enemy. Within their monastery in the Titans, it is said that the Black Cloaks hide dark vaults oozing with corruptive energies and echoing with the lamentations of the poor, tainted souls kept there for study.</p>
+<h4 id="titles_2">Titles<a class="headerlink" href="#titles_2" title="Permanent link">&para;</a></h4>
+<p>Would-­be Sorcerers begin as either lowly members of another Sorcerer’s cult, desperately believing that if they please their master then they will be rewarded with power. And, sometimes, this may be true, though most cult members are only useful to their leader as scapegoats or sacrifices.</p>
+<p>Still, some become acolytes, the first true step on the path of sorcery. Changelings and others who already display magical affinities can become an acolyte directly. All such students must be wary – while their master has much to teach them, the master might also feel threatened by a too-­successful acolyte and decide to feed them to an abomination. Still, the most powerful rituals require a great amount of concentrated effort that only acolytes can provide, so the Sorcerer needs their students, just like the student needs their master.</p>
+<p>At some point, an acolyte will decide they know enough and wish to escape their master before they find themselves on the sacrificial altar. If they are successful then they may give themselves the title Sorcerer and begin to collect their own followers. If they fail, well perhaps their blood will be useful for the next ritual.</p>
+<h4 id="corruption_2">Corruption<a class="headerlink" href="#corruption_2" title="Permanent link">&para;</a></h4>
+<p>In the view of the sorcerer the world is dying or already dead, and Corruption is but one of many symptoms of its irredeemable state. To fight Corruption is like pretending that death does not exist. Better to know it, and learn how to understand and use it as much as possible before everything meets its fated end.</p>
+<p>To walk side by side with darkness is a precarious act of balance, to say the least. Not to give in to darkness is the key, for doing so would surely mean being completely devoured. Wise Sorcerers accept Corruption, and exploit it, while still keeping a distance from its cold embrace, for as long as they possibly can.</p>
+<h4 id="spellcasting-ability_3">Spellcasting Ability<a class="headerlink" href="#spellcasting-ability_3" title="Permanent link">&para;</a></h4>
+<p>Sorcerers rely on their willpower and force of personality to use their own reserves of personal power. You use Charisma as your spellcasting ability modifier. You learn spells from the Sorcerer tradition list.</p>
+<h3 id="the-darkened-path">The Darkened Path<a class="headerlink" href="#the-darkened-path" title="Permanent link">&para;</a></h3>
+<p>You have proficiency in your choice of either Deception or Intimidation.</p>
+<p>Sorcerers are used to bearing Corruption as they seek to gain ever greater power. When you make a Corruption check, you have advantage on the d20 roll. Note: this is for the initial roll to determine if you gain a mark of Corruption, not the roll to determine the mark’s nature.</p>
+<h3 id="the-shadowed-slope">The Shadowed Slope<a class="headerlink" href="#the-shadowed-slope" title="Permanent link">&para;</a></h3>
+<p>At 2nd level when you cast an unfavored spell of 4th level or lower, and you have permanent Corruption equal to the spell level or higher, you gain one less temporary Corruption than normal, to a minimum of 1 point.</p>
+<p>Example: Lightning Bolt is an unfavored spell and would normally cause 1d4+3 points of temporary Corruption. A Sorcerer might gain only 1d4+2 temporary Corruption instead.</p>
+<h3 id="the-power-of-corruption">The Power of Corruption<a class="headerlink" href="#the-power-of-corruption" title="Permanent link">&para;</a></h3>
+<p>At 3rd level, a Sorcerer can draw on their Corruption in order to power their spells. You can cast spells up to a level total equal to or lower than your permanent Corruption without gaining any Corruption. Each spell must be equal to or lower than your maximum spell level. When you take an extended rest your total of cast spells resets to zero.</p>
+<p>Example: If you have 5 permanent Corruption then you could cast up to five 1st level spells, two 2nd level spells and one 1st level spell, one 3rd level spell and one 2nd level spell, or any other combination totaling to five spell levels. Then you would need an extended rest before doing so again.</p>
+<h3 id="the-call-of-darkness">The Call of Darkness<a class="headerlink" href="#the-call-of-darkness" title="Permanent link">&para;</a></h3>
+<p>At 5th level, the Sorcerer can make use of the shadows that lie in the hearts of others. When you cast a spell that requires a Wisdom saving throw, each affected creature adds its permanent Corruption to the spell saving throw DC. If the creature is thoroughly corrupt (see [[Corruption &amp; Shadow]]) then this effect does not apply.</p>
+<h3 id="revenant-strike">Revenant Strike<a class="headerlink" href="#revenant-strike" title="Permanent link">&para;</a></h3>
+<p>At 7th level when you kill a living creature on your turn, you may choose to gain a point of temporary Corruption. If you do so, you can use your bonus action to cause the slain creature to rise immediately as an undead (use Dragoul stats) under your control. It retains its initiative count but you now control the creature during its turn. This power has no effect on abominations.</p>
+<p>After the combat, the creature collapses and cannot be reanimated.</p>
+<h3 id="unholy-aura">Unholy Aura<a class="headerlink" href="#unholy-aura" title="Permanent link">&para;</a></h3>
+<p>At 9th level you are surrounded by a field of negative energy. You can use your bonus action to cause each creature of your choice within 30 feet of you to make a Constitution saving throw, inflicting 1d6 necrotic damage for each point of permanent Corruption that you possess, or half that amount on a success. You must take a short or longer rest before using this feature again.</p>
+<h2 id="staff-mage">Staff Mage<a class="headerlink" href="#staff-mage" title="Permanent link">&para;</a></h2>
+<p>The mystics called Staff Mages have gotten their epithet from the rune covered staffs they always carry. A rune staff is an expression of the Staff Mage’s strength as well as a powerful weapon – something that has led to some Wizards of Ordo Magica calling them by degrading names like “wand-­throwers” or “broomsticks.” To the Staff Mage, the staff is an extension of their soul and to experienced staff mages it may sometimes be difficult to tell where the mage ends and the staff begins; they are part of the same whole.</p>
+<p>Whatever you call them, Staff Mages are said to descend from an order of warrior monks, tasked with protecting Symbaroum’s last emperor. After the fall of Symbaroum, they withdrew to their castle deep inside Davokar. It was not until recent times that they became known to the people of the south; before that they only sought new recruits among the northern barbarian clans – individuals suited for an ascetic life in the shadow of death. Many of the potentials tended to be changelings.</p>
+<p>With the darkness spreading through Davokar, the Staff Mages have expanded their area of search to include the southerners and their realm. Hence, the plainly dressed warrior monks with their characteristic rune staffs can sometimes be seen visiting Ambria’s duchies and courts, hunting for novices and allies in the fight against the horrors haunting the ruins of Davokar.</p>
+<p>The Order of Staff Magic consists of a number of ascetic warrior monks who see themselves as descendants to the guard of Symbaroum’s last emperor. The Staff Mages live in their castle deep inside the forest, in the wild parts of Davokar where ruins from the fallen empire constantly remind them of their past failure. According to their myths, the fall of Symbaroum was directly connected to the death of the emperor, and as his bodyguards it was their duty to keep him alive. Hence, in the minds of the staff mages, the fall of Symbaroum was their doing and with the destruction of the empire, darkness entered this part of the world.</p>
+<p>It is up to the now living Staff Mages to correct the errors of the past, meaning that they must fight Corruption and finally resurrect the fallen empire. To fight against Corruption they use their staff to capture and bind Corruption, but there is danger in this as well. They have a valuable ally in the Iron Pact; even if the mages are not official members of the pact, they often cooperate with the elves. However, the Iron Pact and the Staff Mages are not always in agreement, particularly on the idea that a new emperor must take his (or her) place on the legendary Throne of Thorns in Symbar – while the mages regard the emperor’s death as the triggering factor, the elves remember the emperor himself as the root of all evil.</p>
+<p>Aside from attacking those who from ignorance or a hunger for power fraternize with the powers of Corruption, the Staff Mages continuously seek “The descendant and rightful heir of the last emperor”. The search is as difficult as it is frustrating, with many mages in serious disagreement regarding both how to orchestrate the search and how to define the target. Most Staff Mages prefer the more tangible combat against abominations, Sorcerers and the few treasure hunters who venture so far into Davokar that they get close to the heart of Symbaroum: the ruined city of Symbar and its empty throne.</p>
+<h4 id="titles_3">Titles<a class="headerlink" href="#titles_3" title="Permanent link">&para;</a></h4>
+<p>The order of Staff Mages has three titles: Staffless (apprentices; i.e. established mystics who train with the order but have yet to earn a staff), Rune Staff (those who have received a staff) and finally the Staff Masters.</p>
+<h4 id="corruption_3">Corruption<a class="headerlink" href="#corruption_3" title="Permanent link">&para;</a></h4>
+<p>The order teaches that Corruption is a side-­effect of the negligent exercise of power. Mages do not regard Corruption as immoral in itself, but emphasize that the Corruption of the mystic can become the enemy’s weapon; all mages are taught that Sorcerers can use the mage’s own Corruption against him or her, which is why Corruption must be avoided.</p>
+<p>The order also keeps older and darker lessons alive, lessons that claim the careless use of mystical powers, rituals and artifacts not only affect the mystic who wields them, but also the surrounding world. As proof of this, they often refer to the deserted wasteland east of the Ravens – which at one time is said to have been flourishing farmlands and the cradle of humankind’s first empire. And since the order, according to the mages, stems from the east, it is not unlikely that their moral tales on the importance of mystical restraint contain some grains of truth.</p>
+<h4 id="spellcasting-ability_4">Spellcasting Ability<a class="headerlink" href="#spellcasting-ability_4" title="Permanent link">&para;</a></h4>
+<p>Staff Mages use arcane hand gestures and the movement of their staff to draw forth their magical energies and direct them. You use Intelligence as your spellcasting ability modifier. You learn spells from the Wizard tradition list.</p>
+<p>The staff mage does not need to attune to their rune staff, it is an integral part of their magical practice and uses your own internal energy.</p>
+<h3 id="bonus-spell">Bonus Spell<a class="headerlink" href="#bonus-spell" title="Permanent link">&para;</a></h3>
+<p>At 1st level, you learn the detect magic spell in addition to your chosen spells.</p>
+<h3 id="staff-fighting">Staff Fighting<a class="headerlink" href="#staff-fighting" title="Permanent link">&para;</a></h3>
+<p>At 1st level, the staff mage is proficient with the rune staff, which provides the following benefits:
+- +1 to AC when unarmored.
+- The rune staff counts as a finesse quarterstaff that weighs 3 lbs.<br/></p>
+<p>At 3rd level, the staff mage gains the following benefits for their rune staff:
+- The staff is considered magical for the purposes of magical weapons and armor. The rune staff gains a +1 bonus to attack and damage rolls.
+- You can use your bonus action to make an attack with your rune staff.<br/></p>
+<p>At 7th level, the rune staff gains these additional effects:
+- The staff now provides a +2 bonus to AC, as well as on attack and damage rolls.
+- When a creature that is in your reach ends its turn you can use your reaction to make an attack roll against that creature.</p>
+<h3 id="staff-magic">Staff Magic<a class="headerlink" href="#staff-magic" title="Permanent link">&para;</a></h3>
+<p>At 2nd level, the staff mage gains the following benefits from the rune staff:
+- A touch from your staff as long as you wield it counts as you touching a creature for spell effects.
+- When the staff mage gains a point of permanent Corruption they can assign it to the rune staff instead of themselves. Once the rune staff already has three or more permanent Corruption, each time you add a point of permanent Corruption to the staff, roll a d20. If the result is equal to or lower than the new total of permanent Corruption held by the staff then the staff splits asunder and you gain the staff’s permanent Corruption immediately. Creating a new staff requires an extended rest.
+- The mage can use their bonus action to activate an elemental rune on the staff and add 1d4 damage to a single damage roll using the staff. The additional damage is your choice of acid, cold, fire, or lightning.<br/></p>
+<p>At 5th level, the rune staff grants these additional effects:
+- The elemental damage rises to 1d8.
+- Once per long or extended rest you can cast an additional spell of a level equal to half your staff’s permanent Corruption total, rounded down. You gain no Corruption from casting this spell.<br/></p>
+<p>At 9th level, the staff mage gains the following benefits from the rune staff:
+- The elemental damage rises to 1d12.
+- The rune staff provides advantage on all Corruption checks.</p>
+<h2 id="symbolist">Symbolist<a class="headerlink" href="#symbolist" title="Permanent link">&para;</a></h2>
+<p>That symbols and signs have power is well-­known and made use of in most mystical traditions, at least in rituals. Pure Symbolism is a tradition that almost solely builds its power on symbols and signs. Symbolism was born in the east, beyond the Ravens, and fleeing mystics brought it to what is now Clan Vajvod’s territory in Davokar. The symbolists predate the founding of Clan Vajvod, at least according to the rune-­covered remnants that the clanfolks discovered when they first came to the area.</p>
+<p>Foremost among these remnants is the Azure Temple, built in blue stone brought to Vajvod from beyond the mountains and covered in runes carved by many generations of symbolists. Still today, the blue temple is the scene of the yearly Rune Meets, when new members are initiated into the tradition.</p>
+<p>Ambrian scholars suspect that Symbolism – strange, powerful and decadent – is a vital clue to understanding why the barbarians of eastern Davokar are in disagreement with Karvosti and its authorities, the Huldra and the High Chieftain. It may lead to an explanation as to why the Vajvods, for cultural and philosophical reasons, distance themselves from Karvosti, and at the same time, are more open to outsiders than other clans, Clan Odaiova excluded. Rumor has it that Vajvod’s Clan Chieftain, Zoltar the Old, has not a witch but a symbolist by his side, likely one trained at the Azure Temple in the heart of the river lands.</p>
+<h4 id="titles_4">Titles<a class="headerlink" href="#titles_4" title="Permanent link">&para;</a></h4>
+<p>The symbolists have few titles and only differ between apprentices and initiated members, often called “Followers” and “Weavers”. The term “Master Weaver” is also used as an honorary title for prominent symbolists. The followers are sometimes jokingly called “Spindles,” after the spinning tool, since many symbolists think of the world as a weave or painting which they remodel or repaint with their powers.</p>
+<p>It is also customary for Weavers to take titles they think they deserve – from “Sign Carver,” “Fate Painter” and “Pattern Braider,” to “Rune Artist” and “Power Crafter.” At the Rune Meet, a yearly gathering where symbolists who are able convene at the Azure Temple in Vojvodar, only Weavers may speak and vote, while Followers listen. Master Weavers have no special authority besides that which is granted to all Weavers, but naturally their opinions carry extra weight.</p>
+<h4 id="corruption_4">Corruption<a class="headerlink" href="#corruption_4" title="Permanent link">&para;</a></h4>
+<p>The origin of Symbolism can be traced back to the destruction of the east, and many rune crafters explain the birth of their tradition as based on the aim to resist and/or avoid Corruption. As the east was drained of life and became the ruined, deserted wasteland it is today, the symbolists were busy advancing their knowledge. Not until the empire beyond the Ravens fell and the surrounding region proved to be devastated – the work of other mystics, according to symbolist legends – did the founding mystics of Symbolism flee across the mountains to the uninhabited river landscape that is today known as Vojvodar, the home of clan Vajvod.</p>
+<p>The strength of Symbolism is its resilience to Corruption. They suffer some Corruption when a symbol is activated, but less than the members of other traditions – as little as only one point in temporary Corruption per activated symbol. Symbolism’s weakness is that it is slow; a symbolist trades their protection from Corruption for the time it takes to craft the symbols. However, the rituals of Symbolism function just like the rituals of other traditions.</p>
+<h4 id="spellcasting-ability_5">Spellcasting Ability<a class="headerlink" href="#spellcasting-ability_5" title="Permanent link">&para;</a></h4>
+<p>Symbolism requires the creation of intricate and complex runes that contain and bind their magical power. Thus, a symbolist uses Intelligence for the spellcasting ability modifier. You learn spells from the Wizard tradition list. However, you do not cast most magic as a normal mystic, preparing and activating runes instead. You do cast cantrips and rituals as normal. You can favor cantrips as normal, but you use runes instead of normal spells otherwise.</p>
+<p>Each rune is equivalent to casting one spell at a chosen spell level (a symbolist cannot prepare a rune at a higher level than their maximum spell level). When the rune is activated, the spell is cast and you gain temporary Corruption equal to the spell’s prepared level. An unfavored spell costs double the prepared level. You decide the spell’s effective level while preparing the rune and cannot change the spell level when you activate the rune. You can activate the rune multiple times.</p>
+<p>Example: Thurnia, a symbolist, prepares hold monster, normally a 5th level spell. She decides to create a rune as if it were cast at 8th level (the maximum she can, as she is 15th level). When she activates the rune, it will affect four creatures and she will gain 8 temporary Corruption.</p>
+<p>At the beginning of a long or extended rest, you must choose one of your runes to lose potency. That rune cannot be used to cast a spell until it is prepared again. At the beginning of any rest, you can choose to destroy one or more runes, in order to prepare different runes.</p>
+<p>Runes can only be prepared during a rest. You may prepare four runes during an extended rest, two runes during a long rest and one rune during a short rest. You cannot have more active runes than twice your proficiency bonus.</p>
+<h3 id="bonus-spell_1">Bonus Spell<a class="headerlink" href="#bonus-spell_1" title="Permanent link">&para;</a></h3>
+<p>At 1st level, you learn the detect magic spell in addition to your chosen spells.</p>
+<h3 id="rune-tattoos">Rune Tattoos<a class="headerlink" href="#rune-tattoos" title="Permanent link">&para;</a></h3>
+<p>At 2nd level, you can make a rune tattoo that protects from weather and wind like a full set of clothes. Also, when attacked, you can spend your reaction and gain +4 to your AC until the start of your next turn and you gain 1 point of temporary Corruption. As long as you choose to continue to gain Corruption at the start of your turn, you can continue this effect for additional rounds.</p>
+<p>At 3th level, you learn how to make a rune tattoo that glows when you take a wound. At the start of your turn, you can choose to gain 1 point of temporary Corruption and regenerate hit points equal to your proficiency bonus.</p>
+<p>At 5th level, you make a rune tattoo that adds power to your attacks. Use your bonus action to empower yourself and gain 1 or more points of temporary Corruption. Add 1d8 radiant damage to a number of attacks equal to the Corruption gained.</p>
+<h3 id="protective-runes">Protective Runes<a class="headerlink" href="#protective-runes" title="Permanent link">&para;</a></h3>
+<p>At 7th level, you can prepare a special rune that you can use as a reaction. You must attune to the rune, gaining 1 point of permanent Corruption. You choose counterspell or dispel magic and can now activate that spell as a reaction. The spell functions as if cast at 3rd level. You cannot use this feature again until you take a long or extended rest.</p>
+<p>At 9th level, you can improve your special rune that you can use as a reaction for another point of permanent Corruption. It now provides the benefit of counterspell or dispel magic (your choice) as if cast at 6th level. You cannot use this feature again until you take a long or extended rest.</p>
+<h2 id="theurg">Theurg<a class="headerlink" href="#theurg" title="Permanent link">&para;</a></h2>
+<p>You are a theurg, a priest with mystical powers. Your faith in the Lawgiver is unwavering: Prios is the sun and the light of the soul, the One who saved mankind from the bondage of the Young Gods, the creator of the world and protector of all life. From this pure spring flows extraordinary power. Your mystical knowledge would have been aimless and dangerous without your faith as a compass and foundation, as is often shown when godless mystics wield their powers.</p>
+<p>Theurgy is nowadays understood as the teachings of the mystical force that radiates from the sun and which burns at the heart of the human spirit. Its powers are only found among the most loyal worshipers of the light: the chosen champions of Prios. The theurgs are considered the emissaries of Prios in the world of the living, and their burden is truly a great one. They lead the faithful in prayer, thereby guiding the sun through the darkness of the underworld each night. And their passion keeps the heavenly light from fading; without their strenuous work the ailing Sun God would surely die and the world would plunge into The Eternal Night.</p>
+<p>Theurgy is an ancient tradition, first developed by the priesthoods devoted to the Old Gods. It is disputed among scholars and the learned whether witchcraft is older than theurgy or if it is the other way around. Either way, the golden age of theurgy is now. Ever since Prios earned himself the devotion and faith of most Ambrians, the bearers of the tradition have thrived. It is not important to them which of the traditions came first and which is the oldest. As far as the theurgs are concerned, the worshiping of moss and veneration of trees are unworthy of mankind’s holy spirit, and most consider witchcraft to be a path that leads only to decay and sorcery. They regard wizardry – the mystical order built on the foundation of older theurgy – in much the same way, as a truly godless and morally questionable practice.</p>
+<h4 id="the-titles-of-theurgy">The Titles of Theurgy<a class="headerlink" href="#the-titles-of-theurgy" title="Permanent link">&para;</a></h4>
+<p>The titles within the tradition of theurgy are intertwined with the Church of Prios, since theurgs are the defenders of the Church, chosen by the Sun God himself. Obedience to one’s elders is both highly regarded and enforced, and the punishments for disobedience are severe. Lowest in rank are the initiates, who assist and are tutored by the Church’s Brothers and Sisters, who in turn serve under the elder theurgs, called Fathers or Mothers. Within the organization of the Sun Church there are also priests who have not been granted the God-­given powers of the theurgs, and they are called liturgs.</p>
+<h4 id="corruption_5">Corruption<a class="headerlink" href="#corruption_5" title="Permanent link">&para;</a></h4>
+<p>The theurgs of Prios teach that Corruption occurs when nature is allowed to grow without being cultivated and tamed. Corruption thrives in the wild, in chaos, that which is uncontrolled by humans – and in their encounters with Davokar they seem to find all the evidence needed to support this interpretation of the world order.</p>
+<p>Every devotee of Prios must accept the threat of Corruption and keep their inner flame burning despite the risk of taint; just as the Lightbringer Ofelya Attio is said to have proclaimed while standing at the threshold of the Dark Lords’ stronghold: “Fire shall with fire be fought, darkness shall with darkness be vanquished!”</p>
+<h4 id="spellcasting-ability_6">Spellcasting Ability<a class="headerlink" href="#spellcasting-ability_6" title="Permanent link">&para;</a></h4>
+<p>Theurgs rely on the teachings of the Sun God when interpreting his teachings or calling upon his power. They use Wisdom as their spellcasting ability modifier. You learn spells from the Theurg tradition list.</p>
+<h3 id="bonus-spell_2">Bonus Spell<a class="headerlink" href="#bonus-spell_2" title="Permanent link">&para;</a></h3>
+<p>At 1st level, you learn the [[bless]] spell in addition to your chosen spells.</p>
+<h3 id="turn-undead">Turn Undead<a class="headerlink" href="#turn-undead" title="Permanent link">&para;</a></h3>
+<p>At 2nd level, you can use the power of the Lawgiver to rebuke the undying. As an action, you present your holy symbol and speak a prayer censuring the undead. Each undead within 30 feet of you that can see and/or hear you must make a Wisdom saving throw against your spell save DC. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage. A turned creature must spend its turns trying to move as far away from you as it can, and it can’t willingly move to a space within 30 feet of you. It also can’t take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there’s nowhere to move, the creature can use the Dodge action. You can perform this a number of times equal to your proficiency bonus before needing to take a long or extended rest.</p>
+<p>At 5th level, any affected undead with a challenge rating equal to or lower than half your proficiency bonus (rounded down) are destroyed instead of turned. Player characters of the undead origin do not have a challenge rating and cannot be destroyed by this feature, though they can be turned.</p>
+<h3 id="medicus">Medicus<a class="headerlink" href="#medicus" title="Permanent link">&para;</a></h3>
+<p>At 3rd level, you can invest some of your faith into healing energies that do not incur any chance of Corruption to you. If you spend an action binding a wound, you restore one Hit Die to the treated creature. You can do this a number of times equal to twice your proficiency bonus and then must take an extended rest to recharge.</p>
+<p>At 7th level, when you use this ability you restore 1d8 + your Wisdom modifier hit points immediately and the creature also regains the Hit Die.</p>
+<h3 id="matter-of-faith">Matter of Faith<a class="headerlink" href="#matter-of-faith" title="Permanent link">&para;</a></h3>
+<p>When you reach 9th level, choose one of your ritual spells. Remove permanent Corruption equal to half its spell level, rounded up. This spell no longer weighs on your soul, since you have internalized its power as being provided solely by Prios.</p>
+<h2 id="witch">Witch<a class="headerlink" href="#witch" title="Permanent link">&para;</a></h2>
+<p>Your home is the wilds; to balance your own needs with the ones of nature is your calling. As a witch you have a strong connection to the land itself and can add its primal powers to your inner strength. You negotiate with the spirits of nature, understand the flow and needs of the land, and your powers are derived from the circle of life and death.</p>
+<p>The witches’ world is composed of winds, blood and all things growing, together forming the three hazardous paths a witch has to wander: the white path where the wind wails and spirits howl; the red path of the slow-­running blood; and the green path, overgrown by thickets and roots. According to the mythology of the witches, there are places where these paths converge, such as the cliff of Karvosti deep within Davokar.</p>
+<p>Witchcraft is believed to be the oldest and most deeply rooted of the traditions. Some tutors at Ordo Magica even claim that witchcraft – despite its primitive flaws – forms the basis of theurgy, and because of this, both Theurgs and Wizards have the wise Witches of old to thank for understanding the fundamental principles of magic.</p>
+<h4 id="titles_5">Titles<a class="headerlink" href="#titles_5" title="Permanent link">&para;</a></h4>
+<p>Witches believe in independence, thus they are wary of titles and hierarchical structures. The harsh living conditions of Davokar have resulted in each barbarian village housing a witch, and every witch is expected to have a helper (an apprentice). Furthermore, within each clan there is a witches’ node supervised by a Keeper, often called a Hex Mistress by southern scholars. All nodes convene at Karvosti, where the High Chieftain is advised by the Huldra, the foremost of all witches, whom outsiders generally call the Arch Witch.</p>
+<h4 id="corruption_6">Corruption<a class="headerlink" href="#corruption_6" title="Permanent link">&para;</a></h4>
+<p>For practitioners of witchcraft Corruption is viewed as nature’s way of seeking balance; what the witch does to the world strikes back against him or her. The Corruption must be weighed against the necessity of what the witch is about to do and be handled accordingly. Some witches will choose to sacrifice themselves to the Corruption in order to save their people; such is the fate of a witch according to the demands of life in the gloom of Davokar.</p>
+<h3 id="spellcasting-ability_7">Spellcasting Ability<a class="headerlink" href="#spellcasting-ability_7" title="Permanent link">&para;</a></h3>
+<p>You are sensitive to the natural flow of magic and the ancient power of the land. You use Wisdom as your spellcasting ability modifier. You learn spells from the Witch tradition list.</p>
+<h3 id="a-chosen-path">A Chosen Path<a class="headerlink" href="#a-chosen-path" title="Permanent link">&para;</a></h3>
+<p>At 1st level choose one of the following paths to follow. You receive the first benefit when you make the choice and an additional benefit when you gain your next Approach feature (e.g. if you choose the Red Path at 1st level you gain Lay on Hands immediately, Nature’s Embrace at 2nd level, and Song of Spring at 3rd level). At 5th level, choose another path, gaining one benefit now, then 7th level and finally 9th level.</p>
+<h4 id="the-green-path">The Green Path<a class="headerlink" href="#the-green-path" title="Permanent link">&para;</a></h4>
+<p>These features interact with nature itself.</p>
+<h5 id="forest-trails">Forest Trails.<a class="headerlink" href="#forest-trails" title="Permanent link">&para;</a></h5>
+<ul>
+<li>You can find or create trails in Davokar or wherever you go that make travel easier. You and a number of companions equal to your proficiency bonus have advantage on saving throws against Exhaustion due to travel.</li>
+</ul>
+<h5 id="shapeshifter">Shapeshifter.<a class="headerlink" href="#shapeshifter" title="Permanent link">&para;</a></h5>
+<ul>
+<li>You can use your action to magically assume the shape of a natural beast you have seen before. You can use this feature a number of times equal to your proficiency bonus before you have to take a short or longer rest to regain your expended uses. Your mystic level determines the type of beast you can transform into, see the table below.</li>
+</ul>
+<h5 id="beast-shapes">Beast Shapes<a class="headerlink" href="#beast-shapes" title="Permanent link">&para;</a></h5>
+<table>
+<thead>
+<tr>
+<th>Mystic Level</th>
+<th>Max. CR</th>
+<th>Limitations</th>
+<th>Example</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>3rd </td>
+<td>1/4 </td>
+<td>No flying or swimming speed</td>
+<td>Mare Cat</td>
+</tr>
+<tr>
+<td>5th </td>
+<td>1/2        </td>
+<td>No flying speed</td>
+<td>Skullan</td>
+</tr>
+<tr>
+<td>8th</td>
+<td>1        </td>
+<td>-        </td>
+<td>Giant Vulture</td>
+</tr>
+</tbody>
+</table>
+<p>You can stay in a beast shape for a number of hours equal to half your mystic level (rounded down). You can then expend another use of this feature to remain in the beast shape. You can revert to your normal form as a bonus action and you automatically revert if you fall unconscious, drop to 0 hit points, or die.<br />
+    While you are transformed, the following rules apply:<br />
+        - Your game statistics are replaced by the statistics of the beast, but you retain your personality, and Intelligence, Wisdom, and Charisma scores. You also retain all of your skill and saving throw proficiencies, in addition to gaining those of the creature. If the creature has the same proficiency as you and the bonus in its stat block is higher than yours, use the creature’s bonus instead of yours. If the creature has any legendary or lair actions, you can’t use them.
+        - When you transform, you assume the beast’s hit points and Hit Dice. When you revert to your normal form, you return to the number of hit points you had before you transformed. However, if you revert as a result of dropping to 0 hit points, any excess damage carries over to your normal form. For example, if you take 10 damage in animal form and have only 1 hit point left, you revert and take 9 damage. As long as the excess damage doesn’t reduce your normal form to 0 hit points, you aren’t knocked unconscious.
+        - You can’t cast spells, and your ability to speak or take any action that requires hands is limited to the capabilities of your beast form. Transforming doesn’t break your concentration on a spell you’ve already cast, however, or prevent you from taking actions that are part of a spell, such as eyebite, that you’ve already cast. 
+        - You retain the benefit of any features from your class, origin, or other source and can use them if the new form is physically capable of doing so. However, you can’t use any of your special senses, such as darkvision, unless your new form also has that sense.
+        - You choose whether your equipment falls to the ground in your space, merges into your new form, or is worn by it. Worn equipment functions as normal, but the GM decides whether it is practical for the new form to wear a piece of equipment, based on the creature’s shape and size. Your equipment doesn’t change size or shape to match the new form, and any equipment that the new form can’t wear must either fall to the ground or merge with it. Equipment that merges with the form has no effect until you leave the form.  </p>
+<h5 id="natures-lullaby">Nature’s Lullaby.<a class="headerlink" href="#natures-lullaby" title="Permanent link">&para;</a></h5>
+<ul>
+<li>By singing softly and focusing on a particular abomination that can hear you, you and your companions can pass by it without it reacting – you are essentially invisible to the blighted creature. If anyone acts aggressively or you stop singing (to cast a spell, for example) the benefit ends. You can make use of this feature a number of times equal to your proficiency bonus and then must take a long or extended rest before using this feature again.</li>
+</ul>
+<h4 id="the-red-path">The Red Path<a class="headerlink" href="#the-red-path" title="Permanent link">&para;</a></h4>
+<p>These powers focus on your healing features.</p>
+<h5 id="lay-on-hands">Lay on Hands.<a class="headerlink" href="#lay-on-hands" title="Permanent link">&para;</a></h5>
+<ul>
+<li>As an action you can restore 1 plus your Wisdom modifier hit points to a creature. You can do this a number of times equal to your proficiency bonus before you must take a long or extended rest to use this feature again.</li>
+</ul>
+<h5 id="natures-embrace">Nature’s Embrace<a class="headerlink" href="#natures-embrace" title="Permanent link">&para;</a></h5>
+<ul>
+<li>If you take a long rest in the wilderness, you can use your knowledge of natural restoratives to have a number of creatures up to your proficiency bonus regain a Hit Die. You can include yourself in this benefit.</li>
+</ul>
+<h5 id="song-of-spring">Song of Spring.<a class="headerlink" href="#song-of-spring" title="Permanent link">&para;</a></h5>
+<ul>
+<li>You can use your action to restore 10 × your proficiency bonus of hit points to a number of allies equal to your proficiency bonus that can see and hear you. You must then take an extended rest to use this feature again.</li>
+</ul>
+<h4 id="the-white-path">The White Path<a class="headerlink" href="#the-white-path" title="Permanent link">&para;</a></h4>
+<p>These powers focus on your interactions with spirits.</p>
+<h5 id="censure-undead">Censure Undead.<a class="headerlink" href="#censure-undead" title="Permanent link">&para;</a></h5>
+<ul>
+<li>As an action, you rebuke the undead. Each undead within 30 feet that can see and/or hear you must make a Wisdom saving throw against your spell save DC. If the creature fails its saving throw, it is rebuked for 1 minute or until it takes any damage. A rebuked creature must spend its turns trying to move as far away from you as it can, and it can’t willingly move to a space within 30 feet of you. It also can’t take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there’s nowhere to move, the creature can use the Dodge action.</li>
+</ul>
+<h5 id="call-spirits">Call Spirits.<a class="headerlink" href="#call-spirits" title="Permanent link">&para;</a></h5>
+<ul>
+<li>You can seek to communicate with the local spirits and learn something useful from them. You must spend 10 minutes preparing the area and then you invite the spirits to join you. Roll the percentile dice, if the result is equal to or lower than twice your mystic level you have been successful. The spirits might be able to provide you with extensive and helpful knowledge or a magical effect that resembles a spell of level equal to or lower than your proficiency bonus. You must take a long or extended rest before you use this feature again.</li>
+<li>Purification. Use your action to touch one melee weapon. For the next minute, that weapon does radiant damage and adds 1d4 plus your proficiency bonus to its damage total. You gain 1 point of temporary Corruption.</li>
+</ul>
+<h3 id="natures-bounty">Nature’s Bounty<a class="headerlink" href="#natures-bounty" title="Permanent link">&para;</a></h3>
+<p>At 1st level you become proficient with Alchemist’s Supplies and the Field Laboratory, allowing you to create Alchemical Elixirs in the wild.</p>
+<h2 id="wizard">Wizard<a class="headerlink" href="#wizard" title="Permanent link">&para;</a></h2>
+<p>You are schooled in the secrets of the old magic of the Order, knowledge born in the southern kingdom and refined by a millennium of research and education. To you, mystical powers are an extension of the fundamental laws of the world, laws that you have studied carefully and know how to use for effects both grand and impressive.</p>
+<p>The powers of wizardry come from disciplined studies into the fundamental laws of nature, and from insights regarding how those laws can be used and controlled by sheer will and reason. It is a strenuous education, even without the boring everyday tasks that the novices must perform for their masters. Only half of those who begin their studies with Ordo Magica see them through, but those who prevail are rewarded with a deep understanding of the mysteries of wizardry.</p>
+<p>Wizardry grew out of early forms of theurgy, in a time when the people of Alberetor still worshiped the pantheon of the Young Gods. Philosophers and scholars started to renounce the metaphysical ideas of the priesthood, instead regarding the laws of nature as independent from the machinations of deities. To the founders of wizardry, the Young Gods were seen as the creators of the world, but not its shepherds. Instead the world is regarded as being profoundly magical and not in need of any gods to function. Nor is the world meant to be worshiped, merely understood – and used.</p>
+<h4 id="the-titles-of-ordo-magica">The Titles of Ordo Magica<a class="headerlink" href="#the-titles-of-ordo-magica" title="Permanent link">&para;</a></h4>
+<p>The titles of wizardry are closely linked to the competence and function, as well as the status, of the individual. The list of a novice’s duties is a long one, and the commitments of the adept Wizard are considerable, though their new title comes with a touch of authority and privilege. An adept who is experienced enough to teach students carries the title Magistrate.</p>
+<p>The Masters often have a specific area of expertise, and the few obligations they have can usually be delegated to a novice or adept under their rule. Each order chapter (commonly called “Wizards’ guild”) is governed by a Chapter Master, who represents Ordo Magica when dealing with the local authorities. Ordo Magica as a whole is headed by the Grand Master, stationed at the chapter in Agrella.</p>
+<p>The title of Arch Mage is no longer in use. Before The Great War the Grand Master of the organization was chosen from within the circle of Arch Mages. But since all Arch Mages perished in the war, the Grand Master is instead chosen by, and often from among, the acting Chapter Masters.</p>
+<h4 id="corruption_7">Corruption<a class="headerlink" href="#corruption_7" title="Permanent link">&para;</a></h4>
+<p>According to Ordo Magica, Corruption is largely misunderstood, thanks to the sermons of hot-­headed theurgs and the fairy tales of witches. It all comes down to a regulated response; a reaction that occurs when a mystic uses their power to affect nature.</p>
+<p>This is not that different from what happens when someone jumps off the stern of a boat, simultaneously pushing the boat forward with the same amount of force that goes into the jump. If the jumper is reckless, he will drop into the water; if the jumper is careful, he will land on the dock with dry shoes.</p>
+<h4 id="spellcasting-ability_8">Spellcasting Ability<a class="headerlink" href="#spellcasting-ability_8" title="Permanent link">&para;</a></h4>
+<p>Wizards rely on the philosophy and knowledge taught to them during their time with Ordo Magica to understand the ancient secrets of the world. You use Intelligence as your spellcasting ability modifier. You learn spells from the Wizard tradition list.</p>
+<h3 id="bonus-spells">Bonus Spells<a class="headerlink" href="#bonus-spells" title="Permanent link">&para;</a></h3>
+<p>At 1st level, you learn the detect magic spell in addition to your chosen spells. At 2nd level you learn arcane lock as a bonus spell.</p>
+<p>At 3rd level you learn your choice of counterspell or dispel magic as a bonus spell.</p>
+<h3 id="loremaster">Loremaster<a class="headerlink" href="#loremaster" title="Permanent link">&para;</a></h3>
+<p>At 2nd level, the character is educated and well-­versed in the ways of the world: its cultures, history, languages and artifacts. For centuries heroes, monsters and kingdoms have come and gone and left behind powerful items and secret texts. This ability represents knowledge about such things. Through extensive studies a character with this ability knows not only the story of an object but also its properties and applications.</p>
+<ul>
+<li>At 2nd level, you can attempt an Intelligence (Investigation) check to determine the properties of a magic item. On a success, if it is a magic item, you learn its properties and how to use them, whether it requires attunement to use, and how many charges it has, if any. You learn whether any spells are affecting the item and what they are. If the item was created by a spell, you learn which spell created it. The DC is dependent on the kind of magic item: common (DC 10), uncommon (DC 13), rare (DC 16), very rare (DC 19), legendary (DC 22).</li>
+</ul>
+<p>Additionally, you are proficient in both human languages (Ambrian and Barbarian).</p>
+<ul>
+<li>At 3rd level, your understanding of artifacts is extensive enough that you are not as affected by their corruptive power. You may reduce your cost of a single artifact’s permanent Corruption by 1, to a minimum of 1.</li>
+</ul>
+<p>You also become proficient in the ungainly tongues of both elves and dwarves.</p>
+<ul>
+<li>At 5th level, you may cast spells of a level equal to or lower than your proficiency bonus directly from scrolls and such parchments.</li>
+</ul>
+<p>You gain advantage on saving throws against magical effects.</p>
+<p>You are proficient in the spoken and written language once used in Symbaroum and know many things about that realm’s ancient people.</p>
+<h3 id="overpowering-magic">Overpowering Magic<a class="headerlink" href="#overpowering-magic" title="Permanent link">&para;</a></h3>
+<p>At 7th level, when you cast a 1st - 5th level spell that requires an action to cast, you can use your bonus action to empower that spell. When you roll damage for the spell, you can reroll any 1s or 2s on the dice. (You must use the new value, even if it is a 1 or 2.) You must take a long or extended rest before you use this feature again.</p>
+<h3 id="ritual-mastery">Ritual Mastery<a class="headerlink" href="#ritual-mastery" title="Permanent link">&para;</a></h3>
+<p>When you reach 9th level, you can reduce your permanent Corruption by 1 for each ritual spell that you know of 3rd level or higher.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    <script id="__config" type="application/json">{"base": "../..", "features": [], "search": "../../assets/javascripts/workers/search.f8cc74c7.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.c8b220af.min.js"></script>
+      
+        <script src="../../javascripts/mathjax.js"></script>
+      
+        <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+      
+        <script src="https://unpkg.com/mermaid/dist/mermaid.min.js"></script>
+      
+    
+  </body>
+</html>
