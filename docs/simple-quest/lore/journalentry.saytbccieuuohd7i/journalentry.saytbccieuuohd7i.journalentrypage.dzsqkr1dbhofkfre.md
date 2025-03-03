@@ -1,0 +1,17 @@
+---
+title: "Zuleika on Kiril"
+icon: ":sticky-note:"
+aliases: "Zuleika on Kiril"
+foundryId: JournalEntry.sAYtBcCIeuUOHD7I.JournalEntryPage.dZSqKR1dBHOfKFre
+tags:
+  - JournalEntryPage
+---
+
+# Zuleika on Kiril
+- She is a descendant of the Krezkov line, which has long been cursed with werewolf lycanthropy. Thirteen years ago, she met Emil Toranescu, another werewolf who taught her to see the beauty in her condition, and to master the beast within through meditation and prayer. When her family rejected her efforts, she fled Krezk and came to live as Emil’s wife as a member of Barovia’s werewolf pack—and, as her spiritual efforts progressed, a priestess to Mother Night, the divine patron of lycanthropes.
+- Until recently, the werewolf pack ranged far and wide through the Mists for its hunts. In those days, the pack was a refuge—a family—for those who had been outcast from society for fear of their curse.
+One of those outcasts was Kiril Stoyanovich, a young werewolf who joined the pack alongside his wife, Bianca. Where Zuleika had endured years of meditation to master her curse, however, Kiril was impatient and thirsty to prove himself. “There is a way for a werewolf to embrace his curse wholeheartedly," she murmurs, “without wisdom or reservation. It is a dark and forbidden thing, and requires its bearer to commit the ultimate taboo: to slay an innocent—one who has done you no wrong—and consume their flesh." 
+- Although she was never able to prove Kiril had done so, his rapid progress roused her suspicions, and she watched warily as he became ever-more reckless, bloodthirsty, and cruel, often ranging far afield to go hunting on his own. Zuleika pitied his wife, Bianca, who often struggled to calm Kiril’s dark moods and rages. “I never asked where she came from," Zuleika says softly. “When we join the pack, we are born anew, leaving the ash of our old lives behind. But I know she gave up much to be with us—and even more to be with him."
+- Five years ago, the pack’s leader—an old werewolf named Skennis—stepped down from his position. Although Skennis had chosen Emil, Zuleika’s husband, to succeed him, Kiril challenged Emil for control of the pack. Emil swiftly defeated him, however, and Kiril nursed a grudge against Emil ever since.
+- Three months ago, shortly after Strahd awoke from his long slumber, Emil began to discuss a plan for departing through the Mists, before Strahd imprisoned them there forever. Not long thereafter, Kiril vanished from the pack for seven full days. When he returned, he was flanked by six of Strahd’s dire wolves—and his lycanthropic strength had mutated and grown, leaving him a terrible force to be reckoned with. "He stank of the swamp," Zuleika growls, her lip curling, "and of foul, tainted witchcraft." (If asked, Zuleika can confirm that she suspects Baba Lysaga—the witch of Berez—was somehow involved in Kiril's transformation, which, in her opinion, "left him more curse than man.")
+- Upon his return, Kiril made his bid for power. “He beat Emil within an inch of his life," Zuleika murmurs, “and bade the dire wolves to carry him away to the castle dungeons, to be punished for his disloyalty." When Zuleika attempted to stop him, Kiril defeated her as well, seizing her holy symbol and imprisoning her in her own shrine..

@@ -1,0 +1,16 @@
+---
+title: "the Abbot on Strahd"
+icon: ":sticky-note:"
+aliases: "the Abbot on Strahd"
+foundryId: JournalEntry.sAYtBcCIeuUOHD7I.JournalEntryPage.fh0PDEJssqrQA6Kh
+tags:
+  - JournalEntryPage
+---
+
+# the Abbot on Strahd
+- He serves as the Abbot of the Abbey of Saint Markovia in Saint Markovia’s honor, a position he has held for some years. He was sent to reopen the Abbey following its tragic fate and abandonment—to make it a place of healing and sanctuary once again. (If asked how many years he has served at the Abbey, the Abbot shares that he has held his position for one hundred and seventeen years, ten months, and twenty-six days—a trivially brief time, in his mind. The Abbot won’t share his true angelic nature or identity, noting simply and serenely that he is merely a humble servant of the Morninglord.)
+- Twice has he had the opportunity to look into Strahd’s eyes—which, as it is said, are the windows to one’s soul. On the first occasion, he saw a man who ached with an unquenchable thirst to fill the void in his heart, like a parched desert longing for rain. On the second occasion, he realized that Strahd was cursed—a curse that clutched his very soul—that his soul was tied to the land itself, and that his ailment rendered the land barren and its people imprisoned. (If asked, the Abbot can share that the first occasion took place four hundred and seventeen years, eight months, and three days ago, and that the second took place one hundred and fifteen years, six months, and sixteen days ago. If asked how he met Strahd on the first occasion, the Abbot smiles serenely and states merely that the Morninglord’s service leads one on many paths.)
+- The Abbot believes that filling the void in Strahd’s soul—which Strahd has filled uselessly with power, pride, and wealth—is necessary to heal the wound that afflicts the land of Barovia. Only love can fill such a void, however: the deep, abiding, and unconditional love that Strahd has been denied all his life.
+- As an immortal, however, Strahd requires the companionship of a creature that will last for as long as he will. It is for this reason that the Abbot has constructed Vasilka: a flesh golem built to be the perfect bride to a man of power, stature, and noble descent. Unlike others of her kind, Vasilka was forged with a spark of life within her heart, allowing her to be the companion that Strahd so desperately needs.
+- The Abbot has begun to train Vasilka in the arts of etiquette and romance. Given Strahd’s brilliant intelligence and his respect for creatures of similar intellect, the Abbot has also taught her philosophy, theology, and the natural sciences. Soon, the Abbot will offer her to Strahd as his bride—and when they are wed, the Abbot believes, the curse upon the land shall be lifted.
+- The Abbot notes, however, with some concern, that his window of opportunity is fast drawing to a close. Although he cannot discern neither its true nature nor its manner or time of arrival, he can sense the approach of a great storm on the horizon—one that will soon alter Strahd’s fate forever.
