@@ -7,6 +7,7 @@ two pearls of power,
 amber shard
 four potions of superior healing,
  +1 light crossbow 
+ 
 ### Khazan's Staff
 Staff, weapon, rare (requires attunement by a sorcerer, warlock, or wizard)
 Simple weapon, melee weapon
@@ -20,3 +21,8 @@ This elegant platinum staff can be wielded as a magic quarterstaff that grants a
 - Spear of the Huntress
 This six-foot shaft of ash wood is adorned with carvings of wild animals, vines, and leaves, and bears a simple, yet sharp stone head. When first recovered from Dostron’s sarcophagus, it has the properties of a blood spear (Blood Spear, p. 221), but its wielder gains only a +1 bonus to attack and damage rolls made with it instead of +2. (The spear was corrupted long ago by the influence of Kavan and the Devourer, and can be restored only by reconsecrating the Forest Fane at Yester Hill, which the players can learn about at the Mountain Folk settlement of Soldav on Mount Ghakis.)
 
+- 4,500 cp, 900 sp, and 250 gp (all coins of mintages foreign to Barovia)
+- Thirty 50 gp gemstones, seven 100 gp gemstones, and one diamond worth 300 gp.
+- Twelve pieces of plain gold jewelry (worth 25 gp each) and a finely wrought gold cloak-pin inlaid with shards of jet (worth 250 gp)
+- An ivory drinking horn engraved with dancing dryads and satyr pipe players (worth 250 gp)
+- An ornate electrurn censer with platinum filigree (worth 750 gp)
