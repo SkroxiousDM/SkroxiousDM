@@ -1,7 +1,7 @@
 <html>
 <body>
     <header>
-    <h1> Ruins of Symbaroum X Curse of Strahd </h1>
+    <h1> Ruins of Symbaroum X Curse of Strahd: Reloaded </h1>
   </header>
     <aside>
       <h2>Navigation</h2>
