@@ -18,7 +18,6 @@
         <li><a href="https://skroxiousdm.github.io/SkroxiousDM/RoS-CoS-RRL/Recap/IreenasJournal">Ireena's Journal </a></li>
         <li><a href="https://skroxiousdm.github.io/SkroxiousDM/RoS-CoS-RRL/Recap/Quests">Quests</a></li>
           <li><a href="https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/lore-contents">Lore</a></li>
-        <li><a href="https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.cgswpn6ymjxd4y5s/journalentry.cgswpn6ymjxd4y5s">Dramatis Personae </a></li>
       </ul>
     </aside>
     <main>
