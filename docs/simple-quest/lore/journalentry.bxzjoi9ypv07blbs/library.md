@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-- [Monster Hunter's Handbook](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.bxzjoi9ypv07blbs/journalentry.bxzjoi9ypv07blbs.journalentrypage.7ibgm4keumqkkqb8.md)
+- [Monster Hunter's Handbook](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.bxzjoi9ypv07blbs/journalentry.bxzjoi9ypv07blbs.journalentrypage.7ibgm4keumqkkqb8)
 - [Van Richten's Guide to Vampires torn pages](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.bxzjoi9ypv07blbs/journalentry.bxzjoi9ypv07blbs.journalentrypage.wer1edk7wwavpjmz)
 - [A Study of the Werewolf's Curse](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.bxzjoi9ypv07blbs/journalentry.bxzjoi9ypv07blbs.journalentrypage.cukidfqdqkmkhlww)
 - [Wachter Invitation](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.bxzjoi9ypv07blbs/journalentry.bxzjoi9ypv07blbs.journalentrypage.356abplaof7oakwy)
