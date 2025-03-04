@@ -5,3 +5,5 @@
 [Factions](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.zdyubgmrks0epify/factions)
 
 [Dramatis Personae](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.cgswpn6ymjxd4y5s/npcs)
+
+[Locations](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.oqippgoggup2xdve/locations)
