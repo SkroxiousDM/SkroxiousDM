@@ -1,6 +1,6 @@
 [History](https://skroxiousdm.github.io/SkroxiousDM/RoS-CoS-RRL/Recap/Lore)
 
-[library](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/library)
+[library](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.bxzjoi9ypv07blbs/library)
 
 [Factions](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.zdyubgmrks0epify/factions)
 
