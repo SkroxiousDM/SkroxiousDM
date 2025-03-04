@@ -2,6 +2,6 @@
 
 [library](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/library)
 
-[Factions](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.zdyubgmrks0epify/journalentry.zdyubgmrks0epify)
+[Factions](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.zdyubgmrks0epify/factions)
 
 [Dramatis Personae](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.cgswpn6ymjxd4y5s/npcs)
