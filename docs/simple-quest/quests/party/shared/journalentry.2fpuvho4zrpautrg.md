@@ -170,8 +170,6 @@ met Victor Vallakovich, his Spellbook has the same symbol as the ring
 
 agree to investigate Khazan’s tower and give Victor any artifacts they find, for the information of where the tower can be found: a gravel causeway on Lake Baratok, to the west.
 
-
-
 ### Session 13 *2024-03-25*
 
 dinner with lady wachter
@@ -180,51 +178,51 @@ dinner with lady wachter
 
 ### Session 14 *2024-04-01*
 
-Ernst Larnak delivers the poisoned wine to you
+- Ernst Larnak delivers the poisoned wine to you
 
-travel to the Tower on the shore of Lake Baratok
+- travel to the Tower on the shore of Lake Baratok
 
-found clues that Arabelle is hiding with Rictavio who is actually Rudolf Van RIchten
+- found clues that Arabelle is hiding with Rictavio who is actually Rudolf Van RIchten
 
-travel back to Vallaki
+- travel back to Vallaki
 
 ### Session 15 *2024-04-08*
 
-planted the wine
+- planted the wine
 
-trailed Izek to the shore of lake Zarovich and waited for him to drink the poisoned wine
+- trailed Izek to the shore of lake Zarovich and waited for him to drink the poisoned wine
 
-defeated Izek
-
+- defeated Izek and deliverd 
+- rested at the BWI
 ## 6th day of Neyavr, 735 BC
 
 ### Session 16
-
-baron Vargas Abdicates
-
-confront Rictavio
-
-Agree to hide Arabelle in the Church
-
-hear Arabelles Prophecy
+- baron Vargas Abdicates
+- confront Rictavio
+- Agree to hide Arabelle in the Church
+- hear Arabelles Prophecy
 
 ### Session 17 *2024-04-22*
-
-Rahadin delivered the Invitation<br>
-
-spoke in defense of Henrik and Milivoj at ther Trial<br>
-
-Vallaki, received their reward from lady wachter. then saw Victor to tell him about the tower. Had them start Lost Soul. Visit the refugee camp and meet Franz. They rested at the BWI and headed
+- Rahadin delivered the Invitation
+- spoke in defense of Henrik and Milivoj at ther Trial
+- received their reward from lady wachter. 
+- saw Victor to tell him about the tower. Had them start Lost Soul.
+- Visit the refugee camp and meet Franz.
+- They rested at the BWI. 
 
 ## 7th day of Neyavr, 735 BC
-
-to Krezk first thing in the morning. Received healing from the Abbott. Picked wolfsbane flowers. Brought the flowers to RVR asked him about Nighthags. We finished the session with the team in Victor's workshop.
+- Headed to Krezk first thing in the morning.
+- delivered the Scrying results to Baron Krezkov.
+- went to the pool and unexpectedly received healing from the Abbott.
+- Picked wolfsbane flowers. Brought the flowers to RVR asked him about Nighthags.
+- We finished the session with the team in Victor's workshop.
 
 ### Session 18 *2024-07-08*
-
-met Fiona Wacter and traveld to the Windmill<br>
-
-rescued the childrn and found the hags true names<br>
+- discussed plans for obtaining a hags Heartstone with Victor, stella mentiond a large warding circle at Wachterhouse
+- convinced Lady Wachter to participate in the windmill raid
+- met Fiona Wacter &co. and traveld to the Windmill
+- Virgil, Vix, and Dorian distracted the hags, while Bogokom & Majesto looked for the contract, and Radmil rescued the children.
+- the hags attcked the distraction crew, Majesto flew the contract to Lady wachter who set about enabling the constructed warding circle
 
 ### Session 19
 
