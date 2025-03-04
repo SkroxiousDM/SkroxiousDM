@@ -16,7 +16,7 @@
         <li></li> 
          <li><a href="https://skroxiousdm.github.io/SkroxiousDM/RoS-CoS-RRL/Player%20characters/Party">The Party</a></li>
         <li><a href="https://skroxiousdm.github.io/SkroxiousDM/simple-quest/quests/party/shared/journalentry.2fpuvho4zrpautrg">Ireena's Journal </a></li>
-        <li><a href="https://skroxiousdm.github.io/SkroxiousDM/RoS-CoS-RRL/Recap/Quests">Quests</a></li>
+        <li><a href="https://skroxiousdm.github.io/SkroxiousDM/simple-quest/quests/quests">Quests</a></li>
           <li><a href="https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/lore-contents">Lore</a></li>
       </ul>
     </aside>
