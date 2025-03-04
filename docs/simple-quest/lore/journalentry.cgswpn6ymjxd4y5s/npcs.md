@@ -24,8 +24,8 @@
 - [Nikolai Wachter](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.cgswpn6ymjxd4y5s/JournalEntry.cGsWPn6ymjxD4Y5s.JournalEntryPage.7E64sonPAtSItnIE)
 - [Karl Wachter](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.cgswpn6ymjxd4y5s/JournalEntry.cGsWPn6ymjxD4Y5s.JournalEntryPage.oLRJL4QRsDLVB3to)
 - [Szoldar Szoldarovich](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.cgswpn6ymjxd4y5s/JournalEntry.cGsWPn6ymjxD4Y5s.JournalEntryPage.koYk5a1XZmh0ul7m)
-- [(https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.cgswpn6ymjxd4y5s/JournalEntry.cGsWPn6ymjxD4Y5s.JournalEntryPage.Srm6oH3rIFDUBYNM|Yevgeni Krushkin]
-- [(https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.cgswpn6ymjxd4y5s/JournalEntry.cGsWPn6ymjxD4Y5s.JournalEntryPage.b7BD4rO3tPUEmCHX|Baron Vargas Vallakovich]
+- [Yevgeni Krushkin](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.cgswpn6ymjxd4y5s/JournalEntry.cGsWPn6ymjxD4Y5s.JournalEntryPage.Srm6oH3rIFDUBYNM)
+- [Baron Vargas Vallakovich](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.cgswpn6ymjxd4y5s/JournalEntry.cGsWPn6ymjxD4Y5s.JournalEntryPage.b7BD4rO3tPUEmCHX)
 - [(https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.cgswpn6ymjxd4y5s/JournalEntry.cGsWPn6ymjxD4Y5s.JournalEntryPage.gmmNPx22ZWqsIR7m|Izek Strazni]
 - [(https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.cgswpn6ymjxd4y5s/JournalEntry.cGsWPn6ymjxD4Y5s.JournalEntryPage.drXB3Mdbd1VGSEXZ|Gadof Blinsky]
 - [(https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.cgswpn6ymjxd4y5s/JournalEntry.cGsWPn6ymjxD4Y5s.JournalEntryPage.8gHHsAUBhSrqyUyS|Father Lucian Petrovich]
@@ -48,7 +48,7 @@
 - [(https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.cgswpn6ymjxd4y5s/JournalEntry.cGsWPn6ymjxD4Y5s.JournalEntryPage.sGDQh8D3sFIOwfhP|Madalena]
 - [(https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.cgswpn6ymjxd4y5s/JournalEntry.cGsWPn6ymjxD4Y5s.JournalEntryPage.0dLyS8Sk1cCwz6rb|Amalthia]
 - [(https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.cgswpn6ymjxd4y5s/JournalEntry.cGsWPn6ymjxD4Y5s.JournalEntryPage.ZwDC8k5NZ7GrvgxV|Erasmus Van Richten]
-- [(https://skroxiousdm.github.io/SkroxiousDM/vJournalEntry.cGsWPn6ymjxD4Y5s.JournalEntryPage.DLx4362hEFubEWGN|Baron Dmitri Krezkov]
+- [(https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.cgswpn6ymjxd4y5s/JournalEntry.cGsWPn6ymjxD4Y5s.JournalEntryPage.DLx4362hEFubEWGN|Baron Dmitri Krezkov]
 - [(https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.cgswpn6ymjxd4y5s/JournalEntry.cGsWPn6ymjxD4Y5s.JournalEntryPage.AbKPJGrIaSb3UV59|Wensencia]
 - [(https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.cgswpn6ymjxd4y5s/JournalEntry.cGsWPn6ymjxD4Y5s.JournalEntryPage.0wXLDsih0dR25iEZ|Baba Lysaga]
 - [(https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.cgswpn6ymjxd4y5s/JournalEntry.cGsWPn6ymjxD4Y5s.JournalEntryPage.2Dp36vr3kMoq7kIV|The Abbot]
