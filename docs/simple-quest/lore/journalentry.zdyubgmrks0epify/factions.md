@@ -12,4 +12,4 @@
 - [Keepers of the Feather](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.zdyubgmrks0epify/journalentry.zdyubgmrks0epify.journalentrypage.duluhesfrgyr4kdk)
 - [Order of the Silver Dragon](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.zdyubgmrks0epify/journalentry.zdyubgmrks0epify.journalentrypage.ikvudxjhbplqufo7)
 - [Werewolf Pack](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.zdyubgmrks0epify/journalentry.zdyubgmrks0epify.journalentrypage.sbcrg7z3gsizl5qy)
-- [Faith of the Morninglord](https://skroxiousdm.github.io/SkroxiousDM/docs/simple-quest/lore/journalentry.zdyubgmrks0epify/journalentry.zdyubgmrks0epify.journalentrypage.bd2qtegdpn0n92tl)
+- [Faith of the Morninglord](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.zdyubgmrks0epify/journalentry.zdyubgmrks0epify.journalentrypage.bd2qtegdpn0n92tl)
