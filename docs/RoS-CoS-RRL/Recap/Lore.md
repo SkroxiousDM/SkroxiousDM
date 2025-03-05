@@ -162,14 +162,14 @@ The misted wood is darkened, now, and the trees no longer sing with the songs of
 
 ## Khazan's Tower
 - Long ago, Khazan built a wizard’s tower, which he imbued with powerful enchantments, including a protective field that prevented any other spellcasters from using magic within its reach.
-- ![Khazan's Ring](https://publish-01.obsidian.md/access/7db64b11c71d88572ddc6cd06b888976/images/Khazan's%20Ring.png)
+- ![Khazan's Ring](https://publish-01.obsidian.md/access/7db64b11c71d88572ddc6cd06b888976/images/Khazan's%20Ring.png)<br>
   The symbol on the signet ring resembles the connected series of lines depicted on the Tower Door, but rotated counterclockwise such that the shape is vertically symmetrical. A tiny arcane rune has been carved into the metal above each of the two unconnected ends of the series of lines.<br>
 Kasimir notes that the runes are the symbols of the evocation (left) and necromancy (right) schools of magic, respectively, but confesses that the ring has shown no reaction to any kind of magic.
-- ![Tower Door](https://publish-01.obsidian.md/access/7db64b11c71d88572ddc6cd06b888976/images/Tower%20Door.png)
+-  ![Tower Door](https://publish-01.obsidian.md/access/7db64b11c71d88572ddc6cd06b888976/images/Tower%20Door.png)<br>
   The tower door is made of iron, with no visible handles or hinges. In the middle of the door is a large, embossed, blank red seal. Carved into the lintel above the door is a word: Khazan.<br> The seal appears to be blank. However, if a character approaches within 5 feet of the door, eight fist-sized buttons grow from its waxlike surface. If the character then moves away from the door, the buttons vanish once more. The buttons emerge in different places each time, but the order of the buttons as they move around the seal always stays the same.<br>Each of the eight buttons depicts a different arcane rune. Vix identified the runes as the symbols of the eight schools of magic. The order of the symbols, moving counterclockwise around the seal, is always: illusion, abjuration, necromancy, conjuration, divination, enchantment, transmutation, evocation.
 - comparing the platinum signet ring to the symbols  you noticed that the evocation and necromancy runes exactly match the appearance of their corresponding symbols on the door. To unlock the door, you pressed the buttons in the order given by the pattern of crossed lines on the signet ring, beginning with either the evocation or necromancy symbol and moving along the lines in the proper sequence.<br> The two possible proper sequences are:<br>
- - evocation, divination, illusion, transmutation, conjuration, abjuration, enchantment, necromancy
- - necromancy, enchantment, abjuration, conjuration, transmutation, illusion, divination, evocation
+    --  evocation, divination, illusion, transmutation, conjuration, abjuration, enchantment, necromancy<br>
+    --  necromancy, enchantment, abjuration, conjuration, transmutation, illusion, divination, evocation<br>
 
 ## Van Richten's recent history
 When Van Richten first arrived in Barovia, he hoped to face Strahd alone, taking advantage of the vampire’s hibernation to destroy him in his coffin.
