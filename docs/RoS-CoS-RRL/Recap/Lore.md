@@ -162,7 +162,7 @@ The misted wood is darkened, now, and the trees no longer sing with the songs of
 
 ## Khazan's Tower
 - Long ago, Khazan built a wizard’s tower, which he imbued with powerful enchantments, including a protective field that prevented any other spellcasters from using magic within its reach.
-- ![Khazan's Ring](https://publish-01.obsidian.md/access/7db64b11c71d88572ddc6cd06b888976/images/Khazan's%20Ring.png)<br>
+- ![Khazan's Ring](https://publish-01.obsidian.md/access/7db64b11c71d88572ddc6cd06b888976/images/Khazan's%20Ring.png "Khazan's Ring")<br>
   The symbol on the signet ring resembles the connected series of lines depicted on the Tower Door, but rotated counterclockwise such that the shape is vertically symmetrical. A tiny arcane rune has been carved into the metal above each of the two unconnected ends of the series of lines.<br>
 Kasimir notes that the runes are the symbols of the evocation (left) and necromancy (right) schools of magic, respectively, but confesses that the ring has shown no reaction to any kind of magic.
 -  ![Tower Door](https://publish-01.obsidian.md/access/7db64b11c71d88572ddc6cd06b888976/images/Tower%20Door.png)<br>
