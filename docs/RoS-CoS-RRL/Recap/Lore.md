@@ -440,7 +440,7 @@ Flashes of images flicker across your mind's eyes:<br>
 + The same woman, raising a golden mace above her head, a prayer upon her lips as a shadowed fortress looms above her. [defiance]
 + The silver statuette, sitting alone in a dark, cold tomb beneath a dark, twisted keep. The man, alone on a mountaintop, a veil of mist shrouding his eyes. [sorrow ]<br>
 Each image is accompanied by a surge of emotion: humility, hope, defiance, and sorrow so strong it rakes at your chest with long, bitter claws. But as quickly as they appeared—the visions fade, and when you open your eyes again, you find the room returned to its former state. <br>
-![IconOfDawnsGrace](https://raw.githubusercontent.com/SkroxiousDM/SkroxiousDM/refs/heads/main/Images/IconOfDawnsGrace.webp)
+![IconOfDawnsGrace](https://raw.githubusercontent.com/SkroxiousDM/SkroxiousDM/refs/heads/main/Images/IconOfDawnsGrace.webp "The Icon of Dawn's Grace")
 
 ## Baron Krezkov on recent history
 - Recently, a werewolf attacked the village of Krezk, somehow managing to bypass its walls. In its rampage, it wounded many and killed Kala. (“I held her in my arms as she died," Dmitri sobs. “Half her side was missing. She kept whispering, ‘Daddy’ and ‘Mommy’ over and over again, until she finally fell still.")
