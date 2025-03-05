@@ -1,4 +1,4 @@
-[History](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.bxzjoi9ypv07blbs/history)
+[History](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.saytbccieuuohd7i/history)
 
 [Library](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.bxzjoi9ypv07blbs/library)
 
