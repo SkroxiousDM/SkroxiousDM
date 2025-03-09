@@ -6,6 +6,7 @@ foundryId: JournalEntry.2fPuVho4zrPAuTrG.JournalEntryPage.zfbsMHXZPP4rAc8y
 tags:
   - JournalEntryPage
 ---
+# Journal
 ### Session 1 *2023-09-18*
 
 By chance or perhaps fate Vix Bogs, Virgil Bauchamp and Radmil Silvervein were pulled from the stable you all desperately sought shelter within, led by Vix’s scarf through impenetrable mists into the manor of Elizabeth and Gustav Durst. Upon entering this seemingly abandoned place , blood flowed and foretold of your death at the hands of a terrible beast. The way out had been bricked over as soon as you entered and the windows impassable, thanks to grotesque thick fleshy tendrils.
