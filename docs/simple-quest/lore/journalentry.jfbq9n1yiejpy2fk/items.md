@@ -1,28 +1,27 @@
-# Items
-
+# Magic Items
 ## Table of Contents
-
-- [[JournalEntry.jfBQ9n1YiejpY2FK.JournalEntryPage.cULfgEKemwV9rj5K|Amber Shard]]
-- [[JournalEntry.jfBQ9n1YiejpY2FK.JournalEntryPage.WWZ4AB0YwW6Tp7a9|Talisman of Echoes]]
-- [[JournalEntry.jfBQ9n1YiejpY2FK.JournalEntryPage.K0oOHAiO8WJUY1My|Charm of Mass Heroism]]
-- [[JournalEntry.jfBQ9n1YiejpY2FK.JournalEntryPage.G3awchzuKRCAf1s5|Lantern of Revealing]]
-- [[JournalEntry.jfBQ9n1YiejpY2FK.JournalEntryPage.TEanrKAC166qZVQA|Spirit Mirror]]
-- [[JournalEntry.jfBQ9n1YiejpY2FK.JournalEntryPage.ncZjWrOFS1KTc9TD|Locked Tome]]
-- [[JournalEntry.jfBQ9n1YiejpY2FK.JournalEntryPage.yaAGpXJSCUut8x4D|motes of the Whispering Wall]]
-- [[JournalEntry.jfBQ9n1YiejpY2FK.JournalEntryPage.NtTJxMNfvrzrGHpj|Twilight Crest]]
-- [[JournalEntry.jfBQ9n1YiejpY2FK.JournalEntryPage.rXjkR1QzLAzwuLI7|Keeper's Whistle]]
-- [[JournalEntry.jfBQ9n1YiejpY2FK.JournalEntryPage.vHbEeefoGBWDLnAe|Bracelet of Warding]]
-- [[journalentry.jfbq9n1yiejpy2fk.journalentrypage.npf7jbqh5kqtzakj|Amulet of Knight’s Passage]]
-- [[journalentry.jfbq9n1yiejpy2fk.journalentrypage.1n1cov0vclijvkuq|Moontouched Rapier silvered]]
+- [Cloak of Protection]()
+- [Amber Shard](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/simple-quest/lore/journalentry.jfbq9n1yiejpy2fk/journalentry.jfbq9n1yiejpy2fk.journalentrypage.culfgekemwv9rj5k)
+- [Talisman of Echoes](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/simple-quest/lore/journalentry.jfbq9n1yiejpy2fk/journalentry.jfbq9n1yiejpy2fk.journalentrypage.wwz4ab0yww6tp7a9)
+- [Charm of Mass Heroism](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/simple-quest/lore/journalentry.jfbq9n1yiejpy2fk/journalentry.jfbq9n1yiejpy2fk.journalentrypage.k0oohaio8wjuy1my)
+- [Lantern of Revealing](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/simple-quest/lore/journalentry.jfbq9n1yiejpy2fk/journalentry.jfbq9n1yiejpy2fk.journalentrypage.g3awchzukrcaf1s5)
+- [Spirit Mirror](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/simple-quest/lore/journalentry.jfbq9n1yiejpy2fk/journalentry.jfbq9n1yiejpy2fk.journalentrypage.teanrkac166qzvqa)
+- [Locked Tome](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/simple-quest/lore/journalentry.jfbq9n1yiejpy2fk/journalentry.jfbq9n1yiejpy2fk.journalentrypage.nczjwrofs1ktc9td)
+- [Motes of the Whispering Wall](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/simple-quest/lore/journalentry.jfbq9n1yiejpy2fk/journalentry.jfbq9n1yiejpy2fk.journalentrypage.yaagpxjscuut8x4d)
+- [Twilight Crest](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/simple-quest/lore/journalentry.jfbq9n1yiejpy2fk/journalentry.jfbq9n1yiejpy2fk.journalentrypage.nttjxmnfvrzrghpj)
+- [Keeper's Whistle](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/simple-quest/lore/journalentry.jfbq9n1yiejpy2fk/journalentry.jfbq9n1yiejpy2fk.journalentrypage.rxjkr1qzlazwuli7)
+- [Bracelet of Warding](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/simple-quest/lore/journalentry.jfbq9n1yiejpy2fk/journalentry.jfbq9n1yiejpy2fk.journalentrypage.vhbeeefogbwdlnae)
+- [Amulet of Knight’s Passage](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/simple-quest/lore/journalentry.jfbq9n1yiejpy2fk/journalentry.jfbq9n1yiejpy2fk.journalentrypage.npf7jbqh5kqtzakj)
+- [Moontouched Rapier silvered](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/simple-quest/lore/journalentry.jfbq9n1yiejpy2fk/journalentry.jfbq9n1yiejpy2fk.journalentrypage.1n1cov0vclijvkuq)
 
 <!---
-- [[JournalEntry.jfBQ9n1YiejpY2FK.JournalEntryPage.9afq1XtbmFvNhO6k|Holy Symbol of Ravenkind]]
-- [[JournalEntry.jfBQ9n1YiejpY2FK.JournalEntryPage.0sbVuWM3nDR2iKBH|Khazan's Staff]]
-- [[JournalEntry.jfBQ9n1YiejpY2FK.JournalEntryPage.VeRg7Y5lsUpRoz3g|Spear of the Huntress]]
-- [[JournalEntry.jfBQ9n1YiejpY2FK.JournalEntryPage.apDloEjYk6HFwmJB|Dragon blessed weapon]]
-- [[JournalEntry.jfBQ9n1YiejpY2FK.JournalEntryPage.fRjEtbwYAntc1WGH|Shield of the Silver Dragon]]
-- [[JournalEntry.jfBQ9n1YiejpY2FK.JournalEntryPage.gXhHeg5r64F5urg2|Driftglobe]]
-- [[JournalEntry.jfBQ9n1YiejpY2FK.JournalEntryPage.nxT2jmDxveoHVXvW|Cape of the Mountebank]]
-- [[JournalEntry.jfBQ9n1YiejpY2FK.JournalEntryPage.gJUXSvAZq86nDrDf|Furtive Firestarter]]
-- [[JournalEntry.jfBQ9n1YiejpY2FK.JournalEntryPage.PW7kr6rfaox8Nmwp|Chest of Holding]]
+- [Holy Symbol of Ravenkind](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/simple-quest/lore/journalentry.jfbq9n1yiejpy2fk/journalentry.jfbq9n1yiejpy2fk.journalentrypage.9afq1xtbmfvnho6k)
+- [Khazan's Staff](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/simple-quest/lore/journalentry.jfbq9n1yiejpy2fk/journalentry.jfbq9n1yiejpy2fk.journalentrypage.0sbvuwm3ndr2ikbh)
+- [Spear of the Huntress](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/simple-quest/lore/journalentry.jfbq9n1yiejpy2fk/journalentry.jfbq9n1yiejpy2fk.journalentrypage.verg7y5lsuproz3g)
+- [Dragon blessed weapon](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/simple-quest/lore/journalentry.jfbq9n1yiejpy2fk/journalentry.jfbq9n1yiejpy2fk.journalentrypage.apdloejyk6hfwmjb)
+- [Shield of the Silver Dragon](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/simple-quest/lore/journalentry.jfbq9n1yiejpy2fk/journalentry.jfbq9n1yiejpy2fk.journalentrypage.frjetbwyantc1wgh)
+- [Driftglobe](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/simple-quest/lore/journalentry.jfbq9n1yiejpy2fk/journalentry.jfbq9n1yiejpy2fk.journalentrypage.gxhheg5r64f5urg2)
+- [Cape of the Mountebank](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/simple-quest/lore/journalentry.jfbq9n1yiejpy2fk/journalentry.jfbq9n1yiejpy2fk.journalentrypage.nxt2jmdxveohvxvw)
+- [Furtive Firestarter](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/simple-quest/lore/journalentry.jfbq9n1yiejpy2fk/journalentry.jfbq9n1yiejpy2fk.journalentrypage.gjuxsvazq86ndrdf)
+- [Chest of Holding](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/simple-quest/lore/journalentry.jfbq9n1yiejpy2fk/journalentry.jfbq9n1yiejpy2fk.journalentrypage.pw7kr6rfaox8nmwp)
 --->
