@@ -8,7 +8,7 @@ tags:
 ---
 
 # Arturi
-![](tokenizer\cos_tokens\Arturi.webp)
+![]([tokenizer\cos_tokens\Arturi.webp](https://raw.githubusercontent.com/SkroxiousDM/SkroxiousDM/refs/heads/main/Images/Arturi.webp))
 
 - Arturi notes quietly that Van Richten is an acquaintance of his, and that he had recently heard a rumor that he had been seen traveling to Barovia.
 
