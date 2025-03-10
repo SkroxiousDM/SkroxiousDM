@@ -14,6 +14,8 @@
 - [[JournalEntry.jfBQ9n1YiejpY2FK.JournalEntryPage.vHbEeefoGBWDLnAe|Bracelet of Warding]]
 - [[journalentry.jfbq9n1yiejpy2fk.journalentrypage.npf7jbqh5kqtzakj|Amulet of Knight’s Passage]]
 - [[journalentry.jfbq9n1yiejpy2fk.journalentrypage.1n1cov0vclijvkuq|Moontouched Rapier silvered]]
+
+<!---
 - [[JournalEntry.jfBQ9n1YiejpY2FK.JournalEntryPage.9afq1XtbmFvNhO6k|Holy Symbol of Ravenkind]]
 - [[JournalEntry.jfBQ9n1YiejpY2FK.JournalEntryPage.0sbVuWM3nDR2iKBH|Khazan's Staff]]
 - [[JournalEntry.jfBQ9n1YiejpY2FK.JournalEntryPage.VeRg7Y5lsUpRoz3g|Spear of the Huntress]]
@@ -23,3 +25,4 @@
 - [[JournalEntry.jfBQ9n1YiejpY2FK.JournalEntryPage.nxT2jmDxveoHVXvW|Cape of the Mountebank]]
 - [[JournalEntry.jfBQ9n1YiejpY2FK.JournalEntryPage.gJUXSvAZq86nDrDf|Furtive Firestarter]]
 - [[JournalEntry.jfBQ9n1YiejpY2FK.JournalEntryPage.PW7kr6rfaox8Nmwp|Chest of Holding]]
+--->
