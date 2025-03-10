@@ -1,4 +1,0 @@
----
-Alias: Vallaki
----
-![[Vallaki.png]]
