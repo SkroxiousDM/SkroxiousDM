@@ -1,5 +1,7 @@
 # Magic Items
+
 ## Table of Contents
+
 - [Cloak of Protection]()
 - [Amber Shard](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/simple-quest/lore/journalentry.jfbq9n1yiejpy2fk/journalentry.jfbq9n1yiejpy2fk.journalentrypage.culfgekemwv9rj5k)
 - [Talisman of Echoes](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/simple-quest/lore/journalentry.jfbq9n1yiejpy2fk/journalentry.jfbq9n1yiejpy2fk.journalentrypage.wwz4ab0yww6tp7a9)
