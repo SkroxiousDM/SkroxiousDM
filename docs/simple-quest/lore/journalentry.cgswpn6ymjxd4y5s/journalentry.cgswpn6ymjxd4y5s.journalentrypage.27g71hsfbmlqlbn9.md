@@ -8,4 +8,4 @@ tags:
 ---
 
 # Madam Eva
-![](tokenizer\cos_tokens\madamme_eva.webp)
+![]([tokenizer\cos_tokens\madamme_eva.webp](https://raw.githubusercontent.com/SkroxiousDM/SkroxiousDM/refs/heads/main/Images/madamme_eva.webp))
