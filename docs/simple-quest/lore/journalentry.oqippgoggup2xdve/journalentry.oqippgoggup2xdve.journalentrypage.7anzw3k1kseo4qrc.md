@@ -32,6 +32,6 @@ tags:
 ## Wachterhaus
 ![](https://raw.githubusercontent.com/SkroxiousDM/SkroxiousDM/refs/heads/main/assets/Wachterhaus%2018x10.webp)
 #### Parlour
-![](ddb-images\adventures\misc\wachterhaus_lores.jpg)
+![](https://uploads.worldanvil.com/uploads/images/Fiona's%20Parlor.png)
 ## Lake Zarovich
 ![](https://raw.githubusercontent.com/SkroxiousDM/SkroxiousDM/refs/heads/main/assets/LakeZarovich%2018x10.webp)
