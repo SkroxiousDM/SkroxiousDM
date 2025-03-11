@@ -26,9 +26,11 @@ tags:
 ## Burgomaster’s Mansion 
 ![](https://raw.githubusercontent.com/SkroxiousDM/SkroxiousDM/refs/heads/main/assets/Burgomasters%20Mansion%2018x10.webp)
 #### Victor's_Workshop
-![](ddb-images\adventures\misc\RRL_Victor's_Workshop_lores.jpg)
+![](https://raw.githubusercontent.com/SkroxiousDM/SkroxiousDM/refs/heads/main/assets/victors_workshop.jpg)
 ## Arasek Stockyard
 ![](https://raw.githubusercontent.com/SkroxiousDM/SkroxiousDM/refs/heads/main/assets/Arasek%20Stockyard%2018x10.webp)
+### Rictavio's Wagon
+![](https://raw.githubusercontent.com/SkroxiousDM/SkroxiousDM/refs/heads/main/assets/rictavios_wagon.jpg)
 ## Wachterhaus
 ![](https://raw.githubusercontent.com/SkroxiousDM/SkroxiousDM/refs/heads/main/assets/Wachterhaus%2018x10.webp)
 #### Parlour
