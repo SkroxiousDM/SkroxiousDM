@@ -15,7 +15,9 @@ tags:
 ![Blue Water Inn](https://raw.githubusercontent.com/SkroxiousDM/SkroxiousDM/refs/heads/main/assets/Blue%20Water%20Inn%2018x10.webp)
 #### Taproom
 ![](https://raw.githubusercontent.com/SkroxiousDM/SkroxiousDM/refs/heads/main/assets/BWI_taproom.jpg)
-## Blinsky Toys
+## Town Square
+![](https://raw.githubusercontent.com/SkroxiousDM/SkroxiousDM/refs/heads/main/assets/Vallaki%20Town%20Square%2018x10.webp)
+### Blinsky Toys
 ![](https://raw.githubusercontent.com/SkroxiousDM/SkroxiousDM/refs/heads/main/assets/Blinsky%20Toys%2018x10.webp)
 ## St. Andral's Church
 ![](https://raw.githubusercontent.com/SkroxiousDM/SkroxiousDM/refs/heads/main/assets/Saint%20Andrals%20Church%2018x10.webp)
