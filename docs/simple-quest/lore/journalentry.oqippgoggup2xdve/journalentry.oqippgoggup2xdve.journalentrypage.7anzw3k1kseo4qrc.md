@@ -14,7 +14,7 @@ tags:
 ## Blue Water Inn
 ![Blue Water Inn](https://raw.githubusercontent.com/SkroxiousDM/SkroxiousDM/refs/heads/main/assets/Blue%20Water%20Inn%2018x10.webp)
 #### Taproom
-![](https://www.reddit.com/r/CurseofStrahd/comments/16k9oqj/art_of_the_blue_water_inn_taproom_by_me/#lightbox)
+![](https://raw.githubusercontent.com/SkroxiousDM/SkroxiousDM/refs/heads/main/assets/BWI_taproom.jpg)
 ## Blinsky Toys
 ![](https://raw.githubusercontent.com/SkroxiousDM/SkroxiousDM/refs/heads/main/assets/Blinsky%20Toys%2018x10.webp)
 ## St. Andral's Church
