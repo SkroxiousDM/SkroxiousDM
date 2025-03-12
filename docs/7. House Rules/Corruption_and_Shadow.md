@@ -16,7 +16,7 @@ Natural beasts have green, red and white shadows or sometimes another bright pri
 |5|Fangs, or nails in the shape of claws or talons.|
 |6|Taste for raw meat, must feed on fresh meat every day or gain a level of exhaustion.|
 |7|Discolored skin, blemishes and severe rashes. Disadvantage on Charisma checks.|
-|8|A festering wound that does not heal.|
+|8|A festering wound that does not heal.<br>Gain 1 Wound. cannot be healed.|
 |9|Boils in mouth, throat and ears that burst at inopportune times. You are deafened.|
 |10|Eyes that actually blacken with anger, hunger or lust. Disadvantage on Charisma checks. Reduce temporary Corruption by 1.|
 |11|Speaks in an unknown, evil-sounding language while sleeping. Reduce temporary Corruption by 1.|
