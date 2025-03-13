@@ -8,4 +8,4 @@ tags:
 ---
 
 # Tser Falls
-![](modules/legends-of-barovia-pk/assets/scene/Tser%20Falls.%2018x10.webp)
+![](https://raw.githubusercontent.com/SkroxiousDM/SkroxiousDM/refs/heads/main/assets/Tser%20Falls.%2018x10.webp)
