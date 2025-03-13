@@ -8,4 +8,4 @@ tags:
 ---
 
 # Barovian Overlook
-![](ddb-images\adventures\misc\Barovian%20Overlook.jpg)
+![](https://raw.githubusercontent.com/SkroxiousDM/SkroxiousDM/refs/heads/main/assets/Barovian%20Overlook.jpg)
