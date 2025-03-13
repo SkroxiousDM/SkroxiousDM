@@ -22,7 +22,7 @@ tags:
 ## St. Andral's Church
 ![](https://raw.githubusercontent.com/SkroxiousDM/SkroxiousDM/refs/heads/main/assets/Saint%20Andrals%20Church%2018x10.webp)
 ## Milivoj's House
-
+![](https://raw.githubusercontent.com/SkroxiousDM/SkroxiousDM/refs/heads/main/assets/slum.jpg)
 ## Coffin Maker's Shop
 ![](https://raw.githubusercontent.com/SkroxiousDM/SkroxiousDM/refs/heads/main/assets/Coffin%20Makers%20Shop%2018x10.webp)
 ## Burgomaster’s Mansion 
