@@ -8,7 +8,7 @@ tags:
 ---
 
 # The Old Mill
-![The Old Mill](modules/legends-of-barovia-pk/assets/scene/Old_Bonegrinder%2018x10.webp)
+![The Old Mill](https://raw.githubusercontent.com/SkroxiousDM/SkroxiousDM/refs/heads/main/assets/Old_Bonegrinder%2018x10.webp)
 
 ## Megaliths
-![](modules/legends-of-barovia-pk/assets/scene/Mountain%20Fane%2018x10.webp)
+![](https://raw.githubusercontent.com/SkroxiousDM/SkroxiousDM/refs/heads/main/assets/Mountain%20Fane%2018x10.webp)
