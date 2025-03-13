@@ -8,4 +8,4 @@ tags:
 ---
 
 # Khazan's Tower
-![](modules/legends-of-barovia-pk/assets/scene/Wizards%20Tower%2018x10.webp)
+![](https://raw.githubusercontent.com/SkroxiousDM/SkroxiousDM/refs/heads/main/assets/Wizards%20Tower%2018x10.webp)
