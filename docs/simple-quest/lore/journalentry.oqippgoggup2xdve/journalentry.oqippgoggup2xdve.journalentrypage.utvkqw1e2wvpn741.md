@@ -8,4 +8,4 @@ tags:
 ---
 
 # Tser Pool Encampment
-![Tser Pool Encampment](modules/legends-of-barovia-pk/assets/scene/Tser%20Pool%20Encampment%2018x10.webp)
+![Tser Pool Encampment](https://raw.githubusercontent.com/SkroxiousDM/SkroxiousDM/refs/heads/main/assets/Tser%20Pool%20Encampment%2018x10.webp)
