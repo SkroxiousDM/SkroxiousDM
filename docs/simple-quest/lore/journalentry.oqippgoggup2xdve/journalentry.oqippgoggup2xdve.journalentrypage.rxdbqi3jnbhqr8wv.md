@@ -8,4 +8,4 @@ tags:
 ---
 
 # Ivlis River Bridge
-![](modules/legends-of-barovia-pk/assets/scene/River%20Ivlis%20Bridge%2018x10.webp)
+![](https://raw.githubusercontent.com/SkroxiousDM/SkroxiousDM/refs/heads/main/assets/River%20Ivlis%20Bridge%2018x10.webp)
