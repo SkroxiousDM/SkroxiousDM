@@ -8,4 +8,4 @@ tags:
 ---
 
 # Vallaki Encampment
-![null](modules/legends-of-barovia-pk/assets/scene/VistaniCamp%2018x10.webp)
+![null](https://raw.githubusercontent.com/SkroxiousDM/SkroxiousDM/refs/heads/main/assets/VistaniCamp%2018x10.webp)
