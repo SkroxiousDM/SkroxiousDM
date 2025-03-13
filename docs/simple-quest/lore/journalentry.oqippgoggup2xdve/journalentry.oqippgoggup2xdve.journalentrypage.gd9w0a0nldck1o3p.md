@@ -8,4 +8,4 @@ tags:
 ---
 
 # Svalich Woods
-![](modules/legends-of-barovia-pk/assets/scene/SvalichWoods%2018x10.webp)
+![](https://raw.githubusercontent.com/SkroxiousDM/SkroxiousDM/refs/heads/main/assets/SvalichWoods%2018x10.webp)
