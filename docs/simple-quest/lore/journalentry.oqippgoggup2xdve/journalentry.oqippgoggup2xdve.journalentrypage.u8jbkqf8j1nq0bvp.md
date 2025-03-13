@@ -8,4 +8,4 @@ tags:
 ---
 
 # Werewolf Den
-![](modules/legends-of-barovia-pk/assets/scene/WerewolfDen%2018x10.webp)
+![](https://raw.githubusercontent.com/SkroxiousDM/SkroxiousDM/refs/heads/main/assets/WerewolfDen%2018x10.webp)
