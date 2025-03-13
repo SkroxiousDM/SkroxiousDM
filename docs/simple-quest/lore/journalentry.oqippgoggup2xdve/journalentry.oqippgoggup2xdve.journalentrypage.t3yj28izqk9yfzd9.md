@@ -8,4 +8,4 @@ tags:
 ---
 
 # Wizard of Wines Winery
-![](modules/legends-of-barovia-pk/assets/scene/WizardofWines%2018x10.webp)
+![](https://raw.githubusercontent.com/SkroxiousDM/SkroxiousDM/refs/heads/main/assets/WizardofWines%2018x10.webp)
