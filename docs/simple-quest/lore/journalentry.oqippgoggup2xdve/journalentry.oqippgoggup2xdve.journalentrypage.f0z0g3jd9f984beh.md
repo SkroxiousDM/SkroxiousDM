@@ -8,4 +8,4 @@ tags:
 ---
 
 # River Ivlis Crossroads
-![](modules/legends-of-barovia-pk/assets/scene/River%20Ivlis%20Crossroads%2018x10.webp)
+![](https://raw.githubusercontent.com/SkroxiousDM/SkroxiousDM/refs/heads/main/assets/River%20Ivlis%20Crossroads%2018x10.webp)
