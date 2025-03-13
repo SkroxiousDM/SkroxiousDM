@@ -8,4 +8,4 @@ tags:
 ---
 
 # Castle Ravenloft
-![Castle Ravenloft](modules/legends-of-barovia-pk/assets/scene/Ravenloft%2018x10.webp)
+![Castle Ravenloft](https://raw.githubusercontent.com/SkroxiousDM/SkroxiousDM/refs/heads/main/assets/Ravenloft%2018x10.webp)
