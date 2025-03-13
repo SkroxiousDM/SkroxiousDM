@@ -8,4 +8,4 @@ tags:
 ---
 
 # West Gates of Barovia
-![](modules/legends-of-barovia-pk/assets/scene/Gates%20of%20Barovia%2018x10.webp)
+![](https://raw.githubusercontent.com/SkroxiousDM/SkroxiousDM/refs/heads/main/assets/Gates%20of%20Barovia%2018x10.webp)
