@@ -1,5 +1,6 @@
 # Completed
 ## Act I
+- [Arc A - Escape from Death House]
 - [Arc B - Welcome to Barovia](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/quests/journalentry.dy942buxabf1v2et/journalentry.upv832b9apnhueo1.journalentrypage.ehpcajv8z2xb807c)
 - [Arc C - Into the Valley](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/quests/journalentry.dy942buxabf1v2et/journalentry.upv832b9apnhueo1.journalentrypage.vrnefsogaoth3usj)
 
