@@ -18,10 +18,6 @@
 - [Lore](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/lore-contents)
 
   
-Hey, I'm SkroxiousDM, here in this collection of pages are a bunch of Homebrew rules I use in my 5e games.
-
-This is also the repository for my latest campaign [DragnaCarta's Curse of Strahd Re-Reloaded](https://www.strahdreloaded.com)
-
+Hey, I'm SkroxiousDM, here in this collection of pages are a bunch of Homebrew rules I use in my 5e games.<br>
+This is also the repository for my latest campaign [DragnaCarta's Curse of Strahd Re-Reloaded](https://www.strahdreloaded.com)<br>
 MonD'n'Day Crew stay out of the link above.
-
-I'm using a modified version of [Free League's "Ruins of Symbaroum"](https://preview.drivethrurpg.com/en/product/317720/ruins-of-symbaroum-5e-the-promised-land) for character classes, wherein I've compressed the original 20 levels into 10.
