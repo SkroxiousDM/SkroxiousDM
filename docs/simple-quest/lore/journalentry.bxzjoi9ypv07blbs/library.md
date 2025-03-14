@@ -9,12 +9,12 @@
 - [Genealogical tome archiving births and deaths to Vallakian families](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.bxzjoi9ypv07blbs/journalentry.bxzjoi9ypv07blbs.journalentrypage.dl75otcussuqna3b)
 - [Ethereal Entities](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.bxzjoi9ypv07blbs/journalentry.bxzjoi9ypv07blbs.journalentrypage.o4f7erhteg2ebxkx)
 - [Burned RvR Journal pages](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.bxzjoi9ypv07blbs/journalentry.bxzjoi9ypv07blbs.journalentrypage.4olshqtj8v6umntc)
-- [Tome of Strahd](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.bxzjoi9ypv07blbs/journalentry.bxzjoi9ypv07blbs.journalentrypage.cf4frawmjd8dlf04)
 - [The Oath Celestial](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.bxzjoi9ypv07blbs/journalentry.bxzjoi9ypv07blbs.journalentrypage.pfzoommshj8vhavb)
 - [Argynvost's Journal](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.bxzjoi9ypv07blbs/journalentry.bxzjoi9ypv07blbs.journalentrypage.kh0hotynuvdzcqkt)
 - [Silver Tablet](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.bxzjoi9ypv07blbs/journalentry.bxzjoi9ypv07blbs.journalentrypage.byrmrsrddxhveb1i)
 - [St. Andral's Letter](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.bxzjoi9ypv07blbs/journalentry.bxzjoi9ypv07blbs.journalentrypage.tthvar5m84b6djrm)
 
 <!---
+- [Tome of Strahd](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.bxzjoi9ypv07blbs/journalentry.bxzjoi9ypv07blbs.journalentrypage.cf4frawmjd8dlf04)
 - [Oaktree Letter](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.bxzjoi9ypv07blbs/journalentry.bxzjoi9ypv07blbs.journalentrypage.6zer7cctpsaqargw)
 --->
