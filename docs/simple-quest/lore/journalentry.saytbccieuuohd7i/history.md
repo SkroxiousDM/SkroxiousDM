@@ -47,6 +47,7 @@
 - [Brother Marek on St. Markovia](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.saytbccieuuohd7i/journalentry.saytbccieuuohd7i.journalentrypage.sfjlkohepq6zlee9)
 - [Vladimir Horngaard on himself & Strahd](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.saytbccieuuohd7i/journalentry.saytbccieuuohd7i.journalentrypage.iy9yxomuuxur73ab)
 - [Bianca on Kiril](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.saytbccieuuohd7i/journalentry.saytbccieuuohd7i.journalentrypage.rom71hmunmniloec)
+
 <!---
 - [Ezmerelda on meeting Dr. Rudolph van Richten](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.saytbccieuuohd7i/journalentry.saytbccieuuohd7i.journalentrypage.vsqvk8l56kfnsriq)
 - [Ezmerelda on "The Black Terror"](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.saytbccieuuohd7i/journalentry.saytbccieuuohd7i.journalentrypage.vw8qoep17ksdcc6z)
