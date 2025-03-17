@@ -1,5 +1,5 @@
 # In Progress
-- [Find Doru’s betrothed Gertruda, who has likely gone to Castle Ravenloft.](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/quests/journalentry.dy942buxabf1v2et/journalentry.dy942buxabf1v2et.journalentrypage.eedcovuaabsh9djy)
+- [Find Doru’s betrothed Gertruda, who has likely gone to Castle Ravenloft.]()
 - [Retrieve the Long-lost Spear of the Huntress from Dostron's Tomb in Castle Ravenloft](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/quests/journalentry.dy942buxabf1v2et/journalentry.dy942buxabf1v2et.journalentrypage.avilgknx3gkzgiu2)
 - [Arc K - The Fallen Abbey](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/quests/journalentry.dy942buxabf1v2et/journalentry.dy942buxabf1v2et.journalentrypage.O39lyr9ytgvhmvmb)
 - [Arc M - The Dragon's Manor](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/quests/journalentry.dy942buxabf1v2et/journalentry.dy942buxabf1v2et.journalentrypage.4ink64rcmfhrvxsk)
