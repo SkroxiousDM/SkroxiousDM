@@ -1,25 +1,26 @@
 # History
 ## Table of Contents
-- [Ismark and Barovia](JournalEntry.sAYtBcCIeuUOHD7I.JournalEntryPage.HZeO81ISpvYJQQsG)
-- [why Ismark is called "the Lesser,"](JournalEntry.sAYtBcCIeuUOHD7I.JournalEntryPage.wjquVBzngENxOaUo)
-- [Ireena's take on Doru's rebellion](JournalEntry.sAYtBcCIeuUOHD7I.JournalEntryPage.ckcwRtHCrhXfox5q)
-- [Bildrath on the Seige of Barova](JournalEntry.sAYtBcCIeuUOHD7I.JournalEntryPage.SzLG7dp16TF3pKNc)
-- [Doru & Van Richten](JournalEntry.sAYtBcCIeuUOHD7I.JournalEntryPage.dkhArllS4bPmQ6K1)
-- [Stanimir's Tale](JournalEntry.sAYtBcCIeuUOHD7I.JournalEntryPage.tu99NYUUOybLgTyk)
-- [Eliza’s Tale](JournalEntry.sAYtBcCIeuUOHD7I.JournalEntryPage.6WobU3jKLnrRAYTh)
-- [Arturi’s Tale](JournalEntry.sAYtBcCIeuUOHD7I.JournalEntryPage.JtjYZ9XMZKPHTN0R)
-- [Ireena’s Tale](JournalEntry.sAYtBcCIeuUOHD7I.JournalEntryPage.003oSa1CGx2Dg2dq)
-- [Kasmir & the Dusk Elves](JournalEntry.sAYtBcCIeuUOHD7I.JournalEntryPage.W7rFMGtsyFxC3AYt)
-- [Lady Wachter on Izek Strazni](JournalEntry.sAYtBcCIeuUOHD7I.JournalEntryPage.yEKq70NAk2S814AW)
-- [Khazan's Tower](JournalEntry.sAYtBcCIeuUOHD7I.JournalEntryPage.zvn3C4xSmQDrUnM8)
-- [Van Richten's recent history](JournalEntry.sAYtBcCIeuUOHD7I.JournalEntryPage.yFOBu5io8iF6RVre)
-- [Arabelle's Prophecy](JournalEntry.sAYtBcCIeuUOHD7I.JournalEntryPage.nl0tAZz8I41tG8Ic)
-- [Baba Lysaga's Scrying](JournalEntry.sAYtBcCIeuUOHD7I.JournalEntryPage.CEM2OJUUGOmVfmpX)
-- [Lady Wachter on the Forest Folk and Strahd](JournalEntry.sAYtBcCIeuUOHD7I.JournalEntryPage.tmk6jUqlXqfP4XSd)
-- [Morgantha's Secrets](JournalEntry.sAYtBcCIeuUOHD7I.JournalEntryPage.1D5xPN1ixISN0afs)
-- [Lady Wachter & Leo Dilisnya](JournalEntry.sAYtBcCIeuUOHD7I.JournalEntryPage.Z1w8FFgjq5rNhRro)
-- [Muriel on the mountain and forest folk](JournalEntry.sAYtBcCIeuUOHD7I.JournalEntryPage.40MwKVpvuWcVkOoT)
-- [Revenant on the Forest Folk](JournalEntry.sAYtBcCIeuUOHD7I.JournalEntryPage.DJg9P962TAKDTqUP)
+- [Ismark and Barovia](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.saytbccieuuohd7i/journalentry.saytbccieuuohd7i.journalentrypage.hzeo81ispvyjqqsg)
+- [why Ismark is called "the Lesser,"](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.saytbccieuuohd7i/journalentry.saytbccieuuohd7i.journalentrypage.wjquvbzngenxoauo)
+- [Ireena's take on Doru's rebellion](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.saytbccieuuohd7i/journalentry.saytbccieuuohd7i.journalentrypage.ckcwrthcrhxfox5q)
+- [Bildrath on the Seige of Barova](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.saytbccieuuohd7i/journalentry.saytbccieuuohd7i.journalentrypage.szlg7dp16tf3pknc)
+- [Doru & Van Richten](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.saytbccieuuohd7i/journalentry.saytbccieuuohd7i.journalentrypage.dkharlls4bpmq6k1)
+- [Stanimir's Tale](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.saytbccieuuohd7i/journalentry.saytbccieuuohd7i.journalentrypage.tu99nyuuoyblgtyk)
+- [Eliza’s Tale](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.saytbccieuuohd7i/journalentry.saytbccieuuohd7i.journalentrypage.6wobu3jklnrrayth)
+- [Arturi’s Tale](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.saytbccieuuohd7i/journalentry.saytbccieuuohd7i.journalentrypage.jtjyz9xmzkphtn0r)
+- [Ireena’s Tale](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.saytbccieuuohd7i/journalentry.saytbccieuuohd7i.journalentrypage.003osa1cgx2dg2dq)
+- [Kasmir & the Dusk Elves](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.saytbccieuuohd7i/journalentry.saytbccieuuohd7i.journalentrypage.w7rfmgtsyfxc3ayt)
+- [Lady Wachter on Izek Strazni](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.saytbccieuuohd7i/journalentry.saytbccieuuohd7i.journalentrypage.yekq70nak2s814aw)
+- [Khazan's Tower](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.saytbccieuuohd7i/journalentry.saytbccieuuohd7i.journalentrypage.zvn3c4xsmqdrunm8)
+- [Van Richten's recent history](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.saytbccieuuohd7i/journalentry.saytbccieuuohd7i.journalentrypage.yfobu5io8if6rvre)
+- [Arabelle's Prophecy](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.saytbccieuuohd7i/journalentry.saytbccieuuohd7i.journalentrypage.nl0tazz8i41tg8ic)
+- [Baba Lysaga's Scrying](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.saytbccieuuohd7i/journalentry.saytbccieuuohd7i.journalentrypage.cem2ojuugomvfmpx)
+- [Lady Wachter on the Forest Folk and Strahd](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.saytbccieuuohd7i/journalentry.saytbccieuuohd7i.journalentrypage.tmk6juqlxqfp4xsd)
+- [Morgantha's Secrets](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.saytbccieuuohd7i/journalentry.saytbccieuuohd7i.journalentrypage.1d5xpn1ixisn0afs)
+- [Lady Wachter & Leo Dilisnya](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.saytbccieuuohd7i/journalentry.saytbccieuuohd7i.journalentrypage.z1w8ffgjq5rnhrro)
+- [Muriel on the mountain and forest folk](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.saytbccieuuohd7i/journalentry.saytbccieuuohd7i.journalentrypage.40mwkvpvuwcvkoot)
+- [Revenant on the Forest Folk](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.saytbccieuuohd7i/journalentry.saytbccieuuohd7i.journalentrypage.djg9p962takdtqup)
+- 
 - [Revenant on the Mountain Folk](JournalEntry.sAYtBcCIeuUOHD7I.JournalEntryPage.2ZSJlfOMy2aFl34l)
 - [Dag on Urwin and Davians rift](JournalEntry.sAYtBcCIeuUOHD7I.JournalEntryPage.QQ320ITacB5zWJdf)
 - [Dag on Elric and the Rebellion](JournalEntry.sAYtBcCIeuUOHD7I.JournalEntryPage.OtVUhuOuYoEIsSIT)
@@ -53,3 +54,40 @@
 - [Zuleika on Kiril](JournalEntry.sAYtBcCIeuUOHD7I.JournalEntryPage.dZSqKR1dBHOfKFre)
 - [Zuleika on the Silverthorn Collars](JournalEntry.sAYtBcCIeuUOHD7I.JournalEntryPage.rkDq4If0bXKUbvES)
 - [Zuleika on the Shrine of Mother Night](JournalEntry.sAYtBcCIeuUOHD7I.JournalEntryPage.uxNkx8Gk4pMR60aR)
+journalentry.saytbccieuuohd7i.journalentrypage.2pod3ikz9xqr3dxn
+journalentry.saytbccieuuohd7i.journalentrypage.2xw1ufe59p9o9fwg
+journalentry.saytbccieuuohd7i.journalentrypage.2zsjlfomy2afl34l
+journalentry.saytbccieuuohd7i.journalentrypage.39lrprrtqaxev7tz
+journalentry.saytbccieuuohd7i.journalentrypage.3uuqgxrvl7zmlcmk
+journalentry.saytbccieuuohd7i.journalentrypage.7ehgirv7b8czpb6i
+journalentry.saytbccieuuohd7i.journalentrypage.aife13bwhcpvuoio
+journalentry.saytbccieuuohd7i.journalentrypage.cynzl2qdzpwkp8pe
+journalentry.saytbccieuuohd7i.journalentrypage.dbjj3kmuntoetcme
+journalentry.saytbccieuuohd7i.journalentrypage.dzsqkr1dbhofkfre
+journalentry.saytbccieuuohd7i.journalentrypage.fh0pdejssqrqa6kh
+journalentry.saytbccieuuohd7i.journalentrypage.ic1zbahs5xl8x7rd
+journalentry.saytbccieuuohd7i.journalentrypage.iy9yxomuuxur73ab
+journalentry.saytbccieuuohd7i.journalentrypage.jqj6ztlmbufkhxn0
+journalentry.saytbccieuuohd7i.journalentrypage.jrlrcoqdte4069e7
+journalentry.saytbccieuuohd7i.journalentrypage.knxdjv1y77mx7ohd
+journalentry.saytbccieuuohd7i.journalentrypage.l8ogxsdzmrmrr4ny
+journalentry.saytbccieuuohd7i.journalentrypage.liy0at4tqwpkdffj
+journalentry.saytbccieuuohd7i.journalentrypage.nopfcznk3gegopmg
+journalentry.saytbccieuuohd7i.journalentrypage.otvuhuouyoeissit
+journalentry.saytbccieuuohd7i.journalentrypage.qq320itacb5zwjdf
+journalentry.saytbccieuuohd7i.journalentrypage.rkdq4if0bxkubves
+journalentry.saytbccieuuohd7i.journalentrypage.rom71hmunmniloec
+journalentry.saytbccieuuohd7i.journalentrypage.sfjlkohepq6zlee9
+journalentry.saytbccieuuohd7i.journalentrypage.ssasemrww0nweu5i
+journalentry.saytbccieuuohd7i.journalentrypage.tmkvdfvd93ee3tn3
+journalentry.saytbccieuuohd7i.journalentrypage.tn4ikmzwm44jafug
+journalentry.saytbccieuuohd7i.journalentrypage.tr5embaa607yix5y
+journalentry.saytbccieuuohd7i.journalentrypage.uxnkx8gk4pmr60ar
+journalentry.saytbccieuuohd7i.journalentrypage.vsqvk8l56kfnsriq
+journalentry.saytbccieuuohd7i.journalentrypage.vw8qoep17ksdcc6z
+journalentry.saytbccieuuohd7i.journalentrypage.vw8wup7pjnulhmi7
+journalentry.saytbccieuuohd7i.journalentrypage.vwko7shb5berslk9
+journalentry.saytbccieuuohd7i.journalentrypage.we83cxx8yclaxt8f
+journalentry.saytbccieuuohd7i.journalentrypage.xk25kujlbsmhkgzx
+journalentry.saytbccieuuohd7i.journalentrypage.xkwv8dsxwpy9e88i
+journalentry.saytbccieuuohd7i.journalentrypage.xnkyv68fmfvdteri
