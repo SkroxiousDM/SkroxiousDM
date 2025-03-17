@@ -11,4 +11,4 @@ tags:
 - Find the Icon of Dawn's Grace in the darklords dungeon (Castle Ravenloft?) 
 - kill the Abbot before he collects Anna Krezkov's heart at dusk the 16th night of Neyavr.
 
-@UUID[JournalEntry.sAYtBcCIeuUOHD7I.JournalEntryPage.AIFE13bwhCPVUOIO]{The Seance with Esmerelda}
+[The Seance with Esmerelda](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.saytbccieuuohd7i/journalentry.saytbccieuuohd7i.journalentrypage.aife13bwhcpvuoio)
