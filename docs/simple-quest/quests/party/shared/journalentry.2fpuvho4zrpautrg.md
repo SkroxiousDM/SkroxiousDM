@@ -346,3 +346,14 @@ harvested 3 doses of poison and a Fang for Vix<br>
 - While "the vampire" slept, the wilds were more peaceful—but ever since Strahd awoke, Kiril has been "haunted—not by any ghost, but by his own rage."
 - "Every week, that . . . rage seems to devour ever-more of him," she adds quietly. "I don't know how much of the man I married is still left inside."
 - asks what you would do in her position. While she isn't willing to leave Kiril behind, she appreciates any advice you might lend.
+
+### Session 32 *2025-03-18*
+- Traveled to the north shore of Lake Baratok
+- Told Stories by the campfire wile waiting for nightfall
+- the pack left the Den an hour after nightfall.
+- Vix distracted the entrance guards with Unseen Servant and Radmil's everburning torch.
+- Explored the cavern, befriended  old starving Wolf [Skennis]
+- snuck past sleeping wolves to Shrine of Mother Night
+- Found Ilya and Zuleika Caged and Collared.
+- Told of Kiril's usurpation of Emil
+- Discovered by Bianca but convinced her not to do anything.
