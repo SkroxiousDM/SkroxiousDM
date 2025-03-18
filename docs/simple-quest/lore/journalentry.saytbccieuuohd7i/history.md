@@ -47,13 +47,13 @@
 - [Brother Marek on St. Markovia](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.saytbccieuuohd7i/journalentry.saytbccieuuohd7i.journalentrypage.sfjlkohepq6zlee9)
 - [Vladimir Horngaard on himself & Strahd](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.saytbccieuuohd7i/journalentry.saytbccieuuohd7i.journalentrypage.iy9yxomuuxur73ab)
 - [Bianca on Kiril](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.saytbccieuuohd7i/journalentry.saytbccieuuohd7i.journalentrypage.rom71hmunmniloec)
-
-<!---
 - [Ezmerelda on meeting Dr. Rudolph van Richten](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.saytbccieuuohd7i/journalentry.saytbccieuuohd7i.journalentrypage.vsqvk8l56kfnsriq)
 - [Ezmerelda on "The Black Terror"](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.saytbccieuuohd7i/journalentry.saytbccieuuohd7i.journalentrypage.vw8qoep17ksdcc6z)
-- [Ilya on recent history](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.saytbccieuuohd7i/journalentry.saytbccieuuohd7i.journalentrypage.cynzl2qdzpwkp8pe)
 - [Zuleika on Kiril](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.saytbccieuuohd7i/journalentry.saytbccieuuohd7i.journalentrypage.dzsqkr1dbhofkfre)
 - [Zuleika on the Silverthorn Collars](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.saytbccieuuohd7i/journalentry.saytbccieuuohd7i.journalentrypage.rkdq4if0bxkubves)
 - [Zuleika on the Shrine of Mother Night](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.saytbccieuuohd7i/journalentry.saytbccieuuohd7i.journalentrypage.uxnkx8gk4pmr60ar)
+
+<!---
+- [Ilya on recent history](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.saytbccieuuohd7i/journalentry.saytbccieuuohd7i.journalentrypage.cynzl2qdzpwkp8pe)
 - [Doru and Donavich](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.saytbccieuuohd7i/journalentry.saytbccieuuohd7i.journalentrypage.3uuqgxrvl7zmlcmk)
 --->
