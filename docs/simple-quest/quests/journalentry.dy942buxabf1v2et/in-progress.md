@@ -11,4 +11,6 @@
 - [Arc Q - Shining Beacon](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/quests/journalentry.dy942buxabf1v2et/journalentry.dy942buxabf1v2et.journalentrypage.serve6jonmpljf8w)
 - [Arc R - Trials of the Mountains](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/quests/journalentry.dy942buxabf1v2et/journalentry.dy942buxabf1v2et.journalentrypage.9kfdexhbsbosazpf)
 - [Arc S - A Sword of Sunlight](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/quests/journalentry.dy942buxabf1v2et/journalentry.dy942buxabf1v2et.journalentrypage.7eqkom6krbs4vp7l)
+- [Arc T - Dreams of Dawn]()
+
 -->
