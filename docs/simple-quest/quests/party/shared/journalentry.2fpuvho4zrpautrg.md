@@ -357,3 +357,12 @@ harvested 3 doses of poison and a Fang for Vix<br>
 - Found Ilya and Zuleika Caged and Collared.
 - Told of Kiril's usurpation of Emil
 - Discovered by Bianca but convinced her not to do anything.
+
+### Session 33 *2025-04-07*
+- broke the chains of Ilya and Zuleika and freed them from their cages.
+- Zuleika had you swear an oath to the Night Mother to rescue Emil before the first light of the new moon. in exchange she would allow you to take the **Symbol of Holy Ravenkind**.
+- travel to Krezk reunite Ilya with his family
+- long rest at Krezkov's residence
+- travel to Vallaki have some fancy clothes tailored.
+- Arrigal bumped into Dorian and slipped a note into his pocket.
+- met Doru and Father Donavich at the east gate
