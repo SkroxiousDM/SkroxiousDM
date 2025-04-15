@@ -364,5 +364,15 @@ harvested 3 doses of poison and a Fang for Vix<br>
 - travel to Krezk reunite Ilya with his family
 - long rest at Krezkov's residence
 - travel to Vallaki have some fancy clothes tailored.
-- Arrigal bumped into Dorian and slipped a note into his pocket.
+- Arrigal bumped into Dorian and slipped a note into his pocket about a traitor in strahds court
 - met Doru and Father Donavich at the east gate
+- ghostly rider led you off the path to an ancient oak tree. found a letter addresed to Varushka from Katarina and half a locket guarded by ravens.
+- rode in Strahds carriage from the crossroads to the castle. Strahd left a gift of a puzzle chest.
+
+  ### Session 34 *2025-04-14*
+- arrived at castle Ravenloft. met by Anastraya and Rahadin
+- volenta almost killed her "toy"
+- ate supper with Strahd while he questioned you. and then gave a tour of the castle.
+- Vix slipped aweay and met with Sasha
+- ligtning struck the drawbridge mechanism. it will be repaired by dawn.
+- strahd offerd a room for the night. promised saftey within it.
