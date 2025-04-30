@@ -363,6 +363,7 @@ harvested 3 doses of poison and a Fang for Vix<br>
 - Zuleika had you swear an oath to the Night Mother to rescue Emil before the first light of the new moon. in exchange she would allow you to take the **Symbol of Holy Ravenkind**.
 - travel to Krezk reunite Ilya with his family
 - long rest at Krezkov's residence
+## 14th day of Neyavr, 735 BC
 - travel to Vallaki have some fancy clothes tailored.
 - Arrigal bumped into Dorian and slipped a note into his pocket about a traitor in strahds court
 - met Doru and Father Donavich at the east gate
@@ -376,3 +377,16 @@ harvested 3 doses of poison and a Fang for Vix<br>
 - Vix slipped aweay and met with Sasha
 - ligtning struck the drawbridge mechanism. it will be repaired by dawn.
 - strahd offerd a room for the night. promised saftey within it.
+
+### Session 35 *2025-04-30*
+- Escher led you to your rooms. Rahadin locked you in and left Escher to guard the door
+- Vix discovered an empty secret compartment in the broken clock. Dorian discovered a Trapdoor in the closet roof.
+- Explored the chambers above. Vix Fireballed a room
+- Explored the roof. Ludmilla Told you to return to your chambers.
+- Went to sleep. immediately woke up the lock om the door is now golden and the clock now works.
+- the clock struck 10 and everyone felt their necks bitten.
+- discovered a corpse hanging in the closet. used Speak with Dead.
+- her name was Varushka
+- 
+- 
+- 
