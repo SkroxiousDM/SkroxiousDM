@@ -52,8 +52,9 @@
 - [Zuleika on Kiril](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.saytbccieuuohd7i/journalentry.saytbccieuuohd7i.journalentrypage.dzsqkr1dbhofkfre)
 - [Zuleika on the Silverthorn Collars](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.saytbccieuuohd7i/journalentry.saytbccieuuohd7i.journalentrypage.rkdq4if0bxkubves)
 - [Zuleika on the Shrine of Mother Night](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.saytbccieuuohd7i/journalentry.saytbccieuuohd7i.journalentrypage.uxnkx8gk4pmr60ar)
+- [Doru and Donavich](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.saytbccieuuohd7i/journalentry.saytbccieuuohd7i.journalentrypage.3uuqgxrvl7zmlcmk)
 
 <!---
 - [Ilya on recent history](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.saytbccieuuohd7i/journalentry.saytbccieuuohd7i.journalentrypage.cynzl2qdzpwkp8pe)
-- [Doru and Donavich](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.saytbccieuuohd7i/journalentry.saytbccieuuohd7i.journalentrypage.3uuqgxrvl7zmlcmk)
+
 --->
