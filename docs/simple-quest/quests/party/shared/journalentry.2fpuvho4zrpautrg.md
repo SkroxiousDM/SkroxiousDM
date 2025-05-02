@@ -347,7 +347,7 @@ harvested 3 doses of poison and a Fang for Vix<br>
 - "Every week, that . . . rage seems to devour ever-more of him," she adds quietly. "I don't know how much of the man I married is still left inside."
 - asks what you would do in her position. While she isn't willing to leave Kiril behind, she appreciates any advice you might lend.
 
-### Session 32 *2025-03-18*
+### Session 32 *2025-03-17*
 - Traveled to the north shore of Lake Baratok
 - Told Stories by the campfire wile waiting for nightfall
 - the pack left the Den an hour after nightfall.
@@ -378,7 +378,7 @@ harvested 3 doses of poison and a Fang for Vix<br>
 - ligtning struck the drawbridge mechanism. it will be repaired by dawn.
 - strahd offerd a room for the night. promised saftey within it.
 
-### Session 35 *2025-04-30*
+### Session 35 *2025-04-29*
 - Escher led you to your rooms. Rahadin locked you in and left Escher to guard the door
 - Vix discovered an empty secret compartment in the broken clock. Dorian discovered a Trapdoor in the closet roof.
 - Explored the chambers above. Vix Fireballed a room
