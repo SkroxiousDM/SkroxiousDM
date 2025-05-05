@@ -1,0 +1,1044 @@
+{
+  "folder": "AqWPvHehxDJV6G8A",
+  "name": "Texarcana",
+  "type": "deck",
+  "description": "117 card Texarcana Deck",
+  "img": "Texarcana/texaracana_cardback.webp",
+  "system": {},
+  "cards": [
+    {
+      "faces": [
+        {
+          "name": "",
+          "img": "Texarcana/hearts_a.jpg",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "name": "Hearts A",
+      "_id": "74KNbMnvbymhoQG7",
+      "description": "",
+      "type": "base",
+      "system": {},
+      "value": 1,
+      "back": {
+        "text": "",
+        "img": null,
+        "name": ""
+      },
+      "drawn": false,
+      "origin": null,
+      "width": null,
+      "height": null,
+      "rotation": 0,
+      "sort": 22,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "worldbuilding",
+        "systemVersion": "0.8.2",
+        "createdTime": 1746235749386,
+        "modifiedTime": 1746465597155,
+        "lastModifiedBy": "SOW4Ifytv0jru8FG"
+      },
+      "suit": "Hearts"
+    },
+    {
+      "faces": [
+        {
+          "name": "Hearts 2",
+          "img": "Texarcana/hearts_2.jpg",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "name": "Hearts 2",
+      "_id": "0YJWDE7huj5fvBoK",
+      "description": "",
+      "type": "base",
+      "system": {},
+      "value": 2,
+      "back": {
+        "text": "",
+        "img": null,
+        "name": ""
+      },
+      "drawn": false,
+      "origin": null,
+      "width": null,
+      "height": null,
+      "rotation": 0,
+      "sort": 19,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "worldbuilding",
+        "systemVersion": "0.8.2",
+        "createdTime": 1746236259336,
+        "modifiedTime": 1746465597155,
+        "lastModifiedBy": "SOW4Ifytv0jru8FG"
+      },
+      "suit": "Hearts"
+    },
+    {
+      "faces": [
+        {
+          "name": "Hearts 3",
+          "img": "Texarcana/hearts_3.jpg",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "name": "Hearts 3",
+      "_id": "zohpqsSkSn5Cl3aY",
+      "description": "",
+      "type": "base",
+      "system": {},
+      "value": 3,
+      "back": {
+        "text": "",
+        "img": null,
+        "name": ""
+      },
+      "drawn": false,
+      "origin": null,
+      "width": null,
+      "height": null,
+      "rotation": 0,
+      "sort": 20,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "worldbuilding",
+        "systemVersion": "0.8.2",
+        "createdTime": 1746462527667,
+        "modifiedTime": 1746465597155,
+        "lastModifiedBy": "SOW4Ifytv0jru8FG"
+      },
+      "suit": "Hearts"
+    },
+    {
+      "faces": [
+        {
+          "name": "Hearts 4",
+          "img": "Texarcana/hearts_4.jpg",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "name": "Hearts 4",
+      "_id": "AgNNqJbikbTzeLan",
+      "description": "",
+      "type": "base",
+      "system": {},
+      "value": 4,
+      "back": {
+        "text": "",
+        "img": null,
+        "name": ""
+      },
+      "drawn": false,
+      "origin": null,
+      "width": null,
+      "height": null,
+      "rotation": 0,
+      "sort": 4,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "worldbuilding",
+        "systemVersion": "0.8.2",
+        "createdTime": 1746462625726,
+        "modifiedTime": 1746465597155,
+        "lastModifiedBy": "SOW4Ifytv0jru8FG"
+      },
+      "suit": "Hearts"
+    },
+    {
+      "faces": [
+        {
+          "name": "Hearts 5",
+          "img": "Texarcana/hearts_5.jpg",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "name": "Hearts 5",
+      "_id": "5SV0Cz2XLLQ2HrFw",
+      "description": "",
+      "type": "base",
+      "system": {},
+      "value": 5,
+      "back": {
+        "text": "",
+        "img": null,
+        "name": ""
+      },
+      "drawn": false,
+      "origin": null,
+      "width": null,
+      "height": null,
+      "rotation": 0,
+      "sort": 16,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "worldbuilding",
+        "systemVersion": "0.8.2",
+        "createdTime": 1746462660907,
+        "modifiedTime": 1746465597155,
+        "lastModifiedBy": "SOW4Ifytv0jru8FG"
+      },
+      "suit": "Hearts"
+    },
+    {
+      "faces": [
+        {
+          "name": "Hearts 6",
+          "img": "Texarcana/hearts_6.jpg",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "name": "Hearts 6",
+      "_id": "cqq7GAeW8jOP06Nx",
+      "description": "",
+      "type": "base",
+      "system": {},
+      "value": 6,
+      "back": {
+        "text": "",
+        "img": null,
+        "name": ""
+      },
+      "drawn": false,
+      "origin": null,
+      "width": null,
+      "height": null,
+      "rotation": 0,
+      "sort": 7,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "worldbuilding",
+        "systemVersion": "0.8.2",
+        "createdTime": 1746462694652,
+        "modifiedTime": 1746465597155,
+        "lastModifiedBy": "SOW4Ifytv0jru8FG"
+      },
+      "suit": "Hearts"
+    },
+    {
+      "faces": [
+        {
+          "name": "Hearts 7",
+          "img": "Texarcana/hearts_7.jpg",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "name": "Hearts 7",
+      "_id": "FZdKphesHkhcm5AU",
+      "description": "",
+      "type": "base",
+      "system": {},
+      "value": 7,
+      "back": {
+        "text": "",
+        "img": null,
+        "name": ""
+      },
+      "drawn": false,
+      "origin": null,
+      "width": null,
+      "height": null,
+      "rotation": 0,
+      "sort": 3,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "worldbuilding",
+        "systemVersion": "0.8.2",
+        "createdTime": 1746462725482,
+        "modifiedTime": 1746465597155,
+        "lastModifiedBy": "SOW4Ifytv0jru8FG"
+      },
+      "suit": "Hearts"
+    },
+    {
+      "faces": [
+        {
+          "name": "Hearts 8",
+          "img": "Texarcana/hearts_8.jpg",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "name": "Hearts 8",
+      "_id": "G5i33rZ0U3eQ1DbM",
+      "description": "",
+      "type": "base",
+      "system": {},
+      "value": 8,
+      "back": {
+        "text": "",
+        "img": null,
+        "name": ""
+      },
+      "drawn": false,
+      "origin": null,
+      "width": null,
+      "height": null,
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "worldbuilding",
+        "systemVersion": "0.8.2",
+        "createdTime": 1746462780892,
+        "modifiedTime": 1746465597155,
+        "lastModifiedBy": "SOW4Ifytv0jru8FG"
+      },
+      "suit": "Hearts"
+    },
+    {
+      "faces": [
+        {
+          "name": "Hearts 9",
+          "img": "Texarcana/hearts_9.jpg",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "name": "Hearts 9",
+      "_id": "4coQ6WdZaBQ1nq5m",
+      "description": "",
+      "type": "base",
+      "system": {},
+      "value": 9,
+      "back": {
+        "text": "",
+        "img": null,
+        "name": ""
+      },
+      "drawn": false,
+      "origin": null,
+      "width": null,
+      "height": null,
+      "rotation": 0,
+      "sort": 2,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "worldbuilding",
+        "systemVersion": "0.8.2",
+        "createdTime": 1746462788636,
+        "modifiedTime": 1746465597155,
+        "lastModifiedBy": "SOW4Ifytv0jru8FG"
+      },
+      "suit": "Hearts"
+    },
+    {
+      "faces": [
+        {
+          "name": "Hearts 10",
+          "img": "Texarcana/hearts_10.jpg",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "name": "Hearts 10",
+      "_id": "BiVtgvi7ytHG7Jip",
+      "description": "",
+      "type": "base",
+      "system": {},
+      "value": 10,
+      "back": {
+        "text": "",
+        "img": null,
+        "name": ""
+      },
+      "drawn": false,
+      "origin": null,
+      "width": null,
+      "height": null,
+      "rotation": 0,
+      "sort": 6,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "worldbuilding",
+        "systemVersion": "0.8.2",
+        "createdTime": 1746462797246,
+        "modifiedTime": 1746465597155,
+        "lastModifiedBy": "SOW4Ifytv0jru8FG"
+      },
+      "suit": "Hearts"
+    },
+    {
+      "faces": [
+        {
+          "name": "Hearts J",
+          "img": "Texarcana/hearts_j.jpg",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "name": "Hearts J",
+      "_id": "NE2WblftikO4FiND",
+      "description": "",
+      "type": "base",
+      "system": {},
+      "value": 10,
+      "back": {
+        "text": "",
+        "img": null,
+        "name": ""
+      },
+      "drawn": false,
+      "origin": null,
+      "width": null,
+      "height": null,
+      "rotation": 0,
+      "sort": 13,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "worldbuilding",
+        "systemVersion": "0.8.2",
+        "createdTime": 1746462898807,
+        "modifiedTime": 1746465597155,
+        "lastModifiedBy": "SOW4Ifytv0jru8FG"
+      },
+      "suit": "Hearts"
+    },
+    {
+      "faces": [
+        {
+          "name": "Hearts Q",
+          "img": "Texarcana/hearts_q.jpg",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "name": "Hearts Q",
+      "_id": "g1qdo8GxnRQVXuhh",
+      "description": "",
+      "type": "base",
+      "system": {},
+      "value": 10,
+      "back": {
+        "text": "",
+        "img": null,
+        "name": ""
+      },
+      "drawn": false,
+      "origin": null,
+      "width": null,
+      "height": null,
+      "rotation": 0,
+      "sort": 23,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "worldbuilding",
+        "systemVersion": "0.8.2",
+        "createdTime": 1746462951773,
+        "modifiedTime": 1746465597155,
+        "lastModifiedBy": "SOW4Ifytv0jru8FG"
+      },
+      "suit": "Hearts"
+    },
+    {
+      "faces": [
+        {
+          "name": "Hearts K",
+          "img": "Texarcana/hearts_k.jpg",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "name": "Hearts K",
+      "_id": "HssczsQ6ZLA2k9IK",
+      "description": "",
+      "type": "base",
+      "system": {},
+      "value": 10,
+      "back": {
+        "text": "",
+        "img": null,
+        "name": ""
+      },
+      "drawn": false,
+      "origin": null,
+      "width": null,
+      "height": null,
+      "rotation": 0,
+      "sort": 12,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "worldbuilding",
+        "systemVersion": "0.8.2",
+        "createdTime": 1746462983582,
+        "modifiedTime": 1746465597155,
+        "lastModifiedBy": "SOW4Ifytv0jru8FG"
+      },
+      "suit": "Hearts"
+    },
+    {
+      "faces": [
+        {
+          "name": "",
+          "img": "icons/svg/card-joker.svg",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "name": "Card",
+      "_id": "QzGGJ7K4NMmM8Zes",
+      "description": "",
+      "type": "base",
+      "system": {},
+      "value": null,
+      "back": {
+        "text": "",
+        "img": null,
+        "name": ""
+      },
+      "drawn": false,
+      "origin": null,
+      "width": null,
+      "height": null,
+      "rotation": 0,
+      "sort": 5,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "worldbuilding",
+        "systemVersion": "0.8.2",
+        "createdTime": 1746465515713,
+        "modifiedTime": 1746465596555,
+        "lastModifiedBy": "SOW4Ifytv0jru8FG"
+      },
+      "suit": ""
+    },
+    {
+      "faces": [
+        {
+          "name": "",
+          "img": "icons/svg/card-joker.svg",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "name": "Card (2)",
+      "_id": "GPMWlnwAlHO5DV0V",
+      "description": "",
+      "type": "base",
+      "system": {},
+      "value": null,
+      "back": {
+        "text": "",
+        "img": null,
+        "name": ""
+      },
+      "drawn": false,
+      "origin": null,
+      "width": null,
+      "height": null,
+      "rotation": 0,
+      "sort": 10,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "worldbuilding",
+        "systemVersion": "0.8.2",
+        "createdTime": 1746465533630,
+        "modifiedTime": 1746465597155,
+        "lastModifiedBy": "SOW4Ifytv0jru8FG"
+      },
+      "suit": ""
+    },
+    {
+      "faces": [
+        {
+          "name": "",
+          "img": "icons/svg/card-joker.svg",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "name": "Card (3)",
+      "_id": "ms9EYTDJjtEU15BZ",
+      "description": "",
+      "type": "base",
+      "system": {},
+      "value": null,
+      "back": {
+        "text": "",
+        "img": null,
+        "name": ""
+      },
+      "drawn": false,
+      "origin": null,
+      "width": null,
+      "height": null,
+      "rotation": 0,
+      "sort": 9,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "worldbuilding",
+        "systemVersion": "0.8.2",
+        "createdTime": 1746465537266,
+        "modifiedTime": 1746465597155,
+        "lastModifiedBy": "SOW4Ifytv0jru8FG"
+      },
+      "suit": ""
+    },
+    {
+      "faces": [
+        {
+          "name": "",
+          "img": "icons/svg/card-joker.svg",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "name": "Card (4)",
+      "_id": "8mbSOFKTYIRKePPo",
+      "description": "",
+      "type": "base",
+      "system": {},
+      "value": null,
+      "back": {
+        "text": "",
+        "img": null,
+        "name": ""
+      },
+      "drawn": false,
+      "origin": null,
+      "width": null,
+      "height": null,
+      "rotation": 0,
+      "sort": 1,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "worldbuilding",
+        "systemVersion": "0.8.2",
+        "createdTime": 1746465540334,
+        "modifiedTime": 1746465597155,
+        "lastModifiedBy": "SOW4Ifytv0jru8FG"
+      },
+      "suit": ""
+    },
+    {
+      "faces": [
+        {
+          "name": "",
+          "img": "icons/svg/card-joker.svg",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "name": "Card (5)",
+      "_id": "p357zJjDcSysJM0v",
+      "description": "",
+      "type": "base",
+      "system": {},
+      "value": null,
+      "back": {
+        "text": "",
+        "img": null,
+        "name": ""
+      },
+      "drawn": false,
+      "origin": null,
+      "width": null,
+      "height": null,
+      "rotation": 0,
+      "sort": 21,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "worldbuilding",
+        "systemVersion": "0.8.2",
+        "createdTime": 1746465544382,
+        "modifiedTime": 1746465597155,
+        "lastModifiedBy": "SOW4Ifytv0jru8FG"
+      },
+      "suit": ""
+    },
+    {
+      "faces": [
+        {
+          "name": "",
+          "img": "icons/svg/card-joker.svg",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "name": "Card (6)",
+      "_id": "Fzaah3383I0wcdH4",
+      "description": "",
+      "type": "base",
+      "system": {},
+      "value": null,
+      "back": {
+        "text": "",
+        "img": null,
+        "name": ""
+      },
+      "drawn": false,
+      "origin": null,
+      "width": null,
+      "height": null,
+      "rotation": 0,
+      "sort": 15,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "worldbuilding",
+        "systemVersion": "0.8.2",
+        "createdTime": 1746465547922,
+        "modifiedTime": 1746465597155,
+        "lastModifiedBy": "SOW4Ifytv0jru8FG"
+      },
+      "suit": ""
+    },
+    {
+      "faces": [
+        {
+          "name": "",
+          "img": "icons/svg/card-joker.svg",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "name": "Card (7)",
+      "_id": "k8bRuk8RcDrZc5VT",
+      "description": "",
+      "type": "base",
+      "system": {},
+      "value": null,
+      "back": {
+        "text": "",
+        "img": null,
+        "name": ""
+      },
+      "drawn": false,
+      "origin": null,
+      "width": null,
+      "height": null,
+      "rotation": 0,
+      "sort": 8,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "worldbuilding",
+        "systemVersion": "0.8.2",
+        "createdTime": 1746465551190,
+        "modifiedTime": 1746465597155,
+        "lastModifiedBy": "SOW4Ifytv0jru8FG"
+      },
+      "suit": ""
+    },
+    {
+      "faces": [
+        {
+          "name": "",
+          "img": "icons/svg/card-joker.svg",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "name": "Card (8)",
+      "_id": "0cFCuXrDsa9gzy5f",
+      "description": "",
+      "type": "base",
+      "system": {},
+      "value": null,
+      "back": {
+        "text": "",
+        "img": null,
+        "name": ""
+      },
+      "drawn": false,
+      "origin": null,
+      "width": null,
+      "height": null,
+      "rotation": 0,
+      "sort": 24,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "worldbuilding",
+        "systemVersion": "0.8.2",
+        "createdTime": 1746465555310,
+        "modifiedTime": 1746465597155,
+        "lastModifiedBy": "SOW4Ifytv0jru8FG"
+      },
+      "suit": ""
+    },
+    {
+      "faces": [
+        {
+          "name": "",
+          "img": "icons/svg/card-joker.svg",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "name": "Card (9)",
+      "_id": "8DcmU9I0ApxpldaP",
+      "description": "",
+      "type": "base",
+      "system": {},
+      "value": null,
+      "back": {
+        "text": "",
+        "img": null,
+        "name": ""
+      },
+      "drawn": false,
+      "origin": null,
+      "width": null,
+      "height": null,
+      "rotation": 0,
+      "sort": 25,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "worldbuilding",
+        "systemVersion": "0.8.2",
+        "createdTime": 1746465558634,
+        "modifiedTime": 1746465597155,
+        "lastModifiedBy": "SOW4Ifytv0jru8FG"
+      },
+      "suit": ""
+    },
+    {
+      "faces": [
+        {
+          "name": "",
+          "img": "icons/svg/card-joker.svg",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "name": "Card (10)",
+      "_id": "F0q6xy529w6EaKFg",
+      "description": "",
+      "type": "base",
+      "system": {},
+      "value": null,
+      "back": {
+        "text": "",
+        "img": null,
+        "name": ""
+      },
+      "drawn": false,
+      "origin": null,
+      "width": null,
+      "height": null,
+      "rotation": 0,
+      "sort": 17,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "worldbuilding",
+        "systemVersion": "0.8.2",
+        "createdTime": 1746465561544,
+        "modifiedTime": 1746465597155,
+        "lastModifiedBy": "SOW4Ifytv0jru8FG"
+      },
+      "suit": ""
+    },
+    {
+      "faces": [
+        {
+          "name": "",
+          "img": "icons/svg/card-joker.svg",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "name": "Card (11)",
+      "_id": "qcHFr7IJjqPzeJU4",
+      "description": "",
+      "type": "base",
+      "system": {},
+      "value": null,
+      "back": {
+        "text": "",
+        "img": null,
+        "name": ""
+      },
+      "drawn": false,
+      "origin": null,
+      "width": null,
+      "height": null,
+      "rotation": 0,
+      "sort": 11,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "worldbuilding",
+        "systemVersion": "0.8.2",
+        "createdTime": 1746465565032,
+        "modifiedTime": 1746465597155,
+        "lastModifiedBy": "SOW4Ifytv0jru8FG"
+      },
+      "suit": ""
+    },
+    {
+      "faces": [
+        {
+          "name": "",
+          "img": "icons/svg/card-joker.svg",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "name": "Card (12)",
+      "_id": "l3lengiHU6AeNK3L",
+      "description": "",
+      "type": "base",
+      "system": {},
+      "value": null,
+      "back": {
+        "text": "",
+        "img": null,
+        "name": ""
+      },
+      "drawn": false,
+      "origin": null,
+      "width": null,
+      "height": null,
+      "rotation": 0,
+      "sort": 18,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "worldbuilding",
+        "systemVersion": "0.8.2",
+        "createdTime": 1746465569587,
+        "modifiedTime": 1746465597155,
+        "lastModifiedBy": "SOW4Ifytv0jru8FG"
+      },
+      "suit": ""
+    },
+    {
+      "faces": [
+        {
+          "name": "",
+          "img": "icons/svg/card-joker.svg",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "name": "Card (13)",
+      "_id": "66Sy4UkMYeNfjuH2",
+      "description": "",
+      "type": "base",
+      "system": {},
+      "value": null,
+      "back": {
+        "text": "",
+        "img": null,
+        "name": ""
+      },
+      "drawn": false,
+      "origin": null,
+      "width": null,
+      "height": null,
+      "rotation": 0,
+      "sort": 14,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "worldbuilding",
+        "systemVersion": "0.8.2",
+        "createdTime": 1746465572951,
+        "modifiedTime": 1746465597155,
+        "lastModifiedBy": "SOW4Ifytv0jru8FG"
+      },
+      "suit": ""
+    }
+  ],
+  "width": 2,
+  "height": 3,
+  "rotation": 0,
+  "displayCount": false,
+  "flags": {
+    "exportSource": {
+      "world": "texarcana",
+      "system": "worldbuilding",
+      "coreVersion": "12.331",
+      "systemVersion": "0.8.2"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.331",
+    "systemId": "worldbuilding",
+    "systemVersion": "0.8.2",
+    "createdTime": 1746235285342,
+    "modifiedTime": 1746462487558,
+    "lastModifiedBy": "SOW4Ifytv0jru8FG"
+  }
+}

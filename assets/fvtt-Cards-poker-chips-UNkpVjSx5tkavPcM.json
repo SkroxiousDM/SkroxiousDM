@@ -1,0 +1,147 @@
+{
+  "folder": "AqWPvHehxDJV6G8A",
+  "name": "Poker Chips",
+  "type": "deck",
+  "description": "",
+  "img": "Texarcana/free-poker-chip-template-of-pcd01-dice-style-poker-chip-beyond-manufacturing-of-free-poker-chip-template-1.webp",
+  "system": {},
+  "cards": [
+    {
+      "faces": [
+        {
+          "name": "",
+          "img": "Texarcana/free-poker-chip-template-of-pcd01-dice-style-poker-chip-beyond-manufacturing-of-free-poker-chip-template-1.webp",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "name": "poker chip",
+      "_id": "y6SKnmKTb4qPAYa5",
+      "description": "",
+      "type": "base",
+      "system": {},
+      "value": 1,
+      "back": {
+        "text": "",
+        "img": null,
+        "name": ""
+      },
+      "drawn": false,
+      "origin": null,
+      "width": null,
+      "height": null,
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "worldbuilding",
+        "systemVersion": "0.8.2",
+        "createdTime": 1746461280553,
+        "modifiedTime": 1746465628974,
+        "lastModifiedBy": "SOW4Ifytv0jru8FG"
+      },
+      "suit": ""
+    },
+    {
+      "faces": [
+        {
+          "name": "",
+          "img": "Texarcana/free-poker-chip-template-of-pcd01-dice-style-poker-chip-beyond-manufacturing-of-free-poker-chip-template-1.webp",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "name": "poker chip",
+      "_id": "8O0VF8MmwAiYGGLC",
+      "description": "",
+      "type": "base",
+      "system": {},
+      "value": 1,
+      "back": {
+        "text": "",
+        "img": null,
+        "name": ""
+      },
+      "drawn": false,
+      "origin": null,
+      "width": null,
+      "height": null,
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "worldbuilding",
+        "systemVersion": "0.8.2",
+        "createdTime": 1746461388698,
+        "modifiedTime": 1746465628974,
+        "lastModifiedBy": "SOW4Ifytv0jru8FG"
+      },
+      "suit": ""
+    },
+    {
+      "faces": [
+        {
+          "name": "",
+          "img": "Texarcana/free-poker-chip-template-of-pcd01-dice-style-poker-chip-beyond-manufacturing-of-free-poker-chip-template-1.webp",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "name": "poker chip",
+      "_id": "SXjlSs14MJUlwiOP",
+      "description": "",
+      "type": "base",
+      "system": {},
+      "value": 1,
+      "back": {
+        "text": "",
+        "img": null,
+        "name": ""
+      },
+      "drawn": false,
+      "origin": null,
+      "width": null,
+      "height": null,
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "worldbuilding",
+        "systemVersion": "0.8.2",
+        "createdTime": 1746461520476,
+        "modifiedTime": 1746461919118,
+        "lastModifiedBy": "SOW4Ifytv0jru8FG"
+      },
+      "suit": ""
+    }
+  ],
+  "width": 1,
+  "height": 1,
+  "rotation": 0,
+  "displayCount": false,
+  "flags": {
+    "exportSource": {
+      "world": "texarcana",
+      "system": "worldbuilding",
+      "coreVersion": "12.331",
+      "systemVersion": "0.8.2"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.331",
+    "systemId": "worldbuilding",
+    "systemVersion": "0.8.2",
+    "createdTime": 1746461261296,
+    "modifiedTime": 1746461462811,
+    "lastModifiedBy": "SOW4Ifytv0jru8FG"
+  }
+}
