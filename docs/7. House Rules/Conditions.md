@@ -205,15 +205,15 @@ A prone character is lying on the ground, whether on purpose or not.
 If you fail a skill or attribute roll, you can choose to push the roll, which means that you make another attempt. The new result applies, whatever it is. If you have a advantage or disadvantage, you must re-roll both dice. You can never push a natural 1. Whenever you push a roll, immediately after the re-roll, you suffer a Push Condition. 
 ## Cramps
 - Disadvantage on all rolls for skills based on Strength, and rolls against the attribute. 
-##Sickly
+## Sickly
 - Disadvantage on all rolls for skills based on Constitution, and rolls against the attribute. 
-##Tired
+## Tired
 - Disadvantage on all rolls for skills based on Dexterity, and rolls against the attribute. 
-##Angry
+## Angry
 - disadvantage on all rolls for skills based on Intelligence, and rolls against the attribute. 
-##Frazzled
+## Frazzled
 - Disadvantage on all rolls for skills based on Wisdom, and rolls against the attribute. 
-##Dirty
+## Dirty
 - Disadvantage on all rolls for skills based on Charisma, and rolls against the attribute.
 - 
 You decide which Push Condition you get from pushing a roll, with two important restrictions:
