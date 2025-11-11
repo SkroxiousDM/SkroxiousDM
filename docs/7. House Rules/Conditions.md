@@ -219,6 +219,7 @@ If you fail a skill or attribute roll, you can choose to push the roll, which me
 You decide which Push Condition you get from pushing a roll, with two important restrictions:
  - You cannot choose a Push Condition you already have.
  - You must be able to explain how the Push Condition results from the action you are trying to perform. The GM has the right to reject clearly unreasonable explanations.
+   
 Once you have all six Push Conditions, you may no longer push your rolls. In addition to their effects, Push Conditions provide inspiration for how to roleplay your character.
 
 You can recover from a Push Condition by resting – a Long rest heals a Push Condition of your choice, and an Extended rest removes all of them.
