@@ -27,13 +27,13 @@ Some spells or abilities have ongoing effects that only persist as long as the c
 A confused creature can't accurately understand their surroundings, and act in random, potentially harmful ways.
 - On a confused creature's turns, they roll a d10 to determine what they do.
 
-|   |   |
-|---|---|
 |d10 Result|Action|
+|---|---|
 |1-3|The creature uses their movement and moves as far as they can in a random direction, going around obstacles. On a square grid, roll a d8, with 1 meaning that they move north and the rest of the numbers on the d8 assigned clockwise. On a hexagonal grid, roll a d6 and do the same. If the creature can't move in the chosen direction, they don't move. The creature can still use their action.|
 |4-6|The creature uses their action to say something nonsensical or out of context.|
 |7-8|The creature attacks the closest creature, moving first if neccesary, using whatever weapon they might be holding. Creatures use extra attack/multiattack, and creatures without a weapon make an unarmed strike.|
 |9-10|The creature gains a moment of clarity, and can act normally.|
+
 # Cover
 A creature has cover when they are partially blocked by terrain or obstacles. Unless otherwise stated, creatures do not provide cover. A creature might have cover against one enemy and not another.
 ## Half Cover
@@ -270,6 +270,7 @@ You gain a Wound level when:
 | 4. Brutally wounded   | Vitality point maximum halved                  |
 | 5. Broken             | Speed reduced to 0                             |
 | 6. Dead               | Dead                                           |
+
 The eﬀects of being Wounded stack, just like Exhaustion does. If you have 2 wound levels, you suﬀer disadvantage on physical Ability Checks and your speed is halved. 
 
 
