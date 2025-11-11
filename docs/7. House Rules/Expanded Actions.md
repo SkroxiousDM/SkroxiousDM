@@ -42,6 +42,7 @@ With the Influence action, you urge a monster to do something. Describe or rolep
 | Charisma ([Persuasion])    | Persuading a monster that understands you |
 | Wisdom ([Animal Handling]) | Gently coaxing a Beast or Monstrosity     |
 
+see [New modifiers for Persuasion Tests](https://skroxiousdm.github.io/SkroxiousDM/7.%20House%20Rules/New%20modifiers%20for%20persuasion%20tests)
 ## Magic
 When you take the Magic action, you cast a spell that has a casting time of an action or use a feature or magic item that requires a Magic action to be activated.
 
