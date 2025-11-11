@@ -1,17 +1,17 @@
 # Conditions
 A condition is a temporary game state. The definition of a condition says how it affects its recipient, and various rules define how to end a condition. This glossary defines these conditions:
 # Blinded
-- When blinded, a creature cannot see. Many checks may be impossible for the blinded creature (like using a [perception](https://www.elkan5e.com/skills) check to spot someone in a crowd).
+- When blinded, a creature cannot see. Many checks may be impossible for the blinded creature (like using a perception check to spot someone in a crowd).
 - A blinded creature has disadvantage on attack rolls and dexterity saving throws.
 - Attacks made against a blinded creature have advantage.
 - A blinded creature's speed is halved.
-- A blinded creature cannot make [attacks of opportunity](https://www.elkan5e.com/combat) because it cannot see the creature moving away.
-- A blinded creature does not have [line of sight](https://www.elkan5e.com/spellcasting) for spellcasting.
+- A blinded creature cannot make attacks of opportunity. because it cannot see the creature moving away.
+- A blinded creature does not have line of sight for spellcasting.
 The blinded condition in 5e is not always intuitive. An archer can attack any creature they want while blinded, only suffering disadvantage.
 ## Partially Blinded
 - You have disadvantage on Wisdom (Perception) checks that rely on sight.
 # Burning
-A burning creature or object takes 1d4 Fire damage at the start of each of its turns. As an action, you can extinguish fire on yourself by giving yourself the [Prone](https://www.dndbeyond.com/sources/dnd/phb-2024/rules-glossary#ProneCondition) condition and rolling on the ground. The fire also goes out if it is doused, submerged, or suffocated.
+A burning creature or object takes 1d4 Fire damage at the start of each of its turns. As an action, you can extinguish fire on yourself by giving yourself the [Prone] condition and rolling on the ground. The fire also goes out if it is doused, submerged, or suffocated.
 # Charmed
 A creature that is charmed is charmed _by_ a single creature. A charmed creature is in control of their actions.
 - The charmed creature cannot attack or otherwise cause any harm knowingly to the creature that charmed them, unless compelled to by other magic.
@@ -22,7 +22,7 @@ Some spells or abilities have ongoing effects that only persist as long as the c
 - A concentrating creature maintains an ongoing effect. If concentration ends, so does the linked effect.
 - If a concentrating creature starts concentrating on a different effect, they stop concentrating on the first effect.
 - When a concentrating creature takes damage, they must succeed on a constitution saving throw, with a DC equal to 10 or half the damage they took rounded down (whichever is higher) or lose their concentration.
-- If a concentrating creature becomes [incapacitated](https://www.elkan5e.com/conditions/incapacitated), they lose their concentration.
+- If a concentrating creature becomes [Incapacitated], they lose their concentration.
 # Confused
 A confused creature can't accurately understand their surroundings, and act in random, potentially harmful ways.
 - On a confused creature's turns, they roll a d10 to determine what they do.
@@ -38,10 +38,10 @@ A confused creature can't accurately understand their surroundings, and act in 
 A creature has cover when they are partially blocked by terrain or obstacles. Unless otherwise stated, creatures do not provide cover. A creature might have cover against one enemy and not another.
 ## Half Cover
 If at least half of the creature's body is covered, or if the creature is shooting from around a corner or behind a small obstacle, they have half cover.
-- A creature with half cover has +2 to their [armor class](https://www.elkan5e.com/combat) and dexterity saving throws against creatures and effects they have cover from.
+- A creature with half cover has +2 to their armor class and dexterity saving throws against creatures and effects they have cover from.
 ## Three Quarters Cover
 If at least three quarters, but not all, of the creature's body is covered, they have three quarters cover. This extends even if only a small part of the creature is visible, such as with an arrow slit in a castle wall.
-- A creature with three quarters cover has +5 to their [armor class](https://www.elkan5e.com/combat) and dexterity saving throws against creatures and effects they have cover from.
+- A creature with three quarters cover has +5 to their armor class and dexterity saving throws against creatures and effects they have cover from.
 ## Full Cover
 If all of the creature's body is covered, they have full cover.
 - A creature with full cover cannot be targeted by attacks or spells from creatures they have cover from. 
@@ -52,12 +52,12 @@ A dazed creature has limited functionality on their turn.
 - A dazed creature cannot use reactions.
 # ​Deafened
 A deafened creature cannot hear and their inner ear is of limited functionality, affecting balance.
-- When deafened, a creature cannot hear. Some checks may be impossible for the deafened creature (like using a [perception](https://www.elkan5e.com/skills) check to overhear a conversation through a door).
+- When deafened, a creature cannot hear. Some checks may be impossible for the deafened creature (like using a perception check to overhear a conversation through a door).
 - While deafened, you are immune to spells and effects that require you to hear words or other sounds.
 - A deafened creature has disadvantage on dexterity saves and skill checks.
 # Dominance
 When you have advantage on your attack rolls against your target and your target doesn't have the same benefit against you, or a hostile creature that attacks you has disadvantage to its attack rolls and you don't suffer the same penalty, this condition is called having Dominance. You also benefit from Dominance if your target is standing on difficult terrain while you are not, or you hold the higher ground position on steep terrain.
-Some [[Actions in Combat]] require Dominance as prerequisite for their use during combat. Some combat options or abilities may also allow you to benefit from Dominance even if the conditions above are not met.
+Some [Actions in Combat] require Dominance as prerequisite for their use during combat. Some combat options or abilities may also allow you to benefit from Dominance even if the conditions above are not met.
 # Drained
 A drained creature has had their vitality or even their core abilities decreased temporarily, such as by disease or a shadow's sapping touch. When a creature is drained, either their hit point maximum or one of their ability scores is temporarily lowered.
 - If a creature suffers hit point drain, their maximum hit point total is reduced. Their hit points cannot be higher than that temporary maximum, and if their maximum hit point total reaches 0, they die. A creature that has had their hit point maximum reduced is more likely to die to massive damage. As normal, if an attack reduces a creature to 0 hit points or hits a creature with 0 hit points and deals excess damage equal to or greater than their new hit point maximum, they die.
@@ -101,7 +101,7 @@ A grappled creature has been grabbed by another creature or hazard. Usually this
 **If the Grappler is two or more size categories larger**
 - The grappled creature has disadvantage on the saving throw
 - the grappler moves at full speed instead of half.
-- The grappled creature's speed is 0, and they are [restrained](https://www.elkan5e.com/conditions) (which prevents them from grappling the larger grappler).
+- The grappled creature's speed is 0, and they are [restrained] (which prevents them from grappling the larger grappler).
 **If the Grappler is one size category larger**
 - The grappled creature has disadvantage on the saving throw.
 - The grappled creature's speed is 0.
@@ -130,14 +130,14 @@ For example, you could Hide behind a closed door and then stab someone opening t
 A hasted creature moves faster than the environment around them, usually due to a time-warping magic spell or effect.​
 - A hasted creature gains a +2 bonus to their armor class and dexterity saving throws.
 - A hasted creature's speed is doubled
-- A hasted creature gains a 'haste action' on each of their turns. A haste action can be used to make a single attack or use one of the [Dash](https://www.elkan5e.com/combat), [Disengage](https://www.elkan5e.com/combat), or [Hide](https://www.elkan5e.com/combat) actions.
+- A hasted creature gains a 'haste action' on each of their turns. A haste action can be used to make a single attack or use one of the [Dash], [Disengage], or [Hide] actions.
 
 # Incapacitated
-The incapacitated condition refers to any condition that renders a creature unable to do anything. There are four subtypes of incapacitated. If you are affected by the [paralyzed](https://www.elkan5e.com/conditions), [petrified](https://www.elkan5e.com/conditions), [stunned](https://www.elkan5e.com/conditions), or [unconscious](https://www.elkan5e.com/conditions) conditions, you are also affected by the incapacitated condition.
+The incapacitated condition refers to any condition that renders a creature unable to do anything. There are four subtypes of incapacitated. If you are affected by the [paralyzed], [petrified], [stunned], or [unconscious] conditions, you are also affected by the incapacitated condition.
 - An incapacitated creature cannot use actions, bonus actions, reactions, or any other kind of actions. they can’t speak.
 -  An incapacitated creature's Concentration is broken.
 - An incapacitated creature's speed becomes 0, and any effect that would increase their speed has no effect while they are incapacitated.​
-- An incapacitated creature automatically fails strength and dexterity saving throws or ability checks (like grapple checks).
+- An incapacitated creature automatically fails strength and dexterity saving throws or ability checks.
 - when an Incapacitated creature rolls Initiative they have Disadvantage on the roll.
 # Invisible
 An invisible creature gains **no benefits against creatures that can see invisible creatures**.
@@ -145,7 +145,7 @@ An invisible creature gains **no benefits against creatures that can see invisib
 - Attack rolls against the invisible creature have disadvantage.
 - The invisible creature can take the Hide action without needing to be in a Concealable Position.
 - The invisible creature gains Advantage on checks that would benefit from not being seen, including Dexterity (Stealth) checks and Initiative rolls.
-- The creature cannot be seen or targeted with [attacks of opportunity](https://www.elkan5e.com/combat) or spells that require the caster to see the invisible creature.
+- The creature cannot be seen or targeted with [attacks of opportunity] or spells that require the caster to see the invisible creature.
 - Anything the invisible creature is wearing or carrying becomes invisible while being carried. If the invisible creature tries to carry something that encumbers them, the item they are trying to carry is not invisible.
 The invisible creature still leaves tracks and makes sound. We recommend that all creatures should know the location of an invisible creature in combat unless that creature is hiding. Note that some creatures or characters may be able to attack and hide in the same turn, and invisible creatures do not provoke attacks of opportunity, so some invisible creatures can attack, move, and then hide in an unknown location.
 # Nauseated
@@ -158,14 +158,14 @@ A creature that is obscured is hard or impossible for other creatures to see. Li
 A creature standing in low light or total darkness is obscured from creatures that can't see them with darkvision. A creature standing in low light is lightly obscured. A creature standing in total darkness is heavily obscured.
 ## Lightly Obscured
 A creature is lightly obscured when something causes them to be hard, but not impossible, to see. Examples include low light, thick foliage, or murky water. 
-- A lightly obscured creature can hide using a [stealth](https://www.elkan5e.com/skills) check even if they can be partially seen (normally, a creature in plain view cannot hide).
+- A lightly obscured creature can hide using a stealth check even if they can be partially seen (normally, a creature in plain view cannot hide).
 - A lightly obscured creature has advantage on stealth checks.
 ## Heavily Obscured
 A creature is heavily obscured when something makes them impossible to see. Examples include total darkness, thick fog, or a heavy smoke.
-- A heavily obscured creature has advantage on [stealth](https://www.elkan5e.com/skills) checks.
+- A heavily obscured creature has advantage on stealth checks.
 - A heavily obscured creature has advantage on attack rolls and attack rolls against them have disadvantage.
 - A heavily obscured creature cannot be seen or targeted with spells that require the caster to see the heavily obscured creature.
-- Often, a creature that is heavily obscured is also [blind](https://www.elkan5e.com/conditions) to their surroundings.
+- Often, a creature that is heavily obscured is also [blinded] to their surroundings.
 # Panicked
 An unspeakable dread can break the will of weaker creatures and send them running for their lives.
 - A panicked creature remains panicked as long as it is frightened. If it is no longer frightened, it stops panicking.
@@ -173,16 +173,16 @@ An unspeakable dread can break the will of weaker creatures and send them runnin
 - At the start of its turn, a panicking creature can attempt a Wisdom saving throw at Save DC of the source of the fear. If it succeeds, it is no longer panicked. It may continue to feign panicking to surprise any pursuers.
 
 # Paralyzed
-A paralyzed creature is [incapacitated](https://www.elkan5e.com/conditions). While paralyzed, the creature cannot move, but typically stays standing.​
+A paralyzed creature is [incapacitated]. While paralyzed, the creature cannot move, but typically stays standing.​
 - Attacks against the paralyzed creature have advantage.
 - Any attack that hits a paralyzed creature that is either a melee attack or made from within 5 ft. is a critical hit.
 - A ranged attack made from 30 ft. away against a paralyzed target has advantage.
 # Petrified
-A petrified creature is [incapacitated](https://www.elkan5e.com/conditions).
+A petrified creature is [incapacitated].
 A petrified creature has been transformed into stone or some other inert material. This also transforms anything the creature was carrying (with the possible exception of another creature). The petrified creature is solid, and the petrification might fill space inside or around the creature. A petrified creature's weight usually increases. For most creatures petrified as stone, their weight is multiplied by 10.
 - A petrified creature's biological processes halt. The creature is completely immobile and unaware of their surroundings. The creature stops aging, and any poison or disease stops progressing or harming them, though they will resume if the creature is unpetrified.
 - Attacks against the petrified creature have advantage.
-- A petrified creature has immunity to poison, the [poisoned](https://www.elkan5e.com/conditions) condition, and disease.
+- A petrified creature has immunity to poison, the [poisoned] condition, and disease.
 - A petrified creature has resistance to all other damage.
 # Pinned
 Pinned creatures are usually pressed against a hard surface, their limbs held in a lock and struggling under body weight.
@@ -191,7 +191,7 @@ You can pin down creatures of the same size or smaller than you. Creatures large
 - A pinned creature does not benefit from Dexterity or Shield bonuses to AC, fails all Dexterity-based checks and saving throws, and Coup de Grace against it has disadvantage.
 # Poisoned
 - While you have the Poisoned condition, you experience the following effect.
-- **_Ability Checks and Attacks Affected._** You have [Disadvantage](https://www.dndbeyond.com/sources/dnd/phb-2024/rules-glossary#Disadvantage) on attack rolls and ability checks.
+- **_Ability Checks and Attacks Affected._** You have Disadvantage on attack rolls and ability checks.
 - When a poisoned creature takes poison damage equal to or more than its Constitution modifier (minimum of one), its hit point maximum is reduced by 1d6.
 - While poisoned, if a creature's hit point maximum is reduced below half than normal it suffers one level of Exhaustion that cannot be removed. This exhaustion persists even if the creature is no longer Poisoned, as long as its Vigor point maximum is  reduced below half.
 - Creature's Vigor point maximum recover at the end of a long rest, as long as it is no longer Poisoned during the rest. Healing using Recovery dice or magical means also recovers the same amount to their Vigor point maximum lost this way.
@@ -235,7 +235,7 @@ A slowed creature moves slower than the environment around them, usually due to 
 -  A character who takes any damage while at 0 hit points immediately gains 2 additional wound levels and must make a Constitution Saving Throw or fall unconscious. If the character falls unconscious, they are out of the fight.
 - At the end of the battle, the PC makes a single death save. If the PC receives healing or treatment of some kind (First Aid, Spare the Dying, etc), they gain advantage on the save. If the death save is failed, the PC dies. If successful, the adventurer survives but rolls on the Lingering Injuries table with Disadvantage. A natural 20 death save negates the injury roll. Without further healing, the PC awakens in 1d3 minutes with 1 hp.
 # Stunned
-- A stunned creature is [incapacitated](https://www.elkan5e.com/conditions)
+- A stunned creature is [incapacitated]
 - A stunned creature can only speak in short, faltering phrases.
 - Attacks against the stunned creature have advantage.
 # Surprised
@@ -244,14 +244,14 @@ When combat starts and a creature did not realize there was a threat present, th
 - A surprised creature cannot use reactions, and has disadvantage on dexterity saving throws.
 - As soon as a surprised creature ends their turn, they are no longer surprised.
 # Unconscious
-An unconscious creature is [incapacitated](https://www.elkan5e.com/conditions).
-- The creature immediately drops what they're holding and falls [prone](https://www.elkan5e.com/conditions).
+An unconscious creature is [incapacitated].
+- The creature immediately drops what they're holding and falls [prone].
 - An unconscious creature loses awareness of their surroundings. They cannot speak or make any voluntary movement.
 - Attacks against the unconscious creature have advantage.
 - Any attack that hits an unconscious creature that is either a melee attack or made from within 5 ft. is a critical hit.
 # Weakened
 A weakened creature's body is less able to perform physical tasks.
-- A weakened creature has disadvantage on strength and dexterity saving throws and skill checks (like [athletics](https://www.elkan5e.com/skills) or [stealth](https://www.elkan5e.com/skills) checks).
+- A weakened creature has disadvantage on strength and dexterity saving throws and skill checks (like athletics or stealth checks).
 - A weakened creature does half as much damage with weapon attacks.
 # Wounded
 There are six levels of wounds, and they work in a similar way to Exhaustion These wound levels represent signiﬁcant injuries, like an arrow in your arm, a serious cut, or a club cracking your skull. 
