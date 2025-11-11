@@ -215,7 +215,7 @@ If you fail a skill or attribute roll, you can choose to push the roll, which me
 - Disadvantage on all rolls for skills based on Wisdom, and rolls against the attribute. 
 ## Dirty
 - Disadvantage on all rolls for skills based on Charisma, and rolls against the attribute.
-- 
+  
 You decide which Push Condition you get from pushing a roll, with two important restrictions:
  - You cannot choose a Push Condition you already have.
  - You must be able to explain how the Push Condition results from the action you are trying to perform. The GM has the right to reject clearly unreasonable explanations.
