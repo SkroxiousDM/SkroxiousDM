@@ -201,6 +201,22 @@ A prone character is lying on the ground, whether on purpose or not.
 - An attack that is either a melee attack or made from within 5 ft. has advantage on an attack roll against a prone target.
 - A ranged attack against a prone creature has disadvantage.
 - A prone creature can spend half of their movement to stand up, ending the condition, or they can crawl, which costs them 3 ft. of movement for every 1 ft. they move.
+# Push Conditions
+If you fail a skill or attribute roll, you can choose to push the roll, which means that you make another attempt. The new result applies, whatever it is. If you have a advantage or disadvantage, you must re-roll both dice. You can never push a natural 1. Whenever you push a roll, immediately after the re-roll, you suffer a Push Condition. 
+## Cramps
+- Disadvantage on all rolls for skills based on Strength, and rolls against the attribute. 
+##Sickly
+- Disadvantage on all rolls for skills based on Constitution, and rolls against the attribute. 
+##Tired
+- Disadvantage on all rolls for skills based on Dexterity, and rolls against the attribute. 
+##Angry
+- disadvantage on all rolls for skills based on Intelligence, and rolls against the attribute. 
+##Frazzled
+- Disadvantage on all rolls for skills based on Wisdom, and rolls against the attribute. 
+##Dirty
+- Disadvantage on all rolls for skills based on Charisma, and rolls against the attribute.
+You can recover from a Push Condition by resting – a Long rest heals a Push Condition of your choice, and an Extended rest removes all of them.
+  
 # Restrained
 A restrained creature is held mostly in place.
 - A restrained creature's speed becomes 0, and any effect that would increase their speed has no effect while they are restrained.
