@@ -37,7 +37,7 @@
 |19th |+6 |Ability Score Improvement or Feat|
 |20th |+6 |Hero’s Doom|
 
-Wyrd
+### Wyrd
 Due to the influence of their fated destiny, a Hero can use an
 alignment die. The die used is dependent on the hero’s alignment.
 At the start of a session, a Neutral character can choose between
@@ -46,38 +46,38 @@ Alignment Die. Before you roll with advantage, choose one of the
 d20s to be your alignment die. If you select that die as the result
 you gain inspiration.
 For more detail, see Using the Alignment Die on page 28.
-Heroic Tale
+### Heroic Tale
 When creating your character you choose a heroic tale that
 represents the ability score your Hero most strongly represents. The
 tale you choose grants you features at 1st level and again at 3rd, 7th,
 10th, 14th, and 18th level.
-Fighting Style
+### Fighting Style
 At 2nd level, you adopt a particular style of fighting as your specialty.
 Choose one of the following options. You can’t take a Fighting
 Style option more than once, even if you later get to choose again.
-Desperate Duelling
+##### Desperate Duelling
 When you are wielding a melee weapon in one hand and no other
 weapons, you gain a +2 bonus to damage rolls with that weapon.
-GreatWeaponWielding
+##### GreatWeaponWielding
 When you roll a 1 or 2 on a damage die for an attack you make
 with a melee weapon that you are wielding with two hands, you can
 reroll the die and must use the new roll, even if the new roll is a 1
 or a 2. The weapon must have the two-handed or versatile property
 for you to gain this benefit.
-Shield-Strong
+##### Shield-Strong
 When you are equipped with a spear in one hand and a shield in
 the other, you gain an additional +1 bonus to AC.
-Hammer-Handed
+##### Hammer-Handed
 When you take the attack action and have at least one hand free,
 you may make an unarmed or improvised weapon strike as a bonus
 action.
-Mighty Mettle
+### Mighty Mettle
 Also when you reach 2nd level you can spend a bonus action,
 inspiration, and one or more Hit Dice to grant yourself temporary
 hit points. You receive hit points equal to your level in this class plus
 the total rolled on the Hit Dice. You do not add your Constitution
 modifier when using Hit Dice in this manner.
-Ability Score Improvement or Feat
+### Ability Score Improvement or Feat
 When you reach 4th level, and again at 6th, 8th, 12th, 16th, and
 19th level, you can increase one ability score of your choice by 2, or
 you can increase two ability scores of your choice by 1. As normal,
@@ -85,26 +85,25 @@ you can’t increase an ability score above 20 using this feature.
 Instead of raising ability scores directly, you can instead select a
 feat, see page 77. Most feats raise one specified attribute by 1 in
 addition to their other features.
-Extra Attack
+### Extra Attack
 Beginning at 5th level, you can attack twice, instead of once,
 whenever you take the Attack action on your turn.
-Indomitable
+### Indomitable
 At 9th level, you can reroll a saving throw that you fail. If you do so,
 you must use the new roll, and you can’t use this feature again until
 you finish a long rest.
-Counterattack
+### Counterattack
 Starting at 11th level, when a creature within your reach makes a
 melee weapon attack against you and misses, as a reaction you may
 make a single melee weapon attack against that creature.
-Relentless
+### Relentless
 Beginning at 15th level you can keep fighting despite grievous
 wounds. If you drop to 0 hit points and don’t die outright, you can
-
 make a DC 10 Constitution saving throw. If you succeed, you
 drop to 1 hit point instead. Each time you use this feature after
 the first, the DC increases by 5. When you finish a short or long
 rest, the DC resets to 10.
-Ferocious Onslaught
+### Ferocious Onslaught
 Starting at 17th level, as a bonus action you may spend inspiration
 to make a powerful attack with a melee weapon. If the blow hits
 your weapon shatters, destroying the weapon, and it does an extra
@@ -112,7 +111,7 @@ your weapon shatters, destroying the weapon, and it does an extra
 any), and it is an automatic critical hit.
 When you do damage using this feature you gain a level of
 exhaustion, and must take a long rest before using it again.
-Hero’s Doom
+### Hero’s Doom
 At 20th level you can use your bonus action to nominate one
 creature. It loses the undefeatable condition if it has it. If your
 hit points are equal to or above one quarter of your maximum hit
@@ -130,66 +129,66 @@ around them with their sheer physical presence, they are expert
 wrestlers, renowned for their physical prowess and feats of raw
 muscle power.
 
-Imposing Presence
+### Imposing Presence
 Starting at 1st level when you choose this tale, you may use
 Strength instead of Charisma when making an ability check with
 the Intimidation skill.
-Wrestling
+### Wrestling
 Beginning at 3rd level, you may choose one of the following
 options. You may pick additional options from this list at levels
 7, 10, and 14. When you pick a new option you may also trade
 an existing one for a different one. If the option calls for a saving
 throw, the DC is 8 + your Strength modifier + your proficiency
 bonus.
-• Bear Hug. When you successfully grapple a creature, you
+- Bear Hug. When you successfully grapple a creature, you
 may spend inspiration to also attempt to shove it it prone.
-• Cunning Warrior. As a bonus action, you can shove or
+- Cunning Warrior. As a bonus action, you can shove or
 grapple a creature.
-• Iron-fisted. The damage of your unarmed strikes is 1d4 +
+- Iron-fisted. The damage of your unarmed strikes is 1d4 +
 your Strength modifier at 3rd level. At 7th level, the damage
 die increases to 1d6, then 1d8 at 10th level and finally
 becomes 1d10 at 14th level.
-• Oaken-thewed. If you are not holding a weapon or shield in
+- Oaken-thewed. If you are not holding a weapon or shield in
 either hand, your grappling and shoving checks are made with
 advantage.
-• Piercing Strike. Damage you cause using grappling, shoving,
+- Piercing Strike. Damage you cause using grappling, shoving,
 or unarmed strikes ignores resistances, and reduces immunity
 to resistance.
-• Pin. A prone creature grappled by you has disadvantage on
+- Pin. A prone creature grappled by you has disadvantage on
 Strength and Dexterity ability checks.
-• Pummel. When you do damage with your unarmed strike,
+- Pummel. When you do damage with your unarmed strike,
 you can spend inspiration to force the creature to make a
 Constitution saving throw. On a failure it is stunned until the
 beginning of its next turn.
-• Quick Reflexes.When a creature moves into your reach, as a
+- Quick Reflexes.When a creature moves into your reach, as a
 reaction you may attempt to shove or grapple it.
-• Reversal. If you succeed at a Strength check to resist another
+- Reversal. If you succeed at a Strength check to resist another
 creature’s grapple or shove, as a reaction you can attempt to
 use the same maneuver against that creature.
-• Strangling Grip. If you grapple a creature using both of your
+- Strangling Grip. If you grapple a creature using both of your
 hands, the creature must succeed at a Constitution saving
 throw in order to breathe or speak. Until the grapple ends, the
 creature takes 2d6 plus your Strength modifier bludgeoning
 damage at the beginning of each of its turns. Creatures that
 don’t breathe are immune to this feature.
-Immovable and Unstoppable
+### Immovable and Unstoppable
 Beginning at 7th level, you have advantage on any Strength checks
 made to avoid being moved against your will, or to break free of
 any restraints.
-Amazing Might
+### Amazing Might
 Starting at 10th level, you gain proficiency in Athletics if you do
 not already have it. Additionally, when you spend make a Strength
 (Athletics) check to lift, move, or damage an inanimate object you
 add double your proficiency bonus.
-Heroic Muscle
+### Heroic Muscle
 At 14th level, you may, at the GM’s discretion, spend inspiration
 to be able to attempt a feat of strength that would otherwise have
 no chance of success, but any required ability checks are made with
 disadvantage.
-Brute Force
+### Brute Force
 Beginning at 18th level you can spend a bonus action to give a
 creature the following feature:
-Defeatable. This creature gains the defeated condition if an
+- **Defeatable**. This creature gains the defeated condition if an
 unarmed attack reduces it to less than one quarter of its maximum
 hit points.
 You must take a long rest before using this feature again.
@@ -200,22 +199,22 @@ The most nimble of Heroes, the swift-blessed are physically adroit
 and lithe, with a quickness of touch and a crafty way. Light on
 their feet Heroes of this kind are lightning fast in battle, relying
 on speed rather than strength.
-Trickster
+### Trickster
 You may perform sleight of hand with small items that can be
 hidden in pockets or sleeves. Onlookers might believe something
 supernatural has occurred — possibly granting you advantage or
 disadvantage on your next Charisma check. You gain proficiency
 in the Sleight of Hand skill if you do not already have it.
-Artful Dodge
+### Artful Dodge
 Starting at 3rd level, you may spend inspiration to take the
 Dodge action as a bonus action.
-Evasion
+### Evasion
 Beginning at 7th level, when you are subjected to an
 effect that allows you to make a Dexterity saving
 throw to take only half damage, you instead take no
 damage if you succeed on the saving throw, and only
 half damage if you fail.
-Deadly Feint
+### Deadly Feint
 Starting at 10th level, when you use your reaction to
 make a melee weapon attack, you may attempt to trick your
 opponent into exposing itself to a deadly strike. Instead of
@@ -224,13 +223,13 @@ check contested by the target’s Wisdom (Perception) check.
 If you win the contest, you hit and score an automatic
 critical. Once you do damage with this feature you cannot
 use it again until you take a short or long rest.
-Epic Reflexes
+### Epic Reflexes
 At 14th level you have advantage on all Dexterity
 saving throws.
-A Deadly Flight
+### A Deadly Flight
 Beginning at 18th level you can spend a bonus
 action to give a creature the following feature:
-Defeatable. This creature gains the defeated condition if a
+- **Defeatable**. This creature gains the defeated condition if a
 ranged weapon attack reduces it to less than one quarter
 of its maximum hit points.
 You must take a long rest before using this feature again.
@@ -241,31 +240,31 @@ The most enduring of Heroes, Ox-spirited are Heroes able to
 endure extremes of physical punishment, whether through their
 mental determination, bullish physical endurance or a combination
 of both.
-Stonebelly
+### Stonebelly
 When you choose this tale at 1st level, you have advantage on
 any saving throw or ability check made to resist the effects of any
 poison (including alcohol).
-Glutton for Punishment
+### Glutton for Punishment
 At 3rd level, as a bonus action you may spend a Hit Die to gain
 resistance to one type of damage of your choice, and critical hits
 of the selected damage type also become normal hits. The effect
 lasts until the beginning of your next turn.
-Endless Endurance
+### Endless Endurance
 At 7th level, you have advantage on saving throws
 made to avoid levels of exhaustion.
-Force of Will
+### Force of Will
 Beginning at 10th level, whenever you are
 stunned or paralysed, as a bonus action you
 can spend inspiration to negate the effect.
-Unyielding Stamina
+### Unyielding Stamina
 At 14th level, you can spend a bonus action
 to recover hit points equal to 10 plus your
 Constitution score. You must take a long rest
 before using this feature again.
-Contest ofWill
+### Contest of Will
 Beginning at 18th level you can spend a bonus
 action to give a creature the following feature:
-Defeatable. This creature gains the defeated
+- **Defeatable**. This creature gains the defeated
 condition if it fails a Constitution saving throw
 against an effect and you pass the saving throw against
 the same effect.
@@ -301,9 +300,9 @@ Starting at 10th level, if you have knowledge of a creature’s
 special feature, you have advantage on saving throws
 against that feature. You acquire sufficient knowledge of
 a feature:
-• After you, or a creature you are observing, makes a
+- After you, or a creature you are observing, makes a
 saving throw against the feature.
-• At the GM’s discretion, from a firsthand account by
+- At the GM’s discretion, from a firsthand account by
 a survivor of the feature.
 ### Warning Shout
 Beginning at 14th level, allies within 30 feet who can hear you
@@ -311,7 +310,7 @@ share your Truth-seeing and Anticipation features.
 ### The Logical Outcome
 At 18th level you can spend a bonus action to give a creature the
 following feature:
-Defeatable. You spend an action to force a speaking creature
+- **Defeatable**². You spend an action to force a speaking creature
 to make an Intelligence saving throw. If it fails, and its current
 hit point total is lower than yours, it is defeated. The DC for
 the saving throw is 8 plus your Proficiency Bonus plus your
