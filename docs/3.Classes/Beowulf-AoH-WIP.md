@@ -1,15 +1,15 @@
-1 Brave. You have advantage on saving throws against being frightened.
-2 Determined. You have advantage on saving throws against being stunned.
-3 Fey Ancestry. You have advantage on saving throws against being charmed, and magic can’t put you to sleep.
-4 Forge Born. You are resistant to fire damage.
-5 Giantcunning. Whenever you make an Intelligence (Legends) check related to the works of the giants, you are considered proficient in Legends and add double your normal proficiency bonus to the check, instead of your normal proficiency bonus.
-6 Lucky. When you roll a 1 on the d20 for an attack roll, ability check or saving throw, you can reroll the die and must use the new roll.
-7 Nightvision. You can see in dim light within 60 feet of you as if it were bright light.
-8 Nimble. You can move through the space of a creature that is of a larger size than you.
-9 Enduring. When you take damage, you can choose to make a Constitution saving throw with the damage total as the DC. On a success, you take only half of the damage. You can only use this feature once per long rest.
-10 Resilient. You have advantage on saving throws against poison, and you have resistance against poison damage.
-11 Stealthy. You can attempt to hide even when obscured by a creature that is at least one size larger than you.
-12 Winter Walker. You are resistant to cold damage.
+- 1 Brave. You have advantage on saving throws against being frightened.
+- 2 Determined. You have advantage on saving throws against being stunned.
+- 3 Fey Ancestry. You have advantage on saving throws against being charmed, and magic can’t put you to sleep.
+- 4 Forge Born. You are resistant to fire damage.
+- 5 Giantcunning. Whenever you make an Intelligence (Legends) check related to the works of the giants, you are considered proficient in Legends and add double your normal proficiency bonus to the check, instead of your normal proficiency bonus.
+- 6 Lucky. When you roll a 1 on the d20 for an attack roll, ability check or saving throw, you can reroll the die and must use the new roll.
+- 7 Nightvision. You can see in dim light within 60 feet of you as if it were bright light.
+- 8 Nimble. You can move through the space of a creature that is of a larger size than you.
+- 9 Enduring. When you take damage, you can choose to make a Constitution saving throw with the damage total as the DC. On a success, you take only half of the damage. You can only use this feature once per long rest.
+- 10 Resilient. You have advantage on saving throws against poison, and you have resistance against poison damage.
+- 11 Stealthy. You can attempt to hide even when obscured by a creature that is at least one size larger than you.
+- 12 Winter Walker. You are resistant to cold damage.
 
 
 # The Hero
