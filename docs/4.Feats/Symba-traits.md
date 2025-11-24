@@ -1,17 +1,8 @@
-CON TAC TS
+## CONTACTS
 The character has served in an organization or
 traveled far and wide, and has therefore spun a
-wide web of contacts. With a successful roll against
-Persuasive, the character can call to mind a contact
-that should be able to help with a specific question
-or in a precarious situation. The contact may not be
-available directly – that depends on who is included
-in the web of contacts. Suitable factions and people
-when it comes to specifying the character’s contacts
-are: the Queen’s Army, the Queen’s Rangers,
-Witches, Ordo Magica, the Church of Prios, the
-Noble Houses and Treasure Hunters.
-BU SHCRAF T
+wide web of contacts. With a successful roll against Persuasive, the character can call to mind a contact that should be able to help with a specific question or in a precarious situation. The contact may not be available directly – that depends on who is included in the web of contacts. Suitable factions and people when it comes to specifying the character’s contacts are: the Queen’s Army, the Queen’s Rangers, Witches, Ordo Magica, the Church of Prios, the Noble Houses and Treasure Hunters.
+## BUSHCRAFT
 The character can survive on meager resources and
 is used to finding food and shelter in harsh terrain.
 With a successful Vigilant test, the character
@@ -22,68 +13,41 @@ of a small group (up to five individuals), food and
 water can be found for them as well, but that will
 take much more time. The group cannot be on the
 move during that time.
-LONG -LIVED
-Once adulthood is reached, the aging process of the
-character slows down. The character can live up to
-two or even three centuries if its life is not shortened
-by violence, poison or disease. The creature’s
-long lifespan makes it prone to do things at a slow
-pace, but this is compensated by the attitude that
-what is worth doing is worth doing well, which over
-time results in a considerable degree of expertise.
+## LONG -LIVED
+Once adulthood is reached, the aging process of the character slows down. The character can live up to two or even three centuries if its life is not shortened by violence, poison or disease. The creature’s long lifespan makes it prone to do things at a slow pace, but this is compensated by the attitude that what is worth doing is worth doing well, which over time results in a considerable degree of expertise.
 Long-lived has no effect besides what it implies
 in terms of playing the role.
-PARIAH
-The character belongs to a race which is ill-reputed
-among the ruling majority and is more or less
-openly discriminated against. Lone individuals
-in society might be less inclined to prejudice, but
-the character’s social interactions are generally
-hampered. Persecuted groups tend to stand together
-against the world and provide each other with aid
+## PARIAH
+The character belongs to a race which is ill-reputed among the ruling majority and is more or less openly discriminated against. Lone individuals in society might be less inclined to prejudice, but the character’s social interactions are generally hampered. Persecuted groups tend to stand together against the world and provide each other with aid
 and support.
 When taking on a social challenge, the player
-has to roll twice and pick the worst result to decide
-the outcome of the test. On the other hand, the
-character is awarded a second chance to succeed
-which case it only has to roll the dice when it strives
-to accomplish something which is questionable or
-next to impossible to achieve.
+has to roll twice and pick the worst result to decide the outcome of the test. On the other hand, the character is awarded a second chance to succeed which case it only has to roll the dice when it strives to accomplish something which is questionable or next to impossible to achieve.
 Additionally, the character starts with only five
 shillings in its purse.
-PRIVILEGED
+## PRIVILEGED
 The character belongs to a race of high social
 standing within its society, and is therefore given
 advantages that others simply cannot have or must
 pay for, in either silver or hard work, to obtain.
 The character gets a second chance to succeed
 when taking on social challenges within its own
-society, and does not have to roll the dice unless it
-strives to accomplish something which is questionable
+society, and does not have to roll the dice unless it strives to accomplish something which is questionable
 or that may be next to impossible to achieve.
 Additionally, the character starts with 50 thaler
 in its purse.
-ROBU ST
+## ROBUST
 The character belongs to a race of creatures that
-are naturally tall and often continue to grow their
-entire lives. But there are variations: some grow
-quickly, others more slowly while some hardly
-seems to grow at all.
-Novice Special. The character is close to seven
-feet tall and very strong. Such a towering
-body is easier to hit in combat, which is balanced
-by a greater natural toughness. The
+are naturally tall and often continue to grow their entire lives. But there are variations: some grow quickly, others more slowly while some hardly seems to grow at all.
+**Novice** Special. The character is close to seven feet tall and very strong. Such a towering
+body is easier to hit in combat, which is balanced by a greater natural toughness. The
 character’s Defense is based on [Quick –2]
 and it can only use light armor, which must
 be custom-made and therefore costs twice
 the normal price. In return, the character
 naturally ignores 1D4 damage from each hit
-taken, in addition to any armor it wears. Furthermore,
-it can deal 1D4 extra damage with
+taken, in addition to any armor it wears. Furthermore, it can deal 1D4 extra damage with
 one melee attack each turn.
-Adept Special. The character is over eight feet tall,
-weighs about 500 pounds and has skin as
-though as bark. A creature like this packs
+**Adept** Special. The character is over eight feet tall, weighs about 500 pounds and has skin as though as bark. A creature like this packs
 quite the punch but is also easy to hit. The
 character’s Defense is based on [Quick –3]
 and it can only use light armor, which must be
@@ -93,29 +57,21 @@ ignores 1D6 damage from each hit taken, in
 addition to any armor it wears. Furthermore,
 it can deal 1D6 extra damage with one melee
 attack each turn.
-Master Special. The character is close to ten feet
-tall, weighs about half a ton and crushes
+**Master** Special. The character is close to ten feet tall, weighs about half a ton and crushes
 lesser creatures while enemy weapons have
 a hard time penetrating its stone-like skin. It
 is very easy to hit a creature of this size, but
-equally hard to wound it seriously. The character’s
-Defense is based on [Quick –4] and
+equally hard to wound it seriously. The character’s Defense is based on [Quick –4] and
 it can only use light armor (custom-made,
 costing four times the normal price). In
 return, the character ignores 1D8 damage
 from each hit taken, in addition to any armor
 it wears. Finally, it can deal 1D8 extra damage
 with one melee attack each turn.
-SHA PESHIF TER
+## SHAPESHIFTER
 The character has the capability to borrow the
-appearance of others for a period of time. For young
-changelings this ability comes naturally, and it can
-be hard for them not to adopt the appearance and
-mannerisms of people around them. Mature changelings
-usually develop greater control over the trait.
-Novice Free. With a successful die roll against Resolute,
-the character may adopt a false shape;
-the form, appearance, voice and clothes of
+appearance of others for a period of time. For young changelings this ability comes naturally, and it can be hard for them not to adopt the appearance and mannerisms of people around them. Mature changelings usually develop greater control over the trait.
+**Novice** Free. With a successful die roll against Resolute, the character may adopt a false shape; the form, appearance, voice and clothes of
 another creature, but not that of a specific
 individual. The changeling can keep up the
 appearance for the duration of a scene, but
@@ -123,49 +79,20 @@ then the illusion fades away. Everyone that
 the character interacts with will see through
 the illusion, unless the character succeeds
 with a [Discreet←Vigilant] test.
-Adept Free. The character may, for a short period
-of time and with a successful Resolute test,
-adopt the form of specific individuals that
-the character has met, and can include
-clothes and attributes in the image.
-In combat against multiple opponents,
-the similarity is good enough to make it
-hard for enemies to hit their mark – there
-is a 50% chance that enemies attempting
+**Adept** Free. The character may, for a short period of time and with a successful Resolute test, adopt the form of specific individuals that
+the character has met, and can include clothes and attributes in the image. In combat against multiple opponents, the similarity is good enough to make it hard for enemies to hit their mark – there is a 50% chance that enemies attempting
 to hit the character hit their depicted companion
-instead. It takes concentration to
-maintain the illusory form, which means
-that the character must make a Resolute
-test each turn as well as a successful
-[Resolute –Damage] test each time the
+instead. It takes concentration to maintain the illusory form, which means that the character must make a Resolute test each turn as well as a successful [Resolute –Damage] test each time the
 changeling suffers damage.
-Master Free. With a successful Resolute test the
-character may adopt the form of a specific
+**Master** Free. With a successful Resolute test the character may adopt the form of a specific
 individual and maintain it for the duration
-of a scene. Anyone who speaks with the
-character will be able to see through the
-illusion unless the character succeeds with
-a [Discreet←Vigilant]. For a character to be
-able to fool people familiar with the depicted
-person, he or she must succeed with two
-tests, first at a distance and then another
-one if they start a conversation.
-Writing carved into the stone foundation of Otra
-Dorno and, though difficult to decipher, believed to
-contain the symbol for what is presumed to read
-“massacre” or “blood bath”.
-SHORT-LIVED
-The character’s life is short, even under favorable
-living conditions. All members of its race tend to
-reach adulthood in a handful of years, after which
-they start to lose their youthful vigor so that only
-a few ever live to see the age of forty. On the other
-hand, they are quick to learn and adapt to new
-surroundings, and they are often ready to face the
-world at the age of five.
+of a scene. Anyone who speaks with the character will be able to see through the illusion unless the character succeeds with a [Discreet←Vigilant]. For a character to be able to fool people familiar with the depicted person, he or she must succeed with two tests, first at a distance and then another one if they start a conversation.
+
+## SHORT-LIVED
+The character’s life is short, even under favorable living conditions. All members of its race tend to reach adulthood in a handful of years, after which they start to lose their youthful vigor so that only a few ever live to see the age of forty. On the other hand, they are quick to learn and adapt to new surroundings, and they are often ready to face the world at the age of five.
 Short-lived has no effect besides what it implies
 in terms of playing the role.
-SURVIVAL IN STINC T
+## SURVIVAL INSTINCT
 The character belongs to a race with a powerful
 life-force and an equally powerful will to survive.
 For some individuals this energy shows itself in
@@ -189,7 +116,7 @@ aggression and may sacrifice a Movement
 Action once per scene to perform an extra
 Combat Action.
 
-ACROBA TIC S
+## ACROBATICS
 The character has learned the art of acrobatic
 maneuvering, having spent time with a theater
 company, in one of the fencing schools of Yndaros
@@ -197,7 +124,7 @@ or climbing the trees of Davokar. The nimbleness
 of the acrobat provides an advantage when trying
 to withdraw from close combat or when quickly
 wanting to reach the center of an enemy formation.
-Novice Active. The character may roll against
+**Novice** Active. The character may roll against
 Quick to avoid Free Attacks from enemies
 in melee combat, either when trying to
 slip past an enemy or when attempting to
@@ -205,25 +132,17 @@ withdraw from melee. Should the test fail,
 the player must choose to either remain
 in its original place or to move anyway and
 suffer a Free Attack from the opponent.
-Adept Free. If the character is knocked down he
-or she may attempt to jump back up again
-as a Free Action by making a Quick test.
-If the test fails the character has to spend
-a Movement Action to get back on its feet,
-as usual.
-Master Active. The character can utilize its
+**Adept** Free. If the character is knocked down he or she may attempt to jump back up again
+as a Free Action by making a Quick test. If the test fails the character has to spend a Movement Action to get back on its feet, as usual.
+**Master** Active. The character can utilize its
 enemies as shields in battle. In combat
 with more than one opponent, the character
-may once per turn use an enemy
-as a shield and have that enemy suffer a
-successful hit instead of the character.
-That opponent cannot defend against
-the attack, but the master acrobat has to
+may once per turn use an enemy as a shield and have that enemy suffer a successful hit instead of the character. That opponent cannot defend against the attack, but the master acrobat has to
 make a successful roll against Quick for the
 enemy to take the hit.
-ALCHEMY The character is schooled in the mysteries of
-alchemy. With the right ingredients, the character
-can prepare various elixirs to help it survive in
+## ALCHEMY 
+The character is schooled in the mysteries of
+alchemy. With the right ingredients, the character can prepare various elixirs to help it survive in
 the dark depths of Davokar. A list of alchemical
 mixtures and potions are featured in Chapter 16:
 Equipment (page 153).
@@ -315,7 +234,7 @@ that the player picked at the adept level.
 This extra damage applies to the character’s
 allies as well, if they have been instructed in
 how best to fight the creature.
-BER SERKER
+## BERSERKER
 The feared barbarian warriors of Davokar have
 developed the practice of working themselves into
 a berserker frenzy before battle. By letting the
@@ -340,7 +259,7 @@ its rage without losing any of its power.
 The character can utilize this capacity to
 both deal and ignore extra damage, while
 still being able to defend itself as normal.
-BODYGUARD
+## BODYGUARD
 High-born Ambrians, rich merchant lords and other
 potentates surround themselves with bodyguards.
 Even among the barbarians there are housecarls
@@ -362,7 +281,7 @@ defend itself against the attacks, it also gets
 a Free Attack as a Reaction towards anyone
 making a melee attack against the person
 under its protection.
-DOMINA TE
+## DOMINATE
 With nothing but presence, gaze and voice, strong
 personalities can force weaker minds to bend
 in the midst of a raging battle. The character is
@@ -395,7 +314,7 @@ is impossible to flee. When already in combat,
 the enemy must first be wounded by
 the character or by one of the character’s
 allies before it can be subdued.
-STRIAN
+## EQUESTRIAN
 Heavy cavalry dominates the plains of Ambria, a
 truth proven time and again by Queen Korinthia
 when she sent her armored horsemen against
@@ -432,7 +351,7 @@ Master Reaction. The master rider can use a cavalry
 charge even more effectively and therefore
 deals +1D10 damage with one melee attack
 if the mount moves prior to the attack.
-EXCE PTIONAL ATTRIBU TE
+## EXCEPTIONAL ATTRIBUTE
 All the character’s senses, as well as its physical and
 mental capacity, can be improved. By practicing a
 little bit each day, the muscles can grow stronger,
@@ -447,7 +366,7 @@ Adept Special. As novice, but the ability increases
 the Attribute value by +2 in total.
 Master Special. As novice, but the ability increases
 the Attribute value by +3 in total.
-FEIN T
+## FEINT
 Persons and creatures that lack the will or strength
 to wield heavy melee weapons have instead developed
 techniques for feinting. This ability demands a
@@ -473,7 +392,7 @@ character a Free Attack against that enemy
 in addition to its ordinary attack. The character
 may still perform an ordinary attack
 even if the attempted Feint fails.
-IRON FI ST
+## IRON FI ST
 The character is trained to use its strength for maximum
 effect on a target in melee combat. Knights,
 members of the barbarian Wrathguard and other
@@ -490,7 +409,8 @@ put its back into an attack. The character
 can perform a devastating melee attack
 once per turn that delas +1D8, instead of
 +1D4, additional damage.
-LEADER There are many who fight their way to a position
+## LEADER 
+There are many who fight their way to a position
 of leadership, but there are few who get pointed
 out as true leaders by the people they are meant
 to lead. If equipped with this ability the character
@@ -516,7 +436,7 @@ Master Active. The Leader gives a rousing speech
 to its allies. This allows them to use his or
 her Persuasive instead of their own Resolute
 for the duration of a scene.
-LOREMA STER
+## LOREMASTER
 The character is educated and well-versed in the
 ways of the world: its cultures, its history, languages
 and artifacts. For centuries heroes, monsters and
@@ -566,7 +486,7 @@ and extinct language. It requires no test
 to utter simple phrases, but to initiate a
 conversation requires a successful roll
 against Cunning.
-MARK SMAN
+## MARKSMAN
 Marksmen have their natural position in every
 army, scouting party and band of brigands. The
 character can inflict serious damage on its enemies
@@ -592,7 +512,7 @@ Master Active. The master Marksman’s projectiles
 become armor piercing. The shot hits
 a weak spot and completely ignores the
 target’s Armor.
-MAN -AT-ARM S
+## MAN-AT-ARMS
 A real warrior wears armor and is trained in how to
 move and fight while doing so. This is true among
 Ambrians and barbarians alike, even if the most
@@ -621,7 +541,7 @@ is successful the Armor protects as usual.
 Mystical powers that ignore Armor may not
 be blocked this way; they are not affected by
 the Man-at-arms ability.
-MEDICU S
+## MEDICUS
 The character is schooled in the art of healing and
 therefore a greatly coveted asset in its society,
 whether he or she keeps diseases from spreading,
@@ -654,7 +574,7 @@ heals some of the patient’s Toughness; 1D4
 when only using Medicus or 1D6 when also
 applying an herbal cure. This ability can only
 be used once per patient and day.
-MYSTICAL POWER
+## MYSTICAL POWER
 The character has access to one or more mystical
 powers. These powers have either been obtained
 as a gift, a curse, through assiduous studies or as
@@ -685,7 +605,7 @@ Adept Special. The character has mastered the
 power’s adept level.
 Master Special. The character has mastered the
 power’s master level.
-NATURAL WARRIOR
+## NATURAL WARRIOR
 A sword or a bow is not always needed to fight.
 Through long and hard training, the character has
 become a dangerous opponent even when unarmed.
@@ -711,7 +631,7 @@ points with flawless precision – such as
 throat and knees – the master’s unarmed
 strikes are truly devastating. Each attack
 that hits deals 1D6 extra damage.
-POISONER
+## POISONER
 Davokar hides many alchemically potent and
 poisonous plants, and the character is familiar
 with the effective use of poisoned weapons in
@@ -748,7 +668,7 @@ does not deal any additional damage but
 gives the character a second chance to
 succeed with the [Cunning←Strong] test
 instead.
-POLEARM MASTERY
+## POLEARM MASTERY
 The character is initiated in the secrets of longshafted
 weapons. The spear is a simple weapon and
 anyone can quickly learn how to make good use of
@@ -780,7 +700,7 @@ the enemy, the enemy remains unable to
 attack the character with melee weapons –
 whether or not the damage penetrates the
 enemy’s armor.
-QUICK DRAW
+## QUICK DRAW
 Dealing the first blow can decide the outcome of a
 battle, and with this ability the character has an
 advantage when an unexpected ambush happens.
@@ -803,7 +723,7 @@ Master Free. The character handles elixirs swiftly
 and may with a successful Quick test pour
 one dose down its own or someone else’s
 throat as a Free Action.
-RECOVERY
+## RECOVERY
 Among both Black Cloaks and Mystics, meditative
 techniques that provide strange bodily capabilities
 have been developed. The character can use
@@ -819,7 +739,7 @@ Adept Active. Just as novice level, but the character
 recovers 1D6 Toughness.
 Master Active. Just as adept level, but the character
 recovers 1D8 Toughness.
-RITUALIST
+## RITUALIST
 The character has learned how mystical powers
 can be channeled through rituals – powerful but
 time-consuming magical practices. This knowledge
@@ -863,7 +783,7 @@ Ritualist is not limited to the rituals of a
 single mystical tradition, but must have
 access to the ritual to be able to learn and
 memorize it.
-SHIELD FIGH TER
+## SHIELD FIGHTER
 The character is trained in how to make good use of
 a shield, and how to actively fight using the shield
 as a weapon. Behind the protection of the shield,
@@ -899,7 +819,7 @@ Master Reaction. The damage of the shield bash
 is increased from 1D4 to 1D8 and the target
 is knocked to the ground if the character
 succeeds with a [Strong←Strong] test.
-SIX TH SEN SE
+## SIXTH SENSE
 When moving through dark forests and underground
 tunnels, one’s eyes are no longer very
 useful. Lighting a lantern or torch may summon
@@ -927,7 +847,7 @@ when calculating his or her Defense.
 Master Passive. The character can move and fight
 unhindered when blinded or in complete
 darkness.
-SORCERY
+## SORCERY
 The character is one of those who are arrogant or
 desperate enough to cling to the darkness. While
 other mystical traditions do everything they can
@@ -969,7 +889,7 @@ Resolute –Total Corruption). Thoroughly
 corrupted creatures are strangely immune
 to this; it is as if they feed off the darkness of
 the world to carry on with their dark calling.
-STEADFA ST
+## STEADFAST
 Mental disciplines and stratagems for resisting
 improper influences have been developed among
 the ranks of the Templars and Black Cloaks. Also
@@ -1001,7 +921,7 @@ of a mental attack (in other words, those
 attacks that are modified by Resolute) that
 fails, the attacker suffers 1D6 damage that
 ignores Armor.
-STEEL THRO W
+## STEEL THROW
 There are traditions and groups whose representatives
 have practiced the art of the thrown weapon
 for generations. Throwing knives are for instance
@@ -1031,7 +951,7 @@ triple throw and send three throwing
 weapons towards his or her enemies, all of
 them against a single target or distributed
 among multiple ones.
-STRANGLER
+## STRANGLER
 The character has been initiated into the dirty, but
 sometimes necessary, art of strangulation. This
 fighting technique has a bad reputation among
@@ -1043,6 +963,7 @@ With this ability the character can do a lot of
 damage to an unprepared or slow enemy with either
 a garrote or, if more advanced, with the alchemical
 Choking Spores.
+
 Novice Active. The novice Strangler may attack
 when at an Advantage. A successful attack
 deals 1D6 damage each turn and ignores
@@ -1050,6 +971,7 @@ Armor. The target cannot act until the
 Strangler’s hold is aborted; the character
 maintains the stranglehold with a successful
 [Cunning←Cunning].
+
 Adept Active. The character knows how to use
 the deadly Choking Spores, gathered
 deep within Davokar by alchemists. With a
@@ -1062,6 +984,7 @@ other than healing the victim when the
 damage appears. Affected victims may act
 as usual, in contrast to the novice level of
 this ability.
+
 Master Active. The character can use the delicate
 and lethal Spore Bombs created from
 Choking Spores by master alchemists. If
@@ -1074,7 +997,7 @@ stands within that area, enemies as well as
 allies, are affected by the Choking Spores,
 which ignore Armor and deal 1D4 damage
 per turn for a duration of 1D4 turns.
-TAC TICIAN
+#TACTICIAN
 According to Ambrians, scholarly knowledge is
 counted as one of the highest virtues. Hence, it
 is hardly surprising that Ambrian scholars have
@@ -1090,26 +1013,29 @@ to analyze a tactical approach and find both its
 strengths and weaknesses. This can be done for
 offensive purposes when facing a hostile group or
 defensively, to establish a strong defense.
+
 Novice Passive. The character has studied the
 tactics of warfare and grasped its fundamental
 principles. The character may use
 Cunning instead of Quick when calculating
 its Initiative.
+
 Adept Passive. The character has mastered the
 art of a good defensive posture, which
 allows him or her to use Cunning instead of
 Quick when calculating Defense.
+
 Master Passive. The character is a genius when it
 comes to offensive warfare, which allows
 the character to use Cunning instead of
 Accurate when attacking with anything but
 heavy weapons.
-THEURGY
+## THEURGY
 Theurgy is the mystical tradition championed by
 the chosen priest mages of the Church of Prios.
 Theurgy is the doctrine of the inner flame, where
-the ember of the soul is seen as a reflection of the
-divine and life-giving light of the sun.
+the ember of the soul is seen as a reflection of the divine and life-giving light of the sun.
+
 Novice Special. The theurg no longer suffers permanent
 Corruption when learning powers
 at novice level belonging to the tradition
@@ -1118,6 +1044,7 @@ Despite this, the character still has no
 protection against the temporary Corruption
 that comes from using the powers and
 rituals of Theurgy.
+
 Adept Special. The theurg no longer suffers permanent
 Corruption when learning powers
 at adept level belonging to the tradition of
@@ -1126,6 +1053,7 @@ to rest the powers and rituals of Theurgy on
 a foundation of faith so that the theurg now
 only suffers one (1) temporary Corruption
 when casting them.
+
 Master Special. The theurg has reached a higher
 understanding of the essence of its holy
 powers, and therefore heals an additional 1D4
@@ -1135,7 +1063,7 @@ undead. Adding to this, the theurg suffers no
 permanent Corruption when learning powers
 at master level belonging to the tradition of
 Theurgy.
-TWIN ATTACK
+## TWIN ATTACK
 Barbarians, Ambrians and goblins all have fighting
 techniques involving the use of more than one
 weapon. The character has learned how to fight
@@ -1143,6 +1071,7 @@ with two weapons, an advanced but effective technique
 that gives the warrior an offensive advantage.
 Twin Attack is especially effective against lightly
 armored targets.
+
 Novice Active. The character can safely wield two
 weapons, one in each hand. The novice can
 fight with a single-handed weapon in its
@@ -1154,13 +1083,15 @@ defend itself separately against the attacks.
 The novice also receives a +1 bonus to its
 Defense as a Passive ability, but only when
 wielding a weapon in each hand.
+
 Adept Active. The adept can use two singlehanded
 weapons, each attack dealing
 1D8 damage.
+
 Master Active. With the skill of a Master, the damage
 dealt by the main-hand weapon is 1D10 while
 the weapon in the other hand deals 1D8.
-TWO-HANDED FORCE
+## TWO-HANDED FORCE
 The knights of Ambria as well as the Wrathguards
 of Karvosti dress themselves in steel from head to
 toe and have realized that with that much armor,
@@ -1171,20 +1102,23 @@ in the character’s callused hands and can have
 an astoundingly destructive effect on all sorts of
 targets. Heavy weapons are extra effective against
 heavily armored enemies.
+
 Novice Passive. The damage dealt by heavy
 weapons is increased to 1D12.
+
 Adept Reaction. The character has mastered the
 use of its weapon, so when an attack misses
 a target the character may instead use the
 returning swing in an attempt to hit the
 target again. The character makes a new
 attack roll, which deals 1D8 damage if it hits.
+
 Master Active. A heavy weapon in the hands of a
 master is truly a tool of armor-crushing
 destruction. When the attacks of a master
 hit the target, they completely ignore the
 target’s Armor.
-WITCHCRAF T
+## WITCHCRAFT
 From the deep soils and wild spirits of Davokar
 comes the tradition of witchcraft. For generations,
 its teachings have been passed on to witches who,
@@ -1192,6 +1126,7 @@ alongside the chieftains, have led the people of the
 forests through mishaps and triumphs alike. Surely,
 it is the primal powers of witchcraft that enables
 the barbarian clans to live within Davokar.
+
 Novice Special. The witch has learned the
 teachings of witchcraft and how to withstand
 its darker elements. The witch no
@@ -1202,6 +1137,7 @@ learning any of its rituals. Despite this, the
 character still suffers the temporary Corruption
 that follows when using the powers
 and rituals of Witchcraft.
+
 Adept Special. The witch suffers no Corruption
 from learning the powers of Witchcraft
 at adept level. The adept witch has also
@@ -1209,10 +1145,11 @@ learned to bind the powers and rituals of
 the craft in earth, blood and spirit so that
 they only give one (1) temporary Corruption
 when used.
+
 Master Special. The witch suffers no Corruption
 from learning the powers of Witchcraft at
 the master level.
-WITCH SIGH T
+## WITCH SIGHT
 By way of the shadows surrounding creatures,
 locations and objects the world’s deeper conflicts
 are observable for a character with the Witchsight
@@ -1229,12 +1166,14 @@ alliance of the inspected creature (see Shadow &
 Corruption, page 174). The Game Master manages the
 nuances and powers of the Shadows and describes
 what the character sees with its Witchsight.
+
 Novice Free. As a Free Action, the character can
 make a roll against [Vigilant←Discreet] in
 an attempt to see the dominant Shadow
 of a creature, location or object. Each such
 attempt forces the character to suffer 1D4
 temporary Corruption.
+
 Adept Free. The character has gained the greater
 insight of an adept regarding auras and
 mystical phenomenon. Witchsight now reveals
@@ -1243,6 +1182,7 @@ not their respective strengths. The character
 suffers 1D6 temporary Corruption each
 time he or she attempts to see the Shadows
 of a creature, location or object.
+
 Master Free. The character has achieved the
 master’s superior insights and can now see
 all Shadows and their respective strengths
@@ -1250,13 +1190,14 @@ clearly. The character suffers 1D8 temporary
 Corruption each time an attempt is made
 to see the Shadows of a creature, location
 or object.
-WIZARDRY
+## WIZARDRY
 Wizardry is taught by Ordo Magica and is a
 tradition whose practitioners are well-versed
 in the mysteries of fire, the will’s triumph
 over matter and the labyrinths of the senses.
 To wizards of the Order, these phenomena are
 intimately connected.
+
 Novice Special. The wizard no longer suffers
 permanent Corruption when learning
 powers at novice level belonging to the
@@ -1265,6 +1206,7 @@ its rituals. Despite this, the character has no
 protection against the temporary Corruption
 that comes from using the powers and
 rituals of Wizardry.
+
 Adept Special. The wizard no longer suffers
 Corruption from learning the adept level
 of the powers belonging to the tradition
@@ -1273,6 +1215,7 @@ ground the powers and rituals of Wizardry
 in theories so well that the character now
 only suffers one (1) temporary Corruption
 when casting them.
+
 Master Special. The master wizard’s understanding
 of linked magic is all but complete and
 the player character may therefore re-roll
