@@ -1,315 +1,400 @@
-Classless Advancement 
+# Classless Advancement 
+
 ### Greater Proficiency Ѻ 
-Raise your Proficiency Score by 1 
+Raise your Proficiency Score by 1 <br>
 Prerequisites: Proficiency Score cannot exceed 5
+
 ### Intense Training Ѻ 
-Improve an Attribute by 1 
+Improve an Attribute by 1  <br>
 Prerequisites: Attributes cannot exceed 18
+
 ### Durable Ѻ 
-Gain half your Constitution Score in Hit Points 
+Gain half your Constitution Score in Hit Points  <br>
 Prerequisites: ø
+
 ### Resilient Ѻ 
-Gain Proficiency in one Saving Throw 
+Gain Proficiency in one Saving Throw  <br>
 Prerequisites: ø
+
 ### Light Armor Training 
-Gain Proficiency in Light Armor 
+Gain Proficiency in Light Armor  <br>
 Prerequisites: ø
+
 ### Medium Armor Training 
-Gain Proficiency in Medium Armor 
+Gain Proficiency in Medium Armor  <br>
 Prerequisites: Light Armor Proficiency
+
 ### Heavy Armor Training 
-Gain Proficiency in Heavy Armor 
+Gain Proficiency in Heavy Armor  <br>
 Prerequisites: Medium Armor Proficiency 
+
 ### Simple Weapon Training 
-Gain Proficiency in Simple Weapons 
+Gain Proficiency in Simple Weapons  <br>
 Prerequisites: ø
+
 ### Martial Weapon Training 
-Gain Proficiency in Martial Weapons 
+Gain Proficiency in Martial Weapons  <br>
 Prerequisites: Simple Weapon Proficiency
+
 ### Handy Ѻ 
-Gain Proficiency in any three Kits, Languages, or Tools 
+Gain Proficiency in any three Kits, Languages, or Tools  <br>
 Prerequisites: ø
+
 ### Skilled Ѻ 
-Gain Proficiency in two Skills 
+Gain Proficiency in two Skills  <br>
 Prerequisites: ø
+
 ### Expert Ѻ 
-Gain Expertise in one Saving Throw, Skill, Tool, or Weapon Expertise 
+Gain Expertise in one Saving Throw, Skill, Tool, or Weapon Expertise  <br>
 Prerequisites: requires Proficiency in the relevant area
+
 ### Orisons Ѻ 
-Learn three Cantrips of your choice from one of the spell lists 
+Learn three Cantrips of your choice from one of the spell lists  <br>
 Prerequisites: Proficiency in Arcana, Nature, or Religion
+
 ### Greater Magicks Ѻ 
-Learn two Spells and gain one Spell Slot 
+Learn two Spells and gain one Spell Slot  <br>
 Prerequisites: Proficiency in Arcana, Nature, or Religion
+
 
 ### Rage 
-Gain the ability to enter a Barbarian’s Rage, as it is described in 5e, a number of times per long rest equal to your Proficiency Score 
+Gain the ability to enter a Barbarian’s Rage, as it is described in 5e, a number of times per long rest equal to your Proficiency Score  <br>
 Prerequisites: Requires Proficiency in Martial Weapons and a minimum of 14 in Strength and Consitution Attributes
+
 ### Unarmored Defense 
-Gain a Barbarian’s Unarmored Defense as described on page (27) 
+Gain a Barbarian’s Unarmored Defense as described on page (27)  <br>
 Prerequisites: Requires Proficiency in Constitution and Strength Saving Throws
+
 ### Danger Sense 
-Gain the “Danger Sense” ability, as described in 5e 
+Gain the “Danger Sense” ability, as described in 5e  <br>
 Prerequisites: Requires the Unarmored Defense Advancement and 20 Hit Points
+
 ### Reckless Attack 
-Gain the “Reckless Attack” ability, as described in 5e  
+Gain the “Reckless Attack” ability, as described in 5e   <br>
 Prerequisites: Requires the Rage Advancement and 20 Hit Points
+
 ### Fast Movement Ѻ 
-Gain +10 feet of Movement, to a maximum of +20  
+Gain +10 feet of Movement, to a maximum of +20   <br>
 Prerequisites: Requires the Unarmored Defense Advancement and 40 Hit Points
+
 ### Feral Instinct 
-Gain the “Feral Instinct” ability, as described in 5e  
+Gain the “Feral Instinct” ability, as described in 5e   <br>
 Prerequisites: Requires the Reckless Attack Advancement and 40 Hit Points
+
 ### Brutal Critical Ѻ 
-Gain the “Brutal Critical” ability. Each repeat Advancement adds an extra dice, to a maximum of three  
+Gain the “Brutal Critical” ability. Each repeat Advancement adds an extra dice, to a maximum of three   <br>
 Prerequisites: Requires the Rage Advancement and 80 Hit Points
+
 ### Relentless Rage 
-Gain the Relentless Rage Ability, as it is described in 5e  
+Gain the Relentless Rage Ability, as it is described in 5e   <br>
 Prerequisites: Requires the Rage Advancement and 80 Hit Points
+
 
 ### Bardic Inspiration 
-Gain a number of uses of Bardic Inspiration equal to your Proficiency Score. These dice start as D6’s, and they come back on a short rest  
+Gain a number of uses of Bardic Inspiration equal to your Proficiency Score. These dice start as D6’s, and they come back on a short rest  <br> 
 Prerequisites: Proficiency in Charisma Saving throws and Deception, Intimidation, or Persuasion
+
 ### Greater Inspiration Ѻ 
-Increase the Inspiration die size sequentially to maximum of D12  
+Increase the Inspiration die size sequentially to maximum of D12   <br>
 Prerequisites: Requires the Bardic Inspiration Advancement and 30 Hit Points
+
 ### Song of Rest 
-Gain a Bard’s Song of Rest ability, starting with a d6 bonus dice  
+Gain a Bard’s Song of Rest ability, starting with a d6 bonus dice   <br>
 Prerequisites: Proficiency in one musical instrument and Deception, Intimidation, or Persuasion
+
 ### Greater Song of Rest Ѻ 
-Increase the Song of Rest die sequentially to a maximum of D12  
+Increase the Song of Rest die sequentially to a maximum of D12   <br>
 Prerequisites: Requires Song of Rest and 30 Hit Points
+
 ### Jack of All Trades 
-Gain Half-Proficiency in all Ability Checks  
+Gain Half-Proficiency in all Ability Checks   <br>
 Prerequisites: Requires Proficiency in Light Armor, Simple Weapons, five or more Skill Proficiencies, and the ability to cast a level two spell
+
 ### Magical Secrets 
-Learn two Cantrips from every spell list (Arcane, Planar, and Primordial), for a total of six Cantrips  
+Learn two Cantrips from every spell list (Arcane, Planar, and Primordial), for a total of six Cantrips   <br>
 Prerequisites: Requires Jack of All Trades and 60 Hit Points
+
 ### Greater Secrets 
-Gain two spell slots and learn one spell from every spell list (Arcane, Planar, and Primordial)  
+Gain two spell slots and learn one spell from every spell list (Arcane, Planar, and Primordial)   <br>
 Prerequisites: Requires Magical Secrets and 100 Hit Points
 
+
 ### Extra Attack (1) 
-Gain Extra Attack (1)  
+Gain Extra Attack (1)   <br>
 Prerequisites: Requires Proficiency in Martial Weapons and 35 Hit Points
+
 ### Extra Attack (2) 
-Gain Extra Attack (2)  
+Gain Extra Attack (2)   <br>
 Prerequisites: Requires Proficiency in Martial Weapons and 80 Hit Points
+
 ### Extra Attack (3) 
-Gain Extra Attack (3)  
+Gain Extra Attack (3)   <br>
 Prerequisites: Requires Proficiency in Heavy Armor, Martial Weapons, and 120 Hit Points
+
 ### Fighting Style Ѻ 
-Learn two different Fighting Styles of your Choice  
+Learn two different Fighting Styles of your Choice   <br>
 Prerequisites: Requires Proficiency in Martial Weapons and Medium Armor
+
 ### Second Wind Ѻ 
-Your character may spend a bonus action to recover a number of hit-points equal to their Constitution attribute. This ability can be used once per short rest  
+Your character may spend a bonus action to recover a number of hit-points equal to their Constitution attribute. This ability can be used once per short rest   <br>
 Prerequisites: Requires Proficiency in Martial Weapons and Heavy Armor
+
 ### Indomitable Ѻ 
-Your character may reroll a Saving Throw once per Short Rest  
+Your character may reroll a Saving Throw once per Short Rest   <br>
 Prerequisites: Requires Proficiency in Constitution Saving Throws and 35 Hit Points
+
 ### Superiority Dice Ѻ 
-Learn two Battlemaster Maneuvers and gain one Superiority Dice. These dice start as a D6 and are recovered on a short rest  
+Learn two Battlemaster Maneuvers and gain one Superiority Dice. These dice start as a D6 and are recovered on a short rest   <br>
 Prerequisites: Requires a Fighting Style, Heavy Armor Proficiency and Martial Weapon Proficiency
+
 ### Greater Maneuvers Ѻ 
-Increase the Superiority Dice sequentially to a maximum of D12  
+Increase the Superiority Dice sequentially to a maximum of D12   <br>
 Prerequisites: Requires the Superiority Dice Advancement
 
+
 ### Channel Divinity 
-Gain the Cleric’s Channel Divinity Ability. Your character may Channel Divinity a number of times per long rest equal to their Proficiency Score   
+Gain the Cleric’s Channel Divinity Ability. Your character may Channel Divinity a number of times per long rest equal to their Proficiency Score    <br>
 Prerequisites: Requires Proficiency in the Religion Skill
+
 ### Divine Sense 
-Gain the Paladin’s Divine Sense Ability, but with the ability to use it a number of times per long rest equal to your Proficiency Score   
+Gain the Paladin’s Divine Sense Ability, but with the ability to use it a number of times per long rest equal to your Proficiency Score  <br>  
 Prerequisites: Requires Proficiency in Charisma Saving Throws
+
 ### Divine Health 
-Gain the Paladin’s Divine Health Ability   
+Gain the Paladin’s Divine Health Ability    <br>
 Prerequisites: Requires Proficiency in Charisma and Wisdom Saving Throws
+
 ### Lay on Hands 
-Gain a Paladin’s Lay on Hands Ability, but with the ability to restore a number of hit points equal to half your character’s Charisma score X their Proficiency Score   
+Gain a Paladin’s Lay on Hands Ability, but with the ability to restore a number of hit points equal to half your character’s Charisma score X their Proficiency Score    <br>
 Prerequisites: Requires Proficiency in the Religion Skill and the ability to cast a level one divine spell
+
 ### Aura of Protection 
-Gain a Paladin’s Aura of Protection, but with a radius of 10 feet, and the bonus for allies is equal to your Proficiency Score   
+Gain a Paladin’s Aura of Protection, but with a radius of 10 feet, and the bonus for allies is equal to your Proficiency Score    <br>
 Prerequisites: Requires Proficiency in Charisma and Wisdom Saving Throws and 35 Hit Points
+
 ### Divine Smite 
-Gain a Paladin’s Divine Smite feature, sacrificing spell slots as normal   
+Gain a Paladin’s Divine Smite feature, sacrificing spell slots as normal    <br>
 Prerequisites: Requires Proficiency in the Religion Skill and the Ability to cast a level two divine spell 
+
 ### Aura of Courage 
-Gain a Paladin’s Aura of Courage ability with a radius of 10 feet   
+Gain a Paladin’s Aura of Courage ability with a radius of 10 feet    <br>
 Prerequisites: Requires the Aura of Protection Advancement and 80 Hit Points 
+
 ### Greater Aura Ѻ 
-Increase the Radius of all your Auras (Courage and/or Protection) by 10 feet, to a maximum of 30 feet   
+Increase the Radius of all your Auras (Courage and/or Protection) by 10 feet, to a maximum of 30 feet    <br>
 Prerequisites: Requires Aura of Protection
 
+
 ### Favored Terrain 
-Gain the Ranger’s Favored Terrain ability, but with a number of biomes equal to your Proficiency Score, doubled if your character has Expertise in Survival   
+Gain the Ranger’s Favored Terrain ability, but with a number of biomes equal to your Proficiency Score, doubled if your character has Expertise in Survival    <br>
 Prerequisites: Requires Proficiency in the Survival Skill
+
 ### Favored Enemy 
-Gain the Ranger’s Favored Enemy Skill, but with a number of enemy types equal to your Proficiency Score, doubled if you have Expertise in one of the prerequisite Skills   
+Gain the Ranger’s Favored Enemy Skill, but with a number of enemy types equal to your Proficiency Score, doubled if you have Expertise in one of the prerequisite Skills    <br>
 Prerequisites: Requires Proficiency in Arcana, History, Nature, or Religion
+
 ### Wild Shape 
-Gain a Druid’s Wild Shape Ability. You must activate it by spending a spell slot. Your character may turn into a beast that they are familiar with that has a CR rating less than or equal to half the Spell Slot. Wild Shape no longer affects your current or maximum Hit Points   
+Gain a Druid’s Wild Shape Ability. You must activate it by spending a spell slot. Your character may turn into a beast that they are familiar with that has a CR rating less than or equal to half the Spell Slot. Wild Shape no longer affects your current or maximum Hit Points    <br>
 Prerequisites: Requires Proficiency in the Nature Skill and the ability to cast a level one Primordial Spell
+
 ### Primeval Awareness 
-Gain the Ranger’s Primeval Awareness Ability   
+Gain the Ranger’s Primeval Awareness Ability    <br>
 Prerequisites: Requires Proficiency in Arcana, Nature, or Survival and the ability to cast a level one Primordial Spell
+
 ### Land’s Stride 
-Gain the Ranger’s Land’s Stride Ability   
+Gain the Ranger’s Land’s Stride Ability    <br>
 Prerequisites: Requires Proficiency in Nature and Survival and 30 Hit Points
+
 ### Hide in Plain Sight 
-Gain the Ranger’s Hide in Plain Sight Ability   
+Gain the Ranger’s Hide in Plain Sight Ability   <br> 
 Prerequisites: Requires Proficiency in Stealth and Survival and 30 Hit Points
 
+
 ### Unarmored Defense 
-Gain a Monk’s Unarmored Defense Ability, as described on page (27)   
+Gain a Monk’s Unarmored Defense Ability, as described on page (27)    <br>
 Prerequisites: Requires Proficiency in Dexterity and Wisdom Saving Throws
+
 ### Martial Arts 
-Gain the Ability to make an unarmed attack as a Bonus Action if your character has a free hand and is unarmored. This Unarmed Attack deals 1D4 Bludgeoning Damage   
+Gain the Ability to make an unarmed attack as a Bonus Action if your character has a free hand and is unarmored. This Unarmed Attack deals 1D4 Bludgeoning Damage   <br> 
 Prerequisites: Requires Proficiency in Acrobatics and Simple Weapons
+
 ### Fast Movement Ѻ 
-Increase your character’s movement by 10 ft. May be taken twice for a total of 20 ft   
+Increase your character’s movement by 10 ft. May be taken twice for a total of 20 ft    <br>
 Prerequisites: Requires a Monk’s Unarmored Defense and 30 Hit Points
+
 ### Greater Arts Ѻ 
-Increase the Martial Arts Damage Dice sequentially to a maximum of D12   
+Increase the Martial Arts Damage Dice sequentially to a maximum of D12    <br>
 Prerequisites: Requires the Martial Arts Advancement and 40 Hit Points 
+
 ### Ki 
-Gain a Ki Pool equal to your character’s Proficiency Score. Your character also gains access to a Monk’s Flurry of Blows, Patient Defense, and Step of the Wind   
+Gain a Ki Pool equal to your character’s Proficiency Score. Your character also gains access to a Monk’s Flurry of Blows, Patient Defense, and Step of the Wind    <br>
 Prerequisites: Requires Proficiency in Wisdom Saving Throws and a Wisdom Score 14 or more 
+
 ### Greater Ki Ѻ 
-Increase your character’s Ki pool by 4, to a maximum of 20   
+Increase your character’s Ki pool by 4, to a maximum of 20    <br>
 Prerequisites: Requires the Ki Advancement
+
 ### Deflect Missiles 
-Gain a Monk’s Deflect Missiles Ability. The Missile’s Damage is reduced by 1d10 + Your Max Ki Pool + Proficiency Score   
+Gain a Monk’s Deflect Missiles Ability. The Missile’s Damage is reduced by 1d10 + Your Max Ki Pool + Proficiency Score   <br> 
 Prerequisites: Requires Proficiency in Dexterity Saving Throws and a Dexterity Score of 14 or more
+
 ### Stunning Strike 
-May spend a Ki point after a Unarmed Attack to force a character to make a Constitution saving throw. A failure stuns them until the end of your turn   
+May spend a Ki point after a Unarmed Attack to force a character to make a Constitution saving throw. A failure stuns them until the end of your turn   <br> 
 Prerequisites: Requires a minimum D8 Martial Arts Dice
+
 ### Improved Stun 
-Failure to save against a Stunning Strike leaves an enemy stunned until the end of your next turn   
+Failure to save against a Stunning Strike leaves an enemy stunned until the end of your next turn    <br>
 Prerequisites: Requires Stunning Strike and a minimum D10 Martial Arts Dice
+
 ### Diamond Soul
-May spend a Ki Point to reroll a Saving Throw with Advantage   
+May spend a Ki Point to reroll a Saving Throw with Advantage    <br>
 Prerequisites: Requires a minimum of 6 Ki Points
+
 ### Stillness of Mind 
-Gain the Stillness of Mind Feature   
+Gain the Stillness of Mind Feature    <br>
 Prerequisites: Requires Proficiency in Wisdom Saving Throws, a Wisdom Score of at least 14, and 40 Hit Points
+
 ### Purity of Body and Mind 
-Gain the Monk’s Purity of Body Feature. Furthermore, gains immunity to the frightened and charmed conditions   
+Gain the Monk’s Purity of Body Feature. Furthermore, gains immunity to the frightened and charmed conditions    <br>
 Prerequisites: Requires the Diamond Soul and Stillness of Mind Advancements
 
+
 ### Sneak Attack 
-Gain a Rogue’s Sneak Attack ability, starting with 1D6 dice. Sneak Attack no longer requires a finesse weapon   
+Gain a Rogue’s Sneak Attack ability, starting with 1D6 dice. Sneak Attack no longer requires a finesse weapon    <br>
 Prerequisites: Requires Expertise in at least two Skills
+
 ### Greater Sneak Attack Ѻ 
-Add an extra D6 to your Sneak Attack, to a maximum of 8D6   
+Add an extra D6 to your Sneak Attack, to a maximum of 8D6   <br> 
 Prerequisites: Requires the Sneak Attack Advancement
+
 ### Cunning Action 
-Gain the ability to Dash, Disengage, or Hide as a Bonus Action   
+Gain the ability to Dash, Disengage, or Hide as a Bonus Action    <br>
 Prerequisites: Requires Expertise in Acrobatics or Stealth
+
 ### Uncanny Dodge 
-Gain a Rogue’s Uncanny Dodge ability   
+Gain a Rogue’s Uncanny Dodge ability    <br>
 Prerequisites: Requires 30 HP and the Cunning Action ability
+
 ### Reliable Talent 
-Select one Skill or Tool you have Expertise in (cannot choose a Weapon). Anytime you roll above a 10, treat the roll as a 10   
+Select one Skill or Tool you have Expertise in (cannot choose a Weapon). Anytime you roll above a 10, treat the roll as a 10   <br> 
 Prerequisites: Requires Expertise in at least four Skills and a Proficiency Score of 4
+
 ### Blindsense 
-Gain a Rogue’s Blindsense Ability   
+Gain a Rogue’s Blindsense Ability    <br>
 Prerequisites: Requires Expertise in Perception or Investigation
 
+
 ### Metamagic 
-Learn two Metamagics of your choice. Your character fulfills the Sorcery Point cost by sacrificing Spell Slots as a free action   
+Learn two Metamagics of your choice. Your character fulfills the Sorcery Point cost by sacrificing Spell Slots as a free action   <br> 
 Prerequisites: Requires the ability to cast three different spells
+
 ### Extra Metamagics Ѻ 
-Learn two additional sorcerous metamagics   
+Learn two additional sorcerous metamagics    <br>
 Prerequisites: Requires the Metamagic Advancement
+
 ### Spellbook 
-Gain a Wizard’s Spellbook. Arcane spells can be learned and copied into the Spellbook as normal   
+Gain a Wizard’s Spellbook. Arcane spells can be learned and copied into the Spellbook as normal    <br>
 Prerequisites: Requires the Arcana Skill Ritual Casting Gain the ability to Ritually cast spells Requires the Arcana Skill
+
 ### Empowered Cantrips (1) 
-When dealing damage with Cantrips, add one extra die of the same type   
+When dealing damage with Cantrips, add one extra die of the same type    <br>
 Prerequisites: Requires a Level 3 Spell Slot
+
 ### Empowered Cantrips (2) 
-Add a third dice of the same type to Cantrip damage   
+Add a third dice of the same type to Cantrip damage    <br>
 Prerequisites: Requires a Level 5 Spell Slot
 
 
+## Basic Feats
+
 ### Ambidexterity
-If you are dual-wielding, you can wield a weapon in your off-hand that is not Light.
+If you are dual-wielding, you can wield a weapon in your off-hand that is not Light. <br>
+
 ### Armor Training
-When you take this feat, you learn to fight in heavier armor than most with your skillset.
-If you have no armor proficiencies, you gain light armor proficiency.
-If you have only light, you gain medium armor proficiency.
-If you have medium armor proficiency, you gain heavy armor proficiency.
-If you later gain proficiency in the chosen armor type through some other means, you may gain proficiency in the next heaviest armor type (if applicable) or replace this feat with another level 1 feat.
+When you take this feat, you learn to fight in heavier armor than most with your skillset. <br>
+- If you have no armor proficiencies, you gain light armor proficiency.
+- If you have only light, you gain medium armor proficiency.
+= If you have medium armor proficiency, you gain heavy armor proficiency.
+= If you later gain proficiency in the chosen armor type through some other means, you may gain proficiency in the next heaviest armor type (if applicable) or replace this feat with another level 1 feat.
 
 ### Dabbler
-Note: This feat can be chosen multiple times.Pick four skills. You are now a dabbler in those skills (add half your proficiency bonus, rounded down). If you later gain proficiency in any of these skills, you can switch your Dabbler skills. If you later gain the Jack of All Trades feature, you can replace this feat.
+Note: This feat can be chosen multiple times. <br>
+Pick four skills. You are now a dabbler in those skills (add half your proficiency bonus, rounded down). If you later gain proficiency in any of these skills, you can switch your Dabbler skills. If you later gain the Jack of All Trades feature, you can replace this feat.
 
 ### Fast Loading
-You can more easily load weapons that use ammunition.
+You can more easily load weapons that use ammunition. <br>
 When you attack with a weapon that has the Loading property, you can load it as part of the attack action without using a bonus action. 
 You can load a one-handed ammunition weapon (hand crossbows, pistols, and slings) using a hand holding a shield or another one-handed ammunition weapon (allowing you to dual wield some ranged weapons).
 
 ### Find Familiar
-During a Short Rest - MagicalYou bind a familiar to your service.
-Your familiar acts on its own initiative, but follows your commands to the best of its abilities.
-Your familiar uses the stats of any CR 0 beast. Its type is either beast or construct (if you want a mechanical familiar).
-Your familiar has an armour class equal to 10 + your proficiency bonus, and 5 hit points. It has a proficiency bonus equal to yours.
-Your familiar loses any attack it normally possesses, and gains a new attack instead. The new attack has an attack bonus equal to your proficiency bonus + your intelligence, wisdom, or charisma modifier. The attack now deals 1 + your chosen ability modifier damage. Choose whether bludgeoning, piercing, or slashing damage is most appropriate for your familiar.
-When your familiar is within 100 feet of you, you can communicate with it telepathically.
-When you finish a short or long rest, your familiar is revived, teleported to you, and regains all hit points.
+During a Short Rest - MagicalYou bind a familiar to your service. <br>
+- Your familiar acts on its own initiative, but follows your commands to the best of its abilities.
+- Your familiar uses the stats of any CR 0 beast. Its type is either beast or construct (if you want a mechanical familiar).
+= Your familiar has an armour class equal to 10 + your proficiency bonus, and 5 hit points. It has a proficiency bonus equal to yours.
+- Your familiar loses any attack it normally possesses, and gains a new attack instead. The new attack has an attack bonus equal to your proficiency bonus + your intelligence, wisdom, or charisma modifier. The attack now deals 1 + your chosen ability modifier damage. Choose whether bludgeoning, piercing, or slashing damage is most appropriate for your familiar.
+- When your familiar is within 100 feet of you, you can communicate with it telepathically.
+- When you finish a short or long rest, your familiar is revived, teleported to you, and regains all hit points.
 
 ### Human Versatility
-Ancestry Feat
-Prerequisite: Human or Part-Human Mixed Ancestry
+Ancestry Feat <br>
+Prerequisite: Human or Part-Human Mixed Ancestry <br>
 You gain proficiency in two skills of your choice.
 
 ### Inspiring Performance
-Prerequisite: Proficiency in PerformanceYou inspire your allies during downtime, using anything from a dramatic performance to a friendly pep talk.During a Short or Long Rest - 10 Creatures - 8 Hours
+Prerequisite: Proficiency in Performance <br>
+You inspire your allies during downtime, using anything from a dramatic performance to a friendly pep talk. <br>
+During a Short or Long Rest - 10 Creatures - 8 Hours <br>
 Targets gain temporary hit points equal to your proficiency bonus. Targets lose these temporary hit points when you use this ability again.
 
 ### Master of Minor Magics
-Gain two of the following cantrips: dancing lights, elementalism, druidcraft, light, mage hand, mending, message, minor illusion, prestidigitation, or thaumaturgy. 
-Bonus Action
+Gain two of the following cantrips: dancing lights, elementalism, druidcraft, light, mage hand, mending, message, minor illusion, prestidigitation, or thaumaturgy.  <br>
+Bonus Action <br>
 You can cast any of the above spells.
 
 ### Multitalented
-Note: This feat can be chosen multiple times.You gain proficiency with three Tools or Vehicles of your choice.
+Note: This feat can be chosen multiple times. <br>
+You gain proficiency with three Tools or Vehicles of your choice.
 
 ### Naturally Stealthy
-Ancestry Feat
-Prerequisite: Small or Tiny Size*
-You can move into a space occupied by an ally of at least one size category larger than you, and they don't count as difficult terrain.
-You can end your turn in a larger ally's space (but only one creature can hide in this way in an ally's space).
-You can take the Hide action to hide inside a larger ally's space.
-If the you or the ally moves or you otherwise reveal yourself, you are no longer hidden.
-*Halflings, gnomes, goblins, and kobolds are always small. Aasimar, changelings, constructs, genasi, and tieflings can be small or medium.
+Ancestry Feat <br>
+Prerequisite: Small or Tiny Size <br>
+- You can move into a space occupied by an ally of at least one size category larger than you, and they don't count as difficult terrain.
+= You can end your turn in a larger ally's space (but only one creature can hide in this way in an ally's space).
+- You can take the Hide action to hide inside a larger ally's space.
+- If the you or the ally moves or you otherwise reveal yourself, you are no longer hidden.
 
 ### Oathcaster
-Class Feat
-Prerequisite: Paladin Level 1You learn to draw on the magical power of your oath more readily, both to support yourself and smite your foes.
+Class Feat <br>
+Prerequisite: Paladin Level 1 <br>
+You learn to draw on the magical power of your oath more readily, both to support yourself and smite your foes.
 You gain two cantrips from the cleric spell list, which count as paladin spells for you.
 You can use Divine Smite or other smite abilities on cleric or paladin cantrips as if they were weapon attacks.
 
 ### Polyglot
-Note: This feat can be chosen multiple times.You learn three languages of your choice. You also pick up bits of new languages very quickly, allowing you to learn bits of a new language from a fluent speaker, even without a translator. You can learn basic phrases like how to ask for directions or order food over the course of a short or long rest with the help of someone who knows the given language.
+Note: This feat can be chosen multiple times. <br>
+You learn three languages of your choice. You also pick up bits of new languages very quickly, allowing you to learn bits of a new language from a fluent speaker, even without a translator. You can learn basic phrases like how to ask for directions or order food over the course of a short or long rest with the help of someone who knows the given language.
 
 ### Powerful Build
-You are larger than most.
-If you are a medium creature, you count as a large creature for determining how much you can lift or push, and you have the carrying capacity of a large creature. You also count as a large creature for the sake of grappling. Otherwise, you count as a medium creature.
-If you are a small creature, you count as a medium creature for determining how much you can lift or push, and you have the carrying capacity of a medium creature. You also count as a medium creature for the sake of grappling. Otherwise, you count as a small creature.
-Medium characters have a carrying capacity of their Strength score multiplied by 15. This is the weight (in pounds) that you can carry, which is high enough that most characters don't usually have to worry about it. Large characters can carry twice as much.Characters can push, drag, or lift a weight in pounds up to twice their carrying capacity (or 30 times your Strength score for medium characters, or 60 times their strength score for large characters).
+You are larger than most. <br>
+- If you are a medium creature, you count as a large creature for determining how much you can lift or push, and you have the carrying capacity of a large creature. You also count as a large creature for the sake of grappling. Otherwise, you count as a medium creature.
+- If you are a small creature, you count as a medium creature for determining how much you can lift or push, and you have the carrying capacity of a medium creature. You also count as a medium creature for the sake of grappling. Otherwise, you count as a small creature.
+- Medium characters have a carrying capacity of their Strength score multiplied by 15. This is the weight (in pounds) that you can carry, which is high enough that most characters don't usually have to worry about it. Large characters can carry twice as much.
+- Characters can push, drag, or lift a weight in pounds up to twice their carrying capacity (or 30 times your Strength score for medium characters, or 60 times their strength score for large characters).
 
 ### Ranger-Mage
-Class Feat
+Class Feat <br>
 Prerequisite: Ranger Level 1You study magic in more depth, learning to use it to support yourself and strike at your enemies directly.
-You gain two cantrips from the druid spell list, which count as ranger spells for you.
-You can deal extra damage from Mark for Death when using cantrips as if they were weapon attacks.
+- You gain two cantrips from the druid spell list, which count as ranger spells for you.
+- You can deal extra damage from Mark for Death when using cantrips as if they were weapon attacks.
 
 ### Repressed Memory
-You have a wealth of knowledge in your mind that remains buried most of the time. You could be an amnesiac, haunted by ghosts, or anything else that might cause you to have memories come and go.During a Short Rest - SelfAt the end of a short or long rest, you can swap one of your skill proficiencies for a different one. If you had expertise with the old skill for any reason, you have expertise with the new chosen skill instead.
+You have a wealth of knowledge in your mind that remains buried most of the time. You could be an amnesiac, haunted by ghosts, or anything else that might cause you to have memories come and go. <br>
+During a Short Rest - Self <br>
+- At the end of a short or long rest, you can swap one of your skill proficiencies for a different one. If you had expertise with the old skill for any reason, you have expertise with the new chosen skill instead.
 
 ### Scavenger
-Prerequisite: Proficiency in Survival  
-1 Minute - Self - 1/Short Rest
+Prerequisite: Proficiency in Survival   <br>
+1 Minute - Self - 1/Short Rest <br>
 You scavenge nearby, finding what you need or a usable substitute. Choose from the following options:
 - Healing Draught, which you must use immediately, healing a nearby creature of your choice for 1d4 hit points.
 - 50 ft. of rope.
@@ -319,46 +404,48 @@ You scavenge nearby, finding what you need or a usable substitute. Choose from t
 - 5 torches.
 
 ### Scroll Expert
-You gain proficiency with Calligrapher's Tools, used to scribe scrolls. If you already have Calligrapher's Tools, you can pick a different tool. 
-You can cast any spell scroll without making a skill check, regardless of spell level or which class list the spell is from. 
-You use your spellcasting ability, spell attack bonus, and spellcasting save DC for all spell scrolls instead of only scrolls from your class spell list.
-You can copy a scroll using Calligrapher's Tools. To do so, you follow usual scroll scribing rules, but you don't need to be able to cast the spell.
+You gain proficiency with Calligrapher's Tools, used to scribe scrolls. If you already have Calligrapher's Tools, you can pick a different tool. <br> 
+- You can cast any spell scroll without making a skill check, regardless of spell level or which class list the spell is from. 
+- You use your spellcasting ability, spell attack bonus, and spellcasting save DC for all spell scrolls instead of only scrolls from your class spell list.
+- You can copy a scroll using Calligrapher's Tools. To do so, you follow usual scroll scribing rules, but you don't need to be able to cast the spell.
 
 ### Skill Specialization
-Note: This feat can be chosen multiple times.Pick one skill you were already proficient in. You now have expertise with the skill(s), meaning your proficiency bonus is added twice for skill checks instead of added once.
+Note: This feat can be chosen multiple times. <br>
+Pick one skill you were already proficient in. You now have expertise with the skill(s), meaning your proficiency bonus is added twice for skill checks instead of added once.
 
 ### Spirit Steed
-Class Feat
-Prerequisite: Paladin Level 1
-Action - 5 ft. - 1/Short Rest
-You summon a magical steed to your side, either a spirit or a magically bound beast. This steed has the statistics of a warhorse, but can be medium size if you are small and has an intelligence of 6.
-The spirit steed acts on your initiative but cannot take actions. While you are mounting it, you can replace one of your attacks every turn with one of the steed's attacks if you want.
-While you are mounting the spirit steed, the steed cannot take damage. If the steed is targeted by an effect that does not target you, and the steed takes damage as a result, you instead take the damage. All attacks against the steed target you instead. The mount can otherwise be affected by terrain, spells, and abilities normally.
-This Spirit Steed understands you when you speak and will follow any orders you give to it. While your steed is within 1 mile of you, you can communicate with it telepathically.
-While mounted on your steed, you can make any spell you cast that targets only you also target your steed.
-When the steed drops to 0 hit points, it disappears, leaving behind no physical form, and you fall prone. You can also dismiss your steed at any time as an action, causing it to disappear. In either case, using this ability again summons the same steed, restored to its hit point maximum.
+Class Feat <br>
+Prerequisite: Paladin Level 1 <br>
+Action - 5 ft. - 1/Short Rest <br>
+- You summon a magical steed to your side, either a spirit or a magically bound beast. This steed has the statistics of a warhorse, but can be medium size if you are small and has an intelligence of 6.
+- The spirit steed acts on your initiative but cannot take actions. While you are mounting it, you can replace one of your attacks every turn with one of the steed's attacks if you want.
+- While you are mounting the spirit steed, the steed cannot take damage. If the steed is targeted by an effect that does not target you, and the steed takes damage as a result, you instead take the damage. All attacks against the steed target you instead. The mount can otherwise be affected by terrain, spells, and abilities normally.
+- This Spirit Steed understands you when you speak and will follow any orders you give to it. While your steed is within 1 mile of you, you can communicate with it telepathically.
+- While mounted on your steed, you can make any spell you cast that targets only you also target your steed.
+- When the steed drops to 0 hit points, it disappears, leaving behind no physical form, and you fall prone. You can also dismiss your steed at any time as an action, causing it to disappear. In either case, using this ability again summons the same steed, restored to its hit point maximum.
 
 ### Sprinter
-Your walking speed increases by 5 ft. Any speed you have that is equal to your walking speed also increases by 5 ft.
+- Your walking speed increases by 5 ft. Any speed you have that is equal to your walking speed also increases by 5 ft.
 
 ### Strong Swimmer
-You have a swim speed equal to your walking speed. If you later gain a swim speed, you can replace this feat with a different level 1 feat.
+- You have a swim speed equal to your walking speed. If you later gain a swim speed, you can replace this feat with a different level 1 feat.
 
 ### Tough
-You gain an extra number of hit points equal to your level. When you level up, you gain an extra hit point each time. Also, when you roll hit dice to regain hit points as part of a short rest, you regain an extra hit point per hit die.
+- You gain an extra number of hit points equal to your level. When you level up, you gain an extra hit point each time. Also, when you roll hit dice to regain hit points as part of a short rest, you regain an extra hit point per hit die.
 
 ### Undead Nature
 You are undead. Most often, that means a necromancer raised you from the dead in a way that didn't entirely restore your life.
-You count as undead in addition to your normal type, as determined by your ancestry (usually humanoid).
-You have resistance to either poison or necrotic damage (your choice).
-When you roll a hit die to regain hit points during a short rest, you do not add your consititution bonus unless you are under the effects of the Gentle Repose spell.
-If your character dies and is brought back from the dead in a way that would leave them undead, your DM may allow you to switch a feat for this one, or gain this feat as an extra feat.
+- You count as undead in addition to your normal type, as determined by your ancestry (usually humanoid).
+- You have resistance to either poison or necrotic damage (your choice).
+- When you roll a hit die to regain hit points during a short rest, you do not add your consititution bonus unless you are under the effects of the Gentle Repose spell.
+- If your character dies and is brought back from the dead in a way that would leave them undead, your DM may allow you to switch a feat for this one, or gain this feat as an extra feat.
 
 ### Weapon Training
-You have been trained much more extensively with weapons than most with your skillset. You have proficiency with all simple and martial weapons.
-If you later gain proficiency in simple and martial weapons through some other means, you may replace this feat with another level 1 feat.
+You have been trained much more extensively with weapons than most with your skillset. <br>
+- You have proficiency with all simple and martial weapons.
+- If you later gain proficiency in simple and martial weapons through some other means, you may replace this feat with another level 1 feat.
 
-Advance
+## Advanced Feats
 
 ### Combat Maneuver
 Prerequisite: Level 4 and a Fighting Style.
