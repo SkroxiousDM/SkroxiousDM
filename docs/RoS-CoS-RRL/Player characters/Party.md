@@ -40,7 +40,7 @@ Flaw - Insecurity <br>
 Motivation - Healing<br>
 
 ## Kurt -  Soren Valmont
-![Soren Valmont](https://raw.githubusercontent.com/SkroxiousDM/SkroxiousDM/refs/heads/main/Images/kurrrrt_-_Soren_Valmont.png)
+![Soren Valmont](https://raw.githubusercontent.com/SkroxiousDM/SkroxiousDM/refs/heads/main/Images/copilot_image_1764735542160.jpeg)
 Human (Ambrian) - Noble<br>
 Warrior (Templar)<br>
 Bond - Responsibility<br>
