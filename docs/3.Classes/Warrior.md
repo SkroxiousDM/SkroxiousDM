@@ -281,7 +281,7 @@ At 1st level, the rune tattoo protects from weather and wind like a full set of 
 
 At 2nd level, the rune tattoo adds power to your attacks. Use your bonus action to empower your weapon and gain 1 point of temporary Corruption. Add 1d6 radiant damage to each attack until the beginning of your next turn.
 
-At 3rd level, the rune tattoo glows when you take a wound. At the start of your turn, you can choose to gain 1 point of temporary Corruption. If so, you regenerate hit points equal to your proficiency bonus.
+At 3rd level, the rune tattoo glows when you take a wound. At the start of your turn, you can choose to gain 1 point of temporary Corruption. If so, you can spend and roll a Hit die and regenerate hit points equal to your roll plus your proficiency bonus.
 
 At 5th level, the rune tattoo adds even more power to your attacks. Add 1d8 radiant damage (instead of 1d6) to each attack.
 
