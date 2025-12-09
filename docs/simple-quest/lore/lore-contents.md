@@ -4,4 +4,4 @@
 - [Factions](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.zdyubgmrks0epify/factions)
 - [Dramatis Personae](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.cgswpn6ymjxd4y5s/npcs)
 - [Locations](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.oqippgoggup2xdve/locations)
-- [Magic Items](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.jfbq9n1yiejpy2fk/magic_items)
+- [Magic Items](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/magic-items/magic_items)
