@@ -2,14 +2,14 @@
 
 ## Table of Contents
 
-- [Cloak of Protection]()
-- [Amber Shard](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/magic-items/amber-shard.md)
-- [Talisman of Echoes](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/magic-items/journalentry.jfbq9n1yiejpy2fk.journalentrypage.wwz4ab0yww6tp7a9)
-- [Charm of Mass Heroism](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/magic-items/journalentry.jfbq9n1yiejpy2fk.journalentrypage.k0oohaio8wjuy1my)
-- [Lantern of Revealing](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/magic-items/journalentry.jfbq9n1yiejpy2fk.journalentrypage.g3awchzukrcaf1s5)
-- [Spirit Mirror](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/magic-items/journalentry.jfbq9n1yiejpy2fk.journalentrypage.teanrkac166qzvqa)
-- [Locked Tome](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/magic-items/journalentry.jfbq9n1yiejpy2fk.journalentrypage.nczjwrofs1ktc9td)
-- [Motes of the Whispering Wall](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/magic-items/journalentry.jfbq9n1yiejpy2fk.journalentrypage.yaagpxjscuut8x4d)
+- [Cloak of Protection](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/magic-items/cloak-of-protection)
+- [Amber Shard](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/magic-items/amber-shard)
+- [Talisman of Echoes](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/magic-items/talisman-of-echoes)
+- [Charm of Mass Heroism](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/magic-items/charm-of-mass-heroism)
+- [Lantern of Revealing](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/magic-items/lantern-of-revealing)
+- [Spirit Mirror](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/magic-items/spirit-mirror)
+- [Locked Tome](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/magic-items/locked-tome)
+- [Motes of the Whispering Wall](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/magic-items/motes-of-the-whispering-wall)
 - [Twilight Crest](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/magic-items/twilight-crest)
 - [Keeper's Whistle](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/magic-items/keepers-whistle)
 - [Bracelet of Warding](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/magic-items/bracelet-of-warding)
