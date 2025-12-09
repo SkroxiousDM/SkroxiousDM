@@ -15,8 +15,8 @@
 - [Bracelet of Warding](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/magic-items/bracelet-of-warding)
 - [Amulet of Knight’s Passage](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/magic-items/amulet-of-knights-passage)
 - [Moontouched Rapier silvered](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/magic-items/moontouched-rapier)
-- [Holy Symbol of Ravenkind](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/simple-quest/lore/magic-items/holy-symbol-of-ravenkind)
-- [Furtive Firestarter](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/simple-quest/lore/magic-items/furtive-firestarter)
+- [Holy Symbol of Ravenkind](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/magic-items/holy-symbol-of-ravenkind)
+- [Furtive Firestarter](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/magic-items/furtive-firestarter)
 - [Chest of Holding](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/magic-items/chest-of-holding)
 - [Luckstone](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/magic-items/luckstone)
   
