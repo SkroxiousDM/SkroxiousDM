@@ -18,7 +18,8 @@
 - [Holy Symbol of Ravenkind](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/simple-quest/lore/journalentry.jfbq9n1yiejpy2fk/journalentry.jfbq9n1yiejpy2fk.journalentrypage.9afq1xtbmfvnho6k)
 - [Furtive Firestarter](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/simple-quest/lore/journalentry.jfbq9n1yiejpy2fk/journalentry.jfbq9n1yiejpy2fk.journalentrypage.gjuxsvazq86ndrdf)
 - [Chest of Holding](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/simple-quest/lore/journalentry.jfbq9n1yiejpy2fk/journalentry.jfbq9n1yiejpy2fk.journalentrypage.pw7kr6rfaox8nmwp)
--
+
+  
 <!---
 - [Khazan's Staff](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/simple-quest/lore/journalentry.jfbq9n1yiejpy2fk/journalentry.jfbq9n1yiejpy2fk.journalentrypage.0sbvuwm3ndr2ikbh)
 - [Spear of the Huntress](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/simple-quest/lore/journalentry.jfbq9n1yiejpy2fk/journalentry.jfbq9n1yiejpy2fk.journalentrypage.verg7y5lsuproz3g)
