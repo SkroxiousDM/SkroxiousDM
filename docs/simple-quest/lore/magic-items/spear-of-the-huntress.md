@@ -12,7 +12,7 @@ This six-foot shaft of ash wood is adorned with carvings of wild animals, vines,
 
 When first recovered from Dostron’s sarcophagus,  
 - its wielder gains a +1 bonus to attack and damage rolls made with it.
-- When you hit with a melee attack using this magic spear and reduce the target to O hit points, you gain 2d6 temporary hit points. 
+- When you hit with a melee attack using this magic spear and reduce the target to 0 hit points, you gain 2d6 temporary hit points. 
 
 (The spear was corrupted long ago by the influence of Kavan and the Devourer, and can be restored only by reconsecrating the Forest Fane at Yester Hill, which the players can learn about at the Mountain Folk settlement of Soldav on Mount Ghakis.)
 
