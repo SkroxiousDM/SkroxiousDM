@@ -27,5 +27,5 @@
 - [Shield of the Silver Dragon](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/magic-items/shield-of-the-silver-dragon)
 - [Driftglobe](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/magic-items/driftglobe)
 - [Cape of the Mountebank](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/magic-items/cape-of-the-mountebank)
-- [Pearl of Power]()
+- [Pearl of Power](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/magic-items/pearl-of-power)
 --->
