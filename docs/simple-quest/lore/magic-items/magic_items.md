@@ -18,13 +18,14 @@
 - [Holy Symbol of Ravenkind](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/simple-quest/lore/magic-items/holy-symbol-of-ravenkind)
 - [Furtive Firestarter](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/simple-quest/lore/magic-items/furtive-firestarter)
 - [Chest of Holding](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/magic-items/chest-of-holding)
+- [Luckstone](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/magic-items/luckstone)
   
 <!---
-- [Khazan's Staff](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/simple-quest/lore/journalentry.jfbq9n1yiejpy2fk/journalentry.jfbq9n1yiejpy2fk.journalentrypage.0sbvuwm3ndr2ikbh)
-- [Spear of the Huntress](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/simple-quest/lore/journalentry.jfbq9n1yiejpy2fk/journalentry.jfbq9n1yiejpy2fk.journalentrypage.verg7y5lsuproz3g)
-- [Dragon blessed weapon](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/simple-quest/lore/journalentry.jfbq9n1yiejpy2fk/journalentry.jfbq9n1yiejpy2fk.journalentrypage.apdloejyk6hfwmjb)
-- [Shield of the Silver Dragon](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/simple-quest/lore/journalentry.jfbq9n1yiejpy2fk/journalentry.jfbq9n1yiejpy2fk.journalentrypage.frjetbwyantc1wgh)
-- [Driftglobe](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/simple-quest/lore/journalentry.jfbq9n1yiejpy2fk/journalentry.jfbq9n1yiejpy2fk.journalentrypage.gxhheg5r64f5urg2)
-- [Cape of the Mountebank](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/simple-quest/lore/journalentry.jfbq9n1yiejpy2fk/journalentry.jfbq9n1yiejpy2fk.journalentrypage.nxt2jmdxveohvxvw)
-
+- [Khazan's Staff](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/magic-items/khazans-staff)
+- [Spear of the Huntress](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/magic-items/spear-of-the-huntress)
+- [Dragon blessed weapon](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/magic-items/dragon-blessed-weapon)
+- [Shield of the Silver Dragon](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/magic-items/shield-of-the-silver-dragon)
+- [Driftglobe](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/magic-items/driftglobe)
+- [Cape of the Mountebank](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/magic-items/cape-of-the-mountebank)
+- [Pearl of Power]()
 --->
