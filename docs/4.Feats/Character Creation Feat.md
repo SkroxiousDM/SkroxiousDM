@@ -1,5 +1,5 @@
 # CHARACTER CREATION FEATS
-You may choose any [[General Feats](https://skroxiousdm.github.io/SkroxiousDM/docs/4.Feats/General%20Feats)], [[Origin Feats](https://skroxiousdm.github.io/SkroxiousDM/docs/4.Feats/Origin%20Feats)] or [[Class Feats](https://skroxiousdm.github.io/SkroxiousDM/docs/4.Feats/Class%20Feats)] you qualify for instead of a Character Creation Feat.
+You may choose any [[General Feats](https://skroxiousdm.github.io/SkroxiousDM/docs/4.Feats/General%20Feats)], [[Ancestry Feats](https://skroxiousdm.github.io/SkroxiousDM/docs/4.Feats/Origin%20Feats)] or [[Class Feats](https://skroxiousdm.github.io/SkroxiousDM/docs/4.Feats/Class%20Feats)] you qualify for instead of a Character Creation Feat.
 
 ## Alert
 ###### Origin Feat
