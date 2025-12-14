@@ -1,4 +1,4 @@
-# Origin Feats
+# Ancestry Feats
 
 There are certain features that you might inherit because of your origin. In many cases, you might have always had the potential for this feature but only just begun to concentrate on developing and using it reliably in recent days.
 
