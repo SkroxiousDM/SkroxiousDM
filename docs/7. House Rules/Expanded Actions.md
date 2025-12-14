@@ -89,7 +89,7 @@ You attempt to calm a hostile beast or monster. Make a Wisdom (Animal Handling) 
 You attempt to leap a great distance. Make a Strength (Athletics) check. You jump a number of feet without spending your movement, as provided in the table below:
 
 | DC | Horizontal Jump | Vertical Jump |
-| --- | --- |
+| --- | --- | --- |
 | 10 |  If you move at least 10 feet on foot immediately before the jump, you jump a number of feet equal to one-quarter of your speed, rounded down. | You jump a number of feet equal to one-eighth of your speed, rounded down. |
 | 20 | If you move at least 10 feet on foot immediately before the jump, you jump a number of feet equal to half your speed, rounded down. | You jump a number of feet equal to one-quarter of your speed, rounded down. |
 | 25 | If you move at least 10 feet on foot immediately before the jump, you jump a number of feet equal to your speed. | You jump a number of feet equal to half your speed, rounded down. |
