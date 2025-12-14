@@ -39,7 +39,7 @@ You start with the following equipment, in addition to the equipment granted by 
 - (a) a light crossbow and 20 bolts or (b) two handaxes
 - (a) a dungeoneer’s pack or (b) an explorer’s pack
 ### APPROACH
-At 1st level you also choose your approach as a leader of others. Are you a merchant master with a keen eye for prowess as well as profit? A veteran officer of the Queen’s army? An outlaw that leads others in schemes and skulduggery? Or a poet-­warrior, equally skilled with words and weapons?
+At 1st level you also choose your approach as a leader of others. Are you a veteran officer of the Queen’s army? An outlaw that leads others in schemes and skulduggery? Or a poet-­warrior, equally skilled with words and weapons?
 
 Your approach gives you benefits at 1st, 2nd, 3rd,  5th, 7th and 9th levels.
 
@@ -78,7 +78,7 @@ Beginning at 2nd level, you can spur others to act quickly. When a creature’s 
 ### ABILITY SCORE IMPROVEMENT OR FEAT
 When you reach 2nd level, and again at 4th, 5th, 6th, 7th, 8th, and 10th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
 
-Instead of improving your ability scores you can instead choose to gain a feat. See  Classes and Feats}for more about feats.
+Instead of improving your ability scores you can instead choose to gain a feat.
 
 ### EXTRA ATTACK
 Beginning at 3rd level, you can attack twice, instead of once, whenever you take the Attack action on your turn. The number of attacks increases to three when you reach 18th level in this class.
