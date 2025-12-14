@@ -93,7 +93,7 @@ Once you use this feature, you can’t use it again until you finish a short or 
 
 # Scoundrel Approaches
 
-WE COVER THE Explorer approach for those who wish to get into trouble in the wild, the Former Cultist for scoundrels with a dark history, a Guild Thief for one that follows (certain) rules, Sappers that attack the foundations of society, Spies that seek secret information on behalf of their master, Thugs that serve as the chosen enforcers of other criminals and Treasure-­hunters that are only concerned with finding more valuables.
+WE COVER THE Explorer approach for those who wish to get into trouble in the wild, the Former Cultist for scoundrels with a dark history, a Guild Thief for one that follows (certain) rules, Spies that seek secret information on behalf of their master, Thugs that serve as the chosen enforcers of other criminals and Treasure-­hunters that are only concerned with finding more valuables.
 
 ## Explorer
 
