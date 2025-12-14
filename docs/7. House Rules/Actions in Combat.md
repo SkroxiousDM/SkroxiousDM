@@ -64,10 +64,14 @@ If your player characters regularly fight hordes of lower-level monsters, consid
 When a melee attack reduces an undamaged creature to 0 hit points, any excess damage from that attack might carry over to another creature nearby. The attacker targets another creature within reach and, if the original attack roll can hit it, applies any remaining damage to it. If that creature was undamaged and is likewise reduced to 0 hit points, repeat this process, carrying over the remaining damage until there are no valid targets, or until the damage carried over fails to reduce an undamaged creature to 0 hit points.
 
 ## Unarmed Strike
-An Unarmed Strike is a Melee Attack that involves you using your body to damage, grapple, or shove a target within 5 feet of you. Whenever you use your Unarmed Strike, choose one of the following options for its effect:  
-        □ Damage. You make an attack roll against the target. Your bonus to hit equals your Strength modifier. On a hit, the target takes Bludgeoning damage equal to 1 + your Strength modifier.  
-        □ Grapple. The target must succeed on a Strength or Dexteritysaving throw (it chooses which), or it has the Grappled condition. The DC for the saving throw and any escape attempts equals 8 + your Strength modifier. This grapple is possible only if the target is no more than one size larger than you and if you have a hand free to grab it.  
-        □ Shove. The target must succeed on a Strength or Dexterity saving throw (it chooses which), or you either push the target 5 feet away or cause it to have the Prone condition. The DC for the saving throw equals 8 + your Strength modifier. This shove is possible only if the target is no more than one size larger than you
+Instead of using a weapon to make a melee attack, you can use a punch, kick, headbutt, or similar forceful blow. In game terms, this is an Unarmed Strike—a melee attack that involves you using your body to damage, grapple, or shove a target within 5 feet of you.
+
+Whenever you use your Unarmed Strike, choose one of the following options for its effect.
+- **Damage**. You make an attack roll against the target. Your bonus to the roll equals your Strength modifier plus your Proficiency Bonus. On a hit, the target takes Bludgeoning damage equal to 1 plus your Strength modifier.
+- **Grapple**. The target must succeed on a Strength or Dexterity saving throw (it chooses which), or it has the Grappled condition. The DC for the saving throw and any escape attempts equals 8 plus your Strength modifier and Proficiency Bonus. This grapple is possible only if the target is no more than one size larger than you and if you have a hand free to grab it.
+- **Shove**. The target must succeed on a Strength or Dexterity saving throw (it chooses which), or you either push it 5 feet away or cause it to have the Prone condition. The DC for the saving throw equals 8 plus your Strength modifier and Proficiency Bonus. This shove is possible only if the target is no more than one size larger than you.
+
+See also “Grappling.”
 
 ## Escaping a Grapple
 Instead of your whole action (Player's Handbook, pg. 195), you may use any of your attacks to attempt an escape from grapple. To attempt an Escape, make a Strength or Dexterity saving throw DC 8 plus the strength modifier of the creature grappling you. If you succeed, you lose the Grappled condition. If your roll a natural 1 or your result is an exceptional failure, you fail and can't attempt any more Escape attempts until your next turn.
