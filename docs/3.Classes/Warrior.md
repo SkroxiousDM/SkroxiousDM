@@ -93,7 +93,7 @@ You are considered trained in mounted combat. You can also force a single attack
 
 ### APPROACH
 
-At 1st level you also choose your approach to the profession of fighting. Are you a Berserker, dangerous to friends and foes alike? A studied Duelist used to combat against a single opponent? A Knight who has pledged their very life to the protection of the kingdom? A Rune Smith using custom weapons? A faithful Templar? Or one of the dangerous Wraithguard?
+At 1st level you also choose your approach to the profession of fighting. Are you a Berserker, dangerous to friends and foes alike? A studied Duelist used to combat against a single opponent? A Knight who has pledged their very life to the protection of the kingdom? A Tattoed Warrior using the power of runes? A faithful Templar? Or one of the dangerous Wraithguard?
 
 Your approach gives you benefits at 1st, 2nd, 3rd, 5th, 7th and 9th levels.
 
@@ -227,41 +227,6 @@ At 7th level you become an expert with armor, being able to position it for maxi
 ### Peerless Effort
 
 By 9th level, you have advantage on all melee weapon ­attack rolls.
-
-## Rune Smith
-
-Among the dwarves there are warriors who have sworn a holy oath to only fight with weapons of their own making, dressed in armor crafted by their own massive hands. These Rune Smiths count among the most skilled craftsmen of the Underworld and are fierce warriors. It seems ogres are also drawn to the fire of creation, just as elves appreciate the art of the forge, the hammer often held by abducted humans.
-
-In Ambria, there are strong blacksmith traditions but even if blacksmiths are often seen wielding their own weapons, most of them lack the dedication the dwarves show on the battlefield. However, lately the old secrets have begun spreading to Ambria, lifting its blacksmiths to new heights.
-
-### Blacksmith
-
-All peoples in Ambria and Davokar have their blacksmiths, which says something about their importance. Master smiths are revered in all cultures, but especially among Ambrians and dwarves.
-
-You become proficient with smith’s tools if you are not already. This ability may be used when you have downtime (see {Downtime}) to produce metal implements. The base time requirement is 1 day per 5 thaler of market value, rounding up, and the material cost is half the market value. You can make a DC 15 Strength (Smith’s Tools) check with the following effects:
-
-- If you succeed by 5 or more, you can both halve the material cost and the total amount of time required.
-- With a regular success you can either halve the material cost or the total amount of time required but not both.
-- With a regular failure there is no change.
-- With a failure by 5 or more, either the time required is doubled or the material cost is increased by half (to 75% of the market value).
-
-### Two-­handed Force
-
-At 2nd level, if you are wielding a heavy or massive melee weapon and miss an attack roll, you can use your reaction to reroll that attack.
-
-At 5th level when you wield a heavy or massive melee weapon you score a critical hit on a roll of 19 or 20 on the die.
-
-### Hammer Rhythm
-
-As a weapon, the hammer is ancient and its brutal simplicity may in the right hands pound forth a deadly rhythm echoing over the battlefield. You are one of those who, through training and experience, can utilize the force of the hammer, whether in its single-­handed or heavy version.
-
-At 3rd level you can crush the enemy’s shield with the hammer. After a failed attack roll where the opponent defends with a shield, you may use your bonus action to roll a Strength check against the target’s Armor Class. If successful, a wooden shield shatters to splinters while a metal shield is torn from the opponent’s arm and dropped. The shield carrier also suffers 1d6 bludgeoning damage from the heavy blow.
-
-At 7th level you can use your hammer to shove your opponent. After a failed attack roll, you can use your reaction to grip the hammer with both hands and use it to ram the enemy. Make an opposed Strength check with the target. On a success, you can either move the target 5 feet or make them prone. On a failure you and the target remain where you are.
-
-### Iron Fist
-
-At 9th level, you are trained to use your strength for maximum effect on a target in melee combat. You have advantage on all strength based attack rolls. You may use your reaction to add your proficiency bonus to a melee damage roll.
 
 ## Tattooed Fighter
 
