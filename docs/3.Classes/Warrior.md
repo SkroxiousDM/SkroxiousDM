@@ -125,7 +125,7 @@ At 10th level you can shrug off effects that would incapacitate lesser warriors.
 
 # Warrior Approaches
 
-THOSE WHO FIGHT have a variety of techniques from the wild attacks of Berserkers to the controlled grace of the Duelist, the protective arts of the Knight or the Rune Smith, the strange techniques of the Tattooed Fighter, the faith of the Templar and the unwavering resilience of the Wrathguard.
+THOSE WHO FIGHT have a variety of techniques from the wild attacks of Berserkers to the controlled grace of the Duelist, the protective arts of the Knight, the strange techniques of the Tattooed Fighter, the faith of the Templar and the unwavering resilience of the Wrathguard.
 
 ## Berserker
 
