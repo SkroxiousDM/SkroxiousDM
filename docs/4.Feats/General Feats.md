@@ -222,3 +222,9 @@ Through regular practice in wrestling, boxing, or engaging in some other form of
 # Mounted Charger
 
 Your training with a lance while mounted has given you mastery of the weapon, making you deadly against foes while charging. If your mount first moves more than 20ft directly toward an enemy and you hit with a lance, the weapon does 2d12 + STR damage instead of 1d12. If your mount first moves more than 10ft you can ride down opponents who are one size category smaller than your mount or smaller. When entering an enemy space, the mount's speed is reduced by half. Any enemy caught in the path can make a Strength (Athletics) or Dexterity (Acrobatics) check vs. the mount's Strength (Athletics). The mount rolls with advantage. If the mount wins, the enemy is shoved up to 10 feet, takes 1d6 bludgeoning damage, and is knocked prone. The mount can ride down up to three creatures this way.
+
+# Martial Adept
+You have martial training that allows you to perform special combat maneuvers. You gain the following benefits:
+
+- You learn two maneuvers of your choice from among those available to the Battle Master archetype in the fighter class. If a maneuver you use requires your target to make a saving throw to resist the maneuver’s effects, the saving throw DC equals 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice).
+- You gain one superiority die, which is a d6 (this die is added to any superiority dice you have from another source). This die is used to fuel your maneuvers. A superiority die is expended when you use it. You regain your expended superiority dice when you finish a short or long rest
