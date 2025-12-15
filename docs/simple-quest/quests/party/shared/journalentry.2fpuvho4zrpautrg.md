@@ -358,35 +358,57 @@ harvested 3 doses of poison and a Fang for Vix<br>
 - Told of Kiril's usurpation of Emil
 - Discovered by Bianca but convinced her not to do anything.
 
-### Session 33 *2025-04-07*
-- broke the chains of Ilya and Zuleika and freed them from their cages.
-- Zuleika had you swear an oath to the Night Mother to rescue Emil before the first light of the new moon. in exchange she would allow you to take the **Symbol of Holy Ravenkind**.
-- travel to Krezk reunite Ilya with his family
-- long rest at Krezkov's residence
+##Session 33 *2025-04-07*
+broke the chains of Ilya and Zuleika and freed them from their cages.
+Zuleika had you swear an oath to the Night Mother to rescue Emil before the first light of the new moon. in exchange she would allow you to take the Symbol of Holy Ravenkind.
+travel to Krezk reunite Ilya with his family
+###### long rest at Krezkov’s residence
 ## 14th day of Neyavr, 735 BC
+After receiving an invitation to dine with Strahd on Neyavr 14—the last night before the new moon—you journey east to Castle Ravenloft. Along the way, you:
 - travel to Vallaki have some fancy clothes tailored.
-- Arrigal bumped into Dorian and slipped a note into his pocket about a traitor in strahds court
-- met Doru and Father Donavich at the east gate
-- ghostly rider led you off the path to an ancient oak tree. found a letter addresed to Varushka from Katarina and half a locket guarded by ravens.
-- rode in Strahds carriage from the crossroads to the castle. Strahd left a gift of a puzzle chest.
+- Arrigal bumped into Dorian and slipped a note into his pocket that directs you to locate a traitor in Strahd's court. </br>
+- At the east gate, met Father Donavich and the vampire spawn Doru, who have journeyed to Vallaki to seek Doru's betrothed, Gertruda.
+- a skeletal rider led you off the path to an ancient oak tree. found a letter addresed to Varushka from Katarina and half a locket guarded by ravens.
+- Upon reaching the castle crossroads, you are met by Strahd's black carriage, which carries gifts and escorts you to the keep.
 
-  ### Session 34 *2025-04-14*
-- arrived at castle Ravenloft. met by Anastraya and Rahadin
-- volenta almost killed her "toy"
-- ate supper with Strahd while he questioned you. and then gave a tour of the castle.
-- Vix slipped aweay and met with Sasha
-- ligtning struck the drawbridge mechanism. it will be repaired by dawn.
-- strahd offerd a room for the night. promised saftey within it.
+### Session 34 *2025-04-14*
+At the castle, you are met by Rahadin and Strahd's third favored bride, Anastrasya Karelova, as well as Strahd's additional vampiric consorts: Escher (Strahd's most recent consort) and Sasha Ivliskova (Strahd's eldest bride, and the traitor Arrigal referred to).
+
+As you partake in the festivities, you investigate Sasha's true loyalties while avoiding conflicts with Strahd's other brides. After dining with Strahd himself, you have an opportunity to interrogate Sasha regarding the castle's secrets—and learn that Strahd will be away from Castle Ravenloft the very next night.
+
+Following a tour of the castle and a test of your capacity for violence, a freak lightning strike disables the castle drawbridge, forcing you all to stay in Castle Ravenloft overnight in the middle of a powerful storm.
 
 ### Session 35 *2025-04-29*
-- Escher led you to your rooms. Rahadin locked you in and left Escher to guard the door
-- Vix discovered an empty secret compartment in the broken clock. Dorian discovered a Trapdoor in the closet roof.
-- Explored the chambers above. Vix Fireballed a room
-- Explored the roof. Ludmilla Told you to return to your chambers.
-- Went to sleep. immediately woke up the lock om the door is now golden and the clock now works.
-- the clock struck 10 and everyone felt their necks bitten.
-- discovered a corpse hanging in the closet. used Speak with Dead.
-- her name was Varushka
-- 
-- 
-- 
+Escher led you to your rooms. Rahadin locked you in and left Escher to guard the door
+Vix discovered an empty secret compartment in the broken clock. Dorian discovered a Trapdoor in the closet roof.
+Explored the chambers above. Vix Fireballed a room
+Explored the roof. Ludmilla Told you to return to your chambers.
+Went to sleep. immediately woke up the lock om the door is now golden and the clock now works.
+the clock struck 10 and everyone felt their necks bitten.
+discovered a corpse hanging in the closet. used Speak with Dead.
+her name was Varushka
+
+### Session 36 *2025-05-12*
+After ascending to your room, however, the ghost of Varushka, a former servant of Castle Ravenloft, spirits you away to a multi-layered nightmare, forcing you to confront Castle Ravenloft's bloody past—or never wake again . . . 
+
+### Session 37 *2025-10-20*
+defeated Varushka
+###### Long Rest at Castle Ravenloft
+## 15th day of Neyavr, 735 BC
+about to depart the castle aboard the black coach
+
+### Session 38 *2025-11-24*
+traveled to Vallaki
+talked to Van Richten and Doru about the layout of Castle Ravenloft.
+bought climbing supplies and organised Order of the Feather transport into Ravenloft at Dusk
+
+### Session 39 *2025-12-01*
+fought some wights on the castle walls.
+snuck through servants entrance and made way up the North Tower to 3rd floor. Found Gertruda
+
+### Session 40 *2025-12-08*
+fought and killed Anastraya Karelova
+made way down to basement.
+retrieved Skull of Argenvost.
+found letter in Rahadin's office 
+discovered secret door leading down. 
