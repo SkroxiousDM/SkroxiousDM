@@ -14,6 +14,8 @@
 - [Silver Tablet](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.bxzjoi9ypv07blbs/journalentry.bxzjoi9ypv07blbs.journalentrypage.byrmrsrddxhveb1i)
 - [St. Andral's Letter](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.bxzjoi9ypv07blbs/journalentry.bxzjoi9ypv07blbs.journalentrypage.tthvar5m84b6djrm)
 - [Oaktree Letter](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.bxzjoi9ypv07blbs/journalentry.bxzjoi9ypv07blbs.journalentrypage.6zer7cctpsaqargw)
+- [Rahadin's Letter](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.bxzjoi9ypv07blbs/journalentry.bxzjoi9Ypv07blbs.journalentrypage.6g71aqirtfb4s1dp)
+
 
 <!---
 - [Tome of Strahd](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.bxzjoi9ypv07blbs/journalentry.bxzjoi9ypv07blbs.journalentrypage.cf4frawmjd8dlf04)
