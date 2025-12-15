@@ -98,7 +98,7 @@ We arrived at the walls of Vallaki soon after to the most terrible sight. My peo
 As we found the Blue Water Inn, it took everything I had not to break down in front of everyone. After paying for the rooms I took my leave and let the sorrow consume me.  Through the tears and my despair at having to hold so much grief, I realized that this is my path, there is no hiding from it. Not while Strahd curses this land and its people. I will do what must be done and one way or another, when the time comes I will remember all those we have lost and all that we endured, and I will grieve. But that time is not yet. 
 
 I was relieved to return downstairs. Losing myself in healing my friends and listening to that odd man Rictavio’s stories.  Those Wachter boys seemed to despise the Baron. Time will tell if they can be trusted, but time is not on my side.
-###### Long Rest at BWI
+###### Long Rest at The Blue Water Inn
 ## 3rd day of Neyavr, 735 BC
 ### Session 9 *2024-01-29*
 How could they just stand there and watch that poor woman get dragged away for what… Malicious Unhappiness? Perhaps these men are not who I thought they were. I should have walked straight up to the Baron instead of pleading with my companions to do something and when I finally realized they wouldn’t help I was too late, the Baron was on the move. Izek, what a terrible monster of a man and yet something seems almost familiar. Who is he and why will he not cease staring at me?
@@ -120,7 +120,7 @@ Thank the Morninglord his dog Strazni wasn’t there while we met. I can’t sta
 I left them to seek out the bones after Milivoj confessed to stealing them for the coffin maker Henrik, but perhaps I should have stayed to support them. When I returned from visiting my friends outside, some were closer to death than living. Wounds sustained from an encounter with Volenta. It would seem the terrible stories I’ve heard of her are true. Of all Strahd’s brides, she is the perhaps the least I would wish to encounter.
 
 They survived though, and the bones have been returned. St. Andrals is safe from the undead once again. I wish I could have helped heal Radmil, Virgil and Vix more when I returned but I was so tired.  The people of Barovia are wasting away beyond the gates, it is a miracle that they are even still alive. Wolves and Werewolves encircle them each night and their minds are snared with dream pastries each day.  They won’t survive much longer. 
-###### Extended Rest - from Noon - The Blue Water Inn
+###### Extended Rest from Noon at The Blue Water Inn
 ## 4th day of Neyavr, 735 BC
 ### Session 11 *2024-03-04*
 recieved an invitation to dine at Wachterhouse
@@ -135,7 +135,7 @@ met Victor Vallakovich, his Spellbook has the same symbol as the ring
  
 ### Session 13 *2024-03-25*
 dinner with lady wachter
-###### Long Rest at BWI
+###### Long Rest at The Blue Water Inn
 ## 5th day of Neyavr, 735 BC
 ### Session 14 *2024-04-01*
 Ernst Larnak delivers the poisoned wine to you
@@ -146,7 +146,7 @@ travel back to Vallaki
 planted the wine
 trailed Izek to the shore of lake Zarovich and waited for him to drink the poisoned wine
 defeated Izek
-###### Long Rest at BWI
+###### Long Rest at The Blue Water Inn
 ## 6th day of Neyavr, 735 BC
 ### Session 16
 baron Vargas Abdicates
@@ -157,7 +157,7 @@ hear Arabelles Prophecy
 Rahadin delivered the Invitation<br>
 spoke in defense of Henrik and Milivoj at ther Trial<br>
 Vallaki, received their reward from lady wachter. then saw Victor to tell him about the tower. Had them start Lost Soul. Visit the refugee camp and meet Franz. 
-###### Long rested at the BWI
+###### Long rested at The Blue Water Inn
 ## 7th day of Neyavr, 735 BC
  headed to Krezk first thing in the morning. Received healing from the Abbott. Picked wolfsbane flowers. Brought the flowers to RVR asked him about Nighthags. We finished the session with the team in Victor's workshop.
 ### Session 18 *2024-07-08*
@@ -173,7 +173,7 @@ performed the ritual at wachterhouse<br>
 defeated the Spirit of Leo Dilisnya<br>
 returned Stella Wachter's Spirit to her body<br>
 ## 9th day of Neyavr, 735 BC
-###### Extended Rest from 1 AM - The Blue Water Inn
+###### Extended Rest from 1 AM at The Blue Water Inn
 ## 10th day of Neyavr, 735 BC
 ### Session 22 *2024-11-04*
 Urwin Martikov asked us to get Investigate a shortage of wine deliveries from the Wizard of Wines
@@ -190,7 +190,7 @@ Destroyed Wintersplinter and Svarog. Ludmilla Escaped
 Whispering Wall<br>
 returned to Kazan<br>
 returned to Wizard of Wines with the Gem<br>
-###### Extended Rest from 9 AM - The Wizard Of Wines Winery
+###### Extended Rest from 9 AM at The Wizard Of Wines Winery
 ## 12th day of Neyavr, 735 BC
 traveled to Krezk with the Wine<br>
 got the the Abbey<br>
@@ -203,7 +203,7 @@ met Ezmerelda and conduct the Seance<br>
 ### Session 28 *2025-02-03*
 spent the evening with Krezkov Family<br>
 learned that they are a werewolf family<br>
-###### long rest 
+###### Long Rest at the Krezkov's
 ## 13th day of Neyavr, 735 BC
 
 ### Session 29 *2025-02-10*
@@ -238,7 +238,7 @@ infiltrated den
 met Zuleika Torrenescu
 rescued Illya Krezkov
 returned to Krezk
-###### long rest
+###### Long Rest at the Krezkov's
 ## 14th day of Neyavr, 735 BC
 
 ### Session 33 *2025-04-14*
@@ -262,7 +262,7 @@ After ascending to your room, however, the ghost of Varushka, a former servant o
 
 ### Session 36 *2025-10-20
 defeated Varushka
-Long Rest
+###### Long Rest at Castle Ravenloft
 ## 15th day of Neyavr, 735 BC
 about to depart the castle aboard the black coach
 
