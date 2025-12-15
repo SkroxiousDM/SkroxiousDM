@@ -257,10 +257,10 @@ As you partake in the festivities, you investigate Sasha's true loyalties while 
 
 Following a tour of the castle and a test of your capacity for violence, a freak lightning strike disables the castle drawbridge, forcing you all to stay in Castle Ravenloft overnight in the middle of a powerful storm.
 
-### Session 35 *2025-05-12
+### Session 35 *2025-05-12*
 After ascending to your room, however, the ghost of Varushka, a former servant of Castle Ravenloft, spirits you away to a multi-layered nightmare, forcing you to confront Castle Ravenloft's bloody past—or never wake again . . . 
 
-### Session 36 *2025-10-20
+### Session 36 *2025-10-20*
 defeated Varushka
 ###### Long Rest at Castle Ravenloft
 ## 15th day of Neyavr, 735 BC
