@@ -224,22 +224,69 @@ Brother Marek advises them: “Seek out the younger of the twin dragons above. R
 moved to roof. engaged Phantom warriors<br>
 Ez and Vix moved the Bar on the door<br>
 finished round 3 Phantom Warrior 1 turn to begin next session<br>
+### Session 31 *2025-02-25*
+finished off the phantom warriors moved to tower top.
+Met Vladimir Horngaard and convinced him you weren’t a threat
+lit the brazier but realised you needed to look for the oath
+explored Argynvost’s study discovered his journal entry
+Vix used detect magic to find a hidden stone shelf containing a parchment scroll, a silver bracelet, a small block of white stone, a silver tablet, and a banner. In addition, the silver hilt of a rapier is nestled against a small hole in the mortar at the back of the compartment, though the blade appears to be concealed within the wall.
+read the oath to the brazier and was given a riddle:
+“When the dragon dreams its dream
+Within its rightful tomb,
+The light of Argynvost will beam
+And rid this land of gloom.”
 
-### Session 31 *2025-??-??*
-Met Vladimir Hornegaard
+Traveled to Ezmerelda’s wagon by Khazan’s Tower on the shore of Lake Baratok.
+Ez discoverd the wagon had been burgled
+discovered the “burgler” a short distance away singing with the stolen lyre.
+Her name is Bianca. She is an herbalist who lives in the woods nearby with her husband, Kiril.
+She took the lyre and perfume because they reminded her of memories she had from long ago—”from before I met my husband.” She took the scrolls because she has always been fascinated by books, but was disappointed when she proved unable to decipher them. -The song she was singing is titled “The Lunatic’s Lament,” and is about a woman who falls in love with the moon and chases it off a cliff, ultimately falling to her death. After pausing for a moment, she adds, softly: “Have you ever fallen in love with someone, and wondered if you made a mistake?”
+Thirteen years ago, Bianca was the daughter of a wealthy family. She forfeited her inheritance, however, when she fell in love with a brawny and strapping young logger named Kiril Stoyanovich. Against her parents’ wishes, she fled from her comfortable life to live with him in a cottage in the nearby woods.
+While “the vampire” slept, the wilds were more peaceful—but ever since Strahd awoke, Kiril has been “haunted—not by any ghost, but by his own rage.”
+“Every week, that . . . rage seems to devour ever-more of him,” she adds quietly. “I don’t know how much of the man I married is still left inside.”
+asks what you would do in her position. While she isn’t willing to leave Kiril behind, she appreciates any advice you might lend.
 
-traveled to Khazan's Tower
-met Bianca
+## Session 32 *2025-03-17*
+Traveled to the north shore of Lake Baratok
+Told Stories by the campfire wile waiting for nightfall
+the pack left the Den an hour after nightfall.
+Vix distracted the entrance guards with Unseen Servant and Radmil’s everburning torch.
+Explored the cavern, befriended old starving Wolf [Skennis]
+snuck past sleeping wolves to Shrine of Mother Night
+Found Ilya and Zuleika Caged and Collared.
+Told of Kiril’s usurpation of Emil
+Discovered by Bianca but convinced her not to do anything.
 
-### Session 32 *2025-??-??*
-traveled to werewolf den
-stakeout
-infiltrated den
-met Zuleika Torrenescu
-rescued Illya Krezkov
-returned to Krezk
-###### Long Rest at the Krezkov's
-## 14th day of Neyavr, 735 BC
+##Session 33 *2025-04-07*
+broke the chains of Ilya and Zuleika and freed them from their cages.
+Zuleika had you swear an oath to the Night Mother to rescue Emil before the first light of the new moon. in exchange she would allow you to take the Symbol of Holy Ravenkind.
+travel to Krezk reunite Ilya with his family
+###### long rest at Krezkov’s residence
+##14th day of Neyavr, 735 BC
+travel to Vallaki have some fancy clothes tailored.
+Arrigal bumped into Dorian and slipped a note into his pocket about a traitor in strahds court
+met Doru and Father Donavich at the east gate
+ghostly rider led you off the path to an ancient oak tree. found a letter addresed to Varushka from Katarina and half a locket guarded by ravens.
+rode in Strahds carriage from the crossroads to the castle. Strahd left a gift of a puzzle chest.
+
+### Session 34 *2025-04-14*
+arrived at castle Ravenloft. met by Anastraya and Rahadin
+volenta almost killed her “toy”
+ate supper with Strahd while he questioned you. and then gave a tour of the castle.
+Vix slipped aweay and met with Sasha
+ligtning struck the drawbridge mechanism. it will be repaired by dawn.
+strahd offerd a room for the night. promised saftey within it.
+
+### Session 35 *2025-04-29*
+Escher led you to your rooms. Rahadin locked you in and left Escher to guard the door
+Vix discovered an empty secret compartment in the broken clock. Dorian discovered a Trapdoor in the closet roof.
+Explored the chambers above. Vix Fireballed a room
+Explored the roof. Ludmilla Told you to return to your chambers.
+Went to sleep. immediately woke up the lock om the door is now golden and the clock now works.
+the clock struck 10 and everyone felt their necks bitten.
+discovered a corpse hanging in the closet. used Speak with Dead.
+her name was Varushka
+
 
 ### Session 33 *2025-04-14*
 traveled to Vallaki 
