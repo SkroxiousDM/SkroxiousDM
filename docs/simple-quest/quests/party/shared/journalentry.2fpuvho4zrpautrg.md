@@ -358,15 +358,15 @@ harvested 3 doses of poison and a Fang for Vix<br>
 - Told of Kiril's usurpation of Emil
 - Discovered by Bianca but convinced her not to do anything.
 
-##Session 33 *2025-04-07*
-broke the chains of Ilya and Zuleika and freed them from their cages.
-Zuleika had you swear an oath to the Night Mother to rescue Emil before the first light of the new moon. in exchange she would allow you to take the Symbol of Holy Ravenkind.
-travel to Krezk reunite Ilya with his family
+## Session 33 *2025-04-07*
+- broke the chains of Ilya and Zuleika and freed them from their cages.
+- Zuleika had you swear an oath to the Night Mother to rescue Emil before the first light of the new moon. in exchange she would allow you to take the Symbol of Holy Ravenkind.
+- travel to Krezk reunite Ilya with his family
 ###### long rest at Krezkov’s residence
 ## 14th day of Neyavr, 735 BC
 After receiving an invitation to dine with Strahd on Neyavr 14—the last night before the new moon—you journey east to Castle Ravenloft. Along the way, you:
 - travel to Vallaki have some fancy clothes tailored.
-- Arrigal bumped into Dorian and slipped a note into his pocket that directs you to locate a traitor in Strahd's court. </br>
+- Arrigal bumped into Dorian and slipped a note into his pocket that directs you to locate a traitor in Strahd's court.
 - At the east gate, met Father Donavich and the vampire spawn Doru, who have journeyed to Vallaki to seek Doru's betrothed, Gertruda.
 - a skeletal rider led you off the path to an ancient oak tree. found a letter addresed to Varushka from Katarina and half a locket guarded by ravens.
 - Upon reaching the castle crossroads, you are met by Strahd's black carriage, which carries gifts and escorts you to the keep.
@@ -374,9 +374,10 @@ After receiving an invitation to dine with Strahd on Neyavr 14—the last night 
 ### Session 34 *2025-04-14*
 At the castle, you are met by Rahadin and Strahd's third favored bride, Anastrasya Karelova, as well as Strahd's additional vampiric consorts: Escher (Strahd's most recent consort) and Sasha Ivliskova (Strahd's eldest bride, and the traitor Arrigal referred to).
 
-As you partake in the festivities, you investigate Sasha's true loyalties while avoiding conflicts with Strahd's other brides. After dining with Strahd himself, you have an opportunity to interrogate Sasha regarding the castle's secrets—and learn that Strahd will be away from Castle Ravenloft the very next night.
+As you partook in the festivities, you investigated Sasha's true loyalties whilst avoiding conflicts with Strahd's other brides. Volenta almost killed her "Toy".
+- After dining with Strahd himself, Vix had an opportunity to interrogate Sasha regarding the castle's secrets—and learned that Strahd will be away from Castle Ravenloft the very next night.
 
-Following a tour of the castle and a test of your capacity for violence, a freak lightning strike disables the castle drawbridge, forcing you all to stay in Castle Ravenloft overnight in the middle of a powerful storm.
+Following a tour of the castle and a test of your capacity for violence, a freak lightning strike disabled the castle drawbridge, forcing you all to stay in Castle Ravenloft overnight in the middle of a powerful storm.
 
 ### Session 35 *2025-04-29*
 Escher led you to your rooms. Rahadin locked you in and left Escher to guard the door
