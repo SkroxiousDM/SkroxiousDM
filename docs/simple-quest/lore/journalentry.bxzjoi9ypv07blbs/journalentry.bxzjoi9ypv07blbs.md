@@ -20,7 +20,8 @@ tags:
 - [[journalentry.bxzjoi9ypv07blbs.journalentrypage.4olshqtj8v6umntc|Burned RvR Journal pages]]
 - [[journalentry.bxzjoi9ypv07blbs.journalentrypage.cf4frawmjd8dlf04|Tome of Strahd]]
 - [[journalentry.bxzjoi9ypv07blbs.journalentrypage.pfzoommshj8vhavb|The Oath Celestial]]
-- [[journalentry.bxzjoi9ypv07blbs.journalentrypage.kh0hotynuvdzcqkt|Argynvost's Journal]]
+- [[journalentry.bxzjoi9ypv07blbs.journalentrypage.kh0hotynuvdzcqkt|Argynvost's Journal]]4557
 - [[journalentry.bxzjoi9ypv07blbs.journalentrypage.byrmrsrddxhveb1i|Silver Tablet]]
 - [[journalentry.bxzjoi9ypv07blbs.journalentrypage.tthvar5m84b6djrm|St. Andral's Letter]]
 - [[journalentry.bxzjoi9ypv07blbs.journalentrypage.6zer7cctpsaqargw|Oaktree Letter]]
+- [[journalentry.bxzjoi9Ypv07blbs.journalentrypage.6g71aqirtfb4s1dp|Rahadin's Letter]]
