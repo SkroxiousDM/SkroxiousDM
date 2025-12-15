@@ -9,6 +9,6 @@ tags:
 
 # Arc M - The Dragon's Manor
 
-- Retrieve Argynvost's Skull from Castle Ravenloft
+- ~~Retrieve Argynvost's Skull from Castle Ravenloft~~
 
 - Light the Beacon
