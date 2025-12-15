@@ -399,17 +399,21 @@ defeated Varushka
 about to depart the castle aboard the black coach
 
 ### Session 38 *2025-11-24*
-traveled to Vallaki
-talked to Van Richten and Doru about the layout of Castle Ravenloft.
-bought climbing supplies and organised Order of the Feather transport into Ravenloft at Dusk
+- traveled to Vallaki
+- talked to Van Richten and Doru about the layout of Castle Ravenloft.
+- bought climbing supplies and organised Order of the Feather transport into Ravenloft at Dusk
+- traveled to castle Ravenloft and waited for Strahd to depart for the night.
+- made entry to castle over Northwest wall.
 
 ### Session 39 *2025-12-01*
-fought some wights on the castle walls.
-snuck through servants entrance and made way up the North Tower to 3rd floor. Found Gertruda
+- fought some wights on the castle walls.
+- snuck through servants entrance and made way up the North Tower to 3rd floor. 
+- Found Gertruda
 
 ### Session 40 *2025-12-08*
-fought and killed Anastraya Karelova
-made way down to basement.
-retrieved Skull of Argenvost.
-found letter in Rahadin's office 
-discovered secret door leading down. 
+- Fought and killed Anastraya Karelova
+- Joined by new companion Soren Valmont
+- made way down to basement.
+- retrieved Skull of Argenvost.
+- found letter in Rahadin's office 
+- discovered secret door leading down. 
