@@ -217,3 +217,60 @@ Brother Marek advises them: “Seek out the younger of the twin dragons above. R
 moved to roof. engaged Phantom warriors<br>
 Ez and Vix moved the Bar on the door<br>
 finished round 3 Phantom Warrior 1 turn to begin next session<br>
+
+### Session 31
+Met Vladimir Hornegaard
+
+traveled to Khazan's Tower
+met Bianca
+
+### Session 32
+traveled to werewolf den
+stakeout
+infiltrated den
+met Zuleika Torrenescu
+rescued Illya Krezkov
+returned to Krezk
+long rest
+## 14th day of Neyavr, 735 BC
+
+### Session 33
+traveled to Vallaki 
+ After receiving an invitation to dine with Strahd on Neyavr 14—the last night before the new moon—you journey east to Castle Ravenloft. Along the way, you re-encounter:
+ Arrigal, who directs you to locate a traitor in Strahd's court; 
+Father Donavich and the vampire spawn Doru, who have journeyed to Vallaki to seek Doru's betrothed, Gertruda; 
+and the skeletal rider, which leads you to a mysterious locket hidden away in the Svalich Woods.
+
+Upon reaching the castle crossroads, you are met by Strahd's black carriage, which carries gifts and escorts you to the keep.  
+
+### Session 34
+At the castle, you are met by Rahadin and Strahd's third favored bride, Anastrasya Karelova, as well as Strahd's additional vampiric consorts: Escher (Strahd's most recent consort) and Sasha Ivliskova (Strahd's eldest bride, and the traitor Arrigal referred to).
+
+As you partake in the festivities, you investigate Sasha's true loyalties while avoiding conflicts with Strahd's other brides. After dining with Strahd himself, you have an opportunity to interrogate Sasha regarding the castle's secrets—and learn that Strahd will be away from Castle Ravenloft the very next night.
+
+Following a tour of the castle and a test of your capacity for violence, a freak lightning strike disables the castle drawbridge, forcing you all to stay in Castle Ravenloft overnight in the middle of a powerful storm.
+
+### Session 35 *2025-05-
+After ascending to your room, however, the ghost of Varushka, a former servant of Castle Ravenloft, spirits you away to a multi-layered nightmare, forcing you to confront Castle Ravenloft's bloody past—or never wake again . . . 
+
+### Session 36 *2025-10-20
+defeated Varushka
+Long Rest
+## 15th day of Neyavr, 735 BC
+about to depart the castle aboard the black coach
+
+### Session 37 *2025-11-24*
+traveled to Vallaki
+talked to Van Richten and Doru about the layout of Castle Ravenloft.
+bought climbing supplies and organised Order of the Feather transport into Ravenloft at Dusk
+
+### Session 38 *2025-12-01*
+fought some wights on the castle walls.
+snuck through servants entrance and made way up the North Tower to 3rd floor. Found Gertruda
+
+### Session 39 *2025-12-08*
+fought and killed Anastraya Karelova
+made way down to basement.
+retrieved Skull of Argenvost.
+found letter in Rahadin's office 
+discovered secret door leading down. 
