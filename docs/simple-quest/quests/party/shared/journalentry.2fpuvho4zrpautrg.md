@@ -197,7 +197,7 @@ dinner with lady wachter
 - rested at the BWI
 ## 6th day of Neyavr, 735 BC
 
-### Session 16
+### Session 16 *2024-04-15*
 - baron Vargas Abdicates
 - confront Rictavio
 - Agree to hide Arabelle in the Church
@@ -225,7 +225,7 @@ dinner with lady wachter
 - Virgil, Vix, and Dorian distracted the hags, while Bogokom & Majesto looked for the contract, and Radmil rescued the children.
 - the hags attcked the distraction crew, Majesto flew the contract to Lady wachter who set about enabling the constructed warding circle
 
-### Session 19
+### Session 19 *2024-08-05*
 
 defeated the Hags and returned to Vallaki<br>
 
@@ -233,11 +233,11 @@ defeated the Hags and returned to Vallaki<br>
 
 ## 8th day of Neyavr, 735 BC
 
-### Session 20
+### Session 20  *2024-09-02*
 
 performed the ritual at wachterhouse<br>
 
-### Session 21
+### Session 21 *2024-10-07*
 
 defeated the Spirit of Leo Dilisnya<br>
 
