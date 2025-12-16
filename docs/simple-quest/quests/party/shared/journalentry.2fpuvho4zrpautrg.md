@@ -424,14 +424,14 @@ The group prepared for their descent, discussing their inventory and light sourc
 Descending an ancient staircase choked with dust and cobwebs, they encountered a shadow that fled just beyond the reach of their light. Upon entering a spacious chamber, they found a stone brazier with a cold, white flame and seven colored crystal spheres embedded around its rim. Above it hung a large hourglass with sand stuck in the upper bulb. Glowing script on the hourglass instructed them to cast a stone of a specific color into the brazier to teleport to various locations in Barovia. The room was flanked by two imposing iron statues of knights on horseback.
 
 After examining the inscriptions, the party identified the colors and their associated destinations:<br>
-Cast a stone into the fire<br>
-Violet for the cursed mire<br>
-Orange to the lonely tower<br>
-Red to where the monkshood flowers<br>
-Green to where the coffins trade<br>
-Indigo to castle’s shade<br>
-Blue to where the grapes grow sweet<br>
-Yellow for the mountain keep<br>
+> Cast a stone into the fire<br>
+> Violet for the cursed mire<br>
+> Orange to the lonely tower<br>
+> Red to where the monkshood flowers<br>
+> Green to where the coffins trade<br>
+> Indigo to castle’s shade<br>
+> Blue to where the grapes grow sweet<br>
+> Yellow for the mountain keep<br>
 They discussed which stone to use and ultimately chose the red stone, becaus monkshood is another name for wolfsbane which only grows around the sacred pool in Krezk.
 
 Ireena volunteered to test the portal by casting her hand into the red flame, disappearing from sight. Using magical correspondence, the party confirmed that she had safely arrived at the intended location in Kresk, a village in the domain Gertruda was hesitant to enter, the party attempted to gently persuade her that this was the safest option. she was admant that she neeeded to stay with her rescuers. Vix and Soren felt that she was perhaps under some sort of enchantment and Radmil forcibly moved her into the teleportation brazier. With that obstacle addressed, they turned their attention to the other doors in the chamber.
