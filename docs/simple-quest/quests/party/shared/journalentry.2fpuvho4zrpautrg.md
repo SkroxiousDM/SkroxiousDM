@@ -432,6 +432,7 @@ After examining the inscriptions, the party identified the colors and their asso
 > Indigo to castle’s shade<br>
 > Blue to where the grapes grow sweet<br>
 > Yellow for the mountain keep<br>
+
 They discussed which stone to use and ultimately chose the red stone, becaus monkshood is another name for wolfsbane which only grows around the sacred pool in Krezk.
 
 Ireena volunteered to test the portal by casting her hand into the red flame, disappearing from sight. Using magical correspondence, the party confirmed that she had safely arrived at the intended location in Kresk, a village in the domain Gertruda was hesitant to enter, the party attempted to gently persuade her that this was the safest option. she was admant that she neeeded to stay with her rescuers. Vix and Soren felt that she was perhaps under some sort of enchantment and Radmil forcibly moved her into the teleportation brazier. With that obstacle addressed, they turned their attention to the other doors in the chamber.
