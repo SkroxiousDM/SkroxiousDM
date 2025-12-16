@@ -417,3 +417,27 @@ about to depart the castle aboard the black coach
 - retrieved Skull of Argenvost.
 - found letter in Rahadin's office 
 - discovered secret door leading down. 
+
+### Session 41 *2025-12-15*
+The group prepared for their descent, discussing their inventory and light sources. They ensured they carried only necessary items, transferring some gear into a Bag of Holding to avoid encumbrance. For illumination, they chose to rely on a Moonblade’s constant light and a Lantern of Revealing, which could expose invisible creatures and run for hours on oil.
+
+Descending an ancient staircase choked with dust and cobwebs, they encountered a shadow that fled just beyond the reach of their light. Upon entering a spacious chamber, they found a stone brazier with a cold, white flame and seven colored crystal spheres embedded around its rim. Above it hung a large hourglass with sand stuck in the upper bulb. Glowing script on the hourglass instructed them to cast a stone of a specific color into the brazier to teleport to various locations in Barovia. The room was flanked by two imposing iron statues of knights on horseback.
+
+After examining the inscriptions, the party identified the colors and their associated destinations:<br>
+Cast a stone into the fire<br>
+Violet for the cursed mire<br>
+Orange to the lonely tower<br>
+Red to where the monkshood flowers<br>
+Green to where the coffins trade<br>
+Indigo to castle’s shade<br>
+Blue to where the grapes grow sweet<br>
+Yellow for the mountain keep<br>
+They discussed which stone to use and ultimately chose the red stone, becaus monkshood is another name for wolfsbane which only grows around the sacred pool in Krezk.
+
+Ireena volunteered to test the portal by casting her hand into the red flame, disappearing from sight. Using magical correspondence, the party confirmed that she had safely arrived at the intended location in Kresk, a village in the domain Gertruda was hesitant to enter, the party attempted to gently persuade her that this was the safest option. she was admant that she neeeded to stay with her rescuers. Vix and Soren felt that she was perhaps under some sort of enchantment and Radmil forcibly moved her into the teleportation brazier. With that obstacle addressed, they turned their attention to the other doors in the chamber.
+
+One door bore a white mask belonging to Anton Konstantinovich, a prisoner they recognized from earlier in their journey. Opening this door revealed a large room with brackish water and torture devices around, including an iron maiden and a breaking wheel. 
+
+The group then faced a masked vampire woman known as Volenta Popovski, encountered previously in Barovia’s Coffin Maker’s shop. She attacked with icy shards and poisonous daggers. The adventurers fought back using weapons and fire magic, eventually defeating her. Afterward, they collected valuable loot from her,  a platinum skull-shaped mask , and ten platinum rings set with gemstones.
+
+Inside a rusty cage hung Anton, who communicated his fear of the water below, which was inhabited by zombies. To avoid the water, the party used flight magic to reach and free him safely, then sent him through the brazier portal to safety alongside Ireena.
