@@ -9,3 +9,4 @@ tags:
 
 # West Gates of Barovia
 ![](https://raw.githubusercontent.com/SkroxiousDM/SkroxiousDM/refs/heads/main/assets/Gates%20of%20Barovia%2018x10.webp)
+[Back](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.oqippgoggup2xdve/locations)
