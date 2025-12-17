@@ -15,3 +15,5 @@ tags:
 ![Abbey of Saint Markovia](https://raw.githubusercontent.com/SkroxiousDM/SkroxiousDM/refs/heads/main/assets/Abbey%20of%20Saint%20Markovia%2018x10.webp)
 ## Krezkov Residence
 ![Krezkov Residence](https://raw.githubusercontent.com/SkroxiousDM/SkroxiousDM/refs/heads/main/assets/Krezk%20town%20square%2018x10.webp)
+
+[Back](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.oqippgoggup2xdve/locations)
