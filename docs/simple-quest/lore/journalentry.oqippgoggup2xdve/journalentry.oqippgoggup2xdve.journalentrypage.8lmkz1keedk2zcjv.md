@@ -18,3 +18,5 @@ tags:
 ## The Barovan Church
 ![](https://raw.githubusercontent.com/SkroxiousDM/SkroxiousDM/refs/heads/main/assets/Barovia%20Church%2018x10.webp)
 ## Lugdana's Knoll
+
+[Back](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.oqippgoggup2xdve/locations)
