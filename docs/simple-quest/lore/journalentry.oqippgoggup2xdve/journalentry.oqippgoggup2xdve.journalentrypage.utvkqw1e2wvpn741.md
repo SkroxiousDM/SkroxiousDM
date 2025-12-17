@@ -9,3 +9,4 @@ tags:
 
 # Tser Pool Encampment
 ![Tser Pool Encampment](https://raw.githubusercontent.com/SkroxiousDM/SkroxiousDM/refs/heads/main/assets/Tser%20Pool%20Encampment%2018x10.webp)
+[Back](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.oqippgoggup2xdve/locations)
