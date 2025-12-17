@@ -9,3 +9,4 @@ tags:
 
 # Ivlis River Bridge
 ![](https://raw.githubusercontent.com/SkroxiousDM/SkroxiousDM/refs/heads/main/assets/River%20Ivlis%20Bridge%2018x10.webp)
+[Back](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.oqippgoggup2xdve/locations)
