@@ -39,3 +39,5 @@ tags:
 ![](https://uploads.worldanvil.com/uploads/images/Fiona's%20Parlor.png)
 ## Lake Zarovich
 ![](https://raw.githubusercontent.com/SkroxiousDM/SkroxiousDM/refs/heads/main/assets/LakeZarovich%2018x10.webp)
+
+[Back](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.oqippgoggup2xdve/locations)
