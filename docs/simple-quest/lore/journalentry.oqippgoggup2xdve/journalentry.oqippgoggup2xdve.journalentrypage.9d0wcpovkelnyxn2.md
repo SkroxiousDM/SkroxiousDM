@@ -9,3 +9,5 @@ tags:
 
 # Vallaki Encampment
 ![null](https://raw.githubusercontent.com/SkroxiousDM/SkroxiousDM/refs/heads/main/assets/VistaniCamp%2018x10.webp)
+
+[Back](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.oqippgoggup2xdve/locations)
