@@ -9,3 +9,5 @@ tags:
 
 # Khazan's Tower
 ![](https://raw.githubusercontent.com/SkroxiousDM/SkroxiousDM/refs/heads/main/assets/Wizards%20Tower%2018x10.webp)
+
+[Back](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.oqippgoggup2xdve/locations)
