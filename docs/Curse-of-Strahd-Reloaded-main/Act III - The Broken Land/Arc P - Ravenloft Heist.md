@@ -2141,7 +2141,13 @@ The coins are made of clay painted gold and are worthless. The funeral barge, wh
 ### Sergei’s Tomb
 <span class="citation"><em>This scene takes place in Chapter 4, Area K85.</em></span>
 
-This area is largely as described in <span class="citation">K85. Sergei’s Tomb (p. 93)</span>. However, Sergei’s armor is nonmagical and ceremonial, rather than practical, and cannot be used as plate armor.
+A portcullis is closed in the archway into this tomb. Lifting it requires a successful DC 25 Strength check.
+
+White marble steps descend to a tomb that has a vaulted ceiling thirty feet overhead. A stillness—a calm amid the storm—is felt here. In the center of the tomb, a white marble slab supports an intricately inlaid coffin. Chiseled into the slab is a name: Sergei von Zarovich. To the north, behind the coffin, are three alcoves. A beautifully carved statue stands in each alcove—a stunning young man flanked by two angels—looking as polished and new as the day each was placed there. An iron lever protrudes from the south wall, west of the tomb’s entrance.
+Raising the lever lifts the portcullis at the top of the stairs. Pulling it down lowers the portcullis.
+
+The coffin opens easily to the touch of a lawful good creature. Otherwise, opening it requires a successful DC 15 Strength check. Sergei’s flesh has been magically preserved, and at first glance it looks like he is sleeping in his casket.
+
 ## P12b. Central Catacombs
 ### Central Crypts
 #### Central Crypts, North Row
@@ -2167,17 +2173,6 @@ The woman rises, the shroud of webs clinging to her in a ghastly fashion. Howeve
 Crypt 21
 Patrina Velikovna—Bride
 
-The creature inside this crypt attacks as soon as the door is opened.
-
-From the darkness comes a horrifying visage, a spectral elf maiden twisted by the horror of her undead existence. She wails, and the very sound claws at your soul.
-The spectral elf is a banshee that attacks the characters on sight, using her wail immediately. Once awakened, the banshee is free to roam Castle Ravenloft, but she can’t travel more than 5 miles from this crypt.
-
-In life, Patrina Velikovna was a dusk elf who, having learned a great deal about the black arts, was nearly a match for Strahd’s powers. She felt a great bond with him and asked to solemnize that bond in a dark marriage. Drawn to her knowledge and power, Strahd consented, but before he could drain all life from Patrina, her own people stoned her to death in an act of mercy to thwart Strahd’s plans. Strahd demanded, and got, Patrina’s body. She then became the banshee trapped here.
-
-Reducing the banshee to 0 hit points causes it to discorporate. Patrina’s spirit can’t rest, however, until she is formally wed to Strahd; the banshee re-forms in her crypt 24 hours later. Casting a hallow spell on the crypt prevents the banshee from returning for as long as the spell lasts.
-
-Treasure. Read the following text when the characters investigate Patrina’s crypt:
-
 In the center of the crypt, a skeleton draped in rags lies atop a marble slab, surrounded by thousands of coins.
 Patrina’s crypt contains 250 pp, 1,100 gp, 2,300 ep, 5,200 sp, and 8,000 cp. The coins are of a mixed origin. The platinum and electrum coins have Strahd’s profiled visage stamped on them. Buried under the coins is Patrina’s spellbook, which has carved wooden covers. It contains all the spells listed for the archmage in the Monster Manual.
 
@@ -2196,7 +2191,21 @@ The first time the characters happen upon this crypt, they see the epigraph on C
 ### King & Queen’s Tomb
 <span class="citation"><em>This scene takes place in Chapter 4, Areas K87 & K88.</em></span>
 
-This area is as described in <span class="citation">K87. Guardians (p. 94)</span> and <span class="citation">K88. Tomb of King Barov and Queen Ravenovia (p. 94)</span>.
+Wide steps descend to a landing flanked by two alcoves. Within each alcove, taking up the full thirty-foot height of the ceiling, is a bronze statue of a warrior holding a spear. A soft blue curtain of light flows between the two alcoves. Dimly visible on the other side of the curtain are more descending stairs.
+The curtain has no effect on creatures that move east to west (from area K88 to area K84).
+
+A creature of lawful good alignment that moves west to east through the curtain can do so without difficulty, but creatures of other alignments that do so are teleported back to the top of the stairs behind them. A Small creature can squeeze behind and around one of the bronze statues to circumvent the light curtain.
+This tomb rests in hushed silence. Tall, stained glass windows dominate the eastern walls, allowing dim light to fall on two coffins resting atop white marble slabs. The one against the north wall is marked King Barov von Zarovich, and the one against the south wall is marked Queen Ravenovia van Roeyen. The vaulted ceiling thirty feet overhead is inlaid with a beautiful gold mosaic.
+
+King Barov and Queen Ravenovia
+The stained glass windows are so dirty on the outside as to be nearly opaque. The windows don’t open, but they can be smashed easily. Anyone who looks upward through a window can see, 110 feet above, the castle’s stone overlook (area K6). Anyone who falls out a window here plummets almost 900 feet to the base of the Pillarstone of Ravenloft.
+
+Prying the gold from the ceiling of this tomb would be a long and tedious effort for little reward.
+
+The north coffin holds a beautifully sculpted, life-sized wax effigy of Strahd’s father, King Barov. The old king’s bones lie in a compartment beneath his effigy.
+
+The south coffin holds the skeleton of Strahd’s mother, Queen Ravenovia. (The magic that was meant to preserve her earthly remains failed years ago.) A tattered white shroud covers her bones.
+
 ## P12c. South Catacombs
 ### South Crypts
 #### South Crypts, First Row
@@ -2321,8 +2330,7 @@ General Kroval “Mad Dog” Grislek (Master of the Hunt): A leader of hounds an
 
 When the characters open the door to this crypt, read:
 
-The stench of brimstone and burnt fur spills from this crypt. In its darkness are three pairs of glowing red eyes.
-Three hell hounds lunge forth and attack, fighting to the death. In the round after they attack, General Grislek’s wraith emerges from the crypt, uttering commands to the hounds in Infernal. Once these evil creatures are slain, the characters can inspect the crypt more closely.
+The stench of brimstone and burnt fur spills from this crypt. 
 
 Bits of incinerated bone lie strewn atop a marble slab in the center of the crypt. Lying amid the bones are fragments of a shattered spear with a silvered head. The walls and domed ceiling of the crypt are covered with scorched murals that depict legions of infantry and cavalry clashing on battlefields.
 A mending cantrip can repair the spear, which is broken into three pieces of roughly equal length. If repaired, it can be wielded as a silvered, nonmagical spear.
