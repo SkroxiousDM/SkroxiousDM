@@ -2289,6 +2289,12 @@ Sir Jarnwald the Trickster: The joke was on him
 A charnel stench fills this empty crypt.
 The floor here is an illusion that hides a 20-foot-deep pit. The sides of the pit are polished smooth; a creature without a climbing speed can’t move along them without the aid of magic or a climber’s kit. At the bottom of the pit are six starving ghouls. A permanent silence spell suppresses sound in the pit. The silence can be dispelled, as can the illusory floor (DC 14 for both).
 
+> [!combat]- **Balancing the Thirty-Fifth Crypt** 
+> This combat encounter is a **bruising** combat encounter against a party of five 7th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 21% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows: 
+> * **Three Players**. Reduce the number of ghouls to 4. 
+> * **Four Players**. Reduce the number of ghouls to 5. 
+> * **Six Players**. Increase the number of ghouls to 7.
+
 Treasure. Sir Jarnwald was “entombed” here, so far as he was pushed into the crypt and devoured by the ghouls. What remains of him lies scattered on the pit floor: a few scraps of clothing, a handful of teeth, and a signet ring that bears a stylized “J” (worth 25 gp).
 
 Crypt 36
@@ -2327,12 +2333,6 @@ Beucephalus, the Wonder Horse: May the flowers grow ever brighter where he trods
 The door to this crypt is larger than all the others, 6 feet wide by 8 feet tall. Removing or resetting the slab requires a successful DC 20 Strength check. When the door is opened, read:
 
 Dry, hot air and smells of smoke and brimstone. other wisw clean and empty.
-
-> [!combat]- **Balancing the Thirty-Fifth Crypt** 
-> This combat encounter is a **bruising** combat encounter against a party of five 7th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 21% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows: 
-> * **Three Players**. Reduce the number of ghouls to 4. 
-> * **Four Players**. Reduce the number of ghouls to 5. 
-> * **Six Players**. Increase the number of ghouls to 7.
 
 Crypt 6
 Saint Markovia: Dead for all time
