@@ -19,6 +19,7 @@
 - [Furtive Firestarter](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/magic-items/furtive-firestarter)
 - [Chest of Holding](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/magic-items/chest-of-holding)
 - [Luckstone](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/magic-items/luckstone)
+- [Clairvoyance Stone](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/magic-items/clairvoyance-stone)
   
 <!---
 - [Khazan's Staff](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/magic-items/khazans-staff)
