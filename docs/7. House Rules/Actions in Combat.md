@@ -313,3 +313,184 @@ When you hit a creature with an attack roll using a weapon or an Unarmed Strike,
 
 
 Mostly adapted from [Grit and Glory v6](https://www.reddit.com/r/gritandglory5e/comments/empff0/grit_and_glory_v6_100_pages_of_dd_5e_rules_for/)
+
+# Weapon Actions
+In order to gain access to the weapon actions from a weapon, a creature must be proficient in that weapon type and have it equipped in the main hand or both hands. Off-hand weapons do not grant weapon actions.
+
+Each weapon action can be used once per short rest,
+## Basic melee weapon actions
+
+|Weapon action	|Associated weapons	|Cost	|Effect	|Damage|
+|:---:|:---:|:---:|:---:|:---:|
+|Backbreaker	|Warhammers <br> Mauls|Action	|Inflict Prone Prone <br>Strength saving throw Strength saving throw <br>Weapon action DC <br>Duration: 2 turns|1d4 + Strength or Dexterity modifier <br>Inherits weapon damage type|
+|Brace (Melee)|Glaives <br>Pikes|20 ft Movement Speed	|Reroll melee damage rolls and take the higher value <br>Duration: 1 turn| - |
+Cleave Cleave	
+Battleaxes Battleaxes
+Greataxes Greataxes
+Halberds Halberds
+Greatswords Greatswords
+
+ Action	Strike up to 3 targets
+AoE: 2 m / 7 ft (Cone) AoE: 2 m / 7 ft (Cone)
+Halved weapon damage
+Any bonus damage is not halved, e.g. from Divine Smite Divine Smite or Great Weapon Master Great Weapon Master
+Concussive Smash Concussive Smash	
+Morningstars Morningstars
+Clubs Clubs
+Light Hammers Light Hammers
+Maces Maces
+Warhammers Warhammers
+Greatclubs Greatclubs
+Mauls Mauls Flails Flails
+
+ Action	Inflict Dazed Dazed
+Constitution saving throw Constitution saving throw
+Hybrid DC
+ Duration: 2 turns
+Weapon damage
+Maiming Strike Maiming Strike	
+War Picks War Picks
+Battleaxes Battleaxes
+
+ Action	Inflict Maimed Maimed
+Constitution saving throw Constitution saving throw
+Weapon action DC + 2
+ Duration: 2 turns
+1d4 + Strength or Dexterity modifier
+Inherits weapon damage type
+Disarming Strike Disarming Strike	Tridents Tridents	 Action	Target drops weapon
+Strength saving throw Strength saving throw
+Weapon action DC + 2
+1d4 + Strength or Dexterity modifier
+Inherits weapon damage type
+Flourish Flourish	
+Scimitars Scimitars
+Shortswords Shortswords
+Rapiers Rapiers
+
+ Bonus Action	Inflict Off Balance Off Balance
+Dexterity saving throw Dexterity saving throw
+Weapon action DC + 2
+ Duration: 2 turns
+1d4⁠Bludgeoning⁠Bludgeoning
+Non-lethal damage
+Heartstopper Heartstopper	Morningstars Morningstars	 Action	Inflict Chest Trauma Chest Trauma
+Constitution saving throw Constitution saving throw
+Weapon action DC + 2
+ Duration: 2 turns
+1d4 + Strength or Dexterity modifier
+Inherits weapon damage type
+Lacerate Lacerate	
+Handaxes Handaxes
+Sickles Sickles
+Scimitars Scimitars
+Battleaxes Battleaxes
+Longswords Longswords
+Glaives Glaives
+Greataxes Greataxes
+Greatswords Greatswords
+Halberds Halberds
+
+ Action	Inflict Bleeding Bleeding
+Constitution saving throw Constitution saving throw
+Weapon action DC + 2
+ Duration: 2 turns
+Weapon damage
+Piercing Strike Piercing Strike	
+Daggers Daggers
+Rapiers Rapiers
+Shortswords Shortswords
+Tridents Tridents
+Pikes Pikes
+Javelins Javelins
+
+ Action	Inflict Gaping Wounds Gaping Wounds
+Constitution saving throw Constitution saving throw
+Weapon action DC + 2
+ Duration: 2 turns
+Weapon damage
+Pommel Strike Pommel Strike	
+Longswords Longswords
+Greatswords Greatswords
+
+ Bonus Action	Inflict Dazed Dazed
+Constitution saving throw Constitution saving throw
+Weapon action DC + 2
+ Duration: 2 turns
+1d4⁠Bludgeoning⁠Bludgeoning
+Non-lethal damage
+Prepare Prepare	Greataxes Greataxes	 6 m / 20 ft Movement Speed	Extra damage on melee attacks this turn	Strength modifier Slashing⁠Slashing
+Rush Attack Rush Attack	
+Longswords Longswords
+Spears Spears
+Tridents Tridents
+Glaives Glaives
+Halberds Halberds
+Pikes Pikes
+
+ Action
++
+ Movement Speed	Charge up to 9 m / 30 ft away
+Inflict Off Balance Off Balance
+Strength saving throw Strength saving throw
+Weapon action DC
+ Duration: 2 turns
+1d4 + Strength or Dexterity modifier
+Inherits weapon damage type
+Tenacity Tenacity	
+Morningstars Morningstars
+Greatclubs Greatclubs
+Mauls Mauls Flails Flails
+
+ Reaction	Inflict damage on a miss
+Recharge: Unlimited use Recharge: Unlimited use
+Strength modifier Bludgeoning⁠Bludgeoning
+Minimum 1 damage
+Topple Topple	Quarterstaves Quarterstaves	 Action	Inflict Prone Prone
+Dexterity saving throw Dexterity saving throw
+Weapon action DC + 2
+ Duration: 1 turn
+1d4⁠Bludgeoning⁠Bludgeoning
+Non-lethal damage
+Weakening Strike Weakening Strike	
+Rapiers Rapiers
+War Picks War Picks
+Warhammers Warhammers Flails Flails
+
+ Action	Inflict Weak Grip Weak Grip
+Strength saving throw Strength saving throw
+Weapon action DC + 2
+ Duration: 2 turns
+1d4 + Strength or Dexterity modifier
+Inherits weapon damage type
+Non-lethal damage
+Basic ranged weapon actions
+Weapon action	Associated weapons	Cost	Effect	Damage
+Brace (Ranged) Brace (Ranged)	
+Heavy Crossbows Heavy Crossbows
+Longbows Longbows
+
+ 6 m / 20 ft Movement Speed	Reroll ranged damage rolls and take the higher value
+ Duration: 1 turn
+-
+Hamstring Shot Hamstring Shot	
+Shortbows Shortbows
+Longbows Longbows
+
+ Action	Inflict Hamstrung Hamstrung
+Constitution saving throw Constitution saving throw
+Weapon action DC + 2
+ Duration: 2 turns
+Weapon damage
+Mobile Shot Mobile Shot	Hand Crossbows Hand Crossbows	 Bonus Action	Make a bonus action attack after using Dash Dash or Disengage Disengage	Weapon damage
+Piercing Shot Piercing Shot	
+Heavy Crossbows Heavy Crossbows
+Light Crossbows Light Crossbows
+Hand Crossbows Hand Crossbows
+
+ Action	Inflict Gaping Wounds Gaping Wounds
+Constitution saving throw Constitution saving throw
+Weapon action DC + 2
+ Duration: 2 turns
+Weapon damage
+Unique
