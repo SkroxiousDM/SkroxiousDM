@@ -11,5 +11,5 @@ It is my one regret that this body is not as yours, and that when my heart shall
 
 May your reign be great and terrible, and may your throne never end.
 
-Your eternal and obedient servant, </br> 
+Your eternal and obedient servant, <br> 
 Rahadin von Zarovich
