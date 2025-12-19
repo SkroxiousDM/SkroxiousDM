@@ -2103,6 +2103,8 @@ Tasha Petrovna—Healer of Kings, Light unto the West, Servant, Companion
 
 A skeleton wearing tattered priestly vestments lies atop a marble slab in the center of the crypt. The domed ceiling overhead is painted with a glorious sun mural.
 Creatures that would take damage from exposure to sunlight (such as vampires) have disadvantage on all ability checks, attack rolls, and saving throws while inside this crypt.
+the first to touch the corpse hears a ghostly female voice. It whispers the following message:
+>“There is a grave to the west, with roses that never die, in a place built by healers, in a village called Krezk. When all turns to darkness, touch this holy symbol to the grave to summon the light and find a treasure long lost.”
 
 In addition, a human corpse lies sprawled across the floor immediately south of <span class="citation">Crypt 2 (p. 87)</span>. If approached, the corpse rises as a **zombie** and attacks.
 
