@@ -1,3 +1,75 @@
+
+# Actions in Combat
+
+When you take your action on your turn, you can take one of the actions presented ed here, here, an an action you gained from your class or some other feature, or you can attempt to improvise an action (see the "Improvising" section later in this chapter.
+
+Certain features might grant you the option to take an action as a minor action, reaction, object interaction, or even no action at all. For instance, the operative's Cunning Action feature lets them take the operative's Cunning Action featur take the Dash, Disengage, or Hide actions as a minor action on their turn. Alternatively, you might use your mino action to take the Arcane action when you cast a spell with a casting time of one minor action. Most Focus features require no action at all, despite using the
+
+Focus action.
+
+## Arcane
+
+When you take the Arcane action, you cast an arcanic spell. Certain arcanic school features might also use
+
+the Arcane action, as described by the feature.
+
+## Brace
+
+When you take the Brace action, you concentrate on steadying your body. Until the start of your next turn, you make Fortitude saving throws with advantage. Additionally, you have advantage on ability checks to avoid forced movement. You lose this benefit if you are incapacitated (as explained in appendix A).
+
+## Center
+
+When you take the the Center Center action, you devote yourself to strengthening your mind. Until the start of your next turn, you make Concentration and Will saving throws with advantage. You lose this benefit if y you are
+
+stupefied (as explained in appendix A).
+
+## Compel
+
+When you take the Compel action, you suggest a single course of action to a creature that can see or hear you and reasonably understand you. Make a Charisma and reasonably understand check depending on how you attempt to influence the creature, as determined by the GM. You might use Persuasion to convince a humanoid to help you or Wrangling to convince a beast to flee. The result of the check determines whether or not the creature follows the course of action describe:
+
+COMPEL RESPONSES
+
+DC Response
+
+The creature does not do as asked, providing no help but also doing no harm.
+
+e creature does as asked, provided no risk or sacrifice is involved The creature does as asked, provided only minor risk or sacrifice is in e creature does as asked, even if major risk or
+
+sacrifice is involved.
+
+The DCs provided assume the creature's disposition is Indifferent. Add 5 to the DC for each disposition tier is Indifferent. Add 5 to the DC for each disposition tier below Indifferent and subtract 5 for each disposition tier above Indifferent.
+
+If you fail to meet a DC, the creature's disposition towards you drops by one tier until you successfully Compel the creature or the creature completes a long rest. Conversely, on an exceptional result as determined by the GM, the creature's disposition towards you might increase by one tier until the creature completes a long rest.
+
+## Dash
+
+When you take the Dash action, you gain extra movement for the current turn equal to your speed. With a speed of 30 feet, for instance, you gain an additional 30 feet of movement.
+
+If an effect increases or decreases your speed, this also affects this additional movement you. For instance, if your speed is reduced to 20 feet, you would only gain an additional 20 feet of movement from this action.
+
+## Disengage
+
+When you take the Disengage action, moving out of a hostile creature's reach doesn't provoke opportunity attacks for the rest of the tur
+
+## Dodge
+
+When you take the Dodge action, you focus on avoiding attacks. Until the start of your next turn, you make Reflex saving throws with advantage. Additionally, attack rolls made against you have disadvantage provided you can see the attacker. You lose this benefit if you are incapacitated (as explained in appendix F).
+
+## Fight
+
+When you take the Fight action, you make a single melee or ranged weapon attack, whether you are you swinging a sword, firing a gun, or brawling with your fists. The "Making an Attack" section later in this chapter explains the rules for attacking.
+
+## Focus
+
+When you take the Focus action, you utilize a focus saction, you utilize a focus feature that requires expending a focus point. Certain other focus school features might also use the Focus action, as described by the feature.
+
+## Guard
+
+When you take the Guard action, you focus entirely on preventing attacks from reaching an ally. Until the star of your next turn, any attack roll made against the guarded ally has disadvantage if you can see the attacker, as long as the ally is within 5 feet of you
+
+Additionally, if an attack would hit the guarded ally, you can instead have it hit you (no action required). If you do so, the attacker chooses the maximum amount of damage instead of rolling.
+
+
 ## HIDE [ACTION]
 
 With the Hide action, you try to prevent people from knowing where you are (or possibly that you are there at all). To do so, you must be in a Concealable Location, such as being Heavily Obscured, behind Three-Quarters Cover or Total Cover, or otherwise out of an observer’s line of sight.
