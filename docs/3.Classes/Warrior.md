@@ -270,15 +270,14 @@ Spell attack modifier = your proficiency bonus + your Wisdom modifier
 
 You know two cantrips and one 1st level spell from the Theurg list, in addition to the [[bless](https://www.5esrd.com/database/spell/bless/)] spell. You do not have any favored spells. You learn spells according to the chart below, and can cast any spell you know at any time
 
-|   |   |   |   |   |   |
-|---|---|---|---|---|---|
 |Level|Cantrips Known|Total 1st|Total 2nd|Total 3rd|Total 4th|
-|1st|2|1|-|-|-|
+|---|---|---|---|---|---|
+|1st|1|1|-|-|-|
 |2nd|2|2|-|-|-|
-|3rd|2|3|-|-|-|
+|3rd|3|3|-|-|-|
 |4th|3|3|1|-|-|
 |5th|3|4|2|-|-|
-|6th|3|4|3|-|-|
+|6th|4|4|3|-|-|
 |7th|4|4|3|1|-|
 |8th|4|4|4|2|-|
 |9th|5|4|4|3|-|
