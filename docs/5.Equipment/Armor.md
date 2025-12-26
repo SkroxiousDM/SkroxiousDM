@@ -4,24 +4,55 @@ THE ARMOR TABLE shows the cost, weight, and other properties of the common types
 
 Anyone can put on a suit of armor or strap a shield to an arm. Only those proficient in the armor’s use know how to wear it effectively, however. Your class gives you proficiency with certain types of armor. If you wear armor that you lack proficiency with, you have disadvantage on any ability check, saving throw, or attack roll that involves Strength or Dexterity, and you can’t cast spells.
 
-#### Armor Class (AC).
+# Avoidance Class (AC).
 
-Implements the Challenge Mode AC rules, characters have an Evasion Class (EC) and an Armor Resistance (AR). In the base mode your EC is 10 + the dex mod applied to your AC (based on armor type used) + any shield AC you have.
+## Armor and Shields
 
-Your AR is equal to your AC - applied dex mod, i.e. the part of your AC that is not nimbleness. This means that tanks, high armor class but weighed down take more glancing damage, but that damage is mitigated by your AR. The logic of the system is that part of hitting is having the blow land on the target, which is measured by the EC which rewards nimble characters and secondly damage reduction done when a glancing blow does not get "through the armor" and so the damage is reduced by the Armor Resistance.
+The most common methods of protection, armor and shields, are things adventurers will commonly encounter. A character can only benefit from one set of armor and one shield at a time. The Armor and Shields table shows the most common options available, their price and weight, how they impact avoidance class and damage reduction, and any properties they possess.
 
-For example, if an attack roll:
+## Armor
 
-- Is less than your EC, then the attack misses
-- Is greater than or equal to your EC and less than or equal to your AC, it is a hit, but it did not penetrate your armor, so the damage you take is reduced by your armor resistance.
+Armor is the most common way to minimize or mitigate damage from your enemies. The Armors table shows common armo shows the most common armors available, their price and weight, the base avoidance class they provide, and any properties they possess. Every armor is classified as light, medium, or heawy armor. The armor you wear as light, medium, or heavy armor. The armor you wear determines your avoidance class, discussed later in this chapter.
 
-1. The damage from an EC hit (i.e. greater than EC and <= AC) is scaled, so a tank with 8 points of armor reduction wil take 1/9. 2/9, ... 9/9 of the rolled damage when an EC hits for EC, EC +1, EC +2 ... EC+8
+- Unarmored. While unarmored, you add your full Dexterity modifier to your AC. Certain features, such as the Versatile Defense feature, allow you to add a second modifier to your AC while unarmored. 
+- Light Armor. Light armor is the most flexible, offering unimpeded movement. While wearing light armor, you add your full Dexterity modifier to your AC. 
+- Medium Armor. Medium armor offers a balance of protection and flexibility. While wearing medium armor, you add your Dexterity modifier, to a maximum of +2, to your AC.
+- Heavy Armor. Heavy armor focuses on full protection from head to toe. Heavy armor doesn't let you add your Dexterity modifier to vour AC, but it also doesn't penalize you if your Dexterity modifier is negative.
 
-1. The damage reduction applies for all hits except critical hits.
+Shields
 
-- Is greater than your AC, then the attack hits normally.
+Shields come in varying weights, sizes, and materials. The Armors table shows the most common shields available, their price and weight, the bonus to armor they provide, and any properties they possess. As with armor, shields are classified as light, medium, or heavy. 
 
-From <[https://foundryvtt.com/packages/midi-challenge-mode-armor](https://foundryvtt.com/packages/midi-challenge-mode-armor)>
+- Light Shields. A light shield is generally affixed to the forearm. While a light shield does not fill the hand, you gain no benefit from it while the hand is full.
+- Medium Shields. A medium shield is a common defensive technology that protects the user from weapons, the elements, or other hazar veapons, the elements, or other nazards.
+- Heavy Shlelds. Heavy shields are much larger and more cumbersome, but they offer more protection than their smaller counterparts. Due to their cumbersome size, however, they can only be wielded alongside simple weapon
+
+Barding and Plating
+
+ith Armor is designed for creatures with humanoid anatomy, while barding and plating is designed for creatures with different anatomy, such as beasts and vehicles. For each armor, barding and plating exist at the same price and weight.
+
+Avoidance Class and Damage Reduction
+
+Armor protects its wearer from attacks. The armor you wear-or lack thereof-determines two key capacities: your avoidance class and potential damage reduction.
+
+## Avoidance Class
+
+Avoidance class (AC) comes in four layers: base, armor, possible shield, and possible bonuses.
+- Base. Your base AC is always 8+ your proficiency bonus.
+- Armor. Your armor-or lack thereof-impacts your AC as well, and varies depending on the armor's type, as s discussed earlier in this section and illustrated in the Avoidance Class column of the Armor and Shields 
+- Shield. If you equip a shield, you add that shield's bonus to your base AC as well as the AC-if any added by your armor, as illustrated in the Avoidance Class column of the Armor and Shields table.
+- Bonuses. Certain features, such as the engineer's Infuse Item, offer a bonus to AC. These bonuses are in addition to those provided by your base, armor, and shield.
+
+## Damage Reduction
+Armor also offers passive armor damage reduction (DR) as illustrated in the Damage Reduction column of the Armor and Shields table. Armor DR only affects the damage you receive from attack rolls, as well as any damage you receive from weapons.
+
+Overtapping Armors Sometimes, you might have multiple features that would apply to your AC and DR. For instance, you Natural Armor special trait. In these circumstances, you choose which feature to benefit from.
+
+Armor and Shield Proficiency
+
+While anyone can wear armor or wield a shield, only those who are proficient know how to properly use it Your class, traits, and feats sgrant grant you proficiency with certain armor types. If you wear armor or wield a shield in which you lack proficiency, you have disadvantage on any ability test that involves Strength, disadvantage on any ability test that involves Strength, Dexterity, or Constitution, you can't cast, and you can't add your proficiency bonus to your AC.
+
+If you have proficiency in armor, you have proficiency in the appropriate shield as well.
 
 Armor protects its wearer from attacks; an attack roll that is lower than your AC may still hit you but the armor prevents you from taking substantial damage. The armor (and shield) you wear determines your base Armor Class.
 
