@@ -53,7 +53,8 @@ Armor protects its wearer from attacks; an attack roll that is lower than your A
 
 
 SHIELDS
-
+• Shields give a bonus to AC and they apply their AC bonus to dexterity and strength saving throws (because the user can hide behind them, use them for additional leverage, etc.  
+• A grapple attack can grab a shield and pull it out of position. Success means the shield’s benefits are nullified until the owner escapes the grapple. The owner can move away without escaping, but they release the shield if they move out of reach of the character grappling it.
 Name
 
 Cost Weight
@@ -223,9 +224,6 @@ The time it takes to don or doff armor depends on the armor's category. If you h
 |Shield (Heavy)	|1 action	|1 action|
 |* Characters receive one free object interaction on their turn, which could be to draw and grip their buckler. Tossing the buckler to the ground is part of the character’s other free gestures and would not count as an action or object interaction.|||
 
-#### Variant: Casting Failure in Armor
-
-In some realms, casting in armor might come at the consequence of fallure, regardless of armor proficiency. This variant rule, found in Appendix F, can help you introduce this concept in your campaigns
 
 #### Light Armor
 
@@ -258,7 +256,7 @@ In some realms, casting in armor might come at the consequence of fallure, regar
 
 #### Medium Armor
 
-|Name|Cost|Armor Class|Wt.|Properties|
+|Name|Cost|Wt.|Avoidance Class|Damage Reduction|Properties|
 |---|---|---|---|---|
 |Chain Shirt|50 thaler|13 + Dexterity modifier (max 2)|20 lb.|—|
 |Crow Armor|5 thaler|14 + Dexterity modifier (max 2)|30 lb.|Cumbersome|
@@ -281,7 +279,7 @@ In some realms, casting in armor might come at the consequence of fallure, regar
 
 ## Heavy Armor
 
-|Name|Cost|Armor Class|Wt.|Properties|
+|Name|Cost|Wt.|Avoidance Class|Damage Reduction|Properties|
 |---|---|---|---|---|
 |Chain and Plate|250 thaler|15|50 lb.|—|
 |Field Armor|500 thaler|17|70 lb.|Cumbersome, Weighty (13)|
@@ -296,28 +294,22 @@ In some realms, casting in armor might come at the consequence of fallure, regar
 
 **Full Plate.** Full plate consists of shaped, interlocking metal plates to cover the entire body.
 
-## Shields
-
-The following rules on shields are still very simple compared to true old school, but they add enough texture to the world without becoming too complex. Below is a table with enough shields to give some variety to your players.
-
 #### Shields
 
-|Type|Cost|AC|DR|Strength|Stealth|Weight|Properties|
+|Type|Cost|Wt.|AC|Properties|
 |---|---|---|---|---|---|---|---|
-|Buckler|5gp|+1||||3lbs|Special|
-|Medium Shield|10gp|+2|1|12||5lbs||
-|Large Shield|15gp|+2|2|14|Disadvantage|7lbs||
-|Tower Shield|25gp|+2,<br>+4 ranged|3|15|Disadvantage|12lbs|Special|
-|Mounted Shield|20gp|+2|1|12|Disadvantage|4lbs||
+|Light Shield|5gp|3lbs|+1|-|
+|Medium Shield|10gp|5lbs|+2|-|
+|Heavy Shield|15gp|7lbs|+3|Disadvantage|
+|Tower Shield|25gp|12lbs|+3,<br>+4 ranged|Disadvantage, Special|
+|Mounted Shield|20gp|6lbs|+2|Disadvantage|
 
 ## Shield Properties
 
 • Shields give a bonus to AC and they apply their AC bonus to dexterity and strength saving throws (because the user can hide behind them, use them for additional leverage, etc.  
 • A grapple attack can grab a shield and pull it out of position. Success means the shield’s benefits are nullified until the owner escapes the grapple. The owner can move away without escaping, but they release the shield if they move out of reach of the character grappling it.  
 
-**Damage Reduction:** Most shields grant a little damage reduction listed in the DR column.
-
-**Buckler:** A buckler is a very small shield that can be affixed to the arm, freeing the combatant's hand for actions such as using a versatile weapon with two hands. Each round, the PC can choose whether to use the shield for defense, granting a +1 bonus to AC, or take an off hand attack action with that hand (or use an item), in which case there would be no AC benefit for that round.
+**Light Shield (Buckler):** A buckler is a very small shield that can be affixed to the arm, freeing the combatant's hand for actions such as using a versatile weapon with two hands. Each round, the PC can choose whether to use the shield for defense, granting a +1 bonus to AC, or take an off hand attack action with that hand (or use an item), in which case there would be no AC benefit for that round.
 
 **Tower Shield:** A tower shield can be used to provide cover. Either 1/2 or 3/4. If the player decides to use the tower shield in this way, they take either a -2 or -5 to their attack roll, respectively.
 
