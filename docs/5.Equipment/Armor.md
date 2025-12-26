@@ -1,9 +1,3 @@
-jTHE ARMOR TABLE shows the cost, weight, and other properties of the common types of armor and shields used in the world of Symbaroum.
-
-#### Armor Proficiency.
-
-Anyone can put on a suit of armor or strap a shield to an arm. Only those proficient in the armor’s use know how to wear it effectively, however. Your class gives you proficiency with certain types of armor. If you wear armor that you lack proficiency with, you have disadvantage on any ability check, saving throw, or attack roll that involves Strength or Dexterity, and you can’t cast spells.
-
 # Avoidance Class (AC).
 
 ## Armor and Shields
@@ -12,45 +6,45 @@ The most common methods of protection, armor and shields, are things adventurers
 
 ## Armor
 
-Armor is the most common way to minimize or mitigate damage from your enemies. The Armors table shows common armo shows the most common armors available, their price and weight, the base avoidance class they provide, and any properties they possess. Every armor is classified as light, medium, or heawy armor. The armor you wear as light, medium, or heavy armor. The armor you wear determines your avoidance class, discussed later in this chapter.
+Armor is the most common way to minimize or mitigate damage from your enemies. The Armors table shows common armo shows the most common armors available, their price and weight, the base avoidance class they provide, and any properties they possess. Every armor is classified as light, medium, or heavy armor. The armor you wear determines your avoidance class, discussed later in this chapter.
 
-- Unarmored. While unarmored, you add your full Dexterity modifier to your AC. Certain features, such as the Versatile Defense feature, allow you to add a second modifier to your AC while unarmored. 
-- Light Armor. Light armor is the most flexible, offering unimpeded movement. While wearing light armor, you add your full Dexterity modifier to your AC. 
-- Medium Armor. Medium armor offers a balance of protection and flexibility. While wearing medium armor, you add your Dexterity modifier, to a maximum of +2, to your AC.
-- Heavy Armor. Heavy armor focuses on full protection from head to toe. Heavy armor doesn't let you add your Dexterity modifier to vour AC, but it also doesn't penalize you if your Dexterity modifier is negative.
+- **Unarmored**. While unarmored, you add your full Dexterity modifier to your AC. Certain features, such as the Versatile Defense feature, allow you to add a second modifier to your AC while unarmored. 
+- **Light Armor**. Light armor is the most flexible, offering unimpeded movement. While wearing light armor, you add your full Dexterity modifier to your AC. 
+- **Medium Armor**. Medium armor offers a balance of protection and flexibility. While wearing medium armor, you add your Dexterity modifier, to a maximum of +2, to your AC.
+- **Heavy Armor**. Heavy armor focuses on full protection from head to toe. Heavy armor doesn't let you add your Dexterity modifier to vour AC, but it also doesn't penalize you if your Dexterity modifier is negative.
 
-Shields
+## Shields
 
 Shields come in varying weights, sizes, and materials. The Armors table shows the most common shields available, their price and weight, the bonus to armor they provide, and any properties they possess. As with armor, shields are classified as light, medium, or heavy. 
 
-- Light Shields. A light shield is generally affixed to the forearm. While a light shield does not fill the hand, you gain no benefit from it while the hand is full.
-- Medium Shields. A medium shield is a common defensive technology that protects the user from weapons, the elements, or other hazar veapons, the elements, or other nazards.
-- Heavy Shlelds. Heavy shields are much larger and more cumbersome, but they offer more protection than their smaller counterparts. Due to their cumbersome size, however, they can only be wielded alongside simple weapon
+- **Light Shields**. A light shield is generally affixed to the forearm. While a light shield does not fill the hand, you gain no benefit from it while the hand is full.
+- **Medium Shields**. A medium shield is a common defensive technology that protects the user from weapons, the elements, or other hazar veapons, the elements, or other nazards.
+- **Heavy Shlelds**. Heavy shields are much larger and more cumbersome, but they offer more protection than their smaller counterparts. Due to their cumbersome size, however, they can only be wielded alongside simple weapons.
 
-Barding and Plating
+## Barding and Plating
 
-ith Armor is designed for creatures with humanoid anatomy, while barding and plating is designed for creatures with different anatomy, such as beasts and vehicles. For each armor, barding and plating exist at the same price and weight.
+Armor is designed for creatures with humanoid anatomy, while barding and plating is designed for creatures with different anatomy, such as beasts and vehicles. For each armor, barding and plating exist at the same price and weight.
 
-Avoidance Class and Damage Reduction
+# Avoidance Class and Damage Reduction
 
 Armor protects its wearer from attacks. The armor you wear-or lack thereof-determines two key capacities: your avoidance class and potential damage reduction.
 
 ## Avoidance Class
 
 Avoidance class (AC) comes in four layers: base, armor, possible shield, and possible bonuses.
-- Base. Your base AC is always 8+ your proficiency bonus.
-- Armor. Your armor-or lack thereof-impacts your AC as well, and varies depending on the armor's type, as s discussed earlier in this section and illustrated in the Avoidance Class column of the Armor and Shields 
-- Shield. If you equip a shield, you add that shield's bonus to your base AC as well as the AC-if any added by your armor, as illustrated in the Avoidance Class column of the Armor and Shields table.
-- Bonuses. Certain features, such as the engineer's Infuse Item, offer a bonus to AC. These bonuses are in addition to those provided by your base, armor, and shield.
+- **Base**. Your base AC is always 8+ your proficiency bonus.
+- **Armor**. Your armor-or lack thereof-impacts your AC as well, and varies depending on the armor's type, as s discussed earlier in this section and illustrated in the Avoidance Class column of the Armor and Shields 
+- **Shield**. If you equip a shield, you add that shield's bonus to your base AC as well as the AC-if any added by your armor, as illustrated in the Avoidance Class column of the Armor and Shields table.
+- **Bonuses**. Certain features, such as the engineer's Infuse Item, offer a bonus to AC. These bonuses are in addition to those provided by your base, armor, and shield.
 
 ## Damage Reduction
 Armor also offers passive armor damage reduction (DR) as illustrated in the Damage Reduction column of the Armor and Shields table. Armor DR only affects the damage you receive from attack rolls, as well as any damage you receive from weapons.
 
-Overtapping Armors Sometimes, you might have multiple features that would apply to your AC and DR. For instance, you Natural Armor special trait. In these circumstances, you choose which feature to benefit from.
+>**Overlapping Armors** Sometimes, you might have multiple features that would apply to your AC and DR. For instance, you Natural Armor special trait. In these circumstances, you choose which feature to benefit from.
 
-Armor and Shield Proficiency
+## Armor and Shield Proficiency
 
-While anyone can wear armor or wield a shield, only those who are proficient know how to properly use it Your class, traits, and feats sgrant grant you proficiency with certain armor types. If you wear armor or wield a shield in which you lack proficiency, you have disadvantage on any ability test that involves Strength, disadvantage on any ability test that involves Strength, Dexterity, or Constitution, you can't cast, and you can't add your proficiency bonus to your AC.
+While anyone can wear armor or wield a shield, only those who are proficient know how to properly use it Your class, traits, and feats sgrant grant you proficiency with certain armor types. If you wear armor or wield a shield in which you lack proficiency, you have disadvantage on any ability test that involves Strength, Dexterity, or Constitution, you can't cast, and you can't add your proficiency bonus to your AC.
 
 If you have proficiency in armor, you have proficiency in the appropriate shield as well.
 
@@ -194,87 +188,41 @@ Obtrusive, strength 15
 
 Obtrusive, strength 17
 
-Armor Properties
+## Armor Properties
 
 Many armors and shields in the Armor table have properties related to their use. These properties are defined below.
 
-Bulky
+### Bulky
 
-While wearing armor with this property, you have disadvantage on Dexterity (Stealth) checks that rely on
+While wearing armor with this property, you have disadvantage on Dexterity (Stealth) checks that rely on sound
 
-sound
+### Obtrusive
 
-Obtrusive
+While wielding a shield with this property, you have disadvantage on Dexterity (Stealth) checks that rely on sight.
 
-While wielding a shield with this property, you have disadvantage on Dexterity (Stealth) checks that rely on
+### Strength
 
-sight.
+While wearing armor or wielding a shield with this property, your speed is reduced by 10 unless your Strength score meets or exceeds the strength number.
 
-Strength
-
-While wearing armor or wielding a shield with this
-
-your property, your speed is reduced by 10 unless your Strength score meets or exceeds the strength number.
-
-Armor and Shield Appearance
-
-While every armor has a name, it doesn't come with a description. You can choose the appearance of your armor as appropriate to your character and setting. For instance, full light armor in a fantasy setting is typically studded leather, whereas in a sci-fi setting it be a flex-weave combat suit. On the other hand full heavy armor would likely be a full suit of plate in a fantasy setting, whereas it might be an exoskeleton in a sci-fi setting.
-
-Regardless of its appearance, armor is always recognizable as such unless otherwise specified.
-
-Donning and Doffing Armor
+## Donning and Doffing Armor
 
 The time it takes to don or doff armor depends on the armor's category. If you have help, you can reduce the time it takes to don or doff armor by half.
 
-Don. This is the time it takes to put on armor or wield your shield. You benefit from the armor only if you take the full time to don the suit of armor. ff. This is the time it takes to remove armor or
+- **Don**. This is the time it takes to put on armor or wield your shield. You benefit from the armor only if you take the full time to don the suit of armor. 
+- **Doff**. This is the time it takes to remove armor or store your shield.
 
-store your shield.
+###### DONNING AND DOFFING ARMOR
 
-DONNING AND DOFFING ARMOR
+|Category 	|Don	|Doff|
+|:---:|:---:|:---:|
+|Light armor	|1 minute	|1 minute|
+|Medium armor	|5 minutes	|1 minute|
+|Heavy armor	|10 minutes	|5 minutes|
+|Shield (Light)|1 reaction on your turn|1 reaction on your turn|
+|Shield (Medium)	|1 bonus action	|1 bonus action|
+|Shield (Heavy)	|1 action	|1 action|
 
-Category
-
-Don
-
-Doff
-
-Light armor
-
-1 minute
-
-1 minute
-
-Medium armon
-
-minute
-
-Heavy armor
-
-5 minutes
-
-10 minutes
-
-5 minutes
-
-1 reaction on your
-
-1 reaction on your
-
-Light shield
-
-1 bonus actio
-
-1 bonus action
-
-Heavy shield
-
-1 action
-
-1 action
-
-Medium shield
-
-Variant: Casting Failure in Armor
+#### Variant: Casting Failure in Armor
 
 In some realms, casting in armor might come at the consequence of fallure, regardless of armor proficiency. This variant rule, found in Appendix F, can help you introduce this concept in your campaigns
 ## Shields.
