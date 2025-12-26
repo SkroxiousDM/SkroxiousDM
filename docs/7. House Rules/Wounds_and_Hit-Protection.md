@@ -1,15 +1,13 @@
-Wounds and Vigor are variant to hit points made popular in previous editions of Dungeons & Dragons. Vigor represents your combat fatigue and ability withstand pain, while Wounds are a measure of your physical integrity and actual damage.
-
-## Vigor
-
-Your stamina and ability to evade enemy attacks is your Vigor points. It's equal to your hit points. Anytime you take damage, subtract that amount from Vigor.  
+## Hit Protection
+(often abbreviated as HP) as a measure of a character's skill, stamina, resilience, and luck to avoid serious wounds during combat
+ Anytime you take damage, subtract that amount from HP.  
 This represents the expenditure of stamina, luck and reflexes to avoid a lethal blow
-#### Vigor = Hit Points
+#### Hit Protection = Hit Points
 
 ## Wounds
 
 ### Wound levels
-The ﬁrst time you fall to 0 vigor points, you become Wounded. There are six levels of wounds, and they work in a similar way to Exhaustion ( p291 PH ). Each time you are reduced to 0 vigor points, you gain one level of wounds. These wound levels represent signiﬁcant injuries, like an arrow in your arm, a serious cut, or a club cracking your skull. The more wound levels you have, the more penalties you suﬀer. Consult the chart below for the eﬀects of wound levels.
+The ﬁrst time you fall to 0 HP, you become Wounded. There are six levels of wounds, and they work in a similar way to Exhaustion ( p291 PH ). Each time you are reduced to 0 HP, you gain one level of wounds. These wound levels represent signiﬁcant injuries, like an arrow in your arm, a serious cut, or a club cracking your skull. The more wound levels you have, the more penalties you suﬀer. Consult the chart below for the eﬀects of wound levels.
 
 #### WOUND LEVEL EFFECTS
 
@@ -25,27 +23,23 @@ The ﬁrst time you fall to 0 vigor points, you become Wounded. There are six le
 The eﬀects of being Wounded stack, just like Exhaustion does. If you have 2 wound levels, you suﬀer disadvantage on physical Ability Checks and your speed is halved. The eﬀects of wound levels do not stack with exhaustion levels, however. A character with 2 wound levels and 2 exhaustion levels has their speed halved, not quartered.
   
 You gain a Wound level when:
-- you take damage that reduces your Vigor to 0
-- you take damage and your current Vigor is 0.
-- you take damage from a critical hit. Even if your Vigor is more than 0.
+- you take damage that reduces your HP to 0
+- you take damage and your current HP is 0.
+- you take damage from a critical hit. Even if your HP is more than 0.
 - you take damage while unconscious, stunned, paralyzed, incapacitated, or you take falling damage.
 - you take damage during a surprise round. You can make a Dexterity or Constitution saving throw with a DC equal to 10 or half the damage, whichever is greater. If you fail the save, you take a wound level.
-
-## Bleeding
-For each Wound level gained since the beginning of the combat, you lose 1 Vigor point as bleeding damage.  
-You can stop the bleeding during combat if you spend your action, use a charge from a healers kit, and make a Wisdom (Medicine) check at DC 10 + bleeding damage. When combat ends and heart rates slow, bleeding causes you to gain one Wound level every 10 minutes, without Injury roll.
 
 ## Nonlethal Damage to Wounds
 Nonlethal damage that results in gain of Wound level doesn't provoke an Injury roll. The same rule applies to bleeding damage lost outside of combat.
 
-## Acting at 0 Vigor
-Continuing to ﬁght at 0 Vigor points is possible, but very dangerous. You can no longer count on stamina, luck, or reﬂexes to keep you from taking a fatal wound. When your Vigor reaches 0 you remain standing and conscious but you are reeling. You gain the Staggered condition:
+## Acting at 0 HP
+Continuing to ﬁght at 0 HP points is possible, but very dangerous. You can no longer count on stamina, luck, or reﬂexes to keep you from taking a fatal wound. When your HP reaches 0 you remain standing and conscious but you are reeling. You gain the Staggered condition:
 - Staggered characters can move or take an action, but not both.
 - Anytime you use your action while Staggered, make a DC 12 Constitution check. If you fail, you take one level of Soft Exhaustion.
 - You cannot take bonus actions or reactions.
 - Staggered characters cannot gain temporary hit points.
-- Characters remain Staggered until they are restored to 1 hit point or higher.
-- A character who takes any damage while at 0 vigor immediately gains 2 additional wound levels and must make a Constitution Saving Throw or fall unconscious. If the character falls unconscious, they are out of the fight. At the end of the battle, the PC makes a single death save. If the PC receives healing or treatment of some kind (binding wounds, etc), they gain advantage on the save. If the death save is failed, the PC dies. If successful, the adventurer survives but rolls on the Lingering Injuries table with Disadvantage. A natural 20 death save negates the injury roll. Without further healing, the PC awakens in 1d3 minutes with 1 vigour.
+- Characters remain Staggered until they are restored to 1 HP or higher.
+- A character who takes any damage while at 0 HP immediately gains 2 additional wound levels and must make a Constitution Saving Throw or fall unconscious. If the character falls unconscious, they are out of the fight. At the end of the battle, the PC makes a single death save. If the PC receives healing or treatment of some kind (binding wounds, etc), they gain advantage on the save. If the death save is failed, the PC dies. If successful, the adventurer survives but rolls on the Lingering Injuries table with Disadvantage. A natural 20 death save negates the injury roll. Without further healing, the PC awakens in 1d3 minutes with 1 HP.
 
 # Lingering Injuries
 Any time one of your characters receives a wound level from any source (combat, traps, spell attacks, etc.) they roll 3d6 on the table that matches that damage type. If the wounding hit deals more than one type of damage, they roll on the on the table for the type that dealt the majority.
