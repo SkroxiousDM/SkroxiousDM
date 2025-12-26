@@ -52,6 +52,83 @@ When you take the Guard action, you focus entirely on preventing attacks from re
 
 Additionally, if an attack would hit the guarded ally, you can instead have it hit you (no action required). If you do so, the attacker chooses the maximum amount of damage instead of rolling.
 
+## Help
+When you take the Help action, you lend aid to an ally in one of the following two ways:
+
+1. Ability Check: An ally within 5 feet of you gains advantage on the first ability check it makes before the start of your next turn, provided you could reasonably assist them in the check.
+
+2. Attack Roll: An ally gains advantage on the first
+
+attack roll it makes before the start of your next turn on a hostile creature within 5 feet of you, provided you could reasonably enhance your ally's attack in some way.
+
+## Hide
+When you take the Hide action, you make a Dexterity (Stealth) check in an attempt to hide, following the rules in chapter 7 for hiding. If you succeed, you gain certain benefits, as described in the "Unseen Attackers and Targets" section later in this chapter.
+
+## Ready
+When you take the Ready action, you prepare to act are an when particular circumstances are met. Readying an action lets you act using your reaction before the start of your next turn.
+
+First, you choose was circumstances will trigger your Readied action. Second, in response to the trigger, you determine what action you will take or if you will move up to your speed. For instance, you might choose that if a hostile creature if n 10 feet if you, you will move away from it.
+
+When the trigger occurs, you can either take your or vou can to reaction right after it resolves or you can choose to ignore it.
+
+If you ready an action that would grant movement, and that feature is triggered and resolved outside of your turn, you can move the amount provided by the action.
+
+When you ready a power, you cast it as normal but its effects don't immediately take place. To ready a power, it must have a casting time of 1 action or minor action, and it requires concentration. If your i concentration is broken, the power dissipates without taking effect. Resources are only expended if you cast the readied power.
+
+## Search
+When you take the Search action, you devote your attention to finding something by making a Wisdom (Perception) check or an Intelligence (Investigation) check, depending on the nature of your search.
+
+## Study
+When you take the Study action, you make an Intelligence (Investigation) check contested by the target's Charisma (Deception) check in order to discern certain information about the creature. On a success, you learn information about the creature. Choose two of the following:
+
+of Hi
+
+Highest ability score
+
+Lowest ability score
+
+Strongest saving throw
+
+Weakest saving throw
+
+Condition immunities
+
+Conditions suffering
+
+Maximum number of Hit Di
+
+Damage vulnerabilities
+
+Damage resistances
+
+mage immunities
+
+Max psionic talent level
+
+Max tech power level
+
+est spell sio
+
+Max maneuver level
+
+Max focus points
+
+## Superiority
+When you take the Superiority action, you use a superior tactic. Certain superior school features might also use the Superiority action, as described by the feature.
+
+## Taunt
+When you take the Taunt action, you attempt to compel a creature to attack you instead of your allies. compel a creature to attack you instead of your allies. The target must make a Will saving throw (DC 8+ your proficiency bonus + your Charisma modifier). On a failed save, the target becomes Taunted by you until the end of f your your next turn.
+
+If a creature friendly to you deals damage to a creature Taunted by you in this way, the Ttaunted creature no longer has disadvantage on attack rolls against the friendly creature.
+
+You can only have one creature taunted in this way at a time.
+
+## Use
+
+When you take the Use action, you utilize an object, item, or similar effect. If you would normally have to item, of similar effect. ir you would hormally have to use your object interaction to draw the item you are using, you can instead do so as part of the Use action.
+
+## Improvising
+Your characti pt to do things not covered by other actions, such as breaking down doors. When you describe an action not otherwise included in the rules, the GM tells you whether or not it is possible and what ability tests, if any, is required.
 
 ## HIDE [ACTION]
 With the Hide action, you try to prevent people from knowing where you are (or possibly that you are there at all). To do so, you must be in a Concealable Location, such as being Heavily Obscured, behind Three-Quarters Cover or Total Cover, or otherwise out of an observer’s line of sight.
