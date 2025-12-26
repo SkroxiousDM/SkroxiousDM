@@ -1,4 +1,4 @@
-THE ARMOR TABLE shows the cost, weight, and other properties of the common types of armor and shields used in the world of Symbaroum.
+jTHE ARMOR TABLE shows the cost, weight, and other properties of the common types of armor and shields used in the world of Symbaroum.
 
 #### Armor Proficiency.
 
@@ -56,6 +56,227 @@ If you have proficiency in armor, you have proficiency in the appropriate shield
 
 Armor protects its wearer from attacks; an attack roll that is lower than your AC may still hit you but the armor prevents you from taking substantial damage. The armor (and shield) you wear determines your base Armor Class.
 
+
+
+SHIELDS
+
+Name
+
+Cost Weight
+
+Avoidance Class
+
+Damage Reduction
+
+Properties
+
+Light Armor
+
+250 cr
+
+7.50 lb
+
+Dex modifier
+
+1
+
+Light armor, partial
+
+Light armor, full
+
+500 cr 10.00 lb Dex modifier
+
+Medium Armor
+
+Medium armor, minimal
+
+500 cr
+
+3
+
+1,000 cr
+
+4
+
+Medium armor, partial
+
+Medium armor, ful
+
+2,000 cr
+
+15.00 lb
+
+20.00 lb
+
+25.00 lb
+
+Dex modifier (max 2)
+
+Dex modifier (max 2)
+
+Dex modifier (max 2)
+
+Heavy Armor
+
+35.00 lb
+
+Heavy armor, minimal
+
+Heavy armor, partial
+
+1,000 cr
+
+2.000 cr
+
+45.00 lb
+
+7
+
+Heavy armor, full
+
+4,000 cr
+
+55.00 lb
+
+Bulky, strength 11
+
+Bulky, strength 13
+
+Bulky, strength 15
+
+Bulky, strength 17
+
+Shield
+
+125 cr
+
+Light shield, energy
+
+Light shield, physical
+
+1.50 lb
+
+3.00 lb
+
+375 cr
+
+Medium shield, energy
+
+Medium shield, physical
+
+150 cr
+
++2
+
+1,250 cr
+
+3.00 lb
+
+6.00 lb
+
+6.00 lb
+
+Heavy shield, energy
+
+Heavy shield, physical
+
+500 cr 12.00 lb
+
+Strength 11
+
+Strength 13
+
+Strength 13
+
+Strength 15
+
+Obtrusive, strength 15
+
+Obtrusive, strength 17
+
+Armor Properties
+
+Many armors and shields in the Armor table have properties related to their use. These properties are defined below.
+
+Bulky
+
+While wearing armor with this property, you have disadvantage on Dexterity (Stealth) checks that rely on
+
+sound
+
+Obtrusive
+
+While wielding a shield with this property, you have disadvantage on Dexterity (Stealth) checks that rely on
+
+sight.
+
+Strength
+
+While wearing armor or wielding a shield with this
+
+your property, your speed is reduced by 10 unless your Strength score meets or exceeds the strength number.
+
+Armor and Shield Appearance
+
+While every armor has a name, it doesn't come with a description. You can choose the appearance of your armor as appropriate to your character and setting. For instance, full light armor in a fantasy setting is typically studded leather, whereas in a sci-fi setting it be a flex-weave combat suit. On the other hand full heavy armor would likely be a full suit of plate in a fantasy setting, whereas it might be an exoskeleton in a sci-fi setting.
+
+Regardless of its appearance, armor is always recognizable as such unless otherwise specified.
+
+Donning and Doffing Armor
+
+The time it takes to don or doff armor depends on the armor's category. If you have help, you can reduce the time it takes to don or doff armor by half.
+
+Don. This is the time it takes to put on armor or wield your shield. You benefit from the armor only if you take the full time to don the suit of armor. ff. This is the time it takes to remove armor or
+
+store your shield.
+
+DONNING AND DOFFING ARMOR
+
+Category
+
+Don
+
+Doff
+
+Light armor
+
+1 minute
+
+1 minute
+
+Medium armon
+
+minute
+
+Heavy armor
+
+5 minutes
+
+10 minutes
+
+5 minutes
+
+1 reaction on your
+
+1 reaction on your
+
+Light shield
+
+1 bonus actio
+
+1 bonus action
+
+Heavy shield
+
+1 action
+
+1 action
+
+Medium shield
+
+Variant: Casting Failure in Armor
+
+In some realms, casting in armor might come at the consequence of fallure, regardless of armor proficiency. This variant rule, found in Appendix F, can help you introduce this concept in your campaigns
 ## Shields.
 
 A shield is made from wood or metal and is carried in one hand. Wielding a buckler (a small shield) increases your Armor Class by 2, a regular shield increases your Armor Class by 3. You can benefit from only one shield at a time.
