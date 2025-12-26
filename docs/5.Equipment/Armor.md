@@ -218,33 +218,27 @@ The time it takes to don or doff armor depends on the armor's category. If you h
 |Light armor	|1 minute	|1 minute|
 |Medium armor	|5 minutes	|1 minute|
 |Heavy armor	|10 minutes	|5 minutes|
-|Shield (Light)|1 reaction on your turn|1 reaction on your turn|
+|Shield (Light)|Object Interaction*|Gesture*|
 |Shield (Medium)	|1 bonus action	|1 bonus action|
 |Shield (Heavy)	|1 action	|1 action|
+|* Characters receive one free object interaction on their turn, which could be to draw and grip their buckler. Tossing the buckler to the ground is part of the character’s other free gestures and would not count as an action or object interaction.|||
 
 #### Variant: Casting Failure in Armor
 
 In some realms, casting in armor might come at the consequence of fallure, regardless of armor proficiency. This variant rule, found in Appendix F, can help you introduce this concept in your campaigns
-## Shields.
 
-A shield is made from wood or metal and is carried in one hand. Wielding a buckler (a small shield) increases your Armor Class by 2, a regular shield increases your Armor Class by 3. You can benefit from only one shield at a time.
+#### Light Armor
 
-## Light Armor
-
-Light armor is easy to come by and does not limit the wearer’s capabilities substantially in acrobatic situations or when performing stealthy maneuvers.
-
-If you wear light armor, you add your Dexterity modifier to the base number from your armor type to determine your Armor Class.
-
-|Name|Cost|Armor Class|Wt.|Properties|
-|---|---|---|---|---|
-|Blessed Robe|10 thaler|11 + Dexterity modifier|5 lb.|—|
-|Concealed Armor|20 thaler|11 + Dexterity modifier|4 lb.|Concealable|
-|Order Cloak|10 thaler|11 + Dexterity modifier|5 lb.|—|
-|Skald’s Cuirass|30 thaler|12 + Dexterity modifier|20 lb.|—|
-|Studded Leather|20 thaler|12 + Dexterity modifier|15 lb.|—|
-|Witch Gown|10 thaler|11 + Dexterity modifier|5 lb.|—|
-|Wolf Skin|1 thaler|12 + Dexterity modifier|15 lb.|Cumbersome|
-|Woven Silk|50 thaler|12 + Dexterity modifier|6 lb.|—|
+|Name|Cost|Wt.|Avoidance Class|Damage Reduction|Properties|
+|---|---|---|---|---|---|
+|Blessed Robe|10 thaler|5 lb.|Dexterity modifier|1|—|
+|Concealed Armor|20 thaler|4 lb.|Dexterity modifier|1|Concealable|
+|Order Cloak|10 thaler|5 lb.|Dexterity modifier|1|—|
+|Skald’s Cuirass|30 thaler||12 + Dexterity modifier|20 lb.|—|
+|Studded Leather|20 thaler||12 + Dexterity modifier|15 lb.|—|
+|Witch Gown|10 thaler||11 + Dexterity modifier|5 lb.|—|
+|Wolf Skin|1 thaler||12 + Dexterity modifier|15 lb.|Cumbersome|
+|Woven Silk|50 thaler||12 + Dexterity modifier|6 lb.|—|
 
 **Blessed Robe.** The priestly robes of the theurgs are blessed and protected by benevolent forces so that the Church’s finest can travel safely throughout the kingdom, and beyond.
 
@@ -262,11 +256,7 @@ If you wear light armor, you add your Dexterity modifier to the base number from
 
 **Woven Silk.** Woven silk is the finest light armor available, since the close weave of its threads withstands stabs and cuts far better than its weight suggests. Woven silk has been used by both barbarians and Ambrians for a long time and some scholars speculate that the technique originally comes from the elves, possibly dating as far back as the days of the Iron Pact.
 
-## Medium Armor
-
-Medium armor offers better protection than the light versions but at the cost of being more restrictive to the wearer’s movements. However, this downside is considered an acceptable trade-­off by most melee combatants.
-
-If you wear medium armor, you add your Dexterity modifier, to a maximum of +2, to the base number from your armor type to determine your Armor Class.
+#### Medium Armor
 
 |Name|Cost|Armor Class|Wt.|Properties|
 |---|---|---|---|---|
@@ -291,10 +281,6 @@ If you wear medium armor, you add your Dexterity modifier, to a maximum of +2, t
 
 ## Heavy Armor
 
-Those melee combatants that can afford it usually chose increased protection at the cost of even greater restrictions to their movement. A self-­respecting knight wears chainmail enforced by shoulder, knee and elbow plates, while those with the means tend to order themselves a personalized set of full plate armor.
-
-Heavy armor doesn’t let you add your Dexterity modifier to your Armor Class, but it also doesn’t penalize you if your Dexterity modifier is negative.
-
 |Name|Cost|Armor Class|Wt.|Properties|
 |---|---|---|---|---|
 |Chain and Plate|250 thaler|15|50 lb.|—|
@@ -309,6 +295,7 @@ Heavy armor doesn’t let you add your Dexterity modifier to your Armor Class, b
 **Field Armor of the Pansars.** The master smiths working for the Pansars can forge full plate armor using pleated steel sheets while retaining the flexibility of standard plated armor.
 
 **Full Plate.** Full plate consists of shaped, interlocking metal plates to cover the entire body.
+
 ## Shields
 
 The following rules on shields are still very simple compared to true old school, but they add enough texture to the world without becoming too complex. Below is a table with enough shields to give some variety to your players.
