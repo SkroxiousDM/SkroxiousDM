@@ -8,11 +8,10 @@ Ogres are commonly considered to be exemplary warriors, closely followed by huma
 
 # Class Features
 
-The Warrior
+##### The Warrior
 
-|   |   |   |
-|---|---|---|
 |Level|Proficiency Bonus|Features|
+|---|---|---|
 |1st|+1|Battle Wind, Fighting Style, Approach, Action Surge|
 |2nd|+1|Approach, Ability Score Improvement or Feat|
 |3rd|+2|Extra Attack (2), Approach|
@@ -46,74 +45,32 @@ You start with the following equipment, in addition to the equipment granted by 
 - (a) a dungeoneer’s pack or (b) an explorer’s pack
 
 ### BATTLE WIND
-
 You are familiar with the ebb and flow of battle and know how to defend yourself against the wild blows of desperate opponents. When you are hit by an attack roll you can use your reaction to gain temporary hit points equal to 2d4 + your Constitution modifier. You immediately gain the temporary hit points and can apply damage from the triggering attack to them.
 
 You can use this feature a number of times equal to your proficiency bonus and then you must take a long or extended rest before using this feature again.
 
 ### FIGHTING STYLE
-
-You adopt a particular style of fighting as your specialty. Choose one of the following options. You can’t take a Fighting Style option more than once, even if you later get to choose again.
-
-##### Archery
-
-You gain a +2 bonus to attack rolls you make with ranged weapons.
-
-##### Defense
-
-While you are wearing armor, you gain a +1 bonus to AC.
-
-##### Dueling
-
-When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.
-
-##### Great Weapon Fighting
-
-When you roll a 1 or 2 on a damage die for an attack you make with a melee weapon that you are wielding with two hands, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2. The weapon must have the two-­handed or versatile property for you to gain this benefit.
-
-##### Polearm Fighting
-
-When wielding a reach weapon, you can use your reaction to impose disadvantage on a melee attack roll within your reach.
-
-##### Shield Fighting
-
-If you make a successful melee attack roll you can use your bonus action to slam the target with your shield. If the target is your size or smaller, it must make a Strength saving throw against 10 plus your Strength (Athletics) modifier. On a failure you can choose to move it 10 feet in a line, or cause the creature to become prone.
-
-##### Snare Fighting
-
-If using a weapon with the ensnaring property and you make a successful attack roll, you can spend a bonus action to forgo doing damage, instead tripping the target and causing it to fall prone. This only works on creatures your size or smaller with two or less legs or similarly shaped targets.
-
-##### Two-­Weapon Fighting
-
-When you engage in two-­weapon fighting, you can add your ability modifier to the damage of the second attack.
-
-##### new fighting style: Mounted
-
-You are considered trained in mounted combat. You can also force a single attack roll targeted at your mount to target you instead.
+You adopt a particular style of fighting as your specialty. Choose one of the following options. [Fighting Styles](https://skroxiousdm.github.io/SkroxiousDM/7.%20House%20Rules/fighting-styles.md)
 
 ### APPROACH
-
 At 1st level you also choose your approach to the profession of fighting. Are you a Berserker, dangerous to friends and foes alike? A studied Duelist used to combat against a single opponent? A Knight who has pledged their very life to the protection of the kingdom? A Tattoed Warrior using the power of runes? A faithful Templar? Or one of the dangerous Wraithguard?
 
 Your approach gives you benefits at 1st, 2nd, 3rd, 5th, 7th and 9th levels.
 
 ### ACTION SURGE
-
 Starting at 1st level, you can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action. Once you use this feature, you must finish a rest of any length before you can use it again. Starting at 8th level, you can use it twice before a rest, but only once on the same turn.
 
 ### ABILITY SCORE IMPROVEMENT OR FEAT
-
 When you reach 2nd level, and again at 4th, 5th, 6th, 7th, 8th, and 10th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
 
-Instead of improving your ability scores you can instead choose to gain a feat. See @Compendium[symbaroum5eplayersguide.ros-pg-player-guide-journal.5Ya7wZlEARDOWd2u]{01.4a - Classes and Feats}for more about feats.
+Instead of improving your ability scores you can instead choose to gain a feat. See [General Feats](https://skroxiousdm.github.io/SkroxiousDM/4.Feats/General%20Feats.md)for more about feats.
 
 ### EXTRA ATTACK
-
 Beginning at 3rd level, you can attack twice, instead of once, whenever you take the Attack action on your turn. The number of attacks increases to three when you reach 6th level in this class and to four when you reach 9th level in this class.
 
 ### Second Wind  
 Your reserves are gone but the battle stands at a critical point. You push past all physical limits, drawing on sheer willpower to keep fighting.  
-At 3rd level you can use a bonus action to regain vigor points equal to 1d10 + your warrior level by spending a Recovery Die. Usable once per rest.
+At 3rd level you can use a bonus action to regain HP equal to 1d10 + your warrior level by spending a Recovery Die. Usable once per rest.
 
 ### INDOMITABLE
 
