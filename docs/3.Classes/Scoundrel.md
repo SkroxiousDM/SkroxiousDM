@@ -12,7 +12,7 @@ The Shadows of scoundrels are invariably darker than their fellows’, but the n
 ###### The Scoundrel
 |Level|Proficiency Bonus|Backstab Bonus|Features|
 |---|---|---|---|
-|1st|+1|1d6|Expertise, Backstab, Approach, Cunning Action|
+|1st|+1|1d6|Expertise, Backstab, Approach, Cunning Action, Weapon Mastery|
 |2nd|+1|2d6|Approach, Ability Score Improvement or Feat|
 |3rd|+2|3d6|Uncanny Dodge, Amazing Dodge, Expertise, Approach|
 |4th|+2|4d6|Evasion, Ability Score Improvement or Feat|
@@ -57,6 +57,11 @@ Your approach gives you benefits at 1st, 3rd, 6th, 9th, 13th and 17th levels.
 
 ### CUNNING ACTION
 Starting at 2nd level, your quick thinking and agility allow you to move and act quickly. You can take a bonus action on each of your turns in combat. This action can be used only to take the Dash, Disengage, or Hide action.
+
+### Weapon Mastery
+Your training with weapons allows you to use the mastery properties of two kinds of weapons of your choice with which you have proficiency, such as Daggers and Shortbows.
+
+Whenever you finish a Long Rest, you can change the kinds of weapons you chose. For example, you could switch to using the mastery properties of Scimitars and Shortswords.
 
 ### ABILITY SCORE IMPROVEMENT OR FEAT
 When you reach 4th level, and again at 8th, 10th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
