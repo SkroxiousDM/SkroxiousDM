@@ -128,4 +128,4 @@ You have martial training that allows you to perform special combat maneuvers. Y
 # Weapon Master
 You gain the following benefits.
 - Ability Score Increase. Increase your Strength or Dexterity score by 1, to a maximum of 20.
-- **Mastery Property**. Your training with weapons allows you to use the mastery property of one kind of Simple or Martial weapon of your choice, provided you have proficiency with it. Whenever you finish a Long Rest, you can change the kind of weapon to another eligible kind.
+- **Mastery Property**. Your training with weapons allows you to use the [mastery property](https://skroxiousdm.github.io/SkroxiousDM/7.%20House%20Rules/weapon-mastery.md) of one kind of Simple or Martial weapon of your choice, provided you have proficiency with it. Whenever you finish a Long Rest, you can change the kind of weapon to another eligible kind.
