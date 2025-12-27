@@ -2,8 +2,8 @@
 ### Skill Specialties
 In addition to having proficiency in a skill, a character may be an expert at a narrow area of specialization within that skill. For instance, a character proficient in the Deception skill may be particularly adept in communicating through written code.
 
-A character gains two skill specialties at 1st level (plus bonus knowledge; see Intelligence), and gains an additional specialty whenever their proficiency bonus increases.  A character may choose any specialty in a skill in which they are proficient. A character may not gain the same skill specialty twice.
-If your Intelligence is 12 or higher, you gain extra skill specialties (see Intelligence).
+A character gains two skill specialties at 1st level (plus bonus knowledge; see [Ingenious Proficiency](https://skroxiousdm.github.io/SkroxiousDM/7.%20House%20Rules/Ingenious%20Proficiency)), and gains an additional specialty whenever their proficiency bonus increases.  A character may choose any specialty in a skill in which they are proficient. A character may not gain the same skill specialty twice.
+If your Intelligence is 12 or higher, you gain extra skill specialties (see [Ingenious Proficiency](https://skroxiousdm.github.io/SkroxiousDM/7.%20House%20Rules/Ingenious%20Proficiency)).
 When a character makes an ability check to which their skill specialty applies, they gain an expertise die for that ability check. The Narrator determines whether the skill specialty applies.
 
 While the list of skills below is fairly comprehensive, the Narrator may expand the list of skill specialties to meet the needs of the campaign world. Each of its cultures, historical eras, important organizations, and other unique details might furnish a specialty.
