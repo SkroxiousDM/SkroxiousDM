@@ -122,10 +122,28 @@ You have a tough body and a strong soul, meaning that your heart keeps beating w
 
 # Martial Adept
 You have martial training that allows you to perform special combat maneuvers. You gain the following benefits:
-- You learn two maneuvers of your choice from among those available to the Battle Master archetype in the fighter class. If a maneuver you use requires your target to make a saving throw to resist the maneuver’s effects, the saving throw DC equals 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice).
+- You learn two maneuvers of your choice from [Martial Maneuvers]() If a maneuver you use requires your target to make a saving throw to resist the maneuver’s effects, the saving throw DC equals 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice).
 - You gain one superiority die, which is a d6 (this die is added to any superiority dice you have from another source). This die is used to fuel your maneuvers. A superiority die is expended when you use it. You regain your expended superiority dice when you finish a short or long rest
 
 # Weapon Master
 You gain the following benefits.
 - Ability Score Increase. Increase your Strength or Dexterity score by 1, to a maximum of 20.
 - **Mastery Property**. Your training with weapons allows you to use the [mastery property](https://skroxiousdm.github.io/SkroxiousDM/7.%20House%20Rules/weapon-mastery.md) of one kind of Simple or Martial weapon of your choice, provided you have proficiency with it. Whenever you finish a Long Rest, you can change the kind of weapon to another eligible kind.
+# Fighting Stylist
+Prerequisite: 2nd level<br>
+You may take this feat more than once. You adopt a particular style of fighting as your specialty, gaining the following benefits:
+- Increase your Strength, Dexterity, or Constitution score by 1, to a maximum of 20.
+- Choose one of the fighting style options, detailed later in this chapter.
+- You may choose your [fighting style from the following options:](https://skroxiousdm.github.io/SkroxiousDM/7.%20House%20Rules/fighting-styles.md)
+
+# Formfighting Practice
+You may take this feat more than once. You’re practiced with the basics of battleforms. You gain the following benefits:
+- Once on each of your turns, you can draw or stow a weapon without using your object interaction.
+- You learn two battleforms. If you have previously taken this feat, you instead learn three additional battleforms.
+- Each known form can be adopted on your turn by using your bonus action.
+<br>You may choose your [battleforms from the following options:]((https://skroxiousdm.github.io/SkroxiousDM/7.%20House%20Rules/battleforms.md))
+
+# Fighting Master
+Prerequisite: 4th level<br>
+You may take this feat more than once. You’ve mastered a particular style of fighting.<br>
+You may choose your [fighting mastery from the following options:](https://skroxiousdm.github.io/SkroxiousDM/7.%20House%20Rules/fighting-masteries.md)
