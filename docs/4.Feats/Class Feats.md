@@ -115,9 +115,10 @@ You learn the following rituals: tale of ashes, flaming servant, fire soul. You 
 
 Deep within Davokar, ruined monasteries contain secrets practiced for generations. These mysteries are taught to those trusted by the order, or to its members who have achieved much in their battle against Corruption. With knowledge of these secrets a Staff Mage truly becomes one with their staff.
 
-You gain the following three abilities:
+You gain the following four abilities:
 
-- Mastery. Twice per day you may invoke your mastery over your staff by using an action to magically fix it in place. Until you spend an action to release the staff it will not move, even if it is defying gravity. Whilst under this effect the staff may hold up to 8,000 lbs of weight. More weight than this causes the staff to release and fall. A creature can make a DC 30 strength check, moving the staff 10 ft. on a success. You must be able to see your staff and be within 100 ft. of it to be able to activate this feature.
+- Mastery.  your continued training allows you to use the mastery property of Quarterstaves.
+- Steadfast.  Twice per day you may invoke your mastery over your staff by using an action to magically fix it in place. Until you spend an action to release the staff it will not move, even if it is defying gravity. Whilst under this effect the staff may hold up to 8,000 lbs of weight. More weight than this causes the staff to release and fall. A creature can make a DC 30 strength check, moving the staff 10 ft. on a success. You must be able to see your staff and be within 100 ft. of it to be able to activate this feature.
 - Unity. As a bonus action you may fuse your staff with your own body, drawing it into yourself. Whilst fused in this manner the staff weighs nothing and cannot be detected or discovered by other creatures. As another bonus action you call forth your staff causing it to grow from your palm ready to be used. After the first hour of being fused with you, any permanent Corruption begins to be drawn to you. At the end of the second hour the staff loses a point of permanent Corruption and you gain that point. This effect continues each hour until the staff has no permanent Corruption left.
 - Strength. You draw vigor from wielding your staff, whilst you are touching your staff you have advantage on saving throws against poison and diseases. In addition, while you are wielding your staff as a weapon, you have advantage on ability checks to resist being pushed or knocked prone.
 
