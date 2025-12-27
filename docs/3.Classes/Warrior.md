@@ -12,7 +12,7 @@ Ogres are commonly considered to be exemplary warriors, closely followed by huma
 
 |Level|Proficiency Bonus|Features|
 |---|---|---|
-|1st|+1|Battle Wind, Fighting Style, Approach, Action Surge|
+|1st|+1|Battle Wind, Fighting Style, Approach, Action Surge, Weapon Mastery|
 |2nd|+1|Approach, Ability Score Improvement or Feat|
 |3rd|+2|Extra Attack (2), Approach|
 |4th|+2|Indomitable, Ability Score Improvement or Feat|
@@ -59,6 +59,9 @@ Your approach gives you benefits at 1st, 2nd, 3rd, 5th, 7th and 9th levels.
 
 ### ACTION SURGE
 Starting at 1st level, you can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action. Once you use this feature, you must finish a rest of any length before you can use it again. Starting at 8th level, you can use it twice before a rest, but only once on the same turn.
+
+### WEAPON MASTERY
+Your training with weapons allows you to use the mastery properties of a number of Simple or Martial weapons of your choice. Whenever you finish a Long Rest, you can practice weapon drills and change one of those weapon choices. You can Master (1 + your Proficiency Bonus) weapons.
 
 ### ABILITY SCORE IMPROVEMENT OR FEAT
 When you reach 2nd level, and again at 4th, 5th, 6th, 7th, 8th, and 10th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
