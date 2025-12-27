@@ -124,3 +124,8 @@ You have a tough body and a strong soul, meaning that your heart keeps beating w
 You have martial training that allows you to perform special combat maneuvers. You gain the following benefits:
 - You learn two maneuvers of your choice from among those available to the Battle Master archetype in the fighter class. If a maneuver you use requires your target to make a saving throw to resist the maneuver’s effects, the saving throw DC equals 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice).
 - You gain one superiority die, which is a d6 (this die is added to any superiority dice you have from another source). This die is used to fuel your maneuvers. A superiority die is expended when you use it. You regain your expended superiority dice when you finish a short or long rest
+
+# Weapon Master
+You gain the following benefits.
+- Ability Score Increase. Increase your Strength or Dexterity score by 1, to a maximum of 20.
+- **Mastery Property**. Your training with weapons allows you to use the mastery property of one kind of Simple or Martial weapon of your choice, provided you have proficiency with it. Whenever you finish a Long Rest, you can change the kind of weapon to another eligible kind.
