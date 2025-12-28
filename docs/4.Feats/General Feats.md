@@ -122,7 +122,7 @@ You have a tough body and a strong soul, meaning that your heart keeps beating w
 
 # Martial Adept
 You have martial training that allows you to perform special combat maneuvers. You gain the following benefits:
-- You learn two maneuvers of your choice from [Martial Maneuvers]() If a maneuver you use requires your target to make a saving throw to resist the maneuver’s effects, the saving throw DC equals 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice).
+- You learn two maneuvers of your choice from [Martial Maneuvers](https://skroxiousdm.github.io/SkroxiousDM/7.%20House%20Rules/martial-maneuvers.md) If a maneuver you use requires your target to make a saving throw to resist the maneuver’s effects, the saving throw DC equals 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice).
 - You gain one superiority die, which is a d6 (this die is added to any superiority dice you have from another source). This die is used to fuel your maneuvers. A superiority die is expended when you use it. You regain your expended superiority dice when you finish a short or long rest
 
 # Weapon Master
@@ -141,7 +141,7 @@ You may take this feat more than once. You’re practiced with the basics of bat
 - Once on each of your turns, you can draw or stow a weapon without using your object interaction.
 - You learn two battleforms. If you have previously taken this feat, you instead learn three additional battleforms.
 - Each known form can be adopted on your turn by using your bonus action.
-<br>You may choose your [battleforms from the following options:]((https://skroxiousdm.github.io/SkroxiousDM/7.%20House%20Rules/battleforms.md))
+<br>You may choose your [battleforms from the following options:](https://skroxiousdm.github.io/SkroxiousDM/7.%20House%20Rules/battleforms.md)
 
 # Fighting Master
 Prerequisite: 4th level<br>
