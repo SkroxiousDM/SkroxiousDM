@@ -6,10 +6,10 @@ Players creating new characters don't need to convert while choosing their start
 
 Depending on your setting, you may want to keep certain prices in gold. In settings with low magic, magical items are expensive and should retain their price in gold. In settings where knowledge and skill are highly valued, mercenaries might retain their hire price in gold. In settings with politics and merchants, all international trade is done in gold.
 
-# ~Medjeval Money~ 
-Moneyis counted in three denominations: gold florins, silver groschen,and silver pfenniges. Because distribution of wealth and wages were so different, comparisons to modern currency are impossible. In general, florins are very valuable, but are used only in large transactions; groschen are fairly valuable and are in daily use; pfenniges are "small change," important only to the very poor. Conversion between denominations follows the classic medieval pattern of "a dozen and a gross," namely: 
+# Medjeval Money
+Money is counted in three denominations: gold florins, silver groschen,and silver pfenniges. Because distribution of wealth and wages were so different, comparisons to modern currency are impossible. In general, florins are very valuable, but are used only in large transactions; groschen are fairly valuable and are in daily use; pfenniges are "small change," important only to the very poor. Conversion between denominations follows the classic medieval pattern of "a dozen and a gross," namely: 
 
-|||
+| | | |
 |:---:|:---:|:---:|
 |12 pfenniges (pf)|=|1 groschen (gr)|
 |20 groschen (gr)|=|1 florin (£1)|
