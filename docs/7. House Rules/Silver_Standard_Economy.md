@@ -6,10 +6,11 @@ Players creating new characters don't need to convert while choosing their start
 
 Depending on your setting, you may want to keep certain prices in gold. In settings with low magic, magical items are expensive and should retain their price in gold. In settings where knowledge and skill are highly valued, mercenaries might retain their hire price in gold. In settings with politics and merchants, all international trade is done in gold.
 
-The standard coin throughout the East is the silver denarius, which is equivalent to 8 brass dupondii.. Twenty-five denarii are equal in value to a single gold aureus.
+# ~Medjeval Money~ 
+Moneyis counted in three denominations: gold florins, silver groschen,and silver pfenniges. Because distribution of wealth and wages were so different, comparisons to modern currency are impossible. In general, florins are very valuable, but are used only in large transactions; groschen are fairly valuable and are in daily use; pfenniges are "small change," important only to the very poor. Conversion between denominations follows the classic medieval pattern of "a dozen and a gross," namely: 
 
-1 Aureus = 25 Denarii
-
-1 Denarius = 8 Dupondii
-
-Some eastern cities call their silver coins tertradrachmas or shekels. Throughout the Persian kingdom, the silver denarius is equal in value to the sigloi, while the aureus is equivalent to the Persian daric.
+|||
+|:---:|:---:|:---:|
+|12 pfenniges (pf)|=|1 groschen (gr)|
+|20 groschen (gr)|=|1 florin (£1)|
+|240 pfenniges (pf)|=|1 florin (£1)|
