@@ -442,3 +442,34 @@ One door bore a white mask belonging to Anton Konstantinovich, a prisoner they r
 The group then faced a masked vampire woman known as Volenta Popovski, encountered previously in Barovia’s Coffin Maker’s shop. She attacked with icy shards and poisonous daggers. The adventurers fought back using weapons and fire magic, eventually defeating her. Afterward, they collected valuable loot from her,  a platinum skull-shaped mask , and ten platinum rings set with gemstones.
 
 Inside a rusty cage hung Anton, who communicated his fear of the water below, which was inhabited by zombies. To avoid the water, the party used flight magic to reach and free him safely, then sent him through the brazier portal to safety alongside Ireena.
+
+### Session 42 *2026-01-12*
+the party was now faced with several choices for their next move.
+
+They examined the three doors to the north in the brazier room. The far-left door was their entrance, the middle led upward into a a misty, dry-ice-like fog, about twenty feet above, and the right door led to an ascending spiral staircase . To the south, beyond a waterlogged chamber where zombies were reported, another door led east and then split into multiple paths, including a spiral staircase going up.
+
+Vix, using magic of flight, had scouted the waterlogged chamber and confirmed the presence of zombies in the water. The Argynvost skull they had recovered was safely stored in Soren’s possession. The party was still searching for three key items: the lost spear of the huntress (Kavan), the icon of Dawn’s Grace to redeem the abbot and save Anna Kreskov, and Emil Toranescue, a person believed to be somewhere in the dungeon.
+
+The group considered resting briefly to recover hit points, taking a short rest rather than a long one, as time was limited before dawn. After some brief recovery, they decided to proceed cautiously, opting to follow the spiral staircase that led upward from the brazier room. Along the way, they recognized the landing as the wine cellar level—the same place Vix had visited during the dinner party with Strahd. The wine cellar, kitchen, and dining room were nearby.
+
+While advancing, the party triggered a pressure plate in a hallway betweenthe staircase and doorway, which caused two steel portcullises to slam shut and whisked three party members upward in an elevator shaft. Unfortunately, as they ascended, a jet of sleep gas filled the elevator chamber, and those inside failed their saving throws, falling unconscious. The rest of the party, hearing the portcullises slam and the heavy stone block settling into place, realized they had to head upwards to find their companions.
+
+Exploring the upper levels, they found a door behind which an elderly, corpse-like man sat muttering and writing on parchment. Uncertain of his identity, they decided to leave him undisturbed for the time being. They pressed upward and onward until they came to the landing outside the guest chambers, where there lay a trapdoor in the correct location to access the Elevator trap.
+
+The conscious members debated how to rescue their sleeping companions. Vix was lowered down on a rope into the trap and successfully began hoisting Esmeralda and Dorian up one by one, waking them in the process. With everyone reunited, the party continued downward through the castle, arriving on the sub ground floor, the party cautiously approached the elevator trap chamber again, noting the granite block still sealed in place and the elevator absent. To avoid triggering the trap again, they decided to cross one at a time.
+
+They proceeded to investigate the wine cellar and kitchen areas, checking for traps and hidden pathways. In one cluttered room filled with broken weapons and debris, a vampire spawn lurking in the southwest corner attacked Vix. After a brief combat, the vampire was slain, its body searched, but nothing of value was found beyond the expected rubbish.
+
+Utilizing a magical item known as the Talisman of Echoes, the party employed the “Speak with Dead” ability to question the slain vampire’s spirit. They asked about the locations of the catacombs, the crypt, and the dungeon; the spirit revealed that the catacombs could be accessed via the south stairs in the chapel upstairs. It did not know how to drain the water from the lower levels and had no knowledge of the dungeon. The party also inquired about any items of power to aid them.
+
+Among their inventory, they noted the holy symbol of Ravenkind that Radmel wore, a potent item that had drawn Strahd’s attention during their dinner encounter. Other magical items included the Charm of Mass Heroism, a clairvoyant stone granted by a Vistani, the Keeper’s Whistle used to summon a Were Raven agent, and an unidentified magical stone found beneath a loose flagstone in the castle.
+
+With this information, the group decided to make their way to the chapel, located at the east end of the ground floor. From there, they aimed to descend into the catacombs. Upon arrival, they found the chapel in disrepair, with broken stained glass windows, dust-covered benches, and an altar adorned with carvings of angelic figures entwined with grapevines.
+
+At the south end of the chapel, further exploration revealed a recently constructed masonry wall blocking part of the staircase leading deeper into the catacombs. Although it would take considerable time to break through, the party began chipping at the obstruction, taking care to watch for traps or other dangers. The party found this area dimly lit by torches and sconces, with thick fog clinging to the floor. The crypts here were sealed stone slabs inscribed with names familiar to some party members, including Irina Kolyana, the companion they had rescued, and other notable Barovian figures. Attempts to open the crypts met with difficulty due to the heavy stone slabs.
+
+At the eastern end of the catacombs, they encountered statues of warriors and a spectral blue curtain of light between them. Testing the barrier, several party members found they could pass through it, arriving at a higher landing in the tomb area. Here stood two marble sarcophagi marked as the resting places of King Barrow von Zarovich and Queen Ravenovia of Vandroyen, adorned with carved likenesses and surrounded by dusty stained glass windows.
+
+The session concluded with Dorian rounding  a corner and startled a corpse that immediately rose, hinting at danger ahead.
+
+With this encounter unfolding, the group decided to end the session, preparing for what challenges their search for the lost spear, the icon of Dawn’s Grace, and Emil would bring next.
