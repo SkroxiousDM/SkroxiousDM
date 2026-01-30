@@ -5,9 +5,10 @@ A smirking guardsman looking up at a haughty priest, the priest’s pointing fin
 “I see the ancient foe of an old and noble house. The wandering soul will guide you to him.”~~
 **You are pretty sure this was the spirit of Leo Dilisnya He dropped a Book that you have as yet been unable to open.**
 - card 2
-  _**“This card tells of a powerful force for good and protection, a holy symbol of great hope.”**
+ ~~_**“This card tells of a powerful force for good and protection, a holy symbol of great hope.”**
 an armored warrior clutching a cracked iron sword and a leather-bound wooden shield, his face obscured by a heavy iron helmet. “The Five of Swords—the Myrmidon.”
-  **“Look for a den of wolves in the hills overlooking a mountain lake. The treasure belongs to Mother Night.”**_
+  **“Look for a den of wolves in the hills overlooking a mountain lake. The treasure belongs to Mother Night.”**_~~
+  **You have retrieved the Holy Symbol of Ravenkind from the Statue of Mother Night**
 
 - card 3
 _**“This is a card of power and strength. It tells of a weapon of vengeance: a sword of sunlight.”**
