@@ -6,9 +6,7 @@ foundryId: JournalEntry.2fPuVho4zrPAuTrG.JournalEntryPage.zfbsMHXZPP4rAc8y
 tags:
   - JournalEntryPage
 ---
-# Journal
-
-## Oktavyr 27
+# 27th day of Oktavyr 
 ### Session 1 *2023-09-18*
 
 By chance or perhaps fate Vix Bogs, Virgil Bauchamp and Radmil Silvervein were pulled from the stable you all desperately sought shelter within, led by Vix’s scarf through impenetrable mists into the manor of Elizabeth and Gustav Durst. Upon entering this seemingly abandoned place , blood flowed and foretold of your death at the hands of a terrible beast. The way out had been bricked over as soon as you entered and the windows impassable, thanks to grotesque thick fleshy tendrils.
@@ -45,6 +43,8 @@ Having hardly caught your breath the ghost of Elizabeth Durst finally revealed h
 
 Rose and Thorn agree to stand watch while you collapse into sleep and in the morning at Dorian’s suggestion, you bury the bones of Rose, Thorn and Walter Durst beneath a towering tree with a rope swing. Finally laid to rest, the ghosts wish you good luck and say goodbye. As they fade away you hear children laughing and a baby cooing.
 
+# 28th day of Oktavyr 
+
 You pass through huge gates with decapitated stone statues guarding the way and as you pass, the gates close and lock shut. Welcome to Barovia.
 
 As you travel down the road, silhouettes in the mists appear and disappear. A hunched figure, an enormous avian shadow, a reptile soaring with batlike wings, dozens of tiny birdlike shadows following, a tall slender figure with feathered wings, a broad figure with the shadow of an axe held by a clawed swollen hand and finally a tall cloaked figure sitting atop a horse whose shadowed mane seems to ripple like flames. All disappearing into the mist leaving you in an eerie silence once more.
@@ -75,7 +75,7 @@ Over drinks Ismark shares with you:
 
 # Ireena’s Journal
 
-## 1st day of Neyavr, 735 BC
+# 1st day of Neyavr, 735 BC
 
 ### Session 4 *2023-10-30*
 
@@ -107,7 +107,7 @@ She warned of a spy approaching and when we left the tent Eliza and Arturi were 
 
 I’ve heard many tales about Vistani hospitality, and last night exceeded all expectations. The fire was a welcome reprieve after our first day on the road. I am glad for the Game of Stories, to have learned more of my companions. I am convinced however that the land beyond the mists is no better than this. Hatred and greed know no boundaries. I can’t believe it was the Vistani themselves that saved Strahd hundreds of years ago and for it have been granted safe passage through his realm ever since! If only they had left him to die then perhaps none of this misery would have befallen Barovia. I had never quite heard the myth of the Holy Symbol of Ravenkind quite how Eliza described it. Madam Eva spoke of a holy symbol of great hope in her card reading. Perhaps after I have ensured my people’s protection in Barovia I will convince my companions to investigate Yester Hill.
 
-## 2nd day of Neyavr, 735 BC
+# 2nd day of Neyavr, 735 BC
 
 ### Session 7 *2024-01-08*
 
@@ -125,7 +125,7 @@ As we found the Blue Water Inn, it took everything I had not to break down in fr
 
 I was relieved to return downstairs. Losing myself in healing my friends and listening to that odd man Rictavio’s stories. Those Wachter boys seemed to despise the Baron. Time will tell if they can be trusted, but time is not on my side.
 
-## 3rd day of Neyavr, 735 BC
+# 3rd day of Neyavr, 735 BC
 
 ### Session 9 *2024-01-29*
 
@@ -153,7 +153,7 @@ They survived though, and the bones have been returned. St. Andrals is safe from
 
 #### Extended Rest - from Noon - The Blue Water Inn
 
-## 4th day of Neyavr, 735 BC
+# 4th day of Neyavr, 735 BC
 
 ### Session 11 *2024-03-04*
 
@@ -177,7 +177,7 @@ agree to investigate Khazan’s tower and give Victor any artifacts they find, f
 
 dinner with lady wachter
 
-## 5th day of Neyavr, 735 BC
+# 5th day of Neyavr, 735 BC
 
 ### Session 14 *2024-04-01*
 
@@ -197,7 +197,7 @@ dinner with lady wachter
 
 - defeated Izek and deliverd 
 - rested at the BWI
-## 6th day of Neyavr, 735 BC
+# 6th day of Neyavr, 735 BC
 
 ### Session 16 *2024-04-15*
 - baron Vargas Abdicates
@@ -213,7 +213,7 @@ dinner with lady wachter
 - Visit the refugee camp and meet Franz.
 - They rested at the BWI. 
 
-## 7th day of Neyavr, 735 BC
+# 7th day of Neyavr, 735 BC
 - Headed to Krezk first thing in the morning.
 - delivered the Scrying results to Baron Krezkov.
 - went to the pool and unexpectedly received healing from the Abbott.
@@ -233,7 +233,7 @@ defeated the Hags and returned to Vallaki<br>
 
 #### Extended Rest from 5 PM - The Blue Water Inn
 
-## 8th day of Neyavr, 735 BC
+# 8th day of Neyavr, 735 BC
 
 ### Session 20  *2024-09-02*
 
@@ -245,11 +245,11 @@ defeated the Spirit of Leo Dilisnya<br>
 
 returned Stella Wachter's Spirit to her body<br>
 
-## 9th day of Neyavr, 735 BC
+# 9th day of Neyavr, 735 BC
 
 #### Extended Rest from 1 AM - The Blue Water Inn
 
-## 10th day of Neyavr, 735 BC
+# 10th day of Neyavr, 735 BC
 
 ### Session 22 *2024-11-04*
 
@@ -257,7 +257,7 @@ Urwin Martikov asked us to get Investigate a shortage of wine deliveries from th
 
 ### Session 23 *2024-11-11*
 
-## 11th day of Neyavr, 735 BC
+# 11th day of Neyavr, 735 BC
 
 ### Session 24 *2024-11-18*
 
@@ -279,7 +279,7 @@ returned to Wizard of Wines with the Gem<br>
 
 #### Extended Rest from 9 AM - The Wizard Of Wines Winery
 
-## 12th day of Neyavr, 735 BC
+# 12th day of Neyavr, 735 BC
 
 traveled to Krezk with the Wine<br>
 
@@ -299,7 +299,7 @@ spent the evening with Krezkov Family<br>
 
 learned that they are a werewolf family<br>
 
-## 13th day of Neyavr, 735 BC
+# 13th day of Neyavr, 735 BC
 
 ### Session 29 *2025-02-10*
 
@@ -365,7 +365,7 @@ harvested 3 doses of poison and a Fang for Vix<br>
 - Zuleika had you swear an oath to the Night Mother to rescue Emil before the first light of the new moon. in exchange she would allow you to take the Symbol of Holy Ravenkind.
 - travel to Krezk reunite Ilya with his family
 ###### long rest at Krezkov’s residence
-## 14th day of Neyavr, 735 BC
+# 14th day of Neyavr, 735 BC
 After receiving an invitation to dine with Strahd on Neyavr 14—the last night before the new moon—you journey east to Castle Ravenloft. Along the way, you:
 - travel to Vallaki have some fancy clothes tailored.
 - Arrigal bumped into Dorian and slipped a note into his pocket that directs you to locate a traitor in Strahd's court.
@@ -397,10 +397,9 @@ After ascending to your room, however, the ghost of Varushka, a former servant o
 ### Session 37 *2025-10-20*
 defeated Varushka
 ###### Long Rest at Castle Ravenloft
-## 15th day of Neyavr, 735 BC
-about to depart the castle aboard the black coach
-
+# 15th day of Neyavr, 735 BC
 ### Session 38 *2025-11-24*
+- depart the castle aboard the black coach
 - traveled to Vallaki
 - talked to Van Richten and Doru about the layout of Castle Ravenloft.
 - bought climbing supplies and organised Order of the Feather transport into Ravenloft at Dusk
@@ -474,7 +473,7 @@ At the eastern end of the catacombs, they encountered statues of warriors and a 
 
 The session concluded with Dorian rounding  a corner and startled a corpse that immediately rose, hinting at danger ahead.
 
-### Session 42 *2026-01-12*
+### Session 43 *2026-01-26*
 The group faced and quickly dispatched an attacking zombie using Esmeralda’s multiattack, with Dorian and others preparing for further threats. Radmill, separated from the main group, investigated crypts bearing names familiar to him and managed to open one door with his crowbar revealing chilling cold and mold inside.
 
 In the crypt of the archmage Kazan, they discovered eight arcane runes representing schools of magic. Vix attempted a complex ritual, casting spells from each school in sequence upon the corresponding runes. Though the process inflicted corruption, he successfully activated the runes, causing Kazan’s staff to materialize above a marble slab. After a difficult trial of controlling the staff’s wild magic—resulting in lightning damage and saving throws—Vix attuned to the staff, gaining significant magical benefits including improved armor class, spellcasting bonuses, and weapon enhancements.
