@@ -7,7 +7,7 @@ tags:
   - JournalEntryPage
 ---
 # 27th day of Oktavyr 
-### Session 1 *2023-09-18*
+## Session 1 *2023-09-18*
 
 By chance or perhaps fate Vix Bogs, Virgil Bauchamp and Radmil Silvervein were pulled from the stable you all desperately sought shelter within, led by Vix’s scarf through impenetrable mists into the manor of Elizabeth and Gustav Durst. Upon entering this seemingly abandoned place , blood flowed and foretold of your death at the hands of a terrible beast. The way out had been bricked over as soon as you entered and the windows impassable, thanks to grotesque thick fleshy tendrils.
 
@@ -21,7 +21,7 @@ Confirmed by the ghost of the nursemaid Klara trapped in a mirror and bearing th
 
 Eager to help, Klara revealed a hidden door behind the mirror leading you up to the attic. You made the acquaintance of Rose and Thorn, Elizabeth and Gustav’s legitimate children whom had been locked in their room and forgotten by their mother, eventually starving to death.
 
-### Session 2 *2023-10-02*
+## Session 2 *2023-10-02*
 
 They agreed to help if you could take their bones from this horrible place and give them a proper burial. Rose then possessed Vix because he wore her father’s neck tie and Thorn possessed Bogokom who was the biggest. Rose then led you to the secret stairwell down to the crypts where all were empty save for the pulsating fleshly tendrils within Walters. After defeating a grick and nearly losing Dorian, Vix realized there was more to Rose than previously thought and the party returned to her room to vetch the spells contained within her diary. Realizing they had passed a secret door with a locked shaped exactly like an amber shard seen hanging from Elizabeth’s ghostly neck, you headed to the master bedroom where Rose had seen her mother talking to it.
 
@@ -33,7 +33,7 @@ You then headed down to the study and unlocked the secret door using the amber s
 
 As the clock continued to chime closer and closer to midnight and your demise you headed back to the crypts. Passing the larder led to an encounter with 3 ghoul cultists whom you dispatched but not without taking your own licks and leaving Vix with an insatiable urge to drink blood. A short rest was needed to gather your nerves within this dreadful place. With minutes left until midnight you explored deeper into the crypts only to be attacked by the boneless flayed skin of Gustav Durst. And at its defeat, the midnight chime came. So to did a huge and grotesque mass of flesh. The beast awoken at last and death crazed to destroy you.
 
-### Session 3 *2023-10-16*
+## Session 3 *2023-10-16*
 
 As the battle ensued, it appeared that you were victorious when striking it down but the beast rose up once more. Desperation grew as the beast unleashed renewed fury. Virgil, face to face with it took a direct shot of its acid gore. In his stunned state while the rest of you fought on all his senses focused on the baby and its deafening cry lying at the centre of the mound of flesh. He cried out through his pain “Target the baby”.
 
@@ -77,7 +77,7 @@ Over drinks Ismark shares with you:
 
 # 1st day of Neyavr, 735 BC
 
-### Session 4 *2023-10-30*
+## Session 4 *2023-10-30*
 
 The nerve of him. How could Ismark do this without even consulting me. It’s not him the devil has bitten not once but twice! But he’s right, this is the only way. And at least if I’m in Vallaki I can help those Barovians who have fled there. How many made it? I dare not let my mind wander as to what those poor souls endured on the road.
 
@@ -89,7 +89,7 @@ I’m glad to at least have the company of these visitors. The thought of doing 
 
 Perhaps one day, the sun will return to Barovia.
 
-### Session 5 *2023-12-04*
+## Session 5 *2023-12-04*
 
 We made it to Tser Pool but not without incident and not without the graciousness of that devil. He knows no bounds and there is nothing he doesn’t see in this land. He knew so much about the visitors and they have only been here a day. His spies are everywhere, they need to be more careful. If not, we’ll end up like the poor Lansten Family and so many others. A whole family turned to zombies. I wept for them in the night as I have for all those lost since Strahd woke and took vengence upon Barovia. But their bodies no longer harbour their souls, their fight is over. We were able to send the zombie horde away and found a cache of weapons left by Rudolf Van Richten. I wonder what has become of him?
 
@@ -97,7 +97,7 @@ It was after this, at the crossroads that Strahd appeared, like an apparition, c
 
 Poor Escher. Another soul lost to the darkness and forced to drive carriage for the devil. I was more than relieved when he finally departed but his game was not over. I don’t know what Radmill saw in that hanging man but his despair was intense. Perhaps the evil in this land is fraying these visitors more than I anticipated. I’ll keep an eye on them. Not all wounds bear visible scars and if left to fester can prove to be even more fatal than the bow or sword.
 
-### Session 6 *2023-12-11*
+## Session 6 *2023-12-11*
 
 Further up the road, we saved a Raven who was being attacked by an abomination of feather and stick. A living scarecrow. Virgil fought valiantly and Vix proved himself a capable sorcerer. Magic is rare among the people of Barovia, I am glad he is with us.
 
@@ -109,7 +109,7 @@ I’ve heard many tales about Vistani hospitality, and last night exceeded all e
 
 # 2nd day of Neyavr, 735 BC
 
-### Session 7 *2024-01-08*
+## Session 7 *2024-01-08*
 
 For the briefest of moments, with the cool fresh air and the sound of Tser Falls I almost forgot where I was. This land is beautiful. Sometimes I can almost feel what it must have been like before the mists. This time it was the decaying knight sworn to kill Strahd who pulled me from my dream. But at least I am not alone in my desire to rid Strahd from this world. Argynvostholt. Seek Sir Godfrey. West beyond Vallaki and then south at the ash-gray path.
 
@@ -119,7 +119,7 @@ There are few who travel the Slavich Woods and do not find themselves stalked by
 
 We arrived at the walls of Vallaki soon after to the most terrible sight. My people living in tents outside the walls in squaller! How could the Baron allow such misery to be inflicted? I will not stand for this, he will hear my plea to let them in. They need food and shelter. Not scorn and dream pastries. What kind of Baron does this to innocents?
 
-### Session 8
+## Session 8 *2024-01-22*
 
 As we found the Blue Water Inn, it took everything I had not to break down in front of everyone. After paying for the rooms I took my leave and let the sorrow consume me. Through the tears and my despair at having to hold so much grief, I realized that this is my path, there is no hiding from it. Not while Strahd curses this land and its people. I will do what must be done and one way or another, when the time comes I will remember all those we have lost and all that we endured, and I will grieve. But that time is not yet.
 
@@ -127,7 +127,7 @@ I was relieved to return downstairs. Losing myself in healing my friends and lis
 
 # 3rd day of Neyavr, 735 BC
 
-### Session 9 *2024-01-29*
+## Session 9 *2024-01-29*
 
 How could they just stand there and watch that poor woman get dragged away for what… Malicious Unhappiness? Perhaps these men are not who I thought they were. I should have walked straight up to the Baron instead of pleading with my companions to do something and when I finally realized they wouldn’t help I was too late, the Baron was on the move. Izek, what a terrible monster of a man and yet something seems almost familiar. Who is he and why will he not cease staring at me?
 
@@ -141,7 +141,7 @@ How did Blinsky create a doll that looks exactly like me? My stomach sank at the
 
 We must find those bones.
 
-### Session 10 2024-02-05
+## Session 10 *2024-02-05*
 
 That monster is no Baron. A child driven to tantrum more like it. Though I really did not expect more. I’m lucky to have not been thrown into the stocks, and had I said anymore perhaps I would have been. At least he allowed me to pass freely through the gates, that coin is better put to use amongst my people than going to his coffers.
 
@@ -155,7 +155,7 @@ They survived though, and the bones have been returned. St. Andrals is safe from
 
 # 4th day of Neyavr, 735 BC
 
-### Session 11 *2024-03-04*
+## Session 11 *2024-03-04*
 
 recieved an invitation to dine at Wachterhouse
 
@@ -167,19 +167,19 @@ Baron Vargas allowed them entry into the library when they agree to investigate 
 
 the library has nothing of use exept for a genealogical tome archiving births and deaths to Vallakian families: Ireena Strazni, the younger sister of Izek Strazni and the daughter of Grygori and Fatima Strazni. According to the records, however, Ireena Strazni died more than eighteen years ago at the age of four, with Grygori and Fatima dying shortly thereafter. Grygori and Fatima’s deaths are marked as Suicide by hanging, while Ireena’s cause of death is marked as Unknown (presumed devoured by wolves).
 
-### Session 12 *2024-03-11*
+## Session 12 *2024-03-11*
 
 met Victor Vallakovich, his Spellbook has the same symbol as the ring
 
 agree to investigate Khazan’s tower and give Victor any artifacts they find, for the information of where the tower can be found: a gravel causeway on Lake Baratok, to the west.
 
-### Session 13 *2024-03-25*
+## Session 13 *2024-03-25*
 
 dinner with lady wachter
 
 # 5th day of Neyavr, 735 BC
 
-### Session 14 *2024-04-01*
+## Session 14 *2024-04-01*
 
 - Ernst Larnak delivers the poisoned wine to you
 
@@ -189,7 +189,7 @@ dinner with lady wachter
 
 - travel back to Vallaki
 
-### Session 15 *2024-04-08*
+## Session 15 *2024-04-08*
 
 - planted the wine
 
@@ -199,13 +199,13 @@ dinner with lady wachter
 - rested at the BWI
 # 6th day of Neyavr, 735 BC
 
-### Session 16 *2024-04-15*
+## Session 16 *2024-04-15*
 - baron Vargas Abdicates
 - confront Rictavio
 - Agree to hide Arabelle in the Church
 - hear Arabelles Prophecy
 
-### Session 17 *2024-04-22*
+## Session 17 *2024-04-22*
 - Rahadin delivered the Invitation
 - spoke in defense of Henrik and Milivoj at ther Trial
 - received their reward from lady wachter. 
@@ -220,14 +220,14 @@ dinner with lady wachter
 - Picked wolfsbane flowers. Brought the flowers to RVR asked him about Nighthags.
 - We finished the session with the team in Victor's workshop.
 
-### Session 18 *2024-07-08*
+## Session 18 *2024-07-08*
 - discussed plans for obtaining a hags Heartstone with Victor, stella mentiond a large warding circle at Wachterhouse
 - convinced Lady Wachter to participate in the windmill raid
 - met Fiona Wacter &co. and traveld to the Windmill
 - Virgil, Vix, and Dorian distracted the hags, while Bogokom & Majesto looked for the contract, and Radmil rescued the children.
 - the hags attcked the distraction crew, Majesto flew the contract to Lady wachter who set about enabling the constructed warding circle
 
-### Session 19 *2024-08-05*
+## Session 19 *2024-08-05*
 
 defeated the Hags and returned to Vallaki<br>
 
@@ -235,11 +235,11 @@ defeated the Hags and returned to Vallaki<br>
 
 # 8th day of Neyavr, 735 BC
 
-### Session 20  *2024-09-02*
+## Session 20  *2024-09-02*
 
 performed the ritual at wachterhouse<br>
 
-### Session 21 *2024-10-07*
+## Session 21 *2024-10-07*
 
 defeated the Spirit of Leo Dilisnya<br>
 
@@ -251,25 +251,25 @@ returned Stella Wachter's Spirit to her body<br>
 
 # 10th day of Neyavr, 735 BC
 
-### Session 22 *2024-11-04*
+## Session 22 *2024-11-04*
 
 Urwin Martikov asked us to get Investigate a shortage of wine deliveries from the Wizard of Wines
 
-### Session 23 *2024-11-11*
+## Session 23 *2024-11-11*
 
 # 11th day of Neyavr, 735 BC
 
-### Session 24 *2024-11-18*
+## Session 24 *2024-11-18*
 
 visited Spirit of Kazan<br>
 
 Traveled to Yester Hill<br>
 
-### Session 25 *2024-11-25*
+## Session 25 *2024-11-25*
 
 Destroyed Wintersplinter and Svarog. Ludmilla Escaped
 
-### Session 26 *2025-01-06*
+## Session 26 *2025-01-06*
 
 Whispering Wall<br>
 
@@ -287,13 +287,13 @@ got the the Abbey<br>
 
 met the Bellviews<br>
 
-### Session 27 *2025-01-20*
+## Session 27 *2025-01-20*
 
 met the Abbot and Vasilka<br>
 
 met Ezmerelda and conduct the Seance<br>
 
-### Session 28 *2025-02-03*
+## Session 28 *2025-02-03*
 
 spent the evening with Krezkov Family<br>
 
@@ -301,7 +301,7 @@ learned that they are a werewolf family<br>
 
 # 13th day of Neyavr, 735 BC
 
-### Session 29 *2025-02-10*
+## Session 29 *2025-02-10*
 
 Traveled from Krezk to Argynvostholt 2 hours<br>
 
@@ -315,7 +315,7 @@ fought giant spiders and 2 phase spiders<br>
 
 harvested 3 doses of poison and a Fang for Vix<br>
 
-### Session 30 *2025-02-17*
+## Session 30 *2025-02-17*
 
 - found pot with lid and filled it with 6 doses of Phase spider venom<br>
 - Played Hide and seek with little Dragon Ghost<br>
@@ -328,7 +328,7 @@ harvested 3 doses of poison and a Fang for Vix<br>
 - Ez and Vix moved the Bar on the door<br>
 - finished round 3 Phantom Warrior 1 turn to begin next session<br>
 
-### Session 31 *2025-02-25*
+## Session 31 *2025-02-25*
 - finished off the phantom warriors moved to tower top.
 - Met Vladimir Horngaard and convinced him you weren't a threat
 - lit the brazier but realised you needed to look for the oath
@@ -349,7 +349,7 @@ harvested 3 doses of poison and a Fang for Vix<br>
 - "Every week, that . . . rage seems to devour ever-more of him," she adds quietly. "I don't know how much of the man I married is still left inside."
 - asks what you would do in her position. While she isn't willing to leave Kiril behind, she appreciates any advice you might lend.
 
-### Session 32 *2025-03-17*
+## Session 32 *2025-03-17*
 - Traveled to the north shore of Lake Baratok
 - Told Stories by the campfire wile waiting for nightfall
 - the pack left the Den an hour after nightfall.
@@ -360,7 +360,7 @@ harvested 3 doses of poison and a Fang for Vix<br>
 - Told of Kiril's usurpation of Emil
 - Discovered by Bianca but convinced her not to do anything.
 
-### Session 33 *2025-04-07*
+## Session 33 *2025-04-07*
 - broke the chains of Ilya and Zuleika and freed them from their cages.
 - Zuleika had you swear an oath to the Night Mother to rescue Emil before the first light of the new moon. in exchange she would allow you to take the Symbol of Holy Ravenkind.
 - travel to Krezk reunite Ilya with his family
@@ -373,7 +373,7 @@ After receiving an invitation to dine with Strahd on Neyavr 14—the last night 
 - a skeletal rider led you off the path to an ancient oak tree. found a letter addresed to Varushka from Katarina and half a locket guarded by ravens.
 - Upon reaching the castle crossroads, you are met by Strahd's black carriage, which carries gifts and escorts you to the keep.
 
-### Session 34 *2025-04-14*
+## Session 34 *2025-04-14*
 At the castle, you are met by Rahadin and Strahd's third favored bride, Anastrasya Karelova, as well as Strahd's additional vampiric consorts: Escher (Strahd's most recent consort) and Sasha Ivliskova (Strahd's eldest bride, and the traitor Arrigal referred to).
 
 As you partook in the festivities, you investigated Sasha's true loyalties whilst avoiding conflicts with Strahd's other brides. Volenta almost killed her "Toy".
@@ -381,7 +381,7 @@ As you partook in the festivities, you investigated Sasha's true loyalties whils
 
 Following a tour of the castle and a test of your capacity for violence, a freak lightning strike disabled the castle drawbridge, forcing you all to stay in Castle Ravenloft overnight in the middle of a powerful storm.
 
-### Session 35 *2025-04-29*
+## Session 35 *2025-04-29*
 Escher led you to your rooms. Rahadin locked you in and left Escher to guard the door
 Vix discovered an empty secret compartment in the broken clock. Dorian discovered a Trapdoor in the closet roof.
 Explored the chambers above. Vix Fireballed a room
@@ -391,14 +391,14 @@ the clock struck 10 and everyone felt their necks bitten.
 discovered a corpse hanging in the closet. used Speak with Dead.
 her name was Varushka
 
-### Session 36 *2025-05-12*
+## Session 36 *2025-05-12*
 After ascending to your room, however, the ghost of Varushka, a former servant of Castle Ravenloft, spirits you away to a multi-layered nightmare, forcing you to confront Castle Ravenloft's bloody past—or never wake again . . . 
 
-### Session 37 *2025-10-20*
+## Session 37 *2025-10-20*
 defeated Varushka
 ###### Long Rest at Castle Ravenloft
 # 15th day of Neyavr, 735 BC
-### Session 38 *2025-11-24*
+## Session 38 *2025-11-24*
 - depart the castle aboard the black coach
 - traveled to Vallaki
 - talked to Van Richten and Doru about the layout of Castle Ravenloft.
@@ -406,12 +406,12 @@ defeated Varushka
 - traveled to castle Ravenloft and waited for Strahd to depart for the night.
 - made entry to castle over Northwest wall.
 
-### Session 39 *2025-12-01*
+## Session 39 *2025-12-01*
 - fought some wights on the castle walls.
 - snuck through servants entrance and made way up the North Tower to 3rd floor. 
 - Found Gertruda
 
-### Session 40 *2025-12-08*
+## Session 40 *2025-12-08*
 - Fought and killed Anastraya Karelova
 - Joined by new companion Soren Valmont
 - made way down to basement.
@@ -419,7 +419,7 @@ defeated Varushka
 - found letter in Rahadin's office 
 - discovered secret door leading down. 
 
-### Session 41 *2025-12-15*
+## Session 41 *2025-12-15*
 The group prepared for their descent, discussing their inventory and light sources. They ensured they carried only necessary items, transferring some gear into a Bag of Holding to avoid encumbrance. For illumination, they chose to rely on a Moonblade’s constant light and a Lantern of Revealing, which could expose invisible creatures and run for hours on oil.
 
 Descending an ancient staircase choked with dust and cobwebs, they encountered a shadow that fled just beyond the reach of their light. Upon entering a spacious chamber, they found a stone brazier with a cold, white flame and seven colored crystal spheres embedded around its rim. Above it hung a large hourglass with sand stuck in the upper bulb. Glowing script on the hourglass instructed them to cast a stone of a specific color into the brazier to teleport to various locations in Barovia. The room was flanked by two imposing iron statues of knights on horseback.
@@ -444,7 +444,7 @@ The group then faced a masked vampire woman known as Volenta Popovski, encounter
 
 Inside a rusty cage hung Anton, who communicated his fear of the water below, which was inhabited by zombies. To avoid the water, the party used flight magic to reach and free him safely, then sent him through the brazier portal to safety alongside Ireena.
 
-### Session 42 *2026-01-12*
+## Session 42 *2026-01-12*
 the party was now faced with several choices for their next move.
 
 They examined the three doors to the north in the brazier room. The far-left door was their entrance, the middle led upward into a a misty, dry-ice-like fog, about twenty feet above, and the right door led to an ascending spiral staircase . To the south, beyond a waterlogged chamber where zombies were reported, another door led east and then split into multiple paths, including a spiral staircase going up.
@@ -473,7 +473,7 @@ At the eastern end of the catacombs, they encountered statues of warriors and a 
 
 The session concluded with Dorian rounding  a corner and startled a corpse that immediately rose, hinting at danger ahead.
 
-### Session 43 *2026-01-26*
+## Session 43 *2026-01-26*
 The group faced and quickly dispatched an attacking zombie using Esmeralda’s multiattack, with Dorian and others preparing for further threats. Radmill, separated from the main group, investigated crypts bearing names familiar to him and managed to open one door with his crowbar revealing chilling cold and mold inside.
 
 In the crypt of the archmage Kazan, they discovered eight arcane runes representing schools of magic. Vix attempted a complex ritual, casting spells from each school in sequence upon the corresponding runes. Though the process inflicted corruption, he successfully activated the runes, causing Kazan’s staff to materialize above a marble slab. After a difficult trial of controlling the staff’s wild magic—resulting in lightning damage and saving throws—Vix attuned to the staff, gaining significant magical benefits including improved armor class, spellcasting bonuses, and weapon enhancements.
