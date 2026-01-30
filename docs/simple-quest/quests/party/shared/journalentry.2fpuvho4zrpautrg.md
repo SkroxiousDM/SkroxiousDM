@@ -474,4 +474,25 @@ At the eastern end of the catacombs, they encountered statues of warriors and a 
 
 The session concluded with Dorian rounding  a corner and startled a corpse that immediately rose, hinting at danger ahead.
 
-With this encounter unfolding, the group decided to end the session, preparing for what challenges their search for the lost spear, the icon of Dawn’s Grace, and Emil would bring next.
+### Session 42 *2026-01-12*
+The group faced and quickly dispatched an attacking zombie using Esmeralda’s multiattack, with Dorian and others preparing for further threats. Radmill, separated from the main group, investigated crypts bearing names familiar to him and managed to open one door with his crowbar revealing chilling cold and mold inside.
+
+In the crypt of the archmage Kazan, they discovered eight arcane runes representing schools of magic. Vix attempted a complex ritual, casting spells from each school in sequence upon the corresponding runes. Though the process inflicted corruption, he successfully activated the runes, causing Kazan’s staff to materialize above a marble slab. After a difficult trial of controlling the staff’s wild magic—resulting in lightning damage and saving throws—Vix attuned to the staff, gaining significant magical benefits including improved armor class, spellcasting bonuses, and weapon enhancements.
+
+Meanwhile, Radmill found the crypt of King Dostron the Hellborn, believed to hold the Spear of the Huntress. Using a crowbar, he pried open a gilded sarcophagus and retrieved the spear, a long ash wood shaft adorned with carvings.
+
+Radmil then encountered and subdued a vampire spawn by using the Symbol of Ravenkind to paralyze it, followed by restraining and hogtying the creature to prevent further attacks. They considered interrogating her to gain information about the castle and the prisoner Emil. Though cautious, they opted to keep her alive for potential intelligence rather than dispatching her immediately. they left her trapped in King Dostron's sarcophagus.
+
+The group next located the Icon of Dawn’s Grace in the crypt of Saint Markovia. After carefully checking for traps, they opened the crypt and retrieved the holy symbol, mindful of religious sensitivities regarding its removal.
+
+Their attention turned to the dungeon, accessed via a spiral staircase near the kitchen and a brazier room. Upon entering the flooded dungeon corridor, they found cells submerged in several feet of water. Radmill flew ahead, navigating the low ceilings while the rest waded through the water, readying themselves for potential zombie encounters. They found Emil imprisoned in one of the cells, wearing a silver collar that prevented his werewolf transformation and regeneration.
+
+Radmill used a set of keys taken from Volenta earlier to unlock Emil’s cell. Emil expressed relief and gratitude, revealing he was a resident of Vallaki chased into the castle by direwolves. Radmil equipped him with a torch and a hand axe to aid his escape.
+
+As they moved through the dungeon, Dorian accidentally triggered a teleportation trap, sending him to a rack torture device. He struggled to free himself but failed his attempts. Esmeralda stepped forward to assist, picking the lock on the Iron Maiden sarcophagus where she had been trapped. The spikes inside bore fresh blood, indicating recent danger.
+
+Returning to Radmill, he discovered a silver double-headed axe submerged in the water and claimed it for himself. The group planned a stealthy retreat back to the portal room, mindful of traps and the approaching dawn.
+
+Upon arrival, they discovered the seven portal stones around the brazier were missing. Suddenly, Rahadin, the Chamberlain and an ancient elf who served Strahd’s father, appeared. He revealed he had taken the stones and ordered the party to surrender, threatening imprisonment until the Lord of the Keep’s return.
+
+The party rejected Rahadin’s demands, with Vix readying his new staff for combat. Soren attempted a daring strike at Rahadin’s pouch but failed. The session concluded with the party poised for confrontation, preparing for the inevitable battle ahead.
