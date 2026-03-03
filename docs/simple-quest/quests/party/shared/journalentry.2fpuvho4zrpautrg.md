@@ -495,3 +495,32 @@ Returning to Radmill, he discovered a silver double-headed axe submerged in the 
 Upon arrival, they discovered the seven portal stones around the brazier were missing. Suddenly, Rahadin, the Chamberlain and an ancient elf who served Strahd’s father, appeared. He revealed he had taken the stones and ordered the party to surrender, threatening imprisonment until the Lord of the Keep’s return.
 
 The party rejected Rahadin’s demands, with Vix readying his new staff for combat. Soren attempted a daring strike at Rahadin’s pouch but failed. The session concluded with the party poised for confrontation, preparing for the inevitable battle ahead.
+
+## Session 44 *2026-02-09*
+- fought Rahadin
+- escaped through the Brazier to the shrine of the white sun in Krezk
+- Emil didn't make it
+# 16th day of Neyavr, 735 BC
+###### Long Rest at the Krezkov's
+- traveled to the Abbey of St. Markovia to confront the Abbot about Anna Krezkov's heart
+
+## Session 45 *2026-03-02*
+The adventurers found themselves confronting the Abbot at the asylum within Saint Markovia’s Abbey. They recalled that Vasilka had arrived earlier and confronted the Abbot, who was intent on taking Anna Kreskov’s heart despite their pleas. When Vasilka intervened, the Abbot grabbed her by the throat and began dragging her outside, declaring her defective and disposable. Vix cast stone skin on Vasilka as the Abbot passed, and the group was protected by the icon of Dawn’s grace, granting them protection from good and evil.
+
+The Abbot then began transforming into a powerful, angelic figure with large white wings and wielded a massive black spiked mace. The battle commenced with the Abbot attacking Vasilka. The party members—Dorian, Vix, Soren Valmont, and Radmil Silvervein—engaged the Abbot fiercely, exchanging attacks. Vix and Dorian cast spells and struck with weapons, while Radmil executed a daring maneuver by running upstairs and leaping out a window to attack the Abbot from above, managing to land a blow despite the risky descent. Soren and Radmil made multiple attacks, though the Abbot’s resistance to radiant damage and multiple reactions made the fight challenging.
+
+The Abbot’s form shifted further into a monstrous hybrid creature with a lion’s head, ram’s body, bat wings, and crocodile tail, unleashing radiant and necrotic energy that blinded and charmed several party members. The group endured bursts of powerful attacks and area effects, taking damage and suffering status effects, but persisted in their assault.
+
+The flesh golem joined the fray, delivering heavy slam attacks alongside the party. The combat continued intensely, with the Abbot using his wings to create blasts and knock back the adventurers, but the party’s coordinated efforts gradually wore him down.
+
+Eventually, the Abbot fell to the ground, unmoving. A golden orb of flame emerged above his chest, and the icon of Dawn’s grace spoke to the party, suggesting that though the Abbot’s material form was defeated, his soul was still trapped and corrupted. Upon touching the orb with the icon, the adventurers were transported into a dark and misty void—the Abbot’s soul realm.
+
+Within this void, they found a pale, gaunt young man resembling the Abbot’s mortal form, bound by mist shackles and surrounded by shadowy whispers. The figure was fearful and blindfolded by mist, muttering “I failed you” and unable to see the party. Attempts to communicate and persuade him were met with resistance and despair, as shadowy voices whispered accusations and the Abbot expressed doubt about his own redemption.
+
+A tarot card, the Four of Glyphs depicting a shepherd woman, floated down and was collected by Dorian, though its significance was unclear.
+
+Despite the oppressive darkness, the adventurers encouraged him to accept their offer of strength and mercy. After several persuasion attempts, the Abbot confessed to his sins and acknowledged his failings but hesitated to accept a second chance. Eventually, moved by their words, he took the golden orb of flame, and the corrupting mist began to burn away. His appearance rejuvenated, youthful and radiant, and tears of relief streamed down his face.
+
+The void dissolved in a flash of white light, returning the party to the Abbey. The Abbot lay on the ground, now a young man clad in simple white robes, no longer corrupted. He awoke, bowed deeply to the adventurers, and expressed gratitude for their kindness and mercy. He apologized to Vasilka for the terror he had caused and healed her with a touch of light. He also bestowed healing upon the party members.
+
+Before departing, the Abbot plucked three white feathers from his wings, offering them to the party as tokens that could summon him to raise them from death once per day. The session ended with the party reflecting on their victory and the Abbot’s rebirth, preparing for whatever trials lay ahead.
