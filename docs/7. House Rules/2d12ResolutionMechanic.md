@@ -27,7 +27,7 @@
 # 20 SKILLS
 - each skill has a number of specialisations
 
-##STR Strength
+## STR Strength
 ### Athletics
 Climbing, 
 Lifting, 
@@ -41,7 +41,7 @@ One-handed Weapons,
 Two-handed Weapons, 
 Improvised Weapons, 
  Parry
-##DEX Dexterity	
+## DEX Dexterity	
 ### Finesse
 Lock Picking, 
 Pickpocket, 
@@ -112,9 +112,9 @@ Oratory
 Composure, 
 Fear, 
 Psychic
-###Sorcery
+### Sorcery
 
-##PER Perception
+## PER Perception
 ### Awareness     
 Sight,
 Smell, 
@@ -132,7 +132,7 @@ Crossbows,
 Bows, 
 Thrown, 
 Artillery
-##CHA Charisma
+## CHA Charisma
 ### Rapport
 Bribery, 
 Charm, 
