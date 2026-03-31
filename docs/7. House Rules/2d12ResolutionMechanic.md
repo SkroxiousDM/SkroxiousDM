@@ -26,258 +26,128 @@
 
 # 20 SKILLS
 - each skill has a number of specialisations
-## Athletics	STR
+
+##STR Strength
+### Athletics
 Climbing, 
-Might, 
-Riding, 
+Lifting, 
 Running, 
 Swimming
-## Awareness	PER	
+jumping
+throwing"						
+### Melee    
+Brawling (unarmed), 
+One-handed Weapons, 
+Two-handed Weapons, 
+Improvised Weapons, 
+ Parry
+##DEX Dexterity	
+### Finesse
+Lock Picking, 
+Pickpocket, 
+Sleight of Hand, 
+Disarm trap, 
+Disguise
+### Stealth 
+Conceal, 
+Hide, 
+Move Silently, 
+Disguise
+### Animal Handling
+Riding, 
+calming, 
+driving, 
+farming, 
+training"			
+### Reflexes
+Acrobatics, 
+Balance, 
+Dodge
+## CON Constitution
+### Fortitude
+Endurance, 
+Pain, 
+Poison
+## INT Intelligence	
+### Logic
+Evaluation, 
+Investigation
+Puzzles, 
+Strategy/Tactics 
+Planning, 
+Legal Argument, 
+Gaming
+### Lore, 
+Heraldry, 
+History, 
+Law, 
+Bureaucracy, 
+Religion
+Nature
+### Medicae
+animals, 
+autopsy, 
+diseases, 
+herbalism, 
+poisons,
+First Aid, 
+Surgery
+### Survival
+dungeoneering, 
+foraging, 
+hunting, 
+tracking, 
+wayfinding.
+### Arcana
+Alchemy
+Astrology
+Divination
+## WIL Willpower
+### Presence
+Interrogation, 
+Intimidation, 
+Leadership,
+Oratory
+### Discipline
+Composure, 
+Fear, 
+Psychic
+###Sorcery
+
+##PER Perception
+### Awareness     
 Sight,
 Smell, 
 Hearing, 
 Taste, 
 Touch, 
-Psyniscience (Restricted)
-## Dexterity	AG	
-Lock Picking, 
-Pickpocket, 
-Sleight of Hand, 
-Defuse (Restricted), 
-Disguise
-## Discipline	WIL	
-Composure, 
-Fear, 
-Psychic
-## Fortitude	TGH	
-Endurance, 
-Pain, 
-Poison
-## Intuition	PER	
-People, 
-Group (Various), 
-Surroundings
-## Linguistics	INT	
-Cypher, High Gothic, Forbidden (Various, Restricted), Cant Mechanicus (Restricted)
-## Logic	INT	
-Evaluation, 
-Investigation
-## Lore	INT	
-Engineering, Geology, Heraldry, History, Law, Metallurgy, Science, Technology, Theology (Restricted), Forbidden (Various, Restricted), Major Ordos (Various, Restricted), Cult Mechanicus (Restricted)
-## Medicae	INT	
-Animal, Human, Forbidden (Various, Restricted), Chem-Use
-## Melee	WS	
-Brawling, One-handed, Two-handed
-## Navigation	INT	
-Surface, Tracking, Void, Warp (Restricted)
-## Piloting	AG	
-Aeronautica, Civilian, Military (Restricted), Minor Voidship (Restricted), Major Voidship (Restricted)
-## Presence	WIL	
-Interrogation, Intimidation, Leadership
-## Psychic Mastery	WIL
-Biomancy, Divination, Pyromancy, Telekinesis, Telepathy, Various (Restricted)
-## Ranged	BS	
-Long Guns, Ordnance, Pistols, Thrown
-## Rapport	FEL	
-Animals, Charm, Deception, Haggle, Inquiry, Xeno-Cant
-## Reflexes	AG	
-Acrobatics, Balance, Dodge
-## Stealth	AG	
-Conceal, Hide, Move Silently, Disguise
-## Tech	INT	
-Augmetics (Restricted), Engineering, Security, Automata, Augmetics (Restricted), Biologis (Restricted), Engineering, Security, Forbidden (Various, Restricted), Xenos (Restricted)
-
-# Skill List
-Acrobatics (Quickness)..
-Alchemy (Wits)..
-Animal Handling (Wits)
-Astrology (Wits).
-Athletics (Brawn, Untrained)
-Bargain (Will, Untrained)
-Brawl (Brawn, Untrained).
-Bureaucracy (Wits, Untrained)
-Defend (Brawn, Untrained)
-Diplomacy (Will, Untrained)
-Divination (Will)...
-Dodge (Quickness. Untrained)
-Empathy (Will, Untrained)
-Gaming Wits. Untrained)
-Heal (Wits)
-Herbalist (Wits)
-Intimidation (Will. Untrained)
-Investigation (Wits, Untrained).
-Language (Wits)
-Love (Win).
-Magic (Will)
-Melee (Brawn. Untrained)
-Merchant (Wits).
-Ofnerve (Wits, Untrained)
-Performance (Will. Untrained).
-Physick (Wits)
-Profession (Wits)..
-Resist (Wits. Untrained)
-Ride (Quickness, Untrained).
-Sense (Wits)...
-Shoot (Quickness. Untrained)
-Socialier (Will, Untrained).
-Stealth (Quickness, Untrained),
-Streetwise (Will, Untrained).
-Study (Wits).
-Subterfuge (Quickness)
-Survival (Wits).
-Tactics (Wits)
-Throw (Quickness, Untrained)
-Track (Wits)
-
-Athletics (Body)
-Climb (Coordination)
-Counterspell (Knowledge)
-Direction (Sense)
-Dodge (Coordination)
-Eerie (Sense)
-Empathy (Sense)
-Endurance (Body)
-Fascinate (Charm)
-Fight (Body)
-Graces (Charm)
-Haggle (Command)
-Healing (Knowledge)
-Hearing (Sense)
-Inspire (Command)
-Intimidate (Command)
-Jest (Charm)
-Language (Knowledge)
-Lie (Charm)
-Lore (Knowledge)
-Parry (Body)
-Perform (Coordination) (Command)
-Plead (Charm)
-Ride (Coordination)
-Run (Body)
-Scrutinize (Sense)
-Sight (Sense)
-Stealth (Coordination)
-Strategy (Knowledge)
-Student of (Knowledge)
-Tactics (Knowledge)
-Vigor (Body)
-Weapon Skill (Coordination)
-
-
-### Basic Skills
-Art, 
-Athletics, 
+Eerie (Restricted)
+### Intuition 
+Detecting lies, 
+Reading emotions, 
+Streetwise,
+Sense Motive
+### Ranged
+Crossbows, 
+Bows, 
+Thrown, 
+Artillery
+##CHA Charisma
+### Rapport
 Bribery, 
 Charm, 
-Charm Animal, 
-Climb, 
-Cool, 
-Consume Alchohol, 
-Dodge, 
-Drive, 
-Endurance, 
-Entertain, 
-Gamble, 
-Gossip, 
+Deception, 
 Haggle, 
-Intimidate, 
-Intuition, 
-Leadership, 
-Melee, 
-Navigation, 
-Outdoor Survival, 
-Perception, 
-Ride, 
-Row, 
-Stealth
-### Advanced Skills
-Animal Care (Intelligence)
-Animal Training () [Dog, Bull, Garru, Pigeon, Goat, Spider.]
-Channelling ()
-Evaluate (Intelligence)
-Heal (Intelligence)
-Language (Intelligence)
-Lore (Intelligence) [Engineering, Geology, Heraldry, History, Law, Metallurgy, Science, Theology, Technology]
-Perform (Agility)
-Pick Lock, 
-Play, 
-Pray, 
-Ranged, 
-Research, 
-Sail, 
-Secret Signs, 
-Set Trap, 
-Sleight of Hand (Dexterity)
-Swim, 
-Track, 
-Trade
-
-AGILITY
-= Acrobatics 
-= Melee
-= Stealth
-
-AWARENESS
-= Insight
-= Observation 
-= Survival
-= Thievery
-
-BRAWN 
-= Athletics 
-= Resistance
-
-INTELLIGENCE 
-= Alchemy
-= Craft
-= Healing
-= Lore
-= Linguistics 
-= Warfare
-
-PERSONALITY
-= Animal Handling 
-= Command
-= Counsel
-= Persuade
-= Society
-
-COORDINATION
-= Parry
-= Ranged Weapons 
-= Sailing
-
-WILLPOWER 
-= Discipline 
-= Sorcery
-
-# Skills
-
-Whenever a hero wants to interact with the world, they may want to use one of their skills. A hero's options certainly aren't limited to these skills, but some of the most common ways of interacting are included below:
-
-**Arcana (INT).** Your understanding of magic, phenomena, spells, and enchantments. With Arcana, you can identify magical effects, discern the properties of magical items. It also grants insights into the abilities and weaknesses of magical beings like Aberrations, Elementals, and Oozes.
-
-**Examination (INT).** Your aptitude for thorough analysis and deduction. Use Examination to diagnose injuries, determine causes of death, uncover clues, unravel the workings of traps or mechanical devices. It also grants insight into the abilities and weaknesses of Constructs.
-
-**Finesse (DEX).** Your ability to use your hands and feet in careful ways. Use Finesse for activities such as picking locks, disarming traps, piloting vehicles, tinkering, card tricks, stealing or planting items, climbing a mossy wall, or any other task that requires precise, careful movement.
-
-**Influence (CHA).** Your persuasiveness, charm, and ability to influence others through charisma and cunning. Use Influence to convince or deceive people, negotiate deals, build trust, win allies to your cause, or put on a captivating performance.
-
-**Insight (CHA).** Your ability to understand people and situations beyond the obvious. Use Insight to sense motives, detect lies, read hidden emotions, make sense of clues, and when faced with uncertaintyâ€”you can sometimes just â€œgetâ€ what is happening.
-
->**Variant.** Insight can also optionally be used to retroactively change situations. 
->****Player**: Oh no! I forgot to buy rope in the town. 
->**GM**: Give me an insight check, maybe you would have thought about it.*
-
-**Might (STR).** Your raw physical power and ability to apply it effectively. Use Might for lifting heavy objects, breaking through obstacles, climbing, and performing feats of strength and endurance.
-
-**Lore (INT).** Your understanding of the history of civilization, kingdoms, and religions. Use Lore to recall historical events, and grasp the significance of cultural practices. It extends to knowledge of Celestials, Dragons, Fey, Fiends, Giants, Humanoids, Undead, and Providing insights into their behavior and abilities.
-
-**Naturecraft (WIS).** Your expertise in wilderness survival, navigation, tracking, and the handling of animals. Use Naturecraft to thrive in the wild, identify flora, fauna, and track creatures with precision. It encompasses knowledge of Beasts, Monstrosities, and Plants, providing insights into their behavior, habitats, and characteristics.
-
-**Perception (WIS).** Your overall ability to notice subtle details in your surroundings. Use Perception to spot hidden objects, detect secret passages, sense subtle environmental changes, and sense when you're being followed or observed. It encompasses your ability to pick up on non-obvious cues, and hidden threats.
-
-**Stealth (DEX).** Your proficiency in remaining unseen and moving silently. Use Stealth to hide from enemies, slip past guards, evade detection, and move without attracting attention. It encompasses your ability to blend into shadows, conceal your presence in plain sight, and navigate environments without making a sound.
+Inquiry,
+Seduction"						
+### Performance
+acting, 
+composing, 
+dancing, 
+fine art, 
+singing, 
+speaking, 
+writing.
 
 ## Skill Checks
 
@@ -297,13 +167,13 @@ When the world is affecting you, you'll roll a save instead of a skill check. To
 
 **Reflex Save (RFL).** When you need to dive for cover in an explosion, stay on your feet while running across an ice, or balance on the edge of a building.
 
-**Will Save (WLL).** (The highest of INT, WIS, or CHA.) When you need to resist mind altering effects, illusion, charm, fear, or other psychic forces.
+**Discipline Save (DIS).**  When you need to resist mind altering effects, illusion, charm, fear, or other psychic forces.
 
 ## Heroes and Saves
 
 Attacks that include a save ignore monster Armor. They do not miss nor can they crit. Unless otherwise noted, a hero's DC is 10 + KEY. Each hero has 1 advantaged save (+), 1 disadvantaged save (-), and 1 neutral save.
 
-**Example:** A Berserker (STR+, WIS-, CHA-) would roll all of its FRT saves with advantage and all of its WLL saves with disadvantage.
+**Example:** A Berserker (STR+, WIS-, CHA-) would roll all of its FRT saves with advantage and all of its DIS saves with disadvantage.
 
 
 # Advantage & Disadvantage
