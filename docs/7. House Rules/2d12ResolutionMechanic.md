@@ -1,11 +1,12 @@
 
 - Roll 1 white 1 black D12's add them together with regular attribute or skill modifiers to beat the DC.
-- Advantage roll 2 white 1 blackD12's and choose the best outcome.
-- Disadvantage roll 1 white 2 black D12's and choose the worst outcome.
+- Advantage roll 2 white & 1 black D12's and choose the best outcome.
+- Disadvantage roll 1 white & 2 black D12's and choose the worst outcome.
 - Critical is a double that succeeds 
 - Fumble is double that fails
 ### Wyrd & Doom: 
-- Let’s say you are making an Agility roll and you have a +2 in that trait— roll your dice. Then, you’ll count everything up and tell me the result, along with which die rolled higher. For example, if you rolled a 6 on the Wyrd die and a 10 on the Doom die, that would be 16, plus the 2 for the trait, bringing it to a total of 18. Because the Doom die rolled higher, you would tell me that you got an "18 with Doom." If you roll with Wyrd, you mark a Wyrd on your sheet. If you roll with Doom, I gain a Doom and can make a GM move. This means I get to impact the flow of the narrative, usually to add some kind of complication to the scene. I start the game with a number of Fear equal to the number of players
+- Let’s say you are making an Agility roll and you have a +2 in that trait— roll your dice. Then, you’ll count everything up and tell me the result, along with which die rolled higher. For example, if you rolled a 6 on the Destiny die and a 10 on the Doom die, that would be 16, plus the 2 for the trait, bringing it to a total of 18. Because the Doom die rolled higher, you would tell me that you got an "18 with Doom." If you roll with Destiny, you mark a Destiny on your sheet. If you roll with Doom, I gain a Doom and can make a GM move. This means I get to impact the flow of the narrative, usually to add some kind of complication to the scene. I start the game with a number of Doom equal to the number of players
+
 ### Push mechanic
 - Fumbles can't be pushed
 
@@ -15,13 +16,13 @@
 
 
 # 7 Attributes 
-Strength / Brawn / Body
-Dexterity / Quickness / Coordination / Agility 
-Constitution / Toughness
-Intelligence / Wits/ Knowledge 
-Willpower / Will / Command
-Perception / Sense
-Charisma / Charm /Fellowship
+- Strength / Brawn / Body
+- Dexterity / Quickness / Coordination / Agility 
+- Constitution / Toughness
+- Intelligence / Wits / Knowledge 
+- Willpower / Will / Command
+- Perception / Sense
+- Charisma / Charm /Fellowship
 
 # 20 SKILLS
 - each skill has a number of specialisations
@@ -296,7 +297,7 @@ Whenever a hero wants to interact with the world, they may want to use one of th
 
 ## Skill Checks
 
-Whenever you want to do something challenging to affect the world (convince an NPC, spot a hidden enemy or trap, pick a lock, etc.), the GM can ask a hero to make a particular skill check to see if you succeed. To make a skill check roll 1d20 and add your skill to it. This is compared to the Difficulty Challenge (DC), a number that must be rolled to succeed, otherwise it fails. The DC varies depending on what is being attempted:
+Whenever you want to do something challenging to affect the world (convince an NPC, spot a hidden enemy or trap, pick a lock, etc.), the GM can ask a hero to make a particular skill check to see if you succeed. To make a skill check roll 2d12 and add your skill to it. This is compared to the Difficulty Challenge (DC), a number that must be rolled to succeed, otherwise it fails. The DC varies depending on what is being attempted:
 
 - **Easy:** Spotting a large Ogre crouched behind a small bush might be a DC 8 Perception check.
 - **Medium:** A hidden doorway behind a bookcase might be a DC 12 Examination check.
@@ -408,4 +409,4 @@ Unless otherwise noted, assume that monsters are medium-sized, unarmored, have s
 
 **Stab.** 1d6+2 (or Shoot, Range 8).
 
-This stat block for a goblin serves as an example. No speed, armor, or saves are listed so we use the defaults for a total of 15 or more damage, heâ€™ll die. His LVL of 1/3 means 3 goblins are about as strong as a level 1 hero. On the goblinâ€™s turn, the GM could move him up to 6 spaces and
+This stat block for a goblin serves as an example. No speed, armor, or saves are listed so we use the defaults for a total of 15 or more damage, he'll die. His LVL of 1/3 means 3 goblins are about as strong as a level 1 hero. On the goblin's turn, the GM could move him up to 6 spaces and
