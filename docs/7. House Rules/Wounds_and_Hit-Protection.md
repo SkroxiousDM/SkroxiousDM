@@ -16,7 +16,7 @@ The ﬁrst time you fall to 0 HP, you become Wounded. There are six levels of wo
 |1. Lightly wounded|Disadvantage on ability checks|
 |2. Moderately wounded|Speed halved|
 |3. Bloodied|Disadvantage on attack rolls and saving throws|
-|4. Brutally wounded|Vitality point maximum halved|
+|4. Brutally wounded|Hit Protection maximum halved|
 |5. Broken|Speed reduced to 0|
 |6. Dead|Dead|
 
@@ -37,7 +37,7 @@ Continuing to ﬁght at 0 HP points is possible, but very dangerous. You can no 
 - Staggered characters can move or take an action, but not both.
 - Anytime you use your action while Staggered, make a DC 12 Constitution check. If you fail, you take one level of Soft Exhaustion.
 - You cannot take bonus actions or reactions.
-- Staggered characters cannot gain temporary hit points.
+- Staggered characters cannot gain temporary HP.
 - Characters remain Staggered until they are restored to 1 HP or higher.
 - A character who takes any damage while at 0 HP immediately gains 2 additional wound levels and must make a Constitution Saving Throw or fall unconscious. If the character falls unconscious, they are out of the fight. At the end of the battle, the PC makes a single death save. If the PC receives healing or treatment of some kind (binding wounds, etc), they gain advantage on the save. If the death save is failed, the PC dies. If successful, the adventurer survives but rolls on the Lingering Injuries table with Disadvantage. A natural 20 death save negates the injury roll. Without further healing, the PC awakens in 1d3 minutes with 1 HP.
 
