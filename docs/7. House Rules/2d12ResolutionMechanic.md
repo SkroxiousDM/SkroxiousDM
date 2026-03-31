@@ -251,22 +251,6 @@ WILLPOWER
 = Discipline 
 = Sorcery
 
-# Stats
-
-Heroes have 5 main stats that affect how good they are at different tasks. Two of which are listed as Key Stats (most important to the function of the class), and the rest are secondary stats.
-
-Whenever you see your KEY in an ability or spell, choose one of your Key Stats and use that number. Whenever you see a stat before a number of dice, roll that many dice before adding the stat, e.g. WIS d8, if your WIS is 2, you'd roll 2d8.
-
-**Strength (STR).** Affects STR weapon damage, resistance to Wounds, Hit Dice recovery, the Might skill, Concentration, carrying capacity, Grappling, and STR saves.
-
-**Dexterity (DEX).** Affects DEX weapon damage, contributes to Armor, as well as the Stealth and Finesse skills, Grappling, and DEX saves.
-
-**Intelligence (INT).** Affects languages, spell-casting, usage of wands and spell scrolls, Arcana, Examination, and Lore skills, as well as WILL saves.
-
-**Wisdom (WIS).** Affects Initiative, spellcasting, as well as the Naturecraft and Perception skills, and WILL saves.
-
-**Charisma (CHA).** Affects social encounters, spellcasting, as well as the Insight and Influence skills, and WILL saves.
-
 # Skills
 
 Whenever a hero wants to interact with the world, they may want to use one of their skills. A hero's options certainly aren't limited to these skills, but some of the most common ways of interacting are included below:
