@@ -1,19 +1,16 @@
+# Action Rolls
+All action rolls require a pair of d12's 
+one must be a visually distinct twelvesided dice 
+representing Doom.
+To make an action roll you roll the Dice sum the 
+results apply any relevant modifiers and compare the total to a Challenge Threshold to determine the outcome:
+- **Success:** If your total meets or is lower than the Challenge Threshold AND your Doom Die shows a higher result than your other Die you rolled a “Success” You succeed.
+- **Success with Doom:** If your total meets or  is lower than the Challenge Threshold AND your Doom Die is the lowest you rolled a “Success with Doom” You succeed with a cost or complication but the GM gains a Doom token
+- **Failure:** If your total is less than the Challenge Threshold AND your Hope Die shows a higher result than your Doom Die you rolled a “Failure” You fail with a minor consequence
+- **Failure with Doom:** If your total is less than the Challenge Threshold AND your Doom Die is the lowest die you rolled a “Failure with Doom” You fail with a major consequence and the GM gains a Doom token.
+- **Criticals:** If your total is less than the Challenge Threshold AND your Doom Die shows matching results, you rolled a “Critical Success” (“Crit”) You succeed with a bonus, and clear a Stress. If this was an attack roll you deal critical damage.
+- ** Fumble:** If the Doom Die show matching results and you Fail, you rolled a “Fumble" You Fail spectacularly, and gain a Stress. If this was an attack roll you roll on the Fumble table.
 
-- Critical is a double that succeeds 
-- Fumble is double that fails
-### Boons & Banes: 
-- All action rolls require a pair of d s called Duality Dice 
-These are two visually distinct twelvesided dice with one die 
-representing Hope and the other representing Fear
-To make an action roll you roll the Duality Dice sum the 
-results apply any relevant modifiers and compare the total to 
-a Challenge Threshold to determine the outcome:
-• Success with Hope: If your total meets or beats the Challenge Threshold AND your Hope Die shows a higher result than your Fear Die you rolled a “Success with Hope” You succeed and gain a Hope
-• Success with Fear: If your total meets or beats the Challenge Threshold AND your Fear Die shows a higher result than your Hope Die you rolled a “Success with Fear” You succeed with a cost or complication but the GM gains a Fear
-• Failure with Hope: If your total is less than the Challenge Threshold AND your Hope Die shows a higher result than your Fear Die you rolled a “Failure with Hope” You fail with a minor consequence and gain a Hope.
-• Failure with Fear: If your total is less than the Challenge Threshold AND your Fear Die shows a higher result than your Hope Die you rolled a “Failure with Fear” You fail with a major consequence and the GM gains a Fear.
-• Criticals: If the Duality Dice show matching results and you succeeded, you rolled a “Critical Success with Hope” (“Crit”) You 
-succeed with a bonus, gain a Hope, and clear a Stress If this was an attack roll you deal critical damage 
 
 
 ### Push mechanic
