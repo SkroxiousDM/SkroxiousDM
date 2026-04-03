@@ -1,25 +1,35 @@
 
-- Roll 1 white 1 black D12's add them together with regular attribute or skill modifiers to beat the DC.
-- Advantage roll 2 white & 1 black D12's and choose the best outcome.
-- Disadvantage roll 1 white & 2 black D12's and choose the worst outcome.
 - Critical is a double that succeeds 
 - Fumble is double that fails
 ### Boons & Banes: 
-- Let’s say you are making an Agility roll and you have a +2 in that trait— roll your dice. Then, you’ll count everything up and tell me the result, along with which die rolled higher. For example, if you rolled a 6 on the Destiny die and a 10 on the Doom die, that would be 16, plus the 2 for the trait, bringing it to a total of 18. Because the Doom die rolled higher, you would tell me that you got an "18 with Doom." If you roll with Destiny, you mark a Destiny on your sheet. If you roll with Doom, I gain a Doom and can make a GM move. This means I get to impact the flow of the narrative, usually to add some kind of complication to the scene. I start the game with a number of Doom equal to the number of players
+- All action rolls require a pair of d s called Duality Dice 
+These are two visually distinct twelvesided dice with one die 
+representing Hope and the other representing Fear
+To make an action roll you roll the Duality Dice sum the 
+results apply any relevant modifiers and compare the total to 
+a Challenge Threshold to determine the outcome:
+• Success with Hope: If your total meets or beats the Challenge Threshold AND your Hope Die shows a higher result than your Fear Die you rolled a “Success with Hope” You succeed and gain a Hope
+• Success with Fear: If your total meets or beats the Challenge Threshold AND your Fear Die shows a higher result than your Hope Die you rolled a “Success with Fear” You succeed with a cost or complication but the GM gains a Fear
+• Failure with Hope: If your total is less than the Challenge Threshold AND your Hope Die shows a higher result than your Fear Die you rolled a “Failure with Hope” You fail with a minor consequence and gain a Hope.
+• Failure with Fear: If your total is less than the Challenge Threshold AND your Fear Die shows a higher result than your Hope Die you rolled a “Failure with Fear” You fail with a major consequence and the GM gains a Fear.
+• Criticals: If the Duality Dice show matching results and you succeeded, you rolled a “Critical Success with Hope” (“Crit”) You 
+succeed with a bonus, gain a Hope, and clear a Stress If this was an attack roll you deal critical damage 
+
 
 ### Push mechanic
 - Fumbles can't be pushed
 
 ### Degree's of success 
 
-
+for every 2 points below the success threshhond you earn a degree of success
 
 
 # 7 Attributes 
-- Strength / Brawn / Body
-- Dexterity / Quickness / Coordination / Agility 
+- Strength / Brawn
+- Dexterity / Coordination
+- Agility / Quickness
 - Constitution / Toughness
-- Intelligence / Wits / Knowledge 
+- Intelligence / Wits 
 - Willpower / Will / Command
 - Perception / Sense
 - Charisma / Charm /Fellowship
