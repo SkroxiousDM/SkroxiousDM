@@ -4,7 +4,7 @@
 - Disadvantage roll 1 white & 2 black D12's and choose the worst outcome.
 - Critical is a double that succeeds 
 - Fumble is double that fails
-### Wyrd & Doom: 
+### Boons & Banes: 
 - Let’s say you are making an Agility roll and you have a +2 in that trait— roll your dice. Then, you’ll count everything up and tell me the result, along with which die rolled higher. For example, if you rolled a 6 on the Destiny die and a 10 on the Doom die, that would be 16, plus the 2 for the trait, bringing it to a total of 18. Because the Doom die rolled higher, you would tell me that you got an "18 with Doom." If you roll with Destiny, you mark a Destiny on your sheet. If you roll with Doom, I gain a Doom and can make a GM move. This means I get to impact the flow of the narrative, usually to add some kind of complication to the scene. I start the game with a number of Doom equal to the number of players
 
 ### Push mechanic
@@ -183,8 +183,9 @@ If you are ever in a favorable situation, the GM may allow you to roll with adva
 If you have multiple instances of advantage or disadvantage, for each one, roll an extra die and remove the lowest (for advantage) or the highest (for disadvantage). Each instance of advantage cancels out one instance of disadvantage before you roll.
 
 # Hit Protection & Dying
+Hit Protection (often abbreviated as HP) is a measure of a character's skill, stamina, resilience, and luck to avoid serious wounds during combat Anytime you take damage, subtract that amount from HP. This represents the expenditure of stamina, luck and reflexes to avoid a lethal blow
 
-Your Hit Protection (HP) represent your ability to take damage and keep on going. Taking damage lowers your HP. When you drop to 0 HP, gain 1 Wound (see below). You also gain the Dying condition until you regain HP (HP can't be negative). While Dying, actions are limited to 1, Concentration is broken, and you are at risk of further serious harm:
+When you drop to 0 HP, gain 1 Wound (see below). You also gain the Dying condition until you regain HP (HP can't be negative). While Dying, actions are limited to 1, Concentration is broken, and you are at risk of further serious harm:
 
 - Attacking/casting spells causes 1 Wound unless you make a DC 10 FRT save.
 - Taking damage while Dying causes 2 Wounds, a crit causes 3 instead.
