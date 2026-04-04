@@ -6,30 +6,28 @@ To make an action roll you roll the Dice sum the
 results apply any relevant modifiers and compare the total to a Challenge Threshold to determine the outcome:
 - **Success:** If your total meets or is lower than the Challenge Threshold AND your Doom Die shows a higher result than your other Die you rolled a “Success” You succeed.
 - **Success with Doom:** If your total meets or  is lower than the Challenge Threshold AND your Doom Die is the lowest you rolled a “Success with Doom” You succeed with a cost or complication but the GM gains a Doom token
-- **Failure:** If your total is less than the Challenge Threshold AND your Hope Die shows a higher result than your Doom Die you rolled a “Failure” You fail with a minor consequence
-- **Failure with Doom:** If your total is less than the Challenge Threshold AND your Doom Die is the lowest die you rolled a “Failure with Doom” You fail with a major consequence and the GM gains a Doom token.
-- **Criticals:** If your total is less than the Challenge Threshold AND your Doom Die shows matching results, you rolled a “Critical Success” (“Crit”) You succeed with a bonus, and clear a Stress. If this was an attack roll you deal critical damage.
-- ** Fumble:** If the Doom Die show matching results and you Fail, you rolled a “Fumble" You Fail spectacularly, and gain a Stress. If this was an attack roll you roll on the Fumble table.
-
-
+- **Failure:** If your total is more than the Challenge Threshold AND your Doom Die shows a higher result than your Other Die you rolled a “Failure” You fail with a minor consequence
+- **Failure with Doom:** If your total is more than the Challenge Threshold AND your Doom Die is the lowest die you rolled a “Failure with Doom” You fail with a major consequence and the GM gains a Doom token.
+- **Critical Success:** If your total is less than or equal to the Challenge Threshold AND your Doom Die shows matching results, you rolled a “Critical Success” (“Crit”) You succeed with a bonus, and clear a Stress. If this was an attack roll you deal critical damage.
+- **Critical Failure:** If your total is more than the Challenge Threshold AND your your Doom Die shows matching results, you rolled a “Critical Failure" (“Fumble”) You Fail spectacularly, and gain a Stress. If this was an attack roll you roll on the Fumble table.
 
 ### Push mechanic
 - Fumbles can't be pushed
 
 ### Degree's of success 
 
-for every 2 points below the success threshhond you earn a degree of success
+- for every 2 points below the success threshhond you earn a degree of success
 
 
-# 7 Attributes 
+# 8 Attributes 
 - Strength / Brawn
 - Dexterity / Coordination
 - Agility / Quickness
 - Constitution / Toughness
 - Intelligence / Wits 
-- Willpower / Will / Command
+- Willpower / Command
 - Perception / Sense
-- Charisma / Charm /Fellowship
+- Charisma /Fellowship
 
 # 20 SKILLS
 - each skill has a number of specialisations
