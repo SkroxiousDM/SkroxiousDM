@@ -28,12 +28,15 @@ Common rewards accompanying success on a test include the following:
 - Impressing or ingratiating yourself with someone who grants you a small favor
 - Noticing a hidden danger well before it strikes, giving you time to avoid or prepare for it
 - In lieu of other rewards, the Director can also decide that a hero who succeeds on a test with a reward earns the players a Fate Point.
+## Advantage & Disadvantage
+If you are ever in a favorable situation, the GM may allow you to roll with advantage. To do this, roll 1 additional die of the same type and remove the Highest. Alternatively, if the situation is grim or your idea is a long shot, you may have to roll with disadvantage (removing the Lowest die instead).
 
-### Push mechanic
+If you have multiple instances of advantage or disadvantage, for each one, roll an extra die and remove the highest (for advantage) or the lowest (for disadvantage). Each instance of advantage cancels out one instance of disadvantage before you roll.
+
+## Push mechanic
 - Fumbles can't be pushed
 
-### Degree's of success 
-
+## Degree's of success 
 - for every 2 points below the success threshhond you earn a degree of success
 
 
@@ -64,7 +67,7 @@ Having a relevant skill is beneficial in several ways:
 - each skill has a number of specialisations
 ### Skill Specialties
 In addition to having proficiency in a skill, a character may be an expert at a narrow area of specialization within that skill. For instance, a character proficient in the Deception skill may be particularly adept in communicating through written code.
-A character gains two skill specialties at 1st level (plus bonus knowledge; see Ingenious Proficiency), and gains an additional specialty whenever their proficiency bonus increases. A character may choose any specialty in a skill in which they are proficient. A character may not gain the same skill specialty twice. If your Intelligence is 12 or higher, you gain extra skill specialties (see Ingenious Proficiency). When a character makes an ability check to which their skill specialty applies, they gain an expertise die for that ability check. The Narrator determines whether the skill specialty applies.
+A character gains two skill specialties at 1st level (plus bonus knowledge; see Ingenious Proficiency). A character may choose any specialty in a skill in which they are proficient. A character may not gain the same skill specialty twice. If your Intelligence is 12 or higher, you gain extra skill specialties (see Ingenious Proficiency). When a character makes an ability check to which their skill specialty applies, it grants an additional +1 bonus on the related Attribute check. The Narrator determines whether the skill specialty applies.
 While the list of skills below is fairly comprehensive, the Narrator may expand the list of skill specialties to meet the needs of the campaign world. Each of its cultures, historical eras, important organizations, and other unique details might furnish a specialty.
 #### Acrobatics
 An Acrobatics check allows a character to perform gymnastic feats such as rolling under a closing gate, swinging across a chasm on a rope, or keeping their balance on a narrow ledge. it also covers your attempt to stay on your feet in a tricky situation, such as when you’re trying to run across a sheet of ice, balance on a tightrope, or stay upright on a rocking ship’s deck. You might also call for an acrobatics check to see if you can perform acrobatic stunts, including dives, rolls, somersaults, and flips. The most commonly used ability score is Dexterity. A character might use Strength to perform acrobatics while carrying a heavy burden, Constitution to do so against a heavy wind, or any other ability score as circumstances warrant.
@@ -246,38 +249,9 @@ singing,
 speaking, 
 writing.
 
-## Skill Checks
-
-Whenever you want to do something challenging to affect the world (convince an NPC, spot a hidden enemy or trap, pick a lock, etc.), the GM can ask a hero to make a particular skill check to see if you succeed. To make a skill check roll 2d12 and add your skill to it. This is compared to the Difficulty Challenge (DC), a number that must be rolled to succeed, otherwise it fails. The DC varies depending on what is being attempted:
-
-- **Easy:** Spotting a large Ogre crouched behind a small bush might be a DC 8 Perception check.
-- **Medium:** A hidden doorway behind a bookcase might be a DC 12 Examination check.
-- **Challenge:** Attempting to calm an injured Owlbear stuck in a trap may be a DC 15 Naturecraft check.
-- **Very Difficult:** Intuiting the true intentions of a trained Spy may be a DC 18 Insight check.
-- **Extremely Difficult:** Disarming an ancient legendary magical trap might be a DC 20+ Finesse check.
-
-# Saves
-
-When the world is affecting you, you'll roll a save instead of a skill check. To make a save, roll 2d12 and add your relevant stat. A natural 24 always saves regardless of other modifiers. A creature can choose to fail a save instead of rolling.
-
-**Fortitude Save (FRT).** When subjected to forced movement, poison, extreme temperatures, or the ability to hold onto a cliff in a windstorm.
-
-**Reflex Save (RFL).** When you need to dive for cover in an explosion, stay on your feet while running across an ice, or balance on the edge of a building.
-
-**Discipline Save (DIS).**  When you need to resist mind altering effects, illusion, charm, fear, or other psychic forces.
-
-## Heroes and Saves
-
-Attacks that include a save ignore monster Armor. They do not miss nor can they crit. Unless otherwise noted, a hero's DC is 10 + KEY. Each hero has 1 advantaged save (+), 1 disadvantaged save (-), and 1 neutral save.
-
-**Example:** A Berserker (STR+, WIS-, CHA-) would roll all of its FRT saves with advantage and all of its DIS saves with disadvantage.
 
 
-# Advantage & Disadvantage
 
-If you are ever in a favorable situation, the GM may allow you to roll with advantage. To do this, roll 1 additional die of the same type and remove the lowest. Alternatively, if the situation is grim or your idea is a long shot, you may have to roll with disadvantage (removing the highest die instead).
-
-If you have multiple instances of advantage or disadvantage, for each one, roll an extra die and remove the lowest (for advantage) or the highest (for disadvantage). Each instance of advantage cancels out one instance of disadvantage before you roll.
 
 # Hit Protection & Dying
 Hit Protection (often abbreviated as HP) is a measure of a character's skill, stamina, resilience, and luck to avoid serious wounds during combat Anytime you take damage, subtract that amount from HP. This represents the expenditure of stamina, luck and reflexes to avoid a lethal blow
