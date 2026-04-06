@@ -1,9 +1,19 @@
 # Action Rolls
-All action rolls require a pair of d12's 
-one must be a visually distinct twelvesided dice 
-representing Doom.
-To make an action roll you roll the Dice sum the 
-results apply any relevant modifiers and compare the total to a Challenge Threshold to determine the outcome:
+All action rolls require a pair of d12's one must be a visually distinct twelvesided dice representing Doom.
+To make an action roll you roll the Dice sum the results and compare the total to a Challenge Threshold to determine the outcome:
+
+##### Challenge Threshold
+
+|---|Modifier |Example Task|
+|---|---|---|
+|Very Easy |+6|Waking up to an emergency alarm, jumping a small gap|
+|Easy |+4| Fixing minor damage in a familiar weapon|
+|Routine |+2| Using a library to perform basic research|
+|Challenging |+0| Shooting a target in a well lit room, climbing a stone wall|
+|Difficult |−2 |Recalling an obscure fact about the Governor|
+|Hard |−4 |Swimming upstream in a rapidly flowing sewer|
+|Very Hard |−6 |Convincing a Watch Commander to let this one slide|
+
 - **Success:** If your total meets or is lower than the Challenge Threshold AND your Doom Die shows a higher result than your other Die you rolled a “Success” You succeed.
 - **Success with Doom:** If your total meets or  is lower than the Challenge Threshold AND your Doom Die is the lowest you rolled a “Success with Doom” You succeed with a cost or complication but the GM gains a Doom token
 - **Failure:** If your total is more than the Challenge Threshold AND your Doom Die shows a higher result than your Other Die you rolled a “Failure” You fail with a minor consequence
@@ -39,6 +49,18 @@ If you have multiple instances of advantage or disadvantage, for each one, roll 
 ## Degree's of success 
 - for every 2 points below the success threshhond you earn a degree of success
 
+##### OUTCOMES TABLE
+
+|SL |Result |Have You Succeeded?|
+|---|---|---|
+|+5 or more|Astounding Success|Yes, perfectly!: The result is as good as it can be, perhaps with extra luck and fortunate coincidences thrown in!|
+|+3 to +4 |Impressive Success| Yes, and…: You achieve your goal with style, exceeding your expectations.|
+|+1 to +2 |Success |Yes: You achieve a solid success.|
+|+0 |Marginal Success |Yes, but…: You more or less achieve what you intend, but imperfectly, and perhaps with an unpredictable side effect.|
+|–0 |Marginal Failure |No, but…: You marginally fail, perhaps accomplishing a portion of what you intended.|
+|–1 to –2 |Failure |No: You just plain do it wrong.|
+|–3 to –4 |Impressive Failure |No, and…: Not only do you mess up, but you also cause additional things to go wrong.
+|–5 or less |Astounding Failure |No, not in any way!: Everything goes wrong in the worst possible way. The GM will likely add to your woes with unanticipated consequences.|
 
 # 8 Attributes 
 #### Physical 
