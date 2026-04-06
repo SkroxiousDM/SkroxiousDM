@@ -38,10 +38,12 @@ Common rewards accompanying success on a test include the following:
 
 
 # 8 Attributes 
+## Physical 
 - Strength / Brawn
 - Dexterity / Coordination
 - Agility / Quickness
 - Constitution / Toughness
+## Mental
 - Intelligence / Wits 
 - Willpower / Command
 - Perception / Sense
