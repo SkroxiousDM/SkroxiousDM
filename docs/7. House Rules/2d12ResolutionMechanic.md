@@ -8,8 +8,8 @@ results apply any relevant modifiers and compare the total to a Challenge Thresh
 - **Success with Doom:** If your total meets or  is lower than the Challenge Threshold AND your Doom Die is the lowest you rolled a “Success with Doom” You succeed with a cost or complication but the GM gains a Doom token
 - **Failure:** If your total is more than the Challenge Threshold AND your Doom Die shows a higher result than your Other Die you rolled a “Failure” You fail with a minor consequence
 - **Failure with Doom:** If your total is more than the Challenge Threshold AND your Doom Die is the lowest die you rolled a “Failure with Doom” You fail with a major consequence and the GM gains a Doom token.
-- **Critical Success:** If your total is less than or equal to the Challenge Threshold AND your Doom Die shows matching results, you rolled a “Critical Success” (“Crit”) You succeed with a bonus, and clear a Stress. If this was an attack roll you deal critical damage.
-- **Critical Failure:** If your total is more than the Challenge Threshold AND your your Doom Die shows matching results, you rolled a “Critical Failure" (“Fumble”) You Fail spectacularly, and gain a Stress. If this was an attack roll you roll on the Fumble table.
+- **Great Success:** If your total is less than or equal to the Challenge Threshold AND your Doom Die shows matching results, you rolled a “Great Success” (“Crit”) You succeed with a bonus, and clear a Stress. If this was an attack roll you deal critical damage.
+- **Terrible Failure:** If your total is more than the Challenge Threshold AND your your Doom Die shows matching results, you rolled a “Terrible Failure" (“Fumble”) You Fail spectacularly, and gain a Stress. If this was an attack roll you roll on the Fumble table.
 
 Common consequences for failing a test include the following:
 - Making an NPC so upset that they storm off, or betray, attack, or otherwise attempt to harm you
