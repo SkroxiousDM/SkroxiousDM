@@ -278,69 +278,6 @@ While most monsters are unarmored, some creatures are tougher to take down:
 
 >**Monster armor VS hero armor.** Why does it work differently? GMs have enough to juggle without the added complexity of having to decide when to Defend against a dozen attacks each round. Heroes, on the other hand, have only one character to focus on, so the added handicap of this is a burden but an enjoyable detail.
 
-## Interpersonal skills 
-Brag	Impress others with stories of your deeds
-Empathize	Relate to someone on a personal level
-Flirt	Attract romantic attention from someone
-Gamble	Make bets with others
-Handle Animals	Interact with nonsapient animal wildlife
-Interrogate	Obtain information from a creature withholding it
-Intimidate	Awe or scare a creature
-Lead	Inspire people to action
-Lie	Convince someone that a falsehood is true
-Music	Perform music vocally or with an instrument
-Perform	Engage in dance, oratory, acting, or some other physical performance
-Persuade	Convince someone to agree with you through use of your charms and grace
-Read Person	Read the emotions and body language of other creatures
-## Crafting Skills
-Alchemy	Make bombs and potions
-Architecture	Create buildings and vehicles
-Blacksmithing	Forge metal armor and weapons
-Carpentry	Create items out of wood
-Cooking	Create delicious dishes
-Fletching	Make ranged weapons and ammunition
-Forgery	Create false badges, documents, and other items
-Jewelry	Create bracelets, crowns, rings, and other jewelry
-Mechanics	Build machines and clockwork items
-Tailoring	Craft clothing of cloth or leather
-##Exploration Skills 
-Climb	Move up vertical surfaces
-Drive	Control vehicles
-Endurance	Remain engaged in strenuous activity over a long period of time
-Gymnastics	Move across unsteady or narrow surfaces; tumble
-Heal	Use mundane first aid
-Jump	Leap vertical and horizontal distances
-Lift	Pick up, carry, and throw heavy objects
-Navigate	Read a map and travel without becoming lost
-Ride	Ride and control a nonsapient mount, such as a horse
-Swim	Move through deep liquid
-## Lore Skills
-Criminal Underworld	Knowing about criminal organizations, their crimes, their relationships, and their leaders
-Culture	Knowing about a culture's customs, folktales, and taboos
-History	Knowing about significant past events
-Magic	Knowing about magical places, spells, rituals, items, and phenomena
-Monsters	Knowing monster ecology, strengths, and weaknesses
-Nature	Knowing about natural flora, fauna, and weather
-Psionics	Knowing about psionic places, spells, rituals, items, and phenomena
-Religion	Knowing about religious mythology, practices, and rituals
-Rumors	Knowing gossip, legends, and uncertain truths
-Society	Knowing noble etiquette and the leadership and power dynamics of noble families
-Strategy	Knowing about battle tactics and logistics
-Timescape	Knowing about the many worlds of the timescape
-## Intrigue Skills
-Alertness	Intuitively sense the details of your surroundings
-Conceal Object	Hide an object on your person or in your environment
-Disguise	Change your appearance to look like a different person
-Eavesdrop	Actively listen to something that is hard to hear, such as a whispered conversation through a door
-Escape Artist	Escape from bonds such as rope or manacles
-Hide	Conceal yourself from others' observation
-Pick Lock	Open a lock without using the key
-Pick Pocket	Steal an item that another person wears or carries without them noticing
-Sabotage	Disable a mechanical device such as a trap
-Search	Actively search an environment for important details and items
-Sneak	Move silently
-Track	Follow a trail that another creature has left behind
-
 ## Why Build a Culture?
 Building a character is about more than adding up your stats, picking skills and abilities, and recording that information on a character sheet. You're building a hero—a main character in a story, be it a one-shot or a heroic campaign. Think about the personality and the past of who you are creating. That's why the game lets you build a culture rather than simply saying, "Pick three skills and a bonus language." We want players to imagine their heroes as complex and intricate characters.
 
@@ -448,3 +385,67 @@ Skill Options: One skill from the interpersonal skill group. (Quick Build: Lead.
 >But I Really Want Alertness
 >
 >If the culture you create doesn't grant a skill that you want, check with your Director about modifying what the culture's aspects offer. For instance, you can easily make the case that a culture with the noble upbringing aspect should give a character access to the Alertness skill, given that living among those who covet your power means always being aware of your surroundings.
+
+## Interpersonal skills 
+Brag	Impress others with stories of your deeds
+Empathize	Relate to someone on a personal level
+Flirt	Attract romantic attention from someone
+Gamble	Make bets with others
+Handle Animals	Interact with nonsapient animal wildlife
+Interrogate	Obtain information from a creature withholding it
+Intimidate	Awe or scare a creature
+Lead	Inspire people to action
+Lie	Convince someone that a falsehood is true
+Music	Perform music vocally or with an instrument
+Perform	Engage in dance, oratory, acting, or some other physical performance
+Persuade	Convince someone to agree with you through use of your charms and grace
+Read Person	Read the emotions and body language of other creatures
+## Crafting Skills
+Alchemy	Make bombs and potions
+Architecture	Create buildings and vehicles
+Blacksmithing	Forge metal armor and weapons
+Carpentry	Create items out of wood
+Cooking	Create delicious dishes
+Fletching	Make ranged weapons and ammunition
+Forgery	Create false badges, documents, and other items
+Jewelry	Create bracelets, crowns, rings, and other jewelry
+Mechanics	Build machines and clockwork items
+Tailoring	Craft clothing of cloth or leather
+##Exploration Skills 
+Climb	Move up vertical surfaces
+Drive	Control vehicles
+Endurance	Remain engaged in strenuous activity over a long period of time
+Gymnastics	Move across unsteady or narrow surfaces; tumble
+Heal	Use mundane first aid
+Jump	Leap vertical and horizontal distances
+Lift	Pick up, carry, and throw heavy objects
+Navigate	Read a map and travel without becoming lost
+Ride	Ride and control a nonsapient mount, such as a horse
+Swim	Move through deep liquid
+## Lore Skills
+- Criminal Underworld	Knowing about criminal organizations, their crimes, their relationships, and their leaders
+- Culture	Knowing about a culture's customs, folktales, and taboos
+- History	Knowing about significant past events
+- Magic	Knowing about magical places, spells, rituals, items, and phenomena
+- Monsters	Knowing monster ecology, strengths, and weaknesses
+- Nature	Knowing about natural flora, fauna, and weather
+- Psionics	Knowing about psionic places, spells, rituals, items, and phenomena
+- Religion	Knowing about religious mythology, practices, and rituals
+- Rumors	Knowing gossip, legends, and uncertain truths
+- Society	Knowing noble etiquette and the leadership and power dynamics of noble families
+- Strategy	Knowing about battle tactics and logistics
+- Planar Knowledge	Knowing about the many worlds of the timescape
+## Intrigue Skills
+- Alertness	Intuitively sense the details of your surroundings
+- Conceal Object	Hide an object on your person or in your environment
+- Disguise	Change your appearance to look like a different person
+- Eavesdrop	Actively listen to something that is hard to hear, such as a whispered conversation through a door
+- Escape Artist	Escape from bonds such as rope or manacles
+- Hide	Conceal yourself from others' observation
+- Pick Lock	Open a lock without using the key
+- Pick Pocket	Steal an item that another person wears or carries without them noticing
+- Sabotage	Disable a mechanical device such as a trap
+- Search	Actively search an environment for important details and items
+- Sneak	Move silently
+- Track	Follow a trail that another creature has left behind
+
