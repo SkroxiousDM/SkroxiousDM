@@ -11,6 +11,24 @@ results apply any relevant modifiers and compare the total to a Challenge Thresh
 - **Critical Success:** If your total is less than or equal to the Challenge Threshold AND your Doom Die shows matching results, you rolled a “Critical Success” (“Crit”) You succeed with a bonus, and clear a Stress. If this was an attack roll you deal critical damage.
 - **Critical Failure:** If your total is more than the Challenge Threshold AND your your Doom Die shows matching results, you rolled a “Critical Failure" (“Fumble”) You Fail spectacularly, and gain a Stress. If this was an attack roll you roll on the Fumble table.
 
+Common consequences for failing a test include the following:
+- Making an NPC so upset that they storm off, or betray, attack, or otherwise attempt to harm you
+- Drawing the attention of a group of foes
+- Triggering a trap or hazard that captures or significantly harms you or an ally
+- Breaking an important piece of equipment that is difficult to replace or repair
+- Thinking you know something that you don't
+-Getting stuck in a situation that must be resolved with a negotiation or a montage test you didn't need to make before
+- In lieu of other consequences, the Director also has the option to gain 2 additional Doom—a resource that creatures run by the DM use in combat—at the start of the next combat encounter.
+
+Common rewards accompanying success on a test include the following:
+- Automatically accomplishing a related follow-up task that would typically require a test
+- Allowing an ally engaged in the same task to accomplish the task without needing to make the test as well
+- Obtaining a consumable treasure or useful piece of mundane equipment
+- Learning a piece of helpful information
+- Impressing or ingratiating yourself with someone who grants you a small favor
+- Noticing a hidden danger well before it strikes, giving you time to avoid or prepare for it
+- In lieu of other rewards, the Director can also decide that a hero who succeeds on a test with a reward earns the players a Fate Point.
+
 ### Push mechanic
 - Fumbles can't be pushed
 
