@@ -38,21 +38,21 @@ Common rewards accompanying success on a test include the following:
 
 
 # 8 Attributes 
-## Physical 
+#### Physical 
 - Strength / Brawn
 - Dexterity / Coordination
 - Agility / Quickness
 - Constitution / Toughness
 
-Stamina = sum of Physical Attributes/4
+**Stamina** = sum of Physical Attributes/4
 
-## Mental
+#### Mental
 - Intelligence / Wits 
 - Willpower / Command
 - Perception / Sense
 - Charisma /Fellowship
 
-Resolve = sum of Mental Attributes/4
+**Resolve** = sum of Mental Attributes/4
 
 # 20 SKILLS
 - each skill has a number of specialisations
