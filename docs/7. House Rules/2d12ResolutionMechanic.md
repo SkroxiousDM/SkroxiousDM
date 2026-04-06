@@ -296,3 +296,29 @@ Lift	Pick up, carry, and throw heavy objects
 Navigate	Read a map and travel without becoming lost
 Ride	Ride and control a nonsapient mount, such as a horse
 Swim	Move through deep liquid
+## Lore Skills
+Criminal Underworld	Knowing about criminal organizations, their crimes, their relationships, and their leaders
+Culture	Knowing about a culture's customs, folktales, and taboos
+History	Knowing about significant past events
+Magic	Knowing about magical places, spells, rituals, items, and phenomena
+Monsters	Knowing monster ecology, strengths, and weaknesses
+Nature	Knowing about natural flora, fauna, and weather
+Psionics	Knowing about psionic places, spells, rituals, items, and phenomena
+Religion	Knowing about religious mythology, practices, and rituals
+Rumors	Knowing gossip, legends, and uncertain truths
+Society	Knowing noble etiquette and the leadership and power dynamics of noble families
+Strategy	Knowing about battle tactics and logistics
+Timescape	Knowing about the many worlds of the timescape
+## Intrigue Skills
+Alertness	Intuitively sense the details of your surroundings
+Conceal Object	Hide an object on your person or in your environment
+Disguise	Change your appearance to look like a different person
+Eavesdrop	Actively listen to something that is hard to hear, such as a whispered conversation through a door
+Escape Artist	Escape from bonds such as rope or manacles
+Hide	Conceal yourself from others' observation
+Pick Lock	Open a lock without using the key
+Pick Pocket	Steal an item that another person wears or carries without them noticing
+Sabotage	Disable a mechanical device such as a trap
+Search	Actively search an environment for important details and items
+Sneak	Move silently
+Track	Follow a trail that another creature has left behind
