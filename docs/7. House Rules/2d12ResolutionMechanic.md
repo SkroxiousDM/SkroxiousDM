@@ -260,13 +260,17 @@ While most monsters are unarmored, some creatures are tougher to take down:
 
 >**Monster armor VS hero armor.** Why does it work differently? GMs have enough to juggle without the added complexity of having to decide when to Defend against a dozen attacks each round. Heroes, on the other hand, have only one character to focus on, so the added handicap of this is a burden but an enjoyable detail.
 
-## Default Monster Stats
-
-Unless otherwise noted, assume that monsters are medium-sized, unarmored, have speed 6 (can replace an attack to move again, or replace each one of those to retry a save), attacks have Reach 1, and roll 1d20 for saves (though some monsters may have advantage/disadvantage on saves or checks when appropriate).
-
-### GOBLIN LVL 1/3, SMALL 15
-**Haha, Missed Me!** Whenever an attack misses you, deal 1 psychic damage in return.
-
-**Stab.** 1d6+2 (or Shoot, Range 8).
-
-This stat block for a goblin serves as an example. No speed, armor, or saves are listed so we use the defaults for a total of 15 or more damage, he'll die. His LVL of 1/3 means 3 goblins are about as strong as a level 1 hero. On the goblin's turn, the GM could move him up to 6 spaces and
+## Interpersonal skills 
+Brag	Impress others with stories of your deeds
+Empathize	Relate to someone on a personal level
+Flirt	Attract romantic attention from someone
+Gamble	Make bets with others
+Handle Animals	Interact with nonsapient animal wildlife
+Interrogate	Obtain information from a creature withholding it
+Intimidate	Awe or scare a creature
+Lead	Inspire people to action
+Lie	Convince someone that a falsehood is true
+Music	Perform music vocally or with an instrument
+Perform	Engage in dance, oratory, acting, or some other physical performance
+Persuade	Convince someone to agree with you through use of your charms and grace
+Read Person	Read the emotions and body language of other creatures
