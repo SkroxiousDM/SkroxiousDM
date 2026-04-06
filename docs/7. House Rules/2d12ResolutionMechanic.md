@@ -274,3 +274,25 @@ Music	Perform music vocally or with an instrument
 Perform	Engage in dance, oratory, acting, or some other physical performance
 Persuade	Convince someone to agree with you through use of your charms and grace
 Read Person	Read the emotions and body language of other creatures
+## Crafting Skills
+Alchemy	Make bombs and potions
+Architecture	Create buildings and vehicles
+Blacksmithing	Forge metal armor and weapons
+Carpentry	Create items out of wood
+Cooking	Create delicious dishes
+Fletching	Make ranged weapons and ammunition
+Forgery	Create false badges, documents, and other items
+Jewelry	Create bracelets, crowns, rings, and other jewelry
+Mechanics	Build machines and clockwork items
+Tailoring	Craft clothing of cloth or leather
+##Exploration Skills 
+Climb	Move up vertical surfaces
+Drive	Control vehicles
+Endurance	Remain engaged in strenuous activity over a long period of time
+Gymnastics	Move across unsteady or narrow surfaces; tumble
+Heal	Use mundane first aid
+Jump	Leap vertical and horizontal distances
+Lift	Pick up, carry, and throw heavy objects
+Navigate	Read a map and travel without becoming lost
+Ride	Ride and control a nonsapient mount, such as a horse
+Swim	Move through deep liquid
