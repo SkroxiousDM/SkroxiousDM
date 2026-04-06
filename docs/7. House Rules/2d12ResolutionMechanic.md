@@ -54,7 +54,13 @@ Common rewards accompanying success on a test include the following:
 
 **Resolve** = sum of Mental Attributes/4
 
+**Initiative** = (Agility + Intelligence)/2
+
 # 20 SKILLS
+Having a relevant skill is beneficial in several ways: 
+- Grants a +1 bonus on the related Attribute check, and a skilled PC may Push if the Attribute check is failed, allowing them to try again if they wish. 
+- Some rare actions may require a specific skill or background to attempt. Note this is not the default position: PCs may attempt the vast majority of things without a skill. Having a skill simply makes it easier. 
+- At the GM’s option, being skilled might be a precondition for a Great Success, turn a Terrible Failure into an ordinary failure, or obviate the need to roll (ie automatic success). failure, or obviate the need to roll (ie automatic success).
 - each skill has a number of specialisations
 
 ## STR Strength
