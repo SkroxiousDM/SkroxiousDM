@@ -1,96 +1,144 @@
-# Action Rolls
-All action rolls require a pair of d12's one must be a visually distinct twelvesided dice representing Doom.
-To make an action roll you roll the Dice sum the results and compare the total to a Challenge Threshold to determine the outcome:
+## Chapter 2: Core Rules
 
-##### Challenge Threshold
+### 2.1 Attributes
 
-|---|Modifier |Example Task|
-|---|---|---|
-|Very Easy |+6|Waking up to an emergency alarm, jumping a small gap|
-|Easy |+4| Fixing minor damage in a familiar weapon|
-|Routine |+2| Using a library to perform basic research|
-|Challenging |+0| Shooting a target in a well lit room, climbing a stone wall|
-|Difficult |−2 |Recalling an obscure fact about the Governor|
-|Hard |−4 |Swimming upstream in a rapidly flowing sewer|
-|Very Hard |−6 |Convincing a Watch Commander to let this one slide|
+Characters are defined by eight core attributes, divided into Physical and Mental categories. Each attribute is rated on a scale set by the campaign.  The Challenge Threshold is based upon your Attribute plus any modifiers before comparing to your action roll.
 
-- **Success:** If your total meets or is lower than the Challenge Threshold AND your Doom Die shows a higher result than your other Die you rolled a “Success” You succeed.
-- **Success with Doom:** If your total meets or  is lower than the Challenge Threshold AND your Doom Die is the lowest you rolled a “Success with Doom” You succeed with a cost or complication but the GM gains a Doom token
-- **Failure:** If your total is more than the Challenge Threshold AND your Doom Die shows a higher result than your Other Die you rolled a “Failure” You fail with a minor consequence
-- **Failure with Doom:** If your total is more than the Challenge Threshold AND your Doom Die is the lowest die you rolled a “Failure with Doom” You fail with a major consequence and the GM gains a Doom token.
-- **Great Success:** If your total is less than or equal to the Challenge Threshold AND your Doom Die shows matching results, you rolled a “Great Success” (“Crit”) You succeed with a bonus, and clear a Stress. If this was an attack roll you deal critical damage.
-- **Terrible Failure:** If your total is more than the Challenge Threshold AND your your Doom Die shows matching results, you rolled a “Terrible Failure" (“Fumble”) You Fail spectacularly, and gain a Stress. If this was an attack roll you roll on the Fumble table.
+#### 2.1.1 Physical Attributes
 
-Common consequences for failing a test include the following:
-- Making an NPC so upset that they storm off, or betray, attack, or otherwise attempt to harm you
-- Drawing the attention of a group of foes
-- Triggering a trap or hazard that captures or significantly harms you or an ally
-- Breaking an important piece of equipment that is difficult to replace or repair
-- Thinking you know something that you don't
--Getting stuck in a situation that must be resolved with a negotiation or a montage test you didn't need to make before
-- In lieu of other consequences, the Director also has the option to gain 2 additional Doom—a resource that creatures run by the DM use in combat—at the start of the next combat encounter.
+- **Strength (STR):** Raw physical power for lifting, striking, and feats of might.  
+- **Dexterity (DEX):** Precision, speed, and hand–eye coordination.  
+- **Agility (AGI):** Reflexes, balance, and body control.  
+- **Constitution (CON):** Endurance, resistance to harm, and toughness.  
 
-Common rewards accompanying success on a test include the following:
-- Automatically accomplishing a related follow-up task that would typically require a test
-- Allowing an ally engaged in the same task to accomplish the task without needing to make the test as well
-- Obtaining a consumable treasure or useful piece of mundane equipment
-- Learning a piece of helpful information
-- Impressing or ingratiating yourself with someone who grants you a small favor
-- Noticing a hidden danger well before it strikes, giving you time to avoid or prepare for it
-- In lieu of other rewards, the Director can also decide that a hero who succeeds on a test with a reward earns the players a Fate Point.
-## Advantage & Disadvantage
-If you are ever in a favorable situation, the GM may allow you to roll with advantage. To do this, roll 1 additional die of the same type and remove the Highest. Alternatively, if the situation is grim or your idea is a long shot, you may have to roll with disadvantage (removing the Lowest die instead).
+**Stamina** = (STR + DEX + AGI + CON) ÷ 4, rounded down.
 
-If you have multiple instances of advantage or disadvantage, for each one, roll an extra die and remove the highest (for advantage) or the lowest (for disadvantage). Each instance of advantage cancels out one instance of disadvantage before you roll.
+#### 2.1.2 Mental Attributes
 
-## Push mechanic
-- Fumbles can't be pushed
+- **Intelligence (INT):** Reasoning, memory, and problem–solving.  
+- **Willpower (WIL):** Mental fortitude, determination, and force of will.  
+- **Perception (PER):** Awareness, senses, and intuitive insight.  
+- **Charisma (CHA):** Social presence, charm, and leadership.  
 
-## Degree's of success 
-- for every 2 points below the success threshhond you earn a degree of success
+**Resolve** = (INT + WIL + PER + CHA) ÷ 4, rounded down.
 
-##### OUTCOMES TABLE
+#### 2.1.3 Initiative
 
-|SL |Result |Have You Succeeded?|
-|---|---|---|
-|+5 or more|Astounding Success|Yes, perfectly!: The result is as good as it can be, perhaps with extra luck and fortunate coincidences thrown in!|
-|+3 to +4 |Impressive Success| Yes, and…: You achieve your goal with style, exceeding your expectations.|
-|+1 to +2 |Success |Yes: You achieve a solid success.|
-|+0 |Marginal Success |Yes, but…: You more or less achieve what you intend, but imperfectly, and perhaps with an unpredictable side effect.|
-|–0 |Marginal Failure |No, but…: You marginally fail, perhaps accomplishing a portion of what you intended.|
-|–1 to –2 |Failure |No: You just plain do it wrong.|
-|–3 to –4 |Impressive Failure |No, and…: Not only do you mess up, but you also cause additional things to go wrong.
-|–5 or less |Astounding Failure |No, not in any way!: Everything goes wrong in the worst possible way. The GM will likely add to your woes with unanticipated consequences.|
+**Initiative** determines turn order in combat.  
 
-# 8 Attributes 
-#### Physical 
-- Strength / Brawn
-- Dexterity / Coordination
-- Agility / Quickness
-- Constitution / Toughness
+**Initiative** = (AGI + INT) ÷ 2, rounded down.  
 
-**Stamina** = sum of Physical Attributes/4
+Characters act from highest Initiative to lowest (see section 2.4.2).
 
-#### Mental
-- Intelligence / Wits 
-- Willpower / Command
-- Perception / Sense
-- Charisma /Fellowship
+---
 
-**Resolve** = sum of Mental Attributes/4
+### 2.2 Skills
 
-**Initiative** = (Agility + Intelligence)/2
+Skills represent trained capabilities tied to specific attributes and situations. Having a relevant skill grants a +1 bonus to the associated attribute check, and a skilled character may Push a failed check to attempt it again (subject to the Push rules in section 2.3.4). In rare cases, the GM may require a specific skill to attempt an action, but most tasks can be attempted untrained.
 
-## Skills
-Having a relevant skill is beneficial in several ways: 
-- Grants a +1 bonus on the related Attribute check, and a skilled PC may Push if the Attribute check is failed, allowing them to try again if they wish. 
-- Some rare actions may require a specific skill or background to attempt. Note this is not the default position: PCs may attempt the vast majority of things without a skill. Having a skill simply makes it easier. 
-- At the GM’s option, being skilled might be a precondition for a Great Success, turn a Terrible Failure into an ordinary failure, or obviate the need to roll (ie automatic success). failure, or obviate the need to roll (ie automatic success).
-- each skill has a number of specialisations
-### Skill Specialties
-In addition to having proficiency in a skill, a character may be an expert at a narrow area of specialization within that skill. For instance, a character proficient in the Deception skill may be particularly adept in communicating through written code.
-A character gains two skill specialties at 1st level (plus bonus knowledge; see Ingenious Proficiency). A character may choose any specialty in a skill in which they are proficient. A character may not gain the same skill specialty twice. If your Intelligence is 12 or higher, you gain extra skill specialties (see Ingenious Proficiency). When a character makes an ability check to which their skill specialty applies, it grants an additional +1 bonus on the related Attribute check. The Narrator determines whether the skill specialty applies.
-While the list of skills below is fairly comprehensive, the Narrator may expand the list of skill specialties to meet the needs of the campaign world. Each of its cultures, historical eras, important organizations, and other unique details might furnish a specialty.
+At the GM’s discretion, possessing a relevant skill can:
+- Be required to achieve a Critical Success.  
+- Downgrade a Critical Failure to a normal failure.  
+- Remove the need to roll, granting automatic success.
+
+Each skill may also have specializations that reflect focused expertise.
+
+#### 2.2.1 Skill Specializations
+
+A specialization is a narrow focus within a skill. For example, a character proficient in Deception might specialize in ciphers, or a character with Lore (History) might specialize in war chronicles.
+
+- A character gains two specializations at 1st level, plus any granted by features such as Ingenious Proficiency.  
+- A specialization must be tied to a skill in which the character is proficient.  
+- A character cannot take the same specialization more than once.  
+- When a specialization applies, it grants an additional +1 bonus to the related check.  
+
+The GM decides when a specialization applies.
+
+#### 2.2.2 Skill Groups
+
+Skills are organized into functional groups. Culture aspects (see section 2.5) grant access to these groups.
+
+##### Interpersonal Skills
+
+Used to interact with others socially or emotionally.
+
+- **Brag:** Impress others with tales of your deeds.  
+- **Empathize:** Relate to someone on a personal level.  
+- **Flirt:** Attract romantic attention.  
+- **Gamble:** Make and manage wagers.  
+- **Handle Animals:** Interact with nonsapient animals.  
+- **Interrogate:** Extract information from unwilling subjects.  
+- **Intimidate:** Frighten or awe a creature.  
+- **Lead:** Inspire others to action.  
+- **Lie:** Convince someone that a falsehood is true.  
+- **Music:** Perform vocal or instrumental music.  
+- **Perform:** Dance, act, or otherwise perform physically.  
+- **Persuade:** Convince others through charm and grace.  
+- **Read Person:** Read emotions and body language.
+
+##### Crafting Skills
+
+Used to create, modify, or repair physical items.
+
+- **Alchemy:** Brew bombs and potions.  
+- **Architecture:** Design and construct buildings and vehicles.  
+- **Blacksmithing:** Forge metal weapons and armor.  
+- **Carpentry:** Create wooden structures and items.  
+- **Cooking:** Prepare notable meals.  
+- **Fletching:** Craft ranged weapons and ammunition.  
+- **Forgery:** Produce convincing false documents and badges.  
+- **Jewelry:** Craft rings, crowns, and other adornments.  
+- **Mechanics:** Build and maintain machines and clockworks.  
+- **Tailoring:** Craft clothing from cloth or leather.
+
+##### Exploration Skills
+
+Used to move, endure, and operate in physical environments.
+
+- **Climb:** Ascend vertical surfaces.  
+- **Drive:** Control vehicles.  
+- **Endurance:** Sustain strenuous activity over time.  
+- **Gymnastics:** Cross unstable terrain or tumble safely.  
+- **Heal:** Provide mundane first aid.  
+- **Jump:** Clear vertical or horizontal gaps.  
+- **Lift:** Carry and throw heavy objects.  
+- **Navigate:** Follow maps and avoid becoming lost.  
+- **Ride:** Control nonsapient mounts.  
+- **Swim:** Move through deep water or other liquids.
+
+##### Lore Skills
+
+Used to recall and apply specialized knowledge.
+
+- **Criminal Underworld:** Crime syndicates, their operations, and leaders.  
+- **Culture:** Customs, folktales, and taboos.  
+- **History:** Significant past events.  
+- **Magic:** Magical sites, spells, rituals, items, and phenomena.  
+- **Monsters:** Ecology, strengths, and weaknesses of creatures.  
+- **Nature:** Flora, fauna, and weather.  
+- **Psionics:** Psionic practices and phenomena.  
+- **Religion:** Myths, rites, and religious practices.  
+- **Rumors:** Gossip, legends, and uncertain reports.  
+- **Society:** Noble etiquette and power structures.  
+- **Strategy:** Battle tactics and logistics.  
+- **Planar:** The many planes of existence and their traits.
+
+##### Intrigue Skills
+
+Used for stealth, subterfuge, and covert operations.
+
+- **Alertness:** Sense subtle details in your surroundings.  
+- **Conceal Object:** Hide items on your person or nearby.  
+- **Disguise:** Alter your appearance to pass as another.  
+- **Eavesdrop:** Listen to quiet or obscured conversations.  
+- **Escape Artist:** Slip out of restraints.  
+- **Hide:** Avoid visual detection.  
+- **Pick Lock:** Open locks without keys.  
+- **Pick Pocket:** Steal items unnoticed.  
+- **Sabotage:** Disable mechanical devices such as traps.  
+- **Search:** Systematically examine an area for details.  
+- **Sneak:** Move quietly to avoid being heard.  
+- **Track:** Follow trails left by creatures.
 
 ## Strength / Brawn (STR)
 
@@ -340,6 +388,391 @@ Specialties:
 - Training (tricks, war‑training, work tasks)  
 - Farming & Husbandry (herds, breeding, routine care)  
 - Battle Commands (mounts obeying under fire)
+
+---
+
+### 2.3 Action Rolls
+
+All uncertain actions, including attacks, skill checks, and certain spell uses, are resolved with an **action roll**.
+
+#### 2.3.1 Rolling the Dice
+
+- Roll **two d12s** for every action roll. One must be a distinct **Doom die**.  
+- Add relevant attribute and skill bonuses to the total, if applicable.  
+- Compare the final total to the **Challenge Threshold** set by the GM.
+
+#### 2.3.2 Challenge Threshold
+
+The Challenge Threshold represents task difficulty.
+
+| Difficulty   | Modifier | Example Task |
+|-------------|---------:|--------------|
+| Very Easy   | +6       | Waking to an emergency alarm; jumping a small gap |
+| Easy        | +4       | Repairing minor damage to a familiar weapon |
+| Routine     | +2       | Using a library for basic research |
+| Challenging | +0       | Shooting a target in good light; climbing a stone wall |
+| Difficult   | -2       | Recalling an obscure fact about a governor |
+| Hard        | -4       | Swimming upstream in a strong current |
+| Very Hard   | -6       | Convincing a watch commander to overlook an offense |
+
+The GM chooses a difficulty based on circumstances and applies the modifier accordingly.
+
+#### 2.3.3 Outcomes
+
+Let “total” be your modified result and “Threshold” be the Challenge Threshold.
+
+- **Success:** Total ≤ Threshold and the Doom die is higher than the other die. The action succeeds.  
+- **Success with Doom:** Total ≤ Threshold and the Doom die is lower. The action succeeds with a cost or complication; the GM gains 1 Doom token.  
+- **Failure:** Total > Threshold and the Doom die is higher. The action fails with a minor consequence.  
+- **Failure with Doom:** Total > Threshold and the Doom die is lower. The action fails with a major consequence; the GM gains 1 Doom token.  
+- **Critical Success:** Total ≤ Threshold and both dice match. The action succeeds with a strong bonus; the character clears 1 Stress, and an attack deals critical damage.  
+- **Critical Failure:** Total > Threshold and both dice match. The action fails spectacularly; the character gains 1 Stress, and an attack triggers a roll on the Fumble table.
+
+The GM determines specific consequences based on the fiction.
+
+##### Common Consequences and Rewards
+
+Examples of **failed test** consequences:
+- An NPC becomes hostile, uncooperative, or dangerous.  
+- Enemies are alerted or reinforced.  
+- A trap or hazard triggers.  
+- Vital equipment is damaged or destroyed.  
+- The character gains false or misleading information.  
+- The situation escalates and requires negotiation or a more complex challenge.  
+- Instead of another consequence, the Director may gain 2 Doom at the start of the next combat.
+
+Examples of **successful test** rewards:
+- A related follow–up task is completed automatically.  
+- An ally working toward the same goal succeeds without rolling.  
+- The party gains a consumable resource or useful gear.  
+- Helpful information is discovered.  
+- An NPC is impressed or indebted, granting a small favor.  
+- A hidden danger is noticed early, granting time to react.  
+- Instead of another reward, the Director may award the party 1 Fate Point.
+
+#### 2.3.4 Advantage and Disadvantage
+
+Certain circumstances grant **advantage** or **disadvantage**:
+
+- **Advantage:** Roll 1 extra die of the same type and discard the highest result.  
+- **Disadvantage:** Roll 1 extra die and discard the lowest result.
+
+Multiple instances stack:
+
+- For each advantage, roll 1 additional die and discard one highest result.  
+- For each disadvantage, roll 1 additional die and discard one lowest result.  
+- Advantage and disadvantage cancel out one–for–one before rolling.
+
+#### 2.3.5 Push
+
+Pushing allows a character to reroll a failed check at additional risk, subject to the GM’s rules.
+
+- Fumbles (Critical Failures) cannot be pushed.  
+- Only certain checks (often those with a relevant skill) may be pushed.
+
+#### 2.3.6 Degrees of Success
+
+For every 2 points your total is below the success threshold, you gain **1 degree of success**. Degrees of success can enhance damage, information gained, or narrative impact, as determined by the GM.
+
+**Outcome Levels (SL):**
+
+| SL          | Result               | Outcome |
+|------------:|----------------------|---------|
+| +5 or more  | Astounding Success   | Perfect result with exceptional fortune. |
+| +3 to +4    | Impressive Success   | Strong success with added benefits. |
+| +1 to +2    | Success              | Solid success. |
+| +0          | Marginal Success     | Success with a drawback or side effect. |
+| -0          | Marginal Failure     | Near miss; partial progress. |
+| -1 to -2    | Failure              | Clear failure. |
+| -3 to -4    | Impressive Failure   | Failure with added complications. |
+| -5 or less  | Astounding Failure   | Catastrophic failure with severe fallout. |
+
+---
+
+### 2.4 Combat
+
+Combat uses the same action roll system with thresholds derived from enemy defenses, range, cover, and conditions.
+
+#### 2.4.1 Hit Protection and Wounds
+
+**Hit Protection (HP)** measures a character’s ability to avoid serious harm through skill, stamina, and luck.  
+
+- Whenever you take damage, subtract it from your HP.  
+- HP cannot be reduced below 0.
+
+When you are reduced to **0 HP**:
+- You gain **1 Wound**.  
+- You gain the **Dying** condition until you regain at least 1 HP.
+
+While **Dying**:
+- You can take only 1 action on your turn.  
+- You automatically lose Concentration.  
+- You are at risk of further harm:
+  - Attacking or casting a spell causes 1 Wound unless you succeed on a DC 10 Fortitude save.  
+  - Taking damage causes 2 Wounds (3 Wounds on a critical hit).
+
+The rules for Wounds and recovery can be expanded in a later section (e.g., chapter 3).
+
+#### 2.4.2 Initiative and Rounds
+
+At the start of combat, determine Initiative (see section 2.1.3). Characters act in order from highest Initiative to lowest. Each round, a character takes a **turn** in Initiative order.
+
+On your turn, you gain **3 Actions** (see section 2.4.3). When your turn ends, all spent Actions refresh for your next turn.
+
+#### 2.4.3 Heroic Actions
+
+On your turn you have 3 Actions to spend on attacks, movement, spellcasting, and other tasks.
+
+- Most tasks cost **1 Action**.  
+- Some powerful abilities or spells cost **2 or more Actions**.  
+- Some minor effects are **free** and cost no Action.  
+
+You cannot carry Actions between turns; always assume they fully refresh.
+
+##### Attack
+
+To attack, roll the listed damage dice for your weapon, ability, or spell and apply the result to your chosen target.
+
+- If any die shows a 1, the attack misses and has no effect.  
+- For multi–die attacks, designate the leftmost die as the **Primary Die**, which determines hit, miss, and critical hit status.
+
+**Critical Hits:**  
+If the Primary Die shows its maximum value, the attack is a critical hit:
+- The attack ignores the target’s Armor.  
+- The Primary Die **explodes**: roll it again and add to the total; repeat if it shows maximum again.
+
+**Rushed Attacks:**  
+You may attack multiple times on your turn:
+- Each attack beyond the first is a **Rushed Attack**, imposing 1 instance of disadvantage on that attack.  
+- Special abilities that trigger on a miss (such such as grappling attempts) may still apply on Rushed Attacks.
+
+##### Move
+
+Spending 1 Action to Move allows you to:
+- Move up to your speed (base 30 ft. unless otherwise noted).  
+- Split your movement before and after other Actions.  
+- Move multiple times on the same turn by spending multiple Actions.  
+
+In **Difficult Terrain**, movement speed is halved.
+
+##### Cast a Spell
+
+To cast a spell you must:
+- Have at least one free hand or hold a spellcasting focus.  
+- Be able to speak clearly.  
+- Spend **mana** equal to the spell’s tier (cantrips cost 0 mana; see the magic chapter).
+
+**Upcasting:**  
+Some spells can be **upcast** for greater effect:
+- Spend additional mana to enhance the spell.  
+- You may upcast only up to the highest spell tier you have unlocked.
+
+##### Assess
+
+You can use an Action to gather information or obtain a tactical edge in combat.
+
+Typical uses include:
+- Identifying an enemy’s weakness, damage vulnerability, or resistance.  
+- Predicting enemy tactics or next actions.  
+- Revealing environmental advantages or hazards.
+
+Example DCs:
+- DC 10 Insight: predict what a group of enemies will do next round.  
+- DC 15 Arcana: identify the weakness of a magical creature.  
+- DC 18 Investigation (or equivalent): reveal a soft spot and reduce the target’s Armor by 1 step for 1 round.
+
+The GM chooses the most appropriate skill and DC (see section 2.2).
+
+#### 2.4.4 Heroic Reactions
+
+**Reactions** are special actions taken outside your own turn.
+
+- Each Reaction costs **1 Action** from your next turn’s pool.  
+- You can use each type of Reaction at most **once per round**.  
+- When your next turn begins, any Actions spent on Reactions leave you with fewer Actions that round.
+
+##### Defend
+
+When you are hit by an attack, you can use Defend to:
+- Reduce the damage by an amount equal to your Armor rating.
+
+At the GM’s discretion, some damage types (such as psychic or certain area effects) cannot be reduced this way.
+
+##### Interpose
+
+When a creature within 10 ft. would be hit by an attack, you can:
+- Move into their space, push them into an adjacent space of your choice, and become the new target of the attack.
+
+You may combine **Interpose** and **Defend** on the same triggering attack if you have enough Actions to spend, but each remains limited to once per round.
+
+##### Opportunity Attack
+
+When an adjacent enemy willingly moves away from you:
+- You may make a melee attack against them with disadvantage.  
+
+Only heroes can make Opportunity Attacks; monsters do not.
+
+##### Help
+
+When an ally makes a roll, you can:
+- Grant them advantage on that roll by describing a plausible way you assist.
+
+The GM may:
+- Call for a skill check to see if the Help is effective, or  
+- Grant advantage automatically if the assist is clearly beneficial.  
+
+Only one Help reaction can apply to any given roll.
+
+---
+
+### 2.5 Culture
+
+A character’s **culture** shapes language, skills, and how they relate to the world. Culture is defined by three aspects: **Environment, Organization,** and **Upbringing**.
+
+#### 2.5.1 Culture Benefits
+
+Choosing or creating a culture grants:
+
+- Knowledge of your culture’s language, in addition to Common Tongue.  
+- Access to skills from each aspect (Environment, Organization, Upbringing); you choose one skill from each relevant list.  
+- Advantage on tests to recall lore about your culture.  
+- Advantage on tests to influence or interact with members of your culture.
+
+#### 2.5.2 Environment
+
+Environment describes where your culture lives.
+
+Choose one of: **Nomadic, Rural, Secluded, Urban, Wilderness.**
+
+##### Nomadic
+
+Nomadic cultures travel frequently, following migrations, trade, or simple wanderlust. Their members are adept at navigation and cooperation in harsh conditions.
+
+**Skill Options:** One skill from the exploration or interpersonal groups.
+
+##### Rural
+
+Rural cultures center on small settlements like towns and villages, focused on farming, trade, fishing, or mining. Most people learn a trade vital to the community’s survival.
+
+**Skill Options:** One skill from the crafting or lore groups.
+
+##### Secluded
+
+Secluded cultures occupy a single close–quarters site, such as a monastery, castle, or prison, and rarely interact with outsiders. Their members often develop strong social bonds and introspective habits.
+
+**Skill Options:** One skill from the interpersonal or lore groups.
+
+##### Urban
+
+Urban cultures are based in cities or dense settlements. Their people learn to navigate crowds, politics, and misdirection.
+
+**Skill Options:** One skill from the interpersonal or intrigue groups.
+
+##### Wilderness
+
+Wilderness cultures live within untamed lands and take what they need directly from nature. They often craft their own tools and clothing.
+
+**Skill Options:** One skill from the crafting or exploration groups.
+
+#### 2.5.3 Organization
+
+Organization describes how your culture governs itself.
+
+Choose one of: **Bureaucratic** or **Communal.**
+
+##### Bureaucratic
+
+Bureaucratic cultures rely on formal leadership, written laws, and defined offices. Successful members learn to use rules and relationships to their advantage or work at the edges of the system without being caught.
+
+**Skill Options:** One skill from the interpersonal or intrigue groups.
+
+##### Communal
+
+Communal cultures treat members as broadly equal, sharing decision–making, labor, and responsibilities. Many exist on the fringes of larger societies to avoid outside control.
+
+**Skill Options:** One skill from the crafting or exploration groups.
+
+#### 2.5.4 Upbringing
+
+Upbringing describes how you personally were raised within your culture.
+
+Choose one of: **Academic, Creative, Labor, Lawless, Martial, Noble.**
+
+##### Academic
+
+You grew up among scholars, priests, or other keepers of knowledge and learned the power of information.
+
+**Skill Options:** One skill from the lore group.
+
+##### Creative
+
+You were raised among artisans or performers who produce valuable works, from art to practical goods.
+
+**Skill Options:** Music or Perform (interpersonal), or one skill from the crafting group.
+
+##### Labor
+
+You come from a background of physical work—farming, harvesting, construction, or similar trades.
+
+**Skill Options:** Blacksmithing (crafting), Handle Animals (interpersonal), or one exploration skill.
+
+##### Lawless
+
+You were raised among pirates, assassins, spies, or rebels. You are comfortable breaking rules and avoiding detection.
+
+**Skill Options:** One skill from the intrigue group.
+
+##### Martial
+
+You grew up among warriors—soldiers, mercenaries, or monster hunters—and are always ready for a fight.
+
+**Skill Options (choose one):**  
+- Blacksmithing or Fletching (crafting)  
+- Climb, Endurance, or Ride (exploration)  
+- Intimidate (interpersonal)  
+- Alertness or Track (intrigue)  
+- Monsters or Strategy (lore)
+
+##### Noble
+
+You were raised among leaders who rule and maneuver through politics.
+
+**Skill Options:** One skill from the interpersonal group.
+
+> **Custom Skill Choices**  
+> If a culture you design does not grant a skill you want, work with your Director to adjust its aspects. For example, a noble upbringing could reasonably grant access to Alertness to represent constant political vigilance.
+
+# 8 Attributes 
+#### Physical 
+- Strength / Brawn
+- Dexterity / Coordination
+- Agility / Quickness
+- Constitution / Toughness
+
+**Stamina** = sum of Physical Attributes/4
+
+#### Mental
+- Intelligence / Wits 
+- Willpower / Command
+- Perception / Sense
+- Charisma /Fellowship
+
+**Resolve** = sum of Mental Attributes/4
+
+**Initiative** = (Agility + Intelligence)/2
+
+## Skills
+Having a relevant skill is beneficial in several ways: 
+- Grants a +1 bonus on the related Attribute check, and a skilled PC may Push if the Attribute check is failed, allowing them to try again if they wish. 
+- Some rare actions may require a specific skill or background to attempt. Note this is not the default position: PCs may attempt the vast majority of things without a skill. Having a skill simply makes it easier. 
+- At the GM’s option, being skilled might be a precondition for a Great Success, turn a Terrible Failure into an ordinary failure, or obviate the need to roll (ie automatic success). failure, or obviate the need to roll (ie automatic success).
+- each skill has a number of specialisations
+### Skill Specialties
+In addition to having proficiency in a skill, a character may be an expert at a narrow area of specialization within that skill. For instance, a character proficient in the Deception skill may be particularly adept in communicating through written code.
+A character gains two skill specialties at 1st level (plus bonus knowledge; see Ingenious Proficiency). A character may choose any specialty in a skill in which they are proficient. A character may not gain the same skill specialty twice. If your Intelligence is 12 or higher, you gain extra skill specialties (see Ingenious Proficiency). When a character makes an ability check to which their skill specialty applies, it grants an additional +1 bonus on the related Attribute check. The Narrator determines whether the skill specialty applies.
+While the list of skills below is fairly comprehensive, the Narrator may expand the list of skill specialties to meet the needs of the campaign world. Each of its cultures, historical eras, important organizations, and other unique details might furnish a specialty.
+
+
 
 
 
