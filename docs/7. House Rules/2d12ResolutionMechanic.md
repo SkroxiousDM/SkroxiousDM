@@ -91,6 +91,258 @@ Having a relevant skill is beneficial in several ways:
 In addition to having proficiency in a skill, a character may be an expert at a narrow area of specialization within that skill. For instance, a character proficient in the Deception skill may be particularly adept in communicating through written code.
 A character gains two skill specialties at 1st level (plus bonus knowledge; see Ingenious Proficiency). A character may choose any specialty in a skill in which they are proficient. A character may not gain the same skill specialty twice. If your Intelligence is 12 or higher, you gain extra skill specialties (see Ingenious Proficiency). When a character makes an ability check to which their skill specialty applies, it grants an additional +1 bonus on the related Attribute check. The Narrator determines whether the skill specialty applies.
 While the list of skills below is fairly comprehensive, the Narrator may expand the list of skill specialties to meet the needs of the campaign world. Each of its cultures, historical eras, important organizations, and other unique details might furnish a specialty.
+
+## Strength / Brawn (STR)
+
+**Athletics (STR)** – [Exploration]  
+Climbing, lifting, forcing and enduring with muscle.  
+Specialties:  
+- Climbing (sheer surfaces, free‑climbing)  
+- Lifting & Carrying (burdens, portage, dragging)  
+- Grappling & Overpowering (holds, throws, pins)  
+- Jumping & Vaulting (broad jumps, obstacles)
+
+**Melee (STR)** – [Martial, Intrigue]  
+Close combat with brute force.  
+Specialties:  
+- Brawling (unarmed, improvised blows)  
+- Heavy Weapons (two‑handers, polearms, great axes)  
+- Shield & Parry (blocks, weapon binds)  
+- Breaking Objects (doors, bars, restraints)
+
+**Fortitude (STR/CON)** – [Exploration]  
+Enduring strain by sheer toughness and power.  
+Specialties:  
+- Forced Marches (long treks, overland strain)  
+- Labor & Hauling (digging, mining, siege work)  
+- Holding On (against pulls, falls, currents)  
+- Withstanding Torture (physical torment)
+
+---
+
+## Dexterity / Coordination (DEX)
+
+**Finesse / Thievery (DEX)** – [Intrigue]  
+Fine manual manipulation, delicate crime.  
+Specialties:  
+- Lockpicking (tumblers, combination locks)  
+- Pickpocketing (cut purses, lift items)  
+- Sleight of Hand (palming, quick swaps)  
+- Trap Work (arming/disarming mechanisms)
+
+**Ranged (DEX)** – [Martial, Exploration]  
+Precision with ranged weapons.  
+Specialties:  
+- Bows (hunting and war bows)  
+- Crossbows & Firearms (slow but accurate)  
+- Thrown Weapons (knives, axes, javelins)  
+- Called Shots (specific body parts, objects)
+
+**Craft (Fine) (DEX)** – [Crafting]  
+Delicate, hand‑intensive crafting.  
+Specialties:  
+- Jewelry (rings, crowns, filigree)  
+- Tailoring (fitted clothing, leatherwork)  
+- Fletching (arrows, bolts, flights)  
+- Clockworks & Miniatures (small mechanisms)
+
+**Disguise (Physical) (DEX)** – [Intrigue]  
+Physically altering or concealing looks.  
+Specialties:  
+- Makeup & Prosthetics (age, scars, features)  
+- Costuming (uniforms, outfits, props)  
+- Impersonation Looks (copying specific people visually)  
+- Concealing Marks (tattoos, branded signs)
+
+---
+
+## Agility / Quickness (AGI)
+
+**Acrobatics / Mobility (AGI)** – [Exploration]  
+Fast, precise movement of the whole body.  
+Specialties:  
+- Balancing (ropes, narrow ledges)  
+- Tumbling & Rolls (dives, recoveries, breakfalls)  
+- Parkour (urban climbing, wall‑runs)  
+- Dodging Hazards (traps, falling debris)
+
+**Stealth (Movement) (AGI)** – [Intrigue, Exploration]  
+Moving and acting without being noticed.  
+Specialties:  
+- Silent Movement (soft steps, slow approach)  
+- Shadowing (following unseen)  
+- Camouflage Positioning (terrain‑based hiding)  
+- Escape & Evasion (losing pursuit)
+
+**Driving & Riding (AGI)** – [Exploration, Crafting]  
+Controlling vehicles and mounts at speed.  
+Specialties:  
+- Riding (horses, exotic mounts)  
+- Chariot/Cart Driving (teams, wagons)  
+- Skid & Drift (tight turns, stunt driving)  
+- Rough Terrain Handling (mud, snow, rubble)
+
+---
+
+## Constitution / Toughness (CON)
+
+**Fortitude (CON)** – [Exploration]  
+Enduring physical harm, toxins, and fatigue.  
+Specialties:  
+- Poison Resistance (venoms, toxins, drugs)  
+- Disease Resistance (plagues, infections)  
+- Environmental Hardiness (cold, heat, altitude)  
+- Long‑Haul Stamina (swims, runs, watches)
+
+**Stamina (Derived)**  
+Stamina = (STR + DEX + AGI + CON) / 4
+
+---
+
+## Intelligence / Wits (INT)
+
+**Logic / Investigation (INT)** – [Intrigue, Lore]  
+Analysis, puzzles, and systematic inquiry.  
+Specialties:  
+- Puzzles & Riddles (codes, logic games)  
+- Forensics (crime scenes, causes of death)  
+- Trap Analysis (how it works, where the trigger is)  
+- Strategic Planning (battle plans, heists)
+
+**Lore (INT)** – [Lore]  
+Learned knowledge from study and records.  
+Specialties:  
+- History (empires, wars, legends)  
+- Culture & Society (customs, etiquette, noble houses)  
+- Monsters (ecology, strengths, weaknesses)  
+- Planar & Cosmology (planes, other realms)
+
+**Arcana & Psionics (INT)** – [Lore]  
+Knowledge of magic/psionics and related phenomena.  
+Specialties:  
+- Spells & Rituals (effects, components)  
+- Magical Items (identification, lore)  
+- Psionic Traditions (disciplines, powers)  
+- Magical Phenomena (curses, wild zones, leylines)
+
+**Mechanics / Engineering (INT)** – [Crafting, Exploration]  
+Design and understanding of structures and devices.  
+Specialties:  
+- Architecture & Fortifications (buildings, siege design)  
+- Machines & Engines (mills, engines, vehicles)  
+- Traps & Locks (design and bypass planning)  
+- Siege Devices (catapults, rams, towers)
+
+**Alchemy (INT)** – [Crafting, Lore]  
+Formulas and theory of alchemical work.  
+Specialties:  
+- Explosives & Bombs (brews, grenades)  
+- Potions & Elixirs (buffs, heals, poisons)  
+- Reagents & Materials (identification, refinement)  
+- Transmutations (metals, states of matter)
+
+**Medicae / Medicine (INT)** – [Lore, Exploration]  
+Medical knowledge and treatment.  
+Specialties:  
+- First Aid & Stabilization (battlefield care)  
+- Surgery (operations, major repairs)  
+- Diseases & Epidemics (diagnosis, treatment plans)  
+- Poisons & Antidotes (identifying and countering)
+
+---
+
+## Willpower / Command (WIL)
+
+**Discipline (WIL)** – [Intrigue]  
+Inner resolve and mental resilience.  
+Specialties:  
+- Fearlessness (horror, intimidation)  
+- Concentration (rituals, long tasks under stress)  
+- Psychic Resistance (mind attacks, domination)  
+- Stoicism (pain, humiliation, social pressure)
+
+**Presence / Command (WIL)** – [Interpersonal]  
+Authoritative impact and leadership.  
+Specialties:  
+- Battlefield Orders (tactics under fire)  
+- Interrogation (breaking resistance)  
+- Intimidation (commanding fear or respect)  
+- Rallying Morale (rallies, speeches, vows)
+
+**Sorcery / Psionic Control (WIL)** – [Lore, Intrigue]  
+Actively channeling and shaping power.  
+Specialties:  
+- Ritual Casting (long, complex workings)  
+- Combat Casting (spells under fire)  
+- Overchanneling (pushing power past safe limits)  
+- Warding & Countering (dispels, shields)
+
+---
+
+## Perception / Sense (PER)
+
+**Awareness (PER)** – [Exploration, Intrigue]  
+Passive and active noticing of the environment.  
+Specialties:  
+- Spotting (visual details, movement)  
+- Listening (murmurs, distant sounds)  
+- Scent & Taste (odors, tainted food/drink)  
+- Eerie Sense (unnatural presences, odd vibes)
+
+**Search (PER)** – [Intrigue, Exploration]  
+Deliberate, methodical searching.  
+Specialties:  
+- Room Sweeps (secret doors, caches)  
+- Person & Pack Searches (hidden gear, contraband)  
+- Evidence Collection (prints, fibers, traces)  
+- Trap & Hazard Scans (tripwires, weak floors)
+
+**Intuition (PER)** – [Interpersonal, Intrigue]  
+Reading people and situations at a glance.  
+Specialties:  
+- Detecting Lies (verbal and nonverbal tells)  
+- Reading Emotions (fear, interest, boredom)  
+- Streetwise (spotting cons, reading crowds)  
+- Sense Motive (hidden goals, unspoken stakes)
+
+---
+
+## Charisma / Fellowship (CHA)
+
+**Rapport / Persuasion (CHA)** – [Interpersonal]  
+Influence in good faith or mixed motives.  
+Specialties:  
+- Negotiation & Bargaining (deals, compromises)  
+- Peacemaking (mediating conflicts)  
+- Flattery & Charm (winning favor, seduction)  
+- Bribery & Incentives (sweetening the offer)
+
+**Deception (CHA)** – [Intrigue, Interpersonal]  
+Misleading others, openly or subtly.  
+Specialties:  
+- Bluffing & Fast‑Talk (improvised lies)  
+- Long Cons (planned deceptions, covers)  
+- False Reassurances (calming with lies)  
+- Gambling Cheats (rigged bets, cardplay)
+
+**Performance (CHA)** – [Interpersonal, Crafting]  
+Entertaining or moving an audience.  
+Specialties:  
+- Acting & Storytelling (stage, drama, tales)  
+- Singing & Music (voice, instruments)  
+- Oratory (public speeches, sermons)  
+- Written Works (plays, poems, satire)
+
+**Animal Handling (CHA)** – [Exploration, Interpersonal]  
+Interacting socially with animals and simple creatures.  
+Specialties:  
+- Calming & Reassurance (skittish or hostile beasts)  
+- Training (tricks, war‑training, work tasks)  
+- Farming & Husbandry (herds, breeding, routine care)  
+- Battle Commands (mounts obeying under fire)
+
+
+
 #### Acrobatics
 An Acrobatics check allows a character to perform gymnastic feats such as rolling under a closing gate, swinging across a chasm on a rope, or keeping their balance on a narrow ledge. it also covers your attempt to stay on your feet in a tricky situation, such as when you’re trying to run across a sheet of ice, balance on a tightrope, or stay upright on a rocking ship’s deck. You might also call for an acrobatics check to see if you can perform acrobatic stunts, including dives, rolls, somersaults, and flips. The most commonly used ability score is Dexterity. A character might use Strength to perform acrobatics while carrying a heavy burden, Constitution to do so against a heavy wind, or any other ability score as circumstances warrant.
 ##### Specialties: balancing, escape artistry, swinging, tumbling.
@@ -331,34 +583,13 @@ Grant an ally advantage on a roll if you can reasonably explain to the GM how yo
 >**Teamwork!** Help as a Heroic Reaction is a fantastic way to bring teamwork, role-playing, and creativity into a combat encounter. Did your buddy fail? Maybe not, think quickly and see if you can somehow help them succeed!
 
 
-# Running Monsters
 
-The GM controls the monsters during combat. Monsters do not use Heroic Actions/Reactions. They can move, use the actions listed on their stat block, and their turn ends when they reach 0 HP.
 
-## Monster Armor
-
-While most monsters are unarmored, some creatures are tougher to take down:
-
-- **Medium Armor: Just the Dice.** Monsters with Medium Armor (M) ignore all damage modifiers from stats and other effects, taking damage from the sum of the dice only.
-- **Heavy Armor: Half the Dice.** Monsters with Heavy Armor (H) ignore damage modifiers and take half the sum of the dice (rounding up).
-
->**Tell Your Players!** When a monster has armor, it shouldn't be a secret. Regular goblins are unarmored, but a goblin with a shield has Medium Armor. A goblin that's completely made out of metal? Heavy Armor.
-
-**Dealing With Armor?** Heroes' critical hits, save spells, and damage type vulnerabilities ignore monster armor altogether. This means certain weapons and spells are better or worse against armored foes! This is also a great opportunity to remind players about the Assess action.
-
->**Monster armor VS hero armor.** Why does it work differently? GMs have enough to juggle without the added complexity of having to decide when to Defend against a dozen attacks each round. Heroes, on the other hand, have only one character to focus on, so the added handicap of this is a burden but an enjoyable detail.
-
-## Why Build a Culture?
-Building a character is about more than adding up your stats, picking skills and abilities, and recording that information on a character sheet. You're building a hero—a main character in a story, be it a one-shot or a heroic campaign. Think about the personality and the past of who you are creating. That's why the game lets you build a culture rather than simply saying, "Pick three skills and a bonus language." We want players to imagine their heroes as complex and intricate characters.
-
-###Culture Benefits
+##Culture Benefits
 The culture you choose or create grants you the following benefits:
-
-- You know the language of your culture, in addition to knowing Caelian.
-- From the environment, organization, and upbringing aspects of your culture, you gain access to skills. You can select one skill from each aspect's list of options. (Skills in Chapter 9: Tests has information on the part skills play in the game.)
-- You gain an edge on tests made to recall lore about your culture, and on tests made to influence and interact with people of your culture. (See Edges and Banes in Chapter 1: The Basics.)
-- Language
-Your culture's language aspect determines how the people of your culture communicate. Languages in Orden below discusses the many languages of the world of Orden, including Caelian—the language of the fallen empire that once dominated that world.
+- You know the language of your culture, in addition to knowing Common Tongue.
+- From the environment, organization, and upbringing aspects of your culture, you gain access to skills. You can select one skill from each aspect's list of options.
+- You gain advantage on tests made to recall lore about your culture, and on tests made to influence and interact with people of your culture. 
 
 ## Environment
 Your culture's environment aspect describes where the people of that culture spend most of their time. Is your culture centered in a bustling city or a small village? Did you spend your early life in an isolated monastery? Or did you wander the wilderness, never staying in one place for long?
@@ -368,33 +599,31 @@ When you build a culture, select its environment aspect from the following optio
 ### Nomadic
 A nomadic culture travels from place to place to survive. Members of a nomadic culture might follow animal migrations or the weather, travel to sell their wares or services, or simply enjoy a restless lifestyle full of new experiences and peoples. Those who grow up in nomadic cultures learn to navigate the wilderness and work closely with others to survive.
 
-Skill Options: One skill from the exploration or interpersonal skill groups. (Quick Build: Navigate.)
+Skill Options: One skill from the exploration or interpersonal skill groups.
 
 ### Rural
 A rural culture is one located in a town, village, or smaller settled enclave. People dwelling in such places often cultivate the land, trade goods or services with travelers passing through, harvest fish from the sea, or mine metals and gems from the earth.
 
-Living among a small population, most folks in a rural community learn a trade and are handed down bits of essential knowledge to help their community survive. For example, when a rural culture has only one blacksmith, it's important to have an apprentice already learning at the anvil well before that smith starts to get old. If the only priest in town
+Living among a small population, most folks in a rural community learn a trade and are handed down bits of essential knowledge to help their community survive. For example, when a rural culture has only one blacksmith, it's important to have an apprentice already learning at the anvil well before that smith starts to get old. If the only priest in town gets the sniffles, folks want an acolyte ready to wear the fancy robes should the worst occur.
 
-gets the sniffles, folks want an acolyte ready to wear the fancy robes should the worst occur.
-
-Skill Options: One skill from the crafting or lore skill groups. (Quick Build: Nature.)
+Skill Options: One skill from the crafting or lore skill groups.
 
 ### Secluded
 A secluded culture is based in one relatively close-quarters structure—a building, a cavern, and so forth—and interacts with other cultures only rarely. Such places are often buildings or complexes such as monasteries, castles, or prisons. Folk in a secluded culture have little or no reason to leave their home or interact with other cultures on the outside, but might have an awareness of those cultures and of events happening beyond their enclave.
 
 When people live together in close quarters, they typically learn to get along. They often spend much time in study or introspection, as there is not much else to do in seclusion.
 
-Skill Options: One skill from the interpersonal or lore skill groups. (Quick Build: Read Person.)
+Skill Options: One skill from the interpersonal or lore skill groups.
 
 ### Urban
 An urban culture is always centered in a city. Such a culture might arise within the walls of Capital, a massive metropolis with a cosmopolitan population; within a network of caverns that hold an underground city; or in any other place where a large population lives relatively close together. The people of urban cultures often learn to effectively misdirect others in order to navigate the crowds and the political machinations that can come with city life.
 
-Skill Options: One skill from the interpersonal or intrigue skill groups. (Quick Build: Alertness.)
+Skill Options: One skill from the interpersonal or intrigue skill groups.
 
 ### Wilderness
 A wilderness culture doesn't try to tame the terrain in which its people live, whether desert, forest, swamp, tundra, ocean, or more exotic climes. Instead, the folk of such a culture thrive amid nature, taking their sustenance and shelter from the land. A wilderness culture might be a circle of druids protecting a remote wode, a band of brigands hiding out in desert caves, or a camp of orc mercenaries who call the trackless mountains home. People in a wilderness culture learn how to use the land for all they need to live, typically crafting their own tools, clothing, and more.
 
-Skill Options: One skill from the crafting or exploration skill groups. (Quick Build: Endurance.)
+Skill Options: One skill from the crafting or exploration skill groups. 
 
 ## Organization
 Your culture's organization aspect determines the functioning and leadership of your community. You might come from a place with an officially recognized government and a system of laws. Or your culture might have enjoyed a less-formal organization, with the people in charge having naturally gravitated toward their positions without any official offices or oaths.
@@ -408,14 +637,14 @@ have one person at the top, though others might be ruled by a council. A trade g
 
 Those who thrive in bureaucratic cultures don't simply follow the rules. They know how to use those rules to their advantage, either bending, changing, or reinterpreting policy to advance their own interests. Schmoozing with those who make the laws is often key to this approach. Others in a bureaucratic culture might specialize in operating outside the strict regulations that govern the culture without getting caught.
 
-Skill Options: One skill from the interpersonal or intrigue skill groups. (Quick Build: Persuade.)
+Skill Options: One skill from the interpersonal or intrigue skill groups.
 
 ### Communal
 A communal culture is a place where all members of the culture are considered equal. The community works together to make important decisions that affect the majority of the culture. While they elect leaders to carry out these decisions and organize their efforts, each person has a relatively equal say in how the culture operates, and everyone contributes to help their people survive and thrive. Individuals often share the burdens of governing, physical labor, childcare, and other duties. A collective of farmers who work together to cultivate and protect their land without a noble, a city of pirates where each person can do as they wish, and a traveling theatrical troupe whose members vote on every artistic and administrative decision are all communal cultures.
 
 Many communal cultures operate outside settled lands, sticking to the wilds, a specific district in a larger settlement, city sewers, forgotten ruins, or other isolated places. For even when such cultures are harmless, their members know that outsiders might try to impose rules upon them if they live in the same place. As such, many folks in communal cultures focus on fending for themselves while avoiding the danger that other groups can represent.
 
-Skill Options: One skill from the crafting or exploration skill groups. (Quick Build: Jump.)
+Skill Options: One skill from the crafting or exploration skill groups. 
 
 ## Upbringing
 Your culture's upbringing aspect is a more specific and personal part of your hero's story, describing how you were raised within your culture. Were you trained to become the newest archmage in a secret order of wizards, or to be a sword-wielding bodyguard who protected that arcane organization? Did you learn to delve deep into mines looking for ore in a mountain kingdom, or did you build machines meant to dig faster and deeper than any person could alone? Whatever your culture, your upbringing makes you special within that culture.
@@ -425,97 +654,97 @@ Pick your upbringing aspect from the following list: academic, creative, labor, 
 ### Academic
 Your hero was raised by people who collect, study, and share books and other records. Some academics focus on one area of study, such as a college for wizards dedicated to the study of magic, or a church that teaches the word of one deity. People in an academic culture learn how to wield the power that is knowledge.
 
-Skill Options: One skill from the lore skill group. (Quick Build: History.)
+Skill Options: One skill from the lore skill group. 
 
 ### Creative
 A hero with a creative upbringing was raised among folk who create art or other works valuable enough to trade. A creative culture might produce fine art such as dance, music, or sculpture, or more practical wares such as wagons, weapons, tools, or buildings. People in such cultures learn the value of quality crafting and attention to detail.
 
-Skill Options: The Music or Perform skill (from the interpersonal skill group), or one skill from the crafting group. (Quick Build: Perform.)
+Skill Options: The Music or Perform skill (from the interpersonal skill group), or one skill from the crafting group. 
 
 ### Labor
 Your hero came of age in a culture where people labored for a living. They might have been cultivators, typically raising crops or livestock on a farm. They might have harvested natural resources, whether by hunting, trapping, logging, or mining. Or they might have excelled at manual labor tied to settlement and trade, such as construction, carting, loading cargo, and so forth. People with a labor upbringing know the value of hard work.
 
-Skill Options: The Blacksmithing skill (from the crafting skill group), the Handle Animals skill (from the interpersonal group), or a skill from the exploration group. (Quick Build: Lift.)
+Skill Options: The Blacksmithing skill (from the crafting skill group), the Handle Animals skill (from the interpersonal group), or a skill from the exploration group. 
 
 ### Lawless
 Your hero grew up among folk who performed activities that other people—whether within or outside their culture—considered unlawful. A band of pirates, a guild of assassins, or an organization of spies all commit unlawful acts for money. And under tyranny, people engaged in rebellion are often considered lawless in their actions and activities. People brought up in a lawless culture typically don't mind breaking the rules when it suits them—and are good at making sure no one finds out they did.
 
-Skill Options: One skill from the intrigue skill group. (Quick Build: Sneak.)
+Skill Options: One skill from the intrigue skill group. 
 
 ### Martial
 A hero with a martial upbringing was raised by warriors. These might have been the soldiers of an established army, a band of mercenaries, a guild of monster-slaying adventurers, or any other folk whose lives revolve around combat. Heroes with a martial upbringing are always ready for a fight—and they know how to finish that fight.
 
-Skill Options: One of the following: Blacksmithing or Fletching from the crafting skill group; Climb, Endurance, or Ride from the exploration group; Intimidate from the interpersonal group; Alertness or Track from the intrigue group; or Monsters or Strategy from the lore skill group (Quick Build: Intimidate.)
+Skill Options: One of the following: Blacksmithing or Fletching from the crafting skill group; Climb, Endurance, or Ride from the exploration group; Intimidate from the interpersonal group; Alertness or Track from the intrigue group; or Monsters or Strategy from the lore skill group
 
 ### Noble
 Your hero grew up among leaders who rule over others and play the games of politics to maintain power. Many families are nobles by birthright, but some cultures have noble titles earned through deeds or popularity. Whatever the case, heroes with this background understand why the whispered words in the right ear can sometimes be more powerful than any army.
 
-Skill Options: One skill from the interpersonal skill group. (Quick Build: Lead.)
+Skill Options: One skill from the interpersonal skill group. 
 
 >But I Really Want Alertness
 >
 >If the culture you create doesn't grant a skill that you want, check with your Director about modifying what the culture's aspects offer. For instance, you can easily make the case that a culture with the noble upbringing aspect should give a character access to the Alertness skill, given that living among those who covet your power means always being aware of your surroundings.
 
 ## Interpersonal skills 
-Brag	Impress others with stories of your deeds
-Empathize	Relate to someone on a personal level
-Flirt	Attract romantic attention from someone
-Gamble	Make bets with others
-Handle Animals	Interact with nonsapient animal wildlife
-Interrogate	Obtain information from a creature withholding it
-Intimidate	Awe or scare a creature
-Lead	Inspire people to action
-Lie	Convince someone that a falsehood is true
-Music	Perform music vocally or with an instrument
-Perform	Engage in dance, oratory, acting, or some other physical performance
-Persuade	Convince someone to agree with you through use of your charms and grace
-Read Person	Read the emotions and body language of other creatures
+- **Brag:**	Impress others with stories of your deeds
+- **Empathize:**	Relate to someone on a personal level
+- **Flirt:**	Attract romantic attention from someone
+- **Gamble:**	Make bets with others
+- **Handle Animals:**	Interact with nonsapient animal wildlife
+- **Interrogate:**	Obtain information from a creature withholding it
+- **Intimidate:**	Awe or scare a creature
+- **Lead:** Inspire people to action
+- **Lie:**	Convince someone that a falsehood is true
+- **Music:**	Perform music vocally or with an instrument
+- **Perform:**	Engage in dance, oratory, acting, or some other physical performance
+- **Persuade:**	Convince someone to agree with you through use of your charms and grace
+- **Read Person:**	Read the emotions and body language of other creatures
 ## Crafting Skills
-Alchemy	Make bombs and potions
-Architecture	Create buildings and vehicles
-Blacksmithing	Forge metal armor and weapons
-Carpentry	Create items out of wood
-Cooking	Create delicious dishes
-Fletching	Make ranged weapons and ammunition
-Forgery	Create false badges, documents, and other items
-Jewelry	Create bracelets, crowns, rings, and other jewelry
-Mechanics	Build machines and clockwork items
-Tailoring	Craft clothing of cloth or leather
+- **Alchemy:**	Make bombs and potions
+- **Architecture:**	Create buildings and vehicles
+- **Blacksmithing:**	Forge metal armor and weapons
+- **Carpentry:**	Create items out of wood
+- **Cooking:**	Create delicious dishes
+- **Fletching:**	Make ranged weapons and ammunition
+- **Forgery:**	Create false badges, documents, and other items
+- **Jewelry:**	Create bracelets, crowns, rings, and other jewelry
+- **Mechanics:**	Build machines and clockwork items
+- **Tailoring:**	Craft clothing of cloth or leather
 ##Exploration Skills 
-Climb	Move up vertical surfaces
-Drive	Control vehicles
-Endurance	Remain engaged in strenuous activity over a long period of time
-Gymnastics	Move across unsteady or narrow surfaces; tumble
-Heal	Use mundane first aid
-Jump	Leap vertical and horizontal distances
-Lift	Pick up, carry, and throw heavy objects
-Navigate	Read a map and travel without becoming lost
-Ride	Ride and control a nonsapient mount, such as a horse
-Swim	Move through deep liquid
+- **Climb:**	Move up vertical surfaces
+- **Drive:**	Control vehicles
+- **Endurance:**	Remain engaged in strenuous activity over a long period of time
+- **Gymnastics:**	Move across unsteady or narrow surfaces; tumble
+- **Heal:**	Use mundane first aid
+- **Jump:**	Leap vertical and horizontal distances
+- **Lift:**	Pick up, carry, and throw heavy objects
+- **Navigate:**	Read a map and travel without becoming lost
+- **Ride:**	Ride and control a nonsapient mount, such as a horse
+- **Swim:**	Move through deep liquid
 ## Lore Skills
-- Criminal Underworld	Knowing about criminal organizations, their crimes, their relationships, and their leaders
-- Culture	Knowing about a culture's customs, folktales, and taboos
-- History	Knowing about significant past events
-- Magic	Knowing about magical places, spells, rituals, items, and phenomena
-- Monsters	Knowing monster ecology, strengths, and weaknesses
-- Nature	Knowing about natural flora, fauna, and weather
-- Psionics	Knowing about psionic places, spells, rituals, items, and phenomena
-- Religion	Knowing about religious mythology, practices, and rituals
-- Rumors	Knowing gossip, legends, and uncertain truths
-- Society	Knowing noble etiquette and the leadership and power dynamics of noble families
-- Strategy	Knowing about battle tactics and logistics
-- Planar Knowledge	Knowing about the many worlds of the timescape
+- **Criminal Underworld:** 	Knowing about criminal organizations, their crimes, their relationships, and their leaders
+- **Culture:** 	Knowing about a culture's customs, folktales, and taboos
+- **History:** 	Knowing about significant past events
+- **Magic:** 	Knowing about magical places, spells, rituals, items, and phenomena
+- **Monsters:** 	Knowing monster ecology, strengths, and weaknesses
+- **Nature:** 	Knowing about natural flora, fauna, and weather
+- **Psionics:** 	Knowing about psionic places, spells, rituals, items, and phenomena
+- **Religion:** 	Knowing about religious mythology, practices, and rituals
+- **Rumors:** 	Knowing gossip, legends, and uncertain truths
+- **Society:** 	Knowing noble etiquette and the leadership and power dynamics of noble families
+- **Strategy:** 	Knowing about battle tactics and logistics
+- **Planar:**  Knowing about the many planes of the cosmos
 ## Intrigue Skills
-- Alertness	Intuitively sense the details of your surroundings
-- Conceal Object	Hide an object on your person or in your environment
-- Disguise	Change your appearance to look like a different person
-- Eavesdrop	Actively listen to something that is hard to hear, such as a whispered conversation through a door
-- Escape Artist	Escape from bonds such as rope or manacles
-- Hide	Conceal yourself from others' observation
-- Pick Lock	Open a lock without using the key
-- Pick Pocket	Steal an item that another person wears or carries without them noticing
-- Sabotage	Disable a mechanical device such as a trap
-- Search	Actively search an environment for important details and items
-- Sneak	Move silently
-- Track	Follow a trail that another creature has left behind
+- **Alertness:** 	Intuitively sense the details of your surroundings
+- **Conceal Object:** 	Hide an object on your person or in your environment
+- **Disguise:** 	Change your appearance to look like a different person
+- **Eavesdrop:** 	Actively listen to something that is hard to hear, such as a whispered conversation through a door
+- **Escape Artist:** 	Escape from bonds such as rope or manacles
+- **Hide:** 	Conceal yourself from others' observation
+- **Pick Lock:** 	Open a lock without using the key
+- **Pick Pocket:** 	Steal an item that another person wears or carries without them noticing
+- **Sabotage:** 	Disable a mechanical device such as a trap
+- **Search:** 	Actively search an environment for important details and items
+- **Sneak:** 	Move silently
+- **Track:** 	Follow a trail that another creature has left behind
 
