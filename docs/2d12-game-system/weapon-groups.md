@@ -20,6 +20,6 @@ Staves Group: Sturdy, easy to find, and cheap to produce, Staves include any len
 Ranged Weapons: Weapons listed as Ranged can be used to make attacks at a distance. If a target is within the weapon’s listed Short Range, the attack test is made with no modifier. If the target is beyond Short Range, but within the weapon’s listed Long Range, the attack test is made with a –2 penalty. Ranged weapons cannot attack a target beyond their listed Long Range.
 
 ### Reloading
-After you use a ranged weapon, if it lists a reload time, you must expend that action in order to reload the weapon and use it again. For example, a crossbow has a Reload of a major action, so it requires the expenditure of a major action to reload a crossbow for firing again (and another major action to make a new ranged attack with it, once reloaded). Some class powers and talents affect weapons’ reload times; these are given in their individual descriptions.
+After you use a ranged weapon, if it lists a reload time, you must expend that action in order to reload the weapon and use it again. For example, a crossbow has a Reload of a 2 actions, so it requires the expenditure of 2 actions to reload a crossbow for firing again (and another action to make a new ranged attack with it, once reloaded). Some talents affect weapons’ reload times; these are given in their individual descriptions.
 ### Untrained Use
 Using a weapon without being trained in its associated weapons group imposes a –2 penalty on the action roll, and it only does half damage (after adding any bonuses).
