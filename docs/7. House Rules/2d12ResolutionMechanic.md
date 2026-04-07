@@ -2,7 +2,7 @@
 
 ### 2.1 Attributes
 
-Characters are defined by eight core attributes, divided into Physical and Mental categories. Each attribute is rated on a scale set by the campaign.  The Challenge Threshold is based upon your Attribute plus any modifiers before comparing to your action roll.
+Characters are defined by eight core attributes, divided into Physical and Mental categories. Each attribute is rated on a scale [set by the campaign].  The Challenge Threshold is based upon your Attribute plus any modifiers before comparing to your action roll.
 
 #### 2.1.1 Physical Attributes
 
