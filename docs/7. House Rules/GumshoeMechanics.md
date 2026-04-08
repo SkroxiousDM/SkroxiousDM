@@ -1,58 +1,92 @@
 # Drives
  All GUMSHOE characters have a Drive, an overriding goal or personality trait that propels him into adventures and mysteries. Choose one of the Drives listed below for your character. Drives do not make characters suicidally reckless, and do not wholly define the character’s personality, but they ensure that characters enthusiastically pursue investigations and are spurred to action instead of being overly cautious. Drives can also serve as plot hooks for the GM to tailor adventures to the characters.
-## aDventure 
+## Adventure 
 You bore easily. You only feel alive when you’re pushing open a secret door in a cursed tomb with one hand while fending off a dozen orcs with the other, while on fire. You’re the sort who taunts  dragons and leaps into mysterious swirling portals of potential doom. Adventure is in your blood, and you’ll seek it out wherever your wandering feet take you. ambition You have designs on high office; you want to be a noble, an important official, or a power behind some throne. To bring these plans to fruition, you need allies, influence, and power. Every case closed is a favour owed to you; you see adventures as stepping stones to your ultimate goal.  
-## aLtruism 
+## Altruism 
 You are a defender of the common people, of the little folk. In a world of grave dangers and deadly monsters, you are the shield that protects and the light that drives back the darkness. You seek to bring peace and justice to all good folk, and ask little in return. atonement Your past is a litany of shameful or even horrific deeds. Perhaps you were a thief, a brigand, or something worse, like a diabolist or blackguard. You walked a very dark road, but now you seek atonement and redemption. You want to erase the sins of your past and clear your name. 
-## arCana 
+## Arcana 
 Magic burns in your blood. You hunger for more arcane power – spells, magical items, or occult secrets lost for aeons. The whiff of brimstone or the rumour of sorcery is enough to pique your curiosity. You might be a trained wizard or a sorcerer, or just have an obsession with all things arcane and magical. Any mystery involving magic is irresistable to you. 
-## ChroniCLer 
+## Chronicler 
 The ages of the world turn like spokes on some great wheel, and who will remember the events of the past if they are not recorded? You are driven by a desire to chronicle events great and small, to record the truth of such matters for the illumination of future generations. You might follow a specific band of heroes, recording their great deeds in saga or song, or seek to write the comprehensive history of your times. If you are to write the true account of this troubled world, you must learn all its secrets... 
-## CompuLsion 
+## Compulsion 
 You are compelled by some external force to seek adventure and mysteries. This could be an oath, a magical geas or curse, or maybe even you were made for this purpose by some god or mad alchemist. In any event, you cannot resist this drive; it is engraved on your very soul. 
 ## Curiosity 
 You have a condition that’s often fatal to adventurers. In a dungeon, curiosity can get you killed, but you can’t resist the urge to pull mysterious levers, open sealed caskets, and drink unlabelled potions. The idea of leaving a puzzle unfinished is anathema to you – better to risk your life finding the truth than to endure the niggling feeling that comes when you leave an interesting mystery unsolved. 
 ## Duty 
 You are honour-bound to bring justice to the world. This could be your actual profession, so you could be a wandering magistrate, a bounty hunter, a champion for hire or a private detective. Alternatively, you may have sworn an oath or feel an overriding sense of duty to the cause of justice. You will not shirk your task, no matter what obstacles you encounter. 
-## faith 
+## Faith 
 You are an adherent of a deity of law, justice, guardians or some other ethos that demands you protect the weak and punish the guilty. The gods have set you on your path of righteousness, and you shall not waver! You may be an ordained cleric or paladin, or simply a lay follower who possesses an abiding belief in their holy purpose. 
-## GLory 
+## Glory 
 You adventure not for wealth or power, but for fame. You hunger to hear your name being chanted by adoring crowds, to be deluged in honours and titles, to have your path strewn with roses. You want to be loved and respected. Bards will sing of your greatness and your deeds will become legends. 
-## GreeD 
+## Greed
 You’re in this for the money. There’s gold in those dungeons and treasure in those vaults. You’ll solve any crime if the reward money is right. As long as the cash keeps flowing, you’ll keep on questing. You’re not necessarily amoral or obsessed with gold, but you are definitely focussed on base monetary rewards instead of some higher purpose. 
-## GruDGe (Dwarves onLy) 
-The fathers of your father’s father’s passed down these ancient grudges to you, and you will pass them onto your children. You hate as only a dwarf can hate, with the patience and weight of a mountain. Your grudge may be against a particular race, like orcs or dragons, or against anyone who trespasses in your territory or insults your honour. If you encounter a situation that reminds you of your grudge, then nothing will stop you extracting vengeance upon the object of your hatred. 
 intervention (eLves onLy) 
 You have lived many, many centuries and will live for many more. You can see the shape of history. You have watched kingdoms rise and fall, you have seen tyrants and monsters felled by heroes, and you have learned to identify fulcrum points and crises. The right intervention at the right time can push events one way or another. Bring down a vile sorcerer before he becomes too powerful, and you spare the world a century of suffering. You intervene to build a shape future for the world. 
-## JustiCe 
+## Justice 
 The world is cruel and unjust. The weak are trampled by the strong. The virtuous are brought down; liars and cheats are exalted and praised. Villainy triumphs, evil-doers prosper and the law is mocked and ignored – but no more! You are determined to be a force for justice and righteousness, to punish the guilty and protect the innocent. Perhaps you are devoted to the abstract principle of justice, or maybe some dark incident in your past drives you to uphold the law.
-## respeCt (haLf-orCs onLy) 
-Your kind are feared and mistrusted across the world. Your orcish blood taints you in the eyes of others. Half-orcs are seen as thugs, brutes, criminals, thieves and murderers. You adventure to win respect for your race. Every time you are seen as a hero, every time you demonstrate your erudition, every time you solve the mystery, your reward is the look of surprise and grudging respect on the faces of those around you. Every victory is one you share with all your kin. 
-## stranGe LuCk (haLfLinG onLy) 
-You never mean to get into trouble. You’d be happy with a quiet life, but events conspire to drag you into the weirdest adventures. Messengers bearing mysterious letters drop dead in front of you, you put your hand on magic rings in the dark, and you can’t go to the tavern without running into half-a-dozen grey-bearded prophets or hooded strangers. Adventure finds you, no matter how hard you try to avoid it. 
-## wanDerLust 
+## Wanderlust 
 You can’t stand to stay in the same place for long. You need to see new vistas and new faces. Adventuring gives you a reason to travel and a never-ending cavalcade of excitement and danger. You work hard to solve mysteries so you can move on to the next novelty. Home is the open road and the unmapped horizon. 
 
 # Investigative Skills 
-investiGative skiLLs are the Core of Gumshoe. These are the tools and techniques your characters use to uncover the clues you need to complete the adventure. Investigative Skills are broken into three categories – Cunning, Interpersonal and Lore. The chief purpose of these categories is to help the GM find appropriate skills quickly when creating an adventure or when improvising a scene. Some Investigative skills, like Search, will be used in almost every adventure. Others are called upon less frequently. When creating your character, strike a balance between the skills you rely on regularly and those that are only used occasionally, but are vitally needed when they are called on. Where a skill from the Pathfinder Roleplaying Game (like Bluff) has become an Investigative Skill, notes are given on how to use the skill in its new form outside of investigation. appraise (CunninG) You can determine the monetary value of an object, as well as the prospects of a business, the relative prosperity of two merchants or nobles, and other such assessments of wealth. You can: • Tell the value of a common object • Guess at the worth and provenance of a magic item • Spot forgeries • Notice suspect displays of ostentatious wealth or poverty 
-• Interpret financial records such as ledgers or cargo manifests, and notice unusual transactions
-#### I n v e s t i g a t i v e S k i l l s 
-##### CunninG 
+investiGative skiLLs are the Core of Gumshoe. These are the tools and techniques your characters use to uncover the clues you need to complete the adventure. Investigative Skills are broken into three categories – Cunning, Interpersonal and Lore. The chief purpose of these categories is to help the GM find appropriate skills quickly when creating an adventure or when improvising a scene. Some Investigative skills, like Search, will be used in almost every adventure. Others are called upon less frequently. When creating your character, strike a balance between the skills you rely on regularly and those that are only used occasionally, but are vitally needed when they are called on. Where a skill from the Pathfinder Roleplaying Game (like Bluff) has become an Investigative Skill, notes are given on how to use the skill in its new form outside of investigation. 
+
+### Investigative Skills 
+##### Cunning 
 Appraise Battlefield Scout Disguise Local Knowledge Perform Profession Search 
-##### interpersonaL 
+##### Interpersonal
 Bluff Charm Diplomacy Intimidate Inspiration Sense Motive 
 ##### Lore
  Arcana Culture Dungeoneering Engineering Geography History Linguistics Medicine Nature Nobility Planar Lore Religion 
-#### G e n e r a l S k i l l s 
- 
+### General Skills 
+ Acrobatics Climb Craft Disable Device Escape Artist Fly Handle Animal Heal Perception Ride Sleight of Hand Spellcraft Stealth Survival Swim Use Magic Device 
 
-arCana (Lore) You have an encyclopaedic knowledge of the art of magic. Even if you do not practice it yourself, you are steeped in mystical lore and have studied the techniques and writings of famous wizards. You can: • Identify spells and supernatural creatures conjured by magic • Recite the history of magic and name various important grimoires and spellbooks • Analyse alchemical compounds and ritual paraphernalia • Translate magical runes, glyphs and other arcane scribblings • Guess what spell was cast based on the physical evidence left behind • Speculate about the possible interaction of magical effects • Identify magic items • Manipulate magical auras and perform rituals. 
-Acrobatics Climb Craft Disable Device Escape Artist Fly Handle Animal Heal Perception Ride Sleight of Hand Spellcraft Stealth Survival Swim Use Magic Device 
+#### Appraise (Cunning) 
+You can determine the monetary value of an object, as well as the prospects of a business, the relative prosperity of two merchants or nobles, and other such assessments of wealth. You can: 
+• Tell the value of a common object 
+• Guess at the worth and provenance of a magic item 
+• Spot forgeries 
+• Notice suspect displays of ostentatious wealth or poverty 
+• Interpret financial records such as ledgers or cargo manifests, and notice unusual transactions
+#### arCana (Lore) 
+You have an encyclopaedic knowledge of the art of magic. Even if you do not practice it yourself, you are steeped in mystical lore and have studied the techniques and writings of famous wizards. You can: 
+• Identify spells and supernatural creatures conjured by magic 
+• Recite the history of magic and name various important grimoires and spellbooks 
+• Analyse alchemical compounds and ritual paraphernalia 
+• Translate magical runes, glyphs and other arcane scribblings 
+• Guess what spell was cast based on the physical evidence left behind 
+• Speculate about the possible interaction of magical effects 
+• Identify magic items 
+• Manipulate magical auras and perform rituals. 
 
 Note that under the GUMSHOE rules, Arcana is used instead of Spellcraft for identifying magical phenomenon. 
-battLefieLD sCout (CunninG) You’ve studied the secrets of weapons and armour. You can identify obscure weapons from distant lands, and can describe the tactics and methods of dozens of different armies.... and you’ve seen, up close, what a weapon does to mortal flesh. You can:
+#### battLefieLD sCout (CunninG) 
+You’ve studied the secrets of weapons and armour. You can identify obscure weapons from distant lands, and can describe the tactics and methods of dozens of different armies.... and you’ve seen, up close, what a weapon does to mortal flesh. You can:
+• Identify the sort of weapon that caused a particular wound 
+• Retrace the events of a fight or brawl based on physical evidence like blood splatters and footprints 
+• Spot the tell-tale fighting techniques of a particular race, culture or school; you can, for example, distinguish between the archery techniques of different elf nations 
+• Evaluate the fighting skill and equipment of a warrior 
 
-• Identify the sort of weapon that caused a particular wound • Retrace the events of a fight or brawl based on physical evidence like blood splatters and footprints • Spot the tell-tale fighting techniques of a particular race, culture or school; you can, for example, distinguish between the archery techniques of different elf nations • Evaluate the fighting skill and equipment of a warrior evaluate oPPoNeNt: By spending a point of Battlefield Scout after observing a foe for at least one round, you may guess at the foe’s approximate level or Challenge Rating. bLuff (interpersonaL) You can lie through your teeth, spinning webs of deception. You are adept at convincing people to believe your untruths and guessing the right thing to say in fraught situations. You can: • Bluff your way into somewhere you shouldn’t be • Convince someone of your credentials • Convince someone of the truth of a moderately plausible statement • Bluster and stall to distract someone Feinting in Combat: You can feint in combat by spending a point of Bluff. Against creatures with a Challenge Rating greater than or equal to your level, and a Wisdom score of 15+, you must spend two points of Bluff to feint. Charm (interpersonaL) You are suave and honey-tongued, able to flatter and flirt your way into the confidences of others. You make people want to trust you. You can: • Get people to let their guard down and reveal information battLefieLD sCout vs searCh There are two sorts of clues. Some clues are immediately visible to everyone, but require expertise to interpret. You don’t need any skill to spot a plague-ridden corpse in the middle of the road, but it takes Medicine to tell that the corpse died of the gnome-pox. Other clues are easy to interpret, but require expertise to find. Search and Battlefield Scout are both useful in examining a battlefield or crime scene, but fulfil different roles. Battlefield Scout is used to discern the meaning behind obvious clues – what weapon was used, based on these wounds? How many attackers were there, based on their footprints and the blood splatters? What sort of enemy uses this ornate dagger? Search is used to find hidden clues, like a dropped coin or a secret door. Often, both skills will be needed to progress the plot. • Convince people to do minor favours for you • Seduce those who are receptive to your advances • Impress those around you or put them at their ease through witty repartee and grace CuLture (Lore) There are several culture skills, one for each major race such as elves, dwarves, halflings and dragons. Optionally, the GM may create extra culture skills for major cultural groups, factions or kingdoms. Culture lets you: • Be aware of beliefs, traditions, taboos and customs • Remember key facts about the culture’s history, politics, magic or leaders • Win the trust of members of that culture by honouring their traditions • Pick up clues and secret messages that can only be discerned by an expert in that culture • Speak a few words of the language of that culture DipLomaCy (interpersonaL) You are trained in negotiation and etiquette, at making deals, winning arguments, and building a consensus among all parties. Diplomacy is more suited to formal or public situations than Charm. With Diplomacy, you can: • Behave in polite society • Negotiate an exchange of favours • Haggle for goods and services • Make rhetorical arguments to convince others • Persuade others to give you access to information or restricted areas DisGuise (CunninG) You have a knack for disguise and deception, using make-up, costuming, body language and even a little magic to change your appearance. This lets you: • Disguise yourself as a member of an organisation, like a cult 
+**evaluate oPPoNeNt:** By spending a point of Battlefield Scout after observing a foe for at least one round, you may guess at the foe’s approximate level or Challenge Rating. 
+
+#### bLuff (interpersonaL) 
+You can lie through your teeth, spinning webs of deception. You are adept at convincing people to believe your untruths and guessing the right thing to say in fraught situations. You can: 
+• Bluff your way into somewhere you shouldn’t be
+• Convince someone of your credentials 
+• Convince someone of the truth of a moderately plausible statement 
+• Bluster and stall to distract someone 
+
+**Feinting in Combat:** You can feint in combat by spending a point of Bluff. Against creatures with a Challenge Rating greater than or equal to your level, and a Wisdom score of 15+, you must spend two points of Bluff to feint. 
+
+Charm (interpersonaL) 
+You are suave and honey-tongued, able to flatter and flirt your way into the confidences of others. You make people want to trust you. You can: 
+• Get people to let their guard down and reveal information 
+• Convince people to do minor favours for you 
+• Seduce those who are receptive to your advances • Impress those around you or put them at their ease through witty repartee and grace 
+>**battLefieLD sCout vs searCh**
+> There are two sorts of clues. Some clues are immediately visible to everyone, but require expertise to interpret. You don’t need any skill to spot a plague-ridden corpse in the middle of the road, but it takes Medicine to tell that the corpse died of the gnome-pox. Other clues are easy to interpret, but require expertise to find. Search and Battlefield Scout are both useful in examining a battlefield or crime scene, but fulfil different roles. Battlefield Scout is used to discern the meaning behind obvious clues – what weapon was used, based on these wounds? How many attackers were there, based on their footprints and the blood splatters? What sort of enemy uses this ornate dagger? Search is used to find hidden clues, like a dropped coin or a secret door. Often, both skills will be needed to progress the plot. 
+
+#### CuLture (Lore) 
+There are several culture skills, one for each major race such as elves, dwarves, halflings and dragons. Optionally, the GM may create extra culture skills for major cultural groups, factions or kingdoms. Culture lets you: • Be aware of beliefs, traditions, taboos and customs • Remember key facts about the culture’s history, politics, magic or leaders • Win the trust of members of that culture by honouring their traditions • Pick up clues and secret messages that can only be discerned by an expert in that culture • Speak a few words of the language of that culture DipLomaCy (interpersonaL) You are trained in negotiation and etiquette, at making deals, winning arguments, and building a consensus among all parties. Diplomacy is more suited to formal or public situations than Charm. With Diplomacy, you can: • Behave in polite society • Negotiate an exchange of favours • Haggle for goods and services • Make rhetorical arguments to convince others • Persuade others to give you access to information or restricted areas DisGuise (CunninG) You have a knack for disguise and deception, using make-up, costuming, body language and even a little magic to change your appearance. This lets you: • Disguise yourself as a member of an organisation, like a cult 
 - Blend into a crowd • Hide your identity 
 - Penetrate the disguises of others 
 #### DunGeoneerinG (Lore) You are an expert on the dangers of the underworld, on dungeons and all the things that lurk in them. This lets you: 
