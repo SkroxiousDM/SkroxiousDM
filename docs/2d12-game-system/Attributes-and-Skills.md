@@ -388,3 +388,155 @@ Specialties:
 - Battle Commands (mounts obeying under fire)
 
 ---
+Accuracy Focuses
+Arcane: Proficiency with crystons and other arcane
+ranged attacks.
+Bows: Proficiency with weapons from the Bows weapon
+group. See the Equipment section in Chapter 2 for
+further details on this and other weapons groups.
+Braw ling: Proficiency with weapons from the Brawling
+weapon group.
+Light Blades: Proficiency with weapons from the Light
+Blades weapon group.
+Staves: Proficiency with weapons from the Staves group.
+Communication Focuses
+Animal Handling: Interacting with and caring for animals.
+Animism: Knowledge and use of animism arcana. May also
+apply to Perception and/or Willpower when discerning
+information or attempting to enhance living creatures
+through some arcana.
+Bargaining: Negotiating with others and making deals.
+Deception: Lying to and tricking those less mentally adept
+than you.
+Disguise: Making yourself look like someone else or a
+different class of person.
+Etiquette: Knowing the social niceties of various cultures.
+Gambling: Playing games of chance and profiting from
+them.
+Investigation: Interviewing people for information, as
+well as finding and deciphering clues.
+Leadership: Guiding, directing, and inspiring others.
+Performance: Entertaining an audience with an artistic
+talent.
+Persuasion: Convincing others to agree with you.
+Psychic: Using psychic arcana and communication effectively.
+May also apply to Willpower when resisting
+some arcana or struggling mind-to-mind.
+Romance: Navigating and succeeding at romantic encounters.
+Includes both long-term relationships and shortterm
+seductions.
+Constitution Focuses
+Drinking: Consuming large quantities of alcohol and
+avoiding the aftereffects.
+Rowing: Propelling a vessel with oars.
+Running: Moving quickly in both short sprints and long
+distance hauls.
+Stamina: Enduring fatigue, disease, and privation.
+Swimming: Moving through the water and staying afloat.
+Dexterity Focuses
+Acrobatics: Executing gymnastic, balancing, and
+tumbling maneuvers.
+Artisan: Making handcrafted works of art such as paintings,
+sculptures, and fine clothing.
+Calligraphy: Writing with artful penmanship.
+Crafting: Making practical items with manual skills, like
+woodworking, leather working, glassblowing, etc.
+Initiative: Acting quickly in tense situations.
+Legerdemain: Using sleight of hand to trick others, hide
+things, and pick pockets.
+Lock Picking: Opening locks without using keys.
+Riding: Directing a mount such as a horse or pony.
+Sailing: Steering or piloting various watercraft.
+Stealth: Sneaking about quietly and out of sight.
+Traps: Detecting and disarming traps and other mechanical
+devices.
+Fighting Focuses
+Axes: Proficiency with weapons from the Axes weapon
+group.
+Bludgeons: Proficiency with weapons from the Bludgeons
+weapon group.
+Heavy Blades: Proficiency with weapons from the Heavy
+Blades weapon group.
+Lances: Proficiency with weapons from the Lances
+weapon group.
+Polearms: Proficiency with weapons from the Polearms
+weapon group.
+Intelligence Focuses
+Arcane Lore: Knowing about arcana and its various
+manifestations.
+Brewing: Making beers, ales, and other concoctions.
+Cartography: Making and reading maps.
+Cryptography: Creating and deciphering codes and ciphers.
+Cultural Lore: Knowing the traditions and beliefs of
+various cultures.
+Engineering: Knowing the practicalities of construction,
+building, and invention.
+Evaluation: Determining the value of goods and objets
+d’art.
+Healing: Aiding the wounded and sick. Includes effective
+application of healing arcana. May also apply to Perception
+and/or Willpower when using certain arcana that
+affect the body.
+Heraldry: Knowing coats of arms and royal families.
+Historical Lore: Knowing important events and personalities
+from the past.
+Military Lore: Knowing strategy, tactics, and famous
+applications thereof.
+Musical Lore: Knowing musical traditions and songs.
+Natural Lore: Knowing natural flora and fauna. May also
+apply to Perception when using the Nature Reading
+arcanum.
+Nautical Lore: Knowing the sea, its creatures, ships, and
+sailing.
+Navigation: Planning and following a route from one
+place to another.
+Religious Lore: Knowing religious traditions and practices.
+Remote Weapons: Proficiency with wielding weapons
+remotely using arcana (particularly Manipulate Object).
+Research: Making a systematic investigation, usually
+using records, archives, and books.
+Shaping: Knowledge and effective use of shaping arcana.
+Sorcery Lore: Studying forgotten and forbidden arts of
+corrupt arcana.
+Writing: Expressing yourself with the written word.
+Perception Focuses
+Empathy: Discerning the feelings and emotions of others.
+Hearing: Using your auditory sense.
+Psychic: Using your psychic senses, particularly psychic
+arcana. May also apply to Willpower when resisting
+some arcana or struggling mind-to-mind.
+Searching: Finding things that are hidden or obscured,
+such as secret doors.
+Seeing: Using your visual sense.
+Smelling: Using your olfactory sense.
+Tasting: Using your gustatory sense.
+Touching: Using your tactile sense.
+Tracking: Following tracks and other signs of passage.
+Visionary: Interpreting and understanding dreams and
+visions, including effective use of the visionary arcana.
+May also apply to Communication, such as when
+“programming” certain arcane items.
+Strength Focuses
+Climbing: Scaling walls and other vertical obstacles.
+Driving: Directing and guiding carts, carriages, and other
+wheeled vehicles.
+Intimidation: Overawing others with physical presence
+and threats.
+Jumping: Springing and leaping.
+Might: Performing feats of raw power, such as lifting or
+holding up heavy objects.
+Smithing: Forging items made of metal, from weapons to
+jewelry.
+Willpower Focuses
+Courage: Overcoming fear in the face of adversity.
+Faith: Deriving inner strength through spiritual or moral
+belief.
+Meditative: Ability to center, meditate, and internally
+focus effectively, including the use of meditative arcana.
+Morale: Maintaining good spirits and confidence in yourself
+or your group. NPCs tend to use this focus more
+than player characters.
+Purity: Maintaining purity of moral purpose, even in the
+face of corruption and temptation.
+Self-Discipline: Focusing your mental energy or controlling
+your impulses and emotions.
