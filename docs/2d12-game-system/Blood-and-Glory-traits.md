@@ -1,87 +1,45 @@
-Traits
-Traits are the definitive features and abilities that a
-Character will gain as they progress through the game.
-Many Traits require certain Skill Ranks, Attribute
-scores, or even other Traits to learn.
-Characters gain a Trait after each Chapter. A
-Character cannot have more than 1 2 Traits. If a
-Character already has 1 2 Traits when they complete a
-Chapter, they may replace a Trait with a new one, even
-if the removed Trait is a prerequisite for another they
-possess.
-Traits grant access to both active and passive
-bonuses. Benefits are persistent passive effects that may
-modify Attributes, Skills, or other aspects of the game.
-Many Traits also grant access to powerful Actions,
-Reactions, and Desperate Actions (see pages 29-30).
-1 -4 Traits Huntsman
-5-8 Traits Sellsword
-9-12 Traits Elite Assassin
-Malik takes Scrapper, Dangerous, and Deadly.
-Elaria takes Ironclad, Tough, and Archer.
-Trait List
-BLOODED
+# Traits
+Traits are the definitive features and abilities that a Character will gain as they progress through the game. Many Traits require certain Skill Ranks, Attribute scores, or even other Traits to learn.
+Characters gain a Trait after each Chapter. A Character cannot have more than 12 Traits. If a Character already has 12 Traits when they complete a Chapter, they may replace a Trait with a new one, even if the removed Trait is a prerequisite for another they possess.
+Traits grant access to both active and passive bonuses. Benefits are persistent passive effects that may modify Attributes, Skills, or other aspects of the game. Many Traits also grant access to powerful Actions, Reactions, and Desperate Actions (see pages 29-30).
+
+## Trait List
+### BLOODED
 Prerequisite: This Trait must be selected at creation.
 Benefit: You are Blooded and may take Blooded
 Abilities instead of Traits.
-Benefit: You have 1 0 Power.
-Benefit: Any human Character that dies near you
-restores 1 Power to you.
-BLOODSENSE
+Benefit: You have 10 Power.
+Benefit: Any human Character that dies near you restores 1 Power to you.
+### BLOODSENSE
 Desperate Action: When targeted with a Blooded
-Ability, you may impose Disadvantage on all Blooded
-Skill Checks made against you for a round.
-Benefit: You may make an Insight Skill Check (CR 1 5)
-to determine how powerful a Near Blooded is (the
-Arbiter will provide their Blood Skill Rank).
-BLOODBREAKER
+Ability, you may impose Disadvantage on all Blooded Skill Checks made against you for a round.
+Benefit: You may make an Insight Skill Check (CR 15) to determine how powerful a Near Blooded is (the Arbiter will provide their Blood Skill Rank).
+### BLOODBREAKER
 Prerequisites: Bloodsense, Master Fighting
-Reaction: If you receive a wound from a Blooded
-Ability, you may attack the Character who wounded
-you with a Fighting or Archery Skill Check.
-HOUND
-Benefit: Choose a Character. Gain Advantage to all
-base Dexterity and Strength Checks that separate you
-from moving to them so long as they are Far or less
-distance away. This lasts until you take a Rest or Hound
-a different Character.
-Desperate Action: Gain Advantage on an attack
-against your Hounded Character.
-TOUGH
+Reaction: If you receive a wound from a Blooded Ability, you may attack the Character who wounded you with a Fighting or Archery Skill Check.
+### HOUND
+Benefit: Choose a Character. Gain Advantage to all base Dexterity and Strength Checks that separate you from moving to them so long as they are Far or less distance away. This lasts until you take a Rest or Hound a different Character.
+Desperate Action: Gain Advantage on an attack against your Hounded Character.
+### TOUGH
 Prerequisite: Strength 1
 Benefit: +1 Vitality.
 Benefit: +2 Armor while unarmored.
-Desperate Action:When you would take more than 1
-Wound from a single attack, you may reduce it to 1 .
-SLAYER
+Desperate Action:When you would take more than 1 Wound from a single attack, you may reduce it to 1 .
+### SLAYER
 Prerequisite: Strength 1 or Dexterity 1
-Benefit: Gain Advantage to Fighting and Archery Skill
-Checks made against Risen.
+Benefit: Gain Advantage to Fighting and Archery Skill  Checks made against Risen.
 Reaction: If more than two Risen make Fighting Skill
-Checks against you in a round, you may attack an
-Adjacent Risen with your Fighting or Archery Skill
-Check.
-Desperate Action: Make a Fighting or Archery Skill
-Check against a Risen.
+Checks against you in a round, you may attack an Adjacent Risen with your Fighting or Archery Skill Check.
+Desperate Action: Make a Fighting or Archery Skill Check against a Risen.
 BERSERKER
 Prerequisite: Strength 4
-Benefit: After you receive a Wound that would result in
-your death, you may make a Strength Check (CR 1 0). If
-successful, you do not die but heal 1 Wound instead.
-Increase the CR by 5 each subsequent time the Check is
-made. A Rest returns the CR to 1 0.
+Benefit: After you receive a Wound that would result in your death, you may make a Strength Check (CR 1 0). If successful, you do not die but heal 1 Wound instead. Increase the CR by 5 each subsequent time the Check is made. A Rest returns the CR to 1 0.
 DUAL WIELDER
-Benefit: Your base Evasion becomes 1 0 + your Fighting
-Skill Rank while dual wielding swords, daggers, maces,
-axes, or katar.
-Benefit: When you would inflict a Major Wound while
-dual wielding, inflict an additional Wound.
+Benefit: Your base Evasion becomes 1 0 + your Fighting Skill Rank while dual wielding swords, daggers, maces, axes, or katar.
+Benefit: When you would inflict a Major Wound while dual wielding, inflict an additional Wound.
 OPPORTUNIST
-Prerequisites: Dual Wielder, Dexterity 2, Master
-Fighting
-Reaction: If you successfully Evade while dual wielding
-swords, daggers, or katar, you may attack your attacker
-with your Fighting Skill.
+Prerequisites: Dual Wielder, Dexterity 2, Master Fighting
+Reaction: If you successfully Evade while dual wielding swords, daggers, or katar, you may attack your attacker with your Fighting Skill.
 BRUISER
 Prerequisites: Dual Wielder, Strength 2, Master
 Fighting
