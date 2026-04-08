@@ -43,9 +43,9 @@ Each skill may also have specializations that reflect focused expertise.
 
 #### 2.2.1 Skill Specializations
 
-A specialization is a narrow focus within a skill. For example, a character proficient in Deception might specialize in ciphers, or a character with Lore (History) might specialize in war chronicles.
+A specialization is a narrow focus within a skill. For example, a character proficient in Deception might specialize in Long Cons, or a character with History might specialize in war chronicles.
 
-- A character gains two specializations at 1st level, plus any granted by features such as Ingenious Proficiency.  
+- A character gains two specializations at character creation.
 - A specialization must be tied to a skill in which the character is proficient.  
 - A character cannot take the same specialization more than once.  
 - When a specialization applies, it grants an additional +1 bonus to the related check.  
