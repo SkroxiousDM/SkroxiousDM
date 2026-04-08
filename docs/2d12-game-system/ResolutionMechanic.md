@@ -236,3 +236,37 @@ Only one Help reaction can apply to any given roll.
 
 
 
+SP Cost Stunt
+1+ Skirmish: You can move yourself or the target of your attack 2 yards in any direction for each 1 SP you spend.
+1 Rapid Reload: You can immediately reload a missile weapon.
+1 Stay Awa re: You take a moment to make sure you’re mindful of everything that’s happening around you. Make a TN 11
+Perception test with the focus of your choice. If you succeed, the Narrator may either make you aware of some battlefield
+situation that has so far escaped your notice, or give you a +1 bonus to the next test you make. This bonus can never stack
+with any other test bonus other than that from a focus. It must be used on the very next test you make (even if you’re the
+defender in an opposed test), and expires at the end of your next turn even if you haven’t used it by then.
+2 Knock Prone: You knock your enemy prone. Any character making a melee attack against a prone foe gains a +1 bonus on
+their attack roll.
+2 Defe nsive Stance: Your attack sets you up for defense. You gain a +2 bonus to Defense until the beginning of your next turn.
+2 Disarm: You attempt to disarm the target with your melee attack. You and your opponent must make an opposed attack
+roll. If you win the test, you knock your enemy’s weapon 1d6 + Strength yards away in a direction you nominate.
+2 Mighty Blow: You inflict an extra 1d6 damage on your attack.
+2 Pierce Armor: You find a chink in your enemy’s armor. The target’s armor rating is halved (rounded down) vs. this attack.
+2 Taunt: You insult or distract one opponent of your choice within 10 yards of you. You must make an opposed test of your
+Communication (Deception) vs. the target’s Willpower (Self-Discipline). If you win, the target suffers a –1 penalty on attack
+and arcana rolls on their next turn.
+2 Threaten: You strike a threatening pose, challenging an opponent of your choice within 10 yards of you. You must make an
+opposed test of your Strength (Intimidate) vs. the target’s Willpower (Self-Discipline). If you win, they must attack you in
+some way (melee, missile, arcana, etc.) on their next turn.
+3 Lightning Attack: You can make a second attack against the same enemy or a different one within range and sight. You
+must have a loaded missile weapon to make a ranged attack. If you roll doubles on this second attack roll, you do not gain
+any additional stunt points.
+3 Set Up: You create an opening an ally can exploit. Pick an ally. On their next turn, the ally receives a +2 bonus on the ability
+test of their choice. This decision must be made before the dice are rolled.
+4 Dual Strike: Your attack is so strong it affects two targets. First, pick a secondary target. This target must be adjacent to
+you if you are using a melee weapon or within 6 yards of your primary target if you are using a missile weapon. Apply the
+test result of your original attack roll to the secondary target (in other words, you only make one attack roll and apply it to
+both opponents). If you hit the secondary target, inflict your normal damage on them.
+4 Seize the Initiative: Your attack changes the tempo of the battle. You move to the top of the initiative order. This means
+you may get to take another turn before some of the combatants get to act again. You remain at the top of the order until
+someone else seizes the initiative.
+5 Lethal Blow: You inflict an extra 2d6 damage on your attack.
