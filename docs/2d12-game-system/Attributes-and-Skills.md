@@ -36,7 +36,7 @@ Characters act from highest Initiative to lowest (see section 2.4.2).
 
 ### 2.2 Skills
 
-Skills represent trained capabilities tied to specific attributes and situations. Having a relevant skill grants a +1 bonus to the associated attribute check, and a skilled character may Push a failed check to attempt it again (subject to the Push rules in section 2.3.4). In rare cases, the GM may require a specific skill to attempt an action, but most tasks can be attempted untrained.
+Skills represent trained capabilities tied to specific attributes and situations. Having a relevant skill grants a +1 bonus for each level of training (novice, adept, and master)  to the associated attribute check, and a skilled character may Push a failed check to attempt it again (subject to the Push rules in section 2.3.4). In rare cases, the GM may require a specific skill to attempt an action, but most tasks can be attempted untrained.
 
 At the GM’s discretion, possessing a relevant skill can:
 - Be required to achieve a Critical Success.  
@@ -52,7 +52,7 @@ A specialization is a narrow focus within a skill. For example, a character prof
 - A character gains two specializations at character creation.
 - A specialization must be tied to a skill in which the character is proficient.  
 - A character cannot take the same specialization more than once.  
-- When a specialization applies, it grants an additional +1 bonus to the related check.  
+- When a specialization applies, it grants an additional +2 bonus to the related check.  
 
 The GM decides when a specialization applies.
 
@@ -117,8 +117,7 @@ Used to recall and apply specialized knowledge.
 - **History:** Significant past events.  
 - **Magic:** Magical sites, spells, rituals, items, and phenomena.  
 - **Monsters:** Ecology, strengths, and weaknesses of creatures.  
-- **Nature:** Flora, fauna, and weather.  
-- **Psionics:** Psionic practices and phenomena.  
+- **Nature:** Flora, fauna, and weather.   
 - **Religion:** Myths, rites, and religious practices.  
 - **Rumors:** Gossip, legends, and uncertain reports.  
 - **Society:** Noble etiquette and power structures.  
@@ -537,9 +536,7 @@ ability. In this case, you could combine your Parry Skill with your Sense Stat, 
 sense how well someone parries. Similarly, Knowledge might work better than Charm with Jest if you
 were trying to make a particularly obscure in-joke to an audience of scholars. For such odd times out,
 it’s the GM’s call whether they can be used with another Stat and, if so, which Stat comes into play.
-Common Elements
-22
-Chapter Two
+
 Fight is used with any hand-to-hand weapon where it’s obvious how it hurts someone. 
 Even if you’d never seen a sword before, Fight would let you figure it out. Missile weapons 
 are another matter—training and control matter there. Also, exotic weapons that aren’t 
@@ -582,10 +579,7 @@ opponent in battle.
 Riding is very general. Riding a creature you’ve never mounted before, you may face a 
 Difficulty until you’re used to the quirks of riding a giant bat, seahorse or rabbit. Expected 
 possessions: A decent saddle and a horse of no great worth.
-Skill Descriptions
-23
-Character Generation
-Skill Descriptions
+
 Stealth: A quiet step? Remaining unseen while the household searches for you? Pilfering, 
 purloining, and picking pockets? All covered. This Skill is the one-stop shop for burglars 
 and adulterers alike. (Okay, you might want some Climb and Lie in there as well.) Stealth 
@@ -619,8 +613,7 @@ or Command, depending on your methods. Or you might want to put a “Jump Expert
 Skill under Coordination instead of relying on Body+Athletics. Just be sure to check with
 your GM so she can veto “Blow People Up With My Mind” if it doesn’t fit her setting.
 The Knowledge version of “Expert” is “Student,” just to be exacting.
-24
-Chapter Two
+
 Healing: This is the mundane ability to clean wounds, apply bandages, and whip up herbal 
 remedies. Expected possessions: Bandages, splint materials and herbs of various potencies.
 Language ________: Every character starts out with one Master Die in his native 
@@ -655,9 +648,7 @@ isn’t going to cover that. If you’re building your own REIGN setting, think 
 you want magic to do and be good for, and work hard at explaining that to the players. 
 The default in REIGN is a single Skill that combines with different Stats depending on what
 kind of spell is being cast. This is covered in greater detail in the Magic chapter.
-25
-Character Generation
-Skill Descriptions
+
 Command Skills
 Haggle: You drive a hard bargain. By debating, wheedling, brow-beating and feigning 
 indignation, you can get the best price for items, whether buying or selling. Expected 
@@ -699,8 +690,7 @@ ex-lover at the wedding. Expected possessions: A memento of a bittersweet love a
 Hearing: Your perception of sound is exceptional. You’re superb at eavesdropping, hearing 
 muffled footsteps in dark alleys, and recognizing which string on your friend’s violin is just a 
 trifle sharp. Expected possessions: none.
-26
-Chapter Two
+
 Scrutinize: Scrutinize measures your character’s ability to look around a locale and 
 reconstruct what happened there, or glean information that isn’t immediately obvious. Use 
 it to track someone in the forest, find the hidden panel in the chest, or get a clue from a crime 
