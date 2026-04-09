@@ -391,96 +391,79 @@ Specialties:
 - Battle Commands (mounts obeying under fire)
 
 ---
-### Accuracy Focuses
-Arcane: Proficiency with crystons and other arcane ranged attacks.
-Bows: Proficiency with weapons from the Bows weapon group.
-Brawling: Proficiency with weapons from the Brawling weapon group.
-Light Blades: Proficiency with weapons from the Light Blades weapon group.
-Staves: Proficiency with weapons from the Staves group.
-### Communication Focuses
-Animal Handling: Interacting with and caring for animals.
-Animism: Knowledge and use of animism arcana. May also apply to Perception and/or Willpower when discerning information or attempting to enhance living creatures through some arcana.
-Bargaining: Negotiating with others and making deals.
-Deception: Lying to and tricking those less mentally adept than you.
-Disguise: Making yourself look like someone else or a different class of person.
-Etiquette: Knowing the social niceties of various cultures.
-Gambling: Playing games of chance and profiting from them.
-Investigation: Interviewing people for information, as well as finding and deciphering clues.
-Leadership: Guiding, directing, and inspiring others.
-Performance: Entertaining an audience with an artistic talent.
-Persuasion: Convincing others to agree with you.
-Psychic: Using psychic arcana and communication effectively.
-May also apply to Willpower when resisting
-some arcana or struggling mind-to-mind.
-Romance: Navigating and succeeding at romantic encounters.
-Includes both long-term relationships and shortterm seductions.
+### Agility Focuses
+- Acrobatics: Executing gymnastic, balancing, and tumbling maneuvers.
+- Bows: Proficiency with weapons from the Bows weapon group.
+- Brawling: Proficiency with weapons from the Brawling weapon group.
+- Light Blades: Proficiency with weapons from the Light Blades weapon group.
+- Staves: Proficiency with weapons from the Staves group.
+- Riding: Directing a mount such as a horse or pony.
+- Sailing: Steering or piloting various watercraft.
+- Stealth: Sneaking about quietly and out of sight.
+### Charisma Focuses
+- Animal Handling: Interacting with and caring for animals.
+- Animism: Knowledge and use of animism arcana. May also apply to Perception and/or Willpower when discerning information or attempting to enhance living creatures through some arcana.
+- Bargaining: Negotiating with others and making deals.
+- Deception: Lying to and tricking those less mentally adept than you.
+- Disguise: Making yourself look like someone else or a different class of person.
+- Etiquette: Knowing the social niceties of various cultures.
+- Gambling: Playing games of chance and profiting from them.
+- Investigation: Interviewing people for information, as well as finding and deciphering clues.
+- Leadership: Guiding, directing, and inspiring others.
+- Performance: Entertaining an audience with an artistic talent.
+- Persuasion: Convincing others to agree with you.
+- Psychic: Using psychic arcana and communication effectively. May also apply to Willpower when resisting some arcana or struggling mind-to-mind.
+- Seduction: Navigating and succeeding at romantic encounters. Includes both long-term relationships and shortterm seductions.
 ### Constitution Focuses
-Drinking: Consuming large quantities of alcohol and avoiding the aftereffects.
-Rowing: Propelling a vessel with oars.
-Running: Moving quickly in both short sprints and long distance hauls.
-Stamina: Enduring fatigue, disease, and privation.
-Swimming: Moving through the water and staying afloat.
+- Drinking: Consuming large quantities of alcohol and avoiding the aftereffects.
+- Rowing: Propelling a vessel with oars.
+- Running: Moving quickly in both short sprints and long distance hauls.
+- Stamina: Enduring fatigue, disease, and privation.
+- Swimming: Moving through the water and staying afloat.
 ### Dexterity Focuses
-Acrobatics: Executing gymnastic, balancing, and
-tumbling maneuvers.
-Artisan: Making handcrafted works of art such as paintings, sculptures, and fine clothing.
-Calligraphy: Writing with artful penmanship.
-Crafting: Making practical items with manual skills, like woodworking, leather working, glassblowing, etc.
-Initiative: Acting quickly in tense situations.
-Legerdemain: Using sleight of hand to trick others, hide things, and pick pockets.
-Lock Picking: Opening locks without using keys.
-Riding: Directing a mount such as a horse or pony.
-Sailing: Steering or piloting various watercraft.
-Stealth: Sneaking about quietly and out of sight.
-Traps: Detecting and disarming traps and other mechanical
-devices.
-### Fighting Focuses
-Axes: Proficiency with weapons from the Axes weapon
-group.
-Bludgeons: Proficiency with weapons from the Bludgeons
-weapon group.
-Heavy Blades: Proficiency with weapons from the Heavy Blades weapon group.
-Lances: Proficiency with weapons from the Lances
-weapon group.
-Polearms: Proficiency with weapons from the Polearms weapon group.
+- Artisan: Making handcrafted works of art such as paintings, sculptures, and fine clothing.
+- Calligraphy: Writing with artful penmanship.
+- Crafting: Making practical items with manual skills, like woodworking, leather working, glassblowing, etc.
+- Legerdemain: Using sleight of hand to trick others, hide things, and pick pockets.
+- Lock Picking: Opening locks without using keys.
+- Traps: Detecting and disarming traps and other mechanical devices.
 ### Intelligence Focuses
-Arcane Lore: Knowing about arcana and its various
-manifestations.
-Brewing: Making beers, ales, and other concoctions.
-Cartography: Making and reading maps.
-Cryptography: Creating and deciphering codes and ciphers.
-Cultural Lore: Knowing the traditions and beliefs of various cultures.
-Engineering: Knowing the practicalities of construction, building, and invention.
-Evaluation: Determining the value of goods and objets d’art.
-Healing: Aiding the wounded and sick. Includes effective application of healing arcana. May also apply to Perception and/or Willpower when using certain arcana that affect the body.
-Heraldry: Knowing coats of arms and royal families.
-Historical Lore: Knowing important events and personalities from the past.
-Military Lore: Knowing strategy, tactics, and famous applications thereof.
-Musical Lore: Knowing musical traditions and songs.
-Natural Lore: Knowing natural flora and fauna. May also apply to Perception when using the Nature Reading arcanum.
-Nautical Lore: Knowing the sea, its creatures, ships, and sailing.
-Navigation: Planning and following a route from one place to another.
-Religious Lore: Knowing religious traditions and practices.
-Remote Weapons: Proficiency with wielding weapons
-remotely using arcana (particularly Manipulate Object).
-Research: Making a systematic investigation, usually using records, archives, and books.
-Shaping: Knowledge and effective use of shaping arcana.
-Sorcery Lore: Studying forgotten and forbidden arts of corrupt arcana.
-Writing: Expressing yourself with the written word.
+- Arcane Lore: Knowing about arcana and its various manifestations.
+- Brewing: Making beers, ales, and other concoctions.
+- Cartography: Making and reading maps.
+- Cryptography: Creating and deciphering codes and ciphers.
+- Cultural Lore: Knowing the traditions and beliefs of various cultures.
+- Engineering: Knowing the practicalities of construction, building, and invention.
+- Evaluation: Determining the value of goods and objets d’art.
+- Healing: Aiding the wounded and sick. Includes effective application of healing arcana. May also apply to Perception and/or Willpower when using certain arcana that affect the body.
+- Heraldry: Knowing coats of arms and royal families.
+- Historical Lore: Knowing important events and personalities from the past.
+- Military Lore: Knowing strategy, tactics, and famous applications thereof.
+- Musical Lore: Knowing musical traditions and songs.
+- Natural Lore: Knowing natural flora and fauna. May also apply to Perception when using the Nature Reading arcanum.
+- Nautical Lore: Knowing the sea, its creatures, ships, and sailing.
+- Navigation: Planning and following a route from one place to another.
+- Religious Lore: Knowing religious traditions and practices.
+- Research: Making a systematic investigation, usually using records, archives, and books.
+- Sorcery Lore: Studying forgotten and forbidden arts of corrupt arcana.
+- Writing: Expressing yourself with the written word.
 ### Perception Focuses
-Empathy: Discerning the feelings and emotions of others.
-Hearing: Using your auditory sense.
-Psychic: Using your psychic senses, particularly psychic arcana. May also apply to Willpower when resisting some arcana or struggling mind-to-mind.
-Searching: Finding things that are hidden or obscured, such as secret doors.
-Seeing: Using your visual sense.
-Smelling: Using your olfactory sense.
-Tasting: Using your gustatory sense.
-Touching: Using your tactile sense.
-Tracking: Following tracks and other signs of passage.
-Visionary: Interpreting and understanding dreams and visions, including effective use of the visionary arcana.
-May also apply to Communication, such as when
-“programming” certain arcane items.
+- Empathy: Discerning the feelings and emotions of others.
+- Hearing: Using your auditory sense.
+- Erie: Using your psychic senses, particularly psychic arcana. May also apply to Willpower when resisting some arcana or struggling mind-to-mind.
+- Searching: Finding things that are hidden or obscured, such as secret doors.
+- Seeing: Using your visual sense.
+- Smelling: Using your olfactory sense.
+- Tasting: Using your gustatory sense.
+- Touching: Using your tactile sense.
+- Tracking: Following tracks and other signs of passage.
+- Visionary: Interpreting and understanding dreams and visions, including effective use of the visionary arcana. May also apply to Communication, such as when “programming” certain arcane items.
 ### Strength Focuses
+- Axes: Proficiency with weapons from the Axes weapon group.
+- Bludgeons: Proficiency with weapons from the Bludgeons weapon group.
+- Heavy Blades: Proficiency with weapons from the Heavy Blades weapon group.
+- Lances: Proficiency with weapons from the Lances weapon group.
+- Polearms: Proficiency with weapons from the Polearms weapon group.
 - Climbing: Scaling walls and other vertical obstacles.
 - Driving: Directing and guiding carts, carriages, and other wheeled vehicles.
 - Intimidation: Overawing others with physical presence and threats.
@@ -495,229 +478,206 @@ May also apply to Communication, such as when
 - Purity: Maintaining purity of moral purpose, even in the face of corruption and temptation.
 - Self-Discipline: Focusing your mental energy or controlling your impulses and emotions.
 
-### COMMUNICATION: 
-Animal Handling, Bargaining, Deception, Disguise, Etiquette, Gambling, Investigation, Leadership, Performance, Persuasion, and Seduction.
 
-### CONSTITUTION: 
-Drinking, Rowing, Running, Stamina, and Swimming.
 
-### CUNNING: 
-Arcane Lore, Cartography, Cultural Lore, Engineering, Evaluation, Healing, Heraldry, Historical Lore, Military Lore, Musical Lore, Natural Lore, Navigation, Research, Religious Lore, and Writing.
 
-### DEXTERITY: 
-Acrobatics, Bows, Brawling, Calligraphy, Initiative, Legerdemain, Light Blades, Lock Picking, Riding, Staves, Stealth, and Traps.
 
-### MAGIC: 
-Arcane Lance, Creation, Entropy, Primal, and Spirit.
 
-### PERCEPTION: 
-Empathy, Hearing, Searching, Seeing, Smelling, and Tracking.
 
-### STRENGTH: 
-Axes, Bludgeons, Climbing, Driving, Heavy Blades, Intimidation, Jumping, Might, and Spears.
 
-### WILLPOWER: 
-Courage, Faith, Morale, and Self-Discipline.
 
-Body Skills
-Athletics: This is a catchall for physical tasks that don’t merit a their own Skill. If it’s not 
-running, climbing, riding, or enduring, it’s probably Athletics. Use it to jump, throw, and 
-lift heavy weights. Expected possessions: none.
-Endurance: Roll Endurance to keep running, or walking, or swimming past the point where 
-weaker (or less driven) individuals collapse. Expected possessions: none.
-Fight: This is the Skill for untrained brawling. Someone with a high Fight Skill lacks the 
-finesse of someone with a Weapon Skill (see “Weapon Skill,” below) but that’s rarely a 
-comfort when he buries his axe in your spleen.
-Using Skills with Other Stats
-Usually, a Skill combines with the Stat under which it’s listed. Almost every time you use the Parry Skill,
-it’s going to be paired with the Body Stat. However, there may be times when you want use a Skill
-in an unusual way. Your character might watch someone dueling and wish to evaluate her blocking
-ability. In this case, you could combine your Parry Skill with your Sense Stat, since you’re trying to
-sense how well someone parries. Similarly, Knowledge might work better than Charm with Jest if you
-were trying to make a particularly obscure in-joke to an audience of scholars. For such odd times out,
-it’s the GM’s call whether they can be used with another Stat and, if so, which Stat comes into play.
 
-Fight is used with any hand-to-hand weapon where it’s obvious how it hurts someone. 
-Even if you’d never seen a sword before, Fight would let you figure it out. Missile weapons 
-are another matter—training and control matter there. Also, exotic weapons that aren’t 
-dangerous without training are useless for Fight. Expected possessions: none.
-Parry: When you try to knock a weapon away before it hits, or meet force with force, that’s 
-a parry. You use this Skill to protect yourself or others near you. However, Parry presumes 
-that you’ve got something hard to parry with—a mailed forearm, a shield, a weapon of your 
-own. If you try to parry a weapon with nothing but your bare hands, you’re likely to get a 
-nasty cut on your elbow. Which still may be preferable to a nasty cut on the throat. (See 
-“Parry” on page 51 for more information.) Expected possessions: A shield or a dagger.
-Run: Cowards run from fights. Brave men run towards them. Cruel men run down 
-fleeing enemies. The Skill they all need is ‘Run’. Roll this to move fast on your feet. (To 
-keep running for a long distance, roll Endurance.) In a fight, you can move 15 feet every 
-round automatically. If you want to move farther than that, roll Body+Run. A success 
-lets you move farther—five feet for every point of Width. (See “Move” on page 123.) 
-Expected possessions: A comfortable pair of shoes.
-Vigor: This is not a Skill that is learned. It represents how well you overcome injury and 
-illness. You make Body+Vigor rolls to recover from combat (it’s described in detail on 
-page 114) so this is often a good bet for belligerent types. It’s also what you roll to resist 
-sickness. Expected possessions: none.
-Coordination Skills
-Climb: You can travel vertically with confidence. Scaling trees, cliffs, or a ship’s mast—
-it’s all the same. In combat, you can you can ascend five feet per round for every point of 
-Width in your set, if the surface is easy. If the conditions are inclement, it’s five feet for 
-every two points of Width. Or, if you’re not in immanent danger and can take your time, 
-a successful roll or two just gets you to the top. Expected possessions: A coil of rope.
-Dodge: You move your body away from a threat, so that it does not pain you. Ducking 
-punches, diving for safety, leaping over bonfires without singeing—all require Dodge 
-rolls. You cannot use Dodge to protect anyone but yourself. It’s described in greater 
-detail on page 47. Expected possessions: none.
-Perform ________: You can put on a good show. Pick a category of entertainment when 
-you select the Skill. You could be a juggler, acrobat, or dancer. You can buy this Skill 
-more than once for different specialties. 
-The Perform Skill is listed under Command as well, but that’s for putting on a show that’s 
-mostly about who you are, not what you’re doing. If there’s any question, just pick a Stat. 
-Expected possessions: A costume.
-Ride: You can get a dumb animal to do the work of hauling you around. Roll this to beat 
-the other riders in a race, guide your horse through the forest, or charge down on your 
-opponent in battle.
-Riding is very general. Riding a creature you’ve never mounted before, you may face a 
-Difficulty until you’re used to the quirks of riding a giant bat, seahorse or rabbit. Expected 
-possessions: A decent saddle and a horse of no great worth.
 
-Stealth: A quiet step? Remaining unseen while the household searches for you? Pilfering, 
-purloining, and picking pockets? All covered. This Skill is the one-stop shop for burglars 
-and adulterers alike. (Okay, you might want some Climb and Lie in there as well.) Stealth 
-is versatile, useful for all manner of deviousness. If this sort of mischief is a major part 
-of your game, your GM may break Stealth up into a variety of Skills—moving unseen, 
-moving unheard, confounding traps and so forth. But for most games, one broad Skill 
-suffices. Expected possessions: A black cloak with hood and scarf. 
-Weapon Skill _______: Pick a category of weapons like “bows” or “axes.” You’ve been 
-trained to hurt and kill with weapons of that type. You can choose “empty hand striking” 
-or “grappling” as Weapon Skills too, instead of using the broader Fight Skill.
-While the categories encompass a lot (there’s no separate “bow” and “crossbow” Skills) 
-they’re still narrower than the generic Fight Skill. The difference between training and 
-talent is that a trained fighter can learn special maneuvers. Specifically, you can follow 
-Martial Paths, learn Techniques, and get special advantages when using a Weapon 
-Skill. You can never use a martial technique with the Fight Skill—that’s the drawback to 
-treating a sword, a club or an axe as if they’re interchangeable.
-(Martial paths and techniques are covered in greater detail starting on page 26.) Expected 
-possessions: A weapon of the appropriate type.
-Knowledge Skills
-Counterspell: In the REIGN setting, snarling lines of occult force is something that can be 
-learned or intuited. In other settings, this Skill may be unavailable, or may be restricted. 
-It works just like the Dodge skill, by producing Gobble Dice. However, counter-casting 
-only works on spells that focus on the counterspeller. If the sorcerer collapses the tower 
-you’re in, counterspelling won’t save you. Expected possessions: Lucky charm or talisman.
+
+
+> __**Using Skills with Other Stats**__
+>Usually, a Skill combines with the Stat under which it’s listed. Almost every time you use the Parry Skill, it’s going to be paired with the Body Stat. However, there may be times when you want use a Skill in an unusual way. Your character might watch someone dueling and wish to evaluate her blocking ability. In this case, you could combine your Parry Skill with your Sense Stat, since you’re trying to sense how well someone parries. Similarly, Knowledge might work better than Charm with Jest if you were trying to make a particularly obscure in-joke to an audience of scholars. For such odd times out, it’s the GM’s call whether they can be used with another Stat and, if so, which Stat comes into play.
+
+## Strength and Constitution Skills
+Athletics: This is a catchall for physical tasks that don’t merit a their own Skill. If it’s not  running, climbing, riding, or enduring, it’s probably Athletics. Use it to jump, throw, and  lift heavy weights. Expected possessions: none.
+
+Endurance: Roll Endurance to keep running, or walking, or swimming past the point where  weaker (or less driven) individuals collapse. Expected possessions: none.
+
+Fight: This is the Skill for untrained brawling. Someone with a high Fight Skill lacks the  finesse of someone with a Weapon Skill (see “Weapon Skill,” below) but that’s rarely a  comfort when he buries his axe in your spleen.
+Fight is used with any hand-to-hand weapon where it’s obvious how it hurts someone.  Even if you’d never seen a sword before, Fight would let you figure it out. Missile weapons  are another matter—training and control matter there. Also, exotic weapons that aren’t  dangerous without training are useless for Fight. Expected possessions: none.
+
+Parry: When you try to knock a weapon away before it hits, or meet force with force, that’s  a parry. You use this Skill to protect yourself or others near you. However, Parry presumes  that you’ve got something hard to parry with—a mailed forearm, a shield, a weapon of your  own. If you try to parry a weapon with nothing but your bare hands, you’re likely to get a  nasty cut on your elbow. Which still may be preferable to a nasty cut on the throat. (See  “Parry” on page 51 for more information.) Expected possessions: A shield or a dagger.
+
+Run: Cowards run from fights. Brave men run towards them. Cruel men run down  fleeing enemies. The Skill they all need is ‘Run’. Roll this to move fast on your feet. (To  keep running for a long distance, roll Endurance.) In a fight, you can move 15 feet every  round automatically. If you want to move farther than that, roll Body+Run. A success  lets you move farther—five feet for every point of Width. (See “Move” on page 123.)  Expected possessions: A comfortable pair of shoes.
+
+Vigor: This is not a Skill that is learned. It represents how well you overcome injury and  illness. You make Body+Vigor rolls to recover from combat (it’s described in detail on  page 114) so this is often a good bet for belligerent types. It’s also what you roll to resist  sickness. Expected possessions: none.
+## Agility Skills
+Climb: You can travel vertically with confidence. Scaling trees, cliffs, or a ship’s mast— it’s all the same. In combat, you can you can ascend five feet per round for every point of  Width in your set, if the surface is easy. If the conditions are inclement, it’s five feet for  every two points of Width. Or, if you’re not in immanent danger and can take your time,  a successful roll or two just gets you to the top. Expected possessions: A coil of rope.
+
+Dodge: You move your body away from a threat, so that it does not pain you. Ducking  punches, diving for safety, leaping over bonfires without singeing—all require Dodge  rolls. You cannot use Dodge to protect anyone but yourself. It’s described in greater  detail on page 47. Expected possessions: none.
+
+Perform ________: You can put on a good show. Pick a category of entertainment when  you select the Skill. You could be a juggler, acrobat, or dancer. You can buy this Skill  more than once for different specialties. 
+The Perform Skill is listed under Command as well, but that’s for putting on a show that’s  mostly about who you are, not what you’re doing. If there’s any question, just pick a Stat.  Expected possessions: A costume.
+
+Ride: You can get a dumb animal to do the work of hauling you around. Roll this to beat  the other riders in a race, guide your horse through the forest, or charge down on your  opponent in battle.
+Riding is very general. Riding a creature you’ve never mounted before, you may face a  Difficulty until you’re used to the quirks of riding a giant bat, seahorse or rabbit. Expected  possessions: A decent saddle and a horse of no great worth.
+
+Stealth: A quiet step? Remaining unseen while the household searches for you? Pilfering,  purloining, and picking pockets? All covered. This Skill is the one-stop shop for burglars  and adulterers alike. (Okay, you might want some Climb and Lie in there as well.) Stealth  is versatile, useful for all manner of deviousness. If this sort of mischief is a major part  of your game, your GM may break Stealth up into a variety of Skills—moving unseen,  moving unheard, confounding traps and so forth. But for most games, one broad Skill  suffices. Expected possessions: A black cloak with hood and scarf. 
+
+Weapon Skill _______: Pick a category of weapons like “bows” or “axes.” You’ve been  trained to hurt and kill with weapons of that type. You can choose “empty hand striking”  or “grappling” as Weapon Skills too, instead of using the broader Fight Skill. While the categories encompass a lot (there’s no separate “bow” and “crossbow” Skills)  they’re still narrower than the generic Fight Skill. The difference between training and  talent is that a trained fighter can learn special maneuvers. Specifically, you can follow  Martial Paths, learn Techniques, and get special advantages when using a Weapon  Skill. You can never use a martial technique with the Fight Skill—that’s the drawback to  treating a sword, a club or an axe as if they’re interchangeable.
+(Martial paths and techniques are covered in greater detail starting on page 26.) Expected  possessions: A weapon of the appropriate type.
+## Intelegence Skills
+Counterspell: In the REIGN setting, snarling lines of occult force is something that can be  learned or intuited. In other settings, this Skill may be unavailable, or may be restricted.  It works just like the Dodge skill, by producing Gobble Dice. However, counter-casting  only works on spells that focus on the counterspeller. If the sorcerer collapses the tower  you’re in, counterspelling won’t save you. Expected possessions: Lucky charm or talisman.
+
 The ‘Expert’ Skill
-If you want a Skill that’s not listed on here, and nothing seems to cover it, just take a
-Skill in “Expert ______” with your desired talent filling in the blank. Then file it under
-whatever Stat works best. If you want to be a great chef, you could put “Expert Cook” on
-your sheet (probably under Sense.) You could put “Expert Animal Trainer” under Charm
-or Command, depending on your methods. Or you might want to put a “Jump Expert”
-Skill under Coordination instead of relying on Body+Athletics. Just be sure to check with
-your GM so she can veto “Blow People Up With My Mind” if it doesn’t fit her setting.
-The Knowledge version of “Expert” is “Student,” just to be exacting.
+If you want a Skill that’s not listed on here, and nothing seems to cover it, just take a Skill in “Expert ______” with your desired talent filling in the blank. Then file it under whatever Stat works best. If you want to be a great chef, you could put “Expert Cook” on your sheet (probably under Sense.) You could put “Expert Animal Trainer” under Charm or Command, depending on your methods. Or you might want to put a “Jump Expert” Skill under Coordination instead of relying on Body+Athletics. Just be sure to check with your GM so she can veto “Blow People Up With My Mind” if it doesn’t fit her setting. The Knowledge version of “Expert” is “Student,” just to be exacting.
 
-Healing: This is the mundane ability to clean wounds, apply bandages, and whip up herbal 
-remedies. Expected possessions: Bandages, splint materials and herbs of various potencies.
-Language ________: Every character starts out with one Master Die in his native 
-language. If you wish, you can buy additional dice, to help explain complex concepts, 
-or understand them, or read. You can also purchase this Skill multiple times, picking a 
-different language each time. Language Skills are unique in that you combine your Skill 
-with your listener’s Skill and roll that as a pool. This is explained in greater detail on page 
-50. Expected possessions: A set of decent, if unremarkable, clothes.
-Lore: You’re educated. You know legends, history, folk tales, the great myths of the major 
-religions—you’ve studied it all. The GM may not allow you to roll Lore for some facts, 
-simply because they are unknown to any but experts. If you want to really specialize in 
-some field of knowledge, be a Student of it. (See the “Student” Skill, below.) Expected 
-possessions: Several fragile books and scrolls.
-Strategy: Tacticians fight battles, but the strategist fights the war. Past the level of yelling for 
-the cavalry to shore up a flank is the larger picture of controlling supply lines, encircling or 
-bypassing fortresses and encampments, choosing propitious battlegrounds, or winning by 
-avoiding conflict altogether. Expected possessions: None.
-Student of _________: You’re knowledgeable about something that’s not already on the 
-list. It’s a way to let people have characters who are wise in the ways of identifying birds 
-or designing aqueducts without listing every field of human study. Expected possessions: 
-Depends entirely on the field of study.
-Tactics: You’re an expert at allocating unit-scale military force. It’s not much good for 
-engagements involving fewer than ten people or more than a hundred, but that covers an 
-awful lot of encounters. Expected possessions: A game with pieces and board of decent quality.
-Skill Descriptions
-Magic
-There’s no “magic” or “enchantment” or “sorcery” Skill listed under any of the Stats. That’s
-intentional. Many people like designing their own setting and deciding how magic works
-and what it is—which is another way of looking at what it means. In a magical world,
-enchantment underlies societies and history and what people expect. A generic Skill description
-isn’t going to cover that. If you’re building your own REIGN setting, think hard about what
-you want magic to do and be good for, and work hard at explaining that to the players. 
-The default in REIGN is a single Skill that combines with different Stats depending on what
-kind of spell is being cast. This is covered in greater detail in the Magic chapter.
+Healing: This is the mundane ability to clean wounds, apply bandages, and whip up herbal  remedies. Expected possessions: Bandages, splint materials and herbs of various potencies.
 
-Command Skills
-Haggle: You drive a hard bargain. By debating, wheedling, brow-beating and feigning 
-indignation, you can get the best price for items, whether buying or selling. Expected 
-possessions: A rather nice hat with matching belt and gloves.
-Inspire: You can provoke the higher, nobler (or crueler, coarser) emotions in those who listen. 
-An inspiring speech could convince the jury to let your friend off, by inspiring mercy. Or you 
-could give the rousing address that spurs your army into making that last, doomed charge. 
-Inspire is predicated on sympathy. It’s the Skill of inspiring speech could convince the jury to let your friend off, by inspiring mercy. Or you 
-could give the rousing address that spurs your army into making that last, doomed charge. 
-Inspire is predicated on sympathy. It’s the Skill of getting people to feel what you feel (or, 
-more deviously, to feel what you appear to feel). It can also be used to taunt people into 
-being crazed wrath, but usually you use it to get people on your side.
-This Skill is only useful when used on crowds or groups. If there is a conversation with 
-give and take, it’s probably more a Fascinate situation. Expected possessions: none.
-Intimidate: Where Inspire provokes a broad range of emotions, Intimidate focuses on 
-fear. With an Intimidate set, you present yourself as a person it would be foolish to cross. 
-The nature of the threat doesn’t matter—Intimidation coveres anything from political 
-ruination to magical revenge to a brutal beating. It can be used on groups or individuals. 
-Expected possessions: none.
-Perform ________: You put on a good show for the crowd. Pick a general category when 
-you select the Skill. It could be that you’re a storyteller, an actor or a musician. You can 
-buy this Skill more than once for different specialties. 
-Perform is also listed as a Coordination Skill, but that’s for full-body action 
-performances. With Command, it’s more an issue of being a spellbinding speaker or 
-having compelling expression. Expected possessions: An appropriate musical instrument 
-or two, for a musician. Otherwise nothing.
-Sense Skills
-Direction: Your sense of direction gives you a feel for your location. Some part of you is 
-aware of distance, height, and direction. You can find North, retrace your steps, and guide 
-your ship back to port by dead reckoning. Expected possessions: A map of the local region.
-Eerie: With the Eerie sense you detect the uncanny, the unnatural and the unwholesome. 
-Your eerie sense won’t protect you from a lurking footpad, but it might alert you that 
-you’re in a haunted (or cursed, or ill-omened) house. Sorcerers hate people with good 
-eerie senses, unless those people have been co-opted as apprentices. (Some GMs may 
-disallow Eerie in their setting.) Expected possessions: A good-luck charm. 
-Empathy: This social sense permits you to gauge those with whom you speak and interact. 
-Use it to see through lies, detect influence of your mood with guile, and spot the envious 
-ex-lover at the wedding. Expected possessions: A memento of a bittersweet love affair.
-Hearing: Your perception of sound is exceptional. You’re superb at eavesdropping, hearing 
-muffled footsteps in dark alleys, and recognizing which string on your friend’s violin is just a 
-trifle sharp. Expected possessions: none.
+Language ________: Every character starts out with one Master Die in his native  language. If you wish, you can buy additional dice, to help explain complex concepts,  or understand them, or read. You can also purchase this Skill multiple times, picking a  different language each time. Language Skills are unique in that you combine your Skill  with your listener’s Skill and roll that as a pool. This is explained in greater detail on page  50. Expected possessions: A set of decent, if unremarkable, clothes.
 
-Scrutinize: Scrutinize measures your character’s ability to look around a locale and 
-reconstruct what happened there, or glean information that isn’t immediately obvious. Use 
-it to track someone in the forest, find the hidden panel in the chest, or get a clue from a crime 
-scene. Expected possessions: none.
-Sight: This Skill improves your chances of spotting the trapdoor you’re about to step on, 
-the sail on the distant horizon, or the stealthy assassin taking aim from that minaret. 
-Expected possessions: none.
-Charm Skills
-Fascinate: You can talk and make someone want to keep listening to you. It measures your 
-conversational finesse, your talent for listening (or making people think you’re listening) and 
-your general ability to help people like you. If you want to charm, seduce, persuade or simply 
-amuse an individual, this is the Skill. Expected possessions: A mirror.
-Graces: Short for “social graces,” this measures your manners. It’s not just obvious 
-stuff like “Never pinch the hostess’ husband right in front of her.” It also indicates 
-knowledge of foreign cultural mores. Take this Skill and you know how to dine cordially, 
-dance passably, flirt acceptably, and accept (or decline) a royal gift graciously. Expected 
-possessions: A set of fine clothes.
-Jest: “So these two barbarians walk into a barber shop…” This measures your ability 
-to make people laugh, through high-minded literary sophistry with low-brow fart gags. 
-Expected possessions: none.
-Lie: Whether you’re stretching the truth, fabricating claims of valor or fraudulently 
-name-dropping, this is the Skill you need to remain unflustered and consistent. It 
-is typically countered with Empathy. (Some lies may be detected by other means—
-Knowledge+Tactics or Strategy if someone’s gassing about a famous battle, say. The GM 
-judges and should tell you which pool to roll.) Expected possessions: none.
-Plead: Rarely a Skill you want to use, it may be one you have to use. Plead plays on the 
-kindness or sympathy (or disgust) of someone you cannot sway through other means. You 
-can plead for your life, plead for a loan, or plead for the good of the country. It’s all covered 
-by this single, shameless Skill. Expected possessions: none.
+Lore: You’re educated. You know legends, history, folk tales, the great myths of the major  religions—you’ve studied it all. The GM may not allow you to roll Lore for some facts,  simply because they are unknown to any but experts. If you want to really specialize in  some field of knowledge, be a Student of it. (See the “Student” Skill, below.) Expected  possessions: Several fragile books and scrolls.
 
+Strategy: Tacticians fight battles, but the strategist fights the war. Past the level of yelling for  the cavalry to shore up a flank is the larger picture of controlling supply lines, encircling or  bypassing fortresses and encampments, choosing propitious battlegrounds, or winning by  avoiding conflict altogether. Expected possessions: None.
+
+Student of _________: You’re knowledgeable about something that’s not already on the  list. It’s a way to let people have characters who are wise in the ways of identifying birds  or designing aqueducts without listing every field of human study. Expected possessions:  Depends entirely on the field of study.
+
+Tactics: You’re an expert at allocating unit-scale military force. It’s not much good for  engagements involving fewer than ten people or more than a hundred, but that covers an  awful lot of encounters. Expected possessions: A game with pieces and board of decent quality.
+
+## Willpower Skills
+Haggle: You drive a hard bargain. By debating, wheedling, brow-beating and feigning  indignation, you can get the best price for items, whether buying or selling. Expected  possessions: A rather nice hat with matching belt and gloves.
+
+Inspire: You can provoke the higher, nobler (or crueler, coarser) emotions in those who listen.  An inspiring speech could convince the jury to let your friend off, by inspiring mercy. Or you  could give the rousing address that spurs your army into making that last, doomed charge.  Inspire is predicated on sympathy. It’s the Skill of inspiring speech could convince the jury to let your friend off, by inspiring mercy. Or you  could give the rousing address that spurs your army into making that last, doomed charge.  Inspire is predicated on sympathy. It’s the Skill of getting people to feel what you feel (or,  more deviously, to feel what you appear to feel). It can also be used to taunt people into  being crazed wrath, but usually you use it to get people on your side.
+This Skill is only useful when used on crowds or groups. If there is a conversation with   give and take, it’s probably more a Fascinate situation. Expected possessions: none.
+
+Intimidate: Where Inspire provokes a broad range of emotions, Intimidate focuses on  fear. With an Intimidate set, you present yourself as a person it would be foolish to cross.  The nature of the threat doesn’t matter—Intimidation coveres anything from political  ruination to magical revenge to a brutal beating. It can be used on groups or individuals.  Expected possessions: none.
+
+Perform ________: You put on a good show for the crowd. Pick a general category when  you select the Skill. It could be that you’re a storyteller, an actor or a musician. You can  buy this Skill more than once for different specialties. 
+Perform is also listed as a Coordination Skill, but that’s for full-body action  performances. With Command, it’s more an issue of being a spellbinding speaker or  having compelling expression. Expected possessions: An appropriate musical instrument  or two, for a musician. Otherwise nothing.
+## Perception Skills
+Direction: Your sense of direction gives you a feel for your location. Some part of you is  aware of distance, height, and direction. You can find North, retrace your steps, and guide  your ship back to port by dead reckoning. Expected possessions: A map of the local region.
+
+Eerie: With the Eerie sense you detect the uncanny, the unnatural and the unwholesome.  Your eerie sense won’t protect you from a lurking footpad, but it might alert you that  you’re in a haunted (or cursed, or ill-omened) house. Sorcerers hate people with good  eerie senses, unless those people have been co-opted as apprentices. (Some GMs may  disallow Eerie in their setting.) Expected possessions: A good-luck charm. 
+
+Empathy: This social sense permits you to gauge those with whom you speak and interact.  Use it to see through lies, detect influence of your mood with guile, and spot the envious  ex-lover at the wedding. Expected possessions: A memento of a bittersweet love affair.
+
+Hearing: Your perception of sound is exceptional. You’re superb at eavesdropping, hearing  muffled footsteps in dark alleys, and recognizing which string on your friend’s violin is just a  trifle sharp. Expected possessions: none.
+
+Scrutinize: Scrutinize measures your character’s ability to look around a locale and  reconstruct what happened there, or glean information that isn’t immediately obvious. Use  it to track someone in the forest, find the hidden panel in the chest, or get a clue from a crime  scene. Expected possessions: none.
+
+Sight: This Skill improves your chances of spotting the trapdoor you’re about to step on,  the sail on the distant horizon, or the stealthy assassin taking aim from that minaret.  Expected possessions: none.
+## Charisma Skills
+Fascinate: You can talk and make someone want to keep listening to you. It measures your  conversational finesse, your talent for listening (or making people think you’re listening) and  your general ability to help people like you. If you want to charm, seduce, persuade or simply  amuse an individual, this is the Skill. Expected possessions: A mirror.
+
+Graces: Short for “social graces,” this measures your manners. It’s not just obvious  stuff like “Never pinch the hostess’ husband right in front of her.” It also indicates  knowledge of foreign cultural mores. Take this Skill and you know how to dine cordially,  dance passably, flirt acceptably, and accept (or decline) a royal gift graciously. Expected  possessions: A set of fine clothes.
+
+Jest: “So these two barbarians walk into a barber shop…” This measures your ability  to make people laugh, through high-minded literary sophistry with low-brow fart gags.  Expected possessions: none.
+
+Lie: Whether you’re stretching the truth, fabricating claims of valor or fraudulently  name-dropping, this is the Skill you need to remain unflustered and consistent. It  is typically countered with Empathy. (Some lies may be detected by other means— Knowledge+Tactics or Strategy if someone’s gassing about a famous battle, say. The GM  judges and should tell you which pool to roll.) Expected possessions: none.
+
+Plead: Rarely a Skill you want to use, it may be one you have to use. Plead plays on the  kindness or sympathy (or disgust) of someone you cannot sway through other means. You  can plead for your life, plead for a loan, or plead for the good of the country. It’s all covered  by this single, shameless Skill. Expected possessions: none.
+
+
+***
+
+### Interpersonal skills (→ mostly CHA, some WIL, PER, INT)
+
+| Skill              | Primary | Brief description                                                                 | Example equipment                                                                 | Alt‑attr uses                              |
+|--------------------|---------|-----------------------------------------------------------|------------------------------------------------------------------------|--------------------------------------------|
+| **Brag**           | CHA     | Boast convincingly about your feats and reputation.       | Fancy armor, trophy weapon, medals, journal of exploits                | INT (recall details), WIL (confidence)     |
+| **Flirt / Romance**| CHA     | Attract romantic or sexual interest.                      | Fine clothes, perfume, jewelry, love letter, small gifts               | PER (read body language)                   |
+| **Empathize / Read Person** | PER | Detect emotions, mood, and underlying intent.        | Keepsakes, mirror, journal, comfort objects, simple clothing           | CHA (rapport), WIL (emotional control)     |
+| **Gamble**         | CHA     | Play games of chance and manage risk.                     | Dice, cards, table, tokens, lucky charm, gambling den key              | INT (odds math), WIL (discipline bets)     |
+| **Handle Animals** | CHA     | Calm, train, and command nonsapient animals.              | Whip, lasso, feed pouch, grooming tools, riding gear, bell, whistle    | AGI (coordination), WIL (command presence) |
+| **Intimidate**     | WIL     | Overawe or frighten others through presence or threat.    | Heavy weapon, armor, cloak, symbol of authority, dark mask             | STR (size), CHA (style)                    |
+| **Lead / Leadership** | CHA   | Orchestrate groups, give orders, and inspire action.     | Banner, horn, standard armor, portable seat, map, writing tools        | WIL (resolve), INT (strategy)              |
+| **Lie / Bluff**    | CHA     | Deceive with plausible lies.                              | False documents, costume, cosmetic kit, small props, disguise kit      | PER (detect truth), INT (planning)         |
+| **Persuade / Rapport** | CHA | Negotiate, bargain, and build goodwill.                   | Good clothes, ledger, coins, samples, gift box, fine pen               | INT (evidence), WIL (conviction)           |
+| **Music / Performance** | CHA | Entertain with song, instrument, or stagecraft.          | Instrument, sheet music, costume, mask, small props, stool, music case | AGI (physical skill), INT (theory)         |
+| **Perform (Dance/Act)** | CHA | Entertain with physical performance or acting.           | Costume, mask, props, makeup, stage, lanterns, whistles                | AGI (movement)                             |
+| **Investigation (Social)** | INT | Interview people and read social clues.               | Questionnaire, ledger, coin for bribes, small gifts, disguise kit      | PER (spot tells), CHA (rapport)            |
+
+***
+
+### Crafting / Work skills (→ DEX, INT, STR, CHA)
+
+| Skill                | Primary | Brief description                                         | Example equipment                                                                | Alt‑attr uses                       |
+|----------------------|---------|-----------------------------------------------------------|----------------------------------------------------------------------------------|-------------------------------------|
+| **Alchemy (Brews)**  | INT     | Make potions, bombs, and alchemical reagents.             | Retort, alembic, mortar/pestle, glassware, stoves, herbs, vials, fireproof coat  | DEX (precision), STR (mixing)       |
+| **Architecture / Design** | INT | Plan buildings, fortifications, and vehicles.            | Measuring tools, drafting tools, paper, inks, clay model, small tools set        | CON (site endurance), STR (blueprints)|
+| **Blacksmithing / Smithing** | STR | Forge metal weapons, armor, and tools.                | Forge, anvil, tongs, hammers, quenching tub, leather apron, gloves               | DEX (fine work), INT (design)       |
+| **Carpentry / Woodcraft** | STR | Shape wood into structures and objects.                  | Saw, adze, chisel, plane, clamps, measuring tools, protective goggles            | DEX (joinery), INT (design)         |
+| **Cooking / Brewing** | DEX   | Prepare meals and drinks; may include brewing.             | Pots, knives, cutting board, spices, grinder, cauldron, ladles, small stove      | INT (recipes), CHA (presentation)   |
+| **Fletching / Archery Crafts** | DEX | Make arrows, bolts, and light ranged components.    | Fletching tools, knives, feathers, glue, sandpaper, drying rack, quiver          | INT (ballistics), STR (material prep)|
+| **Forgery / Document Craft** | INT | Create false papers, seals, and badges.               | Engraving tools, ink, stamps, paper, wax, seal press, magnifying glass         | CHA (plausible context), DEX (finer detail)|
+| **Jewelry / Fine Craft** | DEX | Make rings, crowns, and small ornamental items.           | Jeweler’s tools, visor, small hammer, anvil, polishing cloth, molds, gemstones   | INT (design), CHA (artistic value)  |
+| **Mechanics / Engineering** | INT | Build and maintain machines, engines, and vehicles.    | Wrench, spanner, screwdrivers, measuring tools, diagrams, nuts/bolts, oil        | STR (assembly), DEX (precision)     |
+| **Tailoring / Clothwork** | DEX | Craft clothing from cloth, leather, or fur.              | Sewing kit, needles, thimble, leather punch, awl, measuring tape, dyes, fabric   | INT (pattern design), CHA (style)   |
+| **Calligraphy / Artisan** | DEX | Create fine writing or decorative art.                   | Pen set, inkwell, brushes, paper, pigments, seal, ruler, blotter                 | INT (composition), CHA (presentation)|
+| **Craft (General)**  | DEX     | Make practical items like leatherwork, glass, etc.        | Toolkit, vice, sanding block, small furnace, molds, safety glasses               | INT (recipes), STR (strength tasks)  |
+
+***
+
+### Exploration / Physical‑movement skills (→ STR, DEX, AGI, CON)
+
+| Skill              | Primary | Brief description                                                 | Example equipment                                                                 | Alt‑attr uses                              |
+|--------------------|---------|-------------------------------------------------------------------|------------------------------------------------------------------------------|---------------------------------------|
+| **Climb**          | STR/AGI | Ascend vertical surfaces and rough terrain.                       | Rope, harness, pitons, climbing spikes, gloves, chalk bag, helmet            | AGI (balance), CON (endurance)        |
+| **Drive / Vehicle Control** | AGI | Control carts, wagons, chariots, or simple vehicles.         | Whip, harness, reins, repair tools, map, basic tools, protective gear        | STR (muscle control), CON (long hauls)|
+| **Endurance**      | CON     | Sustain long physical effort (walks, runs, swims, marches).       | Sturdy boots, waterskin, ration pouch, staff, sun hat, light clothing        | STR (carry), AGI (efficient pacing)   |
+| **Gymnastics / Acrobatics** | AGI | Balance, tumble, and move fluidly over obstacles.            | Gym mat, practice rope, soft padding, chalk, flexible clothing, light shoes  | STR (power), DEX (coordination)       |
+| **Heal / First Aid** | INT   | Provide basic medical care and stabilize wounds.                  | Bandages, splints, herbal kit, antiseptic, tweezers, field kit, poultices    | PER (spot injuries), CON (stamina)    |
+| **Jump**           | STR/AGI | Leap across gaps or upward.                                       | Soft ground markers, measuring rope, light training weights, chalk, hurdles  | AGI (timing), CON (landing)           |
+| **Lift / Might**   | STR     | Lift, carry, and throw heavy objects.                             | Lifting straps, gloves, harness, pulley, cart, crowbar, simple tools         | CON (sustain), DEX (control)          |
+| **Navigate / Direction** | INT | Use maps, landmarks, and dead reckoning to avoid getting lost.  | Map, compass, sextant, transit, notebook, weatherproof sheet, colored pencils| PER (landmark sense)                  |
+| **Ride**           | AGI     | Control mounts such as horses, exotic beasts, or beasts of burden.| Saddle, bit/bridle, curry comb, feed sack, horseshoes, lantern, spare reins  | STR (control), CON (long rides)       |
+| **Rowing** | STR | Propel watercraft with oars.                                                  | Oars, rowlocks, life jacket, waterproof cloak, oiled rope, small tools set   | CON (endurance), AGI (rhythm)         |
+| **Run / Sprint**   | AGI     | Move quickly on foot (short bursts or sustained).                 | Light running shoes, sweatband, light armor, water flask, pacing stones      | CON (stamina), STR (push)             |
+| **Swim**           | STR/AGI | Move through water and avoid drowning.                            | Swim gear, goggles, light webbing, floatation belt, rope, waterproof pouch   | CON (endurance), PER (current sense)  |
+| **Stealth (Movement)** | AGI | Move quietly and remain unseen.                                   | Dark cloak, soft boots, shadowy clothing, light armor, grappling hook, rope  | PER (spotting ambush), DEX (precision)|
+
+***
+
+### Combat
+
+| Skill                    | Primary | Brief description                                        | Example equipment                                                            | Alt‑attr uses                          |
+|--------------------------|---------|----------------------------------------------------------|------------------------------------------------------------------------------|----------------------------------------|
+| **Athletics (Brawny)**  | STR     | Jumping, vaulting, lifting, forced movement, grappling.   | Wrestling belt, training dummies, grappling gear, gloves, heavy boots       |AGI (speed), CON (stamina)              |
+| **Melee (Heavy Weapons)** | STR   | Use two‑handed weapons, polearms, and heavy bludgeons.    | Greatsword, maul, polearm, heavy shield, padded gauntlets,      | CON (stamina), DEX (timing)            |
+| **Shield & Parry**      | STR     | Defend with shields or weapons; block and bind.           | Buckler, tower shield, parrying dagger, padded gauntlets,      | DEX (timing), AGI (positioning)        |
+| **Breaking Objects**    | STR     | Shatter doors, bars, restraints, and barriers.            | Crowbar, hammer, battering ram, chisels, spare tools,          | DEX (aim), CON (endurance)             |
+| **Ranged (Arms)**       | DEX     | Fire bows, crossbows, and thrown weapons.                 | Bow, arrows, quiver, bowstring kit, spare bolts, throwing knives, shooting rest   | AGI (tracking), INT (range math)     |
+| **Finesse / Thievery**  | DEX     | Lockpicking, pickpocketing, sleight‑of‑hand, trap work.   | Lockpicks, slim tools, small pouches, fake coin, cards, rigged dice          | WIL (risk discipline), PER (spot traps)  |
+| **Weapon Skill (Bows, Light Blades, Axes, etc.)** | AGI | Specialized proficiency with a weapon type.| Weapon of type, practice dummy, whetstone, scabbard, holster, maintenance kit  | STR (power), INT (technique)     |
+| **Brawling / Fight**    | STR     | Improvised unarmed or weapon‑agnostic melee.               | Gloves, knuckledusters, basic armor, wooden staff, training dummy           | DEX (initiative), CON (taking hits)      |
+| **Dodge**               | AGI     | Evade physical attacks and hazards.                        | Light armor, agility boots, training dummy, practice weapons, mats          | PER (read attacks)                       |
+
+***
+
+### Knowledge 
+
+| Skill                | Primary | Brief description                                              | Example equipment                                                                 | Alt‑attr uses                              |
+|----------------------|---------|----------------------------------------------------------------|-------------------------------------------------------------------------------|---------------------------------------|
+| **Criminal Underworld** | INT | Know syndicates, gangs, and their operations.                   | Ledger, code notes, street map, bribe pouch, disguise kit, communication tools| CHA (influence), PER (info‑gathering) |
+| **Culture & Society** | INT   | Customs, etiquette, noble houses, and social structures.        | Style guide, noble crest manual, etiquette pamphlet, fine clothing, ledger    | CHA (social navigation)               |
+| **History**          | INT     | Recall major past events, wars, and legends.                   | Chronicle, histories, scrolls, ink set, archival notes, candle, quill         | PER (landmark sense)               |
+| **Magic / Arcana**   | INT     | Theory and mechanics of spells, rituals, and magical items.    | Spellbook, sigil tablets, talismans, research tools, ink, light, candle    | WIL (casting control), PER (unseen signs)|
+| **Monsters / Bestiary** | INT | Know creatures’ ecology, strengths, and weaknesses.             | Bestiary, notes, diagrams, specimen jar, field kit, hunting tools                | PER (spot tracks), STR (combat use)        |
+| **Nature / Natural Lore** | INT | Flora, fauna, weather, and ecological systems.                | Herbal kit, field notes, wax leaf, knife, compass, magnifying glass             | PER (tracking), STR (harvesting)           |
+| **Religion / Religious Lore** | INT | Myths, rites, doctrines, and religious bodies.            | Religious texts, prayer beads, holy symbol, oil, simple robes, study lamp        | CHA (courtship), PER (ritual sense)        |
+| **Rumors & Gossip**  | INT     | Parse and track legends, rumors, and uncertain stories.        | Journal, rumor roll, coin for bribes, disguise kit, tavern map                  | PER (spot lies), CHA (cultivate sources)   |
+| **Strategy / Military Lore** | INT | Grand strategy, logistics, war‑planning, and high‑level tactics.| Map set, supply ledger, miniature board, writing tools, cipher ring              | WIL (endurance)                            |
+| **Plans & Fortifications** | INT | Design fortresses, siege works, and defensive layouts.       | Engineering tools, surveyor’s poles, chalk, stakes, diagram boards, ink          | STR (site work)                            |
+| **Arcane / Occult Lore** | INT | Secret and forbidden arcana, esoteric traditions.              | Forbidden tome, cipher book, wax seal, ink, candle, lockbox                      | WIL (willpower in rituals)                |
+| **Research / Student** | INT   | Deep study in niche fields and academic inquiry.               | Library pass, ink, quill, lamp, reference notes                                | PER (spot contradictions)            |
+| **Writing / Creative Expression** | INT | Compose essays, scripts, hymns, or other written works.| Ink, quills, paper, portfolio, bookbinding tools, ruler, wax seal               | CHA (publishing, performance)              |
+| **Medicine / Healing Lore** | INT | Diagnosis, surgery, disease treatment, and poison management.| Diagnosis tools, surgical kit, poisons set, antidotes, ledger, apron             | PER (read symptoms), CHA (bedside manner)  |
+| **Cryptology / Codes** | INT   | Make and break ciphers, secret scripts, and encoded messages.  | Cipher wheel, codebook, writing tools, wax, ink, magnifying glass               | WIL (discipline), PER (pattern spotting)   |
+| **Cartography**      | INT     | Create and read maps accurately.                               | Map boards, inks, pencils, compass, rulers, protractor, magnifying glass         | PER (landmark sense)                       |
+| **Language**         | INT     | Speak, read, and write languages.                              | Phrasebook, script lexicon, writing tools, dictionary, small mirror              | CHA (debate), PER (nuance)                 |
+
+***
+
+### Stealth / Subterfuge / “Intrigue” (→ DEX, AGI, PER, WIL, CHA)
+
+| Skill                  | Primary | Brief description                                                                 | Example equipment                                                                 | Alt‑attr uses                              |
+|------------------------|---------|------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|--------------------------------------------|
+| **Alertness / Scrutinize** | PER | Spot subtle details, hazards, and hidden objects.                              | Magnifying glass, lantern, chalk, measuring tape, investigation kit              | INT (logic), WIL (focus)                   |
+| **Conceal Object**     | DEX     | Hide small items on your person or in the environment.                           | Hidden pouch, belt knives, secret compartments, small tools, decoy boxes          | PER (spot searchers)                       |
+| **Disguise**           | CHA     | Alter appearance to pass as another person or class.                             | Makeup kit, wig, costume, cloak, mask, small mirror, false documents             | DEX (fine detail), PER (spot flaws)        |
+| **Eavesdrop**          | PER     | Listen to quiet or distant conversations.                                        | Ear cup, thin fabric, noise‑dampening gear, chalk, small tools                   |
