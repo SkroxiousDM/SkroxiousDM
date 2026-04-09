@@ -156,8 +156,8 @@ Close combat with brute force.
 Specialties:  
 - Brawling (unarmed, improvised blows)  
 - Heavy Weapons (two‑handers, polearms, great axes)  
-- Shield & Parry (blocks, weapon binds)  
-- Breaking Objects (doors, bars, restraints)
+- Shield 
+- Parry (blocks, weapon binds)  
 
 **Fortitude (STR/CON)** – [Exploration]  
 Enduring strain by sheer toughness and power.  
@@ -308,7 +308,7 @@ Specialties:
 - Fearlessness (horror, intimidation)  
 - Concentration (rituals, long tasks under stress)  
 - Psychic Resistance (mind attacks, domination)  
-- Stoicism (pain, humiliation, social pressure)
+- Composure (pain, humiliation, social pressure)
 
 **Presence / Command (WIL)** – [Interpersonal]  
 Authoritative impact and leadership.  
@@ -335,7 +335,8 @@ Passive and active noticing of the environment.
 Specialties:  
 - Spotting (visual details, movement)  
 - Listening (murmurs, distant sounds)  
-- Scent & Taste (odors, tainted food/drink)  
+- Scent (aromas/odors)
+- Taste (tainted food/drink)  
 - Eerie Sense (unnatural presences, odd vibes)
 
 **Search (PER)** – [Intrigue, Exploration]  
@@ -716,9 +717,31 @@ Plead: Rarely a Skill you want to use, it may be one you have to use. Plead play
 
 ### Stealth / Subterfuge / “Intrigue” (→ DEX, AGI, PER, WIL, CHA)
 
-| Skill                  | Primary | Brief description                                                                 | Example equipment                                                                 | Alt‑attr uses                              |
-|------------------------|---------|------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|--------------------------------------------|
-| **Alertness / Scrutinize** | PER | Spot subtle details, hazards, and hidden objects.                              | Magnifying glass, lantern, chalk, measuring tape, investigation kit              | INT (logic), WIL (focus)                   |
-| **Conceal Object**     | DEX     | Hide small items on your person or in the environment.                           | Hidden pouch, belt knives, secret compartments, small tools, decoy boxes          | PER (spot searchers)                       |
-| **Disguise**           | CHA     | Alter appearance to pass as another person or class.                             | Makeup kit, wig, costume, cloak, mask, small mirror, false documents             | DEX (fine detail), PER (spot flaws)        |
-| **Eavesdrop**          | PER     | Listen to quiet or distant conversations.                                        | Ear cup, thin fabric, noise‑dampening gear, chalk, small tools                   |
+| Skill                  | Primary | Brief description                                           | Example equipment                                                        | Alt‑attr uses                              |
+|------------------------|---------|-------------------------------------------------------------|--------------------------------------------------------------------------|--------------------------------------------|
+| **Alertness / Scrutinize** | PER | Spot subtle details, hazards, and hidden objects.           | Magnifying glass, lantern, chalk, measuring tape, investigation kit      | INT (logic), WIL (focus)                   |
+| **Conceal Object**     | DEX     | Hide small items on your person or in the environment.      | Hidden pouch, belt knives, secret compartments, small tools, decoy boxes | PER (spot searchers)                       |
+| **Disguise**           | CHA     | Alter appearance to pass as another person or class.        | Makeup kit, wig, costume, cloak, mask, small mirror, false documents     | DEX (fine detail), PER (spot flaws)        |
+| **Eavesdrop**          | PER     | Listen to quiet or distant conversations.                   | Ear cup, thin fabric, noise‑dampening gear, chalk, small tools           |
+
+
+Athletics (Str)
+Awareness (Per)
+Dexterity (Ag)
+*Discipline (Wil)* 
+*Fortitude (Tgh)*
+Intuition (Per)
+Linguistics (Int)
+Logic (Int)
+Lore (Int)
+Medicae (Int)
+**Melee (WS)**
+Navigation (Int)
+Presence (Wil)
+Piloting (Ag)
+Psychic Mastery (Wil)
+**Ranged (BS)**
+Rapport (Fel)
+*Reflexes (Ag)*
+Stealth (Ag)
+Tech (Int)
