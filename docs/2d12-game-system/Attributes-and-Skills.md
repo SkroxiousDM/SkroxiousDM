@@ -9,7 +9,7 @@ Characters are defined by eight core attributes, divided into Physical and Menta
 - **Agility (AGI):** Reflexes, balance, and body control.  
 - **Constitution (CON):** Endurance, resistance to harm, and toughness.  
 
-**Stamina** = (STR + DEX + AGI + CON) ÷ 4, rounded down.
+**Stamina** = (STR + DEX + AGI + CON)
 
 #### 2.1.2 Mental Attributes
 
@@ -18,13 +18,13 @@ Characters are defined by eight core attributes, divided into Physical and Menta
 - **Perception (PER):** Awareness, senses, and intuitive insight.  
 - **Charisma (CHA):** Social presence, charm, and leadership.  
 
-**Resolve** = (INT + WIL + PER + CHA) ÷ 4, rounded down.
+**Resolve** = (INT + WIL + PER + CHA)
 
 #### 2.1.3 Initiative
 
 **Initiative** determines turn order in combat.  
 
-**Initiative** = (AGI + INT) ÷ 2, rounded down.  
+**Initiative** = (AGI + INT)  
 
 Characters act from highest Initiative to lowest (see section 2.4.2).
 
