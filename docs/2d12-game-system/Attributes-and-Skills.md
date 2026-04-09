@@ -400,6 +400,18 @@ Specialties:
 - Riding: Directing a mount such as a horse or pony.
 - Sailing: Steering or piloting various watercraft.
 - Stealth: Sneaking about quietly and out of sight.
+- **Alertness:** Sense subtle details in your surroundings.  
+- **Conceal Object:** Hide items on your person or nearby.  
+- **Disguise:** Alter your appearance to pass as another.  
+- **Eavesdrop:** Listen to quiet or obscured conversations.  
+- **Escape Artist:** Slip out of restraints.  
+- **Hide:** Avoid visual detection.  
+- **Pick Lock:** Open locks without keys.  
+- **Pick Pocket:** Steal items unnoticed.  
+- **Sabotage:** Disable mechanical devices such as traps.  
+- **Search:** Systematically examine an area for details.  
+- **Sneak:** Move quietly to avoid being heard.  
+- **Track:** Follow trails left by creatures.
 ### Charisma Focuses
 - Animal Handling: Interacting with and caring for animals.
 - Animism: Knowledge and use of animism arcana. May also apply to Perception and/or Willpower when discerning information or attempting to enhance living creatures through some arcana.
@@ -414,6 +426,20 @@ Specialties:
 - Persuasion: Convincing others to agree with you.
 - Psychic: Using psychic arcana and communication effectively. May also apply to Willpower when resisting some arcana or struggling mind-to-mind.
 - Seduction: Navigating and succeeding at romantic encounters. Includes both long-term relationships and shortterm seductions.
+
+- **Brag:** Impress others with tales of your deeds.  
+- **Empathize:** Relate to someone on a personal level.  
+- **Flirt:** Attract romantic attention.  
+- **Gamble:** Make and manage wagers.  
+- **Handle Animals:** Interact with nonsapient animals.  
+- **Interrogate:** Extract information from unwilling subjects.  
+- **Intimidate:** Frighten or awe a creature.  
+- **Lead:** Inspire others to action.  
+- **Lie:** Convince someone that a falsehood is true.  
+- **Music:** Perform vocal or instrumental music.  
+- **Perform:** Dance, act, or otherwise perform physically.  
+- **Persuade:** Convince others through charm and grace.  
+- **Read Person:** Read emotions and body language.
 ### Constitution Focuses
 - Drinking: Consuming large quantities of alcohol and avoiding the aftereffects.
 - Rowing: Propelling a vessel with oars.
@@ -421,31 +447,47 @@ Specialties:
 - Stamina: Enduring fatigue, disease, and privation.
 - Swimming: Moving through the water and staying afloat.
 ### Dexterity Focuses
-- Artisan: Making handcrafted works of art such as paintings, sculptures, and fine clothing.
-- Calligraphy: Writing with artful penmanship.
-- Crafting: Making practical items with manual skills, like woodworking, leather working, glassblowing, etc.
-- Legerdemain: Using sleight of hand to trick others, hide things, and pick pockets.
-- Lock Picking: Opening locks without using keys.
-- Traps: Detecting and disarming traps and other mechanical devices.
+- **Artisan:** Making handcrafted works of art such as paintings, sculptures.
+    - **Forgery:** Produce convincing false artworks.  
+- **Calligraphy:** Writing with artful penmanship.
+    - **Forgery:** Produce convincing false documents.  
+- **Crafting __________:** Making practical items with manual skills not otherwise listed
+- **Alchemy:** Brew bombs and potions.  
+- **Carpentry:** Create wooden structures and items.  
+- **Cooking:** Prepare notable meals.  
+- **Fletching:** Craft ranged weapons and ammunition.   
+- **Jewelry:** Craft rings, crowns, and other adornments.
+    - **Forgery:** Produce convincing duplicates of badges signet rings, and Seals.  
+- **Tailoring:** Craft clothing from cloth or leather.
+- **Legerdemain:** Using sleight of hand to trick others, hide things, and pick pockets.
+- **Lock Picking:** Opening locks without using keys.
+- **Traps:** Detecting and disarming traps and other mechanical devices.
 ### Intelligence Focuses
-- Arcane Lore: Knowing about arcana and its various manifestations.
+- **Criminal Underworld:** Crime syndicates, their operations, and leaders.  
+- **Culture:** Knowing the traditions and beliefs of various cultures. Customs, folktales, and taboos.  
+- **History:** Knowing important events and personalities from the past.  
+- **Magic:** Magical sites, spells, rituals, items, and phenomena.  - Sorcery Lore: Studying forgotten and forbidden arts of corrupt arcana.
+- **Monsters:** Ecology, strengths, and weaknesses of creatures.  
+- **Natural Lore:** Knowing natural flora and fauna. Flora, fauna, and weather.   
+- **Religious Lore:** Knowing religious traditions and practices. Myths, rites, and religious practices.  
+- **Rumors:** Gossip, legends, and uncertain reports.  
+- **Society:** Noble etiquette and power structures.  
+- **Strategy:** Battle tactics and logistics.  
+- **Planar:** The many planes of existence and their traits.
+
 - Brewing: Making beers, ales, and other concoctions.
 - Cartography: Making and reading maps.
 - Cryptography: Creating and deciphering codes and ciphers.
-- Cultural Lore: Knowing the traditions and beliefs of various cultures.
-- Engineering: Knowing the practicalities of construction, building, and invention.
-- Evaluation: Determining the value of goods and objets d’art.
+- Engineering: Knowing the practicalities of construction, building, and invention.- **Architecture:** Design and construct buildings and vehicles. - **Mechanics:** Build and maintain machines and clockworks.   
+- Appraisal: Determining the value of goods and objets d’art.
 - Healing: Aiding the wounded and sick. Includes effective application of healing arcana. May also apply to Perception and/or Willpower when using certain arcana that affect the body.
 - Heraldry: Knowing coats of arms and royal families.
-- Historical Lore: Knowing important events and personalities from the past.
 - Military Lore: Knowing strategy, tactics, and famous applications thereof.
 - Musical Lore: Knowing musical traditions and songs.
-- Natural Lore: Knowing natural flora and fauna. May also apply to Perception when using the Nature Reading arcanum.
 - Nautical Lore: Knowing the sea, its creatures, ships, and sailing.
 - Navigation: Planning and following a route from one place to another.
-- Religious Lore: Knowing religious traditions and practices.
 - Research: Making a systematic investigation, usually using records, archives, and books.
-- Sorcery Lore: Studying forgotten and forbidden arts of corrupt arcana.
+
 - Writing: Expressing yourself with the written word.
 ### Perception Focuses
 - Empathy: Discerning the feelings and emotions of others.
@@ -469,7 +511,17 @@ Specialties:
 - Intimidation: Overawing others with physical presence and threats.
 - Jumping: Springing and leaping.
 - Might: Performing feats of raw power, such as lifting or holding up heavy objects.
-- Smithing: Forging items made of metal, from weapons to jewelry.
+- **Climb:** Ascend vertical surfaces.  
+- **Drive:** Control vehicles.  
+- **Endurance:** Sustain strenuous activity over time.  
+- **Gymnastics:** Cross unstable terrain or tumble safely.  
+- **Heal:** Provide mundane first aid.  
+- **Jump:** Clear vertical or horizontal gaps.  
+- **Lift:** Carry and throw heavy objects.  
+- **Navigate:** Follow maps and avoid becoming lost.  
+- **Ride:** Control nonsapient mounts.  
+- **Swim:** Move through deep water or other liquids.
+- **Blacksmithing:** Forge metal weapons and armor.  
 ### Willpower Focuses
 - Courage: Overcoming fear in the face of adversity.
 - Faith: Deriving inner strength through spiritual or moral belief.
@@ -477,17 +529,6 @@ Specialties:
 - Morale: Maintaining good spirits and confidence in yourself or your group. NPCs tend to use this focus more than player characters.
 - Purity: Maintaining purity of moral purpose, even in the face of corruption and temptation.
 - Self-Discipline: Focusing your mental energy or controlling your impulses and emotions.
-
-
-
-
-
-
-
-
-
-
-
 
 
 > __**Using Skills with Other Stats**__
