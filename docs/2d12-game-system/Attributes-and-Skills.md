@@ -515,3 +515,215 @@ Axes, Bludgeons, Climbing, Driving, Heavy Blades, Intimidation, Jumping, Might, 
 
 ### WILLPOWER: 
 Courage, Faith, Morale, and Self-Discipline.
+
+Body Skills
+Athletics: This is a catchall for physical tasks that don’t merit a their own Skill. If it’s not 
+running, climbing, riding, or enduring, it’s probably Athletics. Use it to jump, throw, and 
+lift heavy weights. Expected possessions: none.
+Endurance: Roll Endurance to keep running, or walking, or swimming past the point where 
+weaker (or less driven) individuals collapse. Expected possessions: none.
+Fight: This is the Skill for untrained brawling. Someone with a high Fight Skill lacks the 
+finesse of someone with a Weapon Skill (see “Weapon Skill,” below) but that’s rarely a 
+comfort when he buries his axe in your spleen.
+Using Skills with Other Stats
+Usually, a Skill combines with the Stat under which it’s listed. Almost every time you use the Parry Skill,
+it’s going to be paired with the Body Stat. However, there may be times when you want use a Skill
+in an unusual way. Your character might watch someone dueling and wish to evaluate her blocking
+ability. In this case, you could combine your Parry Skill with your Sense Stat, since you’re trying to
+sense how well someone parries. Similarly, Knowledge might work better than Charm with Jest if you
+were trying to make a particularly obscure in-joke to an audience of scholars. For such odd times out,
+it’s the GM’s call whether they can be used with another Stat and, if so, which Stat comes into play.
+Common Elements
+22
+Chapter Two
+Fight is used with any hand-to-hand weapon where it’s obvious how it hurts someone. 
+Even if you’d never seen a sword before, Fight would let you figure it out. Missile weapons 
+are another matter—training and control matter there. Also, exotic weapons that aren’t 
+dangerous without training are useless for Fight. Expected possessions: none.
+Parry: When you try to knock a weapon away before it hits, or meet force with force, that’s 
+a parry. You use this Skill to protect yourself or others near you. However, Parry presumes 
+that you’ve got something hard to parry with—a mailed forearm, a shield, a weapon of your 
+own. If you try to parry a weapon with nothing but your bare hands, you’re likely to get a 
+nasty cut on your elbow. Which still may be preferable to a nasty cut on the throat. (See 
+“Parry” on page 51 for more information.) Expected possessions: A shield or a dagger.
+Run: Cowards run from fights. Brave men run towards them. Cruel men run down 
+fleeing enemies. The Skill they all need is ‘Run’. Roll this to move fast on your feet. (To 
+keep running for a long distance, roll Endurance.) In a fight, you can move 15 feet every 
+round automatically. If you want to move farther than that, roll Body+Run. A success 
+lets you move farther—five feet for every point of Width. (See “Move” on page 123.) 
+Expected possessions: A comfortable pair of shoes.
+Vigor: This is not a Skill that is learned. It represents how well you overcome injury and 
+illness. You make Body+Vigor rolls to recover from combat (it’s described in detail on 
+page 114) so this is often a good bet for belligerent types. It’s also what you roll to resist 
+sickness. Expected possessions: none.
+Coordination Skills
+Climb: You can travel vertically with confidence. Scaling trees, cliffs, or a ship’s mast—
+it’s all the same. In combat, you can you can ascend five feet per round for every point of 
+Width in your set, if the surface is easy. If the conditions are inclement, it’s five feet for 
+every two points of Width. Or, if you’re not in immanent danger and can take your time, 
+a successful roll or two just gets you to the top. Expected possessions: A coil of rope.
+Dodge: You move your body away from a threat, so that it does not pain you. Ducking 
+punches, diving for safety, leaping over bonfires without singeing—all require Dodge 
+rolls. You cannot use Dodge to protect anyone but yourself. It’s described in greater 
+detail on page 47. Expected possessions: none.
+Perform ________: You can put on a good show. Pick a category of entertainment when 
+you select the Skill. You could be a juggler, acrobat, or dancer. You can buy this Skill 
+more than once for different specialties. 
+The Perform Skill is listed under Command as well, but that’s for putting on a show that’s 
+mostly about who you are, not what you’re doing. If there’s any question, just pick a Stat. 
+Expected possessions: A costume.
+Ride: You can get a dumb animal to do the work of hauling you around. Roll this to beat 
+the other riders in a race, guide your horse through the forest, or charge down on your 
+opponent in battle.
+Riding is very general. Riding a creature you’ve never mounted before, you may face a 
+Difficulty until you’re used to the quirks of riding a giant bat, seahorse or rabbit. Expected 
+possessions: A decent saddle and a horse of no great worth.
+Skill Descriptions
+23
+Character Generation
+Skill Descriptions
+Stealth: A quiet step? Remaining unseen while the household searches for you? Pilfering, 
+purloining, and picking pockets? All covered. This Skill is the one-stop shop for burglars 
+and adulterers alike. (Okay, you might want some Climb and Lie in there as well.) Stealth 
+is versatile, useful for all manner of deviousness. If this sort of mischief is a major part 
+of your game, your GM may break Stealth up into a variety of Skills—moving unseen, 
+moving unheard, confounding traps and so forth. But for most games, one broad Skill 
+suffices. Expected possessions: A black cloak with hood and scarf. 
+Weapon Skill _______: Pick a category of weapons like “bows” or “axes.” You’ve been 
+trained to hurt and kill with weapons of that type. You can choose “empty hand striking” 
+or “grappling” as Weapon Skills too, instead of using the broader Fight Skill.
+While the categories encompass a lot (there’s no separate “bow” and “crossbow” Skills) 
+they’re still narrower than the generic Fight Skill. The difference between training and 
+talent is that a trained fighter can learn special maneuvers. Specifically, you can follow 
+Martial Paths, learn Techniques, and get special advantages when using a Weapon 
+Skill. You can never use a martial technique with the Fight Skill—that’s the drawback to 
+treating a sword, a club or an axe as if they’re interchangeable.
+(Martial paths and techniques are covered in greater detail starting on page 26.) Expected 
+possessions: A weapon of the appropriate type.
+Knowledge Skills
+Counterspell: In the REIGN setting, snarling lines of occult force is something that can be 
+learned or intuited. In other settings, this Skill may be unavailable, or may be restricted. 
+It works just like the Dodge skill, by producing Gobble Dice. However, counter-casting 
+only works on spells that focus on the counterspeller. If the sorcerer collapses the tower 
+you’re in, counterspelling won’t save you. Expected possessions: Lucky charm or talisman.
+The ‘Expert’ Skill
+If you want a Skill that’s not listed on here, and nothing seems to cover it, just take a
+Skill in “Expert ______” with your desired talent filling in the blank. Then file it under
+whatever Stat works best. If you want to be a great chef, you could put “Expert Cook” on
+your sheet (probably under Sense.) You could put “Expert Animal Trainer” under Charm
+or Command, depending on your methods. Or you might want to put a “Jump Expert”
+Skill under Coordination instead of relying on Body+Athletics. Just be sure to check with
+your GM so she can veto “Blow People Up With My Mind” if it doesn’t fit her setting.
+The Knowledge version of “Expert” is “Student,” just to be exacting.
+24
+Chapter Two
+Healing: This is the mundane ability to clean wounds, apply bandages, and whip up herbal 
+remedies. Expected possessions: Bandages, splint materials and herbs of various potencies.
+Language ________: Every character starts out with one Master Die in his native 
+language. If you wish, you can buy additional dice, to help explain complex concepts, 
+or understand them, or read. You can also purchase this Skill multiple times, picking a 
+different language each time. Language Skills are unique in that you combine your Skill 
+with your listener’s Skill and roll that as a pool. This is explained in greater detail on page 
+50. Expected possessions: A set of decent, if unremarkable, clothes.
+Lore: You’re educated. You know legends, history, folk tales, the great myths of the major 
+religions—you’ve studied it all. The GM may not allow you to roll Lore for some facts, 
+simply because they are unknown to any but experts. If you want to really specialize in 
+some field of knowledge, be a Student of it. (See the “Student” Skill, below.) Expected 
+possessions: Several fragile books and scrolls.
+Strategy: Tacticians fight battles, but the strategist fights the war. Past the level of yelling for 
+the cavalry to shore up a flank is the larger picture of controlling supply lines, encircling or 
+bypassing fortresses and encampments, choosing propitious battlegrounds, or winning by 
+avoiding conflict altogether. Expected possessions: None.
+Student of _________: You’re knowledgeable about something that’s not already on the 
+list. It’s a way to let people have characters who are wise in the ways of identifying birds 
+or designing aqueducts without listing every field of human study. Expected possessions: 
+Depends entirely on the field of study.
+Tactics: You’re an expert at allocating unit-scale military force. It’s not much good for 
+engagements involving fewer than ten people or more than a hundred, but that covers an 
+awful lot of encounters. Expected possessions: A game with pieces and board of decent quality.
+Skill Descriptions
+Magic
+There’s no “magic” or “enchantment” or “sorcery” Skill listed under any of the Stats. That’s
+intentional. Many people like designing their own setting and deciding how magic works
+and what it is—which is another way of looking at what it means. In a magical world,
+enchantment underlies societies and history and what people expect. A generic Skill description
+isn’t going to cover that. If you’re building your own REIGN setting, think hard about what
+you want magic to do and be good for, and work hard at explaining that to the players. 
+The default in REIGN is a single Skill that combines with different Stats depending on what
+kind of spell is being cast. This is covered in greater detail in the Magic chapter.
+25
+Character Generation
+Skill Descriptions
+Command Skills
+Haggle: You drive a hard bargain. By debating, wheedling, brow-beating and feigning 
+indignation, you can get the best price for items, whether buying or selling. Expected 
+possessions: A rather nice hat with matching belt and gloves.
+Inspire: You can provoke the higher, nobler (or crueler, coarser) emotions in those who listen. 
+An inspiring speech could convince the jury to let your friend off, by inspiring mercy. Or you 
+could give the rousing address that spurs your army into making that last, doomed charge. 
+Inspire is predicated on sympathy. It’s the Skill of inspiring speech could convince the jury to let your friend off, by inspiring mercy. Or you 
+could give the rousing address that spurs your army into making that last, doomed charge. 
+Inspire is predicated on sympathy. It’s the Skill of getting people to feel what you feel (or, 
+more deviously, to feel what you appear to feel). It can also be used to taunt people into 
+being crazed wrath, but usually you use it to get people on your side.
+This Skill is only useful when used on crowds or groups. If there is a conversation with 
+give and take, it’s probably more a Fascinate situation. Expected possessions: none.
+Intimidate: Where Inspire provokes a broad range of emotions, Intimidate focuses on 
+fear. With an Intimidate set, you present yourself as a person it would be foolish to cross. 
+The nature of the threat doesn’t matter—Intimidation coveres anything from political 
+ruination to magical revenge to a brutal beating. It can be used on groups or individuals. 
+Expected possessions: none.
+Perform ________: You put on a good show for the crowd. Pick a general category when 
+you select the Skill. It could be that you’re a storyteller, an actor or a musician. You can 
+buy this Skill more than once for different specialties. 
+Perform is also listed as a Coordination Skill, but that’s for full-body action 
+performances. With Command, it’s more an issue of being a spellbinding speaker or 
+having compelling expression. Expected possessions: An appropriate musical instrument 
+or two, for a musician. Otherwise nothing.
+Sense Skills
+Direction: Your sense of direction gives you a feel for your location. Some part of you is 
+aware of distance, height, and direction. You can find North, retrace your steps, and guide 
+your ship back to port by dead reckoning. Expected possessions: A map of the local region.
+Eerie: With the Eerie sense you detect the uncanny, the unnatural and the unwholesome. 
+Your eerie sense won’t protect you from a lurking footpad, but it might alert you that 
+you’re in a haunted (or cursed, or ill-omened) house. Sorcerers hate people with good 
+eerie senses, unless those people have been co-opted as apprentices. (Some GMs may 
+disallow Eerie in their setting.) Expected possessions: A good-luck charm. 
+Empathy: This social sense permits you to gauge those with whom you speak and interact. 
+Use it to see through lies, detect influence of your mood with guile, and spot the envious 
+ex-lover at the wedding. Expected possessions: A memento of a bittersweet love affair.
+Hearing: Your perception of sound is exceptional. You’re superb at eavesdropping, hearing 
+muffled footsteps in dark alleys, and recognizing which string on your friend’s violin is just a 
+trifle sharp. Expected possessions: none.
+26
+Chapter Two
+Scrutinize: Scrutinize measures your character’s ability to look around a locale and 
+reconstruct what happened there, or glean information that isn’t immediately obvious. Use 
+it to track someone in the forest, find the hidden panel in the chest, or get a clue from a crime 
+scene. Expected possessions: none.
+Sight: This Skill improves your chances of spotting the trapdoor you’re about to step on, 
+the sail on the distant horizon, or the stealthy assassin taking aim from that minaret. 
+Expected possessions: none.
+Charm Skills
+Fascinate: You can talk and make someone want to keep listening to you. It measures your 
+conversational finesse, your talent for listening (or making people think you’re listening) and 
+your general ability to help people like you. If you want to charm, seduce, persuade or simply 
+amuse an individual, this is the Skill. Expected possessions: A mirror.
+Graces: Short for “social graces,” this measures your manners. It’s not just obvious 
+stuff like “Never pinch the hostess’ husband right in front of her.” It also indicates 
+knowledge of foreign cultural mores. Take this Skill and you know how to dine cordially, 
+dance passably, flirt acceptably, and accept (or decline) a royal gift graciously. Expected 
+possessions: A set of fine clothes.
+Jest: “So these two barbarians walk into a barber shop…” This measures your ability 
+to make people laugh, through high-minded literary sophistry with low-brow fart gags. 
+Expected possessions: none.
+Lie: Whether you’re stretching the truth, fabricating claims of valor or fraudulently 
+name-dropping, this is the Skill you need to remain unflustered and consistent. It 
+is typically countered with Empathy. (Some lies may be detected by other means—
+Knowledge+Tactics or Strategy if someone’s gassing about a famous battle, say. The GM 
+judges and should tell you which pool to roll.) Expected possessions: none.
+Plead: Rarely a Skill you want to use, it may be one you have to use. Plead plays on the 
+kindness or sympathy (or disgust) of someone you cannot sway through other means. You 
+can plead for your life, plead for a loan, or plead for the good of the country. It’s all covered 
+by this single, shameless Skill. Expected possessions: none.
+
