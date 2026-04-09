@@ -53,41 +53,14 @@ The palace of Yndaros, the alleys of Thistle Hold and the gloom of Davokar are e
 - Novice Reaction. One attack per turn made from Advantage deals +1D4 damage in addition to any damage already inflicted thanks to the Advantage. The character may use Discreet instead of Accurate when making attacks while at an Advantage. Backstab may only be performed once per turn, regardless of other circumstances.
 - Adept Reaction. The character’s Backstab deals extra damage (as above) and also causes a bleeding wound to the enemy. The attack opens a wound that bleeds heavily, inflicting 1D4 damage each turn following the attack. The enemy continues to bleed until healed by an herbal cure, the Medicus ability or in some other way.
 - Master Reaction. The character’s Backstab deals 1D8 extra damage and causes a bleeding wound to the enemy, just like at adept level. There are no longer any limits to how many backstabs a Master can perform each turn. All attacks are backstabs as long as the conditions for Advantage are met.
-BEAST LORE
-The character is schooled in the lore of beasts and
-knows the secrets of most monsters. Many monsters
-possess special abilities and unique attacks
-as well as weaknesses which are good to know
-about when trying to bring them down. At higher
-levels the character must pick a specialization –
-Abominations, Beasts, Cultural Beings or Undead
-– and receives further advantages against members
-of that specific category.
-A character with Beast Lore can identify the
-tracks of many monsters and beings, and use that
-information to draw conclusions regarding the size
-and general behavior of the creature – is it hunting,
-on the run or just passing through?
-Novice Free. The character has studied monsters
-and can make a Cunning test to recognize
-or recollect a monster’s strengths and
-weaknesses. The Game Master describes
-the monster and its statistics to the player.
-Adept Free. The character is an acknowledged
-scholar that has been studying a particular
-sub-category of monsters (pick Abominations,
-Beasts, Cultural Beings or Undead).
-The character now deals 1D4 additional damage
-to monsters from that category. This
-extra damage applies to the character’s
-allies as well, if they have been instructed in
-how best to fight the creature.
-Master Free. The character now deals 1D6 extra
-damage to creatures from the sub-category
-that the player picked at the adept level.
-This extra damage applies to the character’s
-allies as well, if they have been instructed in
-how best to fight the creature.
+## BEAST LORE
+The character is schooled in the lore of beasts and knows the secrets of most monsters. Many monsters possess special abilities and unique attacks as well as weaknesses which are good to know about when trying to bring them down. At higher levels the character must pick a specialization – Abominations, Beasts, Cultural Beings or Undead – and receives further advantages against members of that specific category.
+A character with Beast Lore can identify the tracks of many monsters and beings, and use that information to draw conclusions regarding the size and general behavior of the creature – is it hunting, on the run or just passing through?
+- Novice Free. The character has studied monsters and can make a Cunning test to recognize or recollect a monster’s strengths and weaknesses. The Game Master describes the monster and its statistics to the player.
+- Adept Free. The character is an acknowledged scholar that has been studying a particular sub-category of monsters (pick Abominations, Beasts, Cultural Beings or Undead).
+The character now deals 1D4 additional damage to monsters from that category. This extra damage applies to the character’s allies as well, if they have been instructed in how best to fight the creature.
+- Master Free. The character now deals 1D6 extra damage to creatures from the sub-category that the player picked at the adept level.
+This extra damage applies to the character’s allies as well, if they have been instructed in how best to fight the creature.
 ## BERSERKER
 The feared barbarian warriors of Davokar have
 developed the practice of working themselves into
