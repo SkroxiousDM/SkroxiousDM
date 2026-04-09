@@ -1,0 +1,27 @@
+Stamina 
+>YOU KNOW THAT THIS IS GOING TO BE UGLY, so you get ready. You drop your backpack, let go of that back-of-the-mind focus you've been maintaining, and focus on what's in front of you. Limbered up, fully concentrated, you're ready to go. Your opponent, heavily armoured, benefits from that gear, but they just won't last as long. Here goes.
+
+EACH CHARACTER gets a pool of Stamina. equal to the Sum of physical Attributes
+- HOW MUCH WEIGHT could a normal person in the setting carry at most? 
+Divide that by ten. Any item weighing more than that requires that you invest one breath to carry it; anything weighing more than twice that requires that you invest two. While you carry that item, you can't access those breath points. This means you naturally get tired faster and can do less stunts while heavily-loaded. 
+- THE SPECIAL ABILITIES THAT RUN ON BREATH. If a game has magic that can be used an awful lot, simply making it cost breath is easy. If it can't be used often, you can install another state for breath (Like: available, spent invested in gear, exhausted on magic), and decide how you recover breath points from that state.
+- RECOVERY SPEED. Part of the idea here is that basic recovery can be quick – take a turn catching your breath, regain a handful of breath points.
+A BREATH POOL IS a resource, like “stunt points” or “magic points”, but combines the functions of several such pools in an intuitive way. Each 
+character has a set number of breath points. When spent, they can be recovered very quickly, but many of the uses involve investing them rather than spending them, which ties them up as long as you gain the benefits. 
+
+THE EXAMPLE CONFIGURATION emerges in play as three distinct extremes. The light, fast Rogue carries only the minimum in equipment, and can pull off plenty of acrobatics, stunts, and running. The Magus holds and keeps magic items, and uses breath to elicit effects. The Tank wears and carries plenty of heavy gear, and has only a little breath left for stunts or to focus with magical issues.
+BY ADDING CHARACTER FEATURES, these three styles 
+could be supported explicitly, rather than implicitly. The warrior class can wear armour and carry an in-hand weapon as if it each were one breath lighter. The rogue rolls two dice for recovery and takes the better die. The magus spends one fewer breath when controlling a magic item they have repressed, which can even make some items free to use.
+HERE IS A SIMPLE EXAMPLE of how a breath pool might be installed in a game (the statistics are invented to “feel right”; they don't matter much):
+- STATES: Breath can be Available, Spent, or Invested.
+- EQUAL TO ENDURANCE: Each character has breath points equal 
+to their endurance statistic.
+- RECOVER 1D6+BONUS: When you spend an action catching 
+your breath, you regain 1d6 breath, plus your resilience bonus.
+- SPEND TO RUN AND TUMBLE: Anytime you run or tumble, you must spend a breath. You can also spend a further point of breath to move a bonus space when you run, or to gain a bonus die on the tumble roll.
+- INVEST TO REPRESS: Magic items are always active – burning swords never stop burning, hovering stones are fixed in the air, and 
+so on. To switch them off, you must invest breath points on concentration.
+- SPEND TO CONTROL: Magician's items, such as wands, tomes, and such, can only be used in a focused and controlled manner by first repressing them, and then spending breath (on top of the 
+breath used to repress them) to elicit clear and useful effects.
+- INVEST TO CARRY: The normal encumbrance system is ignored. Instead, for each ten pounds you want to carry, you must invest one breath in doing so.
+- OUT OF BREATH: When you are at less than half breath available, you roll one fewer die on all physical actions. When you have none, you can't move past a slow trudge, and roll two fewer dice.
