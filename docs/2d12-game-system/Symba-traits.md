@@ -27,7 +27,6 @@ The character has the capability to borrow the appearance of others for a period
 - **Novice** Free. With a successful die roll against Resolute, the character may adopt a false shape; the form, appearance, voice and clothes of another creature, but not that of a specific individual. The changeling can keep up the appearance for the duration of a scene, but then the illusion fades away. Everyone that the character interacts with will see through the illusion, unless the character succeeds with a [Discreet←Vigilant] test.
 - **Adept** Free. The character may, for a short period of time and with a successful Resolute test, adopt the form of specific individuals that the character has met, and can include clothes and attributes in the image. In combat against multiple opponents, the similarity is good enough to make it hard for enemies to hit their mark – there is a 50% chance that enemies attempting to hit the character hit their depicted companion instead. It takes concentration to maintain the illusory form, which means that the character must make a Resolute test each turn as well as a successful [Resolute –Damage] test each time the changeling suffers damage.
 - **Master** Free. With a successful Resolute test the character may adopt the form of a specific individual and maintain it for the duration of a scene. Anyone who speaks with the character will be able to see through the illusion unless the character succeeds with a [Discreet←Vigilant]. For a character to be able to fool people familiar with the depicted person, he or she must succeed with two tests, first at a distance and then another one if they start a conversation.
-
 ## SHORT-LIVED
 The character’s life is short, even under favorable living conditions. All members of its race tend to reach adulthood in a handful of years, after which they start to lose their youthful vigor so that only a few ever live to see the age of forty. On the other hand, they are quick to learn and adapt to new surroundings, and they are often ready to face the world at the age of five.
 Short-lived has no effect besides what it implies in terms of playing the role.
@@ -36,7 +35,6 @@ The character belongs to a race with a powerful life-force and an equally powerf
 - Novice Free. Thanks to its explosive survival instinct, the character may perform one extra Movement Action once per scene.
 - Adept Reaction. The character trusts its instincts and has learned that rolling with the punches often saves your life. The character’s finely honed survival instinct provides it with a permanent +1D4 to Armor.
 - Master Free. There resides a powerful fighting spirit within each member of the character’s race, and that spirit can show itself when the character is backed into a corner. The character has nurtured this hot-tempered aggression and may sacrifice a Movement Action once per scene to perform an extra Combat Action.
-
 ## ACROBATICS
 The character has learned the art of acrobatic maneuvering, having spent time with a theater company, in one of the fencing schools of Yndaros or climbing the trees of Davokar. The nimbleness of the acrobat provides an advantage when trying to withdraw from close combat or when quickly wanting to reach the center of an enemy formation.
 - **Novice** Active. The character may roll against Quick to avoid Free Attacks from enemies in melee combat, either when trying to slip past an enemy or when attempting to withdraw from melee. Should the test fail, the player must choose to either remain in its original place or to move anyway and suffer a Free Attack from the opponent.
@@ -69,7 +67,7 @@ repressed anger of the heart strengthen its limbs,
 the character can unleash a fuming rage that, if
 channeled correctly, might determine which side
 will emerge victorious from the battle.
-Novice Free. As a Free Action, the character may
+- Novice Free. As a Free Action, the character may
 enter into a murderous frenzy to solely
 focus on hurting the enemy, dealing 1D6
 extra damage when fighting in melee
@@ -78,10 +76,10 @@ that the character cannot defend itself
 properly. The attribut on which Defense is
 based, is considered to be 5 when calculating
 Defense.
-Adept Reaction. The rage is like armor to the character.
+- Adept Reaction. The rage is like armor to the character.
 He or she ignores 1D4 damage from
 each hit suffered while in a berserker rage.
-Master Free. The character has managed to harness
+- Master Free. The character has managed to harness
 its rage without losing any of its power.
 The character can utilize this capacity to
 both deal and ignore extra damage, while
@@ -94,15 +92,15 @@ who serve to protect the life of their chieftain.
 The character is trained to place itself in the way
 of painful strikes and lethal blows aimed at the
 protected person.
-Novice Reaction. With a successful Resolute, the
+- Novice Reaction. With a successful Resolute, the
 character may take blows directed against
 an ally. The character may not defend itself
 against these attacks, they hit automatically.
-Adept Reaction. The character’s capacity as a
+- Adept Reaction. The character’s capacity as a
 guardian allows it to defend itself against
 all attacks aimed at the person he or she is
 protecting.
-Master Reaction. The character is a veritable
+- Master Reaction. The character is a veritable
 guardian saint. Not only may the character
 defend itself against the attacks, it also gets
 a Free Attack as a Reaction towards anyone
@@ -121,18 +119,18 @@ such a manner.
 In social situations, this ability can also be used
 to scare someone into obedience and force secrets
 out of them.
-Novice Passive. The character can dominate
+- Novice Passive. The character can dominate
 and outmaneuver an enemy combatant
 by using its convincing personality. The
 character may use Persuasive instead of
 Accurate in melee combat.
-Adept Free. The character can, as a Free Action and
+- Adept Free. The character can, as a Free Action and
 with a successful [Persuasive←Resolute]
 test, force an enemy to hesitate in melee
 combat. A hesitating enemy will not attack
 the character this turn. If possible, it attacks
 one of the character’s allies instead.
-Master Active. The character can subdue an enemy
+- Master Active. The character can subdue an enemy
 with a passed [Persuasive←Resolute]
 test. A subdued enemy can be forced to
 stand down and negotiate, to flee from an
@@ -158,13 +156,13 @@ a good hand with other kinds of farm animals and
 the like, and can therefore use the ability to calm
 agitated beasts, for instance keeping watch dogs
 from barking.
-Novice Reaction. The character is an experienced
+- Novice Reaction. The character is an experienced
 rider and used to fighting while mounted.
 The character knows how to use the weight
 of the mount in a cavalry charge and deals
 1D6 additional damage with one melee attack
 if the mount moves prior to the attack.
-Adept Active. The bond between a mount and its
+- Adept Active. The bond between a mount and its
 rider makes it possible for them to make
 sweeping attacks, meaning that they use
 parts of their Move Action before an attack,
@@ -174,7 +172,7 @@ being locked into melee combat. The enemy
 can only retaliate by using Reactions, or by
 spending their Movement Action trying to
 catch up with the rider.
-Master Reaction. The master rider can use a cavalry
+- Master Reaction. The master rider can use a cavalry
 charge even more effectively and therefore
 deals +1D10 damage with one melee attack
 if the mount moves prior to the attack.
@@ -186,12 +184,12 @@ the eyes sharper and intellect vaster. This ability
 enhances the character’s basic survival capability.
 This ability may be chosen multiple times, each
 time related to a different Attribute.
-Novice Special. The character has cultured one
+- Novice Special. The character has cultured one
 of its Attributes through hard work, which
 increases the Attribute value by +1.
-Adept Special. As novice, but the ability increases
+- Adept Special. As novice, but the ability increases
 the Attribute value by +2 in total.
-Master Special. As novice, but the ability increases
+- Master Special. As novice, but the ability increases
 the Attribute value by +3 in total.
 ## FEINT
 Persons and creatures that lack the will or strength
@@ -202,16 +200,16 @@ Thanks to the skill of the character, these weapons
 can be handled in a both discreet and confusing
 manner. Every attack therefore gains the same
 Advantage as if the opponent was surprised.
-Novice Passive. The character can choose to
+- Novice Passive. The character can choose to
 attack with Discreet instead of Accurate
 when the attack is made with a melee
 weapon which is either Short or Precise.
-Adept Reaction. The character presents a false
+- Adept Reaction. The character presents a false
 weakness in its defense and tricks the
 opponent into attacking that weakness. The
 character can choose to defend itself with
 Discreet instead of Quick.
-Master Active. With a successful roll against
+- Master Active. With a successful roll against
 [Discreet←Vigilant] the character can
 surprise an enemy in the middle of an
 ongoing fight. A successful test gives the
@@ -226,12 +224,12 @@ members of the barbarian Wrathguard and other
 heavily armed warriors rely on their strength in
 combat and leave precision and finesse for others
 to worry about.
-Novice Passive. The character can fully utilize its
+- Novice Passive. The character can fully utilize its
 strength and therefore uses Strong instead
 of Accurate when making melee attacks.
-Adept Passive. The character’s melee attacks now
+- Adept Passive. The character’s melee attacks now
 deal 1D4 additional damage.
-Master Active. The character knows how to truly
+- Master Active. The character knows how to truly
 put its back into an attack. The character
 can perform a devastating melee attack
 once per turn that delas +1D8, instead of
@@ -247,19 +245,19 @@ their death.
 Outside of combat, the Leader ability can be
 useful to seize command over a group of strangers,
 organize a militia and the like.
-Novice Passive. Due to its strong personality, the
+- Novice Passive. Due to its strong personality, the
 character can use Persuasive in place of
 Resolute, for instance when weaving mystical
 powers, though not as a basis for the
 corruption threshold.
-Adept Active. The character can nominate a creature
+- Adept Active. The character can nominate a creature
 or an object to be the focused target of
 his or her allies for the duration of a scene.
 All allies who attack that target inflict 1D4
 additional damage with each hit. Changing
 the target requires a new active Action from
 the Leader.
-Master Active. The Leader gives a rousing speech
+- Master Active. The Leader gives a rousing speech
 to its allies. This allows them to use his or
 her Persuasive instead of their own Resolute
 for the duration of a scene.
@@ -278,7 +276,7 @@ skilled at researching records and administrative
 documents, something which might be very
 useful when faced with those kinds of problems
 and puzzles.
-Novice Free. With a successful Cunning test,
+- Novice Free. With a successful Cunning test,
 any character who is a Loremaster can
 figure out the properties of a specific
 artifact, but not how to activate it. In the
@@ -290,7 +288,7 @@ when uttering simple words and phrases,
 but a successful roll against Cunning is
 required when trying to have a proper
 conversation.
-Adept Free. As a cultivated scholar of artifacts, the
+- Adept Free. As a cultivated scholar of artifacts, the
 character can use Cunning instead of Resolute
 when trying to activate artifacts. With a
 successful Cunning test, the adept can also
@@ -299,7 +297,7 @@ of both elves and trolls. To say simple
 phrases in Elvish or Troll Tongue requires no
 test, but to initiate a conversation requires a
 successful roll against Cunning.
-Master Free. As an acknowledged interpreter
+- Master Free. As an acknowledged interpreter
 of scrolls, the character may with a
 successful roll against Cunning activate
 mystical powers directly from scrolls and
@@ -321,11 +319,11 @@ with a bow or crossbow, hoping to either bring them
 down or at least make sure that they do not reach
 those of the character’s allies that are equipped
 for melee combat.
-Novice Passive. Thanks to the character’s skill,
+- Novice Passive. Thanks to the character’s skill,
 damage dealt with bows and crossbows is
 increased to 1D10 and 1D12 respectively,
 from the usual 1D8 and 1D10.
-Adept Active. The character’s precision provides
+- Adept Active. The character’s precision provides
 his or her projectiles a crippling effect. The
 attack deals damage as usual and if the
 target is wounded the character may make
@@ -335,7 +333,7 @@ means that the target cannot move and its
 Movement Action is forfeit. As soon as the
 target manages to move (the character fails
 the test), the crippling effect is gone.
-Master Active. The master Marksman’s projectiles
+- Master Active. The master Marksman’s projectiles
 become armor piercing. The shot hits
 a weak spot and completely ignores the
 target’s Armor.
@@ -348,19 +346,19 @@ stock. No matter what the armor is made from, be it
 leather, steel or any other material, the Man-at-arms
 ability gives the character increased protection
 against hostile strikes and blows.
-Novice Passive. The character knows how to use its
+- Novice Passive. The character knows how to use its
 armor for maximum effect, which increases
 the armor’s Armor tier by one step: light armor
 protects 1D6, medium armor protects
 1D8 and heavy armor protects 1D10.
-Adept Passive. The character is used to wearing
+- Adept Passive. The character is used to wearing
 armor and can adapt his or hers actions to
 its limitations. The armor no longer has a
 negative effect on Quick or abilities based
 on Quick (including Defense). The Impeding
 quality of the armor still has a negative
 effect when using mystical powers.
-Master Reaction. The character may roll against
+- Master Reaction. The character may roll against
 Quick to counteract effects from Abilities
 or equipment that make enemy attacks
 ignore or reduce its Armor value; if the test
@@ -383,17 +381,17 @@ and cure diseases and identify a poison by
 its symptoms. Medicus also gives the character a
 coroner’s point of view, which might come in handy
 when examining a crime scene or a dead body.
-Novice Active. As a clever surgeon, the character
+- Novice Active. As a clever surgeon, the character
 can make a test against Cunning to heal 1D4
 of a patient’s Toughness, or 1D6 when using
 an herbal cure. This ability can only
 be used once per patient and day.
-Adept Active. The character is an acknowledged
+- Adept Active. The character is an acknowledged
 Medicus. A successful Cunning test heals
 1D6 of a patient’s Toughness, or 1D8 when
 using an herbal cure. This ability can only be
 used once per patient and day.
-Master Active. The master Medicus has a vast
+- Master Active. The master Medicus has a vast
 medical knowledge. A successful Cunning
 test now heals 1D8 Toughness, or 1D10
 when using an herbal cure. Even a failed test
@@ -426,11 +424,11 @@ Corruption each time this power is used. Again, the
 Corruption suffered can be reduced if the power is
 considered a part of a tradition that the character
 belongs to (see Shadow & Corruption, page 174).
-Novice Special. The character has mastered the
+- Novice Special. The character has mastered the
 power’s novice level.
-Adept Special. The character has mastered the
+- Adept Special. The character has mastered the
 power’s adept level.
-Master Special. The character has mastered the
+- Master Special. The character has mastered the
 power’s master level.
 ## NATURAL WARRIOR
 A sword or a bow is not always needed to fight.
@@ -442,18 +440,18 @@ fighting style developed in the gutters of eastern
 Yndaros, a style that nowadays can be seen at the
 Dome since a pair of the city’s renowned gladiators
 have embraced its techniques.
-Novice Passive. The character has learned to use
+- Novice Passive. The character has learned to use
 its natural-born warrior capabilities with
 great efficiency. The character’s unarmed
 attacks now deal 1D6 damage. If the creature
 has the Natural Weapons trait as well,
 then the damage is further increased according
 to the level of that monstrous trait.
-Adept Active. With the speed of an adept, the
+- Adept Active. With the speed of an adept, the
 character may now perform a double attack
 against a single target. The two attacks are
 rolled separately.
-Master Passive. By attacking an opponent’s weak
+- Master Passive. By attacking an opponent’s weak
 points with flawless precision – such as
 throat and knees – the master’s unarmed
 strikes are truly devastating. Each attack
@@ -469,7 +467,7 @@ Alchemy ability).
 The Poisoner ability can be used to identify different
 poisons or the effect of a poison on a wounded
 or dead person.
-Novice Free. As a free action, the character can
+- Novice Free. As a free action, the character can
 apply one dose of poison or any other alchemical
 elixir to a weapon. That one dose of
 poison is enough for one hit with the weapon
@@ -479,12 +477,12 @@ poison to take effect; if successful the victim
 starts to take damage. The damage suffered
 per turn and the duration of the poison
 depends on its strength (see page 153).
-Adept Free. As novice, but the character understands
+- Adept Free. As novice, but the character understands
 how to make a dose of poison last
 an entire battle. After applying a dose,
 all attacks counts as poisonous for the
 duration of the combat scene.
-Master Free. The character has mastered the art of
+- Master Free. The character has mastered the art of
 poisoning and knows how to get the most
 out of a poison. If the character succeeds
 with a Cunning test, any poison applied to
@@ -505,10 +503,10 @@ The character’s advanced skill with long weapons
 really shows that a simple shaft of hardened
 wood can be a fearsome weapon in the hands of a
 trained warrior.
-Novice Passive. The damage dealt by Long weapons
+- Novice Passive. The damage dealt by Long weapons
 is increased one step, to 1D10 for spears and
 halberds and to 1D8 for staves.
-Adept Reaction. The character has truly mastered
+- Adept Reaction. The character has truly mastered
 the long thrust. The character receives a
 Free Attack against all enemies who come
 into range of melee combat – whether it is
@@ -517,7 +515,7 @@ vice versa is irrelevant. The only exception is
 when the enemy also wields a long weapon;
 in such a situation the character receives no
 Free Attack.
-Master Reaction. As a Master of long weapons, the
+- Master Reaction. As a Master of long weapons, the
 character has the skill to keep his or her
 enemies at bay. The character can use the
 Free Attack with a polearm to keep an enemy
@@ -536,17 +534,17 @@ warrior, able to quickly switch weapons to meet
 the demands of any situation – a skill particularly
 appreciated among barbarian skirmishers and
 Ambrian archers.
-Novice Free. With a successful test against Quick,
+- Novice Free. With a successful test against Quick,
 the character may unsheathe and draw a
 weapon as a Free Action, thereby being able
 to use the weapon as if it was already drawn.
 The character can also reload a crossbow as
 a Free Action with a successful Quick Test.
-Adept Free. With a successful Quick test, the character
+- Adept Free. With a successful Quick test, the character
 may switch weapons as a Free Action,
 meaning that the character can sheathe one
 weapon and draw another in one fluid motion.
-Master Free. The character handles elixirs swiftly
+- Master Free. The character handles elixirs swiftly
 and may with a successful Quick test pour
 one dose down its own or someone else’s
 throat as a Free Action.
@@ -557,14 +555,14 @@ have been developed. The character can use
 its inner power reserves with an almost magical
 self-discipline to rejuvenate the energy of its body,
 even when in the midst of combat.
-Novice Active. With a successful die roll against
+- Novice Active. With a successful die roll against
 Resolute, the character regains 1D4 Toughness.
 Multiple attempts can be made, but
 only one successful attempt is allowed per
 day.
-Adept Active. Just as novice level, but the character
+- Adept Active. Just as novice level, but the character
 recovers 1D6 Toughness.
-Master Active. Just as adept level, but the character
+- Master Active. Just as adept level, but the character
 recovers 1D8 Toughness.
 ## RITUALIST
 The character has learned how mystical powers
@@ -588,7 +586,7 @@ to recognize what ritual has been performed by
 examining symbols and components remaining on
 the scene, and also to deduce the effects of the ritual,
 even if he or she has not mastered it.
-Novice Special. The character has learned to
+- Novice Special. The character has learned to
 perform one (1) ritual. The ritual may belong
 to any mystical tradition, but the character
 must have access to the ritual in order to
@@ -598,12 +596,12 @@ organization as the character, from a codex
 found in the ruins of Symbaroum or from
 another ritualist who imparts the knowledge
 as a reward for services rendered.
-Adept Special. The character has learned to
+- Adept Special. The character has learned to
 perform up to two additional rituals (three
 in total), again from any mystical tradition,
 but bound to the same conditions as those
 presented at the novice level.
-Master Special. The character has learned to
+- Master Special. The character has learned to
 perform up to three additional rituals (six
 rituals in total). Just as before, the Master
 Ritualist is not limited to the rituals of a
@@ -624,7 +622,7 @@ by archers, is too light to be used with the Shield
 Fighter ability. The warrior has to carry a sturdy
 shield made of either wood or steel to generate the
 required amount of force.
-Novice Passive. The damage dealt by weapons
+- Novice Passive. The damage dealt by weapons
 held in the character’s sword arm is
 increased by one step; to 1D10 if the
 character fights with a single-handed
@@ -634,7 +632,7 @@ its shield as an instrument of protection
 with greater efficiency and therefore
 receives a +2 Defense bonus instead of
 the usual +1 when using a shield.
-Adept Reaction. The character has learned how
+- Adept Reaction. The character has learned how
 to combine weapon and shield so well that
 every successful attack may be followed up
 by a shield bash against the same target.
@@ -642,7 +640,7 @@ The damage of the shield bash is 1D4, and
 should the character make a successful test
 against [Strong←Strong] the target is also
 knocked to the ground.
-Master Reaction. The damage of the shield bash
+- Master Reaction. The damage of the shield bash
 is increased from 1D4 to 1D8 and the target
 is knocked to the ground if the character
 succeeds with a [Strong←Strong] test.
@@ -663,15 +661,15 @@ circumstances navigate unhindered in dim light,
 as well as maintain a sense of direction in complete
 darkness, though at a pace of only a quarter of its
 normal, daytime speed.
-Novice Passive. The character has a strong
+- Novice Passive. The character has a strong
 intuition, which lets him or her use Vigilant
 instead of Accurate when attacking with
 ranged weapons.
-Adept Passive. The character’s intuition has
+- Adept Passive. The character’s intuition has
 expanded and the character may now use
 Vigilant instead of Quick for Initiative and
 when calculating his or her Defense.
-Master Passive. The character can move and fight
+- Master Passive. The character can move and fight
 unhindered when blinded or in complete
 darkness.
 ## SORCERY
@@ -689,7 +687,7 @@ sorcerers realize that their chosen path only holds one
 possible end, and the most depraved among them have
 already come to terms with this, seeing their final
 and inevitable enslavement as some sort of salvation.
-Novice Special. The sorcerer has taken its first
+- Novice Special. The sorcerer has taken its first
 faltering steps down the slippery slope of
 darkness and has found a way to not lose its
 foothold entirely. The sorcerer can reduce
@@ -697,7 +695,7 @@ the Corruption he or she suffers from. By making
 a successful roll against Resolute each
 time the sorcerer suffers Corruption, he or
 she only receives one (1) point of Corruption.
-Adept Reaction. The sorcerer can draw from
+- Adept Reaction. The sorcerer can draw from
 its own Corruption to successfully use
 mystical powers. A sorcerer who fails in an
 attempt to use a power may try again, this
@@ -706,7 +704,7 @@ value. Should this test be successful,
 then the power is activated as normal, but
 the sorcerer also suffers an additional 1D4
 temporary Corruption.
-Master Special. The sorcerer can use the Corruption
+- Master Special. The sorcerer can use the Corruption
 of others in order to enforce its will.
 Each time the sorcerer attempts to affect
 the Resolute attribute of another creature,
@@ -729,7 +727,7 @@ control of the character’s senses, and sometimes
 a truly steadfast character manages to defend
 itself mentally and even turn the magic back on
 the hostile mystic.
-Novice Reaction. The character can make a
+- Novice Reaction. The character can make a
 second attempt to succeed with a Strong or
 Resolute test when trying to break an ongoing
 physical effect from, for instance, traps
@@ -737,11 +735,11 @@ or alchemical elixirs. This includes energies
 from mystical powers, as long as these are
 manifested physically in the forms of fire,
 acid or similar.
-Adept Reaction. The character is unshakable, and
+- Adept Reaction. The character is unshakable, and
 can make a second attempt to shrug off
 ongoing powers that affects either its will or
 its senses.
-Master Reaction. The psyche of the character strikes
+- Master Reaction. The psyche of the character strikes
 back against anyone who tries to affect
 it. Whenever the character is the victim
 of a mental attack (in other words, those
@@ -759,11 +757,11 @@ fighters (especially those within the clan of Zarek)
 regularly use throwing weapons as part of their
 combat tactics, unleashing a shower of steel just
 before they charge into the fray.
-Novice Passive. The character has begun to
+- Novice Passive. The character has begun to
 understand the riddle of steel-throwing.
 The damage dealt by throwing weapons is
 increased to 1D8.
-Adept Active. The character can perform a double
+- Adept Active. The character can perform a double
 throw with one Action. The attacks are
 rolled separately and are either aimed at
 the same target, or at two different ones.
@@ -773,7 +771,7 @@ one such weapon per Action. The damage
 for this kind of attack is the base damage
 of the melee weapon, including any passive
 abilities that the thrower might have.
-Master Active. The character can unleash a devastating
+- Master Active. The character can unleash a devastating
 triple throw and send three throwing
 weapons towards his or her enemies, all of
 them against a single target or distributed
@@ -790,16 +788,14 @@ With this ability the character can do a lot of
 damage to an unprepared or slow enemy with either
 a garrote or, if more advanced, with the alchemical
 Choking Spores.
-
-Novice Active. The novice Strangler may attack
+- Novice Active. The novice Strangler may attack
 when at an Advantage. A successful attack
 deals 1D6 damage each turn and ignores
 Armor. The target cannot act until the
 Strangler’s hold is aborted; the character
 maintains the stranglehold with a successful
 [Cunning←Cunning].
-
-Adept Active. The character knows how to use
+- Adept Active. The character knows how to use
 the deadly Choking Spores, gathered
 deep within Davokar by alchemists. With a
 successful [Cunning←Quick], the spores
@@ -811,8 +807,7 @@ other than healing the victim when the
 damage appears. Affected victims may act
 as usual, in contrast to the novice level of
 this ability.
-
-Master Active. The character can use the delicate
+- Master Active. The character can use the delicate
 and lethal Spore Bombs created from
 Choking Spores by master alchemists. If
 thrown over a distance, it requires a successful
@@ -824,7 +819,7 @@ stands within that area, enemies as well as
 allies, are affected by the Choking Spores,
 which ignore Armor and deal 1D4 damage
 per turn for a duration of 1D4 turns.
-#TACTICIAN
+## TACTICIAN
 According to Ambrians, scholarly knowledge is
 counted as one of the highest virtues. Hence, it
 is hardly surprising that Ambrian scholars have
@@ -840,19 +835,16 @@ to analyze a tactical approach and find both its
 strengths and weaknesses. This can be done for
 offensive purposes when facing a hostile group or
 defensively, to establish a strong defense.
-
-Novice Passive. The character has studied the
+- Novice Passive. The character has studied the
 tactics of warfare and grasped its fundamental
 principles. The character may use
 Cunning instead of Quick when calculating
 its Initiative.
-
-Adept Passive. The character has mastered the
+- Adept Passive. The character has mastered the
 art of a good defensive posture, which
 allows him or her to use Cunning instead of
 Quick when calculating Defense.
-
-Master Passive. The character is a genius when it
+- Master Passive. The character is a genius when it
 comes to offensive warfare, which allows
 the character to use Cunning instead of
 Accurate when attacking with anything but
@@ -862,8 +854,7 @@ Theurgy is the mystical tradition championed by
 the chosen priest mages of the Church of Prios.
 Theurgy is the doctrine of the inner flame, where
 the ember of the soul is seen as a reflection of the divine and life-giving light of the sun.
-
-Novice Special. The theurg no longer suffers permanent
+- Novice Special. The theurg no longer suffers permanent
 Corruption when learning powers
 at novice level belonging to the tradition
 of Theurgy, nor when learning its rituals.
@@ -871,8 +862,7 @@ Despite this, the character still has no
 protection against the temporary Corruption
 that comes from using the powers and
 rituals of Theurgy.
-
-Adept Special. The theurg no longer suffers permanent
+- Adept Special. The theurg no longer suffers permanent
 Corruption when learning powers
 at adept level belonging to the tradition of
 Theurgy. The adept theurg has also learned
@@ -880,175 +870,30 @@ to rest the powers and rituals of Theurgy on
 a foundation of faith so that the theurg now
 only suffers one (1) temporary Corruption
 when casting them.
-
-Master Special. The theurg has reached a higher
-understanding of the essence of its holy
-powers, and therefore heals an additional 1D4
-when using healing and holy powers, including
-those that harm abominations and the
-undead. Adding to this, the theurg suffers no
-permanent Corruption when learning powers
-at master level belonging to the tradition of
-Theurgy.
+- Master Special. The theurg has reached a higher understanding of the essence of its holy powers, and therefore heals an additional 1D4 when using healing and holy powers, including those that harm abominations and the undead. Adding to this, the theurg suffers no permanent Corruption when learning powers at master level belonging to the tradition of Theurgy.
 ## TWIN ATTACK
-Barbarians, Ambrians and goblins all have fighting
-techniques involving the use of more than one
-weapon. The character has learned how to fight
-with two weapons, an advanced but effective technique
-that gives the warrior an offensive advantage.
-Twin Attack is especially effective against lightly
-armored targets.
-
-Novice Active. The character can safely wield two
-weapons, one in each hand. The novice can
-fight with a single-handed weapon in its
-primary hand and a Short weapon in the
-other. The character can make two attacks
-against the same target, dealing 1D8 and
-1D6 damage respectively. The enemy must
-defend itself separately against the attacks.
-The novice also receives a +1 bonus to its
-Defense as a Passive ability, but only when
-wielding a weapon in each hand.
-
-Adept Active. The adept can use two singlehanded
-weapons, each attack dealing
-1D8 damage.
-
-Master Active. With the skill of a Master, the damage
-dealt by the main-hand weapon is 1D10 while
-the weapon in the other hand deals 1D8.
+Barbarians, Ambrians and goblins all have fighting techniques involving the use of more than one weapon. The character has learned how to fight with two weapons, an advanced but effective technique that gives the warrior an offensive advantage. Twin Attack is especially effective against lightly armored targets.
+- Novice Active. The character can safely wield two weapons, one in each hand. The novice can fight with a single-handed weapon in its primary hand and a Short weapon in the other. The character can make two attacks against the same target, dealing 1D8 and 1D6 damage respectively. The enemy must defend itself separately against the attacks. The novice also receives a +1 bonus to its Defense as a Passive ability, but only when wielding a weapon in each hand.
+- Adept Active. The adept can use two singlehanded weapons, each attack dealing 1D8 damage.
+- Master Active. With the skill of a Master, the damage dealt by the main-hand weapon is 1D10 while the weapon in the other hand deals 1D8.
 ## TWO-HANDED FORCE
-The knights of Ambria as well as the Wrathguards
-of Karvosti dress themselves in steel from head to
-toe and have realized that with that much armor,
-they are free to focus on dealing massive amounts
-of damage.
-Heavy two-handed weapons rest comfortably
-in the character’s callused hands and can have
-an astoundingly destructive effect on all sorts of
-targets. Heavy weapons are extra effective against
-heavily armored enemies.
-
-Novice Passive. The damage dealt by heavy
-weapons is increased to 1D12.
-
-Adept Reaction. The character has mastered the
-use of its weapon, so when an attack misses
-a target the character may instead use the
-returning swing in an attempt to hit the
-target again. The character makes a new
-attack roll, which deals 1D8 damage if it hits.
-
-Master Active. A heavy weapon in the hands of a
-master is truly a tool of armor-crushing
-destruction. When the attacks of a master
-hit the target, they completely ignore the
-target’s Armor.
+The knights of Ambria as well as the Wrathguards of Karvosti dress themselves in steel from head to toe and have realized that with that much armor, they are free to focus on dealing massive amounts of damage.
+Heavy two-handed weapons rest comfortably in the character’s callused hands and can have an astoundingly destructive effect on all sorts of targets. Heavy weapons are extra effective against heavily armored enemies.
+- Novice Passive. The damage dealt by heavy weapons is increased to 1D12.
+- Adept Reaction. The character has mastered the use of its weapon, so when an attack misses a target the character may instead use the returning swing in an attempt to hit the target again. The character makes a new attack roll, which deals 1D8 damage if it hits.
+- Master Active. A heavy weapon in the hands of a master is truly a tool of armor-crushing destruction. When the attacks of a master hit the target, they completely ignore the target’s Armor.
 ## WITCHCRAFT
-From the deep soils and wild spirits of Davokar
-comes the tradition of witchcraft. For generations,
-its teachings have been passed on to witches who,
-alongside the chieftains, have led the people of the
-forests through mishaps and triumphs alike. Surely,
-it is the primal powers of witchcraft that enables
-the barbarian clans to live within Davokar.
-
-Novice Special. The witch has learned the
-teachings of witchcraft and how to withstand
-its darker elements. The witch no
-longer suffers any permanent Corruption
-from learning powers at novice level belonging
-to the Witchcraft tradition, nor when
-learning any of its rituals. Despite this, the
-character still suffers the temporary Corruption
-that follows when using the powers
-and rituals of Witchcraft.
-
-Adept Special. The witch suffers no Corruption
-from learning the powers of Witchcraft
-at adept level. The adept witch has also
-learned to bind the powers and rituals of
-the craft in earth, blood and spirit so that
-they only give one (1) temporary Corruption
-when used.
-
-Master Special. The witch suffers no Corruption
-from learning the powers of Witchcraft at
-the master level.
+From the deep soils and wild spirits of Davokar comes the tradition of witchcraft. For generations, its teachings have been passed on to witches who, alongside the chieftains, have led the people of the forests through mishaps and triumphs alike. Surely, it is the primal powers of witchcraft that enables the barbarian clans to live within Davokar.
+- Novice Special. The witch has learned the teachings of witchcraft and how to withstand its darker elements. The witch no longer suffers any permanent Corruption from learning powers at novice level belonging to the Witchcraft tradition, nor when learning any of its rituals. Despite this, the character still suffers the temporary Corruption that follows when using the powers and rituals of Witchcraft.
+- Adept Special. The witch suffers no Corruption from learning the powers of Witchcraft at adept level. The adept witch has also learned to bind the powers and rituals of the craft in earth, blood and spirit so that they only give one (1) temporary Corruption when used.
+- Master Special. The witch suffers no Corruption from learning the powers of Witchcraft at the master level.
 ## WITCH SIGHT
-By way of the shadows surrounding creatures,
-locations and objects the world’s deeper conflicts
-are observable for a character with the Witchsight
-ability. Opening up one’s mind in order to examine
-the world of shadows can provide invaluable
-insights, but it also entails great risk: the more open
-the mind is and the deeper the insights are, the
-greater the risk of becoming tainted by the darkness
-of the world. It is for this reason that masters of this
-ability seldom use it to their full capacity.
-As previously stated, the color of the Shadows
-can give the character clues regarding the spiritual
-alliance of the inspected creature (see Shadow &
-Corruption, page 174). The Game Master manages the
-nuances and powers of the Shadows and describes
-what the character sees with its Witchsight.
-
-Novice Free. As a Free Action, the character can
-make a roll against [Vigilant←Discreet] in
-an attempt to see the dominant Shadow
-of a creature, location or object. Each such
-attempt forces the character to suffer 1D4
-temporary Corruption.
-
-Adept Free. The character has gained the greater
-insight of an adept regarding auras and
-mystical phenomenon. Witchsight now reveals
-all Shadows of an inspected target but
-not their respective strengths. The character
-suffers 1D6 temporary Corruption each
-time he or she attempts to see the Shadows
-of a creature, location or object.
-
-Master Free. The character has achieved the
-master’s superior insights and can now see
-all Shadows and their respective strengths
-clearly. The character suffers 1D8 temporary
-Corruption each time an attempt is made
-to see the Shadows of a creature, location
-or object.
+By way of the shadows surrounding creatures, locations and objects the world’s deeper conflicts are observable for a character with the Witchsight ability. Opening up one’s mind in order to examine the world of shadows can provide invaluable insights, but it also entails great risk: the more open the mind is and the deeper the insights are, the greater the risk of becoming tainted by the darkness of the world. It is for this reason that masters of this ability seldom use it to their full capacity. As previously stated, the color of the Shadows can give the character clues regarding the spiritual alliance of the inspected creature (see Shadow & Corruption, page 174). The Game Master manages the nuances and powers of the Shadows and describes what the character sees with its Witchsight.
+- Novice Free. As a Free Action, the character can make a roll against [Vigilant←Discreet] in an attempt to see the dominant Shadow of a creature, location or object. Each such attempt forces the character to suffer 1D4 temporary Corruption.
+- Adept Free. The character has gained the greater insight of an adept regarding auras and mystical phenomenon. Witchsight now reveals all Shadows of an inspected target but not their respective strengths. The character suffers 1D6 temporary Corruption each time he or she attempts to see the Shadows of a creature, location or object.
+- Master Free. The character has achieved the master’s superior insights and can now see all Shadows and their respective strengths clearly. The character suffers 1D8 temporary Corruption each time an attempt is made to see the Shadows of a creature, location or object.
 ## WIZARDRY
-Wizardry is taught by Ordo Magica and is a
-tradition whose practitioners are well-versed
-in the mysteries of fire, the will’s triumph
-over matter and the labyrinths of the senses.
-To wizards of the Order, these phenomena are
-intimately connected.
-
-Novice Special. The wizard no longer suffers
-permanent Corruption when learning
-powers at novice level belonging to the
-tradition of Wizardry, nor when learning
-its rituals. Despite this, the character has no
-protection against the temporary Corruption
-that comes from using the powers and
-rituals of Wizardry.
-
-Adept Special. The wizard no longer suffers
-Corruption from learning the adept level
-of the powers belonging to the tradition
-of Wizardry. The adept has also learned to
-ground the powers and rituals of Wizardry
-in theories so well that the character now
-only suffers one (1) temporary Corruption
-when casting them.
-
-Master Special. The master wizard’s understanding
-of linked magic is all but complete and
-the player character may therefore re-roll
-one (1) failed test each turn when attempting
-to establish a Chain of mystical effects
-(see page 130). The wizard no longer suffers
-permanent Corruption from learning the
-master level of the powers belonging to the
-tradition of Wizardry.
+Wizardry is taught by Ordo Magica and is a tradition whose practitioners are well-versed in the mysteries of fire, the will’s triumph over matter and the labyrinths of the senses. To wizards of the Order, these phenomena are intimately connected.
+- Novice Special. The wizard no longer suffers permanent Corruption when learning powers at novice level belonging to the tradition of Wizardry, nor when learning its rituals. Despite this, the character has no protection against the temporary Corruption that comes from using the powers and rituals of Wizardry.
+- Adept Special. The wizard no longer suffers Corruption from learning the adept level of the powers belonging to the tradition of Wizardry. The adept has also learned to ground the powers and rituals of Wizardry in theories so well that the character now only suffers one (1) temporary Corruption when casting them.
+- Master Special. The master wizard’s understanding of linked magic is all but complete and the player character may therefore re-roll one (1) failed test each turn when attempting to establish a Chain of mystical effects (see page 130). The wizard no longer suffers permanent Corruption from learning the master level of the powers belonging to the tradition of Wizardry.
