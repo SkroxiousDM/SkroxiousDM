@@ -1,6 +1,10 @@
 ### 2.1 Attributes
 
-Characters are defined by eight core attributes, divided into Physical and Mental categories. Each attribute is rated on a scale of 0 to 5.  The Challenge Threshold is based upon your Attribute plus any modifiers before comparing to your action roll.
+Characters are defined by eight core attributes, divided into Physical and Mental categories. Each attribute is rated on a scale of 0 to 7.
+A character my not have an attribute higher than the number of Traits possessed.
+Through progression no attribute may exceed 7.
+At character creation the player is given 16 points to assign to the eight Attributes.
+  The Challenge Threshold is based upon your Attribute plus any modifiers before comparing to your action roll.
 
 #### 2.1.1 Physical Attributes
 
