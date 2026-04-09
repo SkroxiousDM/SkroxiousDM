@@ -14,7 +14,7 @@ Benefit: Any human Character that dies near you restores 1 Power to you.
 Desperate Action: When targeted with a Blooded
 Ability, you may impose Disadvantage on all Blooded Skill Checks made against you for a round.
 Benefit: You may make an Insight Skill Check (CR 15) to determine how powerful a Near Blooded is (the Arbiter will provide their Blood Skill Rank).
-### BLOODBREAKER
+  ### BLOODBREAKER
 Prerequisites: Bloodsense, Master Fighting
 Reaction: If you receive a wound from a Blooded Ability, you may attack the Character who wounded you with a Fighting or Archery Skill Check.
 ### HOUND
@@ -28,150 +28,90 @@ Desperate Action:When you would take more than 1 Wound from a single attack, you
 ### SLAYER
 Prerequisite: Strength 1 or Dexterity 1
 Benefit: Gain Advantage to Fighting and Archery Skill  Checks made against Risen.
-Reaction: If more than two Risen make Fighting Skill
-Checks against you in a round, you may attack an Adjacent Risen with your Fighting or Archery Skill Check.
+Reaction: If more than two Risen make Fighting Skill Checks against you in a round, you may attack an Adjacent Risen with your Fighting or Archery Skill Check.
 Desperate Action: Make a Fighting or Archery Skill Check against a Risen.
-BERSERKER
+### BERSERKER
 Prerequisite: Strength 4
 Benefit: After you receive a Wound that would result in your death, you may make a Strength Check (CR 1 0). If successful, you do not die but heal 1 Wound instead. Increase the CR by 5 each subsequent time the Check is made. A Rest returns the CR to 1 0.
-DUAL WIELDER
-Benefit: Your base Evasion becomes 1 0 + your Fighting Skill Rank while dual wielding swords, daggers, maces, axes, or katar.
+### DUAL WIELDER
+Benefit: Your base Evasion becomes 10 + your Fighting Skill Rank while dual wielding swords, daggers, maces, axes, or katar.
 Benefit: When you would inflict a Major Wound while dual wielding, inflict an additional Wound.
-OPPORTUNIST
+  ### OPPORTUNIST
 Prerequisites: Dual Wielder, Dexterity 2, Master Fighting
 Reaction: If you successfully Evade while dual wielding swords, daggers, or katar, you may attack your attacker with your Fighting Skill.
-BRUISER
-Prerequisites: Dual Wielder, Strength 2, Master
-Fighting
-Reaction: If your attack while dual wielding swords,
-axes, or maces, is mitigated by armor, you may make
-another attack with your Fighting Skill.
-DERVISH
+  ### BRUISER
+Prerequisites: Dual Wielder, Strength 2, Master Fighting
+Reaction: If your attack while dual wielding swords, axes, or maces, is mitigated by armor, you may make another attack with your Fighting Skill.
+    ### DERVISH
 Prerequisites: Opportunist or Bruiser, Strength 3 or
 Dexterity 3
-Desperate Action: While dual wielding, make a single
-Fighting Skill Check against a number of adjacent
-Characters up to your Dexterity or Strength.
-IRONCLAD
-Benefit: Armor requires 1 less Strength. You may forgo
-this benefit to have all Armor grant +1 Armor.
-Benefit: Armor’s Dexterity limit is increased by 1 . You
-may forgo this benefit to have all armor grant +1
-Armor.
-20
-RETALIATION
+Desperate Action: While dual wielding, make a single Fighting Skill Check against a number of adjacent Characters up to your Dexterity or Strength.
+### IRONCLAD
+Benefit: Armor requires 1 less Strength. You may forgo this benefit to have all Armor grant +1 Armor.
+Benefit: Armor’s Dexterity limit is increased by 1 . You may forgo this benefit to have all armor grant +1 Armor.
+  ### RETALIATION
 Prerequisites: Ironclad, Master Fighting Skill
-Reaction: If an attack from an adjacent source is
-mitigated by your Armor, you may attack them with a
-Fighting Skill Check.
-DANGEROUS
+Reaction: If an attack from an adjacent source is mitigated by your Armor, you may attack them with a Fighting Skill Check.
+### DANGEROUS
 Prerequisite: Novice Fighting or Archery
 Desperate Action: You may make an attack with your
-Fighting or Archery Skill Check as if you had Master
-Rank. If your Fighting or Archery Skill is Master Rank,
-this affects two Characters (make a single Skill Check).
-Desperate Action: You may take one additional
-Reaction this turn.
-DEADLY
+Fighting or Archery Skill Check as if you had Master Rank. If your Fighting or Archery Skill is Master Rank, this affects two Characters (make a single Skill Check).
+Desperate Action: You may take one additional Reaction this turn.
+### DEADLY
 Prerequisite: Novice Fighting
-Benefit: Your base Evasion becomes 1 0 + your Fighting
-Skill Rank while wielding only a single one-handed
-weapon. You may also be use a shield and retain this
-bonus.
-Benefit: +3 Chance ofMajor Wounds with one-handed
-weapons. Holding a shield or dual wielding reduces this
-benefit by 1 .
-SCRAPPER
-Prerequisites: Strength 1 or Dexterity 1 , Novice
-Fighting
-Benefit: +3 Chance ofMajor Wounds when making
-unarmed Fighting Skill Checks.
-Benefit: When you spend one Tenacity to gain
-Advantage on an unarmed attack, that attack inflicts
-Wounds as if you were armed.
-FORMIDABLE
+Benefit: Your base Evasion becomes 1 0 + your Fighting Skill Rank while wielding only a single one-handed weapon. You may also be use a shield and retain this bonus.
+Benefit: +3 Chance ofMajor Wounds with one-handed weapons. Holding a shield or dual wielding reduces this benefit by 1 .
+### SCRAPPER
+Prerequisites: Strength 1 or Dexterity 1 , Novice Fighting
+Benefit: +3 Chance of Major Wounds when making unarmed Fighting Skill Checks.
+Benefit: When you spend one Tenacity to gain Advantage on an unarmed attack, that attack inflicts Wounds as if you were armed.
+### FORMIDABLE
 Prerequisites: Strength 1 , Novice Fighting
-Benefit: Your base Evasion becomes 1 0 + your Fighting
-Skill Rank while wielding a two handed axe, mace, or
-sword.
-Benefit: When you would inflict a Major Wound with a
-two handed weapon, inflict an additional Wound.
-BUTCHER
-Prerequisites: Mighty, Strength 2, Adept Fighting
-Benefit: The first time you would inflict a Wound or
-Major Wound each round with a two handed axe,
-mace, or sword, inflict one more Wound.
-CLEAVER
-Prerequisites: Mighty, Strength 3, Master Fighting
-Reaction: If you kill a Character with a two-handed
-weapon, you may attack a Character adjacent to them.
-MANSLAYER
-Prerequisites: Cleaver, Strength 4
-Benefit: When Cleaver’s Reaction Skill Check exceeds
-a CR 25, you may attack an Adjacent Character.
-Mighty
+Benefit: Your base Evasion becomes 10 + your Fighting Skill Rank while wielding a two handed axe, mace, or sword.
+Benefit: When you would inflict a Major Wound with a two handed weapon, inflict an additional Wound.
+### Mighty
 Prerequisites: Strength 1
-Benefit: Gain Advantage on all non fighting Strength
-rolls to push, pull, or lift objects.
-LASHER
+Benefit: Gain Advantage on all non fighting Strength rolls to push, pull, or lift objects.
+  ### BUTCHER
+Prerequisites: Mighty, Strength 2, Adept Fighting
+Benefit: The first time you would inflict a Wound or Major Wound each round with a two handed axe, mace, or sword, inflict one more Wound.
+  ### CLEAVER
+Prerequisites: Mighty, Strength 3, Master Fighting
+Reaction: If you kill a Character with a two-handed weapon, you may attack a Character adjacent to them.
+    ### MANSLAYER
+Prerequisites: Cleaver, Strength 4
+Benefit: When Cleaver’s Reaction Skill Check exceeds a CR 25, you may attack an Adjacent Character.
+### LASHER
 Prerequisite: Dexterity 1 , Novice Fighting
-Benefit: Your base Evasion becomes 1 0 + your Fighting
-Skill Rank if using a spear or staff in both hands.
-Reaction: If you were not adjacent to an enemy on
-your last turn, gain Advantage on your first Fighting
-Skill Check this turn with a two-handed spear or staff.
-STAVER
+Benefit: Your base Evasion becomes 1 0 + your Fighting Skill Rank if using a spear or staff in both hands.
+Reaction: If you were not adjacent to an enemy on your last turn, gain Advantage on your first Fighting Skill Check this turn with a two-handed spear or staff.
+  ### STAVER
 Prerequisite: Lasher, Dexterity 2, Adept Fighting
-Reaction: If you would make a Fighting Skill Check
-with Advantage when using a two-handed spear or
-staff, you may instead make an attack against two
-adjacent Characters (make a single Skill Check).
-LANCER
+Reaction: If you would make a Fighting Skill Check with Advantage when using a two-handed spear or staff, you may instead make an attack against two adjacent Characters (make a single Skill Check).
+    ### LANCER
 Prerequisite: Staver, Dexterity 3, Master Fighting
-Desperate Action: You may spend one Tenacity to
-make a Fighting Skill Check with a two-handed staff or
-spear against any number of Adjacent Characters (make
-a single Skill Check).
-DUELIST
+Desperate Action: You may spend one Tenacity to make a Fighting Skill Check with a two-handed staff or spear against any number of Adjacent Characters (make a single Skill Check).
+### DUELIST
 Prerequisite: Mind 1 , Novice Fighting
-Benefit:When you would make a Fighting Skill Check
-with Advantage, roll three d20 instead of two and take
-the highest of the three.
-Benefit: If you are adjacent to only one other
-Character, gain +2 Chance ofMajor Wounds with
-Fighting Skill Checks.
-SKIRMISHER
+Benefit: When you would make a Fighting Skill Check with Advantage, roll three d20 instead of two and take the highest of the three.
+Benefit: If you are adjacent to only one other Character, gain +2 Chance of Major Wounds with Fighting Skill Checks.
+  ### SKIRMISHER
 Prerequisite: Duelist, Mind 2, Master Fighting
-Benefit: +1 Chance ofMajor Wounds on Fighting Skill
-Checks.
-Benefit: Once per round, when you use a Reaction, you
-may use a Reaction you have already used this round.
-CHARGER
+Benefit: +1 Chance ofMajor Wounds on Fighting Skill Checks.
+Benefit: Once per round, when you use a Reaction, you may use a Reaction you have already used this round.
+### CHARGER
 Prerequisite: Apprentice Fighting
-Benefit: +2 Chance ofMajor Wounds with Fighting
-Skill Checks if you have no Wounds.
-Benefit: If you move to attack a Character who is not
-currently adjacent with a Fighting Skill Check, gain +2
-Chance ofMajor Wounds.
-Benefit: You may use your Strength instead of your
-Dexterity when calculating Alacrity.
-RECKLESS
+Benefit: +2 Chance ofMajor Wounds with Fighting Skill Checks if you have no Wounds.
+Benefit: If you move to attack a Character who is not currently adjacent with a Fighting Skill Check, gain +2 Chance of Major Wounds.
+Benefit: You may use your Strength instead of your Dexterity when calculating Alacrity.
+### RECKLESS
 Prerequisites: Strength 1 , Apprentice Fighting
-Benefit: You may choose for all your Fighting Skill
-Checks, and for all attacks against you, to have
-Advantage for a round.
-DIRTY FIGHTER
-Prerequisite: Strength 1 or Dexterity 1 , Apprentice
-Fighting
-Reaction: If you fail to hit with an attack from your
-Fighting Skill, you may attack again with your Fighting
-Skill at Disadvantage.
-Benefit: You may choose to make Fighting Skill Checks
-with Disadvantage. Whenever you make a successful
-Fighting Skill Check with Disadvantage, you inflict an
-additional Wound.
-21
-DEFENDER
+Benefit: You may choose for all your Fighting Skill Checks, and for all attacks against you, to have Advantage for a round.
+### DIRTY FIGHTER
+Prerequisite: Strength 1 or Dexterity 1 , Apprentice Fighting
+Reaction: If you fail to hit with an attack from your Fighting Skill, you may attack again with your Fighting Skill at Disadvantage.
+Benefit: You may choose to make Fighting Skill Checks with Disadvantage. Whenever you make a successful Fighting Skill Check with Disadvantage, you inflict an additional Wound.
+### DEFENDER
 Prerequisites: Strength 2, Apprentice Fighting
 Benefit: Shields grant +1 Armor.
 Reaction: If you do not move this turn, you may use a
