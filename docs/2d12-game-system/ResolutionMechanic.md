@@ -9,12 +9,11 @@ All uncertain actions, including attacks, skill checks, and certain spell uses, 
 #### 2.3.1 Rolling the Dice
 
 - Roll **two d12s** for every action roll. One must be a distinct **Doom die**.  
-- Add relevant attribute and skill bonuses to the total, if applicable.  
 - Compare the final total to the **Challenge Threshold** set by the GM.
 
 #### 2.3.2 Challenge Threshold
 
-The Challenge Threshold represents task difficulty.
+The Challenge Threshold (CT) represents task difficulty. 10 + Modifier + Attribute + Skill + Specialisation + Trait
 
 | Difficulty   | Modifier | Example Task |
 |-------------|---------:|--------------|
