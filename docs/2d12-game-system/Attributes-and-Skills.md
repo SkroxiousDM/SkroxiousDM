@@ -727,7 +727,7 @@ Plead: Rarely a Skill you want to use, it may be one you have to use. Plead play
 
 Athletics (Str)
 Awareness (Per)
-Dexterity (Ag)
+Thievery (Ag)
 *Discipline (Wil)* 
 *Fortitude (Tgh)*
 Intuition (Per)
@@ -736,12 +736,12 @@ Logic (Int)
 Lore (Int)
 Medicae (Int)
 **Melee (WS)**
-Navigation (Int)
+Survival (Int)
 Presence (Wil)
-Piloting (Ag)
-Psychic Mastery (Wil)
+Animal Handling (Ag)
+Arcane (Wil)
 **Ranged (BS)**
 Rapport (Fel)
 *Reflexes (Ag)*
 Stealth (Ag)
-Tech (Int)
+Craft (Int)
