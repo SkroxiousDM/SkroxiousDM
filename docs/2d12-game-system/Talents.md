@@ -1,54 +1,28 @@
-Talents
-Your character has areas of natural aptitude or special
-training called talents. They provide a way to customize
-your character that goes beyond background and class.
-Each talent is divided into three degrees: Novice, Journeyman,
-and Master. Each degree provides a game system
-benefit. You have to be a novice in a talent before you can
-become a journeyman, and a journeyman before you can
-become a master.
-You gain new talents and degrees through your class,
-which also limits the talents you have access to. Each talent
-lists the classes it is available to; you cannot take talents not
-open to your class. Most talents also have requirements,
-like specific focuses or weapons groups. If you don’t have
-all the requirements, you cannot take the talent.
-When talents are listed for a character, the standard
-format is talent first, followed by the degree achieved in
-parentheses. Command (Journeyman), for example, or
-Performance (Novice).
-A catalog of the talents available follows. They use the
-following format:
-Talent Name
-Classes: Classes that can take this talent are listed here.
-Requirement: You cannot take this talent unless you
-have the specified requirement(s).
+# Talents
+Your character has areas of natural aptitude or special training called talents. They provide a way to customize your character that goes beyond background and class. Each talent is divided into three degrees: Novice, Journeyman, and Master. Each degree provides a game system benefit. You have to be a novice in a talent before you can become a journeyman, and a journeyman before you can become a master.
+
+You gain new talents and degrees through your class, which also limits the talents you have access to. Each talent lists the classes it is available to; you cannot take talents not open to your class. Most talents also have requirements, like specific focuses or weapons groups. If you don’t have all the requirements, you cannot take the talent.
+
+When talents are listed for a character, the standard format is talent first, followed by the degree achieved in parentheses. Command (Journeyman), for example, or Performance (Novice).
+
+A catalog of the talents available follows. They use the following format:
+### Talent Name
+-Requirement: You cannot take this talent unless you have the specified requirement(s).
+
 A short description of the talent.
-Novice: The benefit gained when you become a novice.
-Journeyman: The benefit gained when you become a
-journeyman.
-Master: The benefit gained when you become a master.
-Talents
-Animal Training
-Class: Any.
+- Novice: The benefit gained when you become a novice.
+- Journeyman: The benefit gained when you become ajourneyman.
+- Master: The benefit gained when you become a master.
+## Talents
+### Animal Training
 Requirement: None.
 You know how to train animals.
-Novice: You know the basics of dealing with animals.
-With a week of training, you can teach an animal to follow
-a simple one-word command like “Heel,” “Follow,”
-or “Attack.” You can teach a single animal a number of
-commands equal to your Communication.
-Journeyman: You can train animals to follow more complex
-commands, like “Guard this place” or “Return to me when
-strangers approach.” Teaching a complex command takes
-two weeks of training and the total number of commands a
-single animal can learn is equal to your Communication +2.
-Master: Your training can turn animals into prime
-examples of their kind. With a month of training, you can
-increase an animal’s Dexterity or Strength by +1. It also
-gains the Willpower (Morale) focus. An animal can only
-receive such training once.
-Animism
+- Novice: You know the basics of dealing with animals. With a week of training, you can teach an animal to follow a simple one-word command like “Heel,” “Follow,”
+or “Attack.” You can teach a single animal a number of commands equal to your Communication.
+- Journeyman: You can train animals to follow more complex commands, like “Guard this place” or “Return to me when strangers approach.” Teaching a complex command takes two weeks of training and the total number of commands a single animal can learn is equal to your Communication +2.
+- Master: Your training can turn animals into prime
+examples of their kind. With a month of training, you can increase an animal’s Dexterity or Strength by +1. It also gains the Willpower (Morale) focus. An animal can only receive such training once.
+### Animism
 Class: Adept.
 Requirement: None.
 You can learn and use animism arcana.
@@ -59,14 +33,14 @@ Psychic Shield and Second Sight, you gain one other
 animism arcanum in their place.
 Journeyman: You gain two additional Animism arcana.
 Master: You gain two additional Animism arcana.
-Arcane Potential
+### Arcane Potential
 Class: Expert, Warrior.
 Requirement: None.
 You have the potential to develop some arcane abilities.
 Novice: You gain one arcanum of your choice.
 Journeyman: You gain one arcanum of your choice.
 Master: You gain one arcanum of your choice.
-Arcane Training
+### Arcane Training
 Class: Adept.
 Requirement: None.
 You learn to master a diverse number of arcana.
@@ -76,7 +50,7 @@ Journeyman: You gain two additional arcana for a talent
 you already possess.
 Master: You gain two additional arcana for a talent you
 already possess.
-Armor Training
+### Armor Training
 Class: Warrior.
 Requirement: None.
 You have learned to fight while wearing armor. You
@@ -92,7 +66,7 @@ armor. You gain the benefit of half the armor rating
 (rounded down) of your armor when you take
 penetrating damage. (Normally, armor provides no
 defense against penetrating damage.)
-Archery Style
+### Archery Style
 Classes: Expert, Warrior.
 Requirement: You must be trained in the Bows weapons
 group.
@@ -109,7 +83,7 @@ instead of the usual 3. (If you are using a crossbow you’ll
 also need to perform a Rapid Reload combat stunt to take
 advantage of this benefit, since you must have a loaded
 weapon to use Lightning Attack.)
-Artificer
+### Artificer
 Class: Adept.
 Requirements: You must have Dexterity 2 or higher and
 the Dexterity (Artisan) and Dexterity (Crafting) focuses.
@@ -119,7 +93,7 @@ Novice: You learn the basics of imbuing formulas to create
 elixirs.
 Journeyman: You learn to imbue arcane stones.
 Master: You learn to imbue arcane weapons.
-Carousing
+### Carousing
 Class: Any.
 Requirements: You must have Communication and
 Constitution 1 or higher.
@@ -142,7 +116,7 @@ that stunt for 3 SP instead of the usual 4, and you gain a
 +1 bonus to the opposed roll for that stunt. Thus, if you
 choose Tower of Will, your bonus on opposed tests is +2
 instead of the usual +1.
-Command
+### Command
 Classes: Adept, Warrior.
 Requirement: You must have Communication 2 or higher.
 You are a natural leader.
@@ -158,7 +132,7 @@ take a Willpower (Morale) test until more than two-thirds
 of your side’s combatants are out of the fight (dead or
 incapacitated). If you leave the fight or fall in battle, this
 benefit is lost.
-Contacts
+### Contacts
 Class: Any.
 Requirement: You must have Communication 1 or higher.
 You know people, sometimes in the unlikeliest places.
@@ -180,7 +154,7 @@ show of loyalty. If you do a significant favor for a contact,
 they will treat you as a friend when you ask them for
 favors. They will go out of their way to help you and will
 be willing to put themselves in danger for you.
-Dual Weapon Style
+### Dual Weapon Style
 Classes: Expert, Warrior.
 Requirement: You must have Dexterity 2 or higher.
 You can fight with a weapon in your main hand (your
@@ -202,7 +176,7 @@ weapon and you are not charging, you can make another
 attack with your secondary weapon as a minor action. The
 second attack cannot generate stunt points, and you only
 add half your Strength (rounded down) to damage.
-Healing
+### Healing
 Class: Adept.
 Requirement: None.
 You can learn and use healing arcana.
@@ -212,7 +186,7 @@ and Second Sight, you gain one other healing arcanum
 in their place.
 Journeyman: You gain two additional Healing arcana.
 Master: You gain two additional Healing arcana.
-Horsemanship
+### Horsemanship
 Class: Any.
 Requirement: You must have the Dexterity (Riding)
 focus.
@@ -226,7 +200,7 @@ Master: You were born to the saddle. You add +1 to your
 Defense while mounted. You may also reroll a failed
 Dexterity (Riding) test, but you must keep the result of
 the second roll.
-Inspire
+### Inspire
 Class: Any.
 Requirement: You must have Communication 2 or higher.
 You are inspiring to others. You may be a great speaker
@@ -249,9 +223,7 @@ per encounter, you can spend two minor actions to offer
 words of inspiration to your allies. All who hear these
 words heal 1d6 + your Communication in Health and gain
 a +2 bonus on their next test.
-73
-Chapter 3: Focuses, Talents, and Specializations
-Intrigue
+### Intrigue
 Class: Any.
 Requirement: You must have Communication 2 or higher.
 You are a master of secrets.
@@ -271,7 +243,7 @@ opportunity to change this immediately into a combat
 encounter. If you do so, you and one ally per extra stunt
 point you spend can act in the first round of combat.
 Everyone else is surprised.
-Linguistics
+### Linguistics
 Class: Any.
 Requirement: You must have Intelligence 1 or higher.
 You can learn new languages easily. When you learn a
@@ -290,7 +262,7 @@ successful Communication (Performance) test.
 Master: You learn two more languages from the previous
 list. You can also pick any one language you know and
 speak it like a native—that is, without an accent.
-Lore
+### Lore
 Class: Any.
 Requirement: You must have Intelligence 2 or higher.
 You have an inquisitive mind and absorb facts easily.
@@ -312,7 +284,7 @@ areas of particular specialization. Pick any two of your
 lore focuses. When making tests using those focuses, you
 can reroll a failed test but you must keep the result of the
 second roll.
-Medicine
+### Medicine
 Class: Any.
 Requirement: You must have Intelligence 1 or higher.
 You can treat wounds and illnesses.
@@ -324,7 +296,7 @@ Health equal to (Drama Die × 2) + Intelligence.
 Master: Your healing ability is legendary. When you use
 the Heal action, your ally gets back an amount of Health
 equal to (Drama Die × 3) + Intelligence.
-Meditative
+### Meditative
 Class: Adept.
 Requirement: None.
 You can learn and use meditative arcana.
@@ -334,7 +306,7 @@ and Second Sight, you gain one other meditative arcanum
 in their place.
 Journeyman: You gain two additional Meditative arcana.
 Master: You gain two additional Meditative arcana.
-Mounted Combat Style
+### Mounted Combat Style
 Class: Warrior.
 Requirements: You must have the Dexterity (Riding)
 focus and a humanoid-enough form to effectively
@@ -346,8 +318,6 @@ action, you can move part of your allowed distance, then
 use your major action to make a melee or ranged attack,
 and then move the rest of your allowed distance. The
 total distance moved cannot be more than your mount’s
-74
-Chapter 3: Focuses, Talents, and Specializations
 Speed. Normally, you’d have to finish moving before
 attacking.
 Journeyman: Your mounted charge is fearsome. You can
@@ -359,7 +329,7 @@ Note: Two-handed weapons and long bows cannot be
 used on horseback, and this applies to anyone, not just
 those with this talent. If you attempt to use those weapons
 while mounted, they count as improvised weapons.
-Observation
+### Observation
 Class: Any.
 Requirement: You must have Perception 2 or higher.
 You have an eye for detail.
@@ -375,7 +345,7 @@ Master: Nothing escapes your scrutiny. You can perform
 The Object of Your Attention exploration stunt for –1 SP.
 In addition, the stunt gives you a +2 bonus instead of the
 usual +1.
-Oratory
+### Oratory
 Class: Any.
 Requirement: You must have the Communication
 (Persuasion) focus.
@@ -397,7 +367,7 @@ them to immediate action. You can’t necessarily control
 what they do—though you can try with Communication
 (Leadership) tests—but they take your words to heart and
 act on them.
-Performance
+### Performance
 Class: Any.
 Requirement: You must have the Communication
 (Performance) focus or the Intelligence (Musical
@@ -419,7 +389,7 @@ Master: When performing, you exude confidence and
 style. You may perform the With a Flourish exploration
 stunt while entertaining an audience for 3 SP instead of its
 usual cost of 5, and its effects last until the end of the day.
-Pole Weapon Style
+### Pole Weapon Style
 Class: Warrior.
 Requirement: You must be trained in the Polearms
 weapons group.
@@ -448,6 +418,5 @@ you can perform the Knock Prone combat stunt for 1 SP
 instead of the usual 2. In addition, mounted combatants
 do not gain the +1 bonus for fighting against an opponent
 on foot when attacking you.
-75
-Psychic
+### Psychic
 Class:
