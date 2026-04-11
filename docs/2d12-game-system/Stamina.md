@@ -32,3 +32,21 @@ im still working on resolve
 - it will me used for Fear and Morale effects
 - also for Ritual Magic and Investing Foci
 - it should be slower to recover than Stamina.
+
+
+# Resting and Healing
+### Short Rest
+1 hour uninterupted rest
+- at the end of a Short rest you recover all Spent Stamina points
+- at the end of a Short rest you recover 1 Resolve point.
+### Long Rest
+8 hours uninterupted rest
+- at the end of a Long rest you recover all Spent Stamina points
+- at the end of a Long rest you recover (1d4+Will) Resolve points.
+### Full Rest
+24 hours spent in a safe place at least 6 hours must be spent sleeping the remainder of the day may be used for downtime activities.
+- At the end of a Full Rest you recover all Spent Stamina points.
+- at the end of a Full rest you recover all Spent Resolve points.
+- at the end of a Full Rest you heal 1 Wound.
+
+
