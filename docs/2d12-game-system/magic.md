@@ -1,0 +1,5 @@
+### PREPARING BATTLEFIELD SPELLS
+
+To cast a spell, a spellcaster must first prepare their mantle with the spells they wish to bind to it. A mantle is a significant item such as a wand, staff, or runestone that a spellcaster uses to "store" bound spells. This allows them to unleash the power of those spells quickly and without elaborate rituals.
+
+A spellcaster can bind a number of spells to their mantle equal to their power rating. Preparing these spells requires a skill test with a difficulty of 0, and it takes a number of minutes equal to the combined difficulty of the spells being prepared. The attribute and skill used to bind a spell varies: traditional spellcasters use Insight + Survival, and research spellcasters use Reason + Academia. Once the spells are bound, a spellcaster's mantle contains the chosen spells until the spellcaster sleeps or is otherwise rendered unconscious. Bound spells do not miscast (see Miscast Spells and Rituals, page) if the spellcaster becomes unconscious.
