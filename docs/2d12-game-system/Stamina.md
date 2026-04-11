@@ -17,8 +17,8 @@ Items that are even smaller than LIGHT are  called TINY. They are so small they 
 
 this would encorage three extremes of play style:
 - The light, fast Rogue carries only the minimum in equipment, and can pull off plenty of acrobatics, stunts, and running.
-- The Magus holds and keeps magic items, and uses breath to elicit effects.
-- The Tank wears and carries plenty of heavy gear, and has only a little breath left for stunts or to focus with magical issues.
+- The Magus holds and keeps magic items, and uses Stamina to elicit effects.
+- The Tank wears and carries plenty of heavy gear, and has only a little Stamina left for stunts or to focus with magical issues.
 
 By Adding Talents, these three styles could be supported explicitly, rather than implicitly. 
 - The Warrior can wear armour and carry an in-hand weapon as if it each were one Stamina lighter. 
