@@ -1,4 +1,4 @@
-# Stamina 
+8# Stamina 
 - **States:** Stamina can be Available, Spent, or Invested.
 - **Equal to Physical Attributes:** Each character has breath points equal to the sum of  their Physical Attributes.
 - **Recover 1D4+Con:** When you spend an action catching your breath, you regain 1d4 Stamina, plus your Constitution.
@@ -26,8 +26,9 @@ By Adding Talents, these three styles could be supported explicitly, rather than
 - The magus spends one fewer Stamina when controlling a magic item they have repressed, which can even make some items free to use.
 
 
-#Resolve
+# Resolve
 im still working on resolve
 
-it will me used for Fear and Morale effects but also for Ritual Magic and Investing Foci
-it should be slower to recover
+- it will me used for Fear and Morale effects
+- also for Ritual Magic and Investing Foci
+- it should be slower to recover than Stamina.
