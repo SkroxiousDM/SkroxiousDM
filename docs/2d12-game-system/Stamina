@@ -10,7 +10,20 @@
 so on. To switch them off, you must invest breath points on concentration.
 - SPEND TO CONTROL: Magician's items, such as wands, tomes, and such, can only be used in a focused and controlled manner by first repressing them, and then spending breath (on top of the 
 breath used to repress them) to elicit clear and useful effects.
-- INVEST TO CARRY: The normal encumbrance system is ignored. Instead, for each ten pounds you want to carry, you must invest one breath in doing so.
+- INVEST TO CARRY: 
+##### HEAVY & LIGHT ITEMS
+An item designated as HEAVY counts as two 
+regular items, and will take up two Stamina on 
+At the opposite end of the spectrum, there are items that are designated as LIGHT – they count as half of a regular item, and so you can carry 2 LIGHT items for 1 Stamina
+##### TINY ITEMS
+Items that are even smaller than LIGHT are 
+called TINY. They are so small they don’t affect your Stamina at all. The rule of thumb is: 
+if the item can be hidden in a closed fist, it’s TINY. 
+>COINS: Single coins count as TINY items and 
+don’t encumber you. However, 100 coins count 
+as a LIGHT item, 200 coins count as a normal 
+item, and 400 coins count as a HEAVY item.
+
 - OUT OF BREATH: When you are at less than half breath available, you roll -1d on all physical actions. When you have none, you can't move past a slow trudge, and roll -2d on all physical actions.
 
 
