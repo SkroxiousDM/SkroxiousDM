@@ -1,4 +1,4 @@
-8# Stamina 
+# Stamina 
 - **States:** Stamina can be Available, Spent, or Invested.
 - **Equal to Physical Attributes:** Each character has breath points equal to the sum of  their Physical Attributes.
 - **Recover 1D4+Con:** When you spend an action catching your breath, you regain 1d4 Stamina, plus your Constitution.
@@ -21,9 +21,9 @@ this would encorage three extremes of play style:
 - The Tank wears and carries plenty of heavy gear, and has only a little breath left for stunts or to focus with magical issues.
 
 By Adding Talents, these three styles could be supported explicitly, rather than implicitly. 
-- The warrior class can wear armour and carry an in-hand weapon as if it each were one Stamina lighter. 
-- The rogue rolls two dice for recovery and takes the better die. 
-- The magus spends one fewer Stamina when controlling a magic item they have repressed, which can even make some items free to use.
+- The Warrior can wear armour and carry an in-hand weapon as if it each were one Stamina lighter. 
+- The Rogue rolls two dice for recovery and takes the better die. 
+- The Magus spends one fewer Stamina when controlling a magic item they have repressed, which can even make some items free to use.
 
 
 # Resolve
