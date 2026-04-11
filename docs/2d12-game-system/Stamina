@@ -1,8 +1,8 @@
-Stamina 
+# Stamina 
 >YOU KNOW THAT THIS IS GOING TO BE UGLY, so you get ready. You drop your backpack, let go of that back-of-the-mind focus you've been maintaining, and focus on what's in front of you. Limbered up, fully concentrated, you're ready to go. Your opponent, heavily armoured, benefits from that gear, but they just won't last as long. Here goes.
 
 
-- States: Stamina can be Available, Spent, or Invested.
+- **States:** Stamina can be Available, Spent, or Invested.
 - **Equal to Physical Attributes:** Each character has breath points equal to the sum of  their Physical Attributes.
 - **Recover 1D4+Con:** When you spend an action catching your breath, you regain 1d4 Stamina, plus your Constitution.
 - **Spend to run and tumble:** Anytime you run or tumble, you must spend a Stamina. You can also spend a further point of Stamina to move a bonus space when you run, or to gain a bonus die on the tumble roll.
