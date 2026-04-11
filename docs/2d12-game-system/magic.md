@@ -1,4 +1,4 @@
-
+# Magic
 
 The practice of magic is divided into two disciplines. The first is Evocation, or Battlefield magic, shorter-term enchantments of instant effect and brief duration-spells, curses, hexes, charms, and blessings-which are used primarily in combat and out in the field, away from the controlled conditions necessary for lengthier rites.
 
