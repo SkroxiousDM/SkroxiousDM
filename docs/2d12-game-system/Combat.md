@@ -19,6 +19,7 @@ While **Dying**:
 - You are at risk of further harm:
   - Attacking or casting a spell causes 1 Wound unless you succeed on a Challenging Fortitude.  
   - Taking damage causes 2 Wounds (3 Wounds on a critical hit).
+  - you can sustain a maximum of (2xCon) Wounds
 
 [rules for Wounds and recovery can be expanded in a later section (e.g., chapter 3).]
 
