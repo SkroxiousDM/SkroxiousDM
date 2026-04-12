@@ -1,40 +1,48 @@
-### 2.1 Attributes
+## 2.1 Attributes
 
-Characters are defined by eight core attributes, divided into Physical and Mental categories. Each attribute is rated on a scale of 0 to 7.
-A character my not have an attribute higher than the number of Traits possessed.
-Through progression no attribute may exceed 7.
-At character creation the player is given 16 points to assign to the eight Attributes.
-  The Challenge Threshold is based upon your Attribute plus any modifiers before comparing to your action roll.
+- Characters are defined by eight core attributes, divided into Physical and Mental categories. Each attribute is rated on a scale of 0 to 7.
+- A character my not have an attribute higher than the number of Traits possessed.
+- Through progression no attribute may exceed 7.
+- At character creation the player is given 16 points to assign to the eight Attributes.
 
-#### 2.1.1 Physical Attributes
+### 2.1.1 Physical Attributes
 
-- **Strength (STR):** Raw physical power for lifting, striking, and feats of might.  
-- **Dexterity (DEX):** Precision, speed, and hand–eye coordination.  
-- **Agility (AGI):** Reflexes, balance, and body control.  
-- **Constitution (CON):** Endurance, resistance to harm, and toughness.  
+#### **Strength (STR):** 
+Raw physical power for lifting, striking, and feats of might.  
+#### **Constitution (CON):** 
+Endurance, resistance to harm, and toughness.  
+#### **Dexterity (DEX):** 
+Precision, speed, and hand–eye coordination.  
+#### **Agility (AGI):** 
+Reflexes, balance, and body control.  
 
-**Stamina** = (STR + DEX + AGI + CON)
+### 2.1.2 Mental Attributes
 
-#### 2.1.2 Mental Attributes
+#### **Intelligence (INT):** 
+Reasoning, memory, and problem–solving.  
+#### **Perception (PER):** 
+Awareness, senses, and intuitive insight.  
+#### **Charisma (CHA):** 
+Social presence, charm, and leadership.  
+#### **Willpower (WIL):** 
+Mental fortitude, determination, and force of will.  
 
-- **Intelligence (INT):** Reasoning, memory, and problem–solving.  
-- **Willpower (WIL):** Mental fortitude, determination, and force of will.  
-- **Perception (PER):** Awareness, senses, and intuitive insight.  
-- **Charisma (CHA):** Social presence, charm, and leadership.  
+### 2.1.3 Combat Attributes
 
-**Resolve** = (INT + WIL + PER + CHA)
+#### **Stamina** = (STR + CON + DEX + AGI)
 
-#### 2.1.3 Initiative
+#### **Vitality** = (3 + CON + Traits)
 
-**Initiative** determines turn order in combat.  
+#### **Evasion** = (AGI + Shield + Traits)
 
-**Initiative** = (AGI + INT)  
+#### **Alacrity** = (AGI + INT)  
+Characters act from highest Alacrity to lowest
 
-Characters act from highest Initiative to lowest (see section 2.4.2).
+#### **Resolve** = (INT + WIL + PER + CHA)
 
 ---
 
-### 2.2 Skills
+## 2.2 Skills
 
 Skills represent trained capabilities tied to specific attributes and situations. Having a relevant skill grants a +1 bonus for each level of training (novice, adept, and master)  to the associated attribute check, and a skilled character may Push a failed check to attempt it again (subject to the Push rules in section 2.3.4). In rare cases, the GM may require a specific skill to attempt an action, but most tasks can be attempted untrained.
 
@@ -45,7 +53,7 @@ At the GM’s discretion, possessing a relevant skill can:
 
 Each skill may also have specializations that reflect focused expertise.
 
-#### 2.2.1 Skill Specializations
+### 2.2.1 Skill Specializations
 
 A specialization is a narrow focus within a skill. For example, a character proficient in Deception might specialize in Long Cons, or a character with History might specialize in war chronicles.
 
@@ -56,7 +64,7 @@ A specialization is a narrow focus within a skill. For example, a character prof
 
 The GM decides when a specialization applies.
 
-#### 2.2.2 Skill Groups
+### 2.2.2 Skill Groups
 
 Skills are organized into functional groups. Culture aspects (see section 2.5) grant access to these groups.
 
@@ -78,7 +86,7 @@ Used to interact with others socially or emotionally.
 - **Persuade:** Convince others through charm and grace.  
 - **Read Person:** Read emotions and body language.
 
-##### Crafting Skills
+#### Crafting Skills
 
 Used to create, modify, or repair physical items.
 
@@ -93,7 +101,7 @@ Used to create, modify, or repair physical items.
 - **Mechanics:** Build and maintain machines and clockworks.  
 - **Tailoring:** Craft clothing from cloth or leather.
 
-##### Exploration Skills
+#### Exploration Skills
 
 Used to move, endure, and operate in physical environments.
 
@@ -108,7 +116,7 @@ Used to move, endure, and operate in physical environments.
 - **Ride:** Control nonsapient mounts.  
 - **Swim:** Move through deep water or other liquids.
 
-##### Lore Skills
+#### Lore Skills
 
 Used to recall and apply specialized knowledge.
 
@@ -124,8 +132,7 @@ Used to recall and apply specialized knowledge.
 - **Strategy:** Battle tactics and logistics.  
 - **Planar:** The many planes of existence and their traits.
 
-##### Intrigue Skills
-
+#### Intrigue Skills
 Used for stealth, subterfuge, and covert operations.
 
 - **Alertness:** Sense subtle details in your surroundings.  
