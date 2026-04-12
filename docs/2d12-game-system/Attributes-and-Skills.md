@@ -743,25 +743,25 @@ Plead: Rarely a Skill you want to use, it may be one you have to use. Plead play
 | **Eavesdrop**          | PER     | Listen to quiet or distant conversations.                   | Ear cup, thin fabric, noise‑dampening gear, chalk, small tools           |
 
 
-Athletics (Str)
-Awareness (Per)
-Thievery (Ag)
-*Discipline (Wil)* 
-*Fortitude (Tgh)*
+Athletics (Str) Climbing, Might, Riding, Running Swimming 
+Awareness (Per) Hearing, sight, smell,  taste, touch. erie
+Thievery (Ag) lock picking. pickpocket, sleight of hand, disarm trap
+*Discipline (Wil)* Composure, Fear, Psychic
+*Fortitude (Tgh)* Endurance, Pain, Poison 
 Intuition (Per)
 Linguistics (Int)
-Logic (Int)
+Logic (Int) Evaluation, Investigation 
 Lore (Int)
 Medicae (Int)
-**Melee (WS)**
-Survival (Int)
-Presence (Wil)
+**Melee (WS)** Brawling, 
+Survival (Int) Navigation, Tracking, 
+Presence (Wil) Interrogation, Intimidation, Leadership.
 Animal Handling (Ag)
 Arcane (Wil)
 **Ranged (BS)**
-Rapport (Fel)
-*Reflexes (Ag)*
-Stealth (Ag)
+Rapport (Fel) Charm, Deception, Haggle, Inquiry
+*Reflexes (Ag)* Acrobatics,  Valence, dodge
+Stealth (Ag) Conceal, Hide, Move Silently 
 Craft (Int)
 
 
