@@ -1,7 +1,14 @@
-# Talents
-Your character has areas of natural aptitude or special training called talents. They provide a way to customize your character that goes beyond background and class. Each talent is divided into three degrees: Novice, Journeyman, and Master. Each degree provides a game system benefit. You have to be a novice in a talent before you can become a journeyman, and a journeyman before you can become a master.
+8# Talents
+Your character has areas of natural aptitude or special training called talents. They provide a way to customize your character that goes beyond Background and Culture and Role. Each talent is divided into three degrees: Novice, Adept, and Master. Each degree provides a game system benefit. You have to be a Novice in a talent before you can become an Adept, and an Adept before you can become a Master.
 
-You gain new talents and degrees through your class, which also limits the talents you have access to. Each talent lists the classes it is available to; you cannot take talents not open to your class. Most talents also have requirements, like specific focuses or weapons groups. If you don’t have all the requirements, you cannot take the talent.
+#### Requirements 
+Some Talents have Requirements you need to meet before you can purchase them. If you stop meeting the Requirements for a Talent, you lose the Talent. Requirements are typically one or more of the following: 
+- Above or below a certain Characteristic, such as ‘Agility 4’ or ‘Less than 3 Intelligence’. 
+0 A number of Advances in a Skill, for example ‘2 Advances in Melee’. 
+- a Specialisation, for example ‘ Melee (Two-handed)’. This does not require you to have Advances in Melee. 
+- A lack of Advances in a Skill or Specialisation, such as ‘No Advances in Presence or any Presence Specialisation’. 
+- Some Talents can only be taken during character creation, and cannot be purchased after you start playing. 
+- Some Talents prevent you from, or require you to take other Talents.
 
 When talents are listed for a character, the standard format is talent first, followed by the degree achieved in parentheses. Command (Journeyman), for example, or Performance (Novice).
 
