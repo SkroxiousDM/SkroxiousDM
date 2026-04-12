@@ -8,37 +8,47 @@
 ### 2.1.1 Physical Attributes
 
 #### **Strength (STR):** 
-Raw physical power for lifting, striking, and feats of might.  
+Raw physical power for lifting, striking, and feats of might. 
+- adds bonus to Melee attacks damage.
 #### **Constitution (CON):** 
 Endurance, resistance to harm, and toughness.  
 #### **Dexterity (DEX):** 
-Precision, speed, and hand–eye coordination.  
+Precision, speed, and hand–eye coordination. 
+- used for ranged attacks
 #### **Agility (AGI):** 
-Reflexes, balance, and body control.  
+Reflexes, balance, and body control.
+- used for melee attacks
 
 ### 2.1.2 Mental Attributes
 
-#### **Intelligence (INT):** 
-Reasoning, memory, and problem–solving.  
-#### **Perception (PER):** 
-Awareness, senses, and intuitive insight.  
+#### **Reason (REA):** 
+logic, memory, and problem–solving.  
+#### **Insight (INS):** 
+Awareness, perception, and intuition. 
+- adds bonus to Ranged attacks damage
 #### **Charisma (CHA):** 
 Social presence, charm, and leadership.  
 #### **Willpower (WIL):** 
 Mental fortitude, determination, and force of will.  
+- adds bonus to Mental attacks damage
 
-### 2.1.3 Combat Attributes
+### 2.1.3 Derived Attributes
 
-#### **Stamina** = (STR + CON + DEX + AGI)
+#### **Stamina** = (STR + CON + DEX + AGI + Traits)
 
 #### **Vitality** = (3 + CON + Traits)
 
 #### **Evasion** = (AGI + Shield + Traits)
 
-#### **Alacrity** = (AGI + INT)  
+#### **Alacrity** = (AGI + REA + Traits)  
 Characters act from highest Alacrity to lowest
 
-#### **Resolve** = (INT + WIL + PER + CHA)
+#### **Resolve** = (CON + WIL + Traits)
+
+#### **Power**
+- Traditional: 2 + INS.
+- Research: 2 + REA.
+- Dabbling: 1 + WIL.
 
 ---
 
