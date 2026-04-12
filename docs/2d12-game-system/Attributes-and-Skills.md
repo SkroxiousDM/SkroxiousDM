@@ -1,9 +1,9 @@
 ## 2.1 Attributes
 
 - Characters are defined by eight core attributes, divided into Physical and Mental categories. Each attribute is rated on a scale of 0 to 7.
-- A character my not have an attribute higher than the number of Traits possessed.
+- A character may not have an attribute higher than the number of Traits possessed. [start with 4 Traits from Culture, Background, and Role?]
 - Through progression no attribute may exceed 7.
-- At character creation the player is given 16 points to assign to the eight Attributes.
+- At character creation the player is given 16 points to assign to the eight Attributes. [thinking this  will actually be broken up by, Culture 4pts Background 6pts, and Role 6pts.]
 
 ### 2.1.1 Physical Attributes
 
@@ -22,7 +22,8 @@ Reflexes, balance, and body control.
 ### 2.1.2 Mental Attributes
 
 #### **Reason (REA):** 
-logic, memory, and problem–solving.  
+logic, memory, and problem–solving. 
+- Bonus Languages = (REA/2)
 #### **Insight (INS):** 
 Awareness, perception, and intuition. 
 - adds bonus to Ranged attacks damage
@@ -61,7 +62,7 @@ At the GM’s discretion, possessing a relevant skill can:
 - Downgrade a Critical Failure to a normal failure.  
 - Remove the need to roll, granting automatic success.
 
-Each skill may also have specializations that reflect focused expertise.
+Each skill has specializations that reflect focused expertise.
 
 ### 2.2.1 Skill Specializations
 
@@ -762,3 +763,105 @@ Rapport (Fel)
 *Reflexes (Ag)*
 Stealth (Ag)
 Craft (Int)
+
+
+## Academia
+This skill covers your character’s education and accumulated knowledge, as well as their ability to research unfamiliar subjects. Academia is most useful when trying to study new information or recall facts about a subject.
+### FOCUSES
+- Finance covers knowledge of trade and banking and of the influence of money on politics and culture.
+- History incorporates knowledge of historical events and of the forces and individuals that drove those events, as well as an understanding of different historical perspectives.
+- Linguistics is the study of languages in their current and past forms, of dead languages, and of the ways in which languages change over time. In addition to the language or languages they received with their traits, a character with this focus may know up to three additional languages (see Determine Bonus Languages on page 142). (To use this focus to cast spells, a character must have a talent with the Spellcaster keyword.)
+- Philosophy encompasses the study of concepts that may underlie our perceived realities and fundamental truths, particular viewpoints on these concepts, and the history of influential philosophers.
+- Religion constitutes the study of the gods; their manifestations; and the practices, traditions, and creatures associated with them. (To use this focus to cast spells, a character must have a talent with the Spellcaster keyword.)
+## Athletics
+This skill measures your character’s physical conditioning and athletic ability. Athletics also includes your character’s attempts to move with haste.
+### FOCUSES
+- Climbing incorporates scaling sheer surfaces such as walls and cliffs, as well as mountaineering.
+- Lifting involves lifting and moving heavy objects, as well as the conditioning necessary to make such efforts more effective.
+- Physical Training constitutes knowing how to train oneself and others.
+- Running encompasses short-distance sprinting and long-distance endurance running.
+- Swimming covers unaided swimming and diving.
+## Crafting
+This skill incorporates your character’s familiarity with techniques to fabricate goods, as well as their ability to research and develop new designs.
+### FOCUSES
+- Armorsmithing covers the manufacture and repair of worn armor and the forging and smithing of its component parts.
+- Cooking encompasses an ability to prepare meals, an understanding of how to use ingredients, and a knowledge of food preservation techniques.
+- Tailoring involves designing, fabricating, and altering garments, from simple tunics to heavier items for protection against inclement weather, as well as leatherworking.
+- Weaponsmithing incorporates the manufacture and repair of weaponry. It includes woodworking techniques for spears and bows as well as metalworking techniques for forging, shaping, and sharpening blades.
+## Engineering
+This skill encompasses your character’s technical and mechanical expertise, with an emphasis on practical applications: designing, building, and repairing devices and structures; operating equipment; and determining how to disable or destroy devices and structures.
+### FOCUSES
+- Architecture entails an understanding of how buildings are designed and constructed, of their internal and external structure, and of how their mass is supported and distributed.
+- Defenses covers the planning and construction of fortifications like watchtowers, palisades, trenches, and barricades.
+- Demolition involves an understanding of how to effectively destroy buildings, siege engines, and fortifications.
+- Infrastructure encompasses the planning and construction of infrastructure such as roads, aqueducts, and bridges.
+- Siege Engines covers the planning and construction of weaponry and tools required to perform a siege, such as siege towers, ladders, onagers, and ballistae.
+## Fighting
+This skill covers your character’s ability to fight and defend themself against attacks, incorporating a combination of learned techniques, physical conditioning, and instinct. It is used to make attacks and to judge threatening situations, and it includes a practical understanding of weaponry and combat styles.
+### FOCUSES
+-   Archery involves the use and maintenance of bows and more modern arms like the arcuballista.
+- Melee Weapons constitutes the ability to fight with a melee weapon, such as a dagger, axe, sword, or spear, as well as the practice of keeping such weapons in good order.
+- Thrown Weapons covers the use of thrown weapons like javelins, throwing axes, and plumbatae (lead-weighted darts), as well as weaponry like slings.
+- Unarmed encompasses a range of unarmed techniques for striking and grappling opponents, from the classical fighting art pankration, to fisticuffs, to simple brawling.
+- War Magic covers the casting of direct, damaging spells during the heat of combat. (To use this focus to cast spells, a character must have a talent with the Spellcaster keyword.)
+## Medicine
+Medicine is your character’s ability to diagnose and treat conditions such as injuries and diseases. It is used for mending wounds, dealing with the symptoms of an illness, and staving off death.
+### FOCUSES
+- Contagion involves an understanding of diseases, their causes, the way they spread, their symptoms, and the ways in which they can be treated.
+- Faith Healing covers the rites, rituals, and appropriate offerings and practices for petitioning the gods (or other supernatural beings) to intercede on behalf of the sick or injured. (To use this focus to cast spells, a character must have a talent with the Spellcaster keyword.)
+- Field Treatment includes knowledge of how to quickly stanch bleeding and dress wounds in the field, which can keep the injured alive long enough to receive more comprehensive treatment.
+- Pharmacia incorporates knowledge of naturally derived drugs, medicines, and toxins. A character with the Pharmacia focus knows how to manufacture such substances, can identify the common symptoms they cause, and is experienced in ways to counteract them.
+- Surgery covers surgical, instrumental, and operative medical procedures that require cutting into a patient, extracting tissue or foreign objects, amputating limbs, or manually closing wounds.
+## Observation
+This skill incorporates your character’s awareness and their ability to glean information from their surroundings. It describes how observant and astute they are, how quickly they pick out important details and make use of them, and how well they can ignore distractions.
+Observation overlaps with many other skills and often runs parallel to Academia, as both address gaining information, albeit in different ways.
+### FOCUSES
+- Hearing encompasses auditory perception, the capacity to distinguish between different sounds, and the ability to discern information conveyed by sounds (such as being able to pick up a faint accent in someone’s voice). This focus is a great asset for hunters and guards.
+- Instincts covers the “sixth sense” or “gut feelings” arising from observations, as well as other extrasensory perceptions for which a character may not be able to identify the source. Instincts are unlikely to provide detailed information, but rather convey a hunch or general feeling about a situation, and they are often derived from an accumulation of experience and absorbed knowledge. (To use this focus to cast spells, a character must have a talent with the Spellcaster keyword.)
+- Sight boosts visual perception, heightening visual sensitivity when visibility is poor, allowing a character to reliably pick out details at a distance, and increasing their ability to spot small variations or brief movements. Scouts, navigators, and hunters are particularly well suited to utilizing this focus.
+- Smell and Taste encompasses the ability to detect and discern information from scents and tastes. This is not a commonplace focus for humans, as humans don’t have an especially sensitive sense of smell, though it is a valuable focus for poisoners, physicians, food tasters, and cooks.
+### Persuasion
+This skill represents your character’s ability to influence others through a mixture of speech and body language. It also allows your character to spot when others are attempting to use these techniques—it often takes a liar to spot a liar.
+### FOCUSES
+- Charm involves methods of manipulating others through natural charisma and magnetism.
+- Deception incorporates methods of manipulating others to believe untruths.
+- Innuendo is the art of conveying meaning indirectly.
+- Intimidation lets a character inspire fear, doubt, or hesitation or leverage a person’s weaknesses against them.
+- Invocation encompasses unusual and esoteric methods of communicating with unnatural entities. It is typically only available to spellcasters. (To use this focus to cast spells, a character must have a talent with the Spellcaster keyword.)
+- Negotiation constitutes reaching agreement through conversation, possibly involving trade or payment.
+- Rhetoric is the use of language in public speaking or formal debate to inform, persuade, motivate, or convince others.
+## Resilience
+This skill encompasses your character’s ability to resist and recover from physical and mental debilities including injury, pain, fatigue, and mental distress. It also includes withstanding the effects of poisons and diseases, as well as resisting magical effects. Characters use Resilience to try to prevent negative effects before they happen, or to recover from the continuing effects of conditions they have already succumbed to. While Medicine overlaps with Resilience in a few ways, Resilience is more concerned with an individual’s inherent toughness.
+FOCUSES
+- Discipline represents a character’s mental durability and self-control, as well as their ability to resist and recover from confusion, fear, and supernatural effects that afflict the mind. (To use this focus to cast spells, a character must have a talent with the Spellcaster keyword.)
+- Fortitude is the body’s hardiness and endurance, as well as its ability to resist and recover from fatigue, pain, and injury.
+- Immunity incorporates a character’s natural ability to resist diseases and toxins, and to recover from their effects.
+## Stealth
+This skill covers your character’s ability to conceal themself, move unseen and unheard, blend into a crowd, and hide objects on their person.
+### FOCUSES
+- Concealment is the ability to hide oneself, others, or objects so they will not be detected.
+- Disguise covers the use of clothing, props, acting, and appropriate body language to assume the guise of another person.
+- Escape Artistry constitutes the ability to free oneself from restraints.
+- Lock Picking lets a character overcome mechanical locks using picks and a torsion bar.
+- Sleight of Hand incorporates techniques for pilfering objects worn or carried by others, as well as for making objects in hand vanish from sight.
+- Sneak involves moving in a hidden manner and avoiding detection.
+## Survival
+Survival encompasses your character’s knowledge of how to live and operate in the wilderness without the comforts offered by civilization. It is a measure of the ability to secure essentials, deal with wilderness conditions, navigate in the wild, acquire provisions, and build or find shelter from the elements.
+### FOCUSES
+- Animal Handling covers knowledge about a range of different animals, how they behave, and how to act around them, as well as how to train and command them.
+- Boating covers the fundamental skills required to pilot, skipper, or crew a riverboat or other freshwater vessel.
+- Foraging allows a character to gather food from the local environment, identify edible flora, and safely recognize natural toxins.
+- Hunting is the ability to stalk, catch, and kill animal prey, as well as the knowledge of how to prepare game.
+- Mysticism encompasses practices implemented in the wilds to beseech natural powers or spirits to protect the practitioner. It may also have practical benefits but is primarily useful for spells and rituals. (To use this focus to cast spells, a character must have a talent with the Spellcaster keyword.)
+- Navigation lets a character navigate over a distance, maintain a direction, plan a route, and endure the physical demands of overland travel.
+- Tracking encompasses identifying and following the tracks of a specific animal, person, or group. It also includes the ability to determine information such as the number of individuals and their direction, physical state, speed, and other characteristics.
+- Woodcraft incorporates skills for wilderness living, including, but not limited to, the ability to construct shelter and camp facilities from local natural materials.
+## Tactics
+This skill deals with your character’s ability to perceive and evaluate a combat situation and devise an appropriate plan. It covers not only military strategy and tactics, but also team dynamics, leadership, and the organization of disparate groups.
+### FOCUSES
+- Cavalry covers familiarity with military strategy and tactics for mounted troops.
+- Infantry covers familiarity with military strategy and infantry tactics.
+- Leadership is the ability to command and lead others, give clear orders, and maintain morale.
+- Navy covers naval strategy and tactics, incorporating everything from shallow to deep water and from singleboat actions to major fleet engagements.
+- Omen Reading covers the practice of reading signs in the natural world and using them to interpret the future. Countless undertakings are preceded by a reading of omens. (To use this focus to cast spells, a character must have a talent with the Spellcaster keyword.)
+- Scouting involves organizing a team to operate quietly and efficiently to stage ambushes, scout out enemy positions, or  perform stealthy operations in enemy territory.
