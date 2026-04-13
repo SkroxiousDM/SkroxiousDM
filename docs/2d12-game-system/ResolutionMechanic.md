@@ -8,7 +8,7 @@ All uncertain actions, including attacks, skill checks, and certain spell uses, 
 
 #### 2.3.1 Rolling the Dice
 
-- Roll **two d12s** for every action roll. One must be a distinct **Doom die**.  
+- Roll **two d12s** for every action roll. One must be a distinct **Complication die**.  
 - Compare the final total to the **Challenge Threshold** set by the GM.
 
 #### 2.3.2 Challenge Threshold
@@ -23,7 +23,7 @@ The Challenge Threshold (CT) represents task difficulty. 8 + Modifier + Attribut
 | Challenging| +0     | Shooting a target in good light; climbing a stone wall |
 | Difficult  | -2     | Recalling an obscure fact about a governor |
 | Hard       | -4     | Swimming upstream in a strong current |
-| Very Hard  | -6     | Convincing a watch commander to overlook an offense |
+| Very Hard  | -6     | Convincing a watch commander who doesn't like you, to overlook an offense |
 
 The GM chooses a difficulty based on circumstances and applies the modifier accordingly.
 
@@ -31,12 +31,12 @@ The GM chooses a difficulty based on circumstances and applies the modifier acco
 
 
 
-- **Success:** Total ≤ CT and the Doom die is higher than the other die. The action succeeds.  
-- **Success with Doom:** Total ≤ CT and the Doom die is lower. The action succeeds with a cost or complication; the GM gains 1 Doom token.  
-- **Failure:** Total > CT and the Doom die is higher. The action fails with a minor consequence.  
-- **Failure with Doom:** Total > CT and the Doom die is lower. The action fails with a major consequence; the GM gains 1 Doom token.  
-- **Critical Success:** Total ≤ CT and both dice match. The action succeeds with a strong bonus; the character clears 1 Stress, and an attack deals critical damage.  
-- **Critical Failure:** Total > CT and both dice match. The action fails spectacularly; the character gains 1 Stress, and an attack triggers a roll on the Fumble table.
+- **Success:** Total ≤ CT and the Complication die is higher than the other die. The action succeeds.  
+- **Success with Complication:** Total ≤ CT and the Complication die is lower. The action succeeds with a cost or complication; the GM gains 1 Doom token.  
+- **Failure:** Total > CT and the Complication die is higher. The action fails with a minor consequence.  
+- **Failure with Complication:** Total > CT and the Complication die is lower. The action fails with a major consequence; the GM gains 1 Doom token.  
+- **Critical Success:** Total ≤ CT and both dice match. The action succeeds with a strong bonus; the character Gains 1 Stress, and an attack deals critical damage.  
+- **Critical Failure:** Total > CT and both dice match. The action fails spectacularly; the character gains 1 Stress, the GM gains 1 Doom token, and an attack triggers a roll on the Fumble table.
 
 The GM determines specific consequences based on the fiction.
 
@@ -71,10 +71,10 @@ Certain circumstances grant **advantage** or **disadvantage**:
 
 #### 2.3.5 Push
 
-Pushing allows a character to reroll a failed check at a cost of 1 Stress (1 stamina or 1 resolve depending on whether a physical or mental attribute was used).
+Pushing allows a character to reroll a failed check at a cost of 1 Stress (1 Vitality or 1 Resolve depending on whether a physical or mental attribute was used).
 
 - Fumbles (Critical Failures) cannot be pushed.  
-- Only certain checks (often those with a relevant skill) may be pushed.
+- Only certain checks (often those with advances in a relevant skill) may be pushed.
 
 #### 2.3.6 Degrees of Success
 
@@ -98,7 +98,7 @@ For every 2 points your total is below the success threshold, you gain **1 degre
 
 
 
-SP Cost Stunt
+SL Cost Stunt
 - 1+ Skirmish: You can move yourself or the target of your attack 2 yards in any direction for each 1 SP you spend.
 - 1 Rapid Reload: You can immediately reload a missile weapon.
 - 1 Stay Aware: You take a moment to make sure you’re mindful of everything that’s happening around you. Make a CT 11 Perception test with the focus of your choice. If you succeed, the Narrator may either make you aware of some battlefield situation that has so far escaped your notice, or give you a +1 bonus to the next test you make. This bonus can never stack
@@ -115,7 +115,7 @@ with any other test bonus other than that from a focus. It must be used on the v
 - 4 Dual Strike: Your attack is so strong it affects two targets. First, pick a secondary target. This target must be adjacent to you if you are using a melee weapon or within 6 yards of your primary target if you are using a missile weapon. Apply the test result of your original attack roll to the secondary target (in other words, you only make one attack roll and apply it to both opponents). If you hit the secondary target, inflict your normal damage on them.
 
 Exploration Stunts
-SP
+SL
 Cost Stunt
 1
 Advantageous Positioning: You make your discovery
@@ -175,7 +175,7 @@ someone else seizes the initiative.
 5 Lethal Blow: You inflict an extra 2d6 damage on your attack.
 
 Roleplaying Stunts
-SP
+SL
 Cost Stunt
 1
 Bon Mot: You tag the perfect witty remark onto the end of your action, affecting all those who hear it that much more deeply. If
@@ -226,7 +226,7 @@ between either attacking you or storming away from the scene. If they choose to 
 that option is open to the enraged character. A slap or the throwing of the gauntlet may stand in as an “attack” just as well.
 
 Arcane Stunts
-SP Cost Stunt
+SL Cost Stunt
 1+ Powerful Channeling: Increase the Outcome of your
 arcanum by 1 per SP spent, to a maximum of 4.
 2 Skillful Channeling: Reduce the fatigue target
