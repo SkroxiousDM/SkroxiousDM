@@ -33,20 +33,96 @@ Mental fortitude, determination, and force of will.
 ### 2.1.3 Derived Attributes
 
 #### **Stamina** = (STR + CON + DEX + AGI + Traits)
+##### **States:** 
+Stamina can be Available, Spent, or Invested.
+##### **Equal to Physical Attributes:** 
+Each character has Stamina points equal to the sum of  their Physical Attributes.
+##### **Recover 1D4+Con:** 
+When you spend an action catching your breath, you regain 1d4 Stamina, plus your Constitution.
+##### **Spend to run:** 
+Anytime you take a second move action you must spend a Stamina. You can also spend a 2 points of Stamina to move a third time.
+##### INVEST TO Concentrate: 
+Magic items are always active – burning swords never stop burning, hovering stones are fixed in the air, and so on. To switch them off, you must invest Stamina points on concentration.
+##### SPEND TO CONTROL: 
+Magic Foci, such as wands, staves, tomes, etc. can only be used in a focused and controlled manner by first repressing them, and then spending Stamina (on top of the Stamina used to repress them) to elicit clear and useful effects.
+##### INVEST TO CARRY: 
+- HEAVY ITEMS: An item designated as HEAVY counts as two regular items, and will take up two Stamina.
+- LIGHT ITEMS: An item designated as LIGHT – counts as half of a regular item, and so you can carry 2 LIGHT items for 1 Stamina
+- TINY ITEMS: Items that are even smaller than LIGHT are called TINY. They are so small they don’t affect your Stamina at all. The rule of thumb is:  if the item can be hidden in a closed fist, it’s TINY. 
+> COINS: Single coins count as TINY items and  don’t encumber you. However, 100 coins count as a LIGHT item, 200 coins count as a normal item, and 400 coins count as a HEAVY item.
+##### OUT OF BREATH: 
+When you are at less than half breath available, you roll -1d on all physical actions. When you have none, you can't move past a slow trudge, and roll -2d on all physical actions.
 
-#### **Vitality** = (3 + CON + Traits)
+
+
+this would encorage three extremes of play style:
+- The light, fast Rogue carries only the minimum in equipment, and can pull off plenty of acrobatics, stunts, and running.
+- The Magus holds and keeps magic items, and uses Stamina to elicit effects.
+- The Tank wears and carries plenty of heavy gear, and has only a little Stamina left for stunts or to focus with magical issues.
+
+By Adding Talents, these three styles could be supported explicitly, rather than implicitly. 
+- The Warrior can wear armour and carry an in-hand weapon as if it each were one Stamina lighter. 
+- The Rogue rolls two dice for recovery and takes the better die. 
+- The Magus spends one fewer Stamina when controlling a magic item they have repressed, which can even make some items free to use.
+
+
+
+
+
+
+
 
 #### **Evasion** = (AGI + Shield + Traits)
-
-#### **Alacrity** = (AGI + REA + Traits)  
-Characters act from highest Alacrity to lowest
+is part of the calculation for not getting hit
+#### **Alacrity** = (AGI + INS + Traits)  
+Characters act in order from highest Alacrity to lowest. Each round, a character takes a **turn** in Alacrity order.
 
 #### **Resolve** = (CON + WIL + Traits)
+**Resolve** measures a character’s ability to avoid serious harm through skill, stamina, and luck.  
+- Whenever you take damage, physical or mental, subtract it from your Resolve.  
+- Resolve cannot be reduced below 0.
 
+When you are reduced to **0 Resolve**:
+- You gain **1 Wound**.  
+- You gain the **Dying** condition until you regain at least 1 Resolve.
+#### **Wounds** = (3 + CON + Traits)
+While **Dying**:
+- You can take only 1 action on your turn.  
+- You automatically lose Concentration.  
+- You are at risk of further harm:
+  - Attacking or casting a spell causes 1 Wound unless you succeed on a Challenging Resilience test.  
+  - Taking damage causes 2 Wounds (3 Wounds on a critical hit).
+  - you can sustain a maximum of (3 + CON + Traits) Wounds
 #### **Power**
-- Traditional: 2 + INS.
-- Research: 2 + REA.
-- Dabbling: 1 + WIL.
+used for Ritual Magic and Investing Foci
+- Traditional: (2 + INS + Traits).
+- Research: (2 + REA + Traits).
+- Dabbling: (1 + WIL + Traits).
+
+
+
+
+# Resting and Healing
+### Short Rest
+1 hour uninterupted rest
+- at the end of a Short rest you recover all Spent Stamina points
+- at the end of a Short rest you recover 1 Resolve point.
+### Long Rest
+8 hours uninterupted rest
+- at the end of a Long rest you recover all Spent Stamina points
+- at the end of a Long rest you recover (1d4+Will) Resolve points.
+- With a Hard INT-Medicine (First Aid) check that takes 10 minutes to perform, a character may provide short-term care for a wounded creature, Healing 1 wound at the end of the Long Rest. A creature can only benefit from such care once per day.
+
+### Full Rest
+24 hours spent in a safe place at least 6 hours must be spent sleeping the remainder of the day may be used for downtime activities.
+- At the end of a Full Rest you recover all Spent Stamina points.
+- at the end of a Full rest you recover all Spent Resolve points.
+- at the end of a Full rest you recover all Spent Power points.
+- at the end of a Full Rest you heal 1 Wound.
+- With a Hard INT-Medicine (First Aid) check that takes 10 minutes to perform, a character may provide short-term care for a wounded creature, Healing 1 additional Wound at the end of the Full Rest. A creature can only benefit from such care once per day.
+
+> Ability Damage: Ability damage is healed at a rate of 1 point per Long Rest or, 3 points per Full Rest, for each damaged ability score, except when the ability damage is suffered through a disease, in which case the lost ability points return only after the character has recovered from the disease.
+
 
 ---
 
@@ -233,3 +309,107 @@ This skill deals with your character's ability to perceive and evaluate a combat
 | Navy | Naval strategy and tactics, from shallow to deep water and from single-boat actions to major fleet engagements. |
 | Omen Reading | Reading signs in the natural world and using them to interpret the future. *(To cast spells, requires a talent with the Spellcaster keyword.)* |
 | Scouting | Organizing a team to operate quietly and efficiently to stage ambushes, scout enemy positions, or perform stealthy operations in enemy territory. |
+
+# 2.4 Combat
+
+Combat uses the same action roll system with thresholds derived from enemy defenses, range, cover, and conditions.
+
+### 2.4.2 Alacrity and Rounds
+At the start of combat, determine Alacrity (see section 2.1.3). Characters act in order from highest Alacrity to lowest. Each round, a character takes a **turn** in Alacrity order.
+
+On your turn, you gain **3 Actions** (see section 2.4.3). When your turn ends, all spent Actions refresh for your next turn.
+
+### 2.4.3 Heroic Actions
+On your turn you have 3 Actions to spend on attacks, movement, spellcasting, and other tasks.
+
+- Most tasks cost **1 Action**.  
+- Some powerful abilities or spells cost **2 or more Actions**.  
+- Some minor effects are **free** and cost no Action.  
+
+You cannot carry Actions between turns; always assume they fully refresh.
+
+#### Attack
+To attack, roll the listed damage dice for your weapon, ability, or spell and apply the result to your chosen target.
+
+- If any die shows a 1, the attack misses and has no effect.  
+- For multi–die attacks, designate the leftmost die as the **Primary Die**, which determines hit, miss, and critical hit status.
+
+**Critical Hits:**  
+If the Primary Die shows its maximum value, the attack is a critical hit:
+- The attack ignores the target’s Armor.  
+- The Primary Die **explodes**: roll it again and add to the total; repeat if it shows maximum again.
+
+**Rushed Attacks:**  
+You may attack multiple times on your turn:
+- Each attack beyond the first is a **Rushed Attack**, imposing 1 instance of disadvantage on that attack.  
+- Special abilities that trigger on a miss (such such as grappling attempts) may still apply on Rushed Attacks.
+
+#### Move
+Spending 1 Action to Move allows you to:
+- Move up to your speed (base 30 ft. unless otherwise noted).  
+- Split your movement before and after other Actions.  
+- Move a second time on the same turn by spending 1 Action and 1 stamina.
+- Move a third time on the same turn by spending 1 Action and 2 stamina.
+
+In **Difficult Terrain**, movement speed is halved.
+
+#### Cast a Spell
+To cast a spell you must:
+- Have at least one free hand or hold a spellcasting focus.  
+- Be able to speak clearly.  
+- Spend **mana** equal to the spell’s tier (cantrips cost 0 mana; see the magic chapter).
+
+**Upcasting:**  
+Some spells can be **upcast** for greater effect:
+- Spend additional mana to enhance the spell.  
+- You may upcast only up to the highest spell tier you have unlocked.
+
+#### Assess
+You can use an Action to gather information or obtain a tactical edge in combat.
+
+Typical uses include:
+- Identifying an enemy’s weakness, damage vulnerability, or resistance.  
+- Predicting enemy tactics or next actions.  
+- Revealing environmental advantages or hazards.
+
+Example CTs:
+- CT 18 Insight: predict what a group of enemies will do next round.  
+- CT 15 Arcana: identify the weakness of a magical creature.  
+- CT 10 Investigation (or equivalent): reveal a soft spot and reduce the target’s Armor by 1 step for 1 round.
+
+The GM chooses the most appropriate skill and CT (see section 2.2).
+
+### 2.4.4 Heroic Reactions
+**Reactions** are special actions taken outside your own turn.
+
+- Each Reaction costs **1 Action** from your next turn’s pool.  
+- You can use each type of Reaction at most **once per round**.  
+- When your next turn begins, any Actions spent on Reactions leave you with fewer Actions that round.
+
+#### Defend
+When you are hit by an attack, you can use Defend to:
+- Reduce the damage by an amount equal to your Armor rating.
+
+At the GM’s discretion, some damage types (such as psychic or certain area effects) cannot be reduced this way.
+
+#### Interpose
+When a creature within 10 ft. would be hit by an attack, you can:
+- Move into their space, push them into an adjacent space of your choice, and become the new target of the attack.
+
+You may combine **Interpose** and **Defend** on the same triggering attack if you have enough Actions to spend, but each remains limited to once per round.
+
+#### Opportunity Attack
+When an adjacent enemy willingly moves away from you:
+- You may make a melee attack against them with disadvantage.  
+
+Only heroes can make Opportunity Attacks; monsters do not.
+
+#### Help
+When an ally makes a roll, you can:
+- Grant them advantage on that roll by describing a plausible way you assist.
+
+The GM may:
+- Call for a skill check to see if the Help is effective, or  
+- Grant advantage automatically if the assist is clearly beneficial.  
+
+Only one Help reaction can apply to any given roll.
