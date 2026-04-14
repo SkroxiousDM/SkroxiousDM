@@ -1,12 +1,8 @@
-Here is the full Talents chapter rewritten for a human-centric pulp fantasy setting spanning the late Roman Empire through the Carolingian era, with consistent voice, reskinned flavour, and all sci-fi references removed and replaced with period-appropriate equivalents.
-
-***
-
-## Chapter 4: Traits
+#Talents
 
 Attributes represent raw potential. Skills represent training and expertise. **Traits** are distinct from both—they are the tricks, hard-won habits, and extraordinary capabilities that set a hero apart from the common man.
 
-Characters gain Traits during character creation through their Role, and potentially through their Culture and Background. After character creation, a character may spend **100 XP** to purchase a new Trait, provided they meet its Requirements.
+Characters gain Traits during character creation through their Role, and potentially through their Culture and Background. After character creation, a character may spend **10 XP** to purchase a new Trait, provided they meet its Requirements.
 
 ### Requirements
 
@@ -36,9 +32,9 @@ When your life is on the line, you move faster than you thought possible. If you
 
 ### Agile Attacks
 
-*Requirements: AGI 4, 2 advances in Fighting*
+*Requirements: DEX 4, 2 advances in Fighting*
 
-Speed and precision serve you better than brute force. You may use your Agility Bonus instead of your Strength Bonus when calculating damage for melee weapons with the Subtle trait.
+Speed and precision serve you better than brute force. You may use your Dexterity instead of your Strength when calculating damage for melee weapons with the Subtle trait.
 
 ***
 
@@ -46,7 +42,7 @@ Speed and precision serve you better than brute force. You may use your Agility 
 
 *Requirement: 2 advances in Manipulation*
 
-You carry yourself with the bearing of someone accustomed to being obeyed. The first time you encounter a new group, you may make a Challenging Manipulation or Rapport test. On a success, you gain +1 Influence with that group until the end of the session.
+You carry yourself with the bearing of someone accustomed to being obeyed. The first time you encounter a new group, you may make a Challenging Manipulationtest. On a success, you gain +1 Influence with that group until the end of the session.
 
 ***
 
