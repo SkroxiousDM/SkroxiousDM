@@ -1,4 +1,4 @@
-#Talents
+# Talents
 
 Attributes represent raw potential. Skills represent training and expertise. **Traits** are distinct from both—they are the tricks, hard-won habits, and extraordinary capabilities that set a hero apart from the common man.
 
