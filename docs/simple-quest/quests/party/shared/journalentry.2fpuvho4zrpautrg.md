@@ -611,3 +611,33 @@ During the journey, Dorian spotted three suspiciously arranged pit traps conceal
 Despite some technical difficulties with targeting and rolling, the party cooperated closely to overcome the foes. They successfully defeated the druid assailants and berserkers, with several members using their abilities to weaken and finish off enemies. Soren endured the ongoing effects of Strahd’s bite but remained determined to fight. The combat concluded with the party victorious but aware of the growing threat posed by Strahd’s nightly visits.
 
 After the battle, the group discussed plans for their upcoming expedition and shared personal stories and local lore. The session ended with the party preparing to continue their ascent of Mount Ghakis and their search for the temple and Sergei’s sword, while managing the new burden of Strahd’s cursed game.
+
+## Session 51 *2026-05-19*
+The adventurers resumed their journey along the old Svalitch Road as it turned into a crumbling gravel trail winding through the Svalich Woods and ascending the slopes of Mount Ghakis. The air grew colder and the trees thinned, giving way to snow-capped peaks and icy cliffs. Snow began to fall heavily, blanketing the landscape and making travel difficult. 
+
+As they traveled, Vix recognized a large hill, also known as Yester Hill, where they had previously fought druids and disrupted a plan to awaken Wintersplinter. 
+
+They encountered an ancient stone monument—once a figure with talons and wings, now eroded and broken. Vix and the party found two broken stone wings nearby and carefully repaired and reattached them to the monument using a mending spell. Upon completion  the wind howled mournfully as ghostly snow maidens emerged from the swirling storm to attack them. 
+
+The party prepared for battle. Vix, assisted by Radmil, cast a devastating fireball spell that took down many of the snow maidens quickly. The remaining enemies were defeated, with the last snow maiden crushed against the cliff by a gust of wind summoned by the monument eyes gloweing blue.
+
+Continuing along the mountain road, the weather worsened, with heavy snow and fierce winds reducing visibility to just a few feet. The group struggled through the deepening snow, traveling only a short distance despite the time passed. Kasimir warned that the gatehouse ahead was guarded and that continuing in the storm risked exhaustion or worse. He explained that the gatehouse was protected by four petrified flying demon statues that had attacked him on a previous visit.
+
+Using their survival skills, Radmil and Dorian scouted for a safe resting place and found a well-hidden cave marked with the three-pointed star of the Ladies Three, indicating it was a sanctuary. Inside, they discovered remnants of an old camp, including firewood, supplies, dried rations, and a grappling hook with rope. While waiting for nightfall, the group discussed their hopes for the future once Strahd was defeated. Irene expressed a desire to travel the world, Esmeralda wished to train other monster hunters, and Kasimir reflected on how Strahd’s shadow had defined his entire life, taking away his family and friends. 
+
+As the cold set in, Esmeralda offered Irene a blanket, which she gratefully accepted. The party took a short rest; Vix recovered from his blindness, and Dorian hunted and prepared a bighorn sheep for their meal. They made themselves comfortable within Vix's cast Tiny Hut within the cave, and as the storm subsided, a quiet, snow-covered stillness fell over the landscape.
+
+About an hour into their long rest, Strahd appeared outside the cave. He greeted them with sarcasm and disdain, requesting they leave the cramped shelter to speak more “civilizedly.” Strahd dispelled the small hut’s magic, and spoke of Mount Ghakis, warning of its treacherous slopes and shifting snow that could turn a haven into a tomb. He claimed that as the land itself, he would protect those seeking safety by his will and asked if they understood. 
+
+As the party departed the cave, Strahd’s crimson gaze fixed on them, questioning what brought these outsiders to the Balinok Mountains. Sore replied they sought to see the sights, and Strahd acknowledged Kasimir as their guide. He held up a small leather pouch containing red and black stones and proposed a game: each player would secretly place one stone (red or black) into the bag. If at least half the stones were black, he would drink from none of them that night; otherwise, he would feed on those who chose black stones. 
+
+Each player received a red and black stone and placed one in the pouch. Irina revealed the contents: five black stones and two red. Strahd congratulated their foresight and spared them from his hunger that night, wishing them pleasant dreams before vanishing into mist. The party completed their long rest without further incident.
+#### Long Rest - Mountain Cave
+# 20th day of Neyavr, 735 BC
+At dawn, they resumed their journey to the gatehouse, which lay nearly three miles away. The weather was crisp and cold, with heavy snow covering the road. The narrow mountain path clung to a rocky shelf, with steep cliffs rising on one side and a drop into fog on the other. Ahead, they saw a tall black stone wall topped with spikes and statues of horned, demonic vultures. The iron portcullis was closed, and behind it burned green flames. A white stone guard tower crowned with golden warrior statues perched on a cliff’s edge beyond the wall.
+
+Kasimir identified the vulture statues as the guardians that had attacked him before. Vix and Kasimir cast Fly upon all the Party by using blood magic to upcast to 6th level. As the party approached, the statues animated and attacked. Though many of the statues’ assaults were ineffective, some party members—including Dorian and Kasimir—were poisoned and struggled until after the combat ended. Soren struck down three of the statues, sending their broken forms crashing to the rocky ground below, while Radmil dispatched the last. 
+
+The session concluded with the defeat of the animated demonic vulture statues at the gatehouse, preparing for the challenges ahead.
+
+## Session 51 *2026-05-26*
