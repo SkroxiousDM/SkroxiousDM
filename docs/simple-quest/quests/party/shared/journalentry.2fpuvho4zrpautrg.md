@@ -640,4 +640,4 @@ Kasimir identified the vulture statues as the guardians that had attacked him be
 
 The session concluded with the defeat of the animated demonic vulture statues at the gatehouse, preparing for the challenges ahead.
 
-## Session 51 *2026-05-26*
+## Session 52 *2026-05-26*
