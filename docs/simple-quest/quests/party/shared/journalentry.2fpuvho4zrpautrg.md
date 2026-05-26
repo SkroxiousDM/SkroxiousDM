@@ -640,4 +640,25 @@ Kasimir identified the vulture statues as the guardians that had attacked him be
 
 The session concluded with the defeat of the animated demonic vulture statues at the gatehouse, preparing for the challenges ahead.
 
-## Session 52 *2026-05-26*
+## Session 52 *2026-05-25*
+After their recent battle beyond the wall involving demon-like foes, the party — Dorian, Radmil Silvervein, Vix Bogs, and Soren Valmont; turned their attention to the nearby tower inside the wall, hoping to find clues about the mysterious Amber Temple and possibly a route forward.
+
+Upon approaching the tower, they noticed that the main door was barred from the inside, preventing easy entry. Unable to open it by conventional means, Vix attempted to employ magic—first a mage hand, but the bar was too heavy for this spells to move, and then an unseen servant, to unbar the door. Flying became their preferred method; Vix sent his unseen servant inside to scout for traps or alarms but found none. Radmil peered through windows and spotted what appeared to be alchemical setups and a teleportation circle on the floor of one of the upper rooms, though the circle was not active.
+
+Inside the tower, the party discovered piles of rusted weapons and broken arrows on the roof, suggesting past conflict or abandonment. The alchemical laboratory contained various reagents and bottles, one of which was identified as a healing potion. Vix took one and gave it to the injured Kasimir to aid his recovery. The papers and notes scattered about were mostly alchemical manuals with scribbled annotations, offering little immediate insight.
+
+Vix made a sketch of the teleportation circle, recognizing it as similar to one they had seen previously in a coffin maker’s shop. Although inactive and unlinked, this circle might allow teleportation back to this location if activated properly or once they learned the relevant spells.
+
+After leaving the tower, the group continued north along a mountain pass, crossing a stone bridge guarded by statues of armored knights on horseback—one of which was partially crumbled. The path grew increasingly treacherous, winding around cliffs and overlooking sheer drops into mist-filled valleys. The party spotted a cloaked figure camouflaged against the cliffside, who vanished when noticed, suggesting they were being watched or followed.
+
+Suddenly, a thunderous rumbling and cracking sound echoed from above. The party quickly realized an avalanche was descending the mountain, threatening to engulf the path ahead and behind them. They had only moments to react. Using their combined abilities, including Soren’s fly spell and Misty Step, they raced toward a nearby cave that offered the only potential refuge.
+
+During the frantic escape, the difficult terrain slowed some party members, and several made dexterity saves to avoid slipping on ice or falling. Casmir’s foot broke through thin ice, temporarily halting his movement, but he managed to Misty Step out. Despite the chaos, the group successfully avoided the avalanche’s worst effects, with some taking minor damage but all managing to stay ahead of the deadly snow.
+
+After the avalanche passed, the party emerged onto a high plateau overlooking a broad valley. From this vantage point, they could see the surrounding mountains, the mist walls encasing the valley, distant lakes, rivers, swamps, and even the far-off silhouette of Castle Ravenloft. The landscape was both vast and forbidding.
+
+They approached an ancient stone shrine carved into the mountain’s base, flanked by two frozen waterfalls. The shrine featured a pentagonal platform with a triangular altar pointing south into the mountain and two large stone panels bearing carvings. One panel displayed the sunburst sigil of the Morninglord, while the other bore a three-pointed star surrounded by nine smaller carvings—symbols the party recognized from previous locations.
+
+Examining the shrine, the party noticed the stone surrounding some carvings was polished and worn, as if struck repeatedly over many years. Vix attempted to interact with the symbols by tapping them in various sequences, producing distinct resonant tones but no immediate effect. However, this action triggered a deep roar from the nearby cliffs.
+
+Suddenly, six massive ape-like creatures with red fur and primal fury emerged, their tusked faces and immense size posing a new threat. The session concluded with the party facing these formidable foes, setting the stage for combat in the next gathering.
