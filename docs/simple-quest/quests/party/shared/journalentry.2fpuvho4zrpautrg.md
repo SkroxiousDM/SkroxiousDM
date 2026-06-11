@@ -662,3 +662,28 @@ They approached an ancient stone shrine carved into the mountain’s base, flank
 Examining the shrine, the party noticed the stone surrounding some carvings was polished and worn, as if struck repeatedly over many years. Vix attempted to interact with the symbols by tapping them in various sequences, producing distinct resonant tones but no immediate effect. However, this action triggered a deep roar from the nearby cliffs.
 
 Suddenly, six massive ape-like creatures with red fur and primal fury emerged, their tusked faces and immense size posing a new threat. The session concluded with the party facing these formidable foes, setting the stage for combat in the next gathering.
+
+## Session 53 *2026-06-10*
+The adventurers found themselves on an altar atop the eastern cliffs, experimenting with various combinations of animal markings to unlock some ancient mechanism. Suddenly, six large, ape-like creatures charged at them, initiating a fierce combat.
+
+Esmeralda cast a magic net trap near a ridge where their ally Irene was positioned, attempting to hinder the creatures’ advance. Vix responded with a fireball, though it dealt less damage than expected. Soren moved to intercept the attackers with his whip, readying actions to strike any enemy that approached. Dorian placed a bear trap and marked one of the nearest enemies, preparing for their defense. Casmir tried spells to control the battlefield, such as ray of frost and wall of dust, but the creatures’ agility allowed some to leap over the dust wall, limiting its effectiveness.
+
+Radmil engaged aggressively, using his speed and combat prowess to strike multiple foes, managing to fell some of the ape-like creatures while suffering minor injuries. Irene provided ranged support and healing, maintaining the party’s resilience. Despite the enemies’ attacks, the group coordinated well, using terrain and magical traps to their advantage.
+
+As the battle turned in the party’s favor, a sudden rumbling from a frozen waterfall revealed a hidden tunnel. Three fur-clad, muscular figures bearing stone axes emerged, followed by two others with bows and dark scarves covering their faces. Two tall men, brothers named Escher and Kasimir, led this contingent. They declared they would hold the line and invited the party to enter the tunnel for safety.
+
+The party retreated into the tunnel, pursued briefly by the creatures before they gave chase no more. Inside the tunnel, the group encountered a rugged mountain village nestled within a large crater surrounded by towering cliffs. The village, called Soldav , was home to hardy folk who eyed the newcomers with curiosity but offered cautious hospitality.
+
+Chief Diegia, a tall, muscular woman adorned with a polished bronze brooch and flanked by warriors, greeted the party. She insisted on strict rules: weapons and arcane foci were to remain sheathed, no violence was permitted within the village, and guests were to behave with honor and respect. The party complied, securing their arms and doing their best to appear non-threatening, even as Soren humorously struggled to conceal his many weapons.
+
+Inside the longhouse, the warmth and smell of roasted goat and herbs welcomed them. A young boy playfully ambushed Soren, calling him a prisoner of the wolf of Soldav, much to the amusement of the villagers and the chief. Chief Diegia promised to share about the Amber Temple before they continued their quest against Strahd.
+
+The atmosphere lightened as the villagers gathered for the annual Night of Clear Skies celebration. A figure named Oroles, adorned with a black wolf pelt and an elk skull headdress, took center stage to recount the legend of the Rosanna — three mystical ladies who guided the mountain folk to a valley of bounty and beauty and who battled the darkness known as the Devourer. The tale emphasized the enduring light and hope that the Rosanna represented, a fitting story for the festival.
+
+The party was invited to join the feast and partake in the festivities. They shared tales of their battles against the great shadow and its servants, including the defeat of an alpha wolf and their encounters with hags and brides of Strahd. The villagers listened intently, their mood lifting with each story.
+
+Later, the scarred man named Scorilo challenged the party’s honor and deeds, proposing a boasting contest to be judged by fire and witnessed by the village. Chief Diegia explained that the contest would consist of three rounds: boasting of past deeds, present skills, and future achievements. Each side would wager something of value, and the victor would claim the stakes.
+
+The party considered what to offer as wagers, debating items such as the spear of the huntress, a moon-touched rapier, and a clairvoyant stone. They discussed who among them would best represent each boast, taking into account their individual strengths in deception, persuasion, intimidation, and performance.
+
+As the session drew to a close, the group prepared to plan their boasts and wagers further, agreeing to resume the contest at their next meeting.
