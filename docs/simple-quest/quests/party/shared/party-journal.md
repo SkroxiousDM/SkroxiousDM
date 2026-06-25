@@ -698,7 +698,7 @@ Elder Burebis advised that only the divine beings known as the Ladies —vestige
 The party was urged to rest before continuing and was granted an uninterrupted long rest in the longhouse.
 #### Long Rest - Soldav, Longhouse
 # 21st day of Neyavr, 735 BC
-The next morning, Chief Diegio and her husband Oroles greeted them with a simple breakfast and shared more details about the Amber Temple, located high on Mount Garkus. This ancient temple, once built to imprison dark entities, is now corrupted and guarded by undead and magical constructs. The path to the temple is treacherous, guarded by Sangzor, a giant judgmental goat said to test visitors’ worthiness to proceed.
+The next morning, Chief Diegio and her husband Oroles greeted them with a simple breakfast and shared more details about the Amber Temple, located high on Mount Ghakis. This ancient temple, once built to imprison dark entities, is now corrupted and guarded by undead and magical constructs. The path to the temple is treacherous, guarded by Sangzor, a giant judgmental goat said to test visitors’ worthiness to proceed.
 
 Chief Diegio also revealed that her daughter, Diona, is currently undergoing a trial of resilience within the temple, a rite of passage for their tribe’s leaders. They asked the party to convey their regards should they encounter her.
 
