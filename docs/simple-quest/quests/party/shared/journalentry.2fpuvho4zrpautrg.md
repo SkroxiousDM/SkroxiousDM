@@ -687,3 +687,25 @@ Later, the scarred man named Scorilo challenged the party’s honor and deeds, p
 The party considered what to offer as wagers, debating items such as the spear of the huntress, a moon-touched rapier, and a clairvoyant stone. They discussed who among them would best represent each boast, taking into account their individual strengths in deception, persuasion, intimidation, and performance.
 
 As the session drew to a close, the group prepared to plan their boasts and wagers further, agreeing to resume the contest at their next meeting.
+
+## Session 54 *2026-06-24*
+After a festive gathering in the village of Soldov, Dorian, Radmil Silvervein, Vix Bogs, and Soren Valmont took part in a traditional boasting contest judged by the locals. Each champion claimed their achievements and capabilities to the crowd: Soren recounted the triumph over a corrupted angel and presented an angel’s feather as proof; Radmil displayed his speed and skill, racing a thrown axe and then attempting to catch it. Vix boldly vowed to banish Strahd and lift his curse from the land. Though Radmil’s demonstration was less well received and Vix’s had only modest applause, the party won two of the three rounds overall. As a prize and pledge of aid, they wagered a mystical scrying stone and received a horn of silent alarm, an item that can silently alert an ally within 600 feet.
+
+As the celebration waned, a mysterious raven made of smoke and embers appeared and delivered a message from Elder Burebis, the keeper of the Shrine of the Rozana. The party was summoned to the shrine, located at the western edge of the crater near the village. There, they met Elder Burebis, a venerable spirit bound to the mountain’s roots, who spoke of ancient powers and the desecration of sacred sites by Strahd’s dark magic. Elder Burebis revealed that Strahd’s soul remains tethered to the valley through three corrupted holy places: the swamp fane near the ruined town on the Luna River, the forest fane atop Yester Hill, and the mountain fane, In a clearing to the east of the valley. To truly defeat Strahd, these sites must be reconsecrated.
+
+Elder Burebis advised that only the divine beings known as the Ladies —vestiges of once-powerful deities— can restore these places, but they have fallen silent since the mists enveloped the land. He suggested seeking knowledge within the nearby Amber Temple, a cursed and dangerous place built by long-dead mages that may hold rituals to commune with these spirits. Elder Burebis then blessed Dorian’s keeper’s whistle; when blown beneath the open sky, it will summon a protective familiar once, offering aid in dire peril.
+
+The party was urged to rest before continuing and was granted an uninterrupted long rest in the longhouse.
+#### Long Rest - Soldav, Longhouse
+# 21st day of Neyavr, 735 BC
+The next morning, Chief Diegio and her husband Oroles greeted them with a simple breakfast and shared more details about the Amber Temple, located high on Mount Garkus. This ancient temple, once built to imprison dark entities, is now corrupted and guarded by undead and magical constructs. The path to the temple is treacherous, guarded by Sangzor, a giant judgmental goat said to test visitors’ worthiness to proceed.
+
+Chief Diegio also revealed that her daughter, Diona, is currently undergoing a trial of resilience within the temple, a rite of passage for their tribe’s leaders. They asked the party to convey their regards should they encounter her.
+
+Following the guidance, the party journeyed towards the temple, passing through narrow mountain roads amid snow and mist. They encountered the giant goat, who scrutinized each member with piercing eyes. The party successfully resisted its judgment and was allowed to pass without incident.
+
+Arriving at the Amber Temple, they found an imposing facade carved into the mountainside, adorned with six towering amber statues of hooded, faceless figures in prayer. Between the statues stood a large archway leading to a staircase descending into darkness.
+
+At this point, the session concluded, with the party poised to explore the temple and uncover the secrets needed to reconsecrate the holy sites and confront Strahd’s enduring curse.
+
+## Session 55 *2026-07-01*
