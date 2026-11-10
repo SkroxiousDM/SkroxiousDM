@@ -21,10 +21,10 @@ jobs:
         run: |
           set -euo pipefail
           mkdir -p _includes/campaign
-          cp -- "Creepy mirror scene.md" _includes/campaign/creepy-mirror.md
-          cp -- "Dining hall description.md" _includes/campaign/dining-hall.md
-          cp -- "Player Hooks and Backgrounds.md" _includes/campaign/player-hooks.md
-          cp -- "Strahd Answers.md" _includes/campaign/strahd-answers.md
+          cp -- "campaign/Creepy mirror scene.md" _includes/campaign/creepy-mirror.md
+          cp -- "campaign/Dining hall description.md" _includes/campaign/dining-hall.md
+          cp -- "campaign/Player Hooks and Backgrounds.md" _includes/campaign/player-hooks.md
+          cp -- "campaign/Strahd Answers.md" _includes/campaign/strahd-answers.md
       - name: Generate house-rule web editions
         run: python3 _scripts/publish_house_rules.py
       - name: Configure Pages
