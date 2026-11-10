@@ -1,14 +1,37 @@
+title: SkroxiousDM
+description: Roleplaying games, original systems, and campaign reference material.
+url: "https://skroxiousdm.github.io"
+baseurl: "/SkroxiousDM"
+lang: en-CA
+markdown: kramdown
+highlighter: rouge
 plugins:
   - jekyll-relative-links
 relative_links:
   enabled: true
   collections: true
-include:
-  - CONTRIBUTING.md
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+exclude:
+  - docs
+  - Images
+  - "ChatGPT templates"
+  - .obsidian
+  - mkdocs.yml
+  - ci.yml
+  - SITE_SETUP.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
   - README.md
-  - LICENSE.md
-  - COPYING.md
-  - CODE_OF_CONDUCT.md
-  - CONTRIBUTING.md
-  - ISSUE_TEMPLATE.md
-  - PULL_REQUEST_TEMPLATE.md
+  - Arc_S-A_Sword_of_Sunlight.md
+  - Creepy mirror scene.md
+  - Dining hall description.md
+  - Exethanter.md
+  - Player Hooks and Backgrounds.md
+  - Strahd Answers.md
+  - Treasure.md
+  - places-and-persons-of-interest.md

@@ -1,0 +1,67 @@
+:root {
+  --ink: #1c1f24;
+  --ash: #343a42;
+  --paper: #fcfbf8;
+  --tint: #edf0f3;
+  --navy: #2d4a66;
+  --steel: #3f6a8f;
+  --pewter: #8d99a6;
+  --dust: #68707a;
+  --moon: #eef1f4;
+  --body-font: "EB Garamond", "Libertinus Serif", "DejaVu Serif", Georgia, serif;
+  --display-font: "Source Sans 3", system-ui, sans-serif;
+}
+* { box-sizing: border-box; }
+html { color-scheme: light; scroll-padding-top: 1rem; }
+body { margin: 0; background: var(--tint); color: var(--ink); font: 1.2rem/1.7 var(--body-font); }
+a { color: var(--navy); text-underline-offset: .18em; overflow-wrap: anywhere; }
+a:hover { color: var(--steel); }
+a:focus-visible { outline: 3px solid var(--steel); outline-offset: 4px; }
+.skip-link { position: absolute; left: 1rem; top: -6rem; z-index: 10; padding: .5rem 1rem; background: var(--paper); }
+.skip-link:focus { top: 1rem; }
+.masthead { background: var(--ink); color: var(--moon); border-bottom: 1px solid var(--pewter); }
+.masthead-inner { max-width: 76rem; margin: auto; padding: 1rem 2rem; display: flex; align-items: center; justify-content: space-between; gap: 1rem 2rem; flex-wrap: wrap; }
+.brand { font: 700 1.3rem var(--display-font); letter-spacing: .08em; text-decoration: none; }
+.masthead a { color: var(--moon); }
+nav { display: flex; flex-wrap: wrap; gap: .65rem 1.4rem; font: .95rem/1.6 var(--display-font); }
+nav a { text-decoration: none; }
+nav a:hover, nav a[aria-current="page"] { text-decoration: underline; }
+.chapter-header { background: var(--ink); color: var(--moon); text-align: center; padding: 3.5rem 1.5rem; border-bottom: .6rem solid var(--navy); }
+.eyebrow { font: 700 .78rem/1.6 var(--display-font); letter-spacing: .22em; text-transform: uppercase; color: var(--pewter); }
+h1, h2, h3, h4 { font-family: var(--display-font); line-height: 1.2; text-wrap: balance; }
+h1 { font-size: clamp(2rem, 5vw, 3.6rem); max-width: 22ch; margin: 1rem auto; }
+.subtitle { max-width: 54ch; margin: 1.2rem auto 0; font-style: italic; }
+.ornament { display: flex; align-items: center; gap: .8rem; max-width: 20rem; margin: 1.5rem auto; }
+.ornament::before, .ornament::after { content: ""; height: 1px; flex: 1; background: var(--pewter); }
+.ornament span { width: .6rem; height: .6rem; transform: rotate(45deg); background: var(--pewter); }
+.manuscript { max-width: 58rem; margin: 2.5rem auto; padding: 2rem clamp(1.25rem, 5vw, 4rem) 3rem; background: var(--paper); border: 1px solid #d4d9de; }
+h2 { color: var(--navy); font-size: 1.55rem; margin: 2.2rem 0 1rem; padding-bottom: .6rem; border-bottom: 1px solid var(--pewter); }
+h2::before { content: ""; display: inline-block; width: .4rem; height: .4rem; transform: rotate(45deg); background: var(--pewter); margin-right: .7rem; vertical-align: middle; }
+h3 { font-size: 1.2rem; color: var(--ash); }
+p, ul, ol { margin: 1rem 0; }
+li { margin: .45rem 0; }
+li::marker { color: var(--navy); }
+blockquote { margin: 1.5rem 0; padding: .4rem 1.2rem; border-left: 3px solid var(--navy); background: var(--tint); color: var(--ash); font-style: italic; }
+img { max-width: 100%; height: auto; }
+table { display: block; overflow-x: auto; border-collapse: collapse; width: 100%; font-size: 1rem; }
+th, td { padding: .6rem .8rem; border-bottom: 1px solid var(--pewter); text-align: left; }
+th { background: var(--navy); color: var(--paper); font-family: var(--display-font); }
+tr:nth-child(even) { background: var(--tint); }
+pre { overflow-x: auto; padding: 1rem; background: var(--tint); }
+code { font-size: .85em; }
+.site-footer { max-width: 58rem; margin: 2rem auto; padding: 0 1.5rem; text-align: center; color: var(--ash); font: .85rem/1.6 var(--display-font); }
+@media (max-width: 40rem) {
+  body { font-size: 1.1rem; }
+  .masthead-inner { padding: 1rem 1.25rem; }
+  .chapter-header { padding: 2.5rem 1.25rem; }
+  .manuscript { margin: 0; border: 0; }
+}
+@media print {
+  body { background: white; color: black; font-size: 11pt; }
+  .masthead, .skip-link, .site-footer { display: none; }
+  .chapter-header { background: white; color: black; padding: 1rem; border-bottom: 1px solid black; }
+  .eyebrow { color: black; }
+  .manuscript { margin: 0; max-width: none; border: 0; padding: 1rem 0; }
+  h2, h3, h4 { break-after: avoid; }
+  a { color: black; }
+}
