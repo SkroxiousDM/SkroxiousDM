@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/simple-quest/quests/party/shared/journalentry.2fpuvho4zrpautrg.md",
+                "file": "ChatGPT templates/Writing Dialogue.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "journalentry.2fpuvho4zrpautrg"
+              "title": "Writing Dialogue"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -184,5 +186,29 @@
     }
   },
   "active": "6b30ad4ee17e721d",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "ChatGPT templates/Descriptive writing.md",
+    "docs/7. House Rules/1. House Rules Index.md",
+    "docs/index.md",
+    "campaign/CAMPAIGN_PUBLISHING.md",
+    "campaign/Arc_S-A_Sword_of_Sunlight.md",
+    "05-talents.pdf",
+    "rules.md",
+    "projects.md",
+    "blog.md",
+    "about.md",
+    "_scripts/test_house_rule_links.py",
+    "_scripts/publish_house_rules.py",
+    "_scripts/house_rule_links.py",
+    "_scripts",
+    "_posts/2026-11-10-welcome.md",
+    "_posts",
+    "CNAME",
+    "index.md",
+    "campaign/index.md",
+    "campaign",
+    "campaign-treasure.html",
+    "campaign-strahd-answers.html",
+    "SITE_SETUP.md"
+  ]
 }
