@@ -1,7 +1,7 @@
 title: SkroxiousDM
 description: Roleplaying games, original systems, and campaign reference material.
-url: "https://skroxiousdm.github.io"
-baseurl: "/SkroxiousDM"
+url: "https://skroxiousdm.com"
+baseurl: ""
 lang: en-CA
 markdown: kramdown
 highlighter: rouge
