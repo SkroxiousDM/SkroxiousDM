@@ -9,6 +9,7 @@ permalink: /campaign/
 
 These notes open as themed pages on this website. The original Markdown files remain the source of their content.
 
+- [House rules — complete index]({{ '/house-rules/' | relative_url }})
 - [Places and persons of interest]({{ '/campaign/places-and-persons/' | relative_url }}) — campaign reference and session recollections.
 - [Player hooks and backgrounds]({{ '/campaign/player-hooks/' | relative_url }}) — character connections; ask your GM which hooks are available.
 
@@ -26,5 +27,4 @@ The following links still open archive material on GitHub, not converted web pag
 
 - [Curse of Strahd Reloaded archive](https://github.com/SkroxiousDM/SkroxiousDM/tree/main/docs/Curse-of-Strahd-Reloaded-main)
 - [RoS / CoS / RRL campaign material](https://github.com/SkroxiousDM/SkroxiousDM/tree/main/docs/RoS-CoS-RRL)
-- [House rules](https://github.com/SkroxiousDM/SkroxiousDM/tree/main/docs/7.%20House%20Rules)
 - [A Sword of Sunlight — source only; conversion deferred](https://github.com/SkroxiousDM/SkroxiousDM/blob/main/Arc_S-A_Sword_of_Sunlight.md)
