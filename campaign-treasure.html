@@ -1,0 +1,11 @@
+---
+layout: default
+title: Treasure
+subtitle: GM reference and magic items
+permalink: /campaign/treasure/
+---
+<p><a href="{{ '/campaign/' | relative_url }}">Back to campaign reference</a></p>
+<blockquote><p>GM reference. Contains treasure and story spoilers.</p></blockquote>
+{% capture note %}{% include_relative Treasure.md %}{% endcapture %}
+{% assign details_open = '<details markdown="1"><summary>' %}
+{{ note | replace: '<details><summary>', details_open | markdownify }}

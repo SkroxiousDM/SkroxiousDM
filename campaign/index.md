@@ -3,26 +3,28 @@ title: Curse of Strahd
 subtitle: Campaign reference & archival material
 permalink: /campaign/
 ---
-> GM reference: the linked archive contains campaign spoilers. These links open the existing source material on GitHub; it has not yet been converted into themed web pages.
+> Campaign spoilers: consult your GM before browsing. Spoiler labels are notices, not access restrictions.
 
-## Campaign libraries
+## Campaign reference
 
-- [Curse of Strahd Reloaded archive](https://github.com/SkroxiousDM/SkroxiousDM/tree/main/docs/Curse-of-Strahd-Reloaded-main)
-- [RoS / CoS / RRL campaign material](https://github.com/SkroxiousDM/SkroxiousDM/tree/main/docs/RoS-CoS-RRL)
+These notes open as themed pages on this website. The original Markdown files remain the source of their content.
 
-## At the table
-
-- [Places and persons of interest](https://github.com/SkroxiousDM/SkroxiousDM/blob/main/places-and-persons-of-interest.md)
-- [Player hooks and backgrounds](https://github.com/SkroxiousDM/SkroxiousDM/blob/main/Player%20Hooks%20and%20Backgrounds.md)
-- [House rules](https://github.com/SkroxiousDM/SkroxiousDM/tree/main/docs/7.%20House%20Rules)
-- [Treasure](https://github.com/SkroxiousDM/SkroxiousDM/blob/main/Treasure.md)
+- [Places and persons of interest]({{ '/campaign/places-and-persons/' | relative_url }}) — campaign reference and session recollections.
+- [Player hooks and backgrounds]({{ '/campaign/player-hooks/' | relative_url }}) — character connections; ask your GM which hooks are available.
 
 ## GM notes
 
-- [A Sword of Sunlight](https://github.com/SkroxiousDM/SkroxiousDM/blob/main/Arc_S-A_Sword_of_Sunlight.md)
-- [Strahd answers](https://github.com/SkroxiousDM/SkroxiousDM/blob/main/Strahd%20Answers.md)
-- [Exethanter](https://github.com/SkroxiousDM/SkroxiousDM/blob/main/Exethanter.md)
+- [Treasure]({{ '/campaign/treasure/' | relative_url }})
+- [Strahd answers]({{ '/campaign/strahd-answers/' | relative_url }})
+- [Exethanter]({{ '/campaign/exethanter/' | relative_url }})
+- [Creepy mirror scene]({{ '/campaign/creepy-mirror/' | relative_url }})
+- [Dining hall description]({{ '/campaign/dining-hall/' | relative_url }})
 
-## Growing the reference
+## Campaign libraries
 
-This section reserves space for curated web editions of locations, characters, session notes, and campaign tools. Existing sources stay in place so their original organization and links are preserved.
+The following links still open archive material on GitHub, not converted web pages:
+
+- [Curse of Strahd Reloaded archive](https://github.com/SkroxiousDM/SkroxiousDM/tree/main/docs/Curse-of-Strahd-Reloaded-main)
+- [RoS / CoS / RRL campaign material](https://github.com/SkroxiousDM/SkroxiousDM/tree/main/docs/RoS-CoS-RRL)
+- [House rules](https://github.com/SkroxiousDM/SkroxiousDM/tree/main/docs/7.%20House%20Rules)
+- [A Sword of Sunlight — source only; conversion deferred](https://github.com/SkroxiousDM/SkroxiousDM/blob/main/Arc_S-A_Sword_of_Sunlight.md)
