@@ -187,6 +187,13 @@
   },
   "active": "6b30ad4ee17e721d",
   "lastOpenFiles": [
+    "campaign/campaign-treasure.html",
+    "campaign/campaign-strahd-answers.html",
+    "campaign/campaign-player-hooks.html",
+    "campaign/campaign-places.html",
+    "campaign/campaign-exethanter.html",
+    "campaign/campaign-dining-hall.html",
+    "campaign/campaign-creepy-mirror.html",
     "ChatGPT templates/Descriptive writing.md",
     "docs/7. House Rules/1. House Rules Index.md",
     "docs/index.md",
@@ -200,15 +207,9 @@
     "_scripts/test_house_rule_links.py",
     "_scripts/publish_house_rules.py",
     "_scripts/house_rule_links.py",
-    "_scripts",
     "_posts/2026-11-10-welcome.md",
-    "_posts",
-    "CNAME",
     "index.md",
     "campaign/index.md",
-    "campaign",
-    "campaign-treasure.html",
-    "campaign-strahd-answers.html",
     "SITE_SETUP.md"
   ]
 }
