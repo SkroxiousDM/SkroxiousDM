@@ -1,0 +1,10 @@
+---
+layout: default
+title: Places and Persons of Interest
+subtitle: Campaign reference and session recollections
+permalink: /campaign/places-and-persons/
+---
+<p><a href="{{ '/campaign/' | relative_url }}">Back to campaign reference</a></p>
+<blockquote><p>Campaign spoilers. Consult your GM before reading.</p></blockquote>
+{% capture note %}{% include_relative places-and-persons-of-interest.md %}{% endcapture %}
+{{ note | remove_first: '# Places and Persons of Interest ' | markdownify }}
