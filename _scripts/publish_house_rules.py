@@ -1,12 +1,12 @@
 from pathlib import Path
 import json
 import re
-from house_rule_links import make_converter
+from site_links import make_converter, read_site_config
 
 ROOT = Path(__file__).resolve().parents[1]
 SOURCE = ROOT / 'docs/7. House Rules'
 OUTPUT = ROOT / 'house-rules'
-BASE = '/SkroxiousDM'
+SITE_URL, BASE = read_site_config(ROOT / '_config.yml')
 files = sorted((p for p in SOURCE.rglob('*') if p.is_file() and p.suffix.lower() in ('.md', '.markdown')), key=lambda p: p.relative_to(SOURCE).as_posix().casefold())
 if not files:
     raise SystemExit('No house-rule Markdown files found')
@@ -26,7 +26,7 @@ for path in files:
     used.add(route)
     routes[path.resolve()] = route
     names.setdefault(path.stem.casefold(), []).append(path.resolve())
-_, convert = make_converter(ROOT, SOURCE, BASE, routes, names)
+_, convert = make_converter(ROOT, SOURCE, BASE, routes, names, site_url=SITE_URL)
 
 def page(title, route, body):
     return '---\nlayout: default\ntitle: ' + json.dumps(title, ensure_ascii=False) + '\npermalink: ' + route + '\n---\n' + body
