@@ -14,6 +14,10 @@
       <a class="brand" href="{{ '/' | relative_url }}">{{ site.title | escape }}</a>
       <nav aria-label="Main navigation">
         <a href="{{ '/' | relative_url }}"{% if page.url == '/' %} aria-current="page"{% endif %}>Home</a>
+        <a href="{{ '/projects/' | relative_url }}"{% if page.url == '/projects/' %} aria-current="page"{% endif %}>Projects</a>
+        <a href="{{ '/rules/' | relative_url }}"{% if page.url == '/rules/' %} aria-current="page"{% endif %}>Rules</a>
+        <a href="{{ '/blog/' | relative_url }}"{% if page.url == '/blog/' %} aria-current="page"{% endif %}>Blog</a>
+        <a href="{{ '/about/' | relative_url }}"{% if page.url == '/about/' %} aria-current="page"{% endif %}>About</a>
         <a href="{{ '/campaign/' | relative_url }}"{% if page.url contains '/campaign/' %} aria-current="page"{% endif %}>Curse of Strahd</a>
         <a href="https://github.com/SkroxiousDM/2d12GameSystem">2d12 System</a>
         <a href="https://github.com/SkroxiousDM/SkroxiousDM">Repository</a>
@@ -27,7 +31,13 @@
     {% if page.subtitle %}<p class="subtitle">{{ page.subtitle | escape }}</p>{% endif %}
   </div>
   <main id="content" class="manuscript" tabindex="-1">
+    {% if page.collection == 'posts' %}
+    <p><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: '%B %-d, %Y' }}</time></p>
+    {% endif %}
     {{ content }}
+    {% if page.collection == 'posts' %}
+    <p><a href="{{ '/blog/' | relative_url }}">Back to the development blog</a></p>
+    {% endif %}
   </main>
   <footer class="site-footer">
     <p>{{ site.title | escape }} &middot; Original systems and campaign reference</p>
