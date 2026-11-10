@@ -16,6 +16,15 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v6
+      - name: Stage campaign includes with space-free filenames
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p _includes/campaign
+          cp -- "Creepy mirror scene.md" _includes/campaign/creepy-mirror.md
+          cp -- "Dining hall description.md" _includes/campaign/dining-hall.md
+          cp -- "Player Hooks and Backgrounds.md" _includes/campaign/player-hooks.md
+          cp -- "Strahd Answers.md" _includes/campaign/strahd-answers.md
       - name: Configure Pages
         if: github.event_name != 'pull_request'
         uses: actions/configure-pages@v5

@@ -6,6 +6,5 @@ permalink: /campaign/creepy-mirror/
 ---
 <p><a href="{{ '/campaign/' | relative_url }}">Back to campaign reference</a></p>
 <blockquote><p>GM reference. Contains scene spoilers and horror imagery.</p></blockquote>
-{% assign source_note = 'Creepy mirror scene.md' %}
-{% capture note %}{% include_relative {{ source_note }} %}{% endcapture %}
+{% capture note %}{% include campaign/creepy-mirror.md %}{% endcapture %}
 {{ note | markdownify }}
