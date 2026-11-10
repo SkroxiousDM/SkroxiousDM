@@ -6,5 +6,6 @@ permalink: /campaign/dining-hall/
 ---
 <p><a href="{{ '/campaign/' | relative_url }}">Back to campaign reference</a></p>
 <blockquote><p>GM reference. Contains location spoilers.</p></blockquote>
-{% capture note %}{% include_relative Dining hall description.md %}{% endcapture %}
+{% assign source_note = 'Dining hall description.md' %}
+{% capture note %}{% include_relative {{ source_note }} %}{% endcapture %}
 {{ note | markdownify }}
