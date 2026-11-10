@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="{{ site.lang | default: 'en-CA' }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title | escape }} | {{ site.title | escape }}</title>
+  <meta name="description" content="{{ page.description | default: site.description | escape }}">
+  <link rel="stylesheet" href="{{ '/assets/css/rpg.css' | relative_url }}">
+</head>
+<body>
+  <a class="skip-link" href="#content">Skip to content</a>
+  <header class="masthead">
+    <div class="masthead-inner">
+      <a class="brand" href="{{ '/' | relative_url }}">{{ site.title | escape }}</a>
+      <nav aria-label="Main navigation">
+        <a href="{{ '/' | relative_url }}"{% if page.url == '/' %} aria-current="page"{% endif %}>Home</a>
+        <a href="{{ '/campaign/' | relative_url }}"{% if page.url contains '/campaign/' %} aria-current="page"{% endif %}>Curse of Strahd</a>
+        <a href="https://github.com/SkroxiousDM/2d12GameSystem">2d12 System</a>
+        <a href="https://github.com/SkroxiousDM/SkroxiousDM">Repository</a>
+      </nav>
+    </div>
+  </header>
+  <div class="chapter-header">
+    <p class="eyebrow">Roleplaying games &amp; campaign archives</p>
+    <h1>{{ page.title | escape }}</h1>
+    <div class="ornament" aria-hidden="true"><span></span></div>
+    {% if page.subtitle %}<p class="subtitle">{{ page.subtitle | escape }}</p>{% endif %}
+  </div>
+  <main id="content" class="manuscript" tabindex="-1">
+    {{ content }}
+  </main>
+  <footer class="site-footer">
+    <p>{{ site.title | escape }} &middot; Original systems and campaign reference</p>
+    <p>Unofficial fan material. Referenced games and settings belong to their respective owners.</p>
+  </footer>
+</body>
+</html>
