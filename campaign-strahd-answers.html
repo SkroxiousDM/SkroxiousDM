@@ -6,6 +6,5 @@ permalink: /campaign/strahd-answers/
 ---
 <p><a href="{{ '/campaign/' | relative_url }}">Back to campaign reference</a></p>
 <blockquote><p>GM reference. Contains character and story spoilers.</p></blockquote>
-{% assign source_note = 'Strahd Answers.md' %}
-{% capture note %}{% include_relative {{ source_note }} %}{% endcapture %}
+{% capture note %}{% include campaign/strahd-answers.md %}{% endcapture %}
 {{ note | markdownify }}
