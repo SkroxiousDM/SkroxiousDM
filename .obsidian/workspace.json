@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/RoS-CoS-RRL/Recap/combined-campaign-reference.md",
+                "file": "docs/RoS-CoS-RRL/Recap/party-journal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "combined-campaign-reference"
+              "title": "party-journal"
             }
           }
         ]
@@ -187,12 +187,14 @@
   },
   "active": "6b30ad4ee17e721d",
   "lastOpenFiles": [
-    "docs/simple-quest/lore/lore-contents.md",
+    "docs/RoS-CoS-RRL/Recap/DramatisPersonae.md",
+    "docs/RoS-CoS-RRL/Recap/combined-places-and-persons.md",
     "docs/RoS-CoS-RRL/Recap/combined-campaign-reference.md",
+    "docs/RoS-CoS-RRL/Recap/party-journal.md",
+    "docs/simple-quest/lore/lore-contents.md",
     "docs/simple-quest/lore/journalentry.cgswpn6ymjxd4y5s/npcs.md",
     "docs/RoS-CoS-RRL/Recap/Lore.md",
     "docs/Curse-of-Strahd-Reloaded-main/Act III - The Broken Land/Arc N - Tales of Vallaki.md",
-    "docs/RoS-CoS-RRL/Recap/combined-places-and-persons.md",
     "docs/Curse-of-Strahd-Reloaded-main/-other.md",
     "ChatGPT templates/Writing Dialogue.md",
     "_scripts/unpublish_campaign.py",
