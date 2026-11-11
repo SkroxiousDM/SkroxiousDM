@@ -31,8 +31,10 @@ jobs:
           cp -- "campaign/Dining hall description.md" _includes/campaign/dining-hall.md
           cp -- "campaign/Player Hooks and Backgrounds.md" _includes/campaign/player-hooks.md
           cp -- "campaign/Strahd Answers.md" _includes/campaign/strahd-answers.md
-      - name: Generate house-rule web editions
-        run: python3 _scripts/publish_house_rules.py
+      - name: Test Markdown publishing
+        run: python3 -m unittest discover -s _scripts -p 'test_*.py'
+      - name: Generate documentation web editions
+        run: python3 _scripts/publish_docs.py
       - name: Configure Pages
         if: github.event_name != 'pull_request'
         uses: actions/configure-pages@v5
