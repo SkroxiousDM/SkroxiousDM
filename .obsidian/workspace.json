@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ChatGPT templates/Writing Dialogue.md",
+                "file": "docs/RoS-CoS-RRL/Recap/combined-campaign-reference.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Writing Dialogue"
+              "title": "combined-campaign-reference"
             }
           }
         ]
@@ -80,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 725.5
   },
   "right": {
     "id": "6fa6eeb49c6870f5",
@@ -187,26 +187,33 @@
   },
   "active": "6b30ad4ee17e721d",
   "lastOpenFiles": [
+    "docs/simple-quest/lore/lore-contents.md",
+    "docs/RoS-CoS-RRL/Recap/combined-campaign-reference.md",
+    "docs/simple-quest/lore/journalentry.cgswpn6ymjxd4y5s/npcs.md",
+    "docs/RoS-CoS-RRL/Recap/Lore.md",
+    "docs/Curse-of-Strahd-Reloaded-main/Act III - The Broken Land/Arc N - Tales of Vallaki.md",
+    "docs/RoS-CoS-RRL/Recap/combined-places-and-persons.md",
+    "docs/Curse-of-Strahd-Reloaded-main/-other.md",
+    "ChatGPT templates/Writing Dialogue.md",
+    "_scripts/unpublish_campaign.py",
+    "_scripts/test_site_links.py",
+    "_scripts/test_publish_docs.py",
+    "_scripts/site_links.py",
+    "_scripts/publish_docs.py",
     "campaign/campaign-treasure.html",
     "campaign/campaign-strahd-answers.html",
     "campaign/campaign-player-hooks.html",
     "campaign/campaign-places.html",
     "campaign/campaign-exethanter.html",
-    "campaign/campaign-dining-hall.html",
-    "campaign/campaign-creepy-mirror.html",
     "ChatGPT templates/Descriptive writing.md",
     "docs/7. House Rules/1. House Rules Index.md",
     "docs/index.md",
     "campaign/CAMPAIGN_PUBLISHING.md",
     "campaign/Arc_S-A_Sword_of_Sunlight.md",
-    "05-talents.pdf",
     "rules.md",
     "projects.md",
     "blog.md",
     "about.md",
-    "_scripts/test_house_rule_links.py",
-    "_scripts/publish_house_rules.py",
-    "_scripts/house_rule_links.py",
     "_posts/2026-11-10-welcome.md",
     "index.md",
     "campaign/index.md",
