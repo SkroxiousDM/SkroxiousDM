@@ -20,9 +20,3 @@ A dedicated reference area for the existing campaign archive: adventure notes, c
 [Enter the campaign reference]({{ '/campaign/' | relative_url }})
 
 > Campaign references may contain substantial spoilers. Players should consult their GM before browsing.
-
-## From manuscript to table
-
-This site's visual language follows the Typst manuscripts: paper-toned reading surfaces, charcoal chapter headers, blue accents, and restrained geometric ornaments.
-
-The manuscripts and campaign archive remain separate projects. This site brings their entry points together without changing the original source material.
