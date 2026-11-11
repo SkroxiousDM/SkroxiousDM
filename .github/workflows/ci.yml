@@ -55,7 +55,12 @@ jobs:
           source: ./
           destination: ./_site
       - name: Remove campaign output and navigation before deployment
-        run: python3 _scripts/unpublish_campaign.py prune
+        shell: bash
+        run: |
+          set -euo pipefail
+          sudo chown -R "$(id -u):$(id -g)" -- _site
+          chmod -R u+rwX -- _site
+          python3 _scripts/unpublish_campaign.py prune
       - name: Upload Pages artifact
         if: github.event_name != 'pull_request'
         uses: actions/upload-pages-artifact@v4
