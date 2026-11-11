@@ -246,28 +246,8 @@ All 18 active location links are retained. The index supplies names and links, n
 - [Krezk](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.oqippgoggup2xdve/journalentry.oqippgoggup2xdve.journalentrypage.iaini0jz5wkwscjs)
 - [Wizard of Wines Winery](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.oqippgoggup2xdve/journalentry.oqippgoggup2xdve.journalentrypage.t3yj28izqk9yfzd9)
 - [Yester Hill](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.oqippgoggup2xdve/journalentry.oqippgoggup2xdve.journalentrypage.f5zrsleqeljwgq3u)
-
-### Source-commented Location
-
-The Werewolf Den link was disabled in the source and remains commented out:
-
-<!--
 - [Werewolf Den](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.oqippgoggup2xdve/journalentry.oqippgoggup2xdve.journalentrypage.u8jbkqf8j1nq0bvp)
--->
 
-## Unassigned Scene or Reading Fragment
-
-The places-and-persons source ends with this fragment, not clearly assigned to a person or place:
-
-> Candlelight vanishes for a heartbeat and returns burning pure white so much it burns to see
->
-> “The Eight of Glyphs—the Bishop.”
-
-Its final line is incomplete:
-
-```text
-"Thi
-```
 
 ## Editorial and Source Notes
 
