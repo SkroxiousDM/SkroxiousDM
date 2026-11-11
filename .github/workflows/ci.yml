@@ -16,6 +16,12 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v6
+      - name: Exclude imported Strahd archive from publication
+        shell: bash
+        run: |
+          set -euo pipefail
+          # Remove only from the temporary runner workspace, not the repository.
+          rm -rf -- docs/Curse-of-Strahd-Reloaded-main
       - name: Stage campaign includes with space-free filenames
         shell: bash
         run: |
