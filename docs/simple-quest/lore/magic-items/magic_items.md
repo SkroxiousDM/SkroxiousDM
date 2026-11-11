@@ -20,11 +20,11 @@
 - [Chest of Holding](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/magic-items/chest-of-holding)
 - [Luckstone](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/magic-items/luckstone)
 - [Clairvoyance Stone](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/magic-items/clairvoyance-stone)
-  
-<!---
 - [Khazan's Staff](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/magic-items/khazans-staff)
 - [Spear of the Huntress](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/magic-items/spear-of-the-huntress)
 - [Dragon blessed weapon](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/magic-items/dragon-blessed-weapon)
+
+<!---
 - [Shield of the Silver Dragon](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/magic-items/shield-of-the-silver-dragon)
 - [Driftglobe](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/magic-items/driftglobe)
 - [Cape of the Mountebank](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/magic-items/cape-of-the-mountebank)
