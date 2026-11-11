@@ -128,9 +128,6 @@ The following town subsections use this area journal; no separate location-journ
 ### Coffin Maker's Shop — Remains Encounter
 
 - [Saint Andral](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.cgswpn6ymjxd4y5s/journalentry.cgswpn6ymjxd4y5s.journalentrypage.tonmrezc9ugjdqfy): only his bones were encountered, retrieved from the coffin maker's shop. This was not a direct meeting with the saint. The bones are associated with St. Andral's Church.
-
-### Vallaki — Bones-Recovery Encounter
-
 - [Volenta Popofsky](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.cgswpn6ymjxd4y5s/journalentry.cgswpn6ymjxd4y5s.journalentrypage.zhypiuwcd4fvrmhg): encountered during the recovery of St. Andral's bones. The reviewed journal records the encounter but does not separately specify the exact introduction site; no earlier first meeting is asserted here.
 
 ### Vallakovich Manor
@@ -147,7 +144,7 @@ The following town subsections use this area journal; no separate location-journ
 - [Dhavit](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.cgswpn6ymjxd4y5s/journalentry.cgswpn6ymjxd4y5s.journalentrypage.lga8fvig9rrgy17j): first met here.
 - [Madalena](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.cgswpn6ymjxd4y5s/journalentry.cgswpn6ymjxd4y5s.journalentrypage.sgdqh8d3sfiowfhp): first met here.
 - [Amalthia](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.cgswpn6ymjxd4y5s/journalentry.cgswpn6ymjxd4y5s.journalentrypage.0dlys8sk1ccwz6rb): first met here.
-- [Wensencia](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.cgswpn6ymjxd4y5s/journalentry.cgswpn6ymjxd4y5s.journalentrypage.abkpjgriasb3uv59): first met here.
+
 
 Nikolai and Karl Wachter belong to this family but were first met at the Blue Water Inn; their full entries are there.
 
@@ -201,17 +198,14 @@ The campaign owner confirms the following family members were first met at the w
 
 Urwin, Danika, Brom, Bray, and Muriel have their first-encounter entries under the Blue Water Inn. Martin, Viggo, and Yolanda's exact parentage was not established in the passages retrieved for the relationship check and is not asserted here.
 
-### Unresolved Source Inconsistency
-Urwin's profile calls him Stefania's older brother, while the “Meet the Martikovs” material says Stefania is five years older than Urwin. They are recorded simply as siblings. One appendix passage spells her name Stefnia; this reference uses Stefania, as in the narrative.
-
 ## Yester Hill
 
 [Location journal](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.oqippgoggup2xdve/journalentry.oqippgoggup2xdve.journalentrypage.f5zrsleqeljwgq3u)
 
 ### Kavan's Shrine — Base of Yester Hill
 
-- [Kavan](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.cgswpn6ymjxd4y5s/journalentry.cgswpn6ymjxd4y5s.journalentrypage.byyaihd10znzeg3i): first met as a spirit at his shrine at the base of Yester Hill. The campaign owner confirms the journal's “Spirit of Kazan” entry refers to Kavan.
-
+- [Kavan](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.cgswpn6ymjxd4y5s/journalentry.cgswpn6ymjxd4y5s.journalentrypage.byyaihd10znzeg3i): first met as a spirit at his shrine at the base of Yester Hill.
+  
 > KAVAN, THE BLOOD-DRINKER  
 > FORSAKEN OF THE ROZANA  
 > FIRST AND LAST CHIEFTAIN OF THE BALINOK MOUNTAINS.  
@@ -256,7 +250,7 @@ The Abbot was first met at Krezk's pool; his entry is there.
 
 [Location journal](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.oqippgoggup2xdve/journalentry.oqippgoggup2xdve.journalentrypage.u8jbkqf8j1nq0bvp)
 
-- [Ilya Krezkov](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.cgswpn6ymjxd4y5s/journalentry.cgswpn6ymjxd4y5s.journalentrypage.vxtkeathiundzlzo): first met at the Werewolf Den, not Krezk Manor.
+- [Ilya Krezkov](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.cgswpn6ymjxd4y5s/journalentry.cgswpn6ymjxd4y5s.journalentrypage.vxtkeathiundzlzo): first met at the Werewolf Den.
 
 ## Argynvostholt — Order of the Silver Dragon
 
@@ -268,11 +262,13 @@ The Order opposed Strahd in life. A revenant at Tser Falls recommended seeking G
 - Brother Marek: met at the mansion; advised the party about restoring the silver flame.
 - Commander Vladimir Horngaard: also called Sir Vladimir in earlier notes; met at the mansion. Had given an order not to attack Strahd.
 
-The original location index spelled the place Argyvostholt; this reference uses Argynvostholt.
-
-## Ruins of Berez — Baba Lysaga's Hut
+## Ruins of Berez
 
 [Location journal](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.oqippgoggup2xdve/journalentry.oqippgoggup2xdve.journalentrypage.f8mfxi957mocfdxh)
+
+- [Wensencia](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.cgswpn6ymjxd4y5s/journalentry.cgswpn6ymjxd4y5s.journalentrypage.abkpjgriasb3uv59): first met here.
+- 
+### Baba Lysaga's Hut
 
 - [Baba Lysaga](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.cgswpn6ymjxd4y5s/JournalEntry.cGsWPn6ymjxD4Y5s.JournalEntryPage.0wXLDsih0dR25iEZ): first met at her hut in Berez.
 
