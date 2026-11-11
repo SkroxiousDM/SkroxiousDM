@@ -35,6 +35,30 @@ jobs:
         run: python3 -m unittest discover -s _scripts -p 'test_*.py'
       - name: Generate documentation web editions
         run: python3 _scripts/publish_docs.py
+      - name: Redirect reference landing to overview
+        shell: bash
+        run: |
+          set -euo pipefail
+          test -f reference/overview/index.md
+          rm -- reference/index.md
+          cat > reference/index.html <<'EOF'
+          ---
+          layout: null
+          permalink: /reference/
+          ---
+          <!doctype html>
+          <html lang="en">
+          <head>
+            <meta charset="utf-8">
+            <title>Reference overview</title>
+            <meta http-equiv="refresh" content="0; url={{ '/reference/overview/' | relative_url }}">
+            <link rel="canonical" href="{{ '/reference/overview/' | absolute_url }}">
+          </head>
+          <body>
+            <p>Continue to the <a href="{{ '/reference/overview/' | relative_url }}">reference overview</a>.</p>
+          </body>
+          </html>
+          EOF
       - name: Configure Pages
         if: github.event_name != 'pull_request'
         uses: actions/configure-pages@v5
