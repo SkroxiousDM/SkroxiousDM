@@ -13,7 +13,7 @@
 ## Campaign
 
 - [The Party](https://skroxiousdm.github.io/SkroxiousDM/RoS-CoS-RRL/Player%20characters/Party)
-- [Ireena's Journal](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/quests/party/shared/party-journal)
+- [Ireena's Journal](https://skroxiousdm.github.io/SkroxiousDM/RoS-CoS-RRL/Recap/party-journal.md)
 - [Quests](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/quests/quests)
 - [Lore](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/lore-contents)
 
