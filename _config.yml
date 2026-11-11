@@ -1,5 +1,5 @@
 title: SkroxiousDM
-description: Roleplaying games, original systems, and campaign reference material.
+description: A synthesis of Roleplaying systems, and campaign reference material.
 url: "https://skroxiousdm.com"
 baseurl: ""
 lang: en-CA
@@ -27,11 +27,3 @@ exclude:
   - Gemfile.lock
   - vendor
   - README.md
-  - Arc_S-A_Sword_of_Sunlight.md
-  - Creepy mirror scene.md
-  - Dining hall description.md
-  - Exethanter.md
-  - Player Hooks and Backgrounds.md
-  - Strahd Answers.md
-  - Treasure.md
-  - places-and-persons-of-interest.md
