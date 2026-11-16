@@ -12,7 +12,9 @@ These links point to the existing manuscript files in the game system repository
 
 ## Online rules
 
-Web-readable rules and reference pages will be linked here as they are prepared.
+- [The 2d12 System core rulebook]({{ '/rules/core/' | relative_url }}): the full core rulebook, one page per chapter.
+
+The web edition is generated from the Typst manuscript in the game system repository. The PDF remains the reference layout.
 
 ## Published editions
 

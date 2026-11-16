@@ -50,11 +50,52 @@ tr:nth-child(even) { background: var(--tint); }
 pre { overflow-x: auto; padding: 1rem; background: var(--tint); }
 code { font-size: .85em; }
 .site-footer { max-width: 58rem; margin: 2rem auto; padding: 0 1.5rem; text-align: center; color: var(--ash); font: .85rem/1.6 var(--display-font); }
+/* Core rulebook web edition (rules/core/, generated from 2d12GameSystem) */
+.rulebook h2 { scroll-margin-top: 1rem; }
+.rulebook h4 { color: var(--navy); font: italic 700 1.1rem var(--body-font); }
+.rulebook table { font-size: .95rem; margin: 1.2rem 0; }
+.rulebook th p, .rulebook td p { margin: 0; }
+.rulebook td p + p { margin-top: .4rem; }
+.rb-pager { display: flex; flex-wrap: wrap; justify-content: space-between; gap: .5rem 1rem; margin: 0 0 1.5rem; padding: .7rem 0; border-bottom: 1px solid var(--pewter); font: .95rem/1.5 var(--display-font); }
+.rb-pager:last-child { margin: 2.5rem 0 0; border-bottom: 0; border-top: 1px solid var(--pewter); }
+.rb-pager a { text-decoration: none; }
+.rb-pager a:hover { text-decoration: underline; }
+.rb-up { margin: 0 auto; }
+.rb-prev + .rb-up { margin: 0; }
+.rb-chapter-blurb { text-align: center; color: var(--ash); margin: 0 auto 1.5rem; max-width: 46rem; }
+.rb-toc, .rb-chapters > li > ul { font: .95rem/1.5 var(--display-font); }
+.rb-toc { padding: 1rem 1.4rem; background: var(--tint); border: 1px solid #d4d9de; margin: 0 0 2rem; }
+.rb-toc-title, .rb-chapter-label { font: 700 .78rem/1.6 var(--display-font); letter-spacing: .22em; text-transform: uppercase; color: var(--dust); margin: 0 0 .4rem; }
+.rb-toc ul { columns: 2 16rem; column-gap: 2rem; margin: 0; padding-left: 1.1rem; }
+.rb-toc li { margin: 0 0 .35rem; break-inside: avoid; }
+.rb-sidebar { margin: 1.6rem 0; padding: 1rem 1.3rem; background: var(--ink); color: var(--moon); border: 1px solid var(--pewter); }
+.rb-sidebar strong { color: var(--moon); }
+.rb-sidebar > p:first-child > strong:first-child { color: var(--pewter); font-family: var(--display-font); letter-spacing: .08em; text-transform: uppercase; }
+.rb-sidebar a { color: var(--moon); }
+.rb-sidebar li::marker { color: var(--pewter); }
+.rb-statblock { margin: 1.4rem 0; padding: .9rem 1.2rem; border: 1px solid var(--pewter); border-top: 3px solid var(--navy); background: var(--paper); }
+.rb-statblock > p:first-child > strong:first-child { font-family: var(--display-font); color: var(--navy); }
+.rb-statblock p, .rb-statblock ul { margin: .5rem 0; }
+.rb-art-note { margin: 1.6rem 0; padding: .9rem 1.2rem; border: 1px dashed var(--pewter); background: var(--tint); color: var(--ash); font-style: italic; text-align: center; font-size: 1rem; }
+.rb-art-note strong { display: block; font: 700 .72rem/1.6 var(--display-font); font-style: normal; letter-spacing: .3em; text-transform: uppercase; color: var(--dust); }
+.rb-art-side::after { content: ""; display: table; clear: both; }
+.rb-art-side > p:first-child { float: right; width: 33%; margin: 0 0 1rem 1.5rem; }
+.rb-art-side > :not(:first-child) { display: flow-root; }
+.rb-art-side > table:not(:first-child) { display: block; }
+.rb-motto { text-align: center; font-style: italic; color: var(--ash); }
+.rb-chapters { list-style: none; padding: 0; }
+.rb-chapters > li { margin: 1.4rem 0; padding-bottom: 1rem; border-bottom: 1px solid #d4d9de; }
+.rb-chapters > li > p { margin: 0 0 .3rem; font: 700 1.3rem/1.4 var(--display-font); }
+.rb-chapters .rb-chapter-label { display: block; margin: 0; }
+.rb-chapters > li > ul { columns: 2 16rem; column-gap: 2rem; margin: .4rem 0 0; padding-left: 1.1rem; }
+.rb-chapters > li > ul li { margin: 0 0 .3rem; break-inside: avoid; }
+.rb-source { color: var(--dust); font-size: .95rem; }
 @media (max-width: 40rem) {
   body { font-size: 1.1rem; }
   .masthead-inner { padding: 1rem 1.25rem; }
   .chapter-header { padding: 2.5rem 1.25rem; }
   .manuscript { margin: 0; border: 0; }
+  .rb-art-side > p:first-child { float: none; width: auto; max-width: 16rem; margin: 0 auto 1rem; }
 }
 @media print {
   body { background: white; color: black; font-size: 11pt; }
@@ -63,5 +104,8 @@ code { font-size: .85em; }
   .eyebrow { color: black; }
   .manuscript { margin: 0; max-width: none; border: 0; padding: 1rem 0; }
   h2, h3, h4 { break-after: avoid; }
+  .rb-pager, .rb-toc { display: none; }
+  .rb-sidebar { background: white; color: black; }
+  .rb-sidebar strong, .rb-sidebar > p:first-child > strong:first-child { color: black; }
   a { color: black; }
 }

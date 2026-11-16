@@ -1,0 +1,1849 @@
+---
+title: "Adversaries"
+subtitle: "Chapter IV · The 2d12 System core rulebook"
+description: "Adversaries, Chapter IV of the The 2d12 System core rulebook, web edition."
+permalink: "/rules/core/adversaries/"
+---
+<div class="rulebook">
+<nav class="rb-pager" aria-label="Chapter navigation">
+<a class="rb-prev" rel="prev" href="../optional-modules/">&larr; Optional Modules</a>
+<a class="rb-up" href="../">Contents</a>
+<a class="rb-next" rel="next" href="../generic-descriptors/">Generic Descriptors &rarr;</a>
+</nav>
+{% raw %}
+<div class="rb-chapter-blurb">
+<p><em>Build opposition on an index card, budget the fight, script it,
+and run it through the conflict system. Terse reference for the
+GM.</em><br />
+Every adversary has one thing it is clearly best at. Show the table the
+Tell.</p>
+</div>
+{% endraw %}
+<nav class="rb-toc" aria-labelledby="rb-toc-title">
+<p id="rb-toc-title" class="rb-toc-title">In this chapter</p>
+<ul>
+<li><a href="#s-1-principles">1. Principles</a></li>
+<li><a href="#s-2-the-card">2. The Card</a></li>
+<li><a href="#s-3-building-an-adversary">3. Building an Adversary</a></li>
+<li><a href="#s-4-kind-packages">4. Kind Packages</a></li>
+<li><a href="#s-5-encounter-budget">5. Encounter Budget</a></li>
+<li><a href="#s-6-running-adversaries">6. Running Adversaries</a></li>
+<li><a href="#s-7-templates">7. Templates</a></li>
+<li><a href="#s-8-boss-phases">8 Boss Phases</a></li>
+<li><a href="#s-9-quick-checklist">9. Quick Checklist</a></li>
+</ul>
+</nav>
+{% raw %}
+<h2 id="s-1-principles">1. Principles</h2>
+<ul>
+<li><p><strong>No pools.</strong> Ordinary adversaries do not track
+Sōma, Mētis, Psychē or Pneuma. <strong>Grit</strong> contributes to
+their side’s starting shared Disposition; it is not a personal track.
+<strong>Shrugs</strong> are free Resists. Rivals built as full PCs use
+their PC resources and applicable exceptions.</p></li>
+<li><p><strong>Tags are already counted.</strong> Ratings include tags.
+PCs still Discover, Suppress and compel them.</p></li>
+</ul>
+<ul>
+<li><p><strong>Woe is fuel.</strong> Ordinary adversaries buy bonus dice
+(1 Woe each, max +2 including free dice) and fire Specials with Woe.
+They never use Effort and cannot overrun Woe costs.</p></li>
+<li><p><strong>One best action.</strong> Every card has one clearly best
+action and a <strong>Tell</strong> that hints at it. Give the players
+something to script around.</p></li>
+<li><p><strong>Index-card size.</strong> If it does not fit on a card,
+cut it.</p></li>
+</ul>
+<h2 id="s-2-the-card">2. The Card</h2>
+<pre><code>NAME — Kind · Rank · Role                              Threat N
+Grit N · Guard +N · Shrugs N · Armour N
+Attack +N · Defend +N · Feint +N · Maneuver +N · Other +N
+Harm: status (source)
+Power tags: … · Weakness tags: …
+Kind: traits from the Kind package
+Role: role trait
+Specials: Name (Woe cost): effect
+Tell: the visible sign before it uses its Best action
+Wants: what it is after in this scene
+</code></pre>
+<table>
+<thead>
+<tr>
+<th><p>Field</p></th>
+<th><p>Meaning</p></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><p>Grit</p></td>
+<td><p>The adversary’s contribution to its side’s starting shared
+Disposition. Add up Grit across a side; adversary sides do not roll for
+Disposition. Do not track or deplete individual Grit shares.</p></td>
+</tr>
+<tr>
+<td><p>Guard</p></td>
+<td><p>Added to Standard 15 when a PC’s independent roll targets this
+adversary.</p></td>
+</tr>
+<tr>
+<td><p>Shrugs</p></td>
+<td><p>Free Resists per scene; each cuts an incoming status by 2 tiers.
+Extra Shrugs cost 1 Woe. Subject to the one-reduction limit
+below.</p></td>
+</tr>
+<tr>
+<td><p>Armour</p></td>
+<td><p>−1 tier of physical harm per point; subject to the one-reduction
+limit below.</p></td>
+</tr>
+<tr>
+<td><p>Ratings</p></td>
+<td><p>Bonus on each conflict action. Other covers rolls outside a
+conflict.</p></td>
+</tr>
+<tr>
+<td><p>Harm</p></td>
+<td><p>Status inflicted by a successful Attack outside a conflict. Tiers
+equal Power.</p></td>
+</tr>
+<tr>
+<td><p>Threat</p></td>
+<td><p>Its cost against the encounter budget. Always equals
+Grit.</p></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Reduction and payments.</strong> Ordinary NPCs apply at most
+one eligible reduction per imposed status application (Core Rules
+§10.14); do not stack Armour and repeated Shrugs against the same
+status. Neither reduces ordinary shared Disposition loss or protected
+payments. General immunity, prevention and redirection likewise cannot
+cancel accepted injury trades, running-dry statuses, agreed concession
+costs or other accepted payments (§10.7). Later treatment or healing
+follows its own rules and refunds no benefit.</p>
+<h2 id="s-3-building-an-adversary">3. Building an Adversary</h2>
+<h3 id="step-1-concept-and-kind">Step 1 — Concept and Kind</h3>
+<p>One line: who it is and what it wants. Pick a <strong>Kind</strong>:
+Human, Beast or Guardian (§4), or a Kind supplied by the setting.</p>
+<h3 id="step-2-rank">Step 2 — Rank</h3>
+<table>
+<thead>
+<tr>
+<th><p>Rank</p></th>
+<th><p>Grit = Threat</p></th>
+<th><p>Best / Fair / Weak</p></th>
+<th><p>Guard</p></th>
+<th><p>Shrugs</p></th>
+<th><p>Tags: power / weakness</p></th>
+<th><p>Specials</p></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><p>Minion group (3–6 Bodies)</p></td>
+<td><p>3</p></td>
+<td><p>+4 / +2 / +0</p></td>
+<td><p>+0</p></td>
+<td><p>Bodies</p></td>
+<td><p>2 / 1</p></td>
+<td><p>1 group trait</p></td>
+</tr>
+<tr>
+<td><p>Minor</p></td>
+<td><p>3</p></td>
+<td><p>+5 / +3 / +1</p></td>
+<td><p>+0</p></td>
+<td><p>0</p></td>
+<td><p>2 / 1</p></td>
+<td><p>1</p></td>
+</tr>
+<tr>
+<td><p>Established</p></td>
+<td><p>5</p></td>
+<td><p>+6 / +4 / +2</p></td>
+<td><p>+1</p></td>
+<td><p>1</p></td>
+<td><p>3 / 1</p></td>
+<td><p>2</p></td>
+</tr>
+<tr>
+<td><p>Great</p></td>
+<td><p>8</p></td>
+<td><p>+8 / +5 / +3</p></td>
+<td><p>+2</p></td>
+<td><p>2</p></td>
+<td><p>4 / 2</p></td>
+<td><p>3</p></td>
+</tr>
+<tr>
+<td><p>Paramount</p></td>
+<td><p>12</p></td>
+<td><p>+10 / +7 / +4</p></td>
+<td><p>+3</p></td>
+<td><p>3</p></td>
+<td><p>5 / 2</p></td>
+<td><p>4</p></td>
+</tr>
+</tbody>
+</table>
+<p>Rank is how dangerous it is <em>now</em>. It sets every number.
+Settings supply any Kind-specific construction exceptions; do not add a
+setting bonus again when its listed Grit already includes it.</p>
+<p><strong>Tiers.</strong> Minion groups are the mob. Minor and
+Established are rivals. Great and Paramount can serve as bosses, but
+Rank alone does not grant Boss Phases. Explicit phased-boss designation
+follows §7.1.</p>
+<p>Use +6 as a starting-PC benchmark from skill and tags, not a
+universal maximum. With one bonus die, that PC wins a versus roll about
+this often against an adversary that rolls no bonus dice:</p>
+<table>
+<thead>
+<tr>
+<th><p>Adversary rating</p></th>
+<th><p>+2</p></th>
+<th><p>+4</p></th>
+<th><p>+6</p></th>
+<th><p>+8</p></th>
+<th><p>+10</p></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><p>PC win chance</p></td>
+<td><p>85%</p></td>
+<td><p>77%</p></td>
+<td><p>67%</p></td>
+<td><p>56%</p></td>
+<td><p>about 45%</p></td>
+</tr>
+</tbody>
+</table>
+<p>Each Woe die you add moves the odds back toward the adversary. These
+are roll benchmarks, not encounter-win predictions; versus totals,
+exceptional doubles and ability-created doubles follow Core Rules §2.6
+and §10.5. The listed benchmarks are not current encounter-balance
+validation.</p>
+<h3 id="step-3-role">Step 3 — Role</h3>
+<p>The Role names the Best action and gives one trait. Assign Fair to
+two other actions and Weak to the last. A Beast or simple machine has no
+Feint: it gets Best, Fair, Fair.</p>
+<table>
+<thead>
+<tr>
+<th><p>Role</p></th>
+<th><p>Best</p></th>
+<th><p>Role trait</p></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><p>Brute</p></td>
+<td><p>Attack</p></td>
+<td><p><strong>Heavy Hitter.</strong> First successful Attack each
+exchange gets +1 Power. Resolve area effects under Core Rules §10.17; do
+not multiply this bonus across shared Disposition. Outside conflicts,
+its Harm is +1 tier.</p></td>
+</tr>
+<tr>
+<td><p>Shooter</p></td>
+<td><p>Attack</p></td>
+<td><p><strong>Dead Aim.</strong> Free bonus die on its first Attack
+each scene.</p></td>
+</tr>
+<tr>
+<td><p>Bulwark</p></td>
+<td><p>Defend</p></td>
+<td><p><strong>Interpose.</strong> Once per exchange, it may intercept
+an ally’s imposed status before Resistance or harm reduction, using its
+own normal reduction instead. Alternatively, use Hold the Line to reduce
+one successful opposing Attack’s ordinary loss by 1. Both options share
+one use per exchange (§6.13). Outside conflicts, it may likewise
+intercept fitting harm without a separate frequency limit. Follow the
+full timing, exclusions and area restrictions in §6.13.</p></td>
+</tr>
+<tr>
+<td><p>Skirmisher</p></td>
+<td><p>Maneuver</p></td>
+<td><p><strong>Hit and Run.</strong> A successful Maneuver also removes
+1 Disposition from the opponent.</p></td>
+</tr>
+<tr>
+<td><p>Controller</p></td>
+<td><p>Maneuver</p></td>
+<td><p><strong>Shape the Ground.</strong> Once per scene, Create a Truth
+for 1 Woe (not 2) or for 1 Power from a Maneuver.</p></td>
+</tr>
+<tr>
+<td><p>Trickster</p></td>
+<td><p>Feint</p></td>
+<td><p><strong>Ambush.</strong> If the PCs have not noticed it when the
+conflict begins, its side starts with +2 Disposition.</p></td>
+</tr>
+<tr>
+<td><p>Leader</p></td>
+<td><p>Defend or Maneuver</p></td>
+<td><p><strong>Command.</strong> While the Leader remains able to
+participate, minion groups on its side get +1 to all ratings, and
+changing its side’s script costs 2 Woe (not 3).</p></td>
+</tr>
+</tbody>
+</table>
+<h3 id="step-4-tags">Step 4 — Tags</h3>
+<p>Write as many as the Rank allows.</p>
+<ul>
+<li><p><strong>Power tags</strong> explain the Best action: faster than
+you can see, old-world steel, a hundred donors.</p></li>
+<li><p><strong>Weakness tags</strong> are levers PCs can find with
+Discover: proud beyond reason, fears fire, fixed in place.</p></li>
+<li><p><strong>Suppressing a power tag</strong> (Weaken 1, Disarm 3,
+Called Shot) lowers the rating it supports by 1 for the scene. If the
+tag powers a Special, the Special is off for the scene instead.</p></li>
+<li><p><strong>Using a Discovered weakness</strong> gives the PC +1 on
+the roll.</p></li>
+<li><p><strong>Compelling a weakness</strong> costs 1 Momentum or 1
+Tychē. The adversary acts on it and the GM gains 1 Woe.</p></li>
+</ul>
+<p>Use the effect permissions of the procedure being resolved (Core
+Rules §5, §10.6). A successful scripted action may buy relevant
+Discover; this summary grants no unrelated questions or additional
+status permission. General Weaken requires an explicit ability in
+conflicts; use Maneuver’s priced Disarm for ordinary asset denial.
+Called Shot retains only its named permission and duration.</p>
+<h3 id="step-5-specials-harm-tell-wants">Step 5 — Specials, Harm, Tell,
+Wants</h3>
+<p>Pick Specials from the Kind menu up to the Rank limit. Price a new
+one:</p>
+<table>
+<thead>
+<tr>
+<th><p>Woe</p></th>
+<th><p>What it can do</p></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><p>0</p></td>
+<td><p>Always-on trait, or a once-per-scene minor trick (Armour 1, step
+between shadows).</p></td>
+</tr>
+<tr>
+<td><p>1</p></td>
+<td><p>+1 Power or a free bonus die on one roll. A tier-2 status on one
+target. Cancel one PC trick. Named reserve reinforcement only under its
+priced package.</p></td>
+</tr>
+<tr>
+<td><p>2</p></td>
+<td><p>Create a Truth. A tier-3 status. Leave the scene. An area
+effect.</p></td>
+</tr>
+<tr>
+<td><p>3</p></td>
+<td><p>Changes the scene: a significant reinforcement under its package,
+recover 2 tiers or 3 Disposition, a danger-clock tick plus an
+effect.</p></td>
+</tr>
+</tbody>
+</table>
+<p>This is pricing guidance, not an unrestricted spend menu. Write a
+Special’s trigger, action requirement, targets and component explicitly.
+Free waives only its listed cost; it grants no extra turn or rotation
+bypass. Additional Power, Disposition loss and status tiers are
+distinct, and a bonus does not apply to both loss and harm unless
+stated. Cancelling a trick does not cancel a protected payment (Core
+Rules §10.5–10.7).</p>
+<p><strong>Area Rule (provisional for playtesting).</strong> Use Core
+Rules §10.17. Establish the area and everyone it can reach; there is no
+automatic ally/enemy selection. An area Attack or Feint removes its
+committed Power + 1 from shared Disposition once, plus 1 per additional
+opposing participant affected. No individual shares or spill-over. A
+group represented by one rules entry counts as one participant, not one
+per Body. Explicit statuses apply at full purchased or listed tier to
+every affected character, with separate Resistance or NPC reduction. An
+ordinary conflict Attack gains no status merely for being an area
+effect. Apply both layers only when an explicit rule grants both. At
+most one participant may accept an injury trade against the combined
+loss of a single area Attack or Feint.</p>
+<div class="rb-art-note">
+<p><strong>Art placeholder</strong><br />
+A field naturalist’s sketchbook of strange creatures, each with notes on
+its weak points.</p>
+</div>
+<h2 id="s-4-kind-packages">4. Kind Packages</h2>
+<h3 id="human">Human</h3>
+<ul>
+<li><p><strong>Morale.</strong> Outside conflicts, a minion group or
+Minor flees or surrenders at half Bodies or when its leader is Taken
+Out, unless a Leader still stands.</p></li>
+<li><p><strong>Can be talked to.</strong> Persuade, Intimidate, bribes,
+Argument and Negotiation all work.</p></li>
+<li><p><strong>Gear is in the ratings.</strong> Write Armour
+separately.</p></li>
+<li><p>Build Great or Paramount rival hunters as full PCs.</p></li>
+</ul>
+<table>
+<thead>
+<tr>
+<th><p>Special</p></th>
+<th><p>Woe</p></th>
+<th><p>Effect</p></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><p>Volley</p></td>
+<td><p>2</p></td>
+<td><p>Group or Shooter. An area Attack.</p></td>
+</tr>
+<tr>
+<td><p>Dirty Trick</p></td>
+<td><p>1</p></td>
+<td><p>Once per bearer per exchange after a successful assigned action,
+Impede the opposing next scripted action in a later volley
+(§6.17).</p></td>
+</tr>
+<tr>
+<td><p>Call for Help</p></td>
+<td><p>2 per copy</p></td>
+<td><p>Action-free named-reserve call. Use the caller-specific package,
+shared call window and arrival procedure (§§6.5, 6.24).</p></td>
+</tr>
+<tr>
+<td><p>Covering Move</p></td>
+<td><p>1</p></td>
+<td><p>Once per bearer per exchange after a successful Maneuver, grant
+Gain Position to the next friendly scripted action in a later volley.
+Cannot activate while pending or already declared (§6.18).</p></td>
+</tr>
+<tr>
+<td><p>Last Stand</p></td>
+<td><p>2</p></td>
+<td><p>Defeat-triggered. At an eligible defeat at 0 shared Disposition,
+postpone defeat for one final volley for both sides (§6.10). Once per
+side per conflict; no personal extra action.</p></td>
+</tr>
+<tr>
+<td><p>Fanatic</p></td>
+<td><p>0</p></td>
+<td><p>Ignores Morale.</p></td>
+</tr>
+</tbody>
+</table>
+<h3 id="beast">Beast</h3>
+<ul>
+<li><p><strong>No Feint.</strong> Ratings are Best, Fair, Fair. The
+missing Feint is the trade-off.</p></li>
+<li><p><strong>Cannot be reasoned with.</strong> No Persuade or
+Argument. Intimidate and fire work. Every beast starts with a weakness
+such as fears fire.</p></li>
+<li><p><strong>Morale</strong> as Human. Packs scatter when the pack
+leader falls.</p></li>
+</ul>
+<table>
+<thead>
+<tr>
+<th><p>Special</p></th>
+<th><p>Woe</p></th>
+<th><p>Effect</p></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><p>Pack Tactics</p></td>
+<td><p>0</p></td>
+<td><p>Group trait. +1 Attack if another member of its side Attacked
+earlier this exchange.</p></td>
+</tr>
+<tr>
+<td><p>Pounce</p></td>
+<td><p>1</p></td>
+<td><p>Free bonus die on its first Attack in a scene. If it wins, apply
+Impede to the opposing side’s next scripted action under Core Rules
+§10.6.</p></td>
+</tr>
+<tr>
+<td><p>Savage Bite</p></td>
+<td><p>1</p></td>
+<td><p>+1 Power on a successful Attack.</p></td>
+</tr>
+<tr>
+<td><p>Thick Hide</p></td>
+<td><p>0</p></td>
+<td><p>Armour 1.</p></td>
+</tr>
+<tr>
+<td><p>Venom / Infection</p></td>
+<td><p>2</p></td>
+<td><p>After a successful Attack during a conflict, pay 2 Woe to record
+one deferred poisoned-2 application against the target. Resolve it when
+the conflict ends under §6.12, regardless of the outcome; compromise
+does not cause another application. Outside conflicts, inflict
+poisoned-2 on the hit instead, paying the same listed cost. Once
+inflicted, the poisoned status rises by 1 tier per scene until treated;
+a pending record does not progress. During a conflict, at most one
+recorded application per named Special per target across all sources
+(§6.12).</p></td>
+</tr>
+<tr>
+<td><p>Howl</p></td>
+<td><p>2</p></td>
+<td><p>Action-free call to one shared reserve Hound Pack; exchange-end
+arrival, delayed by blocked routes without further payment
+(§6.22).</p></td>
+</tr>
+<tr>
+<td><p>Bolt</p></td>
+<td><p>2</p></td>
+<td><p>After a successful Maneuver, withdraw at volley end after
+Self-Repair. Cannot bypass contested escape, pursuit or capture
+(§6.21).</p></td>
+</tr>
+</tbody>
+</table>
+<h3 id="guardian">Guardian</h3>
+<ul>
+<li><p><strong>Unfeeling.</strong> Immune to fear, Intimidate, Persuade,
+Duel of Wills and Pneuma statuses. No Morale; it never flees.</p></li>
+<li><p><strong>Protocol.</strong> It scripts in a pattern. One Discover
+reveals its next exchange’s script (§6.15).</p></li>
+<li><p><strong>Machine.</strong> The glitched status lowers all ratings
+by its tier. A PC with access can use Science as Attack (shutdown) or
+Maneuver (override).</p></li>
+<li><p><strong>Simple machines</strong> have no Feint. Thinking
+constructs Feint normally.</p></li>
+</ul>
+<table>
+<thead>
+<tr>
+<th><p>Special</p></th>
+<th><p>Woe</p></th>
+<th><p>Effect</p></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><p>Suppressing Fire</p></td>
+<td><p>2</p></td>
+<td><p>An area Attack.</p></td>
+</tr>
+<tr>
+<td><p>Scan</p></td>
+<td><p>1</p></td>
+<td><p>Once per exchange, cancel one purchased Impede or Gain Position
+from a detectable opposing Stealth Maneuver, or reveal one detectable
+hidden opponent after own successful Maneuver (§6.19).</p></td>
+</tr>
+<tr>
+<td><p>Self-Repair</p></td>
+<td><p>1</p></td>
+<td><p>After successful assigned action, once per Guardian per exchange,
+repair up to 2 shared Disposition or physical-status tiers at volley
+end. No Disposition recovery from 0 (§6.14).</p></td>
+</tr>
+<tr>
+<td><p>Lockdown</p></td>
+<td><p>2</p></td>
+<td><p>Once per scene after successful Maneuver, create rank-1 Sealed
+Doors over named existing controlled barriers (§6.20).</p></td>
+</tr>
+<tr>
+<td><p>Shock Field</p></td>
+<td><p>1</p></td>
+<td><p>When a PC loses a versus roll to it in melee, record one deferred
+jolted-2 application against that PC (§6.12). This trigger is not
+limited to Attack. During a conflict, at most one recorded application
+per named Special per target across all sources (§6.12).</p></td>
+</tr>
+<tr>
+<td><p>Fail-safe</p></td>
+<td><p>3</p></td>
+<td><p>Defeat-triggered. At eligible final defeat at 0 shared
+Disposition, an active Guardian detonates before finishing procedures,
+assigning burned-3 to each PC within reach as an additional compromise
+injury (§6.11). The Guardian is destroyed.</p></td>
+</tr>
+<tr>
+<td><p>Calls the Works</p></td>
+<td><p>2</p></td>
+<td><p>Action-free call to one shared reserve Gate Warden. Accepted
+command survives caller/link loss; blocked route delays arrival
+(§6.23).</p></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Special procedures and remaining scope.</strong> Self-Repair
+uses §6.14; Protocol uses §6.15; Last Stand uses §6.10; Fail-safe uses
+its separate compromise procedure in §6.11; Shock Field, Venom /
+Infection and any setting Special that explicitly refers to it use the
+outcome-independent deferred-injury procedure in §6.12. These are
+explicit Special exceptions, not ordinary Attack effects or permissions
+to cancel protected payments. A setting supplies its own additional Kind
+packages and Special entries; the shared procedures grant no unstated
+trigger, extra turn or actor reassignment. Dirty Trick, Covering Move,
+Scan, Lockdown, Bolt and the named reinforcement packages use
+§§6.16–6.24. Their shared timing grants no additional action or
+activation permission.</p>
+<h2 id="s-5-encounter-budget">5. Encounter Budget</h2>
+<p><strong>Legacy calibration; playtest flag.</strong> The retained
+budget uses <strong>P</strong> = about 8 plus party size as a historical
+benchmark, not the current PC setup formula. Current rolled setup
+divides 2d12 + Disposition skill + highest pool Edge by 3, rounds down,
+then adds backers and flat modifiers at full value before the minimum of
+1 and Superiority (Core Rules §10.2–10.3). Recalibrate the expectations
+below against that procedure; this pass changes no Threat, Grit or
+budget numbers. Spend Threat (= Grit) against the retained benchmark
+only with that limitation in mind.</p>
+<table>
+<thead>
+<tr>
+<th><p>Difficulty</p></th>
+<th><p>Threat budget</p></th>
+<th><p>Extra Woe</p></th>
+<th><p>Legacy expectation</p></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><p>Easy</p></td>
+<td><p>½ P</p></td>
+<td><p>none</p></td>
+<td><p>PCs win without spending Tychē. Openers and calibration.</p></td>
+</tr>
+<tr>
+<td><p>Standard</p></td>
+<td><p>P</p></td>
+<td><p>none</p></td>
+<td><p>PCs should win and take a Minor or Significant
+compromise.</p></td>
+</tr>
+<tr>
+<td><p>Hard</p></td>
+<td><p>P + 3</p></td>
+<td><p>+2</p></td>
+<td><p>PCs win only if they play well. One bad Disposition roll can lose
+it.</p></td>
+</tr>
+<tr>
+<td><p>Deadly</p></td>
+<td><p>P + 6 or more</p></td>
+<td><p>+4</p></td>
+<td><p>Signpost it. Flight, bargaining or burning Tychē are real
+outcomes.</p></td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th><p>Party size</p></th>
+<th><p>2</p></th>
+<th><p>3</p></th>
+<th><p>4</p></th>
+<th><p>5</p></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><p>Legacy P</p></td>
+<td><p>10</p></td>
+<td><p>11</p></td>
+<td><p>12</p></td>
+<td><p>13</p></td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li><p><strong>Mix at least two Roles.</strong> A Controller with a
+Skirmisher pack and a Minor Brute gives players script
+decisions.</p></li>
+<li><p><strong>Keep actors to party size + 1 or fewer.</strong> Put
+extra bodies into minion groups.</p></li>
+<li><p><strong>Count Woe separately.</strong> Session Woe (2 per PC)
+plus any setting-provided introduction Woe can stack fast. If the
+encounter already carries introduction Woe, treat Hard as Standard plus
+Woe.</p></li>
+<li><p><strong>Disposition-cutting PC abilities</strong> (such as −2 or
+−3 to the opposing side) apply after the budget.</p></li>
+<li><p><strong>Superiority</strong> (Know Thy Foe, Know Thy Battlefield,
+Know Thy Players) lowers opposing Disposition by 1 per eligible distinct
+category, up to 3, after other setup modifiers and the minimum of 1.
+Only Superiority can reduce an adjusted start to 0. Determine both
+sides” adjusted totals first: if only one is 0, its opponent wins at no
+cost within the stakes; if both are 0, resolve simultaneous setup defeat
+as mutual defeat without scripting or a winner’s compromise (Core Rules
+§10.3, §10.12). Symmetry and eligibility retain the core playtest
+flags.</p></li>
+<li><p><strong>Variance warning.</strong> The PCs” Disposition roll can
+materially change the matchup; adversary Grit is fixed. If the result
+makes the struggle unusually dangerous, signpost it and offer exits
+rather than treating the legacy difficulty label as a
+guarantee.</p></li>
+</ul>
+<p>Test legal opposition near a declared party profile’s expected setup
+start, that expectation +2 and +4, before opposing Superiority. Record
+actual Grit where legal packages cannot match. Retain Threat = Grit and
+rank construction. Keep builds, resources, tactics, interaction matrix,
+reserve packages, deferred cap and initial Woe fixed within matched
+comparisons; vary Woe separately. Record outcome, mutual defeat,
+compromise, volleys, Woe, repair, protection, phases, reserve Grit
+introduced and lasting costs. Track initial Grit, available reserve
+Grit, actual introduced Grit and call costs separately. No validated
+reserve-budget surcharge or numerical recalibration is established. Win
+rate alone is insufficient.</p>
+<h2 id="s-6-running-adversaries">6. Running Adversaries</h2>
+<h3 id="s-6-1-setup">6.1 Setup</h3>
+<ol>
+<li><p>State intent, stakes and exits for both sides (Core §10.2). State
+whether death is possible before any roll.</p></li>
+<li><p>Before calculating starting Disposition, record any eligible
+phased-boss designation and fixed Start/Half Special assignments (§7.1).
+Designate at most one phased boss per side; designation adds no Grit or
+Woe.</p></li>
+<li><p>Add up Grit across the side. Apply Ambush (+2 when eligible) and
+other flat setup modifiers at full value, then a minimum of 1, then
+opposing Superiority. Determine both sides” adjusted totals before
+resolving setup. If only one is 0, its opponent wins at no cost within
+stakes; if both are 0, resolve mutual defeat. Neither outcome activates
+phases or proceeds to scripting. Record the original adjusted starting
+Disposition for recovery limits and compromise; do not divide Grit or
+add an already included setting bonus again.</p></li>
+<li><p>Use the current session Woe pool. At session start, initialize it
+to 2 Woe per PC. Add this encounter’s Difficulty extras and eligible
+introduction Woe once; count campaign introduction Woe only once. Do not
+refill merely because a conflict begins.</p></li>
+<li><p>Commit one three-action script for the side, assigning an
+eligible participant to each action. A minion group is one participant,
+not one actor per Body.</p></li>
+</ol>
+<h3 id="s-6-2-scripting">6.2 Scripting</h3>
+<p>Each exchange is three volleys. Commit three actions and their actors
+before the first reveal (Core Rules §10.5).</p>
+<ul>
+<li><p>Track rotation continuously across exchanges: every available
+participant acts before anyone repeats; no consecutive turns unless only
+one participant is available.</p></li>
+<li><p>Consider opening with the strongest eligible actor’s Best
+action.</p></li>
+<li><p>Vary the script to avoid predictable patterns; repeating an
+action category is legal when actors and rotation permit it.</p></li>
+<li><p>Consider a Defend or Maneuver when the side’s shared Disposition
+is under half its starting value. These are tactical suggestions, not
+mandatory scripts.</p></li>
+<li><p>Show the Tell before the Best action; telegraph an opening action
+before its reveal.</p></li>
+<li><p>Update rotation when a participant leaves or becomes unable to
+act. An unsuitable or unperformable assigned action grants no free actor
+replacement; normal script changes retain the assigned actor unless an
+explicit ability permits reassignment.</p></li>
+<li><p>Disarm disables the named asset, not automatically an action
+category. If another plausible approach remains, the assigned actor may
+use it; switching gear does not change the script. Otherwise the action
+may be lost. Before reveal, the GM may pay 3 Woe (2 with an eligible
+Leader) to change the unrevealed action, not its actor.</p></li>
+</ul>
+<h3 id="s-6-3-action-results">6.3 Action Results</h3>
+<ul>
+<li><p><strong>Attack.</strong> Commit at least 1 Power to ordinary loss
+to remove committed Power + 1 from opposing shared Disposition; apply
+the +1 once per action, not per purchase. No commitment means no loss.
+An area Attack applying ordinary loss adds 1 per additional opposing
+participant affected (Core Rules §10.17). No status unless explicitly
+permitted.</p></li>
+<li><p><strong>Defend.</strong> Each committed Power restores 1 shared
+Disposition up to the original adjusted starting value. No commitment
+means no recovery unless an explicit ability grants it independently. At
+or above the cap, recovery restores nothing but removes no existing
+excess. Defend does not restore a personal Grit track, heal statuses or
+return a Taken Out participant; permitted supplementary purchases remain
+available.</p></li>
+<li><p><strong>Feint.</strong> As Attack for loss. It resolves
+independently against Defend, is trumped by Attack, opposes Feint and
+Maneuver in a versus test.</p></li>
+<li><p><strong>Maneuver.</strong> Power buys Impede (1), Gain Position
+(1), Disarm (3), Create a Truth (2 per rank), permitted supplementary
+Effects or an eligible scenery action. Buy Impede, Gain Position and
+Disarm at most once each per Maneuver. Impede and Gain Position affect
+the relevant side’s next scripted action, not Resistance; they expire
+unused if it makes no roll. Pending Impedes do not stack. Only one Gain
+Position may be pending per side regardless of source; additional grants
+do not stack, refresh or extend it. Gain Position counts toward the
+bonus-dice cap.</p></li>
+<li><p><strong>Independent rolls</strong> against an adversary use
+Standard 15 plus its Guard, adjusted by applicable Truths and explicit
+modifiers.</p></li>
+<li><p><strong>Versus rolls:</strong> the higher total wins with 1
+Power, +1 per full 3 points over the opponent. Double 12s do not
+override a higher total or break a tie. Winning ordinary doubles add +1
+Power; winning double 12s add +2 instead. Losing or tied doubles grant
+no Power or normal action effect. Double 1s cause their complication
+without automatically losing; successful double 1s also gain the
+ordinary critical Power. Apply the same procedure to ability-created
+doubles. An exact tie produces no normal action effect or Power. Losing
+by 1–3 does not qualify for Success at a Cost. Versus losses, ties and
+trumped actions generate no ordinary-failure Woe (Core Rules §2.6,
+§10.5–10.7).</p></li>
+<li><p><strong>Supplementary spending.</strong> Use Core Rules §10.6 for
+each action’s permissions and limits. No primary purchase is mandatory;
+all Power may fund permitted supplementary Effects, without double
+spending. Winning versus prevents the opposing normal effect even if no
+Power funds loss or recovery; independent opposing actions still
+resolve. Exceptions grant only their stated scope.</p></li>
+<li><p><strong>Automatic success.</strong> Replace only an otherwise
+permitted action’s roll, not its interaction or assigned turn. Use
+listed Power; in versus it wins unless both automatically succeed, then
+tie unless expressly overridden. No extra action, rescue of a trumped
+action or dice-based critical/complication follows.</p></li>
+<li><p><strong>Resolution order.</strong> Trumped actions make no roll
+and produce no effect. Both independent actions finish before checking
+victory, even if one defeats a side or takes an actor out. Check
+eligible Last Stand before final settlement (§6.10). For a phased boss,
+check thresholds only after removal and victory are determined and the
+conflict continues without pending defeat (§7.1). Use §6.16 for shared
+timing and §§6.11–6.12 for Special aftermath timing.</p></li>
+</ul>
+<h3 id="s-6-4-woe-economy">6.4 Woe Economy</h3>
+<p>Gain Woe from player-bought dice, eligible independent failures (+1),
+Escalation (+1), dangerous scene Truths (+1 per scene) and bought-off
+complications (+2). Versus losses, ties and trumped actions generate no
+ordinary-failure Woe, symmetrically for player and GM actors. Separately
+triggered complications, explicit costs and scenery Dangers retain their
+own rules (Core Rules §10.7).</p>
+<table>
+<thead>
+<tr>
+<th><p>Spend</p></th>
+<th><p>Cost</p></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><p>Bonus die on an adversary roll</p></td>
+<td><p>1 per die, max +2 including free dice</p></td>
+</tr>
+<tr>
+<td><p>Fire a Special</p></td>
+<td><p>1–3</p></td>
+</tr>
+<tr>
+<td><p>Reinforcements</p></td>
+<td><p>Listed named-reserve package (§§6.22–6.24)</p></td>
+</tr>
+<tr>
+<td><p>Change an unrevealed scripted action before reveal</p></td>
+<td><p>3 (2 with an eligible Leader)</p></td>
+</tr>
+<tr>
+<td><p>Tick a danger clock</p></td>
+<td><p>1 per segment</p></td>
+</tr>
+<tr>
+<td><p>Extra Shrug</p></td>
+<td><p>1</p></td>
+</tr>
+<tr>
+<td><p>Trigger a listed scenery Danger</p></td>
+<td><p>1</p></td>
+</tr>
+</tbody>
+</table>
+<p>Spend on the Best action early. Unspent Woe at session end is wasted
+tension. An ordinary failed conflict action does not also authorise an
+unrelated GM move or extra harm. Independent Success at a Cost follows
+Core Rules §10.7; ordinary costs add no status or extra Disposition loss
+without explicit permission. Complications respect stakes and
+independent-action timing.</p>
+<h3 id="s-6-5-reinforcements">6.5 Reinforcements</h3>
+<p>Reinforcements add their listed Grit to current shared Disposition
+only, even above the original adjusted starting value. They do not raise
+starting Disposition, the normal recovery cap or the compromise
+reference (Core Rules §10.9, §10.13). Defend and other recovery restore
+only up to the original start unless explicitly overridden. At or above
+the cap, restore nothing and do not remove an existing excess; other
+permitted Defend purchases remain available. Removal subtracts no Grit.
+Joining participants enter continuous rotation under Core Rules §10.5;
+arrival grants no extra scripted action, free actor reassignment or
+setup recalculation. Only a genuinely new conflict establishes a new
+start. Boss phase references and thresholds remain fixed (§7.1). During
+a Last Stand volley, reinforcement arrival remains legal under its own
+timing, but its Grit cannot raise the pending-defeat side above 0
+(§6.10).</p>
+<p>Before setup record a side-wide roster with named cards and available
+copies. Each caller uses only its listed package. Check prerequisites
+before payment; pay fully and mark selected copies committed
+immediately. Committed or previously arrived copies are unavailable to
+all callers. Each copy enters once. Withdrawal, removal or defeat
+replenishes no reserve. Add no copies during the conflict without a
+scenario exception established before setup.</p>
+<p>Activate action-free calls between volleys, before the next reveal.
+They cannot interrupt rolls, action resolution or
+end-of-volley/exchange-end procedures. The initial call window follows
+resolution of setup defeat when the conflict proceeds to scripting,
+before the first reveal. Multiple activations require package
+permission, full payment and separate available copies. A call before
+volley three may arrive that exchange end; no new call may be inserted
+after volley three resolves to arrive immediately. Preserve all
+participation, communication, route and phase prerequisites. Last Stand
+opens no call window.</p>
+<p>At an eligible exchange end, resolve arrivals after defeat
+determination and eligible phase checks (§6.16). No arrival reverses
+finalized defeat, reopens the preceding phase check or creates an
+additional check. Preserve explicit recovery prohibitions, including
+Last Stand. Packages allowing route-delayed arrival check the route at
+that step; blocked copies stay committed without further payment. Do not
+infer unlisted timing, route or communication requirements for another
+package.</p>
+<p>At conflict end, clear unresolved arrival records without refund or
+restoration to that conflict’s reserve. Dispatched characters remain in
+the fiction. A later arrival is a new fictional event consistent with
+settlement, not retroactive reinforcement or automatic reopening. Do not
+reset reserves to resume the same contest as a fresh conflict. Establish
+any genuinely new conflict’s reserve availability through its setup.</p>
+<h3 id="s-6-6-minion-bodies">6.6 Minion Bodies</h3>
+<p>Minion groups have Bodies (3–6) instead of Shrugs. Each successful
+Attack outside a conflict drops 1 Body. Extra Power spent on Extra Feat
+drops another. At half Bodies or fewer, ratings drop by 1. At zero, the
+group is gone. Morale usually ends it sooner. Ordinary conflict
+Disposition loss removes no Bodies and does not deplete an individual
+Grit share. A group represented by one entry is one participant for
+rotation and area-effect loss bonuses.</p>
+<h3 id="s-6-7-when-adversaries-win-or-lose">6.7 When Adversaries Win Or
+Lose</h3>
+<ul>
+<li><p><strong>Defeat.</strong> A side loses at 0 Disposition or when
+nobody can continue pursuing its objective. Complete independent actions
+before checking victory. An eligible Last Stand may postpone defeat at 0
+for one final volley (§6.10); finish that extension before finishing
+procedures or settlement. Defeat is not automatic death or injury;
+outcomes stay within intent and stakes. Removal subtracts no
+Disposition. If both sides are defeated in the same volley, or both
+start at 0 after Superiority, use mutual defeat, not a winner’s
+compromise (Core Rules §10.3, §10.12). Simultaneous setup defeat scripts
+no exchanges and does not itself inflict injury, drain pools, Take Out
+an individual or satisfy a finishing requirement.</p></li>
+<li><p><strong>No injury trade.</strong> Ordinary adversaries and minion
+groups cannot use it (Core §10.14). A named rival built as a full PC
+can, subject to §10.11: once per character per conflict, at most one
+participant per Attack or Feint.</p></li>
+<li><p><strong>Compromise.</strong> Resolve deferred Special
+applications before ordinary existing-injury credit; include any
+eligible Fail-safe assignments under §6.11. Neither procedure changes
+the ordinary compromise grade. Use the winner’s original adjusted
+starting Disposition recorded at setup, unchanged by reinforcements.
+Remaining Disposition at or above that start means none lost; use the
+final remaining total, not cumulative loss or a separate reinforcement
+ledger. Use the starting Disposition lost: none = None; more than 0 but
+less than half = Minor; at least half but less than three-quarters =
+Significant; three-quarters or more = Major, without rounding. Negotiate
+one outcome-first package. Injury tiers 2/3/4 guide its severity, not
+automatic additions. Credit eligible existing injuries once. NPCs may
+use eligible reduction against imposed compromise statuses, not agreed
+payments; Resistance does not revoke the loser’s concession or create a
+replacement injury cost (Core §10.13).</p></li>
+<li><p><strong>Concession.</strong> Offer one before the next roll (Core
+§10.12); one third of starting shared Disposition is a tactical prompt,
+not a restriction. Propose concrete gains and retained interests suited
+to the opponent: humans may surrender, beasts may be distracted or
+allowed to flee, and a Boss may negotiate retreat. Guardians do not
+normally offer concessions. If accepted, apply the agreed terms without
+another roll or an additional compromise unless included. Recorded
+deferred Special applications remain imposed, Resistable Special effects
+under §6.12; concession terms must acknowledge them and cannot waive
+them or turn them into protected payments. Do not add an unstated
+retreat benefit or danger-clock tick.</p></li>
+</ul>
+<h3 id="s-6-8-outside-conflicts">6.8 Outside Conflicts</h3>
+<ul>
+<li><p><strong>Passive opposition.</strong> Difficulty = 12 + the
+adversary’s relevant rating. A Minor’s Defend (Fair +3) gives 15; an
+Established Steward’s Defend (+6) gives 18. This outside-conflict
+procedure does not replace Standard 15 + Guard for independent conflict
+tests.</p></li>
+<li><p><strong>Active opposition.</strong> Roll versus: 2d12 +
+rating.</p></li>
+<li><p><strong>Harm to adversaries.</strong> Attack Power inflicts
+statuses as normal. Apply at most one eligible NPC reduction per
+application. Tier 6 applies the status’s established scope and
+breaking-point procedure; explicit creature replacements apply only
+where stated. Apply any explicit creature-specific status ceiling from
+the setting. Do not introduce Disposition loss outside
+conflicts.</p></li>
+</ul>
+<h3 id="s-6-9-other-conflict-types">6.9 Other Conflict Types</h3>
+<p>The same card runs any type in Core §10.4. Swap Attack, Defend, Feint
+and Maneuver for that type’s skills and keep the ratings, Grit and Woe
+costs. Rename Specials to fit: Covering Move becomes support for an
+ally’s argument, Lockdown a sealed network in a Hack. A reskin still
+needs a plausible approach and cannot widen intent, stakes or effect
+permissions.</p>
+<h3 id="s-6-10-last-stand">6.10 Last Stand</h3>
+<p>Last Stand is a defeat-triggered Special costing 2 Woe. It gives both
+sides one final volley, not an individual action outside rotation.</p>
+<p><strong>Activation.</strong> Complete the deciding volley, including
+both independent actions, then check removal, defeat and mutual defeat.
+If a side is defeated at 0 shared Disposition, at least one participant
+remains able to pursue its objective, and a participating bearer has
+Last Stand unlocked and usable, the GM may pay 2 Woe before finalizing
+defeat. A Taken Out or otherwise unable bearer cannot activate it.
+Exclude setup defeat, mutual defeat and defeat solely because nobody can
+continue.</p>
+<p>For a designated phased boss, Last Stand must already have unlocked
+at Half and become usable from a subsequent volley (§7.1). Reaching 0
+does not unlock it retroactively. Non-phased bearers follow their own
+availability rules.</p>
+<p><strong>One final volley.</strong> Postpone defeat, finishing
+procedures and compromise until exactly one additional volley resolves.
+Both sides follow normal action interactions, costs, helping,
+participation and continuous rotation. Use each side’s next unrevealed
+scripted action and its assigned actor. If the exchange has ended, each
+side secretly commits one action and an eligible actor, then reveals
+normally. This is not a new exchange: do not refresh exchange-limited
+abilities or tick clocks merely for scripting the added action. Changing
+an unrevealed action retains the normal cost and assigned actor; Last
+Stand grants no free change or reassignment. An unperformable action has
+no free replacement.</p>
+<p><strong>Defeat stays pending.</strong> The activating side remains at
+0 shared Disposition. Defend, reinforcement Grit and other Disposition
+recovery cannot raise it during this volley or cancel its pending
+defeat. This restriction does not prevent otherwise legal supplementary
+purchases, status healing or other explicit effects. Reinforcements may
+arrive under their listed timing and participate only when normal
+scripting and rotation permit; arrival grants no immediate action. Last
+Stand neither returns a removed participant nor allows action through
+incapacity.</p>
+<p>No new phase activates while defeat is pending. Previously activated
+benefits apply only while the boss remains eligible; there is no phase
+refresh or bonus action.</p>
+<p>If Last Stand postpones defeat after volley three, process that
+exchange’s normal arrival check once before the extension. Eligible
+arrivals cannot raise the pending-defeat side above 0 or grant immediate
+actions. An extension before the normal exchange boundary creates no
+arrival check. After the extension proceed to final outcome and
+settlement without another arrival check. Last Stand opens no
+action-free reinforcement-call window; no call may be inserted between
+activation and its final volley.</p>
+<p><strong>Final outcome.</strong> Complete all independently resolving
+actions. The activating side then loses; if its opponent is also
+defeated, resolve mutual defeat. Otherwise determine the winner within
+the stakes from the final state. A side may use Last Stand only once per
+conflict; multiple bearers do not stack or chain extensions. Resolve
+eligible Fail-safe next, then permitted finishing procedures, deferred
+applications and ordinary compromise (§§6.11–6.12). Last Stand grants no
+immunity to those outcomes.</p>
+<h3 id="s-6-11-fail-safe">6.11 Fail-safe</h3>
+<p>Fail-safe is a separate defeat-triggered Special, not an action or a
+deferred application under §6.12. It costs 3 Woe and must already be
+unlocked and usable. A phased boss’s defeat-triggered unlock follows
+§7.1; final defeat cannot supply a missed unlock.</p>
+<p><strong>Trigger and participation.</strong> After the deciding volley
+and any Last Stand extension, determine the final outcome. When its side
+loses at 0 shared Disposition, a Guardian still able to participate may
+pay 3 Woe and detonate before permitted finishing procedures and
+compromise. Being Taken Out or otherwise unable prevents activation;
+shared Disposition reaching 0 does not by itself remove an individual.
+Exclude setup defeat, accepted concessions, mutual defeat and defeat
+solely because nobody can continue. Do not reopen an already settled
+outcome.</p>
+<p><strong>Detonation.</strong> Establish reach from the Guardian’s
+position and the fiction. Assign one burned-3 additional compromise
+injury to each PC within reach; do not expand the target set to allies,
+bystanders or other NPCs. The detonation destroys the Guardian. It
+grants no action, volley or shared Disposition loss and cannot change
+the losing side into a winner. Last Stand and Fail-safe are separate
+purchases: pay 2 Woe and then 3 Woe at their respective triggers; no
+reserved or waived cost follows from the first purchase.</p>
+<p><strong>Assignment is not early harm.</strong> Record the blast
+injuries when the Guardian detonates. Do not impose those compromise
+statuses before a finishing procedure or use them to lower its
+Difficulty. Their status application occurs at compromise settlement,
+after the §6.12 applications below.</p>
+<p><strong>Additional injuries and credit.</strong> These explicit
+Special assignments are due even if the winner otherwise owes no injury
+or its ordinary compromise grade is None. They do not increase the
+ordinary grade or require unrelated injuries. Settle the assignments
+alongside any ordinary compromise costs under Core Rules §10.13: credit
+each eligible existing injury at most once across the complete
+settlement, never once for Fail-safe and again for another injury cost.
+Apply eligible Resistance and reduction to imposed injuries normally.
+Agreed payments remain protected. Resistance removing an injury creates
+no replacement cost and does not cancel a separate consequence.</p>
+<h3 id="s-6-12-deferred-special-injuries">6.12 Deferred Special
+Injuries</h3>
+<p>Shock Field, Venom / Infection and any setting Special that
+explicitly refers to it use this procedure. Fail-safe instead uses
+§6.11; no other Special is brought into this procedure merely by similar
+wording.</p>
+<p><strong>Record each application.</strong> Each qualifying paid
+activation records one incoming application against the affected target:
+Special, target, status, tier, trigger order and used-named-Special
+allowance. Shock Field records jolted-2 when a PC loses a versus roll to
+the Guardian in melee, not only on Attack. Venom / Infection records
+poisoned-2 after a successful Attack; it does not require a versus win
+if the Attack resolves independently. Each Special retains its listed
+target restrictions. A tie or trumped no-roll action does not qualify.
+Before payment, check a conflict-wide used-named-Special record. Each
+named Special may record only one application per target per conflict,
+across all sources. Mark use on recording, not infliction. Ineligible
+repeats spend no Woe for that application; other action effects resolve
+normally. Different named Specials have separate allowances. Reduction
+to 0, source removal, phase changes, reserves, record resolution or
+conflict-type changes do not reset use. Renaming or reskinning grants no
+new allowance; variants share the original unless expressly stated
+otherwise. This creates no new outside-conflict Shock Field procedure.
+Setting Specials retain their listed outside-conflict effects and
+immediate benefits; deferral applies only to the recorded status
+application.</p>
+<p><strong>Pending is not inflicted.</strong> A record is not an active
+status. It imposes no penalty, does not stack or cause tier-6
+consequences, cannot be treated or healed yet, and changes neither
+Disposition nor participation when recorded.</p>
+<p><strong>Every outcome.</strong> Recorded applications remain due
+after victory, defeat, mutual defeat or accepted concession. Finalize
+the outcome after any Last Stand extension, resolve eligible Fail-safe
+activation and then any permitted finishing procedure before applying
+these records. Concession terms must acknowledge pending applications;
+they cannot waive them or convert them into unresistable agreed
+payments. These remain imposed Special effects.</p>
+<p><strong>Resolve individually.</strong> Before ordinary compromise’s
+existing-injury credit or Fail-safe injury settlement, resolve records
+in trigger order. Apply eligible Resistance and harm reduction
+separately to each incoming application, then stack what remains
+normally. Do not combine records into a larger incoming status before
+Resistance. Resolve resulting tier-6, Scar, Dying or explicit
+creature-specific consequences normally. An application reduced to tier
+0 creates no status or replacement cost.</p>
+<p><strong>No payment by an existing injury.</strong> Compromise credit
+cannot discharge a deferred application. Normal stacking with an
+existing matching status still applies. After all applications resolve,
+an injury actually remaining may satisfy one eligible ordinary
+compromise injury cost under Core Rules §10.13. Pending records alone
+supply no credit. Across Fail-safe and ordinary costs, each injury is
+credited only once (§6.11).</p>
+<p><strong>Binding outcome.</strong> These applications, Resistance
+costs and resulting status consequences do not restore Disposition,
+reopen the settled outcome or grant an action or volley. Clear each
+record after resolution. Then settle Fail-safe assignments and ordinary
+compromise where applicable; apply any agreed concession costs under
+their protected-payment rules. Recover each layer only through its own
+procedure.</p>
+<h3 id="s-6-13-interpose-bulwark">6.13 Interpose (Bulwark)</h3>
+<p>Once per exchange in a conflict, choose status interception below or
+Hold the Line. When an ally would receive an imposed status that you can
+physically or otherwise fictionally intercept, you may take that status
+in their place. Outside conflicts, you can intercept a fitting status
+with no frequency limit.</p>
+<p>Declare Interpose before the original target rolls Resistance or
+applies any harm reduction.</p>
+<ul>
+<li><p>Redirect the entire incoming status to yourself. The original
+target receives none of that status.</p></li>
+<li><p>Resolve your own normal Resistance or NPC harm reduction against
+it, then stack what remains normally. Do not first apply the original
+target’s Resistance, armour or other reduction.</p></li>
+<li><p>Interpose redirects; it doesn’t reduce the tier. Ordinary NPCs
+still get only one reduction per status (Core Rules §10.14).</p></li>
+<li><p>It can’t redirect shared Disposition loss or any protected
+payment (Core Rules §10.7).</p></li>
+<li><p>You must be able to intercept the source of harm in the
+established fiction. You cannot protect an ally from an area effect that
+already affects both of you.</p></li>
+</ul>
+<p><em>Example:</em> a guardian with Interpose can step into a
+shock-baton strike that would inflict <em>jolted-3</em> on an ally. The
+guardian receives <em>jolted-3</em> and uses its own eligible reduction.
+It cannot intercept ordinary Disposition loss or shield that ally from a
+blast that already catches them both.</p>
+<p><strong>Hold the Line.</strong> While able to participate and
+fictionally able to shield an ally, reduce combined ordinary Disposition
+loss from one successful opposing Attack by 1, minimum 0. Declare after
+calculating loss but before injury trade or loss application. It may
+trigger outside the assigned turn and grants no action or rotation
+credit. Apply once, including ordinary area-loss bonuses; multiple
+Bulwarks cannot apply it to the same Attack. An eligible injury trade
+may cancel remaining ordinary loss normally. Exclude Feint, Maneuver,
+separately listed Special damage, statuses and protected payments. It
+cannot solely protect the Bulwark when no ally is being shielded. No
+outside-conflict effect.</p>
+<h3 id="s-6-14-guardian-self-repair">6.14 Guardian Self-Repair</h3>
+<p>Once per guardian per exchange, after the guardian succeeds on its
+assigned scripted action, including Success at a Cost, it may spend 1
+Woe to choose one:</p>
+<ul>
+<li><p>Restore up to 2 of its side’s shared Disposition, up to its
+original adjusted starting Disposition.</p></li>
+<li><p>Remove up to 2 tiers from one existing physical status on that
+guardian that its repair systems can address.</p></li>
+</ul>
+<p>Self-Repair supplements the successful action. It requires no
+additional action or Power. The action qualifies even when all its Power
+funds permitted supplementary Effects.</p>
+<p>Resolve Self-Repair at the end of the triggering volley, after both
+independent actions and their immediate consequences, but before Bolt
+departures, final defeat, mutual-defeat and defeat-triggered Special
+checks (§6.16). The guardian must still be able to participate and pay
+the full 1 Woe. Disposition recovery requires the side to remain above 0
+at that point. Status repair does not restore Disposition or cancel
+pending defeat.</p>
+<p>Disposition recovery from 0 is not allowed in this window. Use the
+post-repair total to determine the outcome. It cannot reopen a finalized
+outcome, reverse setup defeat or an accepted concession, or override an
+explicit recovery prohibition such as Last Stand’s pending-defeat
+restriction.</p>
+<p>Each guardian tracks its own use. Failed, tied, trumped or
+unperformed actions don’t qualify. An unused opportunity expires at the
+end of the volley; an extra volley within the same exchange doesn’t
+refresh it.</p>
+<p>Choose Disposition or status repair, not both. Neither repairs the
+other layer, refills pools, erases Scars, returns a Taken Out
+participant or affects a protected payment (Core Rules §10.7). At or
+above the cap, Disposition repair restores nothing but doesn’t reduce
+any excess.</p>
+<h3 id="s-6-15-guardian-protocol">6.15 Guardian Protocol</h3>
+<p>A successful Protocol Discover reveals only the actions assigned to
+the targeted guardian in the next exchange, including their positions in
+that exchange. Record those assignments as committed when the
+information is supplied; other participants” assignments remain
+unrevealed.</p>
+<p>This guarantees disclosure of that next exchange, not automatic
+confirmation of all future exchanges. Characters retain what they have
+learned and may use observations and an understood operating pattern to
+predict later actions without paying merely to remember them.</p>
+<p>The disclosure must be true when given; the GM can’t freely rewrite
+it. The GM may still change a disclosed action with a normal paid script
+change (Core Rules §10.5), which doesn’t notify the hunters. Tells,
+observations and information effects still apply.</p>
+<p>Protocol grants no extra action, free script change, reassignment or
+rotation bypass. If the guardian later can’t act, its assignment fails
+normally with no free replacement.</p>
+<h3 id="s-6-16-shared-special-timing">6.16 Shared Special Timing</h3>
+<p>After a successful action, determine Power, allocate it, declare
+supplementary Specials and pay their costs. Check existing effects and
+effects already declared for this action. Close purchases and
+supplementary declarations, resolve expressly permitted reactions
+including Scan, then resolve uncancelled effects. Reactions do not
+reopen declarations. Cancelled purchases remain spent; no reallocation,
+substitution or late supplementary activation unless expressly
+permitted. This grants no additional action, reaction or activation
+permission. Self-Repair retains its expressly listed volley-end
+activation and payment window (§6.14).</p>
+<p>Complete both independent actions, their immediate consequences and
+permitted reactions. Then:</p>
+<ol>
+<li><p>Resolve eligible Self-Repair. Disposition recovery requires the
+side to remain above 0; status repair cannot cancel pending
+defeat.</p></li>
+<li><p>Resolve declared Bolt departures, including its same-volley
+Lockdown exception.</p></li>
+<li><p>Determine removal, defeat and mutual defeat; check eligible Last
+Stand before final settlement. If the conflict ends, perform no further
+phase checks or arrivals.</p></li>
+<li><p>If the conflict continues and an ordinary phase check is
+permitted, check phases before reinforcement Grit. Preserve
+pending-defeat restrictions.</p></li>
+<li><p>At an eligible exchange end, process committed arrivals under
+their listed procedures and explicit recovery prohibitions, including
+Last Stand.</p></li>
+<li><p>Update participation and continuous rotation, then proceed to the
+next permitted declaration and scripting window.</p></li>
+</ol>
+<p>Arrival creates no additional phase check and does not reverse a
+phase activated before it. It changes no original start, recovery cap,
+compromise reference or fixed phase threshold. Newly activated phase
+benefits still begin next volley. This sequence creates no extra action,
+exchange boundary, arrival check, phase check or activation
+opportunity.</p>
+<h3 id="s-6-17-dirty-trick">6.17 Dirty Trick</h3>
+<p>After succeeding on its assigned scripted action, including Success
+at a Cost, the bearer may spend 1 Woe to Impede the opposing side’s next
+scripted action in a later volley, including across an exchange
+boundary. Declare and pay during the supplementary declaration step
+(§6.16).</p>
+<p>Never affect the opposing action in the current volley, even if its
+roll has not been made. Impede is −3 on the affected action roll, not a
+status or Resistance penalty. A no-roll action consumes it unused.
+Pending Impedes do not stack, increase the penalty or extend duration.
+Failed, tied, trumped and unperformed actions do not qualify. No
+additional action or Power, extra turn or reassignment.</p>
+<h3 id="s-6-18-covering-move">6.18 Covering Move</h3>
+<p>After succeeding on its assigned Maneuver, including Success at a
+Cost, spend 1 Woe to grant Gain Position to the side’s next scripted
+action in a later volley, including across an exchange boundary. Never
+affect the current volley. Its bonus die counts toward the normal cap; a
+no-roll action consumes it unused.</p>
+<p>Before activation check both pending effects and effects already
+declared for this Maneuver. Do not activate or spend Woe if Gain
+Position is pending or the Maneuver has purchased or otherwise declared
+a grant of it. Declare and pay during §6.16’s supplementary declaration
+step. Later cancellation does not reopen this window. Additional grants
+never stack, refresh or extend pending Gain Position. No additional
+action or Power, extra turn or reassignment. None of Hostage’s former
+Truth or Attack-penalty effects remain.</p>
+<h3 id="s-6-19-scan">6.19 Scan</h3>
+<p>An able Guardian with functioning sensors may spend 1 Woe for one
+option:</p>
+<ul>
+<li><p><strong>Counter-Maneuver.</strong> After an opposing
+Stealth-based Maneuver succeeds and its purchases and supplementary
+declarations close, but before effects resolve, cancel one Impede or
+Gain Position purchased by it. The approach must be detectable within
+established sensor coverage. Identify the purchase before paying. Cancel
+only that effect, not success, Power or other effects; its purchase
+remains spent. No reallocation or late supplementary declarations.
+Without either purchase this option cannot activate. Special-granted
+effects are ineligible merely because they accompanied the
+Maneuver.</p></li>
+<li><p><strong>Reveal.</strong> After its own successful assigned
+Maneuver, including Success at a Cost, reveal one hidden opponent’s
+current location within established sensor coverage. Declare during
+§6.16. This removes no cover or concealment automatically, establishes
+no line of fire, grants no Attack and does not prevent hiding
+again.</p></li>
+</ul>
+<p>Sensors do not defeat barriers or countermeasures without recorded
+capability. Pay fully while able to participate. No additional action or
+Power, extra turn, reassignment, protected-payment cancellation or
+reopening resolved effects.</p>
+<h3 id="s-6-20-lockdown">6.20 Lockdown</h3>
+<p>After its successful assigned Maneuver, including Success at a Cost,
+an able Guardian may spend 2 Woe to create rank-1 scene Truth Sealed
+Doors. Declare during §6.16. It must control functioning barriers
+already established in the scene. Name the connected set, passages
+closed and release/override conditions. Create no barriers and gain no
+control of unrelated systems.</p>
+<p>Apply physical restrictions and ordinary Truth difficulty effects
+only where materially relevant; no blanket opposing-action penalty or
+indestructibility. Affect allies, enemies and bystanders according to
+position. No automatic capture, harm, Disposition loss, Taking Out or
+victory.</p>
+<p>Barriers closed by Lockdown do not prevent completion of the opposing
+action in the same volley, including Bolt through a route usable when
+Bolt activated. They constrain subsequent actions and reinforcement
+arrivals normally.</p>
+<p>The Truth lasts until scene end or barriers are opened, breached or
+overridden. Opening one passage removes its restriction only; end the
+Truth when none remains sealed. Disabling the Guardian does not
+automatically unlock barriers. Power loss releases only mechanisms
+established to work that way. No additional action or Power, extra turn,
+reassignment, protected-payment cancellation or reopening settled
+outcomes.</p>
+<h3 id="s-6-21-bolt">6.21 Bolt</h3>
+<p>After its successful assigned Maneuver, including Success at a Cost,
+spend 2 Woe to withdraw through an established usable route. Identify
+the route and pay during §6.16. Resolve departure at volley end after
+eligible Self-Repair but before defeat, provided the bearer remains able
+to participate and physically capable of using the route.</p>
+<p>An opposing Lockdown in the same volley does not by itself invalidate
+the declared route or prevent departure. All other requirements remain.
+Bolt otherwise cannot cancel, interrupt or protect against the opposing
+action.</p>
+<p>Remove the bearer from participation without subtracting Grit or
+Disposition. Update rotation normally; no replacement actor,
+reassignment or extra action. Continue if allies can pursue the
+objective; otherwise resolve defeat. Departure does not cancel defeat at
+0.</p>
+<p>Bolt cannot activate or spend Woe to bypass an unresolved objective
+specifically contesting the bearer’s escape, pursuit or capture; use
+outcome or accepted concession. No teleportation, passage through
+effective restraint or blocked routes, ally movement, automatic safety
+from later pursuit, protected-payment cancellation or reopening
+settlement. No separate use limit; departure grants no permission to
+return.</p>
+<h3 id="s-6-22-howl">6.22 Howl</h3>
+<p>While able to participate, spend 2 Woe during the action-free call
+window (§6.5) and give an audible howl to call the side’s single reserve
+Hound Pack. It must be within plausible calling distance, hear the call
+and have a usable route. Check before paying; mark committed
+immediately. This creates or summons no beasts. Committed or previously
+arrived copies cannot be called again by any caller.</p>
+<p>Arrive at current exchange end if the conflict continues and a usable
+route exists. If blocked after payment, remain committed and check at
+each later exchange end; arrive when the conflict continues and a route
+opens, without further payment. Caller removal does not cancel or delay
+otherwise eligible arrival. No arrival into an ended conflict. Apply
+§§6.5 and 6.16, including fixed references, rotation and recovery
+prohibitions. The pack is one participant, not one per Body. No action
+or Power; no separate use limit beyond finite shared availability.</p>
+<h3 id="s-6-23-calls-the-works">6.23 Calls the Works</h3>
+<p>While able to participate, spend 2 Woe during §6.5’s call window to
+transmit a command to the side’s single reserve Gate Warden. A
+functioning link must reach it; it must be able to respond and have a
+usable route. Check before paying; mark committed immediately. No
+creation or unlisted substitution; committed or previously arrived
+copies cannot be called again.</p>
+<p>Arrive at current exchange end if the conflict continues and a usable
+route exists. A route blocked after payment delays arrival to a later
+eligible exchange end without further cost; the copy remains committed
+and unavailable. After command receipt and commitment, caller removal or
+link loss does not cancel or delay otherwise eligible arrival. No
+arrival into an ended conflict. Apply §§6.5 and 6.16.</p>
+<p>The reserve uses Variant C Self-Repair (§6.14), does not gain Calls
+the Works and cannot use this entry to call further Guardians. No
+additional action or Power; no separate use limit beyond reserve
+availability.</p>
+<h3 id="s-6-24-caller-specific-reserve-packages">6.24 Caller-Specific
+Reserve Packages</h3>
+<p><strong>Bounty Veteran — Call for Help.</strong> While able to
+participate, spend 2 Woe per activation during §6.5’s call window to
+commit one of the side’s two Hired Guns. No action or Power. Multiple
+activations in one exchange are allowed with full payment and a separate
+available copy each; both cost 4 Woe. Arrive at current exchange end if
+the conflict continues, even if the Veteran has since become unable to
+participate. Apply §§6.5 and 6.16. Add no unlisted communication or
+route requirement to this package.</p>
+<p><strong>Iron Marshal — Call for Help.</strong> While able to
+participate and the Special is unlocked and usable, spend 2 Woe per
+activation during §6.5’s call window to issue an audible order or
+transmit a command to one of the side’s two House Guard Bands. Each is a
+Raider Band reskin with unchanged statistics and abilities. It must
+receive the order, be able to respond and have a usable route. Check
+before payment; commit immediately. Multiple activations in one exchange
+require separate available copies and full payment; both cost 4 Woe. No
+action or Power.</p>
+<p>Arrive at current exchange end if the conflict continues and a usable
+route exists. Route blockage after payment retains commitment and delays
+arrival to a later eligible exchange end without further cost. Once the
+order is received, later caller or link loss does not cancel or delay
+otherwise eligible arrival. No arrival into an ended conflict. Apply
+§§6.5 and 6.16. Each band is one participant, not one per Body.</p>
+<p>Command applies only while the Marshal remains able to participate;
+removal ends Command, not accepted commitments or the bands”
+participation. Phase availability grants no free call, extra reserve or
+duplicate Command. All callers share recorded copies; no call
+replenishes them. Retain the Raider Band’s tags, weakness, Tell and
+Wants unless separately revised cosmetically; the reskin adds no
+mechanical benefits.</p>
+<div class="rb-art-note">
+<p><strong>Art placeholder</strong><br />
+A war-band leader signalling from a ridge as raiders pour into the
+valley below.</p>
+</div>
+<div class="rb-art-note">
+<p><strong>Art placeholder</strong><br />
+Raiders on horseback charging through smoke toward a palisade.</p>
+</div>
+<h2 id="s-7-templates">7. Templates</h2>
+<p>Eight generic cards, including the named Hired Gun reserve card.
+Reskin freely. Ratings follow the Rank table.</p>
+<div class="rb-statblock">
+<p><strong>RAIDER BAND</strong> · Threat 3<br />
+<em>Human · Minion group (4 Bodies) · Shooter</em><br />
+Grit 3 · Guard +0 · Bodies 4 · Armour 0<br />
+Attack +4 · Defend +2 · Feint +0 · Maneuver +2 · Other +2<br />
+Harm: wounded (carbines)<br />
+Power: plenty of bullets, know the ground · Weakness: break and
+run<br />
+Kind: Morale. Role: Dead Aim.<br />
+Group trait: Volley (2): area Attack.<br />
+Tell: hats come off as rifles shoulder.<br />
+Wants: the strongbox, no heroics.</p>
+</div>
+<div class="rb-statblock">
+<p><strong>HOUND PACK</strong> · Threat 3<br />
+<em>Beast · Minion group (5 Bodies) · Skirmisher</em><br />
+Grit 3 · Guard +0 · Bodies 5 · Armour 0<br />
+Attack +2 · Defend +2 · Feint — · Maneuver +4 · Other +2 (Notice
++4)<br />
+Harm: wounded (bites)<br />
+Power: noses for blood, run as a pack · Weakness: fears fire<br />
+Kind: no Feint, Morale (scatter if the handler falls). Role: Hit and
+Run.<br />
+Group trait: Pack Tactics (0).<br />
+Tell: the circling tightens.<br />
+Wants: drive the prey toward the den.</p>
+</div>
+<div class="rb-statblock">
+<p><strong>KNIFE IN THE DARK</strong> · Threat 3<br />
+<em>Human · Minor · Trickster</em><br />
+Grit 3 · Guard +0 · Shrugs 0 · Armour 0<br />
+Attack +3 · Defend +1 · Feint +5 · Maneuver +3 · Other +3 (Stealth
++5)<br />
+Harm: wounded (paired knives)<br />
+Power: one with the shadows, a knife for every hand · Weakness: the oath
+before my life<br />
+Kind: Morale. Role: Ambush.<br />
+Specials: Dirty Trick (1).<br />
+Tell: the nearest lamp gutters.<br />
+Wants: no witnesses.</p>
+</div>
+<div class="rb-statblock">
+<p><strong>BOUNTY VETERAN</strong> · Threat 5<br />
+<em>Human · Established · Brute</em><br />
+Grit 5 · Guard +1 · Shrugs 1 · Armour 1 (oilskin and mail)<br />
+Attack +6 · Defend +4 · Feint +2 · Maneuver +4 · Other +4<br />
+Harm: wounded (silver-and-wood shotgun), +1 tier from Heavy Hitter
+outside conflicts<br />
+Power: silver-and-wood shot, twenty years of hunts, a veteran hunter’s
+reputation · Weakness: greedy for the bounty<br />
+Kind: Morale; can be bargained with. Role: Heavy Hitter.<br />
+Specials: Last Stand (2), Call for Help (2 per Hired Gun; two named
+reserve copies; §6.24).<br />
+Tell: he thumbs back both hammers.<br />
+Wants: the bounty, and the credit.</p>
+</div>
+<div class="rb-statblock">
+<p><strong>HIRED GUN</strong> · Threat 3<br />
+<em>Human · Minor · Shooter</em><br />
+Grit 3 · Guard +0 · Shrugs 0 · Armour 0<br />
+Attack +5 · Defend +3 · Feint +1 · Maneuver +3 · Other +3<br />
+Harm: wounded (carbine)<br />
+Power: steady aim, reliable carbine · Weakness: not paid to die<br />
+Kind: Morale; can be bargained with. Role: Dead Aim.<br />
+Specials: Volley (2): before rolling its assigned Attack, make it an
+area Attack under the common area rule.<br />
+Tell: they plant their feet and bring the carbine to their
+shoulder.<br />
+Wants: collect their pay and leave alive.</p>
+</div>
+<div class="rb-statblock">
+<p><strong>HEDGE ADEPT</strong> · Threat 5<br />
+<em>Human · Established · Controller</em><br />
+Grit 5 · Guard +1 · Shrugs 1 · Armour 0<br />
+Attack +2 · Defend +4 · Feint +4 · Maneuver +6 · Other +4 (Lore
++6)<br />
+Harm: wounded or shaken (rite)<br />
+Power: binding rites, a ledger of debts, hands that never shake ·
+Weakness: proud beyond reason<br />
+Kind: Morale. Role: Shape the Ground.<br />
+Specials: Dirty Trick (1), Covering Move (1).<br />
+Tell: he straightens his cuffs.<br />
+Wants: finish the rite before dawn.</p>
+</div>
+<div class="rb-statblock">
+<p><strong>GATE WARDEN</strong> · Threat 5<br />
+<em>Guardian · Established · Bulwark</em><br />
+Grit 5 · Guard +1 · Shrugs 1 · Armour 1<br />
+Attack +4 · Defend +6 · Feint +2 · Maneuver +4 · Other +4 (Science
++6)<br />
+Harm: wounded (shock-baton)<br />
+Power: old-world steel, knows every corridor, obeys the bloodline ·
+Weakness: answers to the old codes<br />
+Kind: Unfeeling, Protocol, Machine. Role: Interpose.<br />
+Specials: Self-Repair (1), Lockdown (2).<br />
+Tell: “Please remain where you are.”<br />
+Wants: guests kept safe, intruders out.</p>
+</div>
+<div class="rb-statblock">
+<p><strong>THE IRON MARSHAL</strong> · Threat 8<br />
+<em>Human · Great · Leader · Boss</em><br />
+Grit 8 · Guard +2 · Shrugs 2 · Armour 1 (house mail)<br />
+Attack +5 · Defend +8 · Feint +3 · Maneuver +5 · Other +5<br />
+Harm: wounded (old-world sabre)<br />
+Power: remembers the founding, a hundred sworn swords, the house is
+armed, never loses a flank · Weakness: proud beyond reason, believes the
+old stories<br />
+Kind: Morale. Role: Command.<br />
+Specials: Call for Help (2 per House Guard Band; two named reserve
+copies; §6.24), Covering Move (1), Last Stand (2).<br />
+Tell: she sets down her glass.<br />
+Wants: the intruders alive, kneeling and useful.</p>
+</div>
+<h2 id="s-8-boss-phases">8 Boss Phases</h2>
+<p><strong>Approved procedure; balance unvalidated.</strong> Boss Phases
+change a designated adversary’s available options and ratings as its
+side loses ground. They use shared Disposition, never a personal Grit
+track. Phase activation costs no Woe; using a Special or calling
+reinforcements still requires its listed cost and procedure.</p>
+<h3 id="s-8-1-eligibility-and-fixed-designation">8.1 Eligibility and
+Fixed Designation</h3>
+<p>When preparing an adversary, the GM may mark a Great or Paramount
+adversary as a <strong>Phased Boss</strong>. Rank and the Leader role do
+not grant phases automatically. Before calculating starting Disposition,
+designate at most one eligible phased boss per side and record the
+designation on its card or conflict record. A side may have none. Do not
+add, transfer or replace a designation after setup, including through
+reinforcement arrival or removal.</p>
+<p>Minion groups, Minor and Established adversaries require an explicit
+eligibility exception. A full-PC rival requires an explicit
+phase-capable entry; fictional importance alone does not qualify it.
+Other adversaries retain their own ratings, Role traits and Specials but
+gain no phase benefit unless expressly included. Do not split a
+coordinated side merely to obtain more phase systems; separate sides
+need genuinely distinct objectives and independent participation.</p>
+<p>Designation alone adds no Grit, starting Disposition, Threat, Woe,
+turn, script change, reinforcement or unlisted Special, and grants no
+immunity to defeat or finishing procedures. Encounter cost and phase
+bonuses still require playtesting.</p>
+<h3 id="s-8-2-setup-and-fixed-thresholds">8.2 Setup and Fixed
+Thresholds</h3>
+<p>If setup ends in overwhelming preparation or simultaneous setup
+defeat, activate no phases. Otherwise record the boss side’s adjusted
+starting Disposition after all modifiers and Superiority as the
+<strong>phase reference</strong>. Record Half as half that value rounded
+down, and Desperate as one third rounded down. There is no minimum
+threshold.</p>
+<p>The reference and thresholds stay fixed for this conflict. Recovery,
+reinforcements, removal and lawful return do not recalculate them.
+Changing location, tactics or conflict type in the same unresolved
+struggle does not reset them.</p>
+<p>A reference of 1 gives thresholds 0 and 0; a reference of 2 gives 1
+and 0; a reference of 3 gives 1 and 1. A threshold at 0 normally cannot
+activate before defeat. If both thresholds are met at one eligible
+check, record Half first, then Desperate, with no intervening action
+window. Phase designation does not guarantee that every phase
+occurs.</p>
+<h3 id="s-8-3-special-ownership-availability-and-revelation">8.3 Special
+Ownership, Availability and Revelation</h3>
+<p>Owned means listed on the card. Available means its phase and other
+prerequisites permit use. Revealed means the players have learned about
+it. A Tell, observation or information effect can reveal a locked
+Special without unlocking it.</p>
+<p>The following restrictions apply to the designated phased boss, not
+automatically to every adversary on its side or to ordinary non-phased
+adversaries.</p>
+<p>Ordinary activated Specials are <strong>phase-locked</strong>. Record
+each one’s Start or Half assignment before calculating starting
+Disposition; assignments stay fixed, regardless of setup results,
+scripts or changing circumstances.</p>
+<table>
+<thead>
+<tr>
+<th><p>Ordinary Specials</p></th>
+<th><p>Start</p></th>
+<th><p>New at Half</p></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><p>1</p></td>
+<td><p>1</p></td>
+<td><p>0</p></td>
+</tr>
+<tr>
+<td><p>2</p></td>
+<td><p>1</p></td>
+<td><p>1</p></td>
+</tr>
+<tr>
+<td><p>3</p></td>
+<td><p>1</p></td>
+<td><p>2</p></td>
+</tr>
+<tr>
+<td><p>4</p></td>
+<td><p>2</p></td>
+<td><p>2</p></td>
+</tr>
+</tbody>
+</table>
+<p>The table counts ordinary activated Specials only. Passive and
+defeat-triggered Specials use the separate schedule below. All count
+toward the card’s normal Special limit unless an existing rule expressly
+excludes them; phase eligibility adds no slots. All table-allocated
+ordinary Specials are unlocked after Half. Desperate grants no
+additional Special unlock.</p>
+<ul>
+<li><p><strong>Start:</strong> Start-assigned ordinary Specials are
+available when the conflict proceeds beyond setup. Passive Specials
+operate from Start under their own listed conditions.</p></li>
+<li><p><strong>Half:</strong> Half-assigned ordinary Specials unlock;
+defeat-triggered Specials unlock and are revealed. They become usable
+from the next volley, including a later volley in the same exchange.
+After volley 3, that means the next exchange’s first volley.</p></li>
+<li><p><strong>Missed defeat triggers:</strong> a defeat-triggered
+Special cannot trigger before it is unlocked and usable, including on a
+defeat during the volley that would otherwise qualify for Half. Do not
+unlock after the conflict ends or claim a passed trigger
+retroactively.</p></li>
+</ul>
+<p>Unlocking or revelation is not activation. Normal trigger, action
+requirement, declaration timing, Woe cost, targets, fictional permission
+and participation restrictions remain. The committed action must still
+permit use. There is no extra turn, free script change, actor
+reassignment or automatic permission to act while Taken Out.</p>
+<p>Half unlocks an <strong>owned</strong> reinforcement option only; it
+grants no new Special, automatic arrival, free cost or alternative
+arrival procedure. Apply §6.5 for Disposition accounting. Availability
+does not activate a Special or bypass its procedure: Last Stand uses
+§6.10, Fail-safe uses §6.11, and deferred Specials use §6.12 when their
+entries explicitly refer to it.</p>
+<h3 id="s-8-4-phase-checks-and-benefit-timing">8.4 Phase Checks and
+Benefit Timing</h3>
+<p>Complete the volley’s actions, including independent actions and any
+expressly permitted effects that must resolve before victory. Then
+determine removal, victory or mutual defeat. Only if the conflict
+continues and the designated boss remains able to participate, compare
+current shared Disposition with each unactivated threshold. Activate
+every eligible phase whose threshold is met.</p>
+<p>Use the <strong>final total</strong> at that check, not the lowest
+total reached during the volley. Crossing a threshold and recovering
+above it before the check grants no activation or pending entitlement.
+Once activated, a phase does not reverse or activate again through
+recovery or reinforcements.</p>
+<p>Record activation at the check. Newly activated rating changes and
+other phase benefits apply from the <strong>next volley</strong>, never
+retroactively. They may modify an already committed action’s later roll
+but do not change its category or assigned actor. If both phases
+activate together, their benefits begin together next volley.</p>
+<table>
+<thead>
+<tr>
+<th><p>Phase</p></th>
+<th><p>Benefit</p></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><p>Opening</p></td>
+<td><p>Role trait, passive Specials and Start-assigned ordinary Specials
+operate under their own conditions. Show a clear Tell.</p></td>
+</tr>
+<tr>
+<td><p>Half</p></td>
+<td><p>Unlock the assigned ordinary and defeat-triggered Specials under
+the schedule above. Owned reinforcement options retain normal costs and
+timing. Grant no duplicate Command bonus.</p></td>
+</tr>
+<tr>
+<td><p>Desperate</p></td>
+<td><p>The recorded available non-Defend category gains +2 to its
+rating. Defend uses the card’s Weak rating as its base. Show a desperate
+tactic, offer a deal or reveal an exit; no extra negotiated benefit
+follows automatically.</p></td>
+</tr>
+</tbody>
+</table>
+<h3 id="s-8-5-desperate-rating-precedence">8.5 Desperate Rating
+Precedence</h3>
+<p>Before setup, record one available Attack, Feint or Maneuver category
+for Desperate. Add +2 there while active; keep the choice fixed. Without
+an available non-Defend category, grant no bonus without an explicit
+exception. Replace Defend’s base with Weak, then apply eligible
+modifiers; never add Desperate’s +2 to Defend. A Marshal recording
+Attack uses Attack +7, Defend +3, Feint +3 and Maneuver +5 before other
+modifiers.</p>
+<p>At an eligible exchange boundary, check phases before reinforcement
+arrivals (§6.16). Arrival creates no additional phase check and does not
+reverse an activated phase.</p>
+<p>The +2 stays attached to the recorded category. A later ability
+changing ratings does not move it unless it expressly changes the phase
+designation. These changes affect the designated boss only and grant no
+additional Power, automatic success, harmful-status permission or
+action.</p>
+<h3 id="s-8-6-participation-suspension-and-lawful-return">8.6
+Participation, Suspension and Lawful Return</h3>
+<p>Check phases only while the designated boss remains able to
+participate. When it becomes unable to participate, keep its
+designation, reference, thresholds, phase markers and unlock history.
+Activate no new phase during its absence and transfer none of its
+designation to another adversary.</p>
+<p>Phase-derived rating benefits are suspended while it cannot
+participate. Unlocks are not erased but grant no permission to act,
+activate a Special or return while Taken Out. If another rule legally
+returns it to the same unresolved conflict, previously activated phase
+benefits resume from the next volley. Do not reset setup, rotation, used
+abilities or phase triggers.</p>
+<p>At the next normal end-of-volley check for which the boss is
+eligible, test unactivated thresholds against the current total. Do not
+reconstruct threshold crossings during its absence. A return after the
+conflict ends cannot reopen it or activate a phase retroactively.</p>
+<p>Command applies only while its Leader remains able to participate;
+phases neither restore nor duplicate it. Passive Specials follow their
+own conditions: Start availability does not make them dependent on a
+Half/Desperate rating benefit or override their participation
+restrictions. A Special expressly allowed to trigger while its owner is
+unavailable uses that permission only if already unlocked and usable;
+any Last Stand or Fail-safe use must still meet §§6.10–6.11.</p>
+<h3 id="s-8-7-recovery-and-outcome-references">8.7 Recovery and Outcome
+References</h3>
+<p>Starting Disposition remains the normal recovery cap and compromise
+reference; reinforcements increase current Disposition only (§6.5; Core
+Rules §10.9, §10.13). No phase refreshes either value or creates a new
+conflict. Apply §§6.10–6.12 for defeat-triggered Specials and deferred
+injuries; phase availability grants no further exception. Numerical
+calibration, rendered layout and encounter balance remain
+unvalidated.</p>
+<h3 id="s-8-8-example-exchange">8.8 Example Exchange</h3>
+<p>Party of three. Opposition: Bounty Veteran (5), Knife in the Dark (3)
+and a Hound Pack (3), Threat 11. This matches the legacy P = 11 budget
+for three PCs, not a guaranteed Standard matchup under current setup. In
+this example the PCs have noticed the Knife, so Ambush does not apply;
+there are no other setup modifiers or Superiority. The opposition
+records starting shared Disposition 11. Its Woe pool is 6.</p>
+<p>Before any reveal, the party commits Attack, Defend, Defend, assigned
+to three eligible PCs in rotation. The opposition commits Pack Maneuver,
+Knife Feint, Veteran Attack in that order.</p>
+<ul>
+<li><p>Volley 1: Attack versus Maneuver is versus. The Pack spends 1 Woe
+on a bonus die and wins by 4, generating 2 Power. It buys Impede (1) and
+Gain Position (1). Hit and Run also removes 1 shared PC Disposition.
+Impede applies to the party’s next scripted action, not necessarily the
+PC who just acted. Telegraph the Knife’s next action with the guttering
+lamp.</p></li>
+</ul>
+<div class="rb-art-note">
+<p><strong>Art placeholder</strong><br />
+A knife flashing in a feint while the real blow comes from the
+shadows.</p>
+</div>
+<ul>
+<li><p>Volley 2: the Knife’s Feint resolves independently; the party’s
+Defend is trumped and makes no roll. The pending Impede expires unused
+on that no-roll action. Gain Position supplies the Knife one bonus die,
+within the normal cap. Its successful Feint removes committed Power + 1
+shared Disposition, without an automatic wound. Telegraph the Veteran
+thumbing back both hammers.</p></li>
+<li><p>Before volley 3 is revealed, the players may spend 2 Momentum to
+change their unrevealed action while retaining its assigned actor. The
+GM may likewise pay 3 Woe to change the opposition’s unrevealed action,
+not react to a revealed result. If neither changes, the Veteran’s Attack
+opposes the final PC’s Defend. On the Veteran’s first successful Attack
+this exchange, Heavy Hitter grants +1 Power.</p></li>
+<li><p>If a status or explicit effect Takes Out the Pack, remove it from
+participation without subtracting its 3 Grit from shared Disposition;
+ordinary loss does not individually remove it. Complete any
+independently resolving actions before checking victory. A concession
+near one third of starting Disposition is optional tactical advice, not
+an automatic defeat trigger.</p></li>
+</ul>
+<div class="rb-art-note">
+<p><strong>Art placeholder</strong><br />
+A pack of lean hunters circling a lone traveller in the snow.</p>
+</div>
+<h2 id="s-9-quick-checklist">9. Quick Checklist</h2>
+<ul>
+<li><p>Intent, stakes and exits set before any roll.</p></li>
+<li><p>Budget calibration flagged; mix at least two Roles.</p></li>
+<li><p>Flat setup modifiers counted before Superiority; both adjusted
+totals checked for setup defeat; original starts recorded.</p></li>
+<li><p>Any phased boss and fixed Special assignments recorded before
+setup; fixed thresholds recorded before scripting and available
+non-Defend Desperate category recorded before setup.</p></li>
+<li><p>Three actions and eligible actors committed before reveal;
+continuous rotation tracked.</p></li>
+<li><p>One Tell per adversary, shown before its Best action.</p></li>
+<li><p>Woe tracked; costs paid without overrun.</p></li>
+<li><p>Ordinary Disposition loss kept separate from statuses, pools and
+Bodies.</p></li>
+<li><p>Independent actions finished before victory; only continuing
+conflicts with an eligible boss check phases; benefits begin next
+volley.</p></li>
+</ul>
+<ul>
+<li><p>Last Stand: eligible unlocked bearer, 2 Woe, one final volley per
+side per conflict; pending defeat cannot be recovered.</p></li>
+<li><p>Final outcome, eligible Fail-safe activation, finishing
+procedure, deferred applications, then injury credit and
+settlement.</p></li>
+<li><p>Fail-safe: active eligible Guardian, 3 Woe, established PC blast
+reach; no mutual-defeat or concession trigger.</p></li>
+<li><p>Deferred Specials: one recorded application per named Special per
+target per conflict across all sources; each record resolved
+individually after every outcome; imposed injuries remain
+Resistable.</p></li>
+<li><p>Finishing procedures before compromise; reinforcement Grit
+changes current Disposition, not original start or recovery
+cap.</p></li>
+<li><p>Concessions negotiated before the next roll; compromise settled
+as one package.</p></li>
+</ul>
+<div class="rb-art-note">
+<p><strong>Art placeholder</strong><br />
+A hulking adversary silhouetted in a ruined doorway while the party
+braces below, weapons drawn.</p>
+</div>
+{% endraw %}
+<nav class="rb-pager" aria-label="Chapter navigation">
+<a class="rb-prev" rel="prev" href="../optional-modules/">&larr; Optional Modules</a>
+<a class="rb-up" href="../">Contents</a>
+<a class="rb-next" rel="next" href="../generic-descriptors/">Generic Descriptors &rarr;</a>
+</nav>
+</div>
