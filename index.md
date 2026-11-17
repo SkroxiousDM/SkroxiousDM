@@ -5,7 +5,7 @@ subtitle: Original systems. Shared worlds. Notes from the table.
 Welcome to SkroxiousDM: a home for roleplaying game design, original settings, and campaign reference material.
 
 ## Projects
-[2D12 System]({{ 'Rules' | relative_url }})
+[2D12 System]({{ '/rules/' | relative_url }})
 
 ## Curse of Strahd
 
