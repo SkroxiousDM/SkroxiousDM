@@ -1,35 +1,27 @@
 ---
-title: Curse of Strahd
+title: Ruins of Symbaroum X Curse of Strahd: Reloaded
 subtitle: Campaign reference & archival material
 permalink: /campaign/
 ---
-> Campaign spoilers: consult your GM before browsing. Spoiler labels are notices, not access restrictions.
 
-## Campaign reference
+## House Rules
+ 
+- [House Rules Index](https://skroxiousdm.github.io/SkroxiousDM/House_Rules/Index)
+- [Class](https://skroxiousdm.github.io/SkroxiousDM/3.Classes/Class)
+- [Spell Lists ](https://skroxiousdm.github.io/SkroxiousDM/6.Spells/Spell%20Lists/0%20Spell%20Lists)
+- [General Feats](https://skroxiousdm.github.io/SkroxiousDM/4.Feats/General%20Feats)
+- [Class Feats](https://skroxiousdm.github.io/SkroxiousDM/4.Feats/Class%20Feats)
+- [Equipment](https://skroxiousdm.github.io/SkroxiousDM/5.Equipment/equipment)
+  
+## Campaign
 
-These notes open as themed pages on this website. The original Markdown files remain the source of their content.
+- [Player Primer](https://skroxiousdm.github.io/SkroxiousDM/1.%20Start%20Here/Player%20primer)
+- [The Party](https://skroxiousdm.github.io/SkroxiousDM/RoS-CoS-RRL/Player%20characters/Party)
+- [Ireena's Journal](https://skroxiousdm.github.io/SkroxiousDM/RoS-CoS-RRL/Recap/party-journal.md)
+- [Quests](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/quests/quests)
+- [Lore](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/lore-contents)
 
-- [Reference library — all published documentation]({{ '/reference/' | relative_url }})
-- [House rules — complete index]({{ '/house-rules/' | relative_url }})
-- [Places and persons of interest]({{ '/campaign/places-and-persons/' | relative_url }}) — campaign reference and session recollections.
-- [Player hooks and backgrounds]({{ '/campaign/player-hooks/' | relative_url }}) — character connections; ask your GM which hooks are available.
-
-## GM notes
-
-- [Treasure]({{ '/campaign/treasure/' | relative_url }})
-- [Strahd answers]({{ '/campaign/strahd-answers/' | relative_url }})
-- [Exethanter]({{ '/campaign/exethanter/' | relative_url }})
-- [Creepy mirror scene]({{ '/campaign/creepy-mirror/' | relative_url }})
-- [Dining hall description]({{ '/campaign/dining-hall/' | relative_url }})
-
-## Campaign libraries
-
-- [Characters and recaps]({{ '/campaign/chronicle/' | relative_url }})
-- [Quests, journals, and lore]({{ '/campaign/quests-and-lore/' | relative_url }})
-
-## Unpublished source archives
-
-These links open GitHub source material, not published web editions:
-
-- [Curse of Strahd Reloaded archive — excluded from publishing](https://github.com/SkroxiousDM/SkroxiousDM/tree/main/docs/Curse-of-Strahd-Reloaded-main)
-- [A Sword of Sunlight — source only; conversion deferred](https://github.com/SkroxiousDM/SkroxiousDM/blob/main/Arc_S-A_Sword_of_Sunlight.md)
+  
+Hey, I'm SkroxiousDM, here in this collection of pages are a bunch of Homebrew rules I use in my 5e games.<br>
+This is also the repository for my latest campaign [DragnaCarta's Curse of Strahd Re-Reloaded](https://www.strahdreloaded.com)<br>
+*__MonD'n'Day Crew stay out of the link above.__*
