@@ -1,8 +1,4 @@
----
-title: Curse of Strahd
-subtitle: Campaign reference & archival material
-permalink: /campaign/
----
+
 > Campaign spoilers: consult your GM before browsing. Spoiler labels are notices, not access restrictions.
 
 ## Campaign reference
