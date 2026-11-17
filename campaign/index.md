@@ -1,7 +1,7 @@
-
 ---
-title: Ruins of Symbaroum X Curse of Strahd: Reloaded
-subtitle: Campaign reference & archival material
+layout: default
+title: "Ruins of Symbaroum X Curse of Strahd: Reloaded"
+subtitle: "Campaign reference & archival material"
 permalink: /campaign/
 ---
 
