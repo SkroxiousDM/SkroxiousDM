@@ -3,6 +3,7 @@ from urllib.parse import unquote, urlsplit, urlunsplit, quote
 import json
 import re
 import shutil
+from index_presentation import render_index
 
 ROOT = Path(__file__).resolve().parents[1]
 EXCLUDED = 'Curse-of-Strahd-Reloaded-main'
@@ -148,13 +149,13 @@ def main():
     landing = ['[Campaign reference](' + base + '/campaign/)\n', 'Original Markdown notes are preserved; these web editions are generated during the build.\n']
     for section, entries in groups.items():
         prefix, title = SECTIONS.get(section, ('/reference/', 'Other Documents'))
-        listing = ['- [' + label.replace('[', r'\[').replace(']', r'\]') + '](' + base + route + ')' for label, route in entries]
+        listing = render_index(section, entries, base).splitlines()
         if prefix != '/reference/':
             write(title, prefix, '[Reference library](' + base + '/reference/)\n\n' + ('> Campaign notes may contain spoilers.\n\n' if prefix.startswith('/campaign/') else '') + '\n'.join(listing) + '\n')
             landing.append('## [' + title + '](' + base + prefix + ')\n')
         else:
             landing.append('## Other Documents\n')
-        landing.extend(listing)
+        landing.extend(render_index(section, entries, base, heading_level=3).splitlines())
         landing.append('')
     write('Reference Library', '/reference/', '\n'.join(landing))
     print('Generated', len(routes), 'Markdown web editions with section indexes; Strahd archive excluded')

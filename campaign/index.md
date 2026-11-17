@@ -6,7 +6,7 @@ permalink: /campaign/
 
 ## House Rules
  
-- [House Rules Index](https://skroxiousdm.github.io/SkroxiousDM/House_Rules/Index)
+- [House Rules Index]({{ '/house-rules/' | relative_url }})
 - [Class](https://skroxiousdm.github.io/SkroxiousDM/3.Classes/Class)
 - [Spell Lists ](https://skroxiousdm.github.io/SkroxiousDM/6.Spells/Spell%20Lists/0%20Spell%20Lists)
 - [General Feats](https://skroxiousdm.github.io/SkroxiousDM/4.Feats/General%20Feats)
