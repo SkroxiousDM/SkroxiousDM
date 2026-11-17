@@ -5,21 +5,21 @@ permalink: /campaign/
 ---
 
 ## House Rules
- 
+
 - [House Rules Index]({{ '/house-rules/' | relative_url }})
-- [Class](https://skroxiousdm.github.io/SkroxiousDM/3.Classes/Class)
-- [Spell Lists ](https://skroxiousdm.github.io/SkroxiousDM/6.Spells/Spell%20Lists/0%20Spell%20Lists)
-- [General Feats](https://skroxiousdm.github.io/SkroxiousDM/4.Feats/General%20Feats)
-- [Class Feats](https://skroxiousdm.github.io/SkroxiousDM/4.Feats/Class%20Feats)
-- [Equipment](https://skroxiousdm.github.io/SkroxiousDM/5.Equipment/equipment)
-  
+- [Class]({{ '/reference/classes/class/' | relative_url }})
+- [Spell Lists]({{ '/reference/spells/spell-lists/0-spell-lists/' | relative_url }})
+- [General Feats]({{ '/reference/feats/general-feats/' | relative_url }})
+- [Class Feats]({{ '/reference/feats/class-feats/' | relative_url }})
+- [Equipment]({{ '/reference/equipment/equipment/' | relative_url }})
+
 ## Campaign
 
-- [Player Primer](https://skroxiousdm.github.io/SkroxiousDM/1.%20Start%20Here/Player%20primer)
-- [The Party](https://skroxiousdm.github.io/SkroxiousDM/RoS-CoS-RRL/Player%20characters/Party)
-- [Ireena's Journal](https://skroxiousdm.github.io/SkroxiousDM/RoS-CoS-RRL/Recap/party-journal.md)
-- [Quests](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/quests/quests)
-- [Lore](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/lore-contents)
+- [Player Primer]({{ '/reference/start-here/player-primer/' | relative_url }})
+- [The Party]({{ '/campaign/chronicle/player-characters/party/' | relative_url }})
+- [Ireena's Journal]({{ '/campaign/chronicle/recap/party-journal/' | relative_url }})
+- [Quests]({{ '/campaign/quests-and-lore/quests/quests/' | relative_url }})
+- [Lore]({{ '/campaign/quests-and-lore/lore/lore-contents/' | relative_url }})
 
   
 Hey, I'm SkroxiousDM, here in this collection of pages are a bunch of Homebrew rules I use in my 5e games.<br>
