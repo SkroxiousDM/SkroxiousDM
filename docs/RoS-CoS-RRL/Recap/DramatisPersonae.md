@@ -4,7 +4,9 @@
 
 Characters are grouped by their first identifiable, direct encounter with the party. Dreams, rumours, second-hand mentions, and unidentified appearances do not count. Identifiable spirits do count. Remains-only encounters and people never met are labelled separately. Locations follow the campaign owner's confirmations and the party journal, not the adventure's default encounter sequence.
 
+<!--
 All 70 original NPC journal destinations and all 19 enabled location destinations are retained. URL spelling and case-sensitive identifiers are unchanged; live link validity has not been checked. Subsections use the location journal of their enclosing area where no dedicated location link was supplied.
+-->
 
 ## Durst Manor
 
@@ -27,7 +29,7 @@ No named character is assigned a first encounter here.
 
 [Location journal](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.oqippgoggup2xdve/journalentry.oqippgoggup2xdve.journalentrypage.gd9w0a0nldck1o3p)
 
-No named character is assigned a first encounter here. Anonymous raven appearances do not count as Muriel's introduction.
+No named character is assigned a first encounter here. 
 
 ## Barovian Overlook
 
@@ -49,7 +51,7 @@ No named character is assigned a first encounter here.
 
 - [Ireena Kolyana](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.cgswpn6ymjxd4y5s/journalentry.cgswpn6ymjxd4y5s.journalentrypage.v85kuzp91vonlckd): first met here. Adopted daughter of the late Burgomaster Kolyan Indirovich and adopted sister of Ismark. She has no memories of her earlier life. The old campaign notes place her childhood discovery at Castle Ravenloft's gates; the manuscript places it near the village of Barovia. This is a campaign/source difference, not her first encounter with the party.
 
-GM-only: Ireena is Izek Strazni's biological sister, a relationship she initially does not know. Older notes called her Ireena Kolyanovich.
+Ireena is Izek Strazni's biological sister, a relationship she initially did not know.
 
 ### Barovian Church and Grounds
 
@@ -68,9 +70,7 @@ No named character is assigned a first encounter here.
 [Location journal](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.oqippgoggup2xdve/journalentry.oqippgoggup2xdve.journalentrypage.f0z0g3jd9f984beh)
 
 - [Escher](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.cgswpn6ymjxd4y5s/journalentry.cgswpn6ymjxd4y5s.journalentrypage.5vbu6w2lyqwaj8bv): encountered with Strahd and his carriage.
-- [Strahd von Zarovich](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.cgswpn6ymjxd4y5s/journalentry.cgswpn6ymjxd4y5s.journalentrypage.kxqizief0xraojxx): first direct meeting here. Earlier rumours, letters, and unidentified silhouettes do not count.
-
-The original location index calls this River Ivlis Crossroads.
+- [Strahd von Zarovich](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.cgswpn6ymjxd4y5s/journalentry.cgswpn6ymjxd4y5s.journalentrypage.kxqizief0xraojxx): first direct meeting here. 
 
 ## Tser Pool Encampment
 
@@ -145,7 +145,6 @@ The following town subsections use this area journal; no separate location-journ
 - [Madalena](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.cgswpn6ymjxd4y5s/journalentry.cgswpn6ymjxd4y5s.journalentrypage.sgdqh8d3sfiowfhp): first met here.
 - [Amalthia](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.cgswpn6ymjxd4y5s/journalentry.cgswpn6ymjxd4y5s.journalentrypage.0dlys8sk1ccwz6rb): first met here.
 
-
 Nikolai and Karl Wachter belong to this family but were first met at the Blue Water Inn; their full entries are there.
 
 ### Blinsky Toys
@@ -180,8 +179,6 @@ Nikolai and Karl Wachter belong to this family but were first met at the Blue Wa
 
 [Location journal](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.oqippgoggup2xdve/journalentry.oqippgoggup2xdve.journalentrypage.t3yj28izqk9yfzd9)
 
-The campaign owner confirms the following family members were first met at the winery, except Elric, who predeceased the party's involvement and was never met.
-
 - [Davian Martikov](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.cgswpn6ymjxd4y5s/journalentry.cgswpn6ymjxd4y5s.journalentrypage.mdx9fdpotnruvz8l): family patriarch; Urwin's father and the father of the deceased Elric.
 - [Stefania Martikov](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.cgswpn6ymjxd4y5s/journalentry.cgswpn6ymjxd4y5s.journalentrypage.ovdgsgsojs7rg40w): Urwin's sister and Dag Tomescu's wife.
 - [Adrian Martikov](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.cgswpn6ymjxd4y5s/JournalEntry.cGsWPn6ymjxD4Y5s.JournalEntryPage.3YtwVkoqvk0afWsb): Urwin's sibling.
@@ -196,7 +193,7 @@ The campaign owner confirms the following family members were first met at the w
 
 - [Elric Martikov](https://skroxiousdm.github.io/SkroxiousDM/simple-quest/lore/journalentry.cgswpn6ymjxd4y5s/JournalEntry.cGsWPn6ymjxD4Y5s.JournalEntryPage.JpKoo92VeenIkpSI): deceased before the party's involvement; never met. Davian's son and Muriel Vinshaw's former fiancé.
 
-Urwin, Danika, Brom, Bray, and Muriel have their first-encounter entries under the Blue Water Inn. Martin, Viggo, and Yolanda's exact parentage was not established in the passages retrieved for the relationship check and is not asserted here.
+Urwin, Danika, Brom, Bray, and Muriel have their first-encounter entries under the Blue Water Inn. 
 
 ## Yester Hill
 
