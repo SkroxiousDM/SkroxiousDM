@@ -3,7 +3,7 @@
 ## House Rules
  
 - [Player Primer](https://skroxiousdm.github.io/SkroxiousDM/1.%20Start%20Here/Player%20primer)
-- [House Rules Index](https://skroxiousdm.github.io/SkroxiousDM/7.%20House%20Rules/1.%20House%20Rules%20Index)
+- [House Rules Index](https://skroxiousdm.github.io/SkroxiousDM/House_Rules/Index)
 - [Class](https://skroxiousdm.github.io/SkroxiousDM/3.Classes/Class)
 - [Spell Lists ](https://skroxiousdm.github.io/SkroxiousDM/6.Spells/Spell%20Lists/0%20Spell%20Lists)
 - [General Feats](https://skroxiousdm.github.io/SkroxiousDM/4.Feats/General%20Feats)
