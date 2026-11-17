@@ -6,7 +6,6 @@ import shutil
 
 ROOT = Path(__file__).resolve().parents[1]
 EXCLUDED = 'Curse-of-Strahd-Reloaded-main'
-DEFERRED = 'Arc_S-A_Sword_of_Sunlight.md'
 SECTIONS = {
     '1. Start Here': ('/reference/start-here/', 'Start Here'),
     '2. Origins': ('/reference/origins/', 'Origins'),
