@@ -14,8 +14,8 @@ permalink: "/rules/core/core-rules/"
 <div class="rb-chapter-blurb">
 <p><em>One roll, many outputs. A pair of twelve-sided dice decides
 whether you succeed, how much Power you earn and whether fate twists.
-Around that roll: pools that double as stress, tags and Truths, Momentum
-and Woe, and scripted conflicts.</em><br />
+Around that roll: pools that double as stress, tags and Truths, Weal and
+Woe, and scripted conflicts.</em><br />
 Roll 2d12 + Skill + Modifiers vs. Difficulty.</p>
 </div>
 {% endraw %}
@@ -30,7 +30,7 @@ Roll 2d12 + Skill + Modifiers vs. Difficulty.</p>
 <li><a href="#s-6-resistance-harm-and-recovery">6. Resistance, Harm and Recovery</a></li>
 <li><a href="#s-7-progress-clocks">7. Progress Clocks</a></li>
 <li><a href="#s-8-truths">8. Truths</a></li>
-<li><a href="#s-9-momentum-and-woe">9. Momentum and Woe</a></li>
+<li><a href="#s-9-weal-and-woe">9. Weal and Woe</a></li>
 <li><a href="#s-10-conflict-system">10. Conflict System</a></li>
 <li><a href="#s-11-playbooks">11. Playbooks</a></li>
 <li><a href="#s-12-advancement">12. Advancement</a></li>
@@ -65,14 +65,14 @@ Resistance</p></td>
 <td><p>Narrative authority — invoke tags, accept compels</p></td>
 </tr>
 <tr>
-<td><p><strong>Momentum</strong></p></td>
+<td><p><strong>Weal</strong></p></td>
 <td><p>The party (shared)</p></td>
 <td><p>Tactical surplus from strong rolls</p></td>
 </tr>
 <tr>
 <td><p><strong>Woe</strong></p></td>
 <td><p>The GM</p></td>
-<td><p>Mirror of Momentum — complications and escalation</p></td>
+<td><p>Mirror of Weal — complications and escalation</p></td>
 </tr>
 </tbody>
 </table>
@@ -169,6 +169,14 @@ escape</p></td>
 action is Trivial and simply happens. Each step of Difficulty is 3
 points. Modifiers can push a target below Routine 9; it is still a
 number to roll against, not an automatic success.</p>
+<p><strong>Permission comes first.</strong> Before setting a Difficulty,
+ask whether the character can attempt the action at all. A relevant
+background, Knowledge Skill (§3.3), tool or ability can make an action
+possible, or remove an obstacle caused only by its absence. Permission
+isn’t a bonus: it adds no die or modifier unless a rule says so. A
+suitable diagnostic kit lets you inspect a sealed mechanism without
+damaging it; it doesn’t guarantee you identify the fault. If the outcome
+is still uncertain and matters, roll.</p>
 <h3 id="s-2-3-odds-reference">2.3 Odds Reference</h3>
 <p>Chance to hit the number needed on the dice (after subtracting your
 bonuses):</p>
@@ -252,7 +260,7 @@ combination of:</p>
 per use</p></td>
 </tr>
 <tr>
-<td><p><strong>Momentum</strong></p></td>
+<td><p><strong>Weal</strong></p></td>
 <td><p>1 for the first die, 2 for the second</p></td>
 </tr>
 <tr>
@@ -263,6 +271,11 @@ per use</p></td>
 <td><p><strong>Help</strong></p></td>
 <td><p>An ally spends 1 point from a pool and shares the
 consequences</p></td>
+</tr>
+<tr>
+<td><p><strong>Specialisation</strong></p></td>
+<td><p>Free: one die when a Specialisation directly applies
+(§3.3)</p></td>
 </tr>
 </tbody>
 </table>
@@ -286,6 +299,11 @@ finish that action, but buy no more Effort or abilities for it.</p>
 the +2 cap. Free Help waives only the pool cost: the helper must still
 be relevant and still shares the risk. Backing a side at the start of a
 conflict is not Help (§10.2).</p>
+<p><strong>What Woe buys.</strong> When you buy a die with Woe, say what
+you do differently to earn the better chance. If the approach makes
+extra exposure apparent, the GM describes it; it doesn’t add a second
+automatic consequence. The Woe is the price, and the GM spends it later
+(§9.2).</p>
 <h3 id="s-2-5-outcomes">2.5 Outcomes</h3>
 <table>
 <thead>
@@ -317,8 +335,50 @@ Woe</p></td>
 </tbody>
 </table>
 <p><strong>Power</strong> is spent on <strong>Effects</strong> (§5). Any
-Power you don't spend becomes <strong>Momentum</strong> (party pool, max
+Power you don't spend becomes <strong>Weal</strong> (party pool, max
 6).</p>
+<p><strong>Choosing a consequence.</strong> When a rule calls for a
+consequence, such as Success at a Cost, a failure’s GM move or a
+complication, the table below suggests the kind of trouble to pick. It
+creates no new trigger and no severity track, and scripted conflicts
+still follow §10.7: judge severity by fictional impact. A minor
+consequence changes the next decision; a more serious one changes the
+scene or leaves a problem to deal with afterward. <strong>If the test
+succeeded, keep what it earned.</strong></p>
+<table>
+<thead>
+<tr>
+<th><p>Action</p></th>
+<th><p>Immediate complication</p></th>
+<th><p>Longer-lasting consequence</p></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><p>Inquiry</p></td>
+<td><p>You get the name, but someone notices you asking</p></td>
+<td><p>You get the records, but the source can’t safely give further
+access</p></td>
+</tr>
+<tr>
+<td><p>Negotiation</p></td>
+<td><p>You secure passage, but only at an inconvenient time</p></td>
+<td><p>You secure passage, but the agreement creates an
+obligation</p></td>
+</tr>
+<tr>
+<td><p>Repair</p></td>
+<td><p>It works, but must be shut down after this use</p></td>
+<td><p>It works, but a separate capability stays offline until
+serviced</p></td>
+</tr>
+<tr>
+<td><p>Travel</p></td>
+<td><p>You arrive, but leave supplies behind</p></td>
+<td><p>You arrive, but your usual return route is closed</p></td>
+</tr>
+</tbody>
+</table>
 <p><strong>Versus tests, conflicts and automatic success.</strong>
 Versus tests compare opposing totals instead of using this table
 (§10.5). Inside scripted conflicts, §10.7 limits what failure, costs and
@@ -336,8 +396,6 @@ with +2 Power instead of +1.</p></li>
 <li><p><strong>Double 1s:</strong> always bring a complication, even on
 a success, but don’t fail automatically. A success still gains the +1
 critical Power.</p></li>
-</ul>
-<ul>
 <li><p><strong>Buying it off.</strong> When the dice give you a
 complication (a twist, or a Risky roll, §2.7), you may cancel it by
 giving the GM <strong>2 Woe</strong>: a problem now, or a problem later.
@@ -358,6 +416,8 @@ may call it <strong>Risky 1</strong>, <strong>2</strong> or
 <li><p><strong>Risk die.</strong> Roll one extra d12 of a different
 colour with the others. It’s never kept, doesn’t add to the total and
 doesn’t count toward the bonus dice maximum.</p></li>
+</ul>
+<ul>
 <li><p><strong>Complication.</strong> If the Risk die shows the rating
 or lower, a complication occurs after the roll is resolved, whatever the
 result and on top of any twist. You can buy it off for 2 Woe
@@ -392,11 +452,6 @@ Woe</strong> to make a roll Risky 1, or to raise its rating by 1
 </tr>
 </tbody>
 </table>
-<div class="rb-art-note">
-<p><strong>Art placeholder</strong><br />
-Two dice tumbling above a character sheet, the target number circled in
-ink.</p>
-</div>
 <h2 id="s-3-character-creation">3. Character Creation</h2>
 <h4 id="character-creation-at-a-glance">Character Creation at a
 Glance</h4>
@@ -417,6 +472,8 @@ and something you want to explore.</p></li>
 <li><p>Choose Descriptor, Playbook, and Focus (§3.1); complete pools,
 Edge, skills, tags, abilities, and starting resources (§§3.2–3.4,
 §3.6).</p></li>
+<li><p>Choose one Specialisation and two Knowledge Skills (§3.3), and
+name a starting circle and contact (§3.6).</p></li>
 <li><p>Introduce the characters and agree on connections, including the
 link supplied by your Focus.</p></li>
 <li><p>Write your Other Belief with the other player’s agreement
@@ -589,6 +646,64 @@ Weirdness, or removed entirely in mundane games.</p>
 <p>The default pool pays for Effort and Resistance. The GM can allow
 another pool when the fiction supports it (Intimidate with Sōma =
 looming; with Pneuma = cold menace).</p>
+<h4 id="specialisations">Specialisations</h4>
+<p>A <strong>Specialisation</strong> names a narrow application of a
+rated skill: write it as <em>Skill (Specialisation)</em>, such as
+<em>Medicine (Trauma Care)</em>, <em>Craft (Precision Mechanisms)</em>
+or <em>Persuade (Mediation)</em>.</p>
+<ul>
+<li><p><strong>Benefit.</strong> When a test uses that skill and the
+Specialisation directly applies to your approach, add <strong>one free
+bonus die</strong> (§2.4). It counts toward the +2 cap. Only one
+Specialisation applies per test. At the cap it gives no substitute
+benefit.</p></li>
+<li><p><strong>Approach, not scenery.</strong> It applies to how you
+tackle the problem, not to what is present. <em>Persuade
+(Mediation)</em> applies when brokering terms between rivals, not when
+bluffing one of them just because a dispute is under way.</p></li>
+<li><p><strong>Narrow.</strong> It must be narrower than its skill. If
+it would apply to almost every use of the skill, narrow it.</p></li>
+<li><p><strong>Limits.</strong> It grants no flat modifier, free Power
+or extra action, and doesn’t let you substitute one skill for another in
+a scripted conflict (§10). It combines with Effort, Help or a die bought
+with Woe, within the cap.</p></li>
+<li><p><strong>Getting one.</strong> Start with <strong>one</strong>. An
+Advance can buy another (§12.2).</p></li>
+</ul>
+<h4 id="knowledge-skills">Knowledge Skills</h4>
+<p>A <strong>Knowledge Skill</strong> is an unrated field of expertise:
+<em>Regional Trade Customs</em>, <em>River Ecology</em>,
+<em>Institutional Records</em>. Start with <strong>two</strong>,
+covering subjects your background and skills don’t already cover.</p>
+<p><strong>What also counts.</strong> Relevant power and weakness tags
+from your background count as knowledge within their scope, and so does
+any skill rated <strong>+2 or higher</strong> (professional). Don’t take
+<em>Medicine</em> again as knowledge if you already practise it at
++2.</p>
+<p><strong>What knowledge does.</strong> It adds no die or modifier by
+itself. It tells you what the character knows, what they can attempt,
+and what a result means to them:</p>
+<ol>
+<li><p><strong>Routine facts are free.</strong> If someone with this
+expertise would know the answer and it’s available to them, the GM says
+so. Don’t roll to recall standard practice.</p></li>
+<li><p><strong>Expertise grants permission</strong> (§2.2). It may let
+the character interpret a technical record or attempt a specialist
+procedure. If the action is still uncertain and matters, roll the
+relevant skill.</p></li>
+<li><p><strong>An expert reads more into the same result.</strong>
+Anyone might find the altered record; an expert also recognises which
+entry couldn’t come from the normal process. That reading is
+information, not extra Power.</p></li>
+<li><p><strong>No single gate.</strong> Don’t make one Knowledge Skill
+the only route to an essential clue. Others can consult a source, find a
+contact or investigate another way.</p></li>
+</ol>
+<p><em>Example:</em> a medic recognises without a roll that a patient’s
+symptoms don’t match the recorded injury. Stabilising the patient during
+an evacuation is uncertain, so they roll Medicine and add a die for
+<em>Trauma Care</em>. Knowledge changes what the character understands;
+a Specialisation changes the roll.</p>
 <h3 id="s-3-4-tags">3.4 Tags</h3>
 <p>Characters carry 6–8 <strong>character tags</strong> from Descriptor,
 Focus, and Playbook:</p>
@@ -806,6 +921,8 @@ Refresh</strong> whenever you take them: as your free pick (1), as a
 creation extra (2 total) or through advancement. Veteran acquisition
 costs are added on top (Generic Playbooks §1.2). Refresh can’t drop
 below 1 (§4.1).</p></li>
+</ul>
+<ul>
 <li><p><strong>Load-out:</strong> choose light, normal or heavy load
 before the mission, then declare playbook-kit items as you need them and
 mark their load; don’t buy a full item list in advance. Signature items
@@ -813,14 +930,36 @@ are chosen at creation and count against load when carried;
 always-carried items and items marked (0) follow their listed rules
 (Generic Playbooks §2.1). In conflicts, declare active gear before
 scripting each exchange (§10.10).</p></li>
+<li><p><strong>Circle and contact.</strong> Name one <strong>social
+circle</strong> (<em>dock workers</em>, <em>the archive staff</em>) and
+one <strong>named contact</strong> in it or elsewhere. Record both as
+contact Truths. The circle answers <em>who here might help?</em> the
+contact answers <em>whom can I ask, and what might it cost
+them?</em></p></li>
 </ul>
+<p><strong>Using contacts.</strong> Routine help that fits the
+relationship needs no roll. When access, discretion or cost is
+uncertain, roll an existing skill such as Persuade or Empathy; there is
+no separate Network skill or loyalty track. On a Success at a Cost, you
+get the introduction, shelter or supplies, but owe a favour or expose
+the relationship. A favour owed uses Module E.7 when that module is in
+play. A starting contact grants no free Discover, Help or turn;
+abilities such as <em>Contacts</em> and <em>Network</em> add those
+benefits.</p>
+<p><strong>Ordinary gear, borrowed or bought locally.</strong> Getting
+an ordinary item you didn’t bring is a contact or circle question, not a
+separate inventory. Load covers what you brought; a contact covers what
+you can find now; an optional flashback covers what you arranged earlier
+(§4.2).</p>
 <h2 id="s-4-tych-points">4. Tychē Points</h2>
 <p><strong>Spend 1 Tychē Point to:</strong></p>
 <ul>
 <li><p><strong>Invoke</strong> — reroll all dice, or add +2 after
 rolling. This works with any tag or Truth you can justify, even one
 belonging to the scene or an enemy. Invokes are not limited by the tag
-cap. Invoke before the roll’s outcome is resolved.</p></li>
+cap. Invoke before the roll’s outcome is resolved. A reroll changes the
+dice, not a cost already paid or a consequence already
+resolved.</p></li>
 <li><p><strong>Declare</strong> — establish a minor fact about the
 scene. The GM may require it to tie to one of your tags.</p></li>
 <li><p><strong>Resist harder</strong> — reduce one Resistance cost to 0
@@ -906,6 +1045,30 @@ procedures.</p>
 <p>Design intent: power comes at the cost of narrative flexibility. A
 low-Refresh character is mechanically strong but has to accept compels
 to stay fuelled.</p>
+<h3 id="s-4-2-prepared-in-advance-optional">4.2 Prepared in Advance
+(Optional)</h3>
+<p>Once per session, you may spend <strong>1 Tychē Point</strong> to
+establish one plausible thing you prepared earlier: <em>I asked the
+ferryman to wait after dusk.</em></p>
+<ul>
+<li><p><strong>Obvious or reasonable only.</strong> The preparation must
+be something the character could plainly have done with the time and
+means they had. A stretch or a wild claim needs the Furcifer’s ★
+<em>Flashback</em> (Generic Playbooks).</p></li>
+<li><p><strong>Roll only if it was uncertain.</strong> If the earlier
+action would have needed a roll that matters, make it now, using the
+normal rules.</p></li>
+<li><p><strong>No rewriting.</strong> It can’t contradict an established
+fact, erase a resolved consequence, or reverse a cost already paid.
+<em>The ferry we just watched burn was a decoy</em> isn’t
+allowed.</p></li>
+<li><p><strong>Declaration limits apply.</strong> Like Declare, it can’t
+resolve an action by itself, buy status tiers or Disposition, change
+Truths above scene scale, or recalculate Superiority after setup. In
+scripted conflicts, §10.18 sets its timing.</p></li>
+</ul>
+<p>Load covers what you brought; contacts cover what you can find now
+(§3.6); a flashback covers what you arranged earlier.</p>
 <h2 id="s-5-effects">5. Effects</h2>
 <table>
 <thead>
@@ -975,7 +1138,7 @@ conflicts, once per action (§10.6)</p></td>
 </table>
 <p>Each point of Power buys an Effect that fits what your character did
 in the fiction. No Effect is mandatory; all purchases share one Power
-budget, and any unspent Power becomes <strong>Momentum</strong>.</p>
+budget, and any unspent Power becomes <strong>Weal</strong>.</p>
 <p><strong>In scripted conflicts,</strong> each action can buy only the
 Effects §10.6 permits. Fictional relevance is required but doesn’t
 unlock anything else.</p>
@@ -1125,8 +1288,6 @@ penalise everything.</p>
 <ul>
 <li><p><em>Mapped patrol routes-2</em>: helps evade the observed
 patrols; ends when their routes change.</p></li>
-</ul>
-<ul>
 <li><p><em>Trusted by the village council-2</em>: helps persuade the
 council about local threats within your established credibility; ends
 when that trust is withdrawn or betrayed.</p></li>
@@ -1708,8 +1869,8 @@ stabilises where nothing is uncertain, and meets the conditions for
 natural recovery. It <strong>generates no Power</strong>. If ordinary
 treatment could remove one tier of a lasting injury and success is
 routine, remove that tier and mark the injury <em>treated</em> there’s
-no surplus Power or Momentum. Roll only when an uncertain result
-matters, never just to farm Momentum.</p>
+no surplus Power or Weal. Roll only when an uncertain result matters,
+never just to farm Weal.</p>
 <p><strong>Emergency care</strong> stops an injury getting worse:
 stopping bleeding, splinting a limb, pulling someone away from a harmful
 influence, isolating a damaged power cell. It doesn’t normally reduce
@@ -1733,7 +1894,7 @@ interval (below) actually removes a tier from it. Interrupting rest,
 changing healers, renaming the injury or starting a new scene doesn’t
 clear the mark, and new harm to the same injury doesn’t refresh it. A
 separate injury has its own mark.</p></li>
-<li><p>Spare Power buys other fitting Effects or becomes Momentum as
+<li><p>Spare Power buys other fitting Effects or becomes Weal as
 normal.</p></li>
 <li><p>Abilities, cyphers and items that explicitly heal a stated number
 of tiers (such as <em>healing gel</em>) follow their own text. Abilities
@@ -1916,10 +2077,10 @@ Dying clock (§6.7).</p></li>
 procedure advances them.</p></li>
 <li><p><strong>Racing clocks:</strong> two clocks run together (e.g.
 <em>Crack the vault 8</em> vs. <em>Guards arrive 6</em>).</p></li>
-<li><p><strong>Linked clocks:</strong> filling one opens or unlocks
-another.</p></li>
 </ul>
 <ul>
+<li><p><strong>Linked clocks:</strong> filling one opens or unlocks
+another.</p></li>
 <li><p><strong>Downtime projects</strong> normally use 8- or 12-segment
 clocks; a specific ability or project may prescribe another size,
 including 6 segments.</p></li>
@@ -1954,23 +2115,21 @@ it is in play (§9.2).</p></li>
 session zero (<em>Magic is real but feared</em>, <em>The Corporation
 owns the police</em>).</p></li>
 <li><p><strong>Creating Truths:</strong> players use the
-<strong>Create</strong> effect or spend <strong>2 Momentum</strong>; the
-GM spends <strong>2 Woe</strong>. A new Truth is rank 1. Pay the same
-cost again, at once or later, to raise it to rank 2. A Truth lasts for
-the scene; only Create can pay +1 Power to make it outlast the scene
-(§5). The GM may also allow this for an existing Truth when the fiction
+<strong>Create</strong> effect or spend <strong>2 Weal</strong>; the GM
+spends <strong>2 Woe</strong>. A new Truth is rank 1. Pay the same cost
+again, at once or later, to raise it to rank 2. A Truth lasts for the
+scene; only Create can pay +1 Power to make it outlast the scene (§5).
+The GM may also allow this for an existing Truth when the fiction
 supports it (<em>Thick Mist</em> thickening into <em>Thick Mist
 2</em>).</p></li>
 <li><p><strong>Recording a Truth.</strong> When a Truth is created, or
-an existing fact first matters mechanically, state its</p></li>
-</ul>
-<p><strong>scope</strong> (the people, objects, place, or circumstances
-it affects), its <strong>rank</strong> and its <strong>removal
+an existing fact first matters mechanically, state its
+<strong>scope</strong> (the people, objects, place, or circumstances it
+affects), its <strong>rank</strong> and its <strong>removal
 condition</strong>. It only applies within its scope. It also ends when
 its duration expires; a removal condition never extends a duration (§5).
 <em>Smoke fills the courtyard</em> — sight-based actions in the
-courtyard; ends when the smoke clears.</p>
-<ul>
+courtyard; ends when the smoke clears.</p></li>
 <li><p><strong>Removing Truths:</strong> use the Weaken or Create effect
 as a counter ("I kill the lights" removes <em>Brightly Lit</em>), at GM
 discretion. Each counter lowers a Truth by one rank, and a rank-1 Truth
@@ -1983,11 +2142,11 @@ creating and countering Truths (§10.18).</p>
 Site, Region or Campaign Truths; that takes the projects and major arcs
 in <strong>Module C</strong>, which also covers using Truths to drive a
 sandbox campaign.</p>
-<h2 id="s-9-momentum-and-woe">9. Momentum and Woe</h2>
-<h3 id="s-9-1-momentum-shared-by-the-party-max-6">9.1 Momentum (shared
-by the party, max 6)</h3>
+<h2 id="s-9-weal-and-woe">9. Weal and Woe</h2>
+<h3 id="s-9-1-weal-shared-by-the-party-max-6">9.1 Weal (shared by the
+party, max 6)</h3>
 <p><strong>Gain:</strong> unspent Power from rolls.
-<strong>Decay:</strong> lose 1 Momentum at the end of each scene.</p>
+<strong>Decay:</strong> lose 1 Weal at the end of each scene.</p>
 <table>
 <thead>
 <tr>
@@ -2025,14 +2184,14 @@ by the party, max 6)</h3>
 </table>
 <p><strong>Paying with Woe.</strong> When the party is short, the GM may
 let you pay any spend except <em>Reduce Woe</em>, in whole or in part,
-by giving the GM 1 Woe per Momentum. Bonus dice can always be paid this
-way (§2.4).</p>
+by giving the GM 1 Woe per Weal. Bonus dice can always be paid this way
+(§2.4).</p>
 <h3 id="s-9-2-woe-the-gm-s-pool">9.2 Woe (the GM's pool)</h3>
 <p><strong>Starting Woe:</strong> 2 per PC at the start of a
 session.</p>
 <p><strong>The GM gains Woe from:</strong></p>
 <ul>
-<li><p>players paying for dice or other Momentum spends with Woe (1 per
+<li><p>players paying for dice or other Weal spends with Woe (1 per
 point);</p></li>
 <li><p>Success at a Cost, if the player chooses Woe (+1);</p></li>
 <li><p>failures (+1);</p></li>
@@ -2382,13 +2541,12 @@ order. The coordinator does not have exclusive authority over the
 group’s decisions. Rotation runs in rounds and carries across exchanges.
 Each round, every available participant acts once, in any order, and
 nobody acts in two volleys in a row unless they are the only one
-available. Helping does not count as a turn.</p>
-<p>Update rotation when someone joins, withdraws, or becomes unable to
-act. Assigning an action that later proves unsuitable does not permit a
-free replacement.</p>
+available. Helping does not count as a turn. Update rotation when
+someone joins, withdraws, or becomes unable to act. Assigning an action
+that later proves unsuitable does not permit a free replacement.</p>
 <h4 id="changing-a-script">Changing a Script</h4>
-<p>Before revealing a volley, spend 2 Momentum for the players” side or
-3 Woe for the GM’s side.</p>
+<p>Before revealing a volley, spend 2 Weal for the players” side or 3
+Woe for the GM’s side.</p>
 <p>Replace one unrevealed action. Keep its assigned actor unless an
 explicit ability allows reassignment.</p>
 <h4 id="action-interactions">Action Interactions</h4>
@@ -2717,8 +2875,8 @@ bonus improves, or let you choose.</p>
 other finishing procedures unless stated.</p>
 <h3 id="s-10-7-costs-failures-and-complications">10.7 Costs, Failures
 and Complications</h3>
-<p>Use normal Effort, Momentum, Woe, Tychē Points, tags and Truths
-subject to these restrictions and the limits in §10.18.</p>
+<p>Use normal Effort, Weal, Woe, Tychē Points, tags and Truths subject
+to these restrictions and the limits in §10.18.</p>
 <h4 id="ordinary-failure">Ordinary Failure</h4>
 <p>An ordinary failed independent test produces no action effect and
 generates the usual 1 Woe. It does not also authorise an unrelated GM
@@ -3230,6 +3388,14 @@ override them only on the subject they address.</p>
 outcome is resolved. It changes only that roll: no extra turn, script
 change or reassigned actor. A trumped action or automatic success has no
 roll to invoke on.</p></li>
+<li><p><strong>Specialisations</strong> add their die only when the
+action’s permitted skill is the Specialisation’s skill and it applies to
+the approach (§3.3). They don’t permit a different skill, action or
+Effect. <strong>Knowledge</strong> informs choices but doesn’t add an
+action.</p></li>
+<li><p><strong>Prepared in Advance</strong> (§4.2), if used, is a
+declaration: the next item’s limits apply, and it can’t change a
+revealed script.</p></li>
 <li><p><strong>Declarations</strong> can make an approach possible or
 supply an asset. They can’t resolve a scripted action, cancel an
 independent action, widen the stakes or reverse an accepted
@@ -3246,7 +3412,7 @@ permitted action or explicit ability; an Instinct can’t rescue a trumped
 action, allow action while Taken Out or retroactively cancel a resolved
 effect.</p></li>
 <li><p><strong>Truths.</strong> Creating or countering a Truth takes a
-permitted action or explicit exception (§10.6); Momentum and Woe spends
+permitted action or explicit exception (§10.6); Weal and Woe spends
 grant no extra turn, free reassignment or retroactive cancellation. A
 Truth can set up a later scenery Maneuver but doesn’t resolve it or its
 Danger (§10.8). A hazardous description doesn’t grant both Disposition
@@ -3387,6 +3553,7 @@ Refresh, within the cap).</p>
 below)</p></li>
 <li><p>A new power tag, or rewrite a weakness tag into a power
 tag</p></li>
+<li><p>A new Specialisation in a rated skill (§3.3)</p></li>
 <li><p><strong>+1 Refresh</strong> (buys back Refresh spent on abilities
 or artifacts), up to the <strong>Refresh cap</strong> of 3 + 1 per 3
 Advances</p></li>
@@ -3459,7 +3626,7 @@ a success → +1 = 4 Power</strong>.</p></li>
 <strong>+1 Power → 5 Power</strong>.</p></li>
 <li><p><strong>Spend:</strong> Advance the <em>Reach the Cell</em> clock
 by 3 (3 Power), Discover (1 Power): "Where is the key?" — "On the
-sergeant's belt." 1 Power left → <strong>+1 Momentum</strong>.</p></li>
+sergeant's belt." 1 Power left → <strong>+1 Weal</strong>.</p></li>
 <li><p><strong>Later:</strong> the sergeant's dread patron, a bound
 spirit, lashes out with <em>terror-3</em>. Kade Resists with
 <strong>Pneuma</strong> (Edge 0), so 2d12: highest die 7 → cost 2
@@ -3599,17 +3766,30 @@ load-out</p></td>
 </tr>
 <tr>
 <td><p><strong>2d20</strong></p></td>
-<td><p>Momentum, Woe, Truths, Module C, buy-offs, Escalation</p></td>
-<td><p>Momentum from unspent Power; Truths shift Difficulty;
-complication range → Risk die (§2.7)</p></td>
+<td><p>Momentum (here called <strong>Weal</strong>), Woe, Truths, Module
+C, buy-offs, Escalation</p></td>
+<td><p>Weal from unspent Power; Truths shift Difficulty; complication
+range → Risk die (§2.7)</p></td>
 <td><p>d20 roll-under</p></td>
+</tr>
+<tr>
+<td><p><strong>Shadowrun: Anarchy 2.0</strong></p></td>
+<td><p>Skill specialisations, unrated Knowledge Skills, narrative
+permissions, glitch examples as a consequence menu, circles versus named
+contacts, recovering signature assets, priced flashbacks</p></td>
+<td><p>A Specialisation adds one bonus die, not +2 to the rating; +2
+skills count as professional knowledge; tags stand in for Keywords;
+flashbacks cost Tychē and stay obvious or reasonable (§4.2)</p></td>
+<td><p>Risk Dice and Risk Reduction, Shadow Amp pricing, Essence, Edge
+extra actions, Dispositions and Cues, the Network skill, temporary
+equipment</p></td>
 </tr>
 </tbody>
 </table>
 <h3 id="s-14-1-known-risks">14.1 Known Risks</h3>
 <ul>
-<li><p><strong>Currency load:</strong> pools + Tychē + Momentum + Woe is
-the upper limit for medium crunch. Keep spend menus short on the
+<li><p><strong>Currency load:</strong> pools + Tychē + Weal + Woe is the
+upper limit for medium crunch. Keep spend menus short on the
 sheet.</p></li>
 <li><p><strong>Modifier range:</strong> max is skill +4, tags +2,
 helpful status up to +6, Tychē invoke +2. Statuses are the largest
@@ -3656,6 +3836,20 @@ Book</em>.</p></li>
 becomes routine, how often both sides claim it, and whether one
 advantage is being described several ways to claim more
 categories.</p></li>
+<li><p><strong>Specialisations and Knowledge</strong> (§3.3): watch how
+often the Specialisation die applies, whether it changes the kept pair,
+whether it saves Effort or Woe, and how often the +2 cap makes it
+redundant. Narrow an overbroad Specialisation before changing the bonus.
+If players keep asking whether knowledge gives +1, clarify the wording
+rather than adding a modifier. Check that contacts create choices, that
+signature items matter without more routine bonus dice, and that
+consequences leave successful characters something to act on.</p></li>
+<li><p><strong>Specialists in scripted conflicts:</strong> if a
+character has no legal specialist contribution under the action lists,
+treat it as an action-design question; don’t let a Specialisation
+override the script.</p></li>
+<li><p><strong>Prepared in Advance</strong> (§4.2): watch Tychē use and
+overlap with the Furcifer’s ★ <em>Flashback</em>.</p></li>
 <li><p><strong>Playtest flags in the text:</strong> §5.1 stacking; §6
 negative Edge; §6.3 one Scar per scene; §10.3 PC/opposition symmetry and
 Superiority eligibility; §10.5 Feint versus Maneuver; §10.13 four-step
