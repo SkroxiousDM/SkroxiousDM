@@ -22,24 +22,24 @@ Roll 2d12 + Skill + Modifiers vs. Difficulty.</p>
 <nav class="rb-toc" aria-labelledby="rb-toc-title">
 <p id="rb-toc-title" class="rb-toc-title">In this chapter</p>
 <ul>
-<li><a href="#s-1-design-pillars">1. Design Pillars</a></li>
-<li><a href="#s-2-core-resolution">2. Core Resolution</a></li>
-<li><a href="#s-3-character-creation">3. Character Creation</a></li>
-<li><a href="#s-4-tych-points">4. Tychē Points</a></li>
-<li><a href="#s-5-effects">5. Effects</a></li>
-<li><a href="#s-6-resistance-harm-and-recovery">6. Resistance, Harm and Recovery</a></li>
-<li><a href="#s-7-progress-clocks">7. Progress Clocks</a></li>
-<li><a href="#s-8-truths">8. Truths</a></li>
-<li><a href="#s-9-weal-and-woe">9. Weal and Woe</a></li>
-<li><a href="#s-10-conflict-system">10. Conflict System</a></li>
-<li><a href="#s-11-playbooks">11. Playbooks</a></li>
-<li><a href="#s-12-advancement">12. Advancement</a></li>
-<li><a href="#s-13-example-of-play">13. Example of Play</a></li>
-<li><a href="#s-14-design-notes-what-was-kept-changed-cut">14. Design Notes — What Was Kept, Changed, Cut</a></li>
+<li><a href="#core-design-pillars">1. Design Pillars</a></li>
+<li><a href="#core-core-resolution">2. Core Resolution</a></li>
+<li><a href="#core-character-creation">3. Character Creation</a></li>
+<li><a href="#core-tyche-points">4. Tychē Points</a></li>
+<li><a href="#core-effects">5. Effects</a></li>
+<li><a href="#core-resistance-harm-recovery">6. Resistance, Harm and Recovery</a></li>
+<li><a href="#core-progress-clocks">7. Progress Clocks</a></li>
+<li><a href="#core-truths">8. Truths</a></li>
+<li><a href="#core-weal-woe">9. Weal and Woe</a></li>
+<li><a href="#core-conflict-system">10. Conflict System</a></li>
+<li><a href="#core-playbooks">11. Playbooks</a></li>
+<li><a href="#core-advancement">12. Advancement</a></li>
+<li><a href="#core-example-play">13. Example of Play</a></li>
+<li><a href="#core-design-notes">14. Design Notes — What Was Kept, Changed, Cut</a></li>
 </ul>
 </nav>
 {% raw %}
-<h2 id="s-1-design-pillars">1. Design Pillars</h2>
+<h2 id="core-design-pillars">1. Design Pillars</h2>
 <ol>
 <li><p><strong>Every currency has one job.</strong> Four resources, each
 answering a different question:</p></li>
@@ -76,22 +76,25 @@ Resistance</p></td>
 </tr>
 </tbody>
 </table>
-<p>Where each idea comes from: §14.</p>
+<p>Where each idea comes from: <a
+href="#core-design-notes">§14</a>.</p>
 <ol start="2">
 <li><p><strong>One roll, many outputs.</strong> A single 2d12 roll tells
 you whether you succeed, how well (Power), and whether something twists
 (doubles).</p></li>
 <li><p><strong>Fiction is mechanical.</strong> Tags, statuses and Truths
 give recorded fiction mechanical weight: tags, statuses and Situational
-Conditions modify the roll, and Truths decide what is possible (§2, §5,
-§8). Use only the modifiers a rule names; don’t invent situational
+Conditions modify the roll, and Truths decide what is possible (<a
+href="#core-core-resolution">§2</a>, <a
+href="#core-effects">§5</a>, <a href="#core-truths">§8</a>).
+Use only the modifiers a rule names; don’t invent situational
 maths.</p></li>
 <li><p><strong>Characters are driven, not just capable.</strong>
 Beliefs, Goals, and Instincts are the primary engine for earning Tychē
 Points and XP.</p></li>
 </ol>
-<h2 id="s-2-core-resolution">2. Core Resolution</h2>
-<h3 id="s-2-1-the-roll">2.1 The Roll</h3>
+<h2 id="core-core-resolution">2. Core Resolution</h2>
+<h3 id="core-roll">2.1 The Roll</h3>
 <p><strong>Roll 2d12 + Skill + Modifiers vs. Difficulty.</strong></p>
 <ul>
 <li><p><strong>Skill:</strong> +0 to +4 (from the skill pyramid;
@@ -101,24 +104,33 @@ tag</strong>, <strong>maximum +2 per roll</strong>. −1 per relevant
 <strong>weakness tag</strong> (no cap).</p></li>
 <li><p><strong>Personal statuses:</strong> + the tier of the highest
 relevant helpful status, − the tier of the highest relevant harmful
-status (§5.1).</p></li>
+status (<a href="#core-personal-statuses">§5.1</a>).</p></li>
 <li><p><strong>Situational Conditions:</strong> + the rating of the
 highest relevant helpful Condition, − the rating of the highest relevant
-harmful one (§5.2).</p></li>
+harmful one (<a
+href="#core-situational-conditions">§5.2</a>).</p></li>
 <li><p><strong>Truths</strong> add nothing to the roll. They decide
-whether an action is possible, certain or needs something first
-(§8).</p></li>
+whether an action is possible, certain or needs something first (<a
+href="#core-truths">§8</a>).</p></li>
 </ul>
 <p>Use at most one helpful and one harmful modifier from each of the two
 slots; equal ratings don’t combine, and the others stay recorded for
 other actions. Assess each actor separately in a versus test, and don’t
 add an extra modifier just because the opponent is hindered.</p>
+<p><strong>Fixed modifiers.</strong> A rule that names a fixed modifier,
+such as Impede (−3, <a href="#core-actions-effects">§10.6</a>) or
+the Grind’s <em>sick</em> (−1, Module B.3), applies it in addition to
+the slots; it isn’t a status or Condition and doesn’t use a slot.
+Adversary Guard raises the Difficulty instead (<a
+href="#core-scripting-volleys">§10.5</a>), and Gain Position adds
+a bonus die (<a href="#core-bonus-dice-effort">§2.4</a>).
+(Playtest Value)</p>
 <p><em>Example:</em> dice 16 + Skill 3 − <em>exhausted-3</em> +
 <em>rehearsed plan 2</em> − <em>slippery bridge 3</em> = 15.</p>
 <p>Why 2d12 summed: it produces a bell curve (2–24, average 13) —
 predictable for skilled characters, swingy at the extremes, and big
 enough that +1 modifiers matter without dominating.</p>
-<h3 id="s-2-2-difficulty-ladder">2.2 Difficulty Ladder</h3>
+<h3 id="core-difficulty-ladder">2.2 Difficulty Ladder</h3>
 <table>
 <thead>
 <tr>
@@ -182,14 +194,16 @@ points. Modifiers can push a target below Routine 9; it is still a
 number to roll against, not an automatic success.</p>
 <p><strong>Permission comes first.</strong> Before setting a Difficulty,
 ask whether the character can attempt the action at all. A relevant
-background, Knowledge Skill (§3.3), tool or ability can make an action
-possible, or remove an obstacle caused only by its absence. Permission
-isn’t a bonus: it adds no die or modifier unless a rule says so. A
-suitable diagnostic kit lets you inspect a sealed mechanism without
-damaging it; it doesn’t guarantee you identify the fault. Relevant
-Truths are part of this check (§8.1). If the outcome is still uncertain
-and matters, roll.</p>
-<h3 id="s-2-3-odds-reference">2.3 Odds Reference</h3>
+background, Knowledge Skill (<a
+href="#core-skill-pyramid">§3.3</a>), tool or ability can make an
+action possible, or remove an obstacle caused only by its absence.
+Permission isn’t a bonus: it adds no die or modifier unless a rule says
+so. A suitable diagnostic kit lets you inspect a sealed mechanism
+without damaging it; it doesn’t guarantee you identify the fault.
+Relevant Truths are part of this check (<a
+href="#core-possibility-before-difficulty">§8.1</a>). If the
+outcome is still uncertain and matters, roll.</p>
+<h3 id="core-odds-reference">2.3 Odds Reference</h3>
 <p>Chance to hit the number needed on the dice (after subtracting your
 bonuses):</p>
 <table>
@@ -254,7 +268,7 @@ bonuses):</p>
 </table>
 <p>Example: Skill +3 and one tag (+1) vs. Standard 15 → need 11+ →
 <strong>69%</strong>, or <strong>88%</strong> with one bonus die.</p>
-<h3 id="s-2-4-bonus-dice-and-effort">2.4 Bonus Dice and Effort</h3>
+<h3 id="core-bonus-dice-effort">2.4 Bonus Dice and Effort</h3>
 <p>You can add d12s to the roll and <strong>keep the best two</strong>.
 Maximum <strong>+2 bonus dice</strong> (4d12 keep 2) from any
 combination of:</p>
@@ -277,7 +291,8 @@ per use</p></td>
 </tr>
 <tr>
 <td><p><strong>Woe</strong></p></td>
-<td><p>Give the GM 1 Woe per die</p></td>
+<td><p>Give the GM Woe equal to the Weal cost (1 for the first die, 2
+for the second) (Playtest Value)</p></td>
 </tr>
 <tr>
 <td><p><strong>Help</strong></p></td>
@@ -286,8 +301,8 @@ consequences</p></td>
 </tr>
 <tr>
 <td><p><strong>Specialisation</strong></p></td>
-<td><p>Free: one die when a Specialisation directly applies
-(§3.3)</p></td>
+<td><p>Free: one die when a Specialisation directly applies (<a
+href="#core-skill-pyramid">§3.3</a>)</p></td>
 </tr>
 </tbody>
 </table>
@@ -303,20 +318,21 @@ success.</p></li>
 <p>Example: Effort Level 2 lets you buy one bonus die before the roll,
 then spend again for +1 Power if you succeed.</p>
 <p><strong>Paying costs.</strong> Pay Effort and Help in full; you can’t
-spend points a pool doesn’t have unless a rule says so (§6.1). Paying
-the last point runs the pool dry; a cost of 0 never does. Pay each
-listed cost separately, when its rule says. If a cost takes you out,
-finish that action, but buy no more Effort or abilities for it.</p>
+spend points a pool doesn’t have unless a rule says so (<a
+href="#core-running-dry">§6.1</a>). Paying the last point runs the
+pool dry; a cost of 0 never does. Pay each listed cost separately, when
+its rule says. If a cost takes you out, finish that action, but buy no
+more Effort or abilities for it.</p>
 <p><strong>Free benefits.</strong> Free bonus dice still count toward
 the +2 cap. Free Help waives only the pool cost: the helper must still
 be relevant and still shares the risk. Backing a side at the start of a
-conflict is not Help (§10.2).</p>
+conflict is not Help (<a href="#core-setup">§10.2</a>).</p>
 <p><strong>What Woe buys.</strong> When you buy a die with Woe, say what
 you do differently to earn the better chance. If the approach makes
 extra exposure apparent, the GM describes it; it doesn’t add a second
 automatic consequence. The Woe is the price, and the GM spends it later
-(§9.2).</p>
-<h3 id="s-2-5-outcomes">2.5 Outcomes</h3>
+(<a href="#core-woe">§9.2</a>).</p>
+<h3 id="core-outcomes">2.5 Outcomes</h3>
 <table>
 <thead>
 <tr>
@@ -346,17 +362,19 @@ Woe</p></td>
 </tr>
 </tbody>
 </table>
-<p><strong>Power</strong> is spent on <strong>Effects</strong> (§5). Any
-Power you don't spend becomes <strong>Weal</strong> (party pool, max
-6).</p>
+<p><strong>Power</strong> is spent on <strong>Effects</strong> (<a
+href="#core-effects">§5</a>). Any Power you don't spend becomes
+<strong>Weal</strong> (party pool, max 6).</p>
 <p><strong>Choosing a consequence.</strong> When a rule calls for a
 consequence, such as Success at a Cost, a failure’s GM move or a
 complication, the table below suggests the kind of trouble to pick. It
 creates no new trigger and no severity track, and scripted conflicts
-still follow §10.7: judge severity by fictional impact. A minor
-consequence changes the next decision; a more serious one changes the
-scene or leaves a problem to deal with afterward. <strong>If the test
-succeeded, keep what it earned.</strong></p>
+still follow <a
+href="#core-costs-failures-complications">§10.7</a>: judge
+severity by fictional impact. A minor consequence changes the next
+decision; a more serious one changes the scene or leaves a problem to
+deal with afterward. <strong>If the test succeeded, keep what it
+earned.</strong></p>
 <table>
 <thead>
 <tr>
@@ -392,11 +410,13 @@ serviced</p></td>
 </tbody>
 </table>
 <p><strong>Versus tests, conflicts and automatic success.</strong>
-Versus tests compare opposing totals instead of using this table
-(§10.5). Inside scripted conflicts, §10.7 limits what failure, costs and
-Woe can do. An automatic success replaces the roll: apply its listed
-Power, with no dice-based critical or complication.</p>
-<h3 id="s-2-6-doubles-twists">2.6 Doubles (Twists)</h3>
+Versus tests compare opposing totals instead of using this table (<a
+href="#core-scripting-volleys">§10.5</a>). Inside scripted
+conflicts, <a href="#core-costs-failures-complications">§10.7</a>
+limits what failure, costs and Woe can do. An automatic success replaces
+the roll: apply its listed Power, with no dice-based critical or
+complication.</p>
+<h3 id="core-doubles">2.6 Doubles (Twists)</h3>
 <p>If your two <strong>kept</strong> dice show the same number:</p>
 <ul>
 <li><p><strong>On a success:</strong> Critical — +1 Power and add a
@@ -409,18 +429,20 @@ with +2 Power instead of +1.</p></li>
 a success, but don’t fail automatically. A success still gains the +1
 critical Power.</p></li>
 <li><p><strong>Buying it off.</strong> When the dice give you a
-complication (a twist, or a Risky roll, §2.7), you may cancel it by
-giving the GM <strong>2 Woe</strong>: a problem now, or a problem later.
-If you keep it and the GM can’t think of a fitting complication, the GM
-gains the 2 Woe instead.</p></li>
+complication (a twist, or a Risky roll, <a
+href="#core-risky-rolls">§2.7</a>), you may cancel it by giving
+the GM <strong>2 Woe</strong>: a problem now, or a problem later. If you
+keep it and the GM can’t think of a fitting complication, the GM gains
+the 2 Woe instead.</p></li>
 <li><p><strong>NPCs.</strong> When the dice give an NPC a complication,
 the GM may spend <strong>2 Woe</strong> to cancel it. Otherwise the GM
 describes the complication, or invites the players to.</p></li>
 </ul>
 <p>Base chance of doubles on 2d12 is about 8% (1 in 12). Doubles created
 by an ability count as rolled doubles. For doubles in versus tests and
-conflicts, see §10.7.</p>
-<h3 id="s-2-7-risky-rolls-optional">2.7 Risky Rolls (Optional)</h3>
+conflicts, see <a
+href="#core-costs-failures-complications">§10.7</a>.</p>
+<h3 id="core-risky-rolls">2.7 Risky Rolls (Optional)</h3>
 <p>Some rolls aren’t harder, just more dangerous. Before a roll, the GM
 may call it <strong>Risky 1</strong>, <strong>2</strong> or
 <strong>3</strong>.</p>
@@ -428,12 +450,10 @@ may call it <strong>Risky 1</strong>, <strong>2</strong> or
 <li><p><strong>Risk die.</strong> Roll one extra d12 of a different
 colour with the others. It’s never kept, doesn’t add to the total and
 doesn’t count toward the bonus dice maximum.</p></li>
-</ul>
-<ul>
 <li><p><strong>Complication.</strong> If the Risk die shows the rating
 or lower, a complication occurs after the roll is resolved, whatever the
-result and on top of any twist. You can buy it off for 2 Woe
-(§2.6).</p></li>
+result and on top of any twist. You can buy it off for 2 Woe (<a
+href="#core-doubles">§2.6</a>).</p></li>
 <li><p><strong>Raising the stakes.</strong> The GM may spend <strong>1
 Woe</strong> to make a roll Risky 1, or to raise its rating by 1
 (maximum 3). Settings may make some hazards Risky by default.</p></li>
@@ -464,7 +484,12 @@ Woe</strong> to make a roll Risky 1, or to raise its rating by 1
 </tr>
 </tbody>
 </table>
-<h2 id="s-3-character-creation">3. Character Creation</h2>
+<div class="rb-art-note">
+<p><strong>Art placeholder</strong><br />
+A climber on a fraying rope bridge, one odd-coloured die tumbling into
+the gorge below.</p>
+</div>
+<h2 id="core-character-creation">3. Character Creation</h2>
 <h4 id="character-creation-at-a-glance">Character Creation at a
 Glance</h4>
 <p>Before creating characters, agree on the campaign premise: the
@@ -479,22 +504,31 @@ character takes shape.</p>
 <li><p>Establish the campaign premise together.</p></li>
 <li><p>Sketch your character concept: a role, an important experience,
 and something you want to explore.</p></li>
-<li><p>Write your World Belief (§3.5).</p></li>
-<li><p>Write your Self Belief (§3.5).</p></li>
-<li><p>Choose Descriptor, Playbook, and Focus (§3.1); complete pools,
-Edge, skills, tags, abilities, and starting resources (§§3.2–3.4,
-§3.6).</p></li>
-<li><p>Choose one Specialisation and two Knowledge Skills (§3.3), and
-name a starting circle and contact (§3.6).</p></li>
+<li><p>Write your World Belief (<a
+href="#core-beliefs-goals-instincts">§3.5</a>).</p></li>
+<li><p>Write your Self Belief (<a
+href="#core-beliefs-goals-instincts">§3.5</a>).</p></li>
+<li><p>Choose Descriptor, Playbook, and Focus (<a
+href="#core-sentence">§3.1</a>); complete pools, Edge, skills,
+tags, abilities, and starting resources (<a
+href="#core-pools-edge">§§3.2</a>–<a
+href="#core-tags">3.4</a>, <a
+href="#core-starting-resources">§3.6</a>).</p></li>
+<li><p>Choose one Specialisation and two Knowledge Skills (<a
+href="#core-skill-pyramid">§3.3</a>), and name a starting circle
+and contact (<a
+href="#core-starting-resources">§3.6</a>).</p></li>
 <li><p>Introduce the characters and agree on connections, including the
 link supplied by your Focus.</p></li>
-<li><p>Write your Other Belief with the other player’s agreement
-(§3.5).</p></li>
-<li><p>Choose a concrete starting Goal (§3.5).</p></li>
-<li><p>Write your Instinct (§3.5).</p></li>
+<li><p>Write your Other Belief with the other player’s agreement (<a
+href="#core-beliefs-goals-instincts">§3.5</a>).</p></li>
+<li><p>Choose a concrete starting Goal (<a
+href="#core-beliefs-goals-instincts">§3.5</a>).</p></li>
+<li><p>Write your Instinct (<a
+href="#core-beliefs-goals-instincts">§3.5</a>).</p></li>
 <li><p>Review the character with the group.</p></li>
 </ol>
-<h3 id="s-3-1-the-sentence">3.1 The Sentence</h3>
+<h3 id="core-sentence">3.1 The Sentence</h3>
 <blockquote>
 <p><strong>“I am a [Descriptor] [Playbook] who [Focus].”</strong></p>
 <p>“I am a <strong>Reckless</strong> <strong>Furcifer</strong> who
@@ -518,8 +552,8 @@ suggested Instinct</p></td>
 <tr>
 <td><p>Playbook</p></td>
 <td><p>Noun</p></td>
-<td><p>Starting pools and Edge, special abilities, XP trigger, load-out,
-an anchor skill</p></td>
+<td><p>Starting pools and Edge, 2 power tags, special abilities, XP
+trigger, load-out, an anchor skill</p></td>
 </tr>
 <tr>
 <td><p>Focus</p></td>
@@ -529,7 +563,7 @@ and a link to another PC</p></td>
 </tr>
 </tbody>
 </table>
-<h3 id="s-3-2-pools-and-edge">3.2 Pools and Edge</h3>
+<h3 id="core-pools-edge">3.2 Pools and Edge</h3>
 <p>Four pools, each roughly 6–14:</p>
 <ul>
 <li><p><strong>Starting values:</strong> the playbook sets the base
@@ -537,10 +571,13 @@ and a link to another PC</p></td>
 total).</p></li>
 <li><p><strong>Edge:</strong> the playbook gives <strong>3 points of
 Edge</strong>, maximum 2 in any one pool at creation. Edge reduces the
-cost of Effort from that pool and adds dice when you Resist with it
-(§6).</p></li>
-<li><p>Pools are spent on <strong>Effort</strong> (§2.4) and
-<strong>Resistance</strong> (§6). They are your stress tracks.</p></li>
+cost of Effort from that pool and adds dice when you Resist with it (<a
+href="#core-resistance-harm-recovery">§6</a>).</p></li>
+<li><p>Pools are spent on <strong>Effort</strong> (<a
+href="#core-bonus-dice-effort">§2.4</a>) and
+<strong>Resistance</strong> (<a
+href="#core-resistance-harm-recovery">§6</a>). They are your
+stress tracks.</p></li>
 </ul>
 <table>
 <thead>
@@ -573,7 +610,7 @@ cost of Effort from that pool and adds dice when you Resist with it
 </tr>
 </tbody>
 </table>
-<h3 id="s-3-3-skill-pyramid">3.3 Skill Pyramid</h3>
+<h3 id="core-skill-pyramid">3.3 Skill Pyramid</h3>
 <p>Ten rated skills from a list of 20:</p>
 <table>
 <thead>
@@ -666,9 +703,9 @@ or <em>Persuade (Mediation)</em>.</p>
 <ul>
 <li><p><strong>Benefit.</strong> When a test uses that skill and the
 Specialisation directly applies to your approach, add <strong>one free
-bonus die</strong> (§2.4). It counts toward the +2 cap. Only one
-Specialisation applies per test. At the cap it gives no substitute
-benefit.</p></li>
+bonus die</strong> (<a href="#core-bonus-dice-effort">§2.4</a>).
+It counts toward the +2 cap. Only one Specialisation applies per test.
+At the cap it gives no substitute benefit.</p></li>
 <li><p><strong>Approach, not scenery.</strong> It applies to how you
 tackle the problem, not to what is present. <em>Persuade
 (Mediation)</em> applies when brokering terms between rivals, not when
@@ -677,10 +714,12 @@ bluffing one of them just because a dispute is under way.</p></li>
 it would apply to almost every use of the skill, narrow it.</p></li>
 <li><p><strong>Limits.</strong> It grants no flat modifier, free Power
 or extra action, and doesn’t let you substitute one skill for another in
-a scripted conflict (§10). It combines with Effort, Help or a die bought
-with Woe, within the cap.</p></li>
+a scripted conflict (<a href="#core-conflict-system">§10</a>). It
+combines with Effort, Help or a die bought with Woe, within the
+cap.</p></li>
 <li><p><strong>Getting one.</strong> Start with <strong>one</strong>. An
-Advance can buy another (§12.2).</p></li>
+Advance can buy another (<a
+href="#core-spending-xp">§12.2</a>).</p></li>
 </ul>
 <h4 id="knowledge-skills">Knowledge Skills</h4>
 <p>A <strong>Knowledge Skill</strong> is an unrated field of expertise:
@@ -699,10 +738,10 @@ and what a result means to them:</p>
 <li><p><strong>Routine facts are free.</strong> If someone with this
 expertise would know the answer and it’s available to them, the GM says
 so. Don’t roll to recall standard practice.</p></li>
-<li><p><strong>Expertise grants permission</strong> (§2.2). It may let
-the character interpret a technical record or attempt a specialist
-procedure. If the action is still uncertain and matters, roll the
-relevant skill.</p></li>
+<li><p><strong>Expertise grants permission</strong> (<a
+href="#core-difficulty-ladder">§2.2</a>). It may let the character
+interpret a technical record or attempt a specialist procedure. If the
+action is still uncertain and matters, roll the relevant skill.</p></li>
 <li><p><strong>An expert reads more into the same result.</strong>
 Anyone might find the altered record; an expert also recognises which
 entry couldn’t come from the normal process. That reading is
@@ -716,19 +755,21 @@ symptoms don’t match the recorded injury. Stabilising the patient during
 an evacuation is uncertain, so they roll Medicine and add a die for
 <em>Trauma Care</em>. Knowledge changes what the character understands;
 a Specialisation changes the roll.</p>
-<h3 id="s-3-4-tags">3.4 Tags</h3>
-<p>Characters carry 6–8 <strong>character tags</strong> from Descriptor,
-Focus, and Playbook:</p>
+<h3 id="core-tags">3.4 Tags</h3>
+<p>A new character has <strong>seven character tags</strong>: 1 power
+and 1 weakness from the Descriptor, 2 power from the Playbook, and 2
+power and 1 weakness from the Focus.</p>
 <ul>
 <li><p><strong>Power tags</strong> (e.g. <em>ex-navy marksman</em>,
 <em>silver tongue</em>, <em>grandfather’s revolver</em>): +1 each when
 relevant, <strong>max +2 per roll</strong>.</p></li>
 <li><p><strong>Weakness tags</strong> (e.g. <em>owes the wrong
 people</em>, <em>bad knee</em>): −1 when relevant, or compel for a Tychē
-Point (§4).</p></li>
+Point (<a href="#core-tyche-points">§4</a>).</p></li>
 <li><p><strong>Any tag can be compelled.</strong> A power tag can also
 cause trouble when its meaning creates a concrete complication. It keeps
-its normal benefits (§4).</p></li>
+its normal benefits (<a
+href="#core-tyche-points">§4</a>).</p></li>
 <li><p><strong>Burning a tag:</strong> mark a power tag as burned to
 gain an automatic +1 Power on a success. It stays unusable until you
 recover it (a downtime action or a milestone). Burning ignores the +2
@@ -736,7 +777,7 @@ cap.</p></li>
 </ul>
 <p>With a +2 cap, a third relevant tag is best used for burning or as
 Tychē Point invoke material.</p>
-<h3 id="s-3-5-beliefs-goals-and-instincts">3.5 Beliefs, Goals, and
+<h3 id="core-beliefs-goals-instincts">3.5 Beliefs, Goals, and
 Instincts</h3>
 <h4 id="three-different-jobs">Three Different Jobs</h4>
 <ul>
@@ -749,9 +790,12 @@ habitually respond.</p></li>
 </ul>
 <p>Rewrite a Goal when it’s accomplished or no longer fits, and check it
 at the start of each session. Beliefs and Instincts can change at
-milestones (§12.3). Beliefs can justify compels (§4) and meaningful
-decisions can earn XP (§12.1). They do not create an additional
-resource.</p>
+milestones (<a
+href="#core-reviewing-beliefs-instincts">§12.3</a>). Beliefs can
+justify compels (<a href="#core-tyche-points">§4</a>) and
+meaningful decisions can earn XP (<a
+href="#core-earning-xp">§12.1</a>). They do not create an
+additional resource.</p>
 <h4 id="writing-your-beliefs">Writing Your Beliefs</h4>
 <p>Each Belief combines a conviction with a commitment to act: “I
 believe this; therefore, I will do this.” Write what you intend to do,
@@ -837,8 +881,9 @@ and where does ambition exceed competence?</p></li>
 <li><p><strong>Tags:</strong> which strengths help you act, and which
 vulnerabilities make that difficult?</p></li>
 <li><p><strong>Load-out:</strong> which gear options and load may
-support your commitments? Follow §3.6; do not choose every item in
-advance.</p></li>
+support your commitments? Follow <a
+href="#core-starting-resources">§3.6</a> do not choose every item
+in advance.</p></li>
 </ul>
 <p>Beliefs grant no extra skills, tags, abilities, equipment, pool
 points or Tychē, and a conviction isn’t a power tag. Wanting to protect
@@ -866,7 +911,8 @@ suggested Instinct can be a starting point.</p>
 escape route before settling in.”</p>
 <p>Acting on an Instinct takes no time, but it doesn’t guarantee success
 or skip a roll the normal rules require. Scripted conflicts limit it
-further (§10.18).</p>
+further (<a
+href="#core-conflict-limits-reference">§10.18</a>).</p>
 <h4 id="review-before-play">Review Before Play</h4>
 <p>Read your three Beliefs, Goal, and Instinct aloud. Check that:</p>
 <ul>
@@ -899,40 +945,27 @@ trade route before winter.</p>
 another disastrous winter expedition. The player completes the normal
 mechanical choices for protection, travel, or negotiation; these Beliefs
 do not dictate a single build.</p>
-<ul>
-<li><p><strong>World:</strong> “The settlements will starve if their
-leaders keep the roads divided. Because I have seen what isolation
-costs, I will bring them into a common defence agreement.”</p></li>
-<li><p><strong>Other:</strong> “Mara kept our caravan alive when I lost
-my nerve. I will support her leadership, but I will speak against her
-when she treats lives as acceptable losses.”</p></li>
-<li><p><strong>Self:</strong> “People are not expendable tools. I will
-not knowingly sacrifice those in my care merely to secure an
-advantage.”</p></li>
-<li><p><strong>Goal:</strong> “Secure the mill town’s agreement to send
-a delegate to the road council.”</p></li>
-<li><p><strong>Instinct:</strong> “When we enter an unfamiliar place, I
-identify an escape route before settling in.”</p></li>
-</ul>
+<p>Their World, Other and Self Beliefs, Goal and Instinct are the
+examples shown above.</p>
 <p>The GM might offer a delegation in exchange for escorting a
 vulnerable supply caravan through a dangerous pass. The Goal provides
 direction, capabilities determine options, and the Beliefs make
 decisions matter. The GM does not predetermine the character’s
 answer.</p>
-<h3 id="s-3-6-starting-resources">3.6 Starting Resources</h3>
+<h3 id="core-starting-resources">3.6 Starting Resources</h3>
 <ul>
 <li><p><strong>Tychē Points:</strong> start each session at your
-<strong>Refresh</strong> (base 3; §4.1). Beliefs and connections grant
-no extra points.</p></li>
+<strong>Refresh</strong> (base 3; <a
+href="#core-refresh">§4.1</a>). Beliefs and connections grant no
+extra points.</p></li>
 <li><p><strong>Starting abilities.</strong> You get <strong>1 playbook
 ability and your Tier 1 Focus ability for free</strong>, and may buy
 <strong>up to 2 more playbook abilities at 1 Refresh
 each</strong>.</p></li>
 <li><p><strong>★ (Major) abilities</strong> cost <strong>1 extra
-Refresh</strong> whenever you take them: as your free pick (1), as a
-creation extra (2 total) or through advancement. Veteran acquisition
-costs are added on top (Generic Playbooks §1.2). Refresh can’t drop
-below 1 (§4.1).</p></li>
+Refresh</strong> whenever you take them (Generic Playbooks <a
+href="../generic-playbooks/#pb-ability-notation">§1.2</a>). Refresh can’t drop below 1
+(<a href="#core-refresh">§4.1</a>).</p></li>
 </ul>
 <ul>
 <li><p><strong>Load-out:</strong> choose light, normal or heavy load
@@ -940,10 +973,11 @@ before the mission, then declare playbook-kit items as you need them and
 mark their load; don’t buy a full item list in advance. Signature items
 are chosen at creation and count against load when carried;
 always-carried items and items marked (0) follow their listed rules
-(Generic Playbooks §2.1). In conflicts, declare active gear before
-scripting each exchange (§10.10).</p></li>
+(Generic Playbooks <a href="../generic-playbooks/#pb-load">§2.1</a>). In conflicts,
+declare active gear before scripting each exchange (<a
+href="#core-conflict-gear-assets">§10.10</a>).</p></li>
 <li><p><strong>Circle and contact.</strong> Name one <strong>social
-circle</strong> (<em>dock workers</em>, <em>the archive staff</em>) and
+circle</strong> (<em>Dock Workers</em>, <em>The Archive Staff</em>) and
 one <strong>named contact</strong> in it or elsewhere. Record both as
 contact Truths. The circle answers <em>who here might help?</em> the
 contact answers <em>whom can I ask, and what might it cost
@@ -962,8 +996,8 @@ benefits.</p>
 an ordinary item you didn’t bring is a contact or circle question, not a
 separate inventory. Load covers what you brought; a contact covers what
 you can find now; an optional flashback covers what you arranged earlier
-(§4.2).</p>
-<h2 id="s-4-tych-points">4. Tychē Points</h2>
+(<a href="#core-prepared-advance">§4.2</a>).</p>
+<h2 id="core-tyche-points">4. Tychē Points</h2>
 <p><strong>Spend 1 Tychē Point to:</strong></p>
 <ul>
 <li><p><strong>Invoke</strong> — reroll all dice, or add +2 after
@@ -978,30 +1012,33 @@ consequence already resolved.</p></li>
 <li><p><strong>Declare</strong> — establish a minor fact about the
 scene. The GM may require it to tie to one of your tags.</p></li>
 <li><p><strong>Resist harder</strong> — reduce one Resistance cost to 0
-(§6).</p></li>
+(<a href="#core-resistance-harm-recovery">§6</a>).</p></li>
 </ul>
 <p><strong>Declarations stay minor.</strong> A declared fact can make an
 approach possible or supply a relevant asset. It can’t resolve an action
 by itself, buy status tiers, Situational Condition ratings or
-Disposition, inflict harm, or change Truths above scene scale (§8). A
-consequential Create can’t be relabelled minor to avoid its cost.</p>
+Disposition, inflict harm, or change Truths above scene scale (<a
+href="#core-truths">§8</a>). A consequential Create can’t be
+relabelled minor to avoid its cost.</p>
 <p><strong>Resisting harder.</strong> The Resistance still resolves
 normally, but its pool cost is 0, so it can’t run the pool dry, even if
-the pool is already empty (§6.1). It doesn’t restore spent points or
-clear an existing running-dry status, and it can’t Resist ordinary
-Disposition loss or a protected payment (§10.7).</p>
-<p>Scripted conflicts add timing limits to all three spends
-(§10.18).</p>
+the pool is already empty (<a href="#core-running-dry">§6.1</a>).
+It doesn’t restore spent points or clear an existing running-dry status,
+and it can’t Resist ordinary Disposition loss or a protected payment (<a
+href="#core-costs-failures-complications">§10.7</a>).</p>
+<p>Scripted conflicts add timing limits to all three spends (<a
+href="#core-conflict-limits-reference">§10.18</a>).</p>
 <p><strong>Earn Tychē Points by:</strong></p>
 <ul>
 <li><p><strong>Accepting a compel</strong> — the GM or another player
 offers a meaningful complication based on one of your tags (power,
-weakness or Scar), Beliefs (§3.5) or your Instinct. Accept → +1 Tychē
-Point. Refuse → pay 1 Tychē Point.</p></li>
+weakness or Scar), Beliefs (<a
+href="#core-beliefs-goals-instincts">§3.5</a>) or your Instinct.
+Accept → +1 Tychē Point. Refuse → pay 1 Tychē Point.</p></li>
 <li><p><strong>Compelling yourself</strong> — propose the same kind of
 complication on yourself. If the GM agrees it meets the rules below,
 take the complication and gain +1 Tychē Point. Facing it can also earn
-XP (§12.1).</p></li>
+XP (<a href="#core-earning-xp">§12.1</a>).</p></li>
 </ul>
 <p><strong>What makes a compel</strong></p>
 <ul>
@@ -1035,9 +1072,10 @@ delay will let the saboteur escape the immediate pursuit. Accepting that
 meaningful complication earns 1 Tychē Point; it does not dictate every
 action you take afterward.</p>
 <p>Acting against a Belief is not refusing a compel and carries no
-automatic penalty (§12.3). An Other Belief never grants control over
-another PC.</p>
-<h3 id="s-4-1-refresh">4.1 Refresh</h3>
+automatic penalty (<a
+href="#core-reviewing-beliefs-instincts">§12.3</a>). An Other
+Belief never grants control over another PC.</p>
+<h3 id="core-refresh">4.1 Refresh</h3>
 <ul>
 <li><p><strong>Base Refresh is 3.</strong> At the start of each session,
 your Tychē Points reset to your Refresh (if you have more, keep them, up
@@ -1046,13 +1084,15 @@ to the cap).</p></li>
 + 3</strong> Tychē Points. Any you would gain above the cap are
 lost.</p></li>
 <li><p><strong>Spending Refresh.</strong> Creation extras and ★
-abilities cost Refresh (§3.6).</p></li>
+abilities cost Refresh (<a
+href="#core-starting-resources">§3.6</a>).</p></li>
 <li><p>An <strong>attuned artifact</strong> (Module A) costs 1 Refresh
 while attuned, not merely while carried.</p></li>
 <li><p><strong>Minimum Refresh is 1.</strong> Purchases can’t take
 Refresh below 1. Your current Tychē Points can still drop to 0.</p></li>
-<li><p>The advancement option "+1 Refresh" (§12) lets you buy Refresh
-back, up to the Refresh cap (§12.2).</p></li>
+<li><p>The advancement option "+1 Refresh" (<a
+href="#core-advancement">§12</a>) lets you buy Refresh back, up to
+the Refresh cap (<a href="#core-spending-xp">§12.2</a>).</p></li>
 </ul>
 <p>Refresh happens only at the start of a session, not at a new scene,
 exchange, Inquiry phase or downtime stay. It restores Tychē Points only;
@@ -1061,8 +1101,7 @@ procedures.</p>
 <p>Design intent: power comes at the cost of narrative flexibility. A
 low-Refresh character is mechanically strong but has to accept compels
 to stay fuelled.</p>
-<h3 id="s-4-2-prepared-in-advance-optional">4.2 Prepared in Advance
-(Optional)</h3>
+<h3 id="core-prepared-advance">4.2 Prepared in Advance (Optional)</h3>
 <p>Once per session, you may spend <strong>1 Tychē Point</strong> to
 establish one plausible thing you prepared earlier: <em>I asked the
 ferryman to wait after dusk.</em></p>
@@ -1081,11 +1120,14 @@ allowed.</p></li>
 <li><p><strong>Declaration limits apply.</strong> Like Declare, it can’t
 resolve an action by itself, buy status tiers, Condition ratings or
 Disposition, change Truths above scene scale, or recalculate Superiority
-after setup. In scripted conflicts, §10.18 sets its timing.</p></li>
+after setup. In scripted conflicts, <a
+href="#core-conflict-limits-reference">§10.18</a> sets its
+timing.</p></li>
 </ul>
 <p>Load covers what you brought; contacts cover what you can find now
-(§3.6); a flashback covers what you arranged earlier.</p>
-<h2 id="s-5-effects">5. Effects</h2>
+(<a href="#core-starting-resources">§3.6</a>); a flashback covers
+what you arranged earlier.</p>
+<h2 id="core-effects">5. Effects</h2>
 <table>
 <thead>
 <tr>
@@ -1100,24 +1142,29 @@ after setup. In scripted conflicts, §10.18 sets its timing.</p></li>
 <td><p>1 Power per tier</p></td>
 <td><p>Inflict a <strong>Status</strong> (e.g. <em>wounded-2</em>,
 <em>rattled-1</em>, <em>on fire-3</em>). In conflicts, Attack removes
-Disposition instead (§10.6)</p></td>
+Disposition instead (<a
+href="#core-actions-effects">§10.6</a>)</p></td>
 </tr>
 <tr>
 <td><p><strong>Weaken</strong></p></td>
-<td><p>1, or 2 per rating (Situational Condition)</p></td>
+<td><p>1 (one status tier or Suppress a tag); 2 per rating (Situational
+Condition)</p></td>
 <td><p>Reduce one of the target's statuses by 1 tier, reduce a harmful
 Situational Condition by 1 rating by addressing its cause, or
 <strong>Suppress</strong> one of the target’s tags for the scene. In
-conflicts, only with an explicit ability (§10.6)</p></td>
+conflicts, only with an explicit ability (<a
+href="#core-actions-effects">§10.6</a>)</p></td>
 </tr>
 <tr>
 <td><p><strong>Create</strong></p></td>
 <td><p>2 (Truth) or 2 per rating (Situational Condition)</p></td>
-<td><p>Create a scene <strong>Truth</strong> (<em>a rope bridge spans
-the gap</em> §8) or a <strong>Situational Condition</strong> (<em>smoke
-cover 2</em>, <em>crowd on our side 1</em> §5.2). Either lasts for the
-scene or until its removal condition is met. +1 Power: it ignores the
-end of the scene. Record it in the standard format</p></td>
+<td><p>Create a scene <strong>Truth</strong> (<em>A Rope Bridge Spans
+the Gap</em> <a href="#core-truths">§8</a>) or a
+<strong>Situational Condition</strong> (<em>smoke cover 2</em>,
+<em>crowd on our side 1</em> <a
+href="#core-situational-conditions">§5.2</a>). Either lasts for
+the scene or until its removal condition is met. +1 Power: it ignores
+the end of the scene. Record it in the standard format</p></td>
 </tr>
 <tr>
 <td><p><strong>Enhance</strong></p></td>
@@ -1129,7 +1176,7 @@ end of the scene. Record it in the standard format</p></td>
 <td><p><strong>Restore</strong></p></td>
 <td><p>1 per tier</p></td>
 <td><p>Reduce a harmful status on yourself or an ally. Lasting injuries
-have limits (§6.6)</p></td>
+have limits (<a href="#core-treatment-healing">§6.6</a>)</p></td>
 </tr>
 <tr>
 <td><p><strong>Discover</strong></p></td>
@@ -1139,19 +1186,22 @@ have limits (§6.6)</p></td>
 <tr>
 <td><p><strong>Advance</strong></p></td>
 <td><p>1 per segment</p></td>
-<td><p>Tick a <strong>progress clock</strong> (§7)</p></td>
+<td><p>Tick a <strong>progress clock</strong> (<a
+href="#core-progress-clocks">§7</a>)</p></td>
 </tr>
 <tr>
 <td><p><strong>Disrupt</strong></p></td>
 <td><p>3</p></td>
 <td><p>Cancel or delay an enemy's prepared action, or take 1 point off
-the GM's Woe. In conflicts, see §10.6</p></td>
+the GM's Woe. In conflicts, see <a
+href="#core-actions-effects">§10.6</a></p></td>
 </tr>
 <tr>
 <td><p><strong>Extra Feat</strong></p></td>
 <td><p>1</p></td>
 <td><p>Achieve a second, related goal with the same action. In
-conflicts, once per action (§10.6)</p></td>
+conflicts, once per action (<a
+href="#core-actions-effects">§10.6</a>)</p></td>
 </tr>
 </tbody>
 </table>
@@ -1159,8 +1209,8 @@ conflicts, once per action (§10.6)</p></td>
 in the fiction. No Effect is mandatory; all purchases share one Power
 budget, and any unspent Power becomes <strong>Weal</strong>.</p>
 <p><strong>In scripted conflicts,</strong> each action can buy only the
-Effects §10.6 permits. Fictional relevance is required but doesn’t
-unlock anything else.</p>
+Effects <a href="#core-actions-effects">§10.6</a> permits.
+Fictional relevance is required but doesn’t unlock anything else.</p>
 <p><strong>Free</strong> waives only the stated cost, not timing,
 permissions or limits.</p>
 <p><strong>Create discounts.</strong> Only an ability or item that
@@ -1173,7 +1223,7 @@ Situational Condition establishes its ordinary basis: buying <em>smoke
 cover 2</em> creates the smoke, so don’t also charge for a Truth. A
 Truth doesn’t come with a free rating. The action must reach the people
 or area affected; these purchases add no area or selective targeting of
-their own (§10.17).</p>
+their own (<a href="#core-area-effects">§10.17</a>).</p>
 <p><strong>Recording temporary facts.</strong> Record every temporary
 mechanical fact (a status, a Situational Condition, a Truth, or a
 temporary benefit or penalty such as Gain Position or Impede) in one
@@ -1195,16 +1245,19 @@ duration.</p></li>
 temporary benefit doesn’t become a status, and a Truth doesn’t gain a
 modifier. In running text, a status can still be written with its tier
 (<em>wounded-2</em>).</p>
-<h3 id="s-5-1-personal-statuses">5.1 Personal Statuses</h3>
+<h3 id="core-personal-statuses">5.1 Personal Statuses</h3>
 <p>A <strong>status</strong> is a physical, mental or emotional state of
-a person (or of a group that shares one, §5.2): <em>wounded</em>,
+a person (or of a group that shares one, <a
+href="#core-situational-conditions">§5.2</a>): <em>wounded</em>,
 <em>inspired</em>, <em>terrified</em>. External circumstances are
-Situational Conditions (§5.2), and established facts are Truths
-(§8).</p>
+Situational Conditions (<a
+href="#core-situational-conditions">§5.2</a>), and established
+facts are Truths (<a href="#core-truths">§8</a>).</p>
 <ul>
 <li><p>Statuses have <strong>tiers 1–6</strong>. On a roll, add the tier
 of the highest relevant helpful status and subtract the tier of the
-highest relevant harmful status (§2.1).</p></li>
+highest relevant harmful status (<a
+href="#core-roll">§2.1</a>).</p></li>
 <li><p><strong>Recording a status.</strong> When you create a status,
 record its name and tier, its <strong>scope</strong> (who or what it
 affects, and in which circumstances), and its <strong>removal
@@ -1229,22 +1282,26 @@ injury, affliction or condition, whatever it’s called: another cut
 worsens <em>wounded</em>, renewed menace worsens <em>terrified</em>, but
 a fresh burn needn’t stack with a concussion. The GM says whether new
 harm stacks <strong>before</strong> you decide to Resist or accept an
-injury (§10.11).</p></li>
+injury (<a href="#core-accepting-injury">§10.11</a>).</p></li>
 <li><p><strong>Order.</strong> Resistance and armour reduce incoming
 harm before it stacks; they can’t reduce a protected payment such as an
-accepted injury trade (§10.7). Harm reduced to tier 0 isn’t recorded. A
-status can’t go above tier 6.</p></li>
+accepted injury trade (<a
+href="#core-costs-failures-complications">§10.7</a>). Harm reduced
+to tier 0 isn’t recorded. A status can’t go above tier 6.</p></li>
 <li><p><strong>Tier 6:</strong> the target is <strong>Taken Out</strong>
 of whatever that status represents (dead, unconscious, captured,
 convinced, routed), within its scope. A harmful status reaching tier 6
 also gives a <strong>Scar</strong> unless a specific rule replaces it
-(§6.3). Death needs a lethal cause and established stakes; a physical
-status at tier 6 can make you <strong>Dying</strong> (§6.7).</p></li>
+(<a href="#core-tier-6-scars">§6.3</a>). Death needs a lethal
+cause and established stakes; a physical status at tier 6 can make you
+<strong>Dying</strong> (<a
+href="#core-dying-stabilisation">§6.7</a>).</p></li>
 <li><p><strong>Impede is not a status.</strong> It is a temporary
-conflict penalty (§10.6). An ongoing hindrance needs its own name, tier,
-scope and removal condition.</p></li>
+conflict penalty (<a href="#core-actions-effects">§10.6</a>). An
+ongoing hindrance needs its own name, tier, scope and removal
+condition.</p></li>
 </ul>
-<h3 id="s-5-2-situational-conditions">5.2 Situational Conditions</h3>
+<h3 id="core-situational-conditions">5.2 Situational Conditions</h3>
 <p>A <strong>Situational Condition</strong> is an external circumstance
 that helps or hinders particular actions by a number: terrain,
 visibility, positioning, preparation, resources, or other people’s
@@ -1253,36 +1310,41 @@ responses (<em>slippery bridge</em>, <em>rehearsed escape plan</em>,
 <ul>
 <li><p><strong>Ratings 1–6.</strong> On a roll, add the rating of the
 highest relevant helpful Situational Condition and subtract the rating
-of the highest relevant harmful one (§2.1). The same Condition can help
-one action and hinder another: <em>thick smoke</em> hinders aiming
-through it and helps hiding in it.</p></li>
+of the highest relevant harmful one (<a
+href="#core-roll">§2.1</a>). The same Condition can help one
+action and hinder another: <em>thick smoke</em> hinders aiming through
+it and helps hiding in it.</p></li>
 <li><p><strong>Recording.</strong> Use the standard format:
-<em>Rehearsed escape plan</em> — Situational Condition 2 — helps
+<em>rehearsed escape plan</em> — Situational Condition 2 — helps
 participants follow the agreed routes, signals and fallbacks — ends when
 the escape is completed or circumstances invalidate the plan.</p></li>
 <li><p><strong>Creating and reducing.</strong> Create buys a Situational
 Condition at <strong>2 Power per rating</strong>, and Weaken reduces one
-at <strong>2 Power per rating</strong> by addressing its cause (§5).
-Established circumstances, equipment, hazards, consequences and explicit
-abilities can also supply one through their own rules. Weal and Woe
-can’t buy ratings directly (§9).</p></li>
+at <strong>2 Power per rating</strong> by addressing its cause (<a
+href="#core-effects">§5</a>). Established circumstances,
+equipment, hazards, consequences and explicit abilities can also supply
+one through their own rules. Weal and Woe can’t buy ratings directly (<a
+href="#core-weal-woe">§9</a>).</p></li>
 </ul>
 <ul>
 <li><p><strong>Stacking.</strong> Building on the same circumstance sets
 the Condition to <strong>one rating above the higher</strong> of the
-existing and new ratings, never above 6 (<em>Dim Lighting 3</em>
-darkened by a rating-2 Condition becomes <em>Dim Lighting 4</em>). This
-matches status stacking (§5.1).</p></li>
+existing and new ratings, never above 6 (<em>dim lighting 3</em>
+darkened by a rating-2 Condition becomes <em>dim lighting 4</em>). This
+matches status stacking (<a
+href="#core-personal-statuses">§5.1</a>).</p></li>
 <li><p><strong>Rating 6</strong> is the most a Condition can be. When a
 harmful Condition first reaches rating 6, the GM gets <strong>one free
 consequence</strong> that fits it (the guards are called, a contact cuts
 ties) <strong>or a matching Truth</strong> that prohibits or requires
-something (<em>Discredited 6</em>: nobody here will vouch for you),
+something (<em>discredited 6</em>: nobody here will vouch for you),
 whichever is more narratively appropriate, with no Woe spent. Choose a
-consequence as in §2.5 and keep either within the stakes; a Truth
-created this way lasts as long as the Condition. The Condition doesn’t
-Take Out, cause a Scar or inflict harm by itself; a dangerous place uses
-its listed Danger or harm procedure (§8.5, §6).</p></li>
+consequence as in <a href="#core-outcomes">§2.5</a> and keep
+either within the stakes; a Truth created this way lasts as long as the
+Condition. The Condition doesn’t Take Out, cause a Scar or inflict harm
+by itself; a dangerous place uses its listed Danger or harm procedure
+(<a href="#core-dangers-conflicts">§8.5</a>, <a
+href="#core-resistance-harm-recovery">§6</a>).</p></li>
 <li><p><strong>Set the category by cause.</strong> Classify by what
 caused the fact, not by its name, where it’s written or the most useful
 slot. Renaming doesn’t change it; review category and scope only when
@@ -1333,16 +1395,20 @@ sight and separately inflict an established lung injury, resolved
 through its own harm procedure.</p>
 <p><strong>Harm comes from procedures, not categories.</strong> A
 category or rating alone doesn’t cause damage, Disposition loss, removal
-or a Scar. Resistance, worsening, recovery and protected payments work
-as before, and choosing the highest modifier doesn’t stop other statuses
-and Conditions existing or worsening.</p>
-<h3 id="s-5-3-example-statuses-and-conditions">5.3 Example Statuses and
+or a Scar. Resistance, worsening, recovery and protected payments follow
+their own rules (<a href="#core-resistance-harm-recovery">§6</a>,
+<a href="#core-costs-failures-complications">§10.7</a>), and
+choosing the highest modifier doesn’t stop other statuses and Conditions
+existing or worsening.</p>
+<h3 id="core-example-statuses-conditions">5.3 Example Statuses and
 Conditions</h3>
 <p>The following names are examples, not a closed list. When recording
 one, give it a tier or rating, a specific scope, and a removal condition
-(§5.1, §5.2). Use a more precise name whenever it makes the effect
-clearer. These examples grant no new permission to purchase or inflict
-anything; normal Effect costs and conflict permissions still apply.</p>
+(<a href="#core-personal-statuses">§5.1</a>, <a
+href="#core-situational-conditions">§5.2</a>). Use a more precise
+name whenever it makes the effect clearer. These examples grant no new
+permission to purchase or inflict anything; normal Effect costs and
+conflict permissions still apply.</p>
 <table>
 <thead>
 <tr>
@@ -1449,37 +1515,41 @@ Exhausted should identify the depleted capacity rather than penalise
 everything.</p>
 <p><strong>Recording examples.</strong></p>
 <ul>
-<li><p><em>Mapped patrol routes</em> — Situational Condition 2 — helps
+<li><p><em>mapped patrol routes</em> — Situational Condition 2 — helps
 evading the observed patrols — ends when their routes change.</p></li>
-<li><p><em>Trusted by the village council</em> — Situational Condition 2
+<li><p><em>trusted by the village council</em> — Situational Condition 2
 — helps persuading the council about local threats within your
 established credibility — ends when that trust is withdrawn or
 betrayed.</p></li>
 </ul>
 <ul>
 <li><p><em>Mentally exhausted</em> — personal status 3 — sustained
-mental work — ends through appropriate recovery (§6.5).</p></li>
-<li><p><em>Discredited before the merchant guild</em> — Situational
+mental work — ends through appropriate recovery (<a
+href="#core-rest-recovery">§6.5</a>).</p></li>
+<li><p><em>discredited before the merchant guild</em> — Situational
 Condition 2 — hinders claims about the disputed shipment made to the
 guild — ends when the accusation is disproved or credibility is
 restored.</p></li>
 </ul>
 <p><strong>Special conditions stay separate.</strong> These examples use
-the normal status and Situational Condition rules. Grind conditions —
+the normal status and Situational Condition rules. Grind hardships —
 Hungry &amp; Thirsty, Weary, Exposed, Shaken, Sick, and Broken — use
 their listed effects and recovery requirements (Module B.3), not generic
 tiers inferred from their order. Running-dry statuses also follow their
-pool-specific procedure (§6.2). Impede is a temporary conflict effect,
-not a status (§10.6).</p>
-<h2 id="s-6-resistance-harm-and-recovery">6. Resistance, Harm and
+pool-specific procedure (<a
+href="#core-running-dry-statuses">§6.2</a>). Impede is a temporary
+conflict effect, not a status (<a
+href="#core-actions-effects">§10.6</a>).</p>
+<h2 id="core-resistance-harm-recovery">6. Resistance, Harm and
 Recovery</h2>
 <p>When an imposed consequence lands on you (a status, lost gear, a bad
 position), you may <strong>Resist</strong>, subject to the exclusions
 below:</p>
 <ol>
-<li><p>Choose the pool that fits (see §3.2: Sōma for harm, Mētis to
-dodge, Psychē against deception and confusion, Pneuma against fear and
-the supernatural).</p></li>
+<li><p>Choose the pool that fits (see <a
+href="#core-pools-edge">§3.2</a>: Sōma for harm, Mētis to dodge,
+Psychē against deception and confusion, Pneuma against fear and the
+supernatural).</p></li>
 <li><p>Roll a number of d12s equal to <strong>2 + that pool's
 Edge</strong> and read only the <strong>highest die</strong>. If
 penalties take the pool’s Edge below 0, see <strong>Negative
@@ -1589,10 +1659,12 @@ does that.</p>
 harmful status:</p>
 <ol>
 <li><p>The GM names the status, its source and its incoming tier, and
-says whether it stacks with a status you already have (§5.1).</p></li>
-<li><p>If you Resist, add any armour that applies (Generic Playbooks
-§2.3) and pay the cost. A cost you can’t fully pay makes you run dry
-(§6.1).</p></li>
+says whether it stacks with a status you already have (<a
+href="#core-personal-statuses">§5.1</a>).</p></li>
+<li><p>If you Resist, add any armour that applies (Generic Playbooks <a
+href="../generic-playbooks/#pb-armour-shields">§2.3</a>) and pay the cost. A cost you
+can’t fully pay makes you run dry (<a
+href="#core-running-dry">§6.1</a>).</p></li>
 <li><p>Record what is left with normal stacking. A status reduced to
 tier 0 isn’t recorded.</p></li>
 </ol>
@@ -1602,29 +1674,30 @@ harm once. You can’t make a second attempt against the same harm.</p>
 imposed consequence. It doesn’t reverse the action’s success, restore
 lost Disposition or revoke an agreed outcome. You can’t Resist:</p>
 <ul>
-<li><p>ordinary Disposition loss in a conflict (§10.6);</p></li>
-<li><p>an injury you accepted to cancel Disposition loss
-(§10.11);</p></li>
-<li><p>a cost you accepted in a concession (§10.12), or any other cost
-you accepted as payment for a benefit;</p></li>
-<li><p>a running-dry status (§6.2).</p></li>
+<li><p>ordinary Disposition loss in a conflict (<a
+href="#core-actions-effects">§10.6</a>);</p></li>
+<li><p>an injury you accepted to cancel Disposition loss (<a
+href="#core-accepting-injury">§10.11</a>);</p></li>
+<li><p>a cost you accepted in a concession (<a
+href="#core-defeat-mutual-defeat-concession">§10.12</a>), or any
+other cost you accepted as payment for a benefit;</p></li>
+<li><p>a running-dry status (<a
+href="#core-running-dry-statuses">§6.2</a>).</p></li>
 </ul>
-<p><strong>Protected payments.</strong> Only an exception that names the
-protected payment or Disposition effect can change it; generic wording
-such as "cancel harm" isn’t enough. The same applies to prevention,
-redirection, immunity and incidental clearing, including the double-12
-result above, whichever action produced it (§10.7). Treatment and
-healing still work on a recorded status (§6.6) but don’t refund what it
-paid for. Compromise statuses imposed under §10.13 can still be
-Resisted; that doesn’t revoke the concession, and removing the injury
-creates no replacement cost.</p>
-<h3 id="s-6-1-running-dry">6.1 Running Dry</h3>
+<p><strong>Protected payments.</strong> You can’t Resist a protected
+payment (<a href="#core-costs-failures-complications">§10.7</a>).
+Treatment and healing still work on a recorded status (<a
+href="#core-treatment-healing">§6.6</a>). Compromise statuses
+imposed under <a href="#core-compromise">§10.13</a> aren’t
+protected payments. You can Resist them, but that doesn’t revoke the
+concession, and removing the injury creates no replacement cost.</p>
+<h3 id="core-running-dry">6.1 Running Dry</h3>
 <p><strong>Trigger.</strong> You <strong>run dry</strong> when a
 positive cost brings a pool to 0 or is more than the points left in it.
 Finish the action or Resistance that caused the cost, then take a
-harmful <strong>running-dry status</strong> for that pool (§6.2).
-Running dry does not, on its own, take you out, give you a Scar or
-refill the pool.</p>
+harmful <strong>running-dry status</strong> for that pool (<a
+href="#core-running-dry-statuses">§6.2</a>). Running dry does not,
+on its own, take you out, give you a Scar or refill the pool.</p>
 <p><strong>Overrun.</strong> Work out the final cost after Edge (for
 Effort), Tychē and every other permitted reduction, then compare it with
 the points left in the pool:</p>
@@ -1697,8 +1770,8 @@ says, and resolve any running dry straight away. If that status takes
 you out, finish only the action or Resistance whose cost caused it: you
 can’t add more Effort, buy more Power or activate more abilities for
 that action. The action still resolves. If it is one of two independent
-actions in a volley, both resolve before victory is checked
-(§10.12).</p>
+actions in a volley, both resolve before victory is checked (<a
+href="#core-defeat-mutual-defeat-concession">§10.12</a>).</p>
 <p><strong>Separate costs stay separate.</strong> Each cost listed
 separately is its own payment. You can’t split one cost into smaller
 payments, or combine separate costs, to change overrun or stacking. When
@@ -1706,20 +1779,18 @@ one effect takes several points from the same pool at once, total them
 as one imposed cost unless the effect says otherwise. Costs from
 different pools are resolved separately.</p>
 <p><strong>Resisting on empty.</strong> You can Resist with a low or
-empty pool unless your condition prevents it (§6.4), and the Resistance
-still takes effect. Resolve protection, the Resistance and the original
+empty pool unless your condition prevents it (<a
+href="#core-being-taken-out">§6.4</a>), and the Resistance still
+takes effect. Resolve protection, the Resistance and the original
 consequence first, then apply the running-dry status. The new status
 doesn’t penalise that Resistance roll or undo its result.</p>
-<p><strong>Zero costs.</strong> A final cost of 0 never makes you run
-dry, even if the pool is already empty. Being at 0 isn’t an event in
-itself: you don’t take a new status because time passes, a new turn
-begins, or you take an action that costs nothing. A later positive
-Resistance cost or imposed cost can make you run dry again.</p>
-<p><strong>Empty pools.</strong> An empty pool has no penalty of its
-own. It doesn’t remove Disposition or take you out; its running-dry
-status does that work. You can keep acting with other resources or with
-actions that cost nothing. The pool stays at 0 until rest restores it
-(§6.5). There is no automatic refill.</p>
+<p><strong>Zero costs and empty pools.</strong> A final cost of 0 never
+makes you run dry, even from an empty pool. Being at 0 isn’t an event in
+itself: time passing, a new turn or an action that costs nothing adds no
+status. An empty pool has no penalty of its own; its running-dry status
+does that work. You can keep acting with other resources or with actions
+that cost nothing, and the pool stays at 0 until rest restores it (<a
+href="#core-rest-recovery">§6.5</a>).</p>
 <p><strong>NPCs.</strong> Ordinary NPCs don’t have pools and never run
 dry. Spending Woe on an NPC creates no status, and Woe can’t be overrun:
 if the GM can’t pay an ability’s Woe cost, the NPC can’t use that
@@ -1733,14 +1804,15 @@ ability. An NPC built with full PC pools runs dry normally.</p>
 overrun.</p></li>
 <li><p>Impose that pool’s running-dry status at tier 1 +
 overrun.</p></li>
-<li><p>Stack it with the same status if you already have it
-(§5.1).</p></li>
-<li><p>At tier 6, apply the status’s scope, then record one Scar
-(§6.3).</p></li>
-<li><p>Recover the pool and the status separately (§6.5).</p></li>
+<li><p>Stack it with the same status if you already have it (<a
+href="#core-personal-statuses">§5.1</a>).</p></li>
+<li><p>At tier 6, apply the status’s scope, then record one Scar (<a
+href="#core-tier-6-scars">§6.3</a>).</p></li>
+<li><p>Recover the pool and the status separately (<a
+href="#core-rest-recovery">§6.5</a>).</p></li>
 </ol>
 </div>
-<h3 id="s-6-2-running-dry-statuses">6.2 Running-Dry Statuses</h3>
+<h3 id="core-running-dry-statuses">6.2 Running-Dry Statuses</h3>
 <p>The status must fit both the pool and the action that drained it:</p>
 <table>
 <thead>
@@ -1770,8 +1842,9 @@ overrun.</p></li>
 </table>
 <p><strong>Set it up once.</strong> When you first record the status,
 set its name and scope. Its recovery category is Depletion unless the
-source makes it an Injury or Affliction (§6.5). The name decides which
-rolls it hinders.</p>
+source makes it an Injury or Affliction (<a
+href="#core-rest-recovery">§6.5</a>). The name decides which rolls
+it hinders.</p>
 <p><strong>One status per pool.</strong> The first time a pool runs dry,
 that status becomes the pool’s depletion status for the rest of the
 continuous ordeal. Write the pool beside it. Running dry in that pool
@@ -1782,31 +1855,32 @@ different cause. Each running-dry event worsens only one status.</p>
 overrun Psychē by 2. The incoming status is tier 3, one above the higher
 tier is 4, so you now have <em>mentally exhausted-4</em>.</p>
 <p><strong>It is a cost.</strong> A running-dry status is a protected
-payment: armour, Resistance and cancelling effects can’t prevent or
-reduce it, and a clearing benefit from the same Resistance or action
-can’t clear it. Once recorded, it can be treated, Restored or healed
-like any other status.</p>
-<h3 id="s-6-3-tier-6-and-scars">6.3 Tier 6 and Scars</h3>
+payment (<a href="#core-costs-failures-complications">§10.7</a>).
+Once recorded, it can be treated, Restored or healed like any other
+status.</p>
+<h3 id="core-tier-6-scars">6.3 Tier 6 and Scars</h3>
 <p>When a harmful status reaches <strong>tier 6</strong>, whether in one
 hit or through stacking, apply this general procedure unless a specific
 rule expressly replaces its breaking-point outcome:</p>
 <ol>
-<li><p>Resolve its tier-6 outcome (§5.1).</p></li>
+<li><p>Resolve its tier-6 outcome (<a
+href="#core-personal-statuses">§5.1</a>).</p></li>
 <li><p>Apply removal within the status’s scope (below).</p></li>
 <li><p>Record <strong>one Scar</strong>, subject to the limits
 below.</p></li>
 </ol>
 <p><strong>Specific replacements.</strong> Some creature tracks and
 setting conditions state their own breaking-point outcome; use it only
-where stated (§10.14). In Testament of Dust, Sun-Sick and Thirst replace
-the Scar with their own consequences, while Bled keeps it. The Scar
-limits below still apply.</p>
+where stated (<a href="#core-npcs-harm">§10.14</a>). A setting
+condition that replaces the Scar says so; one that doesn’t keeps it. The
+Scar limits below still apply.</p>
 <p><strong>Scope.</strong> If the status leaves you unable to pursue
-your side’s intent, you are <strong>Taken Out</strong> (§6.4). If it
-stops only one activity (<em>bound</em> stops you moving, not talking),
-apply that restriction and stay in the conflict. Set a non-damage
-status’s scope when it is inflicted, and don’t widen it at tier 6.
-Either way, the general procedure still gives its Scar.</p>
+your side’s intent, you are <strong>Taken Out</strong> (<a
+href="#core-being-taken-out">§6.4</a>). If it stops only one
+activity (<em>bound</em> stops you moving, not talking), apply that
+restriction and stay in the conflict. Set a non-damage status’s scope
+when it is inflicted, and don’t widen it at tier 6. Either way, the
+general procedure still gives its Scar.</p>
 <p><strong>Not lethal by default.</strong> A running-dry status at tier
 6 is not deadly on its own. Death needs a lethal cause and established
 stakes. Tier 6 doesn’t, by itself, cost you a limb, lower a maximum pool
@@ -1866,24 +1940,30 @@ apply only the larger penalty. Your <strong>fourth Scar</strong> retires
 the character from ordinary adventuring. Finish the immediate scene,
 then decide with the player how the character leaves. Retirement doesn’t
 mean death.</p>
-<h3 id="s-6-4-being-taken-out">6.4 Being Taken Out</h3>
+<h3 id="core-being-taken-out">6.4 Being Taken Out</h3>
 <p><strong>Ways out.</strong> You are <strong>Taken Out</strong> of a
-conflict when a harmful status reaches tier 6 within its scope (§6.3),
-when an effect says so, when you voluntarily withdraw, or when an
-established circumstance prevents you from pursuing your side’s
-objective (§10.9). Ordinary Disposition loss never takes an individual
-out. Once you are out, you can’t start another action, spend Effort or
-activate an ability unless its rules let you act while Taken Out.</p>
+conflict when a harmful status reaches tier 6 within its scope (<a
+href="#core-tier-6-scars">§6.3</a>), when an effect says so, when
+you voluntarily withdraw, or when an established circumstance prevents
+you from pursuing your side’s objective (<a
+href="#core-shared-disposition-participation">§10.9</a>). Ordinary
+Disposition loss never takes an individual out. Once you are out, you
+can’t start another action, spend Effort or activate an ability unless
+its rules let you act while Taken Out.</p>
 <p><strong>Disposition stays with the side.</strong> Being Taken Out
 doesn’t directly change your side’s shared Disposition. Your side loses
 your skills, abilities and help, and if none of its participants can
 continue pursuing its objective, it loses after independent actions
-finish (§10.9, §10.12).</p>
+finish (<a
+href="#core-shared-disposition-participation">§10.9</a>, <a
+href="#core-defeat-mutual-defeat-concession">§10.12</a>).</p>
 <p><strong>Out isn’t down.</strong> Being Taken Out doesn’t, on its own,
 make you unconscious, injured or dying. Describe it to fit the fiction:
 pinned down, disarmed, driven back, cut off, or too frightened to go on.
-Injury needs a status, death needs established lethal stakes (§6.7), and
-permanent harm needs an established consequence (§6.8).</p>
+Injury needs a status, death needs established lethal stakes (<a
+href="#core-dying-stabilisation">§6.7</a>), and permanent harm
+needs an established consequence (<a
+href="#core-permanent-harm">§6.8</a>).</p>
 <p><strong>Resisting while out.</strong> Being Taken Out doesn’t
 automatically stop you Resisting, but the Resistance must be something
 you can still do. You can brace against pain while pinned down, but you
@@ -1904,7 +1984,7 @@ ability says so.</p>
 <p>An ordinary Defend can’t bring back a Taken Out ally unless its rules
 say it can. If you recover after the conflict is over, you act normally
 in the scenes that follow, subject to your remaining statuses.</p>
-<h3 id="s-6-5-rest-and-recovery">6.5 Rest and Recovery</h3>
+<h3 id="core-rest-recovery">6.5 Rest and Recovery</h3>
 <p>Recovery follows four successive rest stages:</p>
 <table>
 <thead>
@@ -1943,7 +2023,9 @@ Pneuma however you wish</strong>, without exceeding a pool's maximum.
 They don't have to go to whichever pool was drained most
 recently.</p></li>
 <li><p><strong>Edge does not apply to recovery.</strong> It already cuts
-Effort costs and adds Resistance dice (§2.4, §6).</p></li>
+Effort costs and adds Resistance dice (<a
+href="#core-bonus-dice-effort">§2.4</a>, <a
+href="#core-resistance-harm-recovery">§6</a>).</p></li>
 <li><p>After the 4th rest, the cycle resets — your next rest that day
 (or the start of a new day) is a First rest again.</p></li>
 <li><p>Each PC rests and rolls independently. If two of five party
@@ -1963,8 +2045,8 @@ treatment, Restore and healing time, like any wound.</p></li>
 <li><p><strong>Affliction</strong> (supernatural or ongoing cause):
 recovers only as its source allows.</p></li>
 </ul>
-<p><strong>Resting off depletion</strong> <em>(playtest
-value)</em><strong>.</strong> When you take one of the 1st–3rd rests,
+<p><strong>Resting off depletion</strong> <em>(Playtest
+Value)</em><strong>.</strong> When you take one of the 1st–3rd rests,
 you can put the recovery roll toward the pool, toward its depletion
 status, or split it between them. Every <strong>2 points</strong>
 removes <strong>1 tier</strong> of the depletion status. Each point
@@ -1982,19 +2064,20 @@ rest stage.</p>
 and statuses each recover only through their own procedure:</p>
 <ul>
 <li><p><strong>Disposition</strong> is set fresh when a genuinely new
-conflict begins (§10.2). Fresh Disposition doesn’t refill pools or clear
-statuses, and a brief pause in the same struggle isn’t a new
-conflict.</p></li>
+conflict begins (<a href="#core-setup">§10.2</a>). Fresh
+Disposition doesn’t refill pools or clear statuses, and a brief pause in
+the same struggle isn’t a new conflict.</p></li>
 <li><p><strong>Pools</strong> recover through the rests above. A full
 pool doesn’t heal an injury, and an injury doesn’t stop pool recovery
 unless its rule says so.</p></li>
 <li><p><strong>Statuses</strong> recover by their kind: a temporary
 state ends when its cause or duration ends; injuries need treatment and
-time (§6.6); afflictions follow their source.</p></li>
+time (<a href="#core-treatment-healing">§6.6</a>); afflictions
+follow their source.</p></li>
 </ul>
 <p>Winning a conflict, ending a scene or setting fresh Disposition is
 <strong>not a general reset</strong>.</p>
-<h3 id="s-6-6-treatment-and-healing">6.6 Treatment and Healing</h3>
+<h3 id="core-treatment-healing">6.6 Treatment and Healing</h3>
 <p><strong>Appropriate care.</strong> Treatment must address the cause
 of the harm:</p>
 <table>
@@ -2019,7 +2102,7 @@ of the harm:</p>
 </tr>
 <tr>
 <td><p>Damaged machines or implants</p></td>
-<td><p>Science or Craft, tools and access</p></td>
+<td><p>Tech or Craft, tools and access</p></td>
 </tr>
 <tr>
 <td><p>Curses, possession, corruption</p></td>
@@ -2047,13 +2130,13 @@ Conditions modifying the roll. On a success, the deterioration stops or
 treatment can begin. On a Success at a Cost, the same, with the normal
 cost. On a failure, the condition is still untreated; the GM announces
 any further consequence before another attempt. During scripted
-conflicts, use the conflict-specific consequence restrictions
-(§10.7).</p>
+conflicts, use the conflict-specific consequence restrictions (<a
+href="#core-costs-failures-complications">§10.7</a>).</p>
 <p><strong>Restore on lasting injuries.</strong> Restore costs 1 Power
-per tier (§5). It can clear a <strong>temporary</strong> condition
-outright when the action removes its cause: putting out burning clothes
-reduces <em>on fire</em>, calming an ally reduces fear. <strong>Lasting
-injuries</strong> are slower:</p>
+per tier (<a href="#core-effects">§5</a>). It can clear a
+<strong>temporary</strong> condition outright when the action removes
+its cause: putting out burning clothes reduces <em>on fire</em>, calming
+an ally reduces fear. <strong>Lasting injuries</strong> are slower:</p>
 <ul>
 <li><p>Ordinary treatment reduces a given lasting injury by <strong>at
 most 1 tier</strong>. Mark it <em>treated</em>.</p></li>
@@ -2075,9 +2158,10 @@ the conflict type or an ability allows its skill (such as
 <em>Battlefield Surgeon</em>). Restoring Disposition keeps your side in
 the contest; it doesn’t heal an injury unless the action’s rules also
 provide a healing effect. Healing an injury does not return a Taken Out
-ally unless the return requirements in §6.4 are met.</p>
-<p><strong>Healing intervals</strong> <em>(playtest
-values)</em><strong>.</strong> Once a lasting injury has had appropriate
+ally unless the return requirements in <a
+href="#core-being-taken-out">§6.4</a> are met.</p>
+<p><strong>Healing intervals</strong> <em>(Playtest
+Value)</em><strong>.</strong> Once a lasting injury has had appropriate
 care and its cause has stopped, safe rest removes one tier per interval.
 Use the injury’s current tier:</p>
 <table>
@@ -2116,7 +2200,7 @@ method</p></td>
 <tr>
 <td><p>6, life-threatening</p></td>
 <td><p>Stabilise, then definitive care before natural recovery begins
-(§6.7)</p></td>
+(<a href="#core-dying-stabilisation">§6.7</a>)</p></td>
 </tr>
 </tbody>
 </table>
@@ -2148,11 +2232,12 @@ allows recovery, and whether treatment cures it or only eases the
 symptoms. A setting book can give specific afflictions, and creatures
 that recover in unusual ways, their own rules; where it does, those
 rules win.</p>
-<h3 id="s-6-7-dying-and-stabilisation">6.7 Dying and Stabilisation</h3>
+<h3 id="core-dying-stabilisation">6.7 Dying and Stabilisation</h3>
 <p><strong>Becoming Dying.</strong> After Resistance and stacking,
 life-threatening physical harm that reaches tier 6 makes a living
 character <strong>Dying</strong>, if lethal stakes allow that outcome
-(§10.2). It also gives a Scar as normal (§6.3), unless an explicit
+(<a href="#core-setup">§10.2</a>). It also gives a Scar as normal
+(<a href="#core-tier-6-scars">§6.3</a>), unless an explicit
 breaking-point replacement applies. The character is incapacitated and
 can’t take ordinary actions. Start a <strong>3-segment Dying
 clock</strong>. There is no extra <em>dying</em> penalty; the injury
@@ -2179,7 +2264,8 @@ fitting supernatural method can offer another way.</p>
 <li><p><strong>Success:</strong> the patient is stable and the clock
 stops.</p></li>
 <li><p><strong>Success at a Cost:</strong> stable, with the normal cost,
-subject to §10.7 inside conflicts.</p></li>
+subject to <a href="#core-costs-failures-complications">§10.7</a>
+inside conflicts.</p></li>
 <li><p><strong>Failure:</strong> still Dying. The attempt uses the
 action, but doesn’t advance the clock.</p></li>
 </ul>
@@ -2198,47 +2284,50 @@ met. When definitive care brings the injury below tier 6 and removes its
 immediate lethal cause, clear the Dying clock.</p>
 <p><strong>Immediate death.</strong> Use it only when the established
 outcome leaves no plausible time for rescue, or a specific killing
-method calls for it (such as a creature’s killing strike in a setting
-book). Announce that danger before the roll, and allow Resistance,
-escape or interruption where their rules permit it; accepted payments
-cannot be cancelled through these general options. Once such an outcome
-is fully resolved, don’t add a Dying clock to undo it; equally, don’t
-skip the clock for an ordinary mortal wound just because the description
-is graphic. Resolve permitted post-conflict finishing procedures before
-compromise (§10.12).</p>
+method calls for it (such as a creature’s finishing procedure in a
+setting book). Announce that danger before the roll, and allow
+Resistance, escape or interruption where their rules permit it; accepted
+payments cannot be cancelled through these general options. Once such an
+outcome is fully resolved, don’t add a Dying clock to undo it; equally,
+don’t skip the clock for an ordinary mortal wound just because the
+description is graphic. Resolve permitted post-conflict finishing
+procedures before compromise (<a
+href="#core-defeat-mutual-defeat-concession">§10.12</a>).</p>
 <p><strong>Setting-specific harm.</strong> Use a condition’s specific
 tiers, treatment and breaking-point rules where stated. Replace the core
 Dying clock only if its rule explicitly supplies an alternative death or
 stabilisation procedure; different condition tiers alone do not replace
-it. Testament of Dust’s Bled uses its own tiers and recovery rules but
-retains the core three-segment Dying clock at lethal Bled-6. Do not run
-a second death deadline alongside it.</p>
+it. A condition with its own tiers but no death procedure still uses the
+core Dying clock when it reaches a lethal tier 6. Never run a second
+death deadline alongside it.</p>
 <p><strong>After a death.</strong> Resolve the death and its established
 consequences. The group may remember the character through Beliefs,
 relationships, keepsakes or later story developments; death creates no
 separate points or automatic Truth.</p>
-<h3 id="s-6-8-permanent-harm">6.8 Permanent Harm</h3>
+<h3 id="core-permanent-harm">6.8 Permanent Harm</h3>
 <p><strong>Where it comes from.</strong> An injury doesn’t become
 permanent just because its tier is high. Permanent harm needs an
 established permanent-injury stake, a specific effect or creature rule,
 a voluntary bargain, or a Scar-giving event. Reaching tier 6 gives a
-Scar (§6.3), not a permanent loss.</p>
+Scar (<a href="#core-tier-6-scars">§6.3</a>), not a permanent
+loss.</p>
 <p><strong>The wound heals; the loss stays.</strong> A permanent change
 can outlast the injury that caused it. When <em>severed hand-4</em> has
 healed, the hand is still gone: the status measured the acute wound.
 Record the lasting change as a tag or a character fact, not as a status
 that never heals.</p>
-<p><strong>Adapting.</strong> Training, help, prostheses, old-world
-works or supernatural intervention can change how permanent harm affects
-play. A replacement doesn’t automatically remove a related Scar, and a
-Scar doesn’t make a replacement useless. Don’t reduce maximum pools,
-Edge, skills or Refresh unless the effect or an agreed Advance says
-so.</p>
-<h2 id="s-7-progress-clocks">7. Progress Clocks</h2>
+<p><strong>Adapting.</strong> Training, help, prostheses, advanced
+technology or supernatural intervention can change how permanent harm
+affects play. A replacement doesn’t automatically remove a related Scar,
+and a Scar doesn’t make a replacement useless. Don’t reduce maximum
+pools, Edge, skills or Refresh unless the effect or an agreed Advance
+says so.</p>
+<h2 id="core-progress-clocks">7. Progress Clocks</h2>
 <ul>
 <li><p><strong>Sizes:</strong> 4 (simple), 6 (complex), 8 (daunting), 12
 (epic). Specific rules may prescribe other sizes, such as the 3-segment
-Dying clock (§6.7).</p></li>
+Dying clock (<a
+href="#core-dying-stabilisation">§6.7</a>).</p></li>
 <li><p><strong>Player clocks</strong> tick with the
 <strong>Advance</strong> effect (1 Power = 1 segment).</p></li>
 <li><p><strong>Danger clocks</strong> tick when the GM spends Woe (1 Woe
@@ -2257,11 +2346,11 @@ including 6 segments.</p></li>
 <p><strong>Specific procedures govern.</strong> A clock’s own rule sets
 its triggers, pace and permitted spends, and the general lines above
 don’t override it. Examples: the Grind (Module B) and the Dying clock
-(§6.7).</p>
+(<a href="#core-dying-stabilisation">§6.7</a>).</p>
 <p><strong>Clocks are not Disposition.</strong> A clock measures its
 named goal; Disposition measures a side’s ability to pursue a conflict
-(§10.18).</p>
-<h2 id="s-8-truths">8. Truths</h2>
+(<a href="#core-conflict-limits-reference">§10.18</a>).</p>
+<h2 id="core-truths">8. Truths</h2>
 <p>A <strong>Truth</strong> is an established fact about a person,
 group, object, place or the world. It can permit or prevent an approach,
 set a requirement, establish a danger or define the setting.</p>
@@ -2269,9 +2358,10 @@ set a requirement, establish a danger or define the setting.</p>
 change rolls, Difficulty, Power, status tiers, Situational Condition
 ratings or Disposition by itself. When a circumstance should help or
 hinder a roll by a number, record it as a <strong>Situational
-Condition</strong> (§5.2). One circumstance can be both: <em>Barred
-River Gate</em> is a Truth; <em>Thick Smoke 3</em> is a Situational
-Condition.</p>
+Condition</strong> (<a
+href="#core-situational-conditions">§5.2</a>). One circumstance
+can be both: <em>Barred River Gate</em> is a Truth; <em>thick smoke
+3</em> is a Situational Condition.</p>
 <ul>
 <li><p><strong>Permission:</strong> <em>a drainage tunnel reaches the
 inner courtyard</em>.</p></li>
@@ -2284,9 +2374,10 @@ cellar</em>.</p></li>
 <li><p><strong>World fact:</strong> <em>magic is real but
 feared</em>.</p></li>
 </ul>
-<h3 id="s-8-1-possibility-before-difficulty">8.1 Possibility Before
+<h3 id="core-possibility-before-difficulty">8.1 Possibility Before
 Difficulty</h3>
-<p>Check relevant Truths before anyone rolls (§2.2):</p>
+<p>Check relevant Truths before anyone rolls (<a
+href="#core-difficulty-ladder">§2.2</a>):</p>
 <ul>
 <li><p><strong>Possible and uncertain:</strong> roll normally.</p></li>
 <li><p><strong>Prevented:</strong> explain the restriction. The
@@ -2302,7 +2393,7 @@ for numerical interference and a Truth for a categorical limit. Poor
 visibility can hinder observation; complete darkness can rule out
 ordinary visual identification. Don’t penalise an impossible attempt
 instead of explaining why it can’t work.</p>
-<h3 id="s-8-2-scale">8.2 Scale</h3>
+<h3 id="core-scale">8.2 Scale</h3>
 <table>
 <thead>
 <tr>
@@ -2335,34 +2426,34 @@ feared</em>, <em>The Corporation owns the police</em>). Scene-scale
 Creates and spends can’t rewrite Site, Region or Campaign Truths; that
 takes the projects and major arcs in <strong>Module C</strong>, which
 also covers using Truths to drive a sandbox campaign.</p>
-<h3 id="s-8-3-establishing-and-recording">8.3 Establishing and
-Recording</h3>
+<h3 id="core-establishing-recording">8.3 Establishing and Recording</h3>
 <p>Truths come from agreed setup, actions, discovery, explicit abilities
 or purchases, and binding consequences or concessions. Recording a fact
 that already exists costs nothing.</p>
 <ul>
 <li><p><strong>Creating Truths:</strong> players use the
-<strong>Create</strong> effect (2 Power, §5) or spend <strong>2
-Weal</strong> the GM spends <strong>2 Woe</strong> (§9). A created Truth
-is scene scale and lasts for the scene; only Create can pay +1 Power to
-make it outlast the scene (§5). It grants no Situational Condition
-rating.</p></li>
+<strong>Create</strong> effect (2 Power, <a
+href="#core-effects">§5</a>) or spend <strong>2 Weal</strong> the
+GM spends <strong>2 Woe</strong> (<a
+href="#core-weal-woe">§9</a>). A created Truth is scene scale and
+lasts for the scene; only Create can pay +1 Power to make it outlast the
+scene (<a href="#core-effects">§5</a>). It grants no Situational
+Condition rating.</p></li>
 <li><p><strong>State it first.</strong> Say what fact you intend to
 create before its action resolves, and agree its scope, requirements,
 cost and consequences. A Truth can’t contradict resolved events, exceed
 the action’s reach, grant an unrelated objective, decide another
 character’s choices without their player’s agreement, or widen agreed
 stakes.</p></li>
-<li><p><strong>Recording a Truth.</strong> Use the standard format (§5):
-<strong>Name — Truth/scale — scope and what it implies — ending
-condition</strong>. It applies only within its scope, and a removal
-condition never extends a duration. <em>Barred River Gate</em> —
-Truth/Scene — the gate can’t open normally until its inner bar is
-lifted, broken or bypassed — ends when the bar no longer secures
-it.</p></li>
+<li><p><strong>Recording a Truth.</strong> Use the standard format (<a
+href="#core-effects">§5</a>): <strong>Name — Truth/scale — scope
+and what it implies — ending condition</strong>. It applies only within
+its scope, and a removal condition never extends a duration. <em>Barred
+River Gate</em> — Truth/Scene — the gate can’t open normally until its
+inner bar is lifted, broken or bypassed — ends when the bar no longer
+secures it.</p></li>
 </ul>
-<h3 id="s-8-4-changing-and-ending-truths">8.4 Changing and Ending
-Truths</h3>
+<h3 id="core-changing-ending-truths">8.4 Changing and Ending Truths</h3>
 <ul>
 <li><p><strong>Change the fact.</strong> Lift the bar, disperse the gas,
 repair the bridge, obtain the seal. Use no roll, a test, a conflict or a
@@ -2378,28 +2469,29 @@ authorisation lapses. Its end never reverses a completed action or
 erases a consequence; a crossing already made isn’t undone when the
 route closes. Removing a cause doesn’t heal a separate injury.</p></li>
 </ul>
-<h3 id="s-8-5-dangers-and-conflicts">8.5 Dangers and Conflicts</h3>
+<h3 id="core-dangers-conflicts">8.5 Dangers and Conflicts</h3>
 <ul>
 <li><p><strong>Dangerous circumstances.</strong> A circumstance is
 dangerous when it carries established lethal stakes or a listed Danger
-(<em>Gas Leak</em>, <em>Collapsing Floor</em> §10.8), not because of a
+(<em>Gas Leak</em>, <em>Collapsing Floor</em> <a
+href="#core-scenery-maneuvers">§10.8</a>), not because of a
 rating. It can be a Truth, a Situational Condition or both. Record its
 scope, what exposes someone to it, its consequence, and how it can be
 avoided, Resisted or mitigated. Woe from dangerous circumstances is
-capped per scene (§9.2).</p></li>
+capped per scene (<a href="#core-woe">§9.2</a>).</p></li>
 <li><p><strong>In conflicts,</strong> Truths set approaches and scenery.
 They don’t by themselves cancel scripts, grant turns, change
 Disposition, take participants out, override action interactions or
 settle a disputed objective; only an explicit ability can. If changing a
 Truth could settle the conflict, establish that before the deciding
-action resolves. Conflicts add further limits on creating Truths
-(§10.18).</p></li>
+action resolves. Conflicts add further limits on creating Truths (<a
+href="#core-conflict-limits-reference">§10.18</a>).</p></li>
 </ul>
 <p><strong>Invoking a Truth.</strong> A Truth carries no modifier, but
-it can still justify a Tychē Invoke (§4).</p>
-<h2 id="s-9-weal-and-woe">9. Weal and Woe</h2>
-<h3 id="s-9-1-weal-shared-by-the-party-max-6">9.1 Weal (shared by the
-party, max 6)</h3>
+it can still justify a Tychē Invoke (<a
+href="#core-tyche-points">§4</a>).</p>
+<h2 id="core-weal-woe">9. Weal and Woe</h2>
+<h3 id="core-weal">9.1 Weal (shared by the party, max 6)</h3>
 <p><strong>Gain:</strong> unspent Power from rolls.
 <strong>Decay:</strong> lose 1 Weal at the end of each scene.</p>
 <table>
@@ -2427,8 +2519,8 @@ party, max 6)</h3>
 <td><p>2</p></td>
 </tr>
 <tr>
-<td><p>Change one unrevealed scripted action in a conflict
-(§10.5)</p></td>
+<td><p>Change one unrevealed scripted action in a conflict (<a
+href="#core-scripting-volleys">§10.5</a>)</p></td>
 <td><p>2</p></td>
 </tr>
 <tr>
@@ -2438,20 +2530,22 @@ party, max 6)</h3>
 </tbody>
 </table>
 <p><strong>Truths, not ratings.</strong> Create a Truth buys one
-justified scene-scale fact at an appropriate moment (§8.3). It grants no
-extra action, automatic success, Situational Condition rating or result
-beyond the stakes, and in a conflict it follows normal timing and
-permissions (§10.18). There is no Weal or Woe purchase of status tiers
-or Condition ratings: when the point is numerical help or interference,
-use an action that buys a Condition, an Effect or an explicit ability.
-Buying the existence of a maintenance passage establishes an approach,
-not <em>prepared escape routes 2</em> buying a smoke pot supplies the
-pot, and using it follows its own rules.</p>
+justified scene-scale fact at an appropriate moment (<a
+href="#core-establishing-recording">§8.3</a>). It grants no extra
+action, automatic success, Situational Condition rating or result beyond
+the stakes, and in a conflict it follows normal timing and permissions
+(<a href="#core-conflict-limits-reference">§10.18</a>). There is
+no Weal or Woe purchase of status tiers or Condition ratings: when the
+point is numerical help or interference, use an action that buys a
+Condition, an Effect or an explicit ability. Buying the existence of a
+maintenance passage establishes an approach, not <em>prepared escape
+routes 2</em> buying a smoke pot supplies the pot, and using it follows
+its own rules.</p>
 <p><strong>Paying with Woe.</strong> When the party is short, the GM may
 let you pay any spend except <em>Reduce Woe</em>, in whole or in part,
 by giving the GM 1 Woe per Weal. Bonus dice can always be paid this way
-(§2.4).</p>
-<h3 id="s-9-2-woe-the-gm-s-pool">9.2 Woe (the GM's pool)</h3>
+(<a href="#core-bonus-dice-effort">§2.4</a>).</p>
+<h3 id="core-woe">9.2 Woe (the GM's pool)</h3>
 <p><strong>Starting Woe:</strong> 2 per PC at the start of a
 session.</p>
 <p><strong>The GM gains Woe from:</strong></p>
@@ -2461,11 +2555,12 @@ point);</p></li>
 <li><p>Success at a Cost, if the player chooses Woe (+1);</p></li>
 <li><p>failures (+1);</p></li>
 <li><p>complications bought off (+2);</p></li>
-<li><p>refused compels;</p></li>
-<li><p>Escalation (+1, §9.3);</p></li>
-<li><p>a dangerous circumstance (lethal stakes or a listed Danger, §8.5)
-first becoming relevant in a scene: +1, and no more than +1 per scene
-from dangerous circumstances in total.</p></li>
+<li><p>Escalation (+1, <a
+href="#core-escalation">§9.3</a>);</p></li>
+<li><p>a dangerous circumstance (lethal stakes or a listed Danger, <a
+href="#core-dangers-conflicts">§8.5</a>) first becoming relevant
+in a scene: +1, and no more than +1 per scene from dangerous
+circumstances in total.</p></li>
 </ul>
 <table>
 <thead>
@@ -2500,16 +2595,18 @@ from dangerous circumstances in total.</p></li>
 <td><p>1 per minion, 3 for a significant NPC</p></td>
 </tr>
 <tr>
-<td><p>Change one unrevealed action in the NPC side’s script
-(§10.5)</p></td>
+<td><p>Change one unrevealed action in the NPC side’s script (<a
+href="#core-scripting-volleys">§10.5</a>)</p></td>
 <td><p>3</p></td>
 </tr>
 <tr>
-<td><p>Cancel an NPC’s complication from the dice (§2.6)</p></td>
+<td><p>Cancel an NPC’s complication from the dice (<a
+href="#core-doubles">§2.6</a>)</p></td>
 <td><p>2</p></td>
 </tr>
 <tr>
-<td><p>Make a roll Risky 1, or raise its Risk by 1 (§2.7)</p></td>
+<td><p>Make a roll Risky 1, or raise its Risk by 1 (<a
+href="#core-risky-rolls">§2.7</a>)</p></td>
 <td><p>1</p></td>
 </tr>
 </tbody>
@@ -2525,9 +2622,10 @@ Condition. Use a listed effect or an NPC action when numerical
 interference is intended; Conditions can still arise from properly
 resolved failures, hazards or explicit abilities.</p>
 <p><strong>In conflicts,</strong> failure, Success at a Cost and Woe
-spends follow §10.7. Explicit Woe spends, Specials, hazards and Risky
-rolls keep their stated effects.</p>
-<h3 id="s-9-3-escalation">9.3 Escalation</h3>
+spends follow <a
+href="#core-costs-failures-complications">§10.7</a>. Explicit Woe
+spends, Specials, hazards and Risky rolls keep their stated effects.</p>
+<h3 id="core-escalation">9.3 Escalation</h3>
 <p>Some acts and items make a situation more dangerous just by being
 there. They carry the <strong>Escalation</strong> tag. It gives no bonus
 and doesn’t count toward the tag cap.</p>
@@ -2546,7 +2644,7 @@ Woe</strong> before any roll.</p>
 hold no more than one or two Escalation items. Settings list their
 own.</p></li>
 </ul>
-<h2 id="s-10-conflict-system">10. Conflict System</h2>
+<h2 id="core-conflict-system">10. Conflict System</h2>
 <p>Use a scripted conflict for a consequential struggle in which
 opposing sides can make several meaningful tactical decisions. A
 conflict might be a fight, chase, argument, negotiation, infiltration,
@@ -2557,9 +2655,9 @@ and secretly chooses three actions. Reveal and resolve those actions one
 volley at a time. Continue until one side wins, both sides are defeated,
 or the participants agree to a concession.</p>
 <p><strong>Disposition</strong> measures a side’s ability to keep
-pursuing its objective. It is not health, ammunition, morale alone, or a
+pursuing its objective. It isn’t health, ammunition, morale alone, or a
 count of individual participants.</p>
-<h3 id="s-10-1-when-to-use-a-conflict">10.1 When to Use a Conflict</h3>
+<h3 id="core-when-use-conflict">10.1 When to Use a Conflict</h3>
 <p>Use a scripted conflict when all three conditions are present:</p>
 <ul>
 <li><p>The outcome matters enough to deserve sustained
@@ -2570,8 +2668,8 @@ outcome.</p></li>
 ends.</p></li>
 </ul>
 <p>Otherwise, use an ordinary roll or resolve the situation without
-rolling. A named opponent, a dangerous situation, or a large group does
-not automatically require a conflict.</p>
+rolling. A named opponent, a dangerous situation, or a large group
+doesn’t automatically require a conflict.</p>
 <h4 id="each-side-needs-an-objective">Each Side Needs an Objective</h4>
 <p>State what each side wants to accomplish, not merely what it wants to
 prevent. Suitable objectives include:</p>
@@ -2588,15 +2686,15 @@ the enemy usually needs more definition.</p>
 <p>Environmental opposition also needs a stated outcome: the storm
 strands the travellers, the fire consumes the archive, or the river
 carries away the crossing.</p>
-<h3 id="s-10-2-setup">10.2 Setup</h3>
+<h3 id="core-setup">10.2 Setup</h3>
 <p>Complete these steps before scripting:</p>
 <ol>
 <li><p>Declare intent and stakes.</p></li>
 <li><p>Choose the conflict type.</p></li>
 <li><p>Establish participants and sides.</p></li>
 <li><p>Calculate starting Disposition.</p></li>
-<li><p>Apply Superiority to both sides and resolve any setup defeat
-(§10.3).</p></li>
+<li><p>Apply Superiority to both sides and resolve any setup defeat (<a
+href="#core-superiority">§10.3</a>).</p></li>
 <li><p>Record the adjusted starting Disposition.</p></li>
 <li><p>Establish the acting order and script the first
 exchange.</p></li>
@@ -2607,7 +2705,7 @@ allows the opposition to do and whether capture, death, permanent
 injury, exposure, or another lasting consequence is possible.</p>
 <p>Discuss what withdrawal or concession could look like.</p>
 <p>Intent limits victory. Defeating a side whose objective is to hold a
-doorway does not automatically let the winner kill everyone, seize
+doorway doesn’t automatically let the winner kill everyone, seize
 unrelated possessions, or achieve another objective.</p>
 <h4 id="lethal-stakes">Lethal Stakes</h4>
 <p>Establish lethal stakes before the roll or exchange that could
@@ -2615,21 +2713,23 @@ produce a lethal outcome.</p>
 <p>Stakes may change when circumstances change, but never retroactively.
 Explain the new danger and allow affected participants to respond before
 resolving it.</p>
-<p>Lethal stakes make death possible, not automatic (§10.12).</p>
+<p>Lethal stakes make death possible, not automatic (<a
+href="#core-defeat-mutual-defeat-concession">§10.12</a>).</p>
 <h4 id="participants">Participants</h4>
 <p>A participant must be able to contribute to the side’s objective.
 <strong>Backing</strong> the side at setup commits a character to that
 side’s stakes. Helping an action during the conflict likewise makes the
 helper a participant if they were not already involved.</p>
-<p>A character who cannot meaningfully contribute may remain outside the
-conflict. Do not include them merely to increase Disposition. Companions
-and groups follow §10.9.</p>
+<p>A character who can’t meaningfully contribute may remain outside the
+conflict. Don’t include them merely to increase Disposition. Companions
+and groups follow <a
+href="#core-shared-disposition-participation">§10.9</a>.</p>
 <h4 id="starting-disposition">Starting Disposition</h4>
 <p>The leader normally rolls <strong>2d12 + Disposition skill + highest
 Edge in that skill’s pool</strong>. Divide the result by three, rounding
 down. Then:</p>
 <ul>
-<li><p>Add +1 per eligible backer. Backing is not Help: it costs no pool
+<li><p>Add +1 per eligible backer. Backing isn’t Help: it costs no pool
 points and gives no bonus die. Before the leader rolls, each backer
 explains a meaningful contribution and commits to the side’s stakes. A
 free-Help ability adds nothing more unless it says so.</p></li>
@@ -2637,19 +2737,19 @@ free-Help ability adds nothing more unless it says so.</p></li>
 abilities, creature rank, conditions, and similar effects; these have no
 stacking cap.</p></li>
 <li><p>Apply a minimum of 1.</p></li>
-<li><p>Apply opposing Superiority (§10.3).</p></li>
+<li><p>Apply opposing Superiority (<a
+href="#core-superiority">§10.3</a>).</p></li>
 </ul>
 <p>Record the adjusted total. It stays fixed for the conflict as the
 recovery cap and compromise reference, even if participants later leave
-(§10.9).</p>
+(<a href="#core-shared-disposition-participation">§10.9</a>).</p>
 <p><strong>Adversary exception.</strong> Sides built with Grit use the
-Adversaries setup procedure instead of the leader’s Disposition roll.
-Preserve explicit exceptions such as Guard when resolving independent
-tests.</p>
+Adversaries setup procedure instead of the leader’s Disposition
+roll.</p>
 <h4 id="continuing-the-same-conflict">Continuing the Same Conflict</h4>
 <p>Set fresh Disposition only for a genuinely new conflict with a
 materially different objective or changed circumstances. Passing through
-a doorway, changing tactics, or turning a Fight into a Chase does not by
+a doorway, changing tactics, or turning a Fight into a Chase doesn’t by
 itself begin a new conflict. Carry forward:</p>
 <ul>
 <li><p>Current and starting Disposition.</p></li>
@@ -2659,9 +2759,9 @@ itself begin a new conflict. Carry forward:</p>
 continuing effects.</p></li>
 </ul>
 <p>If the type changes, establish the new action skills before the next
-exchange. Do not reapply setup bonuses merely because the type
+exchange. Don’t reapply setup bonuses merely because the type
 changes.</p>
-<h3 id="s-10-3-superiority">10.3 Superiority</h3>
+<h3 id="core-superiority">10.3 Superiority</h3>
 <p>Preparation can weaken an opposing side before the conflict begins.
 Gain 1 Superiority for each applicable category, to a maximum of 3:</p>
 <ul>
@@ -2675,17 +2775,18 @@ alliance, resource, or other preparation.</p></li>
 </ul>
 <p>Each category applies once and requires a distinct material advantage
 affecting the opposing side and the declared stakes. Rephrasing one
-advantage does not qualify it for several categories.</p>
+advantage doesn’t qualify it for several categories.</p>
 <p>After all other starting-Disposition modifiers and the minimum of 1,
 reduce each opposing total by your Superiority, to a minimum of 0.
 Determine both adjusted totals before resolving the outcome. Superiority
-is not tracked or spent afterward.</p>
+isn’t tracked or spent afterward.</p>
 <h4 id="overwhelming-preparation">Overwhelming Preparation</h4>
 <ul>
 <li><p>Only one side at 0: its opponent wins at no cost, within the
-declared intent and stakes. Do not script exchanges or calculate
+declared intent and stakes. Don’t script exchanges or calculate
 compromise.</p></li>
-<li><p>Both sides at 0: resolve mutual defeat (§10.12), without
+<li><p>Both sides at 0: resolve mutual defeat (<a
+href="#core-defeat-mutual-defeat-concession">§10.12</a>), without
 scripting or a winner’s compromise. Neither receives an outright or
 no-cost victory.</p></li>
 <li><p>Neither side at 0: record both totals and proceed to
@@ -2708,9 +2809,9 @@ These benefits perform different jobs:</p>
 <li><p>A Situational Condition modifies relevant rolls; a Truth
 establishes what is possible.</p></li>
 </ul>
-<p>Apply each only when its requirements are met. One asset does not
+<p>Apply each only when its requirements are met. One asset doesn’t
 automatically provide all four.</p>
-<h3 id="s-10-4-conflict-types">10.4 Conflict Types</h3>
+<h3 id="core-conflict-types">10.4 Conflict Types</h3>
 <p>The conflict type determines which skills establish Disposition and
 resolve actions.</p>
 <table>
@@ -2767,7 +2868,7 @@ resolve actions.</p>
 </tr>
 <tr>
 <td><p>Battle</p></td>
-<td><p>Lore (tactics)</p></td>
+<td><p>Lore, applied to tactics</p></td>
 <td><p>Fight</p></td>
 <td><p>Endure</p></td>
 <td><p>Deceive</p></td>
@@ -2801,9 +2902,9 @@ resolve actions.</p>
 </table>
 <p>A dash means the action is unavailable. Settings may add types. Each
 needs a Disposition skill and a skill for every available action. Use
-the listed skill that fits the description. An action’s name does not
+the listed skill that fits the description. An action’s name doesn’t
 remove the need for a plausible approach.</p>
-<h3 id="s-10-5-scripting-and-volleys">10.5 Scripting and Volleys</h3>
+<h3 id="core-scripting-volleys">10.5 Scripting and Volleys</h3>
 <p>Each exchange contains three volleys.</p>
 <p>Each side secretly scripts three actions in order, assigning an
 eligible participant to each. Both sides commit their scripts before
@@ -2814,13 +2915,13 @@ conflict ends.</p>
 <p>If it continues, script another exchange.</p>
 <h4 id="coordination-and-rotation">Coordination and Rotation</h4>
 <p>A side may appoint a coordinator to record its script and acting
-order. The coordinator does not have exclusive authority over the
-group’s decisions. Rotation runs in rounds and carries across exchanges.
-Each round, every available participant acts once, in any order, and
-nobody acts in two volleys in a row unless they are the only one
-available. Helping does not count as a turn. Update rotation when
-someone joins, withdraws, or becomes unable to act. Assigning an action
-that later proves unsuitable does not permit a free replacement.</p>
+order. The coordinator doesn’t have exclusive authority over the group’s
+decisions. Rotation runs in rounds and carries across exchanges. Each
+round, every available participant acts once, in any order, and nobody
+acts in two volleys in a row unless they are the only one available.
+Helping doesn’t count as a turn. Update rotation when someone joins,
+withdraws, or becomes unable to act. Assigning an action that later
+proves unsuitable doesn’t permit a free replacement.</p>
 <h4 id="changing-a-script">Changing a Script</h4>
 <p>Before revealing a volley, spend 2 Weal for the players” side or 3
 Woe for the GM’s side.</p>
@@ -2868,19 +2969,22 @@ explicit ability allows reassignment.</p>
 </tr>
 </tbody>
 </table>
-<p>Independent actions both resolve, even if one defeats a side or takes
-its actor out. Complete each action’s costs, choices and effects before
-removing a participant because of that action; check victory after both
-independent actions finish.</p>
+<p><strong>Action completion.</strong> Independent actions both resolve,
+even if one defeats a side or takes its actor out. Complete each
+action’s costs, choices and effects before removing a participant
+because of that action; check victory after both independent actions
+finish.</p>
 <p>A trumped action makes no roll and produces no effect. Describe the
-failed approach briefly. Failure, Woe and doubles use §10.7.</p>
+failed approach briefly. Failure, Woe and doubles use <a
+href="#core-costs-failures-complications">§10.7</a>.</p>
 <p>In short: Feint beats Defend and loses to Attack; two Attacks, two
 Defends or two Maneuvers are independent; every other pair is
 versus.</p>
 <h4 id="independent-tests">Independent Tests</h4>
 <p>Roll against Standard 15, adjusted by explicit difficulty modifiers
 such as adversary Guard; statuses and Situational Conditions modify the
-roll (§2.1), and Truths decide what is possible (§8). Determine Power
+roll (<a href="#core-roll">§2.1</a>), and Truths decide what is
+possible (<a href="#core-truths">§8</a>). Determine Power
 normally.</p>
 <h4 id="versus-tests">Versus Tests</h4>
 <p>Both actors roll. The higher total wins and gains 1 Power, plus 1 for
@@ -2888,10 +2992,10 @@ every full 3 points of margin. Winning prevents the opposing action’s
 normal effect, even if all Power funds permitted supplementary Effects
 rather than loss or recovery.</p>
 <p>On an exact tie, neither action gains Power or produces its normal
-effect. Costs already paid remain spent. Success at a Cost does not turn
+effect. Costs already paid remain spent. Success at a Cost doesn’t turn
 a losing versus roll into success. Resolve doubles and complications
-under §10.7.</p>
-<h3 id="s-10-6-actions-and-effects">10.6 Actions and Effects</h3>
+under <a href="#core-costs-failures-complications">§10.7</a>.</p>
+<h3 id="core-actions-effects">10.6 Actions and Effects</h3>
 <p>Describe how the action pursues your side’s objective.</p>
 <table>
 <thead>
@@ -2959,9 +3063,9 @@ character.</p></td>
 </tr>
 </tbody>
 </table>
-<p>Losing one does not automatically reduce the others. Ordinary Attack
+<p>Losing one doesn’t automatically reduce the others. Ordinary Attack
 and Feint remove Disposition only, not Pools or statuses.</p>
-<p>Armour and Resistance do not reduce ordinary Disposition loss unless
+<p>Armour and Resistance don’t reduce ordinary Disposition loss unless
 an explicit rule says otherwise. Defend restores Disposition, not Pools,
 statuses, equipment or established losses.</p>
 <h4 id="attack">Attack</h4>
@@ -2971,8 +3075,10 @@ purchase. With no Power committed to this effect, remove no
 Disposition.</p>
 <h4 id="defend">Defend</h4>
 <p>Restore 1 Disposition per Power committed, up to your side’s starting
-value (§10.9). With no Power committed to this effect, restore none
-unless a specific ability grants recovery independently.</p>
+value (<a
+href="#core-shared-disposition-participation">§10.9</a>). With no
+Power committed to this effect, restore none unless a specific ability
+grants recovery independently.</p>
 <h4 id="feint">Feint</h4>
 <p>Use Attack’s Power commitment and Disposition-loss calculation. Feint
 resolves independently against Defend, is trumped by Attack, and opposes
@@ -3009,14 +3115,16 @@ conflict.</p></td>
 <tr>
 <td><p>Create a Truth</p></td>
 <td><p>2</p></td>
-<td><p>Establish a justified scene Truth (§8.3), applying explicit
+<td><p>Establish a justified scene Truth (<a
+href="#core-establishing-recording">§8.3</a>), applying explicit
 discounts and the normal minimum cost.</p></td>
 </tr>
 <tr>
 <td><p>Create a Situational Condition</p></td>
 <td><p>2 per rating</p></td>
-<td><p>Establish a rated external advantage or problem (§5.2), applying
-explicit discounts and the normal minimum cost.</p></td>
+<td><p>Establish a rated external advantage or problem (<a
+href="#core-situational-conditions">§5.2</a>), applying explicit
+discounts and the normal minimum cost.</p></td>
 </tr>
 </tbody>
 </table>
@@ -3028,40 +3136,41 @@ Ongoing Conditions</h4>
 <p>Impede and Gain Position apply to the affected side’s next scripted
 action, including across an exchange boundary. If that action is trumped
 or otherwise makes no roll, the effect expires unused. Record a pending
-effect like any temporary fact (§5): <em>Gain Position</em> — tactical
-benefit, +1 bonus die — your side’s next scripted action roll — expires
-on that action, unused if it is trumped or makes no roll.</p>
+effect like any temporary fact (<a href="#core-effects">§5</a>):
+<em>Gain Position</em> — tactical benefit, +1 bonus die — your side’s
+next scripted action roll — expires on that action, unused if it is
+trumped or makes no roll.</p>
 <p>Neither applies to unrelated Resistance or incidental rolls. Gain
 Position counts toward the normal bonus-dice cap.</p>
-<p>Additional grants do not stack, refresh or extend pending Gain
-Position. Covering Move cannot activate while pending or already
-declared for its Maneuver (Adversaries §6.18).</p>
-<p>Impede is not a tiered status. Multiple pending Impedes do not stack,
-increase its penalty or extend its duration. Restore does not remove it
-merely because Restore removes statuses. Impede does not itself
-restrain, immobilise or render someone helpless.</p>
+<p>Additional grants don’t stack, refresh or extend pending Gain
+Position.</p>
+<p>Impede isn’t a tiered status. Multiple pending Impedes don’t stack,
+increase its penalty or extend its duration. Restore doesn’t remove it
+merely because Restore removes statuses. Impede doesn’t itself restrain,
+immobilise or render someone helpless.</p>
 <p>An ongoing hindrance needs its own name, tier or rating, scope and
-removal condition (§5), and Impede and other tactical effects don’t
-become statuses or Conditions automatically. For example:
-<em>Entangled</em> — harmful status 2 — movement and actions requiring
-free limbs — ends when the net is cut or the target escapes. State
-fictional restrictions directly; a helpless body or inaccessible weapon
-is not shorthand for temporary Impede.</p>
+removal condition (<a href="#core-effects">§5</a>), and Impede and
+other tactical effects don’t become statuses or Conditions
+automatically. For example: <em>Entangled</em> — harmful status 2 —
+movement and actions requiring free limbs — ends when the net is cut or
+the target escapes. State fictional restrictions directly; a helpless
+body or inaccessible weapon isn’t shorthand for temporary Impede.</p>
 <h4 id="disarming-and-denying-options">Disarming and Denying
 Options</h4>
 <p>Identify the disabled asset and explain how. Disabling one asset
 removes an action category only if it was the side’s only plausible
 means of performing that action. A replacement may restore access when
-the fiction permits. Switching equipment does not itself change a
+the fiction permits. Switching equipment doesn’t itself change a
 script.</p>
 <h4 id="supplementary-effects-reference">Supplementary Effects
 Reference</h4>
 <p>A successful action may buy its primary effect and the permitted
 supplementary Effects below, using one Power budget. No primary purchase
 is mandatory.</p>
-<p>Fictional relevance is required, but does not unlock prohibited
+<p>Fictional relevance is required, but doesn’t unlock prohibited
 purchases or harmful-status purchases on ordinary Attacks or Feints.
-General prices and treatment rules remain in §5.</p>
+General prices and treatment rules remain in <a
+href="#core-effects">§5</a>.</p>
 <table>
 <thead>
 <tr>
@@ -3075,7 +3184,8 @@ General prices and treatment rules remain in §5.</p>
 <tr>
 <td><p>Weaken</p></td>
 <td><p>Explicit ability only; any action</p></td>
-<td><p>As permitted by the ability and §5</p></td>
+<td><p>As permitted by the ability and <a
+href="#core-effects">§5</a></p></td>
 <td><p>Not a cheaper Disarm. Use Maneuver’s priced Disarm to disable an
 asset.</p></td>
 </tr>
@@ -3090,14 +3200,14 @@ Condition.</p></td>
 <tr>
 <td><p>Enhance</p></td>
 <td><p>Defend or Maneuver</p></td>
-<td><p>Normal tier price (§5)</p></td>
+<td><p>Normal tier price (<a href="#core-effects">§5</a>)</p></td>
 <td><p>A helpful personal status; normal scope and stacking. Harmful
 statuses need an explicit harm permission.</p></td>
 </tr>
 <tr>
 <td><p>Restore</p></td>
 <td><p>Defend</p></td>
-<td><p>Normal tier price (§5)</p></td>
+<td><p>Normal tier price (<a href="#core-effects">§5</a>)</p></td>
 <td><p>Normal scope, stacking and treatment limits. Maneuver has no
 default permission.</p></td>
 </tr>
@@ -3125,8 +3235,8 @@ committed script, or remove 1 available GM Woe.</p></td>
 <tr>
 <td><p>Extra Feat</p></td>
 <td><p>Any successful action</p></td>
-<td><p>Normal price (§5); once per action unless expressly
-overridden</p></td>
+<td><p>Normal price (<a href="#core-effects">§5</a>); once per
+action unless expressly overridden</p></td>
 <td><p>One related secondary accomplishment within the action’s scope,
 not another turn, roll or scripted action.</p></td>
 </tr>
@@ -3137,41 +3247,36 @@ permission. An exception grants only its named purchase, trigger, cost,
 frequency and scope; a procedure replacing ordinary Maneuver effects
 retains that restriction. Each ability that grants an exception states
 its own limits.</p>
-<p><strong>Objective and script limits.</strong> Advance cannot
+<p><strong>Objective and script limits.</strong> Advance can’t
 automatically convert segments into Disposition loss or bypass a
 still-disputed objective. If clock completion would settle the conflict,
 establish that relationship before scripting.</p>
-<p>Disrupt cannot generically cancel, replace, reveal or delay a
+<p>Disrupt can’t generically cancel, replace, reveal or delay a
 committed scripted action; an ability or scenery procedure must
-expressly permit interference. Removing Woe cannot reverse an existing
+expressly permit interference. Removing Woe can’t reverse an existing
 spend or cancel an accepted payment.</p>
-<p>Extra Feat cannot duplicate primary Disposition effects, disguise a
+<p>Extra Feat can’t duplicate primary Disposition effects, disguise a
 prohibited purchase, cancel an independent opposing action or achieve an
 objective outside the stakes.</p>
-<p>For action-triggered Specials, use Adversaries §6.16: determine and
-allocate Power, declare supplementary Specials and pay their costs,
-close declarations, resolve permitted reactions, then uncancelled
-effects. Check existing effects and effects already declared for the
-action. Cancellation does not reopen declarations, permit reallocation
-or refund purchases without an explicit exception. Preserve any
-expressly listed later activation window, including Self-Repair’s
-volley-end window.</p>
+<p><strong>Adversary Specials.</strong> Specials that trigger on a
+successful action follow Adversaries <a
+href="../adversaries/#adv-shared-special-timing">§7.7</a>.</p>
 <h4 id="offensive-bonuses">Offensive Bonuses</h4>
 <p>Additional Power, additional Disposition loss and additional status
 tiers are separate bonuses. Each applies only to the component it names;
 a bonus meant for more than one must say so. If an effect inflicts both
 Disposition loss and a status, the ability must name the component a
 bonus improves, or let you choose.</p>
-<p>Attack bonuses don’t apply to Feint, killing strikes or other
-finishing procedures unless stated.</p>
-<h3 id="s-10-7-costs-failures-and-complications">10.7 Costs, Failures
-and Complications</h3>
+<p>Attack bonuses don’t apply to Feint or finishing procedures unless
+stated.</p>
+<h3 id="core-costs-failures-complications">10.7 Costs, Failures and
+Complications</h3>
 <p>Use normal Effort, Weal, Woe, Tychē Points, tags, Situational
-Conditions and Truths subject to these restrictions and the limits in
-§10.18.</p>
+Conditions and Truths subject to these restrictions and the limits in <a
+href="#core-conflict-limits-reference">§10.18</a>.</p>
 <h4 id="ordinary-failure">Ordinary Failure</h4>
 <p>An ordinary failed independent test produces no action effect and
-generates the usual 1 Woe. It does not also authorise an unrelated GM
+generates the usual 1 Woe. It doesn’t also authorise an unrelated GM
 move, automatic injury or additional Disposition loss: the failed and
 opposing actions establish the volley.</p>
 <p>Losing or tying a versus test, or being trumped, generates no
@@ -3182,15 +3287,16 @@ ability costs, scenery Dangers and explicit Woe rules still apply.</p>
 <p>On an independent test missing by 1–3, gain 1 Power as usual. The
 player chooses either 1 Woe for the GM or an immediate, proportionate
 complication arising from the action.</p>
-<p>An ordinary cost cannot impose an additional status or extra
+<p>An ordinary cost can’t impose an additional status or extra
 Disposition loss unless an explicit rule permits it. Suitable costs
 include exposing an approach, losing access to a minor asset or
 establishing a limited adverse fact.</p>
 <p>Scenery actions use their listed Danger when the consequence option
 is chosen.</p>
 <h4 id="doubles">Doubles</h4>
-<p>Doubles work as in §2.6, including doubles created by an ability such
-as Perfect Strike. In versus tests:</p>
+<p>Doubles work as in <a href="#core-doubles">§2.6</a>, including
+doubles created by an ability such as Perfect Strike. In versus
+tests:</p>
 <ul>
 <li><p>Double 12s don’t override a higher opposing total or break a
 tie.</p></li>
@@ -3201,30 +3307,38 @@ don’t lose automatically.</p></li>
 </ul>
 <p>Doubles complications stay within the stakes and the action’s scale.
 They don’t cancel an independent action or change the script. Buy them
-off normally (§2.6).</p>
+off normally (<a href="#core-doubles">§2.6</a>).</p>
 <h4 id="explicit-risks-and-harm">Explicit Risks and Harm</h4>
 <p>Abilities, hazards, Risky rolls, scenery Dangers and other explicit
 rules may impose their stated consequences. Resolve these separately
 from ordinary Disposition loss.</p>
 <h4 id="protected-payments">Protected Payments</h4>
-<p>Generic wording such as ignore harm, cancel a consequence, take the
-hit or protect an ally does not affect shared Disposition. A rule must
-explicitly mention Disposition to reduce, redirect, restore or prevent
-its loss.</p>
-<p>Generic prevention, redirection, immunity, Resistance and incidental
-clearing benefits cannot prevent or remove an accepted injury trade, a
-running-dry status generated by paying a cost, an agreed concession cost
-or another consequence accepted as payment for a benefit. An exception
-must expressly identify the protected payment it affects.</p>
-<p>Once recorded, a status can be treated or healed through the
-applicable procedure. Later healing does not refund the benefit, restore
-Disposition, refresh an injury trade or erase a Scar.</p>
-<h3 id="s-10-8-scenery-maneuvers">10.8 Scenery Maneuvers</h3>
+<p><strong>What counts.</strong> A protected payment is a consequence
+accepted in exchange for a benefit: an accepted injury trade (<a
+href="#core-accepting-injury">§10.11</a>), a running-dry status
+from paying a cost (<a
+href="#core-running-dry-statuses">§6.2</a>), an agreed concession
+cost (<a href="#core-defeat-mutual-defeat-concession">§10.12</a>),
+or any other cost accepted as payment.</p>
+<p><strong>What can’t touch it.</strong> Resistance, armour, prevention,
+redirection, immunity and incidental clearing, including a double-12
+result, can’t prevent, reduce or remove a protected payment. Only an
+exception that names the protected payment can change it. Generic
+wording such as “cancel harm” isn’t enough.</p>
+<p><strong>Disposition.</strong> Generic wording such as ignore harm,
+cancel a consequence, take the hit or protect an ally doesn’t affect
+shared Disposition. A rule must explicitly mention Disposition to
+reduce, redirect, restore or prevent its loss.</p>
+<p><strong>Afterwards.</strong> Once recorded, a status can be treated
+or healed through the applicable procedure. Later healing doesn’t refund
+the benefit, restore Disposition, refresh an injury trade or erase a
+Scar.</p>
+<h3 id="core-scenery-maneuvers">10.8 Scenery Maneuvers</h3>
 <p>A Maneuver may exploit an established feature: a Scene Truth,
-Situational Condition or established fact. If it is not established,
+Situational Condition or established fact. If it isn’t established,
 create or discover it first.</p>
 <p>Name the feature when scripting. If it is unavailable at resolution,
-the Maneuver produces no scenery effect; do not substitute another
+the Maneuver produces no scenery effect; don’t substitute another
 feature for free.</p>
 <p>Each feature supports one scenery action per conflict unless its
 nature clearly permits reuse.</p>
@@ -3290,7 +3404,7 @@ recovering.</p></td>
 <td><p>Fuel, fluid or a breakable container</p></td>
 <td><p>2</p></td>
 <td><p>Create a dangerous Truth in the area, naming its exposure and
-consequence (§8.5).</p></td>
+consequence (<a href="#core-dangers-conflicts">§8.5</a>).</p></td>
 <td><p>You are also exposed to it.</p></td>
 </tr>
 </tbody>
@@ -3300,25 +3414,26 @@ Resistable normally.</p>
 <p>A fall is lethal only with established lethal stakes. Describe
 results consistently: a collapsing floor or spreading fire affects
 everyone within its established scope. Dangerous circumstances generate
-Woe under the scene cap (§9.2).</p>
+Woe under the scene cap (<a href="#core-woe">§9.2</a>).</p>
 <p>In other types, scenery might be a witness, document, crowd, access
 point, market stall or bridge. Adapt the nearest effect only when its
 requirements and consequences remain meaningful.</p>
-<h3 id="s-10-9-shared-disposition-and-participation">10.9 Shared
-Disposition and Participation</h3>
-<p>Each side has one shared total. Do not divide it among participants;
+<h3 id="core-shared-disposition-participation">10.9 Shared Disposition
+and Participation</h3>
+<p>Each side has one shared total. Don’t divide it among participants;
 there are no individual shares or spill-over. Ordinary Disposition loss
 removes no particular participant.</p>
 <p>A participant stops acting when a status, explicit effect, withdrawal
 or established circumstance prevents contribution to the objective.</p>
 <p>A side loses at 0 Disposition or when none of its participants can
 continue pursuing its objective. Check victory using the
-action-completion rule in §10.5.</p>
+action-completion rule in <a
+href="#core-scripting-volleys">§10.5</a>.</p>
 <h4 id="companions-and-groups">Companions and Groups</h4>
 <p>Distinguish a participant, which takes assigned actions and is bound
 by the side’s stakes, from an asset, which supplies tags, information or
 explicitly permitted helping benefits without independent turns.</p>
-<p>Do not count the same companion twice merely because it can perform
+<p>Don’t count the same companion twice merely because it can perform
 both functions.</p>
 <p>An independently acting companion occupies a place in continuous
 rotation, uses its listed skills or ratings and can be prevented from
@@ -3329,23 +3444,23 @@ rotation and area-effect Disposition bonuses, not one per fictional
 body. Apply specific Bodies or mass-combat rules only where
 provided.</p>
 <h4 id="reinforcements-and-recovery">Reinforcements and Recovery</h4>
-<p>Starting Disposition stays fixed for the conflict (§10.2).
-Reinforcements add their listed Grit to current shared Disposition, even
-above the starting value. They do not change starting Disposition or the
-normal recovery cap, grant additional scripted actions, permit free
-actor reassignment or recalculate setup.</p>
+<p>Starting Disposition stays fixed for the conflict (<a
+href="#core-setup">§10.2</a>). Reinforcements add their listed
+Grit to current shared Disposition, even above the starting value. They
+don’t change starting Disposition or the normal recovery cap, grant
+additional scripted actions, permit free actor reassignment or
+recalculate setup.</p>
 <p>Defend and other Disposition-recovery effects restore only up to the
 starting value unless explicitly stated otherwise. At or above the cap,
-recovery restores nothing and does not reduce the current total.</p>
+recovery restores nothing and doesn’t reduce the current total.</p>
 <p>Removing a participant, backer, companion or group subtracts no
 contribution or Grit from current or starting Disposition. Removal may
 still defeat the side if nobody remains able to pursue its
 objective.</p>
-<h3 id="s-10-10-conflict-gear-and-assets">10.10 Conflict Gear and
-Assets</h3>
+<h3 id="core-conflict-gear-assets">10.10 Conflict Gear and Assets</h3>
 <p>Equipment normally provides an action tag, counting toward the normal
 +2 tag cap. It may also have one explicitly written distinctive quality.
-Do not invent qualities during resolution.</p>
+Don’t invent qualities during resolution.</p>
 <table>
 <thead>
 <tr>
@@ -3394,12 +3509,13 @@ Take −1 on Defend while using it.</p></li>
 Defend, restore 1 additional Disposition.</p></li>
 <li><p><strong>Knife:</strong> against a cumbersome weapon at
 established close range, Disarm costs 2 Power instead of 3.</p></li>
-<li><p><strong>Bow:</strong> while the opponent cannot reach you and
+<li><p><strong>Bow:</strong> while the opponent can’t reach you and
 lacks an effective ranged response, Attack versus Attack is a versus
 test instead of independent.</p></li>
 </ul>
-<p>Distinctive qualities do not automatically grant a second tag. Apply
-offensive bonuses under §10.6.</p>
+<p>Distinctive qualities don’t automatically grant a second tag. Apply
+offensive bonuses under <a
+href="#core-actions-effects">§10.6</a>.</p>
 <h4 id="non-combat-assets">Non-Combat Assets</h4>
 <p>Evidence, promises, maps, supplies, local contacts, fortifications
 and plans may be assets.</p>
@@ -3410,9 +3526,9 @@ fortifications must first be secured.</p>
 description. Award no bonus merely for theatrical delivery.</p>
 <h4 id="changing-equipment">Changing Equipment</h4>
 <p>Declare active equipment before scripting each exchange.</p>
-<p>Switching does not refresh a once-per-conflict quality, erase a
+<p>Switching doesn’t refresh a once-per-conflict quality, erase a
 continuing drawback or restore a lost asset.</p>
-<h3 id="s-10-11-accepting-injury">10.11 Accepting Injury</h3>
+<h3 id="core-accepting-injury">10.11 Accepting Injury</h3>
 <p>Once per character per conflict, accept a lasting injury to cancel
 some loss from a successful Attack or Feint.</p>
 <p>Declare before applying loss. Only one participant may trade against
@@ -3442,7 +3558,7 @@ each Attack or Feint.</p>
 <p>Name the injury and explain how it preserves the side’s position. It
 must follow from the action, have a relevant effect, be new or worsen a
 status, and remain below tier 6 after stacking.</p>
-<p>You cannot:</p>
+<p>You can’t:</p>
 <ul>
 <li><p>Pay with an injury already present or an irrelevant or wholly
 redundant status.</p></li>
@@ -3450,19 +3566,21 @@ redundant status.</p></li>
 <li><p>Cancel more loss than inflicted.</p></li>
 <li><p>Cancel loss from Maneuvers, hazards, voluntary costs or special
 effects unless permitted.</p></li>
-<li><p>Cancel an execution, imposed status or anything other than
-ordinary Attack or Feint Disposition loss.</p></li>
+<li><p>Cancel a finishing procedure, imposed status or anything other
+than ordinary Attack or Feint Disposition loss.</p></li>
 <li><p>Invent bodily injury to pay for a purely logistical
 setback.</p></li>
 </ul>
-<p>An accepted injury is a protected payment (§10.7); it cannot be
+<p>An accepted injury is a protected payment (<a
+href="#core-costs-failures-complications">§10.7</a>); it can’t be
 prevented or reduced. It recovers through treatment and time.</p>
 <p>The trade cancels incoming loss, not loss already suffered, and
 doesn’t raise starting Disposition. It refreshes only in a genuinely new
 conflict.</p>
-<h3 id="s-10-12-defeat-mutual-defeat-and-concession">10.12 Defeat,
-Mutual Defeat and Concession</h3>
-<p>Apply the action-completion rule in §10.5 before determining the
+<h3 id="core-defeat-mutual-defeat-concession">10.12 Defeat, Mutual
+Defeat and Concession</h3>
+<p>Apply the action-completion rule in <a
+href="#core-scripting-volleys">§10.5</a> before determining the
 outcome.</p>
 <h4 id="defeat-and-finishing-procedures">Defeat and Finishing
 Procedures</h4>
@@ -3470,15 +3588,17 @@ Procedures</h4>
 to compromise. Don’t rerun the same contest; a new conflict needs a
 materially different objective or changed circumstances.</p>
 <p>Defeat doesn’t automatically inflict injury. Where a creature or
-setting requires a finishing procedure, victory earns the chance to
-attempt it: finish the deciding volley, resolve the procedure as its
-entry describes, then settle compromise.</p>
+setting requires a finishing procedure (such as a setting book’s killing
+strike), victory earns the chance to attempt it: finish the deciding
+volley, resolve the procedure as its entry describes, then settle
+compromise.</p>
 <h4 id="mutual-defeat">Mutual Defeat</h4>
 <p>If both sides are defeated in the same volley, or both start at 0
 after Superiority, neither wins outright.</p>
 <p>Resolve compatible parts of both intents and a shared setback within
 the stakes. Neither receives an incompatible outcome automatically.</p>
-<p>Calculate no winner’s compromise. Setup defeat follows §10.3.</p>
+<p>Calculate no winner’s compromise. Setup defeat follows <a
+href="#core-superiority">§10.3</a>.</p>
 <h4 id="concession">Concession</h4>
 <p>Before the next roll, propose an end to the conflict. State what the
 opponent gains, what your side retains, all injuries, losses, promises
@@ -3486,13 +3606,15 @@ or obligations, and how the immediate struggle ends.</p>
 <p>Offer meaningful success that fits the situation. A mindless predator
 may require an escape opportunity or sacrifice rather than
 surrender.</p>
-<p>If accepted, apply the terms without another roll. Do not also apply
-compromise unless included. Agreed costs are protected payments (§10.7);
-injuries recover normally.</p>
+<p>If accepted, apply the terms without another roll. Don’t also apply
+compromise unless included. Agreed costs are protected payments (<a
+href="#core-costs-failures-complications">§10.7</a>); injuries
+recover normally.</p>
 <p>If rejected, continue. Conceding grants no automatic Tychē Point.</p>
-<h3 id="s-10-13-compromise">10.13 Compromise</h3>
+<h3 id="core-compromise">10.13 Compromise</h3>
 <p>Compare the winner’s remaining Disposition with the original adjusted
-starting value recorded at setup (§10.2):</p>
+starting value recorded at setup (<a
+href="#core-setup">§10.2</a>):</p>
 <table>
 <thead>
 <tr>
@@ -3521,9 +3643,10 @@ starting value recorded at setup (§10.2):</p>
 </table>
 <p>Use proportions without rounding. If remaining Disposition equals or
 exceeds the starting value, there is no compromise.</p>
-<p>Reinforcements do not change the denominator: compare these two
+<p>Reinforcements don’t change the denominator: compare these two
 totals, without reconstructing earlier losses or keeping a separate loss
-ledger. Setup defeat uses §10.3 instead.</p>
+ledger. Setup defeat uses <a href="#core-superiority">§10.3</a>
+instead.</p>
 <h4 id="what-compromise-means">What Compromise Means</h4>
 <p>The winner achieves its intent, but the loser earns a proportionate
 concession:</p>
@@ -3537,9 +3660,9 @@ objective.</p></li>
 obligation, severe injury, important loss or powerful new
 danger.</p></li>
 </ul>
-<p>These are consequence packages, not mandatory lists. Do not
+<p>These are consequence packages, not mandatory lists. Don’t
 automatically add injury to an adequate non-injury concession.</p>
-<p>Compromise cannot simply reverse the result or grant the loser’s
+<p>Compromise can’t simply reverse the result or grant the loser’s
 complete incompatible objective.</p>
 <h4 id="negotiating-terms">Negotiating Terms</h4>
 <ol>
@@ -3553,7 +3676,7 @@ injuries, then resolve eligible Resistance.</p></li>
 </ol>
 <p>Keep terms proportionate, relevant and within the stakes. If
 agreement proves difficult, the GM adjudicates using these limits.
-Disagreement does not cancel earned compromise.</p>
+Disagreement doesn’t cancel earned compromise.</p>
 <h4 id="injury-guidance">Injury Guidance</h4>
 <p>When appropriate to the package, use tier 2 for Minor, tier 3 for
 Significant and tier 4 for Major as starting guidance, not automatic
@@ -3562,41 +3685,54 @@ injuries, minimum costs or penalties for everyone.</p>
 <p>An injury suffered during this conflict satisfies one injury cost
 assigned to that character if its current tier meets or exceeds the
 required tier. Each injury counts once.</p>
-<p>Do not pool, split, transfer or credit injuries against non-injury
+<p>Don’t pool, split, transfer or credit injuries against non-injury
 consequences. An injury treated below the required tier no longer
 satisfies the cost.</p>
 <p>Add no replacement injury because an existing one satisfies the
 first.</p>
 <h4 id="resistance">Resistance</h4>
-<p>Imposed compromise statuses can be Resisted normally (§6); agreed
-payments can’t (§10.7). Resisting an injury doesn’t revoke the
-concession or other stated consequences, and adds no replacement
-cost.</p>
+<p>Imposed compromise statuses can be Resisted normally (<a
+href="#core-resistance-harm-recovery">§6</a>); agreed payments
+can’t (<a href="#core-costs-failures-complications">§10.7</a>).
+Resisting an injury doesn’t revoke the concession or other stated
+consequences, and adds no replacement cost.</p>
 <h4 id="binding-results">Binding Results</h4>
 <p>Victory, concessions, promises and consequences stand. Genuinely new
-events may change them; do not ignore or immediately reroll them because
+events may change them; don’t ignore or immediately reroll them because
 someone dislikes the result.</p>
-<h3 id="s-10-14-npcs-and-harm">10.14 NPCs and Harm</h3>
-<p>Ordinary NPCs and minion groups cannot trade injury. A named rival
+<h3 id="core-npcs-harm">10.14 NPCs and Harm</h3>
+<p>Ordinary NPCs and minion groups can’t trade injury. A named rival
 built as a full PC may; others require an explicit trait.</p>
-<p>Ordinary NPCs have no Pools and reduce imposed harm only through
-listed Armour, traits or abilities. Apply at most one reduction per
-imposed status application, never to ordinary Disposition loss or a
-protected payment (§10.7).</p>
-<p>NPC defeat uses §10.12. Capture, escape, injury and death follow the
-stakes and outcome. Use a Dying clock when rescue matters, not to make
-an accepted rescue objective impossible.</p>
+<p>Ordinary NPCs have no pools (<a
+href="#core-running-dry">§6.1</a>) and reduce imposed harm only
+through listed Armour, traits or abilities. Apply at most one reduction
+per imposed status application, never to ordinary Disposition loss or a
+protected payment (<a
+href="#core-costs-failures-complications">§10.7</a>).</p>
+<p>NPC defeat uses <a
+href="#core-defeat-mutual-defeat-concession">§10.12</a>. Capture,
+escape, injury and death follow the stakes and outcome. Use a Dying
+clock when rescue matters, not to make an accepted rescue objective
+impossible.</p>
 <p>Creature-specific rules remain in force, including breaking points
-that replace the tier-6 procedure (§6.3). Immunity may stop an
+that replace the tier-6 procedure (<a
+href="#core-tier-6-scars">§6.3</a>). Immunity may stop an
 unsuitable status without stopping Disposition loss in a contest the
 creature can lose.</p>
-<h3 id="s-10-15-order-of-resolution">10.15 Order of Resolution</h3>
+<h3 id="core-order-resolution">10.15 Order of Resolution</h3>
+<p><strong>Setup</strong></p>
 <ol>
 <li><p>Establish objectives, stakes, participants and exits.</p></li>
 <li><p>Calculate starting Disposition and Superiority.</p></li>
-<li><p>Determine both adjusted totals and resolve any setup defeat
-(§10.3).</p></li>
+<li><p>Determine both adjusted totals and resolve any setup defeat (<a
+href="#core-superiority">§10.3</a>).</p></li>
+</ol>
+<p><strong>Each exchange</strong></p>
+<ol start="4">
 <li><p>Script the exchange and assign actors.</p></li>
+</ol>
+<p><strong>Each volley</strong></p>
+<ol start="5">
 <li><p>Reveal the next volley.</p></li>
 <li><p>Determine the interaction.</p></li>
 <li><p>Pay pre-roll costs; resolve running dry.</p></li>
@@ -3611,15 +3747,20 @@ including explicit creature exceptions.</p></li>
 <li><p>Complete any independent opposing action.</p></li>
 <li><p>Check removal, victory and mutual defeat.</p></li>
 <li><p>Before the next roll, allow concession proposals.</p></li>
+</ol>
+<p>Repeat steps 5–17 for each volley, and step 4 for each new exchange,
+until a side is defeated or concedes.</p>
+<p><strong>Ending</strong></p>
+<ol start="18">
 <li><p>Resolve permitted creature finishing procedures before
 compromise.</p></li>
 <li><p>Settle compromise or concession.</p></li>
-<li><p>Recover each layer only through its own procedure
-(§6.5).</p></li>
+<li><p>Recover each layer only through its own procedure (<a
+href="#core-rest-recovery">§6.5</a>).</p></li>
 </ol>
 <p>Specific rules override general rules only on the subject
 addressed.</p>
-<h3 id="s-10-16-keeping-it-fast">10.16 Keeping It Fast</h3>
+<h3 id="core-keeping-it-fast">10.16 Keeping It Fast</h3>
 <ul>
 <li><p>Use full conflicts only when several tactical decisions
 matter.</p></li>
@@ -3636,13 +3777,13 @@ penalties.</p></li>
 <p>Disposition around 8–11 is the initial pacing target. Aim for two or
 three exchanges and roughly 15–20 minutes, then adjust through
 playtesting rather than adding steps.</p>
-<h3 id="s-10-17-area-effects">10.17 Area Effects</h3>
-<p><strong>Provisional for playtesting.</strong> An area effect affects
-everyone within its established area whom the effect can reach.
-Establish the area and affected participants before resolving it. An
-area effect does not automatically distinguish allies from enemies;
-selective targeting requires an explicit rule or circumstances that keep
-others outside its reach.</p>
+<h3 id="core-area-effects">10.17 Area Effects</h3>
+<p><em>(Playtest Value)</em> An area effect affects everyone within its
+established area whom the effect can reach. Establish the area and
+affected participants before resolving it. An area effect doesn’t
+automatically distinguish allies from enemies; selective targeting
+requires an explicit rule or circumstances that keep others outside its
+reach.</p>
 <p><strong>Disposition loss in conflicts.</strong> When an area Attack
 or Feint applies its normal Disposition-loss effect:</p>
 <ol>
@@ -3652,14 +3793,16 @@ Disposition once.</p></li>
 affected beyond the first.</p></li>
 </ol>
 <p>Loss goes to the shared total, never to individuals. A group with one
-rules entry counts as one participant (§10.9).</p>
+rules entry counts as one participant (<a
+href="#core-shared-disposition-participation">§10.9</a>).</p>
 <p><em>Example:</em> an area Attack commits 3 Power to Disposition loss
 and affects three opposing participants. It removes 6 shared
 Disposition: 3 Power + 1 for the normal Attack, +2 for the two
 additional participants.</p>
-<p>Apply any eligible injury trade against the combined loss (§10.11).
-The area Attack remains one Attack: no more than one participant may
-accept an injury against it.</p>
+<p>Apply any eligible injury trade against the combined loss (<a
+href="#core-accepting-injury">§10.11</a>). The area Attack remains
+one Attack: no more than one participant may accept an injury against
+it.</p>
 <p><strong>Explicitly inflicted statuses.</strong> When an area effect
 explicitly inflicts a status, every affected character receives the full
 purchased or listed tier. Resolve each character’s Resistance or NPC
@@ -3671,12 +3814,12 @@ on one and tier 1 on the others.</p>
 it covers an area; it inflicts both loss and statuses only if an
 explicit rule says so. Outside conflicts, area effects inflict statuses
 normally and no Disposition loss. Offensive bonuses apply to their
-stated component (§10.6).</p>
-<h3 id="s-10-18-conflict-limits-reference">10.18 Conflict Limits
+stated component (<a href="#core-actions-effects">§10.6</a>).</p>
+<h3 id="core-conflict-limits-reference">10.18 Conflict Limits
 Reference</h3>
 <p>These limits apply to every scripted conflict. Specific rules
 override them only on the subject they address.</p>
-<h4 id="other-core-rules">Other Core Rules</h4>
+<h4 id="core-rules-in-conflicts">Core Rules in Conflicts</h4>
 <ul>
 <li><p><strong>Invoke</strong> during an eligible roll, before its
 outcome is resolved. It changes only that roll: no extra turn, script
@@ -3684,10 +3827,11 @@ change or reassigned actor. A trumped action or automatic success has no
 roll to invoke on.</p></li>
 <li><p><strong>Specialisations</strong> add their die only when the
 action’s permitted skill is the Specialisation’s skill and it applies to
-the approach (§3.3). They don’t permit a different skill, action or
-Effect. <strong>Knowledge</strong> informs choices but doesn’t add an
-action.</p></li>
-<li><p><strong>Prepared in Advance</strong> (§4.2), if used, is a
+the approach (<a href="#core-skill-pyramid">§3.3</a>). They don’t
+permit a different skill, action or Effect. <strong>Knowledge</strong>
+informs choices but doesn’t add an action.</p></li>
+<li><p><strong>Prepared in Advance</strong> (<a
+href="#core-prepared-advance">§4.2</a>), if used, is a
 declaration: the next item’s limits apply, and it can’t change a
 revealed script.</p></li>
 <li><p><strong>Declarations</strong> can make an approach possible or
@@ -3697,8 +3841,9 @@ concession.</p></li>
 <li><p><strong>Compels.</strong> Agree the consequence before accepting.
 A compel must respect the stakes and action timing, and can’t change a
 script or cancel an independent action. If its terms settle the
-conflict, use Concession (§10.12) rather than another roll. It can’t
-erase a protected payment.</p></li>
+conflict, use Concession (<a
+href="#core-defeat-mutual-defeat-concession">§10.12</a>) rather
+than another roll. It can’t erase a protected payment.</p></li>
 <li><p><strong>Instincts.</strong> Acting on an Instinct takes no time
 but grants no extra action, interrupt, free script change, actor
 reassignment or rotation bypass. A consequential response needs a
@@ -3707,16 +3852,19 @@ action, allow action while Taken Out or retroactively cancel a resolved
 effect.</p></li>
 <li><p><strong>Truths and Conditions.</strong> Creating a Truth or
 Situational Condition, or reducing a Condition, takes a permitted action
-or explicit exception (§10.6); changing a Truth means changing the fact
-(§8.4); Weal and Woe spends grant no extra turn, free reassignment or
-retroactive cancellation. A Truth can set up a later scenery Maneuver
-but doesn’t resolve it or its Danger (§10.8). A hazardous description
-doesn’t grant both Disposition loss and a harmful status; explicit harm
-and area effects use their own procedures (§10.17).</p></li>
+or explicit exception (<a href="#core-actions-effects">§10.6</a>);
+changing a Truth means changing the fact (<a
+href="#core-changing-ending-truths">§8.4</a>); Weal and Woe spends
+grant no extra turn, free reassignment or retroactive cancellation. A
+Truth can set up a later scenery Maneuver but doesn’t resolve it or its
+Danger (<a href="#core-scenery-maneuvers">§10.8</a>). A hazardous
+description doesn’t grant both Disposition loss and a harmful status;
+explicit harm and area effects use their own procedures (<a
+href="#core-area-effects">§10.17</a>).</p></li>
 <li><p><strong>Clocks and Disposition</strong> are separate tracks.
 Don’t convert loss, healing or clock segments between them without an
-explicit rule. Advance is available only to actions §10.6
-permits.</p></li>
+explicit rule. Advance is available only to actions <a
+href="#core-actions-effects">§10.6</a> permits.</p></li>
 <li><p><strong>Complications,</strong> from dice or bought with Woe,
 stay within the stakes and timing. They don’t change committed scripts
 or cancel independent actions unless an explicit rule permits
@@ -3729,14 +3877,16 @@ rotation bypass or permission to act while Taken Out. A passive benefit
 or a benefit explicitly requiring no action can apply without consuming
 a scripted action.</p>
 <p>An immediate effect resolves at its stated trigger. It interrupts
-another action only if explicitly permitted, and cannot retroactively
+another action only if explicitly permitted, and can’t retroactively
 cancel resolved costs or effects.</p>
 <p>An additional immediate action must specify its trigger, replacement
 of scripted actions, rotation treatment, use while Taken Out and
 interaction with independent actions.</p>
 <p>Automatic success replaces the roll for an otherwise permitted
 action. It supplies no extra action, script change, rescue of a trumped
-action, expanded stakes or unsuitable approach.</p>
+action, expanded stakes or unsuitable approach. In a versus test, an
+automatic success wins unless both sides automatically succeed; then
+it’s a tie unless a rule says otherwise.</p>
 <p>On an independent test, apply the listed Power without rolling. In a
 versus test, it wins with its listed Power unless the opposing action
 also succeeds automatically; then resolve a tie unless a specific rule
@@ -3747,7 +3897,7 @@ complication.</p>
 A ring of torches marking the edge of a battlefield as two lines close
 in.</p>
 </div>
-<h2 id="s-11-playbooks">11. Playbooks</h2>
+<h2 id="core-playbooks">11. Playbooks</h2>
 <p>A playbook gives your character base pools and Edge, an anchor skill
 (+3 or +4), special abilities, an XP trigger, a load-out list and
 relationship prompts (1 ally, 1 rival). Each generic playbook has eight
@@ -3755,13 +3905,14 @@ special abilities and a capstone. The full rules and all six playbooks
 are in Generic Playbooks.</p>
 <ul>
 <li><p><strong>At creation:</strong> 1 special ability free, and up to 2
-more at 1 Refresh each; ★ costs 1 more (§3.6).</p></li>
+more at 1 Refresh each (<a
+href="#core-starting-resources">§3.6</a>).</p></li>
 <li><p><strong>Later:</strong> new abilities, veteran abilities and
-capstones follow §12.2.</p></li>
+capstones follow <a href="#core-spending-xp">§12.2</a>.</p></li>
 </ul>
 <p>Settings rename and reskin playbooks (Adept becomes "Hedge Witch" in
 fantasy, "Netrunner" in cyberpunk) but keep the structure.</p>
-<h3 id="s-11-1-generic-core-playbooks">11.1 Generic Core Playbooks</h3>
+<h3 id="core-generic-core-playbooks">11.1 Generic Core Playbooks</h3>
 <table>
 <thead>
 <tr>
@@ -3817,13 +3968,17 @@ fantasy, "Netrunner" in cyberpunk) but keep the structure.</p>
 </tr>
 </tbody>
 </table>
-<h2 id="s-12-advancement">12. Advancement</h2>
-<h3 id="s-12-1-earning-xp-end-of-session">12.1 Earning XP (end of
-session)</h3>
+<h2 id="core-advancement">12. Advancement</h2>
+<p>A <strong>milestone</strong> is the end of a story arc or the
+completion of a major Goal; the GM calls it, usually at the end of a
+session. A <strong>major milestone</strong> is the end of a full
+campaign arc. (Playtest Value)</p>
+<h3 id="core-earning-xp">12.1 Earning XP (end of session)</h3>
 <p>1 XP per “yes” unless noted:</p>
 <ul>
 <li><p>Did you hit your <strong>playbook XP trigger</strong>? (1, or 2
-in a scene with lethal stakes or a listed Danger, §8.5)</p></li>
+in a scene with lethal stakes or a listed Danger, <a
+href="#core-dangers-conflicts">§8.5</a>)</p></li>
 <li><p>Did you <strong>accomplish your Goal</strong>? (+2)</p></li>
 <li><p>Did one or more of your <strong>World, Other, or Self
 Beliefs</strong> drive a meaningful decision?</p></li>
@@ -3839,8 +3994,7 @@ rewriting it does not.</p>
 <p><strong>MVP vote:</strong> the table votes on one standout moment
 each session; that player gets +1 Tychē Point at the next session (above
 Refresh, within the cap).</p>
-<h3 id="s-12-2-spending-xp-every-6-xp-1-advance">12.2 Spending XP (every
-6 XP = 1 Advance)</h3>
+<h3 id="core-spending-xp">12.2 Spending XP (every 6 XP = 1 Advance)</h3>
 <ul>
 <li><p>+1 to a skill (following the pyramid rule)</p></li>
 <li><p>+3 to one pool, or +1 Edge (max 3 Edge per pool)</p></li>
@@ -3848,19 +4002,20 @@ Refresh, within the cap).</p>
 below)</p></li>
 <li><p>A new power tag, or rewrite a weakness tag into a power
 tag</p></li>
-<li><p>A new Specialisation in a rated skill (§3.3)</p></li>
+<li><p>A new Specialisation in a rated skill (<a
+href="#core-skill-pyramid">§3.3</a>)</p></li>
 <li><p><strong>+1 Refresh</strong> (buys back Refresh spent on abilities
 or artifacts), up to the <strong>Refresh cap</strong> of 3 + 1 per 3
 Advances</p></li>
 <li><p>A higher-tier Focus ability: Tier 2 after 3 Advances; Tier 3
 after 6 Advances. Taking the ability costs an Advance; reaching the
-threshold does not grant it automatically (Generic Focuses
-§1.1).</p></li>
+threshold does not grant it automatically (Generic Focuses <a
+href="../generic-focuses/#foc-what-focus-gives-you">§1.1</a>).</p></li>
 <li><p><strong>+1 Effort Level</strong> (to Level 2 after 3 Advances;
 Level 3 after 9 Advances)</p></li>
 <li><p><strong>Quick Recovery</strong> (once only): recover 1 additional
 point on every recovery roll. It doesn’t change the fourth rest’s full
-recovery (§6.5).</p></li>
+recovery (<a href="#core-rest-recovery">§6.5</a>).</p></li>
 </ul>
 <p><strong>Focus choices.</strong> Tier 1 is gained at creation. At
 Tiers 2 and 3, choose one of the tier’s two options when buying that
@@ -3868,15 +4023,15 @@ ability. Once eligible for the tier, its unchosen option can be taken
 later as a normal Advance. A ★ option also costs 1 Refresh.</p>
 <p><strong>Veteran abilities.</strong> After 6 Advances, you may take an
 ability from another playbook as an Advance. It costs 1 Refresh plus any
-★ cost, so a veteran ★ costs 2 Refresh (Generic Playbooks §1.2).</p>
+★ cost, so a veteran ★ costs 2 Refresh (Generic Playbooks <a
+href="../generic-playbooks/#pb-ability-notation">§1.2</a>).</p>
 <p><strong>Capstones.</strong> A capstone unlocks after 12 Advances if
 you have at least 4 abilities from that playbook. Take it as an Advance;
-it costs no Refresh, and a character can have only one (Generic
-Playbooks §1.2).</p>
+it costs no Refresh, and a character can have only one.</p>
 <p><strong>Refresh limits.</strong> Purchases can’t take Refresh below 1
-(§4.1) or above the Refresh cap.</p>
-<h3 id="s-12-3-reviewing-beliefs-and-instincts">12.3 Reviewing Beliefs
-and Instincts</h3>
+(<a href="#core-refresh">§4.1</a>) or above the Refresh cap.</p>
+<h3 id="core-reviewing-beliefs-instincts">12.3 Reviewing Beliefs and
+Instincts</h3>
 <p>Review the relevance of your Beliefs at session end. Ask:</p>
 <blockquote>
 <p>Which conviction did events reinforce, complicate, or overturn?</p>
@@ -3885,7 +4040,8 @@ and Instincts</h3>
 conviction may stay firm, grow more complicated or stop fitting the
 character; you don’t have to change a Belief because you questioned or
 acted against it. The question is a reflection prompt, not a reward:
-answering it earns nothing by itself (§12.1).</p>
+answering it earns nothing by itself (<a
+href="#core-earning-xp">§12.1</a>).</p>
 <p>Ordinary revisions happen at milestones. Reaffirm, revise, or replace
 your Beliefs to reflect development in play.</p>
 <ul>
@@ -3900,27 +4056,31 @@ changes your outlook or the former commitment no longer belongs in the
 campaign.</p></li>
 <li><p><strong>Relationships:</strong> review an Other Belief when the
 relationship meaningfully changes; agree on shared premises with the
-other player as in §3.5.</p></li>
+other player as in <a
+href="#core-beliefs-goals-instincts">§3.5</a>.</p></li>
 </ul>
 <p>Acting against a Belief has no automatic penalty and doesn’t force a
 rewrite; the player decides whether it leads to reaffirmation or change.
 Don’t rewrite a Belief mid-decision to claim a reward. Rewriting alone
 earns neither XP nor Tychē.</p>
 <p>Keep one World, one Other and one Self Belief. Rewrite a Goal when
-it’s accomplished or no longer fits (§3.5). Instincts can change at
-milestones.</p>
-<h2 id="s-13-example-of-play">13. Example of Play</h2>
+it’s accomplished or no longer fits (<a
+href="#core-beliefs-goals-instincts">§3.5</a>). Instincts can
+change at milestones.</p>
+<h2 id="core-example-play">13. Example of Play</h2>
 <p><strong>Kade</strong>, a <em>Reckless Furcifer who Never Leaves
 Anyone Behind</em> (Mētis Edge 1), is creeping through a warehouse to
 free a captured friend. He has bought Effort Level 2 with an Advance;
-new characters start at Level 1 (§2.4, §12.2). The scene has <em>Dim
-Lighting</em> — Situational Condition 2 — helps hiding in the shadows,
+new characters start at Level 1 (<a
+href="#core-bonus-dice-effort">§2.4</a>, <a
+href="#core-spending-xp">§12.2</a>). The scene has <em>dim
+lighting</em> — Situational Condition 2 — helps hiding in the shadows,
 hinders reading and aiming — ends when the lamps are lit or the scene
 ends, and the Truth <em>Patrolling Guards</em>.</p>
 <ul>
 <li><p><strong>Roll:</strong> Stealth +3, power tag <em>quiet boots</em>
 +1, power tag <em>knows this district</em> +1 (tags capped at +2),
-<em>Dim Lighting</em> +2. The GM sets Hard 18, so Kade needs 11+ on the
+<em>dim lighting</em> +2. The GM sets Hard 18, so Kade needs 11+ on the
 dice.</p></li>
 <li><p><strong>Effort, part 1:</strong> Kade spends 3 − 1 Edge = 2 Mētis
 for a bonus die → 3d12 keep 2.</p></li>
@@ -3940,28 +4100,30 @@ Pneuma. The status drops to <em>terror-1</em>.</p></li>
 can't wait for backup; you go in now." Kade accepts and gains +1 Tychē
 Point.</p></li>
 </ul>
-<h3 id="s-13-1-a-scripted-conflict">13.1 A Scripted Conflict</h3>
+<h3 id="core-scripted-conflict">13.1 A Scripted Conflict</h3>
 <p>Later, at the warehouse gate, Kade, Mira and Tarin confront two
 guards. This is a new scene: the earlier Truth and Condition don’t
 apply, and Kade’s terror was treated once the spirit’s influence ended
-(§6.6). His spent Mētis and Pneuma stay spent. The PCs want to get their
-friend through the gate; the guards want to hold them until
-reinforcements arrive. The stakes are capture and nonlethal injury, not
-death.</p>
+(<a href="#core-treatment-healing">§6.6</a>). His spent Mētis and
+Pneuma stay spent. The PCs want to get their friend through the gate;
+the guards want to hold them until reinforcements arrive. The stakes are
+capture and nonlethal injury, not death.</p>
 <p><strong>Setup.</strong> Mira leads with Fight +3 and the highest Edge
 in its pool, 1. Her setup dice are 7 and 8: 7 + 8 + 3 + 1 = 19. Divide
 by 3 and round down to 6, then add +1 for each of her two eligible
 backers: <strong>starting Disposition 8</strong>. There are no other
 flat modifiers or Superiority. Backing supplies these points free, not
-extra Help dice (§10.2).</p>
+extra Help dice (<a href="#core-setup">§10.2</a>).</p>
 <p>The guards” Grit 5 and 3 give their side <strong>8
 Disposition</strong> without a setup roll. Record both starting totals:
-they cap Defend and set the compromise grade (§10.2).</p>
+they cap Defend and set the compromise grade (<a
+href="#core-setup">§10.2</a>).</p>
 <p><strong>Commit the exchange.</strong> Before the first reveal, the
 PCs script Kade on Maneuver, Mira on Attack and Tarin on Defend. The
 guards script the first guard on Maneuver, the second on Defend and the
 first again on Feint. That’s legal: both guards act in the first round,
-and the second guard acts between the first guard’s turns (§10.5).</p>
+and the second guard acts between the first guard’s turns (<a
+href="#core-scripting-volleys">§10.5</a>).</p>
 <p><strong>Volley 1 — Maneuver versus Maneuver.</strong> Both actions
 resolve independently. Kade uses Stealth +3 and one relevant tag for +1
 to slip around the first guard and open a path. His dice are 7 and 6,
@@ -3981,8 +4143,8 @@ and her weapon’s +1 Attack tag, then subtracts 3 for Impede:
 Power</strong>. She commits both to Attack, removing <strong>3 shared
 Disposition</strong> (2 Power + 1), and the guards fall from 8 to 5.
 Their losing Defend restores nothing, and no individual guard is hurt or
-removed by the loss. Both pending Maneuver benefits are now spent
-(§10.6).</p>
+removed by the loss. Both pending Maneuver benefits are now spent (<a
+href="#core-actions-effects">§10.6</a>).</p>
 <p><strong>Volley 3 — Defend versus Feint.</strong> Tarin’s Defend is
 trumped: no roll, and no Disposition restored. The first guard’s Feint
 rolls independently and succeeds with 2 Power, committed to remove 3 PC
@@ -3993,10 +4155,13 @@ push through. The injury follows from the action and preserves the
 side’s position. A tier-3 injury cancels 2 incoming loss, so the PCs
 lose only 1 Disposition, falling from 8 to <strong>7</strong>. Tarin
 marks his once-per-conflict injury trade used; at most one participant
-could trade against this Feint (§10.11).</p>
+could trade against this Feint (<a
+href="#core-accepting-injury">§10.11</a>).</p>
 <p>The injury is a protected payment: armour, Resistance, redirection
 and incidental clearing can’t touch it, and later healing doesn’t refund
-the trade (§10.7). Below tier 6, it doesn’t take him out.</p>
+the trade (<a
+href="#core-costs-failures-complications">§10.7</a>). Below tier
+6, it doesn’t take him out.</p>
 <p><strong>Continue or settle.</strong> After the exchange, the PCs have
 7 Disposition and the guards 5, so neither side has won. Rotation
 carries on into the next exchange: Tarin acted last, so he can’t take
@@ -4007,20 +4172,22 @@ Disposition</strong> left. They lost exactly half, so the compromise is
 <strong>Significant</strong>. That calls for one outcome-first package,
 not an automatic tier-3 injury, and Tarin’s existing injury can be
 credited once against it. The PCs achieve their stated intent, not
-permission to seize unrelated property or kill the guards
-(§10.12–10.13).</p>
+permission to seize unrelated property or kill the guards (<a
+href="#core-defeat-mutual-defeat-concession">§10.12</a>–<a
+href="#core-compromise">10.13</a>).</p>
 <p><strong>Afterward.</strong> Fresh Disposition in a new conflict won’t
 refill pools or heal Tarin’s shoulder. Treatment removes at most one
-tier of a lasting injury before a healing interval removes another
-(§6.6). A Taken Out character who is healed still needs explicit
-permission to rejoin an ongoing conflict (§6.4).</p>
+tier of a lasting injury before a healing interval removes another (<a
+href="#core-treatment-healing">§6.6</a>). A Taken Out character
+who is healed still needs explicit permission to rejoin an ongoing
+conflict (<a href="#core-being-taken-out">§6.4</a>).</p>
 <div class="rb-art-note">
 <p><strong>Art placeholder</strong><br />
 Players around a kitchen table mid-game: dice, tokens and a half-filled
 clock between them.</p>
 </div>
-<h2 id="s-14-design-notes-what-was-kept-changed-cut">14. Design Notes —
-What Was Kept, Changed, Cut</h2>
+<h2 id="core-design-notes">14. Design Notes — What Was Kept, Changed,
+Cut</h2>
 <table>
 <thead>
 <tr>
@@ -4076,7 +4243,7 @@ load-out</p></td>
 C, buy-offs, Escalation</p></td>
 <td><p>Weal from unspent Power; Truths are unrated facts, and numerical
 circumstances are Situational Conditions; complication range → Risk die
-(§2.7)</p></td>
+(<a href="#core-risky-rolls">§2.7</a>)</p></td>
 <td><p>d20 roll-under</p></td>
 </tr>
 <tr>
@@ -4086,14 +4253,15 @@ permissions, glitch examples as a consequence menu, circles versus named
 contacts, recovering signature assets, priced flashbacks</p></td>
 <td><p>A Specialisation adds one bonus die, not +2 to the rating; +2
 skills count as professional knowledge; tags stand in for Keywords;
-flashbacks cost Tychē and stay obvious or reasonable (§4.2)</p></td>
+flashbacks cost Tychē and stay obvious or reasonable (<a
+href="#core-prepared-advance">§4.2</a>)</p></td>
 <td><p>Risk Dice and Risk Reduction, Shadow Amp pricing, Essence, Edge
 extra actions, Dispositions and Cues, the Network skill, temporary
 equipment</p></td>
 </tr>
 </tbody>
 </table>
-<h3 id="s-14-1-known-risks">14.1 Known Risks</h3>
+<h3 id="core-known-risks">14.1 Known Risks</h3>
 <ul>
 <li><p><strong>Currency load:</strong> pools + Tychē + Weal + Woe is the
 upper limit for medium crunch. Keep spend menus short on the
@@ -4107,65 +4275,83 @@ rating prices broad Situational Conditions fairly.</p></li>
 very efficient. Watch Edge-3 pools where Effort is free; consider a
 minimum cost of 1.</p></li>
 <li><p><strong>Resistance dice:</strong> Edge adds Resistance dice
-instead of reducing the cost, and only a double 12 is free (§6). Watch
-how often stacked penalties (two −1 Edge penalties on a 0-Edge pool)
-push Resistance to negative Edge, whether high-Edge pools drain faster
-than before, and whether the double-12 result (1–6%) is too rare to
+instead of reducing the cost, and only a double 12 is free (<a
+href="#core-resistance-harm-recovery">§6</a>). Watch how often
+stacked penalties (two −1 Edge penalties on a 0-Edge pool) push
+Resistance to negative Edge, whether high-Edge pools drain faster than
+before, and whether the double-12 result (1–6%) is too rare to
 matter.</p></li>
 <li><p><strong>Four pools</strong> means more pool points to track. The
 sheet should put all four in one row with Edge beside each.</p></li>
 <li><p><strong>Conflict length:</strong> with scripting used for every
-big contest, the conflict test (§10.1) is what stops overuse.</p></li>
+big contest, the conflict test (<a
+href="#core-when-use-conflict">§10.1</a>) is what stops
+overuse.</p></li>
 <li><p><strong>Running dry:</strong> running dry imposes a status at
-tier 1 + overrun, and Scars come from tier 6, not from an empty pool
-(§6.1–6.3). Playtest the 2-points-per-tier depletion rate, the
-one-Scar-per-scene limit, and how often Resisting on an empty pool
-reaches tier 4 or higher.</p></li>
-<li><p><strong>Damage cycle:</strong> watch whether the injury trade
-(§10.11) is a hard choice or always taken, and whether it drags
-conflicts out. Test the healing intervals, the 3-segment Dying clock,
-and whether the 1-tier treatment limit makes Restore-cost abilities
-(<em>Field Medic</em>, <em>Field Surgeon</em>) too weak against lasting
-injuries.</p></li>
-<li><p><strong>Shared Disposition:</strong> one track per side (§10.2,
-§10.9). Watch whether a lone remaining participant acting repeatedly
-feels heroic or too forgiving, and whether larger parties get too many
-injury trades.</p></li>
+tier 1 + overrun, and Scars come from tier 6, not from an empty pool (<a
+href="#core-running-dry">§6.1</a>–<a
+href="#core-tier-6-scars">6.3</a>). Playtest the 2-points-per-tier
+depletion rate, the one-Scar-per-scene limit, and how often Resisting on
+an empty pool reaches tier 4 or higher.</p></li>
+<li><p><strong>Damage cycle:</strong> watch whether the injury trade (<a
+href="#core-accepting-injury">§10.11</a>) is a hard choice or
+always taken, and whether it drags conflicts out. Test the healing
+intervals, the 3-segment Dying clock, and whether the 1-tier treatment
+limit makes Restore-cost abilities (<em>Field Medic</em>, <em>Field
+Surgeon</em>) too weak against lasting injuries.</p></li>
+<li><p><strong>Shared Disposition:</strong> one track per side (<a
+href="#core-setup">§10.2</a>, <a
+href="#core-shared-disposition-participation">§10.9</a>). Watch
+whether a lone remaining participant acting repeatedly feels heroic or
+too forgiving, and whether larger parties get too many injury
+trades.</p></li>
 <li><p><strong>Old simulation figures:</strong> earlier notes reported
 mirrored fights about 23.5% shorter with shared Disposition, and an
 older setup averaging about 6 Disposition (range 3–9) and 6 volleys.
 Those figures predate the divide-by-three setup; re-run them before
 predicting conflict length. A fixed track of 5 is a possible comparison,
 not a rule.</p></li>
-<li><p><strong>Attack and Feint +1</strong> (§10.6): watch whether
-Defend keeps pace, whether Feint becomes the default action, and how the
-+1 stacks with <em>Crowd Work</em> and <em>Every Trick in the
+<li><p><strong>Attack and Feint +1</strong> (<a
+href="#core-actions-effects">§10.6</a>): watch whether Defend
+keeps pace, whether Feint becomes the default action, and how the +1
+stacks with <em>Crowd Work</em> and <em>Every Trick in the
 Book</em>.</p></li>
-<li><p><strong>Superiority</strong> (§10.3): watch whether preparation
+<li><p><strong>Superiority</strong> (<a
+href="#core-superiority">§10.3</a>): watch whether preparation
 becomes routine, how often both sides claim it, and whether one
 advantage is being described several ways to claim more
 categories.</p></li>
-<li><p><strong>Specialisations and Knowledge</strong> (§3.3): watch how
-often the Specialisation die applies, whether it changes the kept pair,
-whether it saves Effort or Woe, and how often the +2 cap makes it
-redundant. Narrow an overbroad Specialisation before changing the bonus.
-If players keep asking whether knowledge gives +1, clarify the wording
-rather than adding a modifier. Check that contacts create choices, that
-signature items matter without more routine bonus dice, and that
-consequences leave successful characters something to act on.</p></li>
+<li><p><strong>Specialisations and Knowledge</strong> (<a
+href="#core-skill-pyramid">§3.3</a>): watch how often the
+Specialisation die applies, whether it changes the kept pair, whether it
+saves Effort or Woe, and how often the +2 cap makes it redundant. Narrow
+an overbroad Specialisation before changing the bonus. If players keep
+asking whether knowledge gives +1, clarify the wording rather than
+adding a modifier. Check that contacts create choices, that signature
+items matter without more routine bonus dice, and that consequences
+leave successful characters something to act on.</p></li>
 <li><p><strong>Specialists in scripted conflicts:</strong> if a
 character has no legal specialist contribution under the action lists,
 treat it as an action-design question; don’t let a Specialisation
 override the script.</p></li>
-<li><p><strong>Prepared in Advance</strong> (§4.2): watch Tychē use and
+<li><p><strong>Prepared in Advance</strong> (<a
+href="#core-prepared-advance">§4.2</a>): watch Tychē use and
 overlap with the Furcifer’s ★ <em>Flashback</em>.</p></li>
-<li><p><strong>Playtest flags in the text:</strong> §2.1 status and
-Condition range; §5.1 stacking; §5.2 Condition accumulation; §6 negative
-Edge; §9.2 dangerous-circumstance Woe cap; §10.8 Floor Collapse and Make
-a Hazard prices; §6.3 one Scar per scene; §10.3 PC/opposition symmetry
-and Superiority eligibility; §10.5 Feint versus Maneuver; §10.13
-four-step compromise; §10.17 area effects. These notes don’t settle
-them.</p></li>
+<li><p><strong>Playtest flags in the text:</strong> <a
+href="#core-roll">§2.1</a> status and Condition range; <a
+href="#core-personal-statuses">§5.1</a> stacking; <a
+href="#core-situational-conditions">§5.2</a> Condition
+accumulation; <a href="#core-resistance-harm-recovery">§6</a>
+negative Edge; <a href="#core-woe">§9.2</a> dangerous-circumstance
+Woe cap; <a href="#core-scenery-maneuvers">§10.8</a> Floor
+Collapse and Make a Hazard prices; <a
+href="#core-tier-6-scars">§6.3</a> one Scar per scene; <a
+href="#core-superiority">§10.3</a> PC/opposition symmetry and
+Superiority eligibility; <a
+href="#core-scripting-volleys">§10.5</a> Feint versus Maneuver; <a
+href="#core-compromise">§10.13</a> four-step compromise; <a
+href="#core-area-effects">§10.17</a> area effects. These notes
+don’t settle them.</p></li>
 </ul>
 {% endraw %}
 <nav class="rb-pager" aria-label="Chapter navigation">
