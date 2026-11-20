@@ -82,9 +82,10 @@ Resistance</p></td>
 you whether you succeed, how well (Power), and whether something twists
 (doubles).</p></li>
 <li><p><strong>Fiction is mechanical.</strong> Tags, statuses and Truths
-give recorded fiction mechanical weight: tags and statuses modify the
-roll, Truths shift Difficulty (§2, §5, §8). Use only the modifiers a
-rule names; don’t invent situational maths.</p></li>
+give recorded fiction mechanical weight: tags, statuses and Situational
+Conditions modify the roll, and Truths decide what is possible (§2, §5,
+§8). Use only the modifiers a rule names; don’t invent situational
+maths.</p></li>
 <li><p><strong>Characters are driven, not just capable.</strong>
 Beliefs, Goals, and Instincts are the primary engine for earning Tychē
 Points and XP.</p></li>
@@ -98,12 +99,22 @@ untrained = +0).</p></li>
 <li><p><strong>Tags:</strong> +1 per relevant <strong>power
 tag</strong>, <strong>maximum +2 per roll</strong>. −1 per relevant
 <strong>weakness tag</strong> (no cap).</p></li>
-<li><p><strong>Statuses:</strong> + the tier of the highest relevant
-helpful status, − the tier of the highest relevant harmful
-status.</p></li>
-<li><p><strong>Truths:</strong> shift Difficulty by steps (§8), not the
-roll: one step per rank, ±3 steps at most.</p></li>
+<li><p><strong>Personal statuses:</strong> + the tier of the highest
+relevant helpful status, − the tier of the highest relevant harmful
+status (§5.1).</p></li>
+<li><p><strong>Situational Conditions:</strong> + the rating of the
+highest relevant helpful Condition, − the rating of the highest relevant
+harmful one (§5.2).</p></li>
+<li><p><strong>Truths</strong> add nothing to the roll. They decide
+whether an action is possible, certain or needs something first
+(§8).</p></li>
 </ul>
+<p>Use at most one helpful and one harmful modifier from each of the two
+slots; equal ratings don’t combine, and the others stay recorded for
+other actions. Assess each actor separately in a versus test, and don’t
+add an extra modifier just because the opponent is hindered.</p>
+<p><em>Example:</em> dice 16 + Skill 3 − <em>exhausted-3</em> +
+<em>rehearsed plan 2</em> − <em>slippery bridge 3</em> = 15.</p>
 <p>Why 2d12 summed: it produces a bell curve (2–24, average 13) —
 predictable for skilled characters, swingy at the extremes, and big
 enough that +1 modifiers matter without dominating.</p>
@@ -175,8 +186,9 @@ background, Knowledge Skill (§3.3), tool or ability can make an action
 possible, or remove an obstacle caused only by its absence. Permission
 isn’t a bonus: it adds no die or modifier unless a rule says so. A
 suitable diagnostic kit lets you inspect a sealed mechanism without
-damaging it; it doesn’t guarantee you identify the fault. If the outcome
-is still uncertain and matters, roll.</p>
+damaging it; it doesn’t guarantee you identify the fault. Relevant
+Truths are part of this check (§8.1). If the outcome is still uncertain
+and matters, roll.</p>
 <h3 id="s-2-3-odds-reference">2.3 Odds Reference</h3>
 <p>Chance to hit the number needed on the dice (after subtracting your
 bonuses):</p>
@@ -956,10 +968,13 @@ you can find now; an optional flashback covers what you arranged earlier
 <ul>
 <li><p><strong>Invoke</strong> — reroll all dice, or add +2 after
 rolling. This works with any tag or Truth you can justify, even one
-belonging to the scene or an enemy. Invokes are not limited by the tag
-cap. Invoke before the roll’s outcome is resolved. A reroll changes the
-dice, not a cost already paid or a consequence already
-resolved.</p></li>
+belonging to the scene or an enemy; the approach must already be
+possible. A Truth gives no modifier itself, so the benefit comes from
+the Tychē Point. The +2 sits outside the status and Condition slots and
+the tag cap; a Condition’s underlying fact can justify an Invoke, but
+its rating adds no further free bonus. Invoke before the roll’s outcome
+is resolved. A reroll changes the dice, not a cost already paid or a
+consequence already resolved.</p></li>
 <li><p><strong>Declare</strong> — establish a minor fact about the
 scene. The GM may require it to tie to one of your tags.</p></li>
 <li><p><strong>Resist harder</strong> — reduce one Resistance cost to 0
@@ -967,8 +982,9 @@ scene. The GM may require it to tie to one of your tags.</p></li>
 </ul>
 <p><strong>Declarations stay minor.</strong> A declared fact can make an
 approach possible or supply a relevant asset. It can’t resolve an action
-by itself, buy status tiers or Disposition, or change Truths above scene
-scale (§8).</p>
+by itself, buy status tiers, Situational Condition ratings or
+Disposition, inflict harm, or change Truths above scene scale (§8). A
+consequential Create can’t be relabelled minor to avoid its cost.</p>
 <p><strong>Resisting harder.</strong> The Resistance still resolves
 normally, but its pool cost is 0, so it can’t run the pool dry, even if
 the pool is already empty (§6.1). It doesn’t restore spent points or
@@ -1063,9 +1079,9 @@ fact, erase a resolved consequence, or reverse a cost already paid.
 <em>The ferry we just watched burn was a decoy</em> isn’t
 allowed.</p></li>
 <li><p><strong>Declaration limits apply.</strong> Like Declare, it can’t
-resolve an action by itself, buy status tiers or Disposition, change
-Truths above scene scale, or recalculate Superiority after setup. In
-scripted conflicts, §10.18 sets its timing.</p></li>
+resolve an action by itself, buy status tiers, Condition ratings or
+Disposition, change Truths above scene scale, or recalculate Superiority
+after setup. In scripted conflicts, §10.18 sets its timing.</p></li>
 </ul>
 <p>Load covers what you brought; contacts cover what you can find now
 (§3.6); a flashback covers what you arranged earlier.</p>
@@ -1088,23 +1104,26 @@ Disposition instead (§10.6)</p></td>
 </tr>
 <tr>
 <td><p><strong>Weaken</strong></p></td>
-<td><p>1</p></td>
-<td><p>Reduce one of the target's statuses by 1 tier, or
-<strong>Suppress</strong> one of its tags for the scene. In conflicts,
-only with an explicit ability (§10.6)</p></td>
+<td><p>1, or 2 per rating (Situational Condition)</p></td>
+<td><p>Reduce one of the target's statuses by 1 tier, reduce a harmful
+Situational Condition by 1 rating by addressing its cause, or
+<strong>Suppress</strong> one of the target’s tags for the scene. In
+conflicts, only with an explicit ability (§10.6)</p></td>
 </tr>
 <tr>
 <td><p><strong>Create</strong></p></td>
-<td><p>2 Power per rank</p></td>
-<td><p>Create a <strong>Truth</strong> (<em>smoke cover</em>, <em>crowd
-on our side</em>) that lasts for the scene or until its removal
-condition is met. +1 Power: it ignores the end of the scene. Record its
-scope, rank and removal condition (§8)</p></td>
+<td><p>2 (Truth) or 2 per rating (Situational Condition)</p></td>
+<td><p>Create a scene <strong>Truth</strong> (<em>a rope bridge spans
+the gap</em> §8) or a <strong>Situational Condition</strong> (<em>smoke
+cover 2</em>, <em>crowd on our side 1</em> §5.2). Either lasts for the
+scene or until its removal condition is met. +1 Power: it ignores the
+end of the scene. Record it in the standard format</p></td>
 </tr>
 <tr>
 <td><p><strong>Enhance</strong></p></td>
 <td><p>1 per tier</p></td>
-<td><p>Give an ally a helpful status (<em>inspired-2</em>)</p></td>
+<td><p>Give an ally a helpful personal status
+(<em>inspired-2</em>)</p></td>
 </tr>
 <tr>
 <td><p><strong>Restore</strong></p></td>
@@ -1145,21 +1164,55 @@ unlock anything else.</p>
 <p><strong>Free</strong> waives only the stated cost, not timing,
 permissions or limits.</p>
 <p><strong>Create discounts.</strong> Only an ability or item that
-states a discount lowers Create’s cost: −1 Power per discount, minimum
-1. Being relevant doesn’t make a tag or Truth a discount. Truths above
-scene scale need clocks or major arcs (Module C.6).</p>
-<h3 id="s-5-1-statuses">5.1 Statuses</h3>
+states a discount lowers Create’s cost, and only for the purchase it
+names: −1 Power per discount, minimum 1 unless it says the purchase is
+free. Being relevant doesn’t make a tag or Truth a discount. Truths
+above scene scale need clocks or major arcs (Module C.6).</p>
+<p><strong>One circumstance, one purchase.</strong> Creating a
+Situational Condition establishes its ordinary basis: buying <em>smoke
+cover 2</em> creates the smoke, so don’t also charge for a Truth. A
+Truth doesn’t come with a free rating. The action must reach the people
+or area affected; these purchases add no area or selective targeting of
+their own (§10.17).</p>
+<p><strong>Recording temporary facts.</strong> Record every temporary
+mechanical fact (a status, a Situational Condition, a Truth, or a
+temporary benefit or penalty such as Gain Position or Impede) in one
+line, in this order:</p>
+<p><strong>Name — category/rating — scope — ending
+condition</strong></p>
 <ul>
-<li><p>Statuses have <strong>tiers 1–6</strong>. They modify rolls by
-<strong>± their tier</strong> (use only the highest relevant harmful
-status and the highest relevant helpful status).</p></li>
+<li><p><strong>Category/rating:</strong> what kind of fact it is and its
+value: a personal status’s tier, a Situational Condition’s rating, a
+Truth’s scale, or a temporary benefit’s stated effect. Truths and
+unrated effects stay unrated; don’t invent a rating for them.</p></li>
+<li><p><strong>Scope:</strong> who or what it affects, and when it
+applies.</p></li>
+<li><p><strong>Ending condition:</strong> its duration and any event
+that ends it early. A removal condition never extends a
+duration.</p></li>
+</ul>
+<p>The shared format doesn’t change any fact’s category or mechanics: a
+temporary benefit doesn’t become a status, and a Truth doesn’t gain a
+modifier. In running text, a status can still be written with its tier
+(<em>wounded-2</em>).</p>
+<h3 id="s-5-1-personal-statuses">5.1 Personal Statuses</h3>
+<p>A <strong>status</strong> is a physical, mental or emotional state of
+a person (or of a group that shares one, §5.2): <em>wounded</em>,
+<em>inspired</em>, <em>terrified</em>. External circumstances are
+Situational Conditions (§5.2), and established facts are Truths
+(§8).</p>
+<ul>
+<li><p>Statuses have <strong>tiers 1–6</strong>. On a roll, add the tier
+of the highest relevant helpful status and subtract the tier of the
+highest relevant harmful status (§2.1).</p></li>
 <li><p><strong>Recording a status.</strong> When you create a status,
 record its name and tier, its <strong>scope</strong> (who or what it
 affects, and in which circumstances), and its <strong>removal
 condition</strong> (the event, recovery, treatment, or change that ends
-it). The scope must follow from the fiction. <em>Mapped patrol
-routes-2</em> — evading the patrols you watched; ends when the routes
-change.</p></li>
+it), in the format above. The scope must follow from the fiction.
+<em>Injured ankle</em> — personal status 2 — running, jumping and
+balancing on the injured leg — ends through appropriate treatment and
+recovery.</p></li>
 <li><p><strong>What it hinders.</strong> A status modifies only rolls
 within its scope: <em>slashed thigh-3</em> hinders running and climbing,
 not reading a ledger. A status can also decide what is possible: no roll
@@ -1191,13 +1244,105 @@ status at tier 6 can make you <strong>Dying</strong> (§6.7).</p></li>
 conflict penalty (§10.6). An ongoing hindrance needs its own name, tier,
 scope and removal condition.</p></li>
 </ul>
-<h3 id="s-5-2-example-statuses">5.2 Example Statuses</h3>
-<p>Statuses can describe physical, mental, emotional, or social
-circumstances. The following names are examples, not a closed list. When
-recording one, give it a tier, a specific scope, and a removal condition
-(§5.1). Use a more precise name whenever it makes the effect clearer.
-These examples grant no new permission to purchase or inflict statuses;
-normal Effect costs and conflict permissions still apply.</p>
+<h3 id="s-5-2-situational-conditions">5.2 Situational Conditions</h3>
+<p>A <strong>Situational Condition</strong> is an external circumstance
+that helps or hinders particular actions by a number: terrain,
+visibility, positioning, preparation, resources, or other people’s
+responses (<em>slippery bridge</em>, <em>rehearsed escape plan</em>,
+<em>supporting witnesses</em>).</p>
+<ul>
+<li><p><strong>Ratings 1–6.</strong> On a roll, add the rating of the
+highest relevant helpful Situational Condition and subtract the rating
+of the highest relevant harmful one (§2.1). The same Condition can help
+one action and hinder another: <em>thick smoke</em> hinders aiming
+through it and helps hiding in it.</p></li>
+<li><p><strong>Recording.</strong> Use the standard format:
+<em>Rehearsed escape plan</em> — Situational Condition 2 — helps
+participants follow the agreed routes, signals and fallbacks — ends when
+the escape is completed or circumstances invalidate the plan.</p></li>
+<li><p><strong>Creating and reducing.</strong> Create buys a Situational
+Condition at <strong>2 Power per rating</strong>, and Weaken reduces one
+at <strong>2 Power per rating</strong> by addressing its cause (§5).
+Established circumstances, equipment, hazards, consequences and explicit
+abilities can also supply one through their own rules. Weal and Woe
+can’t buy ratings directly (§9).</p></li>
+</ul>
+<ul>
+<li><p><strong>Stacking.</strong> Building on the same circumstance sets
+the Condition to <strong>one rating above the higher</strong> of the
+existing and new ratings, never above 6 (<em>Dim Lighting 3</em>
+darkened by a rating-2 Condition becomes <em>Dim Lighting 4</em>). This
+matches status stacking (§5.1).</p></li>
+<li><p><strong>Rating 6</strong> is the most a Condition can be. When a
+harmful Condition first reaches rating 6, the GM gets <strong>one free
+consequence</strong> that fits it (the guards are called, a contact cuts
+ties) <strong>or a matching Truth</strong> that prohibits or requires
+something (<em>Discredited 6</em>: nobody here will vouch for you),
+whichever is more narratively appropriate, with no Woe spent. Choose a
+consequence as in §2.5 and keep either within the stakes; a Truth
+created this way lasts as long as the Condition. The Condition doesn’t
+Take Out, cause a Scar or inflict harm by itself; a dangerous place uses
+its listed Danger or harm procedure (§8.5, §6).</p></li>
+<li><p><strong>Set the category by cause.</strong> Classify by what
+caused the fact, not by its name, where it’s written or the most useful
+slot. Renaming doesn’t change it; review category and scope only when
+circumstances genuinely change.</p></li>
+</ul>
+<table>
+<thead>
+<tr>
+<th><p>Personal status</p></th>
+<th><p>Situational Condition</p></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><p>An injury impairs movement</p></td>
+<td><p>Mud obstructs movement</p></td>
+</tr>
+<tr>
+<td><p>Fear disrupts concentration</p></td>
+<td><p>Enemy positioning restricts an approach</p></td>
+</tr>
+<tr>
+<td><p>Encouragement renews resolve</p></td>
+<td><p>Allies actively support an argument</p></td>
+</tr>
+<tr>
+<td><p>Fatigue reduces endurance</p></td>
+<td><p>A rehearsed plan guides action</p></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Groups and places.</strong> Record a shared status or
+Condition once; a group isn’t a third category. A frightened patrol
+shares one personal status, a party following a rehearsed plan shares
+one Situational Condition, and smoke in a courtyard is one Situational
+Condition for the relevant actions there. Members must actually share
+the cause; joining or leaving a group doesn’t by itself grant or remove
+one. A group represented by one rules entry applies the modifier once,
+not per member. A place Condition doesn’t become a status on everyone
+inside it, and leaving its scope stops it applying without healing any
+separate injury.</p>
+<p><strong>No duplication.</strong> One circumstance doesn’t create
+several effects automatically. Smoke doesn’t give both a visibility
+penalty and a free <em>smoke-blinded</em> status, and a crowd doesn’t
+give both <em>supporting crowd</em> and <em>inspired</em>. A distinct
+effect needs its own fictional or mechanical basis: smoke can obstruct
+sight and separately inflict an established lung injury, resolved
+through its own harm procedure.</p>
+<p><strong>Harm comes from procedures, not categories.</strong> A
+category or rating alone doesn’t cause damage, Disposition loss, removal
+or a Scar. Resistance, worsening, recovery and protected payments work
+as before, and choosing the highest modifier doesn’t stop other statuses
+and Conditions existing or worsening.</p>
+<h3 id="s-5-3-example-statuses-and-conditions">5.3 Example Statuses and
+Conditions</h3>
+<p>The following names are examples, not a closed list. When recording
+one, give it a tier or rating, a specific scope, and a removal condition
+(§5.1, §5.2). Use a more precise name whenever it makes the effect
+clearer. These examples grant no new permission to purchase or inflict
+anything; normal Effect costs and conflict permissions still apply.</p>
 <table>
 <thead>
 <tr>
@@ -1219,21 +1364,6 @@ distraction.</p></td>
 <td><p>Composed</p></td>
 <td><p>Maintaining restraint and clarity under emotional or social
 pressure.</p></td>
-</tr>
-<tr>
-<td><p>Prepared</p></td>
-<td><p>Acting on specific plans, reconnaissance, or rehearsed
-procedures.</p></td>
-</tr>
-<tr>
-<td><p>Supported</p></td>
-<td><p>Drawing on established backing from allies, a crowd, or an
-institution.</p></td>
-</tr>
-<tr>
-<td><p>Trusted</p></td>
-<td><p>Persuading or reassuring a particular person or group that
-believes in you.</p></td>
 </tr>
 </tbody>
 </table>
@@ -1268,42 +1398,79 @@ intimidation.</p></td>
 <td><p>Facing, approaching, or acting against a particular source of
 fear.</p></td>
 </tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th><p>Situational Condition</p></th>
+<th><p>Typical scope</p></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><p>Prepared</p></td>
+<td><p>Helps actions that follow specific plans, reconnaissance, or
+rehearsed procedures.</p></td>
+</tr>
+<tr>
+<td><p>Supported</p></td>
+<td><p>Helps actions drawing on established backing from allies, a
+crowd, or an institution.</p></td>
+</tr>
+<tr>
+<td><p>Trusted</p></td>
+<td><p>Helps persuading or reassuring a particular person or group that
+believes in you.</p></td>
+</tr>
 <tr>
 <td><p>Discredited</p></td>
-<td><p>Claims and appeals made to an audience whose trust has been
-damaged.</p></td>
+<td><p>Hinders claims and appeals made to an audience whose trust has
+been damaged.</p></td>
+</tr>
+<tr>
+<td><p>Concealed</p></td>
+<td><p>Helps hiding or moving unseen through smoke, darkness or
+cover.</p></td>
+</tr>
+<tr>
+<td><p>Obstructed</p></td>
+<td><p>Hinders movement or sight through terrain, weather, smoke or
+darkness.</p></td>
 </tr>
 </tbody>
 </table>
 <p><strong>Make the scope specific.</strong> Prepared and Supported need
 an established basis: name the plan, information, allies, or backing
-involved. One circumstance does not automatically grant a status and a
-separate tag or Truth benefit; establish and apply each component by its
-own rules. Trusted and Discredited apply to a named audience and
-subject, not everyone or every interaction. They are not universal
-reputation scores and do not automatically decide what another character
-believes. Exhausted should identify the depleted capacity rather than
-penalise everything.</p>
+involved. Trusted and Discredited apply to a named audience and subject,
+not everyone or every interaction. They are not universal reputation
+scores and do not automatically decide what another character believes.
+Exhausted should identify the depleted capacity rather than penalise
+everything.</p>
 <p><strong>Recording examples.</strong></p>
 <ul>
-<li><p><em>Mapped patrol routes-2</em>: helps evade the observed
-patrols; ends when their routes change.</p></li>
-<li><p><em>Trusted by the village council-2</em>: helps persuade the
-council about local threats within your established credibility; ends
-when that trust is withdrawn or betrayed.</p></li>
-<li><p><em>Mentally exhausted-3</em>: hinders sustained mental work;
-ends through appropriate recovery (§6.5).</p></li>
-<li><p><em>Discredited before the merchant guild-2</em>: hinders claims
-about the disputed shipment made to the guild; ends when the accusation
-is disproved or credibility is restored.</p></li>
+<li><p><em>Mapped patrol routes</em> — Situational Condition 2 — helps
+evading the observed patrols — ends when their routes change.</p></li>
+<li><p><em>Trusted by the village council</em> — Situational Condition 2
+— helps persuading the council about local threats within your
+established credibility — ends when that trust is withdrawn or
+betrayed.</p></li>
+</ul>
+<ul>
+<li><p><em>Mentally exhausted</em> — personal status 3 — sustained
+mental work — ends through appropriate recovery (§6.5).</p></li>
+<li><p><em>Discredited before the merchant guild</em> — Situational
+Condition 2 — hinders claims about the disputed shipment made to the
+guild — ends when the accusation is disproved or credibility is
+restored.</p></li>
 </ul>
 <p><strong>Special conditions stay separate.</strong> These examples use
-the normal tiered-status rules. Grind conditions — Hungry &amp; Thirsty,
-Weary, Exposed, Shaken, Sick, and Broken — use their listed effects and
-recovery requirements (Module B.3), not generic tiers inferred from
-their order. Running-dry statuses also follow their pool-specific
-procedure (§6.2). Impede is a temporary conflict effect, not a status
-(§10.6).</p>
+the normal status and Situational Condition rules. Grind conditions —
+Hungry &amp; Thirsty, Weary, Exposed, Shaken, Sick, and Broken — use
+their listed effects and recovery requirements (Module B.3), not generic
+tiers inferred from their order. Running-dry statuses also follow their
+pool-specific procedure (§6.2). Impede is a temporary conflict effect,
+not a status (§10.6).</p>
 <h2 id="s-6-resistance-harm-and-recovery">6. Resistance, Harm and
 Recovery</h2>
 <p>When an imposed consequence lands on you (a status, lost gear, a bad
@@ -1875,12 +2042,13 @@ never just to farm Weal.</p>
 stopping bleeding, splinting a limb, pulling someone away from a harmful
 influence, isolating a damaged power cell. It doesn’t normally reduce
 the tier. When the outcome is uncertain, roll the treatment skill vs.
-<strong>Standard 15</strong>, adjusted by Truths. On a success, the
-deterioration stops or treatment can begin. On a Success at a Cost, the
-same, with the normal cost. On a failure, the condition is still
-untreated; the GM announces any further consequence before another
-attempt. During scripted conflicts, use the conflict-specific
-consequence restrictions (§10.7).</p>
+<strong>Standard 15</strong>, with relevant statuses and Situational
+Conditions modifying the roll. On a success, the deterioration stops or
+treatment can begin. On a Success at a Cost, the same, with the normal
+cost. On a failure, the condition is still untreated; the GM announces
+any further consequence before another attempt. During scripted
+conflicts, use the conflict-specific consequence restrictions
+(§10.7).</p>
 <p><strong>Restore on lasting injuries.</strong> Restore costs 1 Power
 per tier (§5). It can clear a <strong>temporary</strong> condition
 outright when the action removes its cause: putting out burning clothes
@@ -2004,8 +2172,9 @@ that could worsen the mortal injury marks one extra segment, even though
 the injury stays at tier 6. One action or hazard can mark at most one
 extra segment. When the third segment is marked, the character dies.</p>
 <p><strong>Stabilising.</strong> An adjacent character with suitable
-means rolls Medicine vs. <strong>Hard 18</strong>, adjusted by Truths.
-An ability or a fitting supernatural method can offer another way.</p>
+means rolls Medicine vs. <strong>Hard 18</strong>, with relevant
+statuses and Situational Conditions modifying the roll. An ability or a
+fitting supernatural method can offer another way.</p>
 <ul>
 <li><p><strong>Success:</strong> the patient is stable and the clock
 stops.</p></li>
@@ -2093,55 +2262,141 @@ don’t override it. Examples: the Grind (Module B) and the Dying clock
 named goal; Disposition measures a side’s ability to pursue a conflict
 (§10.18).</p>
 <h2 id="s-8-truths">8. Truths</h2>
-<p><strong>Truths</strong> are tags that describe the scene, location,
-faction, or campaign.</p>
+<p>A <strong>Truth</strong> is an established fact about a person,
+group, object, place or the world. It can permit or prevent an approach,
+set a requirement, establish a danger or define the setting.</p>
+<p><strong>Truths have no rank and no modifier.</strong> A Truth doesn’t
+change rolls, Difficulty, Power, status tiers, Situational Condition
+ratings or Disposition by itself. When a circumstance should help or
+hinder a roll by a number, record it as a <strong>Situational
+Condition</strong> (§5.2). One circumstance can be both: <em>Barred
+River Gate</em> is a Truth; <em>Thick Smoke 3</em> is a Situational
+Condition.</p>
 <ul>
-<li><p><strong>Scene Truths:</strong> <em>Pitch Dark</em>, <em>Knee-Deep
-Water</em>, <em>Hostile Crowd</em>. Each relevant Truth raises or lowers
-Difficulty by one step (±3) per rank, makes an action impossible or
-possible, or can be invoked with a Tychē Point.</p></li>
-<li><p><strong>Rank.</strong> A Truth is rank 1 unless a number follows
-its name: <em>Pitch Dark 2</em> shifts Difficulty by two steps (±6).
-Rank 2 is the most a Truth can have; anything stronger makes the action
-impossible.</p></li>
-<li><p><strong>Truth cap.</strong> Easier and harder Truths cancel step
-for step. Whatever is left shifts a roll’s Difficulty by at most
-<strong>three steps</strong> (±9).</p></li>
-<li><p><strong>Dangerous Truths.</strong> A scene Truth is dangerous
-when it carries lethal stakes or a listed Danger (<em>Gas Leak</em>,
-<em>Collapsing Floor</em> §10.8). Each one gives the GM +1 Woe per scene
-it is in play (§9.2).</p></li>
-<li><p><strong>Campaign Truths:</strong> 3–5 world statements agreed at
-session zero (<em>Magic is real but feared</em>, <em>The Corporation
-owns the police</em>).</p></li>
-<li><p><strong>Creating Truths:</strong> players use the
-<strong>Create</strong> effect or spend <strong>2 Weal</strong>; the GM
-spends <strong>2 Woe</strong>. A new Truth is rank 1. Pay the same cost
-again, at once or later, to raise it to rank 2. A Truth lasts for the
-scene; only Create can pay +1 Power to make it outlast the scene (§5).
-The GM may also allow this for an existing Truth when the fiction
-supports it (<em>Thick Mist</em> thickening into <em>Thick Mist
-2</em>).</p></li>
-<li><p><strong>Recording a Truth.</strong> When a Truth is created, or
-an existing fact first matters mechanically, state its
-<strong>scope</strong> (the people, objects, place, or circumstances it
-affects), its <strong>rank</strong> and its <strong>removal
-condition</strong>. It only applies within its scope. It also ends when
-its duration expires; a removal condition never extends a duration (§5).
-<em>Smoke fills the courtyard</em> — sight-based actions in the
-courtyard; ends when the smoke clears.</p></li>
-<li><p><strong>Removing Truths:</strong> use the Weaken or Create effect
-as a counter ("I kill the lights" removes <em>Brightly Lit</em>), at GM
-discretion. Each counter lowers a Truth by one rank, and a rank-1 Truth
-that is countered is gone.</p></li>
+<li><p><strong>Permission:</strong> <em>a drainage tunnel reaches the
+inner courtyard</em>.</p></li>
+<li><p><strong>Prohibition:</strong> <em>the door has no
+keyhole</em>.</p></li>
+<li><p><strong>Requirement:</strong> <em>admission requires the royal
+seal</em>.</p></li>
+<li><p><strong>Danger:</strong> <em>flame can ignite the gas in the
+cellar</em>.</p></li>
+<li><p><strong>World fact:</strong> <em>magic is real but
+feared</em>.</p></li>
 </ul>
-<p><strong>Rank only shifts Difficulty.</strong> It adds nothing to the
-roll, Power, Disposition or status tier. Conflicts add further limits on
-creating and countering Truths (§10.18).</p>
-<p><strong>Scale.</strong> Scene-scale Creates and spends can’t rewrite
-Site, Region or Campaign Truths; that takes the projects and major arcs
-in <strong>Module C</strong>, which also covers using Truths to drive a
-sandbox campaign.</p>
+<h3 id="s-8-1-possibility-before-difficulty">8.1 Possibility Before
+Difficulty</h3>
+<p>Check relevant Truths before anyone rolls (§2.2):</p>
+<ul>
+<li><p><strong>Possible and uncertain:</strong> roll normally.</p></li>
+<li><p><strong>Prevented:</strong> explain the restriction. The
+character changes the circumstances or the approach.</p></li>
+<li><p><strong>Certain:</strong> it happens without a roll.</p></li>
+<li><p><strong>Requirement unmet:</strong> establish how it is met or
+bypassed first.</p></li>
+</ul>
+<p>No bonus overcomes an impossible approach. A Truth restricts only
+what its wording and scope support: a barred gate doesn’t make the
+hinges unbreakable or the wall unclimbable. Use a Situational Condition
+for numerical interference and a Truth for a categorical limit. Poor
+visibility can hinder observation; complete darkness can rule out
+ordinary visual identification. Don’t penalise an impossible attempt
+instead of explaining why it can’t work.</p>
+<h3 id="s-8-2-scale">8.2 Scale</h3>
+<table>
+<thead>
+<tr>
+<th><p>Scale</p></th>
+<th><p>Reach</p></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><p><strong>Scene</strong></p></td>
+<td><p>The immediate encounter or temporary circumstances</p></td>
+</tr>
+<tr>
+<td><p><strong>Site</strong></p></td>
+<td><p>A defined building, settlement location or installation</p></td>
+</tr>
+<tr>
+<td><p><strong>Region</strong></p></td>
+<td><p>Connected places, communities or institutions</p></td>
+</tr>
+<tr>
+<td><p><strong>Campaign</strong></p></td>
+<td><p>A foundational setting or campaign fact</p></td>
+</tr>
+</tbody>
+</table>
+<p>Scale measures reach, not strength. <strong>Campaign Truths</strong>
+are 3–5 world statements agreed at session zero (<em>Magic is real but
+feared</em>, <em>The Corporation owns the police</em>). Scene-scale
+Creates and spends can’t rewrite Site, Region or Campaign Truths; that
+takes the projects and major arcs in <strong>Module C</strong>, which
+also covers using Truths to drive a sandbox campaign.</p>
+<h3 id="s-8-3-establishing-and-recording">8.3 Establishing and
+Recording</h3>
+<p>Truths come from agreed setup, actions, discovery, explicit abilities
+or purchases, and binding consequences or concessions. Recording a fact
+that already exists costs nothing.</p>
+<ul>
+<li><p><strong>Creating Truths:</strong> players use the
+<strong>Create</strong> effect (2 Power, §5) or spend <strong>2
+Weal</strong> the GM spends <strong>2 Woe</strong> (§9). A created Truth
+is scene scale and lasts for the scene; only Create can pay +1 Power to
+make it outlast the scene (§5). It grants no Situational Condition
+rating.</p></li>
+<li><p><strong>State it first.</strong> Say what fact you intend to
+create before its action resolves, and agree its scope, requirements,
+cost and consequences. A Truth can’t contradict resolved events, exceed
+the action’s reach, grant an unrelated objective, decide another
+character’s choices without their player’s agreement, or widen agreed
+stakes.</p></li>
+<li><p><strong>Recording a Truth.</strong> Use the standard format (§5):
+<strong>Name — Truth/scale — scope and what it implies — ending
+condition</strong>. It applies only within its scope, and a removal
+condition never extends a duration. <em>Barred River Gate</em> —
+Truth/Scene — the gate can’t open normally until its inner bar is
+lifted, broken or bypassed — ends when the bar no longer secures
+it.</p></li>
+</ul>
+<h3 id="s-8-4-changing-and-ending-truths">8.4 Changing and Ending
+Truths</h3>
+<ul>
+<li><p><strong>Change the fact.</strong> Lift the bar, disperse the gas,
+repair the bridge, obtain the seal. Use no roll, a test, a conflict or a
+project, whichever fits. Truths aren’t worn down rank by rank; track
+partial progress with a clock, a Situational Condition or a revised
+fact.</p></li>
+<li><p><strong>Duration.</strong> Established facts last until something
+changes them. A created Truth also follows its creating rule’s duration
+and ending condition.</p></li>
+<li><p><strong>Expiry doesn’t rewind.</strong> When a Truth ends,
+describe why: the passage closes, support is withdrawn, the
+authorisation lapses. Its end never reverses a completed action or
+erases a consequence; a crossing already made isn’t undone when the
+route closes. Removing a cause doesn’t heal a separate injury.</p></li>
+</ul>
+<h3 id="s-8-5-dangers-and-conflicts">8.5 Dangers and Conflicts</h3>
+<ul>
+<li><p><strong>Dangerous circumstances.</strong> A circumstance is
+dangerous when it carries established lethal stakes or a listed Danger
+(<em>Gas Leak</em>, <em>Collapsing Floor</em> §10.8), not because of a
+rating. It can be a Truth, a Situational Condition or both. Record its
+scope, what exposes someone to it, its consequence, and how it can be
+avoided, Resisted or mitigated. Woe from dangerous circumstances is
+capped per scene (§9.2).</p></li>
+<li><p><strong>In conflicts,</strong> Truths set approaches and scenery.
+They don’t by themselves cancel scripts, grant turns, change
+Disposition, take participants out, override action interactions or
+settle a disputed objective; only an explicit ability can. If changing a
+Truth could settle the conflict, establish that before the deciding
+action resolves. Conflicts add further limits on creating Truths
+(§10.18).</p></li>
+</ul>
+<p><strong>Invoking a Truth.</strong> A Truth carries no modifier, but
+it can still justify a Tychē Invoke (§4).</p>
 <h2 id="s-9-weal-and-woe">9. Weal and Woe</h2>
 <h3 id="s-9-1-weal-shared-by-the-party-max-6">9.1 Weal (shared by the
 party, max 6)</h3>
@@ -2182,6 +2437,16 @@ party, max 6)</h3>
 </tr>
 </tbody>
 </table>
+<p><strong>Truths, not ratings.</strong> Create a Truth buys one
+justified scene-scale fact at an appropriate moment (§8.3). It grants no
+extra action, automatic success, Situational Condition rating or result
+beyond the stakes, and in a conflict it follows normal timing and
+permissions (§10.18). There is no Weal or Woe purchase of status tiers
+or Condition ratings: when the point is numerical help or interference,
+use an action that buys a Condition, an Effect or an explicit ability.
+Buying the existence of a maintenance passage establishes an approach,
+not <em>prepared escape routes 2</em> buying a smoke pot supplies the
+pot, and using it follows its own rules.</p>
 <p><strong>Paying with Woe.</strong> When the party is short, the GM may
 let you pay any spend except <em>Reduce Woe</em>, in whole or in part,
 by giving the GM 1 Woe per Weal. Bonus dice can always be paid this way
@@ -2198,8 +2463,9 @@ point);</p></li>
 <li><p>complications bought off (+2);</p></li>
 <li><p>refused compels;</p></li>
 <li><p>Escalation (+1, §9.3);</p></li>
-<li><p>dangerous scene Truths: those with lethal stakes or a listed
-Danger (+1 per scene each, §8).</p></li>
+<li><p>a dangerous circumstance (lethal stakes or a listed Danger, §8.5)
+first becoming relevant in a scene: +1, and no more than +1 per scene
+from dangerous circumstances in total.</p></li>
 </ul>
 <table>
 <thead>
@@ -2248,6 +2514,16 @@ Danger (+1 per scene each, §8).</p></li>
 </tr>
 </tbody>
 </table>
+<p><strong>Danger Woe.</strong> There is no extra Woe for each target,
+duplicate description or higher rating, and none from a hazard the GM
+created by spending Woe in that scene. Gaining this Woe doesn’t activate
+the hazard: a listed scenery Danger still costs 1 Woe to trigger, and a
+danger clock 1 Woe per segment.</p>
+<p><strong>Complications carry no free rating.</strong> A complication
+bought with Woe doesn’t include an unnamed status or Situational
+Condition. Use a listed effect or an NPC action when numerical
+interference is intended; Conditions can still arise from properly
+resolved failures, hazards or explicit abilities.</p>
 <p><strong>In conflicts,</strong> failure, Success at a Cost and Woe
 spends follow §10.7. Explicit Woe spends, Specials, hazards and Risky
 rolls keep their stated effects.</p>
@@ -2379,7 +2655,8 @@ itself begin a new conflict. Carry forward:</p>
 <li><p>Current and starting Disposition.</p></li>
 <li><p>Used injury trades.</p></li>
 <li><p>Taken Out participants.</p></li>
-<li><p>Existing injuries, Truths, and other continuing effects.</p></li>
+<li><p>Existing injuries, Situational Conditions, Truths, and other
+continuing effects.</p></li>
 </ul>
 <p>If the type changes, establish the new action skills before the next
 exchange. Do not reapply setup bonuses merely because the type
@@ -2428,11 +2705,11 @@ These benefits perform different jobs:</p>
 <ul>
 <li><p>Superiority represents preparation at setup.</p></li>
 <li><p>An action tag assists a particular roll.</p></li>
-<li><p>A Truth changes difficulty or establishes what is
-possible.</p></li>
+<li><p>A Situational Condition modifies relevant rolls; a Truth
+establishes what is possible.</p></li>
 </ul>
 <p>Apply each only when its requirements are met. One asset does not
-automatically provide all three.</p>
+automatically provide all four.</p>
 <h3 id="s-10-4-conflict-types">10.4 Conflict Types</h3>
 <p>The conflict type determines which skills establish Disposition and
 resolve actions.</p>
@@ -2601,9 +2878,10 @@ failed approach briefly. Failure, Woe and doubles use §10.7.</p>
 Defends or two Maneuvers are independent; every other pair is
 versus.</p>
 <h4 id="independent-tests">Independent Tests</h4>
-<p>Roll against Standard 15, adjusted by applicable Truths and other
-explicit difficulty modifiers, including adversary Guard. Determine
-Power normally.</p>
+<p>Roll against Standard 15, adjusted by explicit difficulty modifiers
+such as adversary Guard; statuses and Situational Conditions modify the
+roll (§2.1), and Truths decide what is possible (§8). Determine Power
+normally.</p>
 <h4 id="versus-tests">Versus Tests</h4>
 <p>Both actors roll. The higher total wins and gains 1 Power, plus 1 for
 every full 3 points of margin. Winning prevents the opposing action’s
@@ -2730,20 +3008,29 @@ conflict.</p></td>
 </tr>
 <tr>
 <td><p>Create a Truth</p></td>
-<td><p>2 per rank</p></td>
-<td><p>Establish a justified Truth, applying explicit discounts and the
-normal minimum cost.</p></td>
+<td><p>2</p></td>
+<td><p>Establish a justified scene Truth (§8.3), applying explicit
+discounts and the normal minimum cost.</p></td>
+</tr>
+<tr>
+<td><p>Create a Situational Condition</p></td>
+<td><p>2 per rating</p></td>
+<td><p>Establish a rated external advantage or problem (§5.2), applying
+explicit discounts and the normal minimum cost.</p></td>
 </tr>
 </tbody>
 </table>
 <p>Buy Impede, Gain Position and Disarm no more than once each per
-Maneuver; later successful actions may buy them again. Create may be
-purchased at a higher rank for its normal cost.</p>
+Maneuver; later successful actions may buy them again. Creating a hazard
+grants no immediate hazard attack or extra action.</p>
 <h4 id="temporary-effects-and-ongoing-conditions">Temporary Effects and
 Ongoing Conditions</h4>
 <p>Impede and Gain Position apply to the affected side’s next scripted
 action, including across an exchange boundary. If that action is trumped
-or otherwise makes no roll, the effect expires unused.</p>
+or otherwise makes no roll, the effect expires unused. Record a pending
+effect like any temporary fact (§5): <em>Gain Position</em> — tactical
+benefit, +1 bonus die — your side’s next scripted action roll — expires
+on that action, unused if it is trumped or makes no roll.</p>
 <p>Neither applies to unrelated Resistance or incidental rolls. Gain
 Position counts toward the normal bonus-dice cap.</p>
 <p>Additional grants do not stack, refresh or extend pending Gain
@@ -2753,11 +3040,13 @@ declared for its Maneuver (Adversaries §6.18).</p>
 increase its penalty or extend its duration. Restore does not remove it
 merely because Restore removes statuses. Impede does not itself
 restrain, immobilise or render someone helpless.</p>
-<p>An ongoing condition needs its own name, tier, scope and removal
-condition. For example, <em>entangled-2</em> hinders movement and
-actions requiring free limbs, and ends when the net is cut or the target
-escapes. State fictional restrictions directly; a helpless body or
-inaccessible weapon is not shorthand for temporary Impede.</p>
+<p>An ongoing hindrance needs its own name, tier or rating, scope and
+removal condition (§5), and Impede and other tactical effects don’t
+become statuses or Conditions automatically. For example:
+<em>Entangled</em> — harmful status 2 — movement and actions requiring
+free limbs — ends when the net is cut or the target escapes. State
+fictional restrictions directly; a helpless body or inaccessible weapon
+is not shorthand for temporary Impede.</p>
 <h4 id="disarming-and-denying-options">Disarming and Denying
 Options</h4>
 <p>Identify the disabled asset and explain how. Disabling one asset
@@ -2793,15 +3082,17 @@ asset.</p></td>
 <tr>
 <td><p>Create</p></td>
 <td><p>Maneuver</p></td>
-<td><p>2 Power per rank; explicit discounts and minimum cost
-apply</p></td>
-<td><p>Establish a justified Truth.</p></td>
+<td><p>2 Power per Truth, 2 per Situational Condition rating; explicit
+discounts and minimum cost apply</p></td>
+<td><p>Establish a justified scene Truth or Situational
+Condition.</p></td>
 </tr>
 <tr>
 <td><p>Enhance</p></td>
 <td><p>Defend or Maneuver</p></td>
 <td><p>Normal tier price (§5)</p></td>
-<td><p>Normal scope and stacking.</p></td>
+<td><p>A helpful personal status; normal scope and stacking. Harmful
+statuses need an explicit harm permission.</p></td>
 </tr>
 <tr>
 <td><p>Restore</p></td>
@@ -2871,12 +3162,13 @@ tiers are separate bonuses. Each applies only to the component it names;
 a bonus meant for more than one must say so. If an effect inflicts both
 Disposition loss and a status, the ability must name the component a
 bonus improves, or let you choose.</p>
-<p>Attack bonuses don’t apply to Feint, staking, killing strikes or
-other finishing procedures unless stated.</p>
+<p>Attack bonuses don’t apply to Feint, killing strikes or other
+finishing procedures unless stated.</p>
 <h3 id="s-10-7-costs-failures-and-complications">10.7 Costs, Failures
 and Complications</h3>
-<p>Use normal Effort, Weal, Woe, Tychē Points, tags and Truths subject
-to these restrictions and the limits in §10.18.</p>
+<p>Use normal Effort, Weal, Woe, Tychē Points, tags, Situational
+Conditions and Truths subject to these restrictions and the limits in
+§10.18.</p>
 <h4 id="ordinary-failure">Ordinary Failure</h4>
 <p>An ordinary failed independent test produces no action effect and
 generates the usual 1 Woe. It does not also authorise an unrelated GM
@@ -2928,9 +3220,9 @@ must expressly identify the protected payment it affects.</p>
 applicable procedure. Later healing does not refund the benefit, restore
 Disposition, refresh an injury trade or erase a Scar.</p>
 <h3 id="s-10-8-scenery-maneuvers">10.8 Scenery Maneuvers</h3>
-<p>A Maneuver may exploit an established feature: a Scene Truth or
-established fact. If it is not established, create or discover it
-first.</p>
+<p>A Maneuver may exploit an established feature: a Scene Truth,
+Situational Condition or established fact. If it is not established,
+create or discover it first.</p>
 <p>Name the feature when scripting. If it is unavailable at resolution,
 the Maneuver produces no scenery effect; do not substitute another
 feature for free.</p>
@@ -2965,8 +3257,9 @@ Impede this volley.</p></td>
 <tr>
 <td><p>Floor Collapse</p></td>
 <td><p>A support that can be broken</p></td>
-<td><p>4</p></td>
-<td><p>Create rank-2 Collapsing Floor in the affected area.</p></td>
+<td><p>2</p></td>
+<td><p>Create the dangerous Truth <em>Collapsing Floor</em>: the
+affected area can’t be crossed or held without a way over.</p></td>
 <td><p>Tier-1 stunned or a lost tag.</p></td>
 </tr>
 <tr>
@@ -2996,7 +3289,8 @@ recovering.</p></td>
 <td><p>Make a Hazard</p></td>
 <td><p>Fuel, fluid or a breakable container</p></td>
 <td><p>2</p></td>
-<td><p>Create a rank-1 hazardous Truth in the area.</p></td>
+<td><p>Create a dangerous Truth in the area, naming its exposure and
+consequence (§8.5).</p></td>
 <td><p>You are also exposed to it.</p></td>
 </tr>
 </tbody>
@@ -3005,8 +3299,8 @@ recovering.</p></td>
 Resistable normally.</p>
 <p>A fall is lethal only with established lethal stakes. Describe
 results consistently: a collapsing floor or spreading fire affects
-everyone within its established scope. Dangerous Scene Truths generate
-Woe normally.</p>
+everyone within its established scope. Dangerous circumstances generate
+Woe under the scene cap (§9.2).</p>
 <p>In other types, scenery might be a witness, document, crowd, access
 point, market stall or bridge. Adapt the nearest effect only when its
 requirements and consequences remain meaningful.</p>
@@ -3411,13 +3705,14 @@ reassignment or rotation bypass. A consequential response needs a
 permitted action or explicit ability; an Instinct can’t rescue a trumped
 action, allow action while Taken Out or retroactively cancel a resolved
 effect.</p></li>
-<li><p><strong>Truths.</strong> Creating or countering a Truth takes a
-permitted action or explicit exception (§10.6); Weal and Woe spends
-grant no extra turn, free reassignment or retroactive cancellation. A
-Truth can set up a later scenery Maneuver but doesn’t resolve it or its
-Danger (§10.8). A hazardous description doesn’t grant both Disposition
-loss and a harmful status; explicit harm and area effects use their own
-procedures (§10.17).</p></li>
+<li><p><strong>Truths and Conditions.</strong> Creating a Truth or
+Situational Condition, or reducing a Condition, takes a permitted action
+or explicit exception (§10.6); changing a Truth means changing the fact
+(§8.4); Weal and Woe spends grant no extra turn, free reassignment or
+retroactive cancellation. A Truth can set up a later scenery Maneuver
+but doesn’t resolve it or its Danger (§10.8). A hazardous description
+doesn’t grant both Disposition loss and a harmful status; explicit harm
+and area effects use their own procedures (§10.17).</p></li>
 <li><p><strong>Clocks and Disposition</strong> are separate tracks.
 Don’t convert loss, healing or clock segments between them without an
 explicit rule. Advance is available only to actions §10.6
@@ -3528,7 +3823,7 @@ session)</h3>
 <p>1 XP per “yes” unless noted:</p>
 <ul>
 <li><p>Did you hit your <strong>playbook XP trigger</strong>? (1, or 2
-in a scene with lethal stakes or a listed Danger, §8)</p></li>
+in a scene with lethal stakes or a listed Danger, §8.5)</p></li>
 <li><p>Did you <strong>accomplish your Goal</strong>? (+2)</p></li>
 <li><p>Did one or more of your <strong>World, Other, or Self
 Beliefs</strong> drive a meaningful decision?</p></li>
@@ -3582,9 +3877,17 @@ Playbooks §1.2).</p>
 (§4.1) or above the Refresh cap.</p>
 <h3 id="s-12-3-reviewing-beliefs-and-instincts">12.3 Reviewing Beliefs
 and Instincts</h3>
-<p>Review the relevance of your Beliefs at session end; ordinary
-revisions happen at milestones. Reaffirm, revise, or replace them to
-reflect development in play.</p>
+<p>Review the relevance of your Beliefs at session end. Ask:</p>
+<blockquote>
+<p>Which conviction did events reinforce, complicate, or overturn?</p>
+</blockquote>
+<p>Use the answer to review your World, Other and Self Beliefs. A
+conviction may stay firm, grow more complicated or stop fitting the
+character; you don’t have to change a Belief because you questioned or
+acted against it. The question is a reflection prompt, not a reward:
+answering it earns nothing by itself (§12.1).</p>
+<p>Ordinary revisions happen at milestones. Reaffirm, revise, or replace
+your Beliefs to reflect development in play.</p>
 <ul>
 <li><p><strong>Reaffirm:</strong> keep a conviction and commitment that
 still matter.</p></li>
@@ -3610,17 +3913,19 @@ milestones.</p>
 <p><strong>Kade</strong>, a <em>Reckless Furcifer who Never Leaves
 Anyone Behind</em> (Mētis Edge 1), is creeping through a warehouse to
 free a captured friend. He has bought Effort Level 2 with an Advance;
-new characters start at Level 1 (§2.4, §12.2). Scene Truths: <em>Dim
-Lighting</em>, <em>Patrolling Guards</em>.</p>
+new characters start at Level 1 (§2.4, §12.2). The scene has <em>Dim
+Lighting</em> — Situational Condition 2 — helps hiding in the shadows,
+hinders reading and aiming — ends when the lamps are lit or the scene
+ends, and the Truth <em>Patrolling Guards</em>.</p>
 <ul>
 <li><p><strong>Roll:</strong> Stealth +3, power tag <em>quiet boots</em>
-+1, power tag <em>knows this district</em> +1 (tags capped at +2). The
-GM sets Hard 18 but <em>Dim Lighting</em> lowers it to Standard 15. Kade
-needs 10+ on the dice.</p></li>
++1, power tag <em>knows this district</em> +1 (tags capped at +2),
+<em>Dim Lighting</em> +2. The GM sets Hard 18, so Kade needs 11+ on the
+dice.</p></li>
 <li><p><strong>Effort, part 1:</strong> Kade spends 3 − 1 Edge = 2 Mētis
 for a bonus die → 3d12 keep 2.</p></li>
-<li><p><strong>Result:</strong> dice show 9, 9, 4 → keep 9 + 9 = 18, +5
-= 23. That's 8 over → <strong>3 Power</strong>, plus <strong>doubles on
+<li><p><strong>Result:</strong> dice show 9, 9, 4 → keep 9 + 9 = 18, +7
+= 25. That's 7 over → <strong>3 Power</strong>, plus <strong>doubles on
 a success → +1 = 4 Power</strong>.</p></li>
 <li><p><strong>Effort, part 2:</strong> Kade spends another 2 Mētis for
 <strong>+1 Power → 5 Power</strong>.</p></li>
@@ -3637,11 +3942,12 @@ Point.</p></li>
 </ul>
 <h3 id="s-13-1-a-scripted-conflict">13.1 A Scripted Conflict</h3>
 <p>Later, at the warehouse gate, Kade, Mira and Tarin confront two
-guards. This is a new scene: the earlier Truths don’t apply, and Kade’s
-terror was treated once the spirit’s influence ended (§6.6). His spent
-Mētis and Pneuma stay spent. The PCs want to get their friend through
-the gate; the guards want to hold them until reinforcements arrive. The
-stakes are capture and nonlethal injury, not death.</p>
+guards. This is a new scene: the earlier Truth and Condition don’t
+apply, and Kade’s terror was treated once the spirit’s influence ended
+(§6.6). His spent Mētis and Pneuma stay spent. The PCs want to get their
+friend through the gate; the guards want to hold them until
+reinforcements arrive. The stakes are capture and nonlethal injury, not
+death.</p>
 <p><strong>Setup.</strong> Mira leads with Fight +3 and the highest Edge
 in its pool, 1. Her setup dice are 7 and 8: 7 + 8 + 3 + 1 = 19. Divide
 by 3 and round down to 6, then add +1 for each of her two eligible
@@ -3660,8 +3966,8 @@ and the second guard acts between the first guard’s turns (§10.5).</p>
 resolve independently. Kade uses Stealth +3 and one relevant tag for +1
 to slip around the first guard and open a path. His dice are 7 and 6,
 for a total of 17. The guard has Guard +1, so Kade’s target is Standard
-15 + 1 = 16; no Truth changes it here. He succeeds with <strong>1
-Power</strong> and buys Gain Position.</p>
+15 + 1 = 16; no Situational Condition applies here. He succeeds with
+<strong>1 Power</strong> and buys Gain Position.</p>
 <p>The guard’s independent Maneuver totals 15 against Standard 15: a
 success with 1 Power, which the GM spends on Impede.</p>
 <p>Neither Maneuver changes Disposition. Gain Position and Impede both
@@ -3768,8 +4074,9 @@ load-out</p></td>
 <td><p><strong>2d20</strong></p></td>
 <td><p>Momentum (here called <strong>Weal</strong>), Woe, Truths, Module
 C, buy-offs, Escalation</p></td>
-<td><p>Weal from unspent Power; Truths shift Difficulty; complication
-range → Risk die (§2.7)</p></td>
+<td><p>Weal from unspent Power; Truths are unrated facts, and numerical
+circumstances are Situational Conditions; complication range → Risk die
+(§2.7)</p></td>
 <td><p>d20 roll-under</p></td>
 </tr>
 <tr>
@@ -3792,8 +4099,10 @@ equipment</p></td>
 upper limit for medium crunch. Keep spend menus short on the
 sheet.</p></li>
 <li><p><strong>Modifier range:</strong> max is skill +4, tags +2,
-helpful status up to +6, Tychē invoke +2. Statuses are the largest
-swing. Playtest a ±3 status cap.</p></li>
+helpful status up to +6, helpful Situational Condition up to +6, Tychē
+invoke +2. The two slots together range from −12 to +12 and are the
+largest swing. Playtest a ±3 cap on either slot, and whether 2 Power per
+rating prices broad Situational Conditions fairly.</p></li>
 <li><p><strong>Effort for Power</strong> may make high-Edge characters
 very efficient. Watch Edge-3 pools where Effort is free; consider a
 minimum cost of 1.</p></li>
@@ -3850,10 +4159,13 @@ treat it as an action-design question; don’t let a Specialisation
 override the script.</p></li>
 <li><p><strong>Prepared in Advance</strong> (§4.2): watch Tychē use and
 overlap with the Furcifer’s ★ <em>Flashback</em>.</p></li>
-<li><p><strong>Playtest flags in the text:</strong> §5.1 stacking; §6
-negative Edge; §6.3 one Scar per scene; §10.3 PC/opposition symmetry and
-Superiority eligibility; §10.5 Feint versus Maneuver; §10.13 four-step
-compromise; §10.17 area effects. These notes don’t settle them.</p></li>
+<li><p><strong>Playtest flags in the text:</strong> §2.1 status and
+Condition range; §5.1 stacking; §5.2 Condition accumulation; §6 negative
+Edge; §9.2 dangerous-circumstance Woe cap; §10.8 Floor Collapse and Make
+a Hazard prices; §6.3 one Scar per scene; §10.3 PC/opposition symmetry
+and Superiority eligibility; §10.5 Feint versus Maneuver; §10.13
+four-step compromise; §10.17 area effects. These notes don’t settle
+them.</p></li>
 </ul>
 {% endraw %}
 <nav class="rb-pager" aria-label="Chapter navigation">

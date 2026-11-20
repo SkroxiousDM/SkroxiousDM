@@ -104,6 +104,21 @@ capstone per character.</p></li>
 take an ability from another playbook as an Advance. It costs 1 Refresh,
 plus 1 if it is ★.</p></li>
 </ul>
+<p><strong>Reading an ability.</strong> Every ability uses four
+fields:</p>
+<ul>
+<li><p><strong>Trigger:</strong> when it applies, including any
+declaration timing. A passive ability names the circumstance it applies
+in; it needs no activation.</p></li>
+<li><p><strong>Cost:</strong> what you pay or accept to use it. “No
+additional cost” means only the normal costs of the action apply. The ★
+Refresh cost of taking an ability is separate.</p></li>
+<li><p><strong>Benefit:</strong> exactly what it grants or
+changes.</p></li>
+<li><p><strong>Limit:</strong> its frequency, duration, scope,
+exclusions and caps. “No additional limit” means only the limits below
+apply.</p></li>
+</ul>
 <p><strong>Ability limits.</strong> These apply to every ability in this
 chapter, so the entries don’t repeat them:</p>
 <ul>
@@ -154,13 +169,19 @@ maximum 3). Reduce a status by 2 tiers (§6)</p></td>
 </tr>
 <tr>
 <td><p><strong>Status</strong></p></td>
-<td><p>Tiered condition 1–6; tier 6 applies its scope and breaking-point
-rule, subject to explicit setting exceptions (§5.1, §6.3)</p></td>
+<td><p>Personal state, tiers 1–6; tier 6 applies its scope and
+breaking-point rule, subject to explicit setting exceptions (§5.1,
+§6.3)</p></td>
+</tr>
+<tr>
+<td><p><strong>Situational Condition</strong></p></td>
+<td><p>External circumstance rated 1–6 that helps or hinders the roll;
+no Taken Out or Scar from its rating (§5.2)</p></td>
 </tr>
 <tr>
 <td><p><strong>Truth</strong></p></td>
-<td><p>Scene, site, region, or campaign tag that shifts Difficulty by ±3
-(§8)</p></td>
+<td><p>Unrated scene, site, region or campaign fact that permits,
+prevents or requires; no modifier (§8)</p></td>
 </tr>
 <tr>
 <td><p><strong>Disposition</strong></p></td>
@@ -384,77 +405,125 @@ that stops trouble</em></p>
 <tr>
 <td><p>1</p></td>
 <td><p><strong>Juggernaut</strong></p></td>
-<td><p>When you Resist physical harm with Sōma, reduce the status by
-<strong>3 tiers</strong> instead of 2.</p></td>
+<td><p><strong>Trigger:</strong> You Resist physical harm with
+Sōma.<br />
+<strong>Cost:</strong> Pay the normal Resistance cost. This ability adds
+no cost.<br />
+<strong>Benefit:</strong> Reduce the incoming harmful status by
+<strong>3 tiers</strong> instead of 2.<br />
+<strong>Limit:</strong> Only physical harm Resisted with Sōma. All other
+Resistance rules work normally.</p></td>
 </tr>
 <tr>
 <td><p>2</p></td>
 <td><p><strong>Brutal</strong></p></td>
-<td><p>Once per roll, when you spend Power on a successful Fight or
-Brawl Attack, choose one: remove <strong>1 additional
+<td><p><strong>Trigger:</strong> You spend Power on a successful Fight
+or Brawl Attack.<br />
+<strong>Cost:</strong> No additional cost beyond the Power spent on the
+Attack.<br />
+<strong>Benefit:</strong> Choose one: remove <strong>1 additional
 Disposition</strong> with ordinary Attack loss, or raise a harmful
-status the Attack inflicts by <strong>1 tier for free</strong>. It adds
-no status to an ordinary conflict Attack and doesn’t improve a
-creature-specific finishing procedure.</p></td>
+status the Attack inflicts by <strong>1 tier for free</strong>.<br />
+<strong>Limit:</strong> Once per roll. It adds no status to an ordinary
+conflict Attack and doesn’t improve a creature-specific finishing
+procedure.</p></td>
 </tr>
 <tr>
 <td><p>3</p></td>
 <td><p><strong>Bodyguard</strong></p></td>
-<td><p>When an ally within reach would suffer an imposed consequence you
-can plausibly intercept, take it instead. Declare this before their
-Resistance and use your own reduction; if you Resist, your Edge counts
-as 1 higher. You can’t take shared Disposition loss, a protected payment
-or an area effect that already hits you both.</p></td>
+<td><p><strong>Trigger:</strong> An ally within reach would suffer an
+imposed consequence you can plausibly intercept. Declare this before
+their Resistance.<br />
+<strong>Cost:</strong> Take the consequence instead of your ally. If you
+Resist, pay your own Resistance cost.<br />
+<strong>Benefit:</strong> Use your own reduction. If you Resist, your
+Edge counts as 1 higher for that Resistance.<br />
+<strong>Limit:</strong> You can’t take shared Disposition loss, a
+protected payment or an area effect that already hits you both.</p></td>
 </tr>
 <tr>
 <td><p>4</p></td>
 <td><p><strong>Cleave</strong></p></td>
-<td><p>When you attack a group or minions, you get <strong>one free
-Extra Feat</strong> per roll (hit a second target, break their line, and
-so on).</p></td>
+<td><p><strong>Trigger:</strong> You attack a group or minions.<br />
+<strong>Cost:</strong> No additional cost for the Extra Feat.<br />
+<strong>Benefit:</strong> Gain <strong>one free Extra Feat</strong> (hit
+a second target, break their line, and so on).<br />
+<strong>Limit:</strong> One free Extra Feat per roll.</p></td>
 </tr>
 <tr>
 <td><p>5</p></td>
 <td><p><strong>Menacing</strong></p></td>
-<td><p>You may use <strong>Sōma</strong> for Intimidate Effort and
-Resistance. When you succeed on Intimidate against minions, spend 1 Weal
-to make them flee, surrender, or freeze.</p></td>
+<td><p><strong>Trigger:</strong> You use Intimidate Effort or
+Resistance, or you succeed on Intimidate against minions.<br />
+<strong>Cost:</strong> Pay the normal cost for Effort or Resistance.
+After succeeding against minions, spend 1 Weal for the second
+benefit.<br />
+<strong>Benefit:</strong> You may use <strong>Sōma</strong> for
+Intimidate Effort and Resistance. After succeeding on Intimidate against
+minions, you may make them flee, surrender or freeze.<br />
+<strong>Limit:</strong> Flee, surrender or freeze applies only to
+minions and needs a successful Intimidate action. The response lasts
+until a meaningful change in circumstances ends it; establish that
+ending condition when it takes effect. Fleeing or surrendered minions
+don’t resume opposition merely because a new exchange or scene begins.
+Surrender is submission to the immediate demand, not loyalty or
+unlimited obedience. Freezing is hesitation under threat, not
+paralysis.</p></td>
 </tr>
 <tr>
 <td><p>6</p></td>
 <td><p><strong>Pain Tolerance</strong></p></td>
-<td><p>Ignore the roll penalty from harmful physical statuses of tier
-1–2; at tier 3+, reduce it by 1. Only the penalty changes: the tier,
-stacking, recovery, Taken Out, Dying and Scars work normally.</p></td>
+<td><p><strong>Trigger:</strong> A harmful physical status would apply a
+penalty to your roll.<br />
+<strong>Cost:</strong> No additional cost.<br />
+<strong>Benefit:</strong> Ignore the penalty from a status of tier 1–2;
+at tier 3+, reduce it by 1.<br />
+<strong>Limit:</strong> Only the penalty changes: the tier, stacking,
+recovery, Taken Out, Dying and Scars work normally.</p></td>
 </tr>
 <tr>
 <td><p>7</p></td>
 <td><p><strong>★ Berserker</strong></p></td>
-<td><p>Once per scene, enter a fury: you get <strong>+1 bonus
-die</strong> (free) on Fight, Brawl, and Athletics rolls for the rest of
-the scene. You can’t script Defend or retreat. At scene end, lose 2 Sōma
-(paid in full) or take <em>Weary</em> (Module B; without it,
-<em>exhausted-2</em> until a night’s rest); either is an accepted
-payment.</p></td>
+<td><p><strong>Trigger:</strong> You enter a fury.<br />
+<strong>Cost:</strong> At scene end, lose 2 Sōma (paid in full) or take
+<em>Weary</em> (Module B; without it, <em>exhausted-2</em> until a
+night’s rest). Either is an accepted payment.<br />
+<strong>Benefit:</strong> <strong>+1 bonus die</strong> (free) on Fight,
+Brawl and Athletics rolls for the rest of the scene.<br />
+<strong>Limit:</strong> Once per scene. While the fury lasts, you can’t
+script Defend or retreat. The bonus die counts toward the normal
+bonus-dice cap.</p></td>
 </tr>
 <tr>
 <td><p>8</p></td>
 <td><p><strong>★ Unstoppable</strong></p></td>
-<td><p>Once per scene, when a harmful physical status on you reaches
-<strong>tier 6</strong>, record it and any Scar, but delay being Taken
-Out by it until the scene ends. You keep acting, with its normal roll
-penalty. At scene end you’re Taken Out unless treatment or an ability
-has lowered it below tier 6. This doesn’t postpone Dying or death,
-restore a lost limb, protect you from other statuses or prevent a
+<td><p><strong>Trigger:</strong> A harmful physical status on you
+reaches <strong>tier 6</strong>.<br />
+<strong>Cost:</strong> Record the status and any Scar normally. This
+ability adds no resource cost.<br />
+<strong>Benefit:</strong> Delay being Taken Out by that status until the
+scene ends. You keep acting, with its normal roll penalty. At scene end
+you’re Taken Out unless treatment or an ability has lowered it below
+tier 6.<br />
+<strong>Limit:</strong> Once per scene. This doesn’t postpone Dying or
+death, restore a lost limb, protect you from other statuses or prevent a
 shared-Disposition defeat.</p></td>
 </tr>
 <tr>
 <td><p>◆</p></td>
 <td><p><strong>Legend of the Field</strong></p></td>
-<td><p>Your reputation is a <strong>Campaign Truth</strong>
-(<em>"Everyone knows [name]"</em>). In Fight conflicts, enemy starting
-Disposition is <strong>−2</strong> (a flat modifier, §1.2), and the GM
-pays +1 Woe for reinforcements while you stand.</p></td>
+<td><p><strong>Trigger:</strong> Your reputation applies as a Campaign
+Truth; a Fight conflict begins; or the GM brings in reinforcements while
+you remain an active participant in the conflict.<br />
+<strong>Cost:</strong> No activation cost. The GM pays +1 Woe for
+reinforcements while you remain an active participant in the
+conflict.<br />
+<strong>Benefit:</strong> Your reputation is a <strong>Campaign
+Truth</strong> (<em>"Everyone knows [name]"</em>). In Fight conflicts,
+enemy starting Disposition is <strong>−2</strong>.<br />
+<strong>Limit:</strong> The Disposition reduction is a flat modifier
+(§1.2). The reinforcement surcharge ends when you cease to be an active
+participant in the conflict.</p></td>
 </tr>
 </tbody>
 </table>
@@ -625,64 +694,97 @@ fiction.</p>
 <tr>
 <td><p>1</p></td>
 <td><p><strong>Ghost</strong></p></td>
-<td><p>Your first Effort on each Stealth roll costs 0 pool points. Once
-per scene, when you’re spotted, spend 1 Weal to declare you were never
-seen; you’re in a nearby hidden position. Declare it before the
-consequences of being spotted resolve; it doesn’t undo anything already
-resolved.</p></td>
+<td><p><strong>Trigger:</strong> You use Effort on a Stealth roll, or
+you’re spotted.<br />
+<strong>Cost:</strong> Your first Effort on each Stealth roll costs 0
+pool points. Declaring you were never seen costs 1 Weal.<br />
+<strong>Benefit:</strong> Free first Effort on each Stealth roll. When
+spotted, declare you were never seen; you’re in a nearby hidden
+position.<br />
+<strong>Limit:</strong> The never-seen declaration is once per scene.
+Declare it before the consequences of being spotted resolve; it doesn’t
+undo anything already resolved.</p></td>
 </tr>
 <tr>
 <td><p>2</p></td>
 <td><p><strong>Opportunist</strong></p></td>
-<td><p>When your permitted action against an individual opponent has an
-opening, gain <strong>+1 Power</strong> on a success, once per action.
-This includes an independent Success at a Cost or an automatic success,
-but not a losing, tied or trumped action. Spend it only on Effects that
-action permits.</p></td>
+<td><p><strong>Trigger:</strong> Your permitted action against an
+individual opponent has an opening and succeeds, including an
+independent Success at a Cost or an automatic success.<br />
+<strong>Cost:</strong> No additional cost.<br />
+<strong>Benefit:</strong> Gain <strong>+1 Power</strong>.<br />
+<strong>Limit:</strong> Once per action. Not on a losing, tied or
+trumped action. Spend it only on Effects that action permits.</p></td>
 </tr>
 <tr>
 <td><p>3</p></td>
 <td><p><strong>Light Fingers</strong></p></td>
-<td><p>When you succeed on a theft, plant, or sabotage roll (Stealth or
-Craft), gain a <strong>free Extra Feat</strong>.</p></td>
+<td><p><strong>Trigger:</strong> You succeed on a theft, plant or
+sabotage roll (Stealth or Craft).<br />
+<strong>Cost:</strong> No additional cost.<br />
+<strong>Benefit:</strong> Gain a <strong>free Extra Feat</strong>.<br />
+<strong>Limit:</strong> No additional limit.</p></td>
 </tr>
 <tr>
 <td><p>4</p></td>
 <td><p><strong>Infiltrator</strong></p></td>
-<td><p>Once per roll, ignore one Truth that would raise the Difficulty
-of sneaking, climbing, or bypassing security.</p></td>
+<td><p><strong>Trigger:</strong> A harmful Situational Condition would
+hinder your sneaking, climbing or bypassing security.<br />
+<strong>Cost:</strong> No additional cost.<br />
+<strong>Benefit:</strong> Ignore that Condition’s penalty for this
+roll.<br />
+<strong>Limit:</strong> Once per roll, one Condition.</p></td>
 </tr>
 <tr>
 <td><p>5</p></td>
 <td><p><strong>Quick Reflexes</strong></p></td>
-<td><p>Outside scripted conflicts, you always act first when violence
-breaks out. In conflicts, changing one of your unrevealed scripted
-actions costs <strong>1 Weal</strong> instead of 2, at the normal
-timing.</p></td>
+<td><p><strong>Trigger:</strong> Violence breaks out outside a scripted
+conflict, or you change one of your unrevealed scripted actions in a
+conflict.<br />
+<strong>Cost:</strong> Acting first: no cost. Changing a scripted
+action: <strong>1 Weal</strong> instead of 2.<br />
+<strong>Benefit:</strong> Outside scripted conflicts, you always act
+first when violence breaks out. In conflicts, you change an unrevealed
+scripted action for the reduced cost.<br />
+<strong>Limit:</strong> Changes use the normal timing.</p></td>
 </tr>
 <tr>
 <td><p>6</p></td>
 <td><p><strong>Escape Artist</strong></p></td>
-<td><p>When you Resist capture, restraint, falls, or traps with Mētis,
-the cost is <strong>0 on a Resistance result of 5+</strong>.</p></td>
+<td><p><strong>Trigger:</strong> You Resist capture, restraint, falls or
+traps with Mētis.<br />
+<strong>Cost:</strong> The normal Resistance cost, reduced as
+below.<br />
+<strong>Benefit:</strong> The cost is <strong>0 on a Resistance result
+of 5+</strong>.<br />
+<strong>Limit:</strong> Only those sources, and only with
+Mētis.</p></td>
 </tr>
 <tr>
 <td><p>7</p></td>
 <td><p><strong>★ Flashback</strong></p></td>
-<td><p>Once per mission, declare a flashback to something you prepared
-earlier. Pay Weal by plausibility: 0 (obvious), 1 (reasonable), 2 (a
-stretch), 3 (wild). Then roll as normal; on a success, it happened. It
-can’t reverse paid costs or outcomes.</p></td>
+<td><p><strong>Trigger:</strong> You declare a flashback to something
+you prepared earlier.<br />
+<strong>Cost:</strong> Weal by plausibility: 0 (obvious), 1
+(reasonable), 2 (a stretch), 3 (wild).<br />
+<strong>Benefit:</strong> Roll as normal; on a success, it
+happened.<br />
+<strong>Limit:</strong> Once per mission. It can’t reverse paid costs or
+outcomes.</p></td>
 </tr>
 <tr>
 <td><p>8</p></td>
 <td><p><strong>★ Deadly Precision</strong></p></td>
-<td><p>When your Attack against an individual opponent has an opening,
-choose one, once per action: remove <strong>1 additional
+<td><p><strong>Trigger:</strong> Your Attack against an individual
+opponent has an opening.<br />
+<strong>Cost:</strong> No additional cost. Pay the discounted Power for
+a purchased status.<br />
+<strong>Benefit:</strong> Choose one: remove <strong>1 additional
 Disposition</strong> when you commit Power to ordinary Attack loss, or,
 if the Attack may inflict a harmful status, buy one status against that
 target for <strong>half its tier in Power, rounded up</strong> (tiers
-1–2 cost 1, 3–4 cost 2, 5–6 cost 3). The discount applies to the
+1–2 cost 1, 3–4 cost 2, 5–6 cost 3).<br />
+<strong>Limit:</strong> Once per action. The discount applies to the
 purchased tier, before Resistance and stacking, and changes only the
 price. It doesn’t apply to Feint, hazards, backlash or other
 purchases.</p></td>
@@ -690,10 +792,13 @@ purchases.</p></td>
 <tr>
 <td><p>◆</p></td>
 <td><p><strong>Nobody Sees Me Coming</strong></p></td>
-<td><p>Once per session, declare you’re already somewhere you could
-plausibly have reached. Your first roll there gets <strong>+2 bonus dice
-for free</strong>, and the GM can’t spend Woe to reveal you during that
-roll.</p></td>
+<td><p><strong>Trigger:</strong> You declare you’re already somewhere
+you could plausibly have reached.<br />
+<strong>Cost:</strong> No additional cost.<br />
+<strong>Benefit:</strong> Your first roll there gets <strong>+2 bonus
+dice for free</strong>, and the GM can’t spend Woe to reveal you during
+that roll.<br />
+<strong>Limit:</strong> Once per session.</p></td>
 </tr>
 </tbody>
 </table>
@@ -707,9 +812,9 @@ against one qualifying target. A shared area-status purchase uses the
 normal price (Core Rules §10.17).</p>
 <p>Both work in any conflict type where the opening helps the approach,
 such as a precision Attack in an Argument. Neither unlocks a status
-purchase or improves staking, killing strikes or another
-creature-specific finishing procedure, and a helpless target doesn’t
-authorise an otherwise unavailable Attack.</p>
+purchase or improves killing strikes or another creature-specific
+finishing procedure, and a helpless target doesn’t authorise an
+otherwise unavailable Attack.</p>
 <h3 id="s-4-2-starting-equipment">4.2 Starting Equipment</h3>
 <p><strong>Signature item (choose 1)</strong></p>
 <table>
@@ -862,74 +967,115 @@ twice</em> · <em>eye for detail</em> · <em>steady surgeon's hands</em> ·
 <tr>
 <td><p>1</p></td>
 <td><p><strong>Encyclopedic</strong></p></td>
-<td><p>Once per scene, ask one Discover question about a subject covered
-by your Lore <strong>without rolling</strong>.</p></td>
+<td><p><strong>Trigger:</strong> You ask a Discover question about a
+subject covered by your Lore.<br />
+<strong>Cost:</strong> No additional cost.<br />
+<strong>Benefit:</strong> Ask it <strong>without rolling</strong>.<br />
+<strong>Limit:</strong> Once per scene, one question.</p></td>
 </tr>
 <tr>
 <td><p>2</p></td>
 <td><p><strong>Analyze</strong></p></td>
-<td><p>When you study a foe or obstacle, each Discover you buy also
-reveals <strong>one weakness tag</strong> of the target. Creating a
-Truth that exploits a revealed weakness costs <strong>1 Power
-less</strong> (Core Rules §5). The Truth is leverage, not automatic
-victory.</p></td>
+<td><p><strong>Trigger:</strong> You buy Discover while studying a foe
+or obstacle, or you Create a Truth or Situational Condition that
+exploits a revealed weakness.<br />
+<strong>Cost:</strong> The normal Discover cost. That Create costs
+<strong>1 Power less</strong> (Core Rules §5), minimum 1: a Truth costs
+1, a rating-1 Condition 1, a rating-2 Condition 3.<br />
+<strong>Benefit:</strong> Each Discover also reveals <strong>one
+weakness tag</strong> of the target.<br />
+<strong>Limit:</strong> The Truth or Condition is leverage, not
+automatic victory.</p></td>
 </tr>
 <tr>
 <td><p>3</p></td>
 <td><p><strong>Field Medic</strong></p></td>
-<td><p>Restore effects from Medicine cost <strong>1 Power per 2
-tiers</strong>, within the lasting-injury limits (Core Rules §6.6). You
-can treat <em>Sick</em> (Module B) at Standard Difficulty instead of
-Hard. Healing doesn’t restore pools or Disposition, refresh injury
+<td><p><strong>Trigger:</strong> You use Medicine to Restore, or to
+treat <em>Sick</em> (Module B).<br />
+<strong>Cost:</strong> Restore costs <strong>1 Power per 2
+tiers</strong>.<br />
+<strong>Benefit:</strong> The reduced Restore price. You can treat
+<em>Sick</em> at Standard Difficulty instead of Hard.<br />
+<strong>Limit:</strong> Within the lasting-injury limits (Core Rules
+§6.6). Healing doesn’t restore pools or Disposition, refresh injury
 trades or erase Scars.</p></td>
 </tr>
 <tr>
 <td><p>4</p></td>
 <td><p><strong>Steady Mind</strong></p></td>
-<td><p>When you Resist confusion, illusion, deception, or forbidden
-knowledge with Psychē, reduce the status by <strong>3
-tiers</strong>.</p></td>
+<td><p><strong>Trigger:</strong> You Resist confusion, illusion,
+deception or forbidden knowledge with Psychē.<br />
+<strong>Cost:</strong> Pay the normal Resistance cost. This ability adds
+no cost.<br />
+<strong>Benefit:</strong> Reduce the status by <strong>3
+tiers</strong>.<br />
+<strong>Limit:</strong> Only those sources, and only with
+Psychē.</p></td>
 </tr>
 <tr>
 <td><p>5</p></td>
 <td><p><strong>Decipher</strong></p></td>
-<td><p>Codes, unknown languages, and ancient devices give way. Each
-success on a deciphering roll advances its clock <strong>1 extra
-segment</strong>. This is clock progress only, not Power or Disposition
+<td><p><strong>Trigger:</strong> You succeed on a deciphering roll
+(codes, unknown languages, ancient devices).<br />
+<strong>Cost:</strong> No additional cost.<br />
+<strong>Benefit:</strong> The roll advances its clock <strong>1 extra
+segment</strong>.<br />
+<strong>Limit:</strong> Clock progress only, not Power or Disposition
 loss.</p></td>
 </tr>
 <tr>
 <td><p>6</p></td>
 <td><p><strong>Briefing</strong></p></td>
-<td><p>When an ally acts on information you gave them this scene, they
-get <strong>+1</strong> (counts as a tag, within the tag cap). Once per
-scene, give the whole party this bonus.</p></td>
+<td><p><strong>Trigger:</strong> You explain a plan to your allies
+before they act on it.<br />
+<strong>Cost:</strong> <strong>1 Power less</strong> than a normal
+Situational Condition (Core Rules §5.2): rating 1 costs 1 Power, rating
+2 costs 3, and so on. Power comes from a roll to prepare the plan.<br />
+<strong>Benefit:</strong> Create the Situational Condition
+<em>Briefed</em> (Core Rules §5.2): <em>Briefed</em> — Situational
+Condition X — helps allies” actions that follow the plan — ends when the
+scene ends or the plan is abandoned.<br />
+<strong>Limit:</strong> Once per scene. Uses the helpful Condition slot,
+so it doesn’t add to a higher helpful Condition (Core Rules
+§2.1).</p></td>
 </tr>
 <tr>
 <td><p>7</p></td>
 <td><p><strong>★ Connect the Dots</strong></p></td>
-<td><p>Once per session, propose a hidden Truth based on clues you’ve
-found. The GM either makes it true or tells you <strong>one true hidden
-Truth</strong> about the situation instead.</p></td>
+<td><p><strong>Trigger:</strong> You propose a hidden Truth based on
+clues you’ve found.<br />
+<strong>Cost:</strong> No additional cost.<br />
+<strong>Benefit:</strong> The GM either makes it true or tells you
+<strong>one true hidden Truth</strong> about the situation
+instead.<br />
+<strong>Limit:</strong> Once per session.</p></td>
 </tr>
 <tr>
 <td><p>8</p></td>
 <td><p><strong>★ I Planned for This</strong></p></td>
-<td><p>Once per scene, after any ally rolls but before Power is spent or
-consequences apply, spend <strong>2 Psychē</strong> to let them reroll
-all dice and keep the better result. This replaces that roll; it isn’t
-an extra action.</p></td>
+<td><p><strong>Trigger:</strong> Any ally rolls. Use it after the roll,
+before Power is spent or consequences apply.<br />
+<strong>Cost:</strong> <strong>2 Psychē</strong>.<br />
+<strong>Benefit:</strong> They reroll all dice and keep the better
+result.<br />
+<strong>Limit:</strong> Once per scene. This replaces that roll; it
+isn’t an extra action.</p></td>
 </tr>
 <tr>
 <td><p>◆</p></td>
 <td><p><strong>Master of the Field</strong></p></td>
-<td><p>Choose one field, about as wide as a single skill (medicine,
-occult, engineering, history). The GM can refuse a field that would
-cover most of your rolls. Rolls in that field against a Difficulty,
+<td><p><strong>Trigger:</strong> You roll in your chosen field against a
+Difficulty, or ask about what will happen in it.<br />
+<strong>Cost:</strong> No additional cost.<br />
+<strong>Benefit:</strong> Rolls in that field against a Difficulty,
 including independent conflict tests, are <strong>one Difficulty step
-lower</strong> versus tests are unchanged. Once per session, ask a
-Discover question about <strong>what will happen</strong> in that field;
-the GM answers truthfully.</p></td>
+lower</strong>. Ask a Discover question about <strong>what will
+happen</strong> in that field <strong>without rolling or spending
+Power</strong>. The GM answers truthfully.<br />
+<strong>Limit:</strong> Choose one field, about as wide as a single
+skill (medicine, occult, engineering, history); the GM can refuse a
+field that would cover most of your rolls. Versus tests are unchanged.
+The question is once per session.</p></td>
 </tr>
 </tbody>
 </table>
@@ -1091,80 +1237,120 @@ fire</em></p>
 <tr>
 <td><p>1</p></td>
 <td><p><strong>Silver Tongue</strong></p></td>
-<td><p>When you Persuade or Deceive, creating a Truth about a target’s
-attitude (<em>convinced</em>, <em>trusts us</em>, <em>fooled</em>) costs
-<strong>1 Power less</strong> (Core Rules §5). In a conflict, the Truth
-gives leverage, not the disputed objective.</p></td>
+<td><p><strong>Trigger:</strong> You Persuade or Deceive and Create a
+Situational Condition about a target’s attitude (<em>convinced</em>,
+<em>trusts us</em>, <em>fooled</em>).<br />
+<strong>Cost:</strong> That Create costs <strong>1 Power less</strong>
+(Core Rules §5), minimum 1.<br />
+<strong>Benefit:</strong> Create the attitude Condition at the reduced
+cost.<br />
+<strong>Limit:</strong> In a conflict, the Condition gives leverage, not
+the disputed objective. It doesn’t decide what another PC
+believes.</p></td>
 </tr>
 <tr>
 <td><p>2</p></td>
 <td><p><strong>Read the Room</strong></p></td>
-<td><p>Spend 1 Power on Discover to learn an NPC’s <strong>Belief, Goal,
-or Instinct</strong>. You get <strong>+1</strong> (counts as a tag,
-within the tag cap) against them for the scene.</p></td>
+<td><p><strong>Trigger:</strong> You spend Power on Discover to learn an
+NPC’s Belief, Goal or Instinct.<br />
+<strong>Cost:</strong> 1 Power (the Discover).<br />
+<strong>Benefit:</strong> Learn their <strong>Belief, Goal, or
+Instinct</strong>. You get <strong>+1</strong> (counts as a tag) against
+them for the scene.<br />
+<strong>Limit:</strong> Within the tag cap. The bonus lasts the
+scene.</p></td>
 </tr>
 <tr>
 <td><p>3</p></td>
 <td><p><strong>Network</strong></p></td>
-<td><p>Once per session, declare a <strong>contact</strong> in the
-current location as a Truth (<em>contact: harbourmaster Elsa</em>). The
-GM gives them a quirk or something they want in return.</p></td>
+<td><p><strong>Trigger:</strong> You declare a <strong>contact</strong>
+in the current location.<br />
+<strong>Cost:</strong> No additional cost.<br />
+<strong>Benefit:</strong> The contact becomes a <strong>Site
+Truth</strong> (Core Rules §8.2): <em>Contact: harbourmaster Elsa</em> —
+Truth/Site — that settlement or place, where you can find and call on
+them — ends when the contact no longer matters there or is lost.<br />
+<strong>Limit:</strong> Once per session. The GM gives them a quirk or
+something they want in return.</p></td>
 </tr>
 <tr>
 <td><p>4</p></td>
 <td><p><strong>Smooth Recovery</strong></p></td>
-<td><p>Once per scene, when you fail a Persuade, Deceive or Empathy test
-against a Difficulty, before Power or consequences apply, turn it into
-<strong>Success at a Cost</strong> with <strong>1 Power</strong>,
-whatever the margin. Pay the Success at a Cost price instead of
-ordinary-failure Woe; doubles and other separate consequences still
-apply. It works on independent tests, not on losing, tied or trumped
-versus tests.</p></td>
+<td><p><strong>Trigger:</strong> You fail a Persuade, Deceive or Empathy
+test against a Difficulty. Use it before Power or consequences
+apply.<br />
+<strong>Cost:</strong> Pay the Success at a Cost price instead of
+ordinary-failure Woe.<br />
+<strong>Benefit:</strong> Turn it into <strong>Success at a
+Cost</strong> with <strong>1 Power</strong>, whatever the margin.<br />
+<strong>Limit:</strong> Once per scene. Independent tests only, not
+losing, tied or trumped versus tests. Doubles and other separate
+consequences still apply.</p></td>
 </tr>
 <tr>
 <td><p>5</p></td>
 <td><p><strong>Many Faces</strong></p></td>
-<td><p>With a moment to prepare, Create the Truth <em>I belong here</em>
-for <strong>1 Power</strong>. It lasts the scene and removes one Truth
-that would raise the Difficulty of mingling or entry. It doesn’t settle
-a contested conflict objective.</p></td>
+<td><p><strong>Trigger:</strong> You have a moment to prepare.<br />
+<strong>Cost:</strong> <strong>1 Power</strong>.<br />
+<strong>Benefit:</strong> Create the Truth <em>I belong here</em>. While
+it lasts, ignore one harmful Situational Condition on mingling or
+entry.<br />
+<strong>Limit:</strong> It lasts the scene. It doesn’t settle a
+contested conflict objective.</p></td>
 </tr>
 <tr>
 <td><p>6</p></td>
 <td><p><strong>Command</strong></p></td>
-<td><p>When your side scripts an exchange and you can act and
-communicate, name one volley and its actor: that actor may act out of
-rotation, even in consecutive volleys. Commit it with the script. It
-still holds if you’re later Taken Out, but can’t make an unavailable
-actor act; record the turn normally, then resume rotation. Separately,
-when an ally succeeds with Defend and commits at least 1 Power to
-Disposition recovery, add <strong>+1 recovery</strong> (up to starting
-Disposition). Each benefit applies <strong>once per exchange</strong>
-for your side, however many Command users it has.</p></td>
+<td><p><strong>Trigger:</strong> Your side scripts an exchange and you
+can act and communicate; or an ally succeeds with Defend and commits at
+least 1 Power to Disposition recovery.<br />
+<strong>Cost:</strong> No additional cost.<br />
+<strong>Benefit:</strong> Name one volley and its actor: that actor may
+act out of rotation, even in consecutive volleys. Commit it with the
+script. Separately, add <strong>+1 recovery</strong> to the ally’s
+Defend (up to starting Disposition).<br />
+<strong>Limit:</strong> Each benefit applies <strong>once per
+exchange</strong> for your side, however many Command users it has. The
+named volley still holds if you’re later Taken Out, but can’t make an
+unavailable actor act; record the turn normally, then resume
+rotation.</p></td>
 </tr>
 <tr>
 <td><p>7</p></td>
 <td><p><strong>★ Inspire</strong></p></td>
-<td><p>You can spend <strong>your Tychē Points on allies”
-rolls</strong>. Enhance effects you create for allies cost <strong>1
-Power per 2 tiers</strong>.</p></td>
+<td><p><strong>Trigger:</strong> You spend Tychē Points on an ally’s
+roll, or create an Enhance effect for an ally.<br />
+<strong>Cost:</strong> Your own Tychē Points. Enhance costs <strong>1
+Power per 2 tiers</strong>.<br />
+<strong>Benefit:</strong> You can spend <strong>your Tychē Points on
+allies” rolls</strong>. Enhance effects you create for allies use the
+reduced price.<br />
+<strong>Limit:</strong> No additional limit.</p></td>
 </tr>
 <tr>
 <td><p>8</p></td>
 <td><p><strong>★ Crowd Work</strong></p></td>
-<td><p>You influence a group as if it were one person. In Argument or
-Negotiation conflicts where the other side has <strong>two or more
-participants</strong> (a crowd, a council, a rival delegation), your
-successful Attacks remove <strong>1 additional Disposition</strong> with
-ordinary Attack loss, however many people that side holds.</p></td>
+<td><p><strong>Trigger:</strong> You succeed on an Attack in an Argument
+or Negotiation conflict where the other side has <strong>two or more
+participants</strong> (a crowd, a council, a rival delegation).<br />
+<strong>Cost:</strong> No additional cost.<br />
+<strong>Benefit:</strong> You influence a group as if it were one
+person: the Attack removes <strong>1 additional Disposition</strong>
+with ordinary Attack loss.<br />
+<strong>Limit:</strong> Applies however many people that side
+holds.</p></td>
 </tr>
 <tr>
 <td><p>◆</p></td>
 <td><p><strong>Word Is Law</strong></p></td>
-<td><p>Once per session, a non-villain NPC agrees to a reasonable
-request <strong>without a roll</strong>. In Argument and Negotiation
-conflicts, your side starts with <strong>+3 Disposition</strong> (a flat
-modifier, §1.2).</p></td>
+<td><p><strong>Trigger:</strong> You make a reasonable request of a
+non-villain NPC, or an Argument or Negotiation conflict begins.<br />
+<strong>Cost:</strong> No additional cost.<br />
+<strong>Benefit:</strong> The NPC agrees <strong>without a
+roll</strong>. In Argument and Negotiation conflicts, your side starts
+with <strong>+3 Disposition</strong>.<br />
+<strong>Limit:</strong> The request is once per session. The Disposition
+bonus is a flat modifier (§1.2).</p></td>
 </tr>
 </tbody>
 </table>
@@ -1320,80 +1506,123 @@ land</p></td>
 <tr>
 <td><p>1</p></td>
 <td><p><strong>Pathfinder</strong></p></td>
-<td><p>As Guide (Module B), each Power spent on Make Time advances the
+<td><p><strong>Trigger:</strong> As Guide (Module B), you spend Power on
+Make Time; without Module B, you advance a travel or pursuit clock.
+Also, a harmful terrain Situational Condition applies during a
+leg.<br />
+<strong>Cost:</strong> No additional cost.<br />
+<strong>Benefit:</strong> Each Power spent on Make Time advances the
 Journey clock <strong>1 extra segment</strong> without Module B, add 1
-extra segment to any travel or pursuit clock you advance. Ignore one
-terrain Truth per leg.</p></td>
+extra segment to any travel or pursuit clock you advance. Ignore that
+terrain Condition’s penalty.<br />
+<strong>Limit:</strong> One terrain Condition per leg; without Module B,
+each travel or pursuit clock counts as one leg.</p></td>
 </tr>
 <tr>
 <td><p>2</p></td>
 <td><p><strong>Forager</strong></p></td>
-<td><p>As Quartermaster (Module B), a success also clears <em>Hungry
-&amp; Thirsty</em> for the whole party and gives <strong>+1
-Supplies</strong> for free. Without Module B, a successful foraging roll
-clears a hunger or thirst status for the whole party.</p></td>
+<td><p><strong>Trigger:</strong> As Quartermaster (Module B), you
+succeed; without Module B, you succeed on a foraging roll.<br />
+<strong>Cost:</strong> No additional cost.<br />
+<strong>Benefit:</strong> With Module B, clear <em>Hungry &amp;
+Thirsty</em> for the whole party and gain <strong>+1 Supplies</strong>
+for free. Without it, clear a hunger or thirst status for the whole
+party.<br />
+<strong>Limit:</strong> No additional limit.</p></td>
 </tr>
 <tr>
 <td><p>3</p></td>
 <td><p><strong>Tracker</strong></p></td>
-<td><p>When you track or read signs, each Discover you buy gives
-<strong>two answers</strong>.</p></td>
+<td><p><strong>Trigger:</strong> You buy Discover while tracking or
+reading signs.<br />
+<strong>Cost:</strong> The normal Discover cost.<br />
+<strong>Benefit:</strong> Each Discover gives <strong>two
+answers</strong>.<br />
+<strong>Limit:</strong> No additional limit.</p></td>
 </tr>
 <tr>
 <td><p>4</p></td>
 <td><p><strong>Hunter's Eye</strong></p></td>
-<td><p>With Shoot, once per roll ignore one Truth about cover, distance,
-or weather. At long range, gain <strong>+1 Power</strong> on a
-success.</p></td>
+<td><p><strong>Trigger:</strong> You roll Shoot.<br />
+<strong>Cost:</strong> No additional cost.<br />
+<strong>Benefit:</strong> Ignore one harmful Situational Condition from
+cover, distance or weather. At long range, gain <strong>+1
+Power</strong> on a success.<br />
+<strong>Limit:</strong> One ignored Condition per roll. The Power
+applies only at long range, on a success.</p></td>
 </tr>
 <tr>
 <td><p>5</p></td>
 <td><p><strong>Ambusher</strong></p></td>
-<td><p>In wild terrain, if you had time to prepare, your side starts a
-Fight conflict with <strong>+2 Disposition</strong> (a flat modifier,
-§1.2), and your first-volley Attack resolves as independent whatever the
-opponent does.</p></td>
+<td><p><strong>Trigger:</strong> A Fight conflict begins in wild terrain
+and you had time to prepare.<br />
+<strong>Cost:</strong> No additional cost.<br />
+<strong>Benefit:</strong> Your side starts with <strong>+2
+Disposition</strong>, and your first-volley Attack resolves as
+independent whatever the opponent does.<br />
+<strong>Limit:</strong> The Disposition bonus is a flat modifier (§1.2).
+Only your first-volley Attack resolves as independent.</p></td>
 </tr>
 <tr>
 <td><p>6</p></td>
 <td><p><strong>At the Helm</strong></p></td>
-<td><p>Drive/Pilot rolls with your own vehicle or boat may use Survival.
-Your vehicle gains one power tag (<em>swift</em>, <em>rugged</em>,
-<em>nimble</em>). In Chase conflicts, your side gets <strong>+2 starting
-Disposition</strong> (a flat modifier, §1.2).</p></td>
+<td><p><strong>Trigger:</strong> You roll Drive/Pilot with your own
+vehicle or boat, or a Chase conflict begins.<br />
+<strong>Cost:</strong> No additional cost.<br />
+<strong>Benefit:</strong> Those rolls may use Survival. Your vehicle
+gains one power tag (<em>swift</em>, <em>rugged</em>, <em>nimble</em>).
+In Chase conflicts, your side gets <strong>+2 starting
+Disposition</strong>.<br />
+<strong>Limit:</strong> Your own vehicle or boat only. The Disposition
+bonus is a flat modifier (§1.2).</p></td>
 </tr>
 <tr>
 <td><p>7</p></td>
 <td><p><strong>★ Animal Companion</strong></p></td>
-<td><p>You have a companion (hound, hawk, horse; a drone in sci-fi) with
-2 power tags and 1 weakness. Once per scene it gives you a <strong>free
-bonus die</strong> (within the +2 cap), or acts on its own using your
-Survival. Acting on its own in a conflict takes a place in your side’s
-script and rotation; it has no Disposition or injury trade of its own
-(Core Rules §10.9). It can take statuses; tier 6 means it’s lost until
+<td><p><strong>Trigger:</strong> You call on your companion (hound,
+hawk, horse; a drone in sci-fi), which has 2 power tags and 1
+weakness.<br />
+<strong>Cost:</strong> No additional cost.<br />
+<strong>Benefit:</strong> It gives you a <strong>free bonus
+die</strong>, or acts on its own using your Survival.<br />
+<strong>Limit:</strong> Once per scene. The bonus die is within the +2
+cap. Acting on its own in a conflict takes a place in your side’s script
+and rotation; it has no Disposition or injury trade of its own (Core
+Rules §10.9). It can take statuses; tier 6 means it’s lost until
 downtime.</p></td>
 </tr>
 <tr>
 <td><p>8</p></td>
 <td><p><strong>★ Weather Sense</strong></p></td>
-<td><p>Once per session, declare the <strong>weather or terrain
-Truth</strong> for the next scene (<em>thick fog</em>, <em>rising
-river</em>, <em>clear skies</em>). You also always know the next scene's
-weather and terrain Truths before the party plans it, including whether
-a travel leg is a hard stretch (Module B).</p></td>
+<td><p><strong>Trigger:</strong> You declare the next scene’s weather or
+terrain, or the party is about to plan the next scene.<br />
+<strong>Cost:</strong> No additional cost.<br />
+<strong>Benefit:</strong> Declare the <strong>weather or
+terrain</strong> for the next scene as a Truth (<em>thick fog</em>,
+<em>rising river</em>, <em>clear skies</em>); if it also helps or
+hinders rolls, you also set its helpful or harmful Situational
+Condition, rating 1 to 4. You also always know the next scene’s weather
+and terrain before the party plans it, including whether a travel leg is
+a hard stretch (Module B).<br />
+<strong>Limit:</strong> The declaration is once per session, and its
+Condition is at most rating 4. The forecast always applies.</p></td>
 </tr>
 <tr>
 <td><p>◆</p></td>
 <td><p><strong>One With the Wild</strong></p></td>
-<td><p>In wilderness, the party’s Grind clock (Module B) is <strong>2
-segments larger</strong>, and you can’t be surprised. Once per session,
-while your party flees through wilderness, declare before the next
-exchange is scripted that you’re losing the pursuit. If you can lead and
-everyone escaping can travel or be carried, the pursuit ends with no
-roll: you reach safety and the pursuers lose your trail. It doesn’t
-defeat them, recover anything left behind or undo injuries and paid
-costs, and the chase can’t resume without a new discovery or changed
-circumstances.</p></td>
+<td><p><strong>Trigger:</strong> You’re in wilderness, or your party
+flees through wilderness. Declare the escape before the next exchange is
+scripted.<br />
+<strong>Cost:</strong> No additional cost.<br />
+<strong>Benefit:</strong> In wilderness, the party’s Grind clock (Module
+B) is <strong>2 segments larger</strong> and you can’t be surprised.
+While fleeing, declare that you’re losing the pursuit: if you can lead
+and everyone escaping can travel or be carried, the pursuit ends with no
+roll; you reach safety and the pursuers lose your trail.<br />
+<strong>Limit:</strong> The escape is once per session. It doesn’t
+defeat the pursuers, recover anything left behind or undo injuries and
+paid costs, and the chase can’t resume without a new discovery or
+changed circumstances.</p></td>
 </tr>
 </tbody>
 </table>
@@ -1542,11 +1771,18 @@ pacts</em></p>
 describing what they can do (<em>fire</em>, <em>healing</em>,
 <em>telekinesis</em>, <em>shadows</em>, <em>machines</em>,
 <em>networks</em>, <em>the dead</em>, <em>weather</em>).</p>
-<ul>
-<li><p><strong>Workings:</strong> within your Domain, you can attempt
-any effect with your anchor skill. The GM sets Difficulty by
-scope:</p></li>
-</ul>
+<p><strong>Trigger:</strong> You attempt a <strong>working</strong>: an
+effect within your Domain.<br />
+<strong>Cost:</strong> <strong>1 point</strong> from Pneuma (Arcana) or
+Psychē (Tech), plus any Effort.<br />
+<strong>Benefit:</strong> Attempt any effect in your Domain with your
+anchor skill, at the Difficulty the GM sets by scope (below). Your
+Domain counts as a power tag on workings (inside the +2 cap).<br />
+<strong>Limit:</strong> <strong>Backlash:</strong> doubles on a failure
+or cost cause a backlash. The GM picks a fitting status for you
+(<em>burned-2</em>, <em>drained-2</em>, <em>glitched-2</em>) or a wild
+effect, in addition to the normal complication. Backlash still applies
+in conflicts. In a scripted conflict, see below.</p>
 <table>
 <thead>
 <tr>
@@ -1583,18 +1819,6 @@ scope:</p></li>
 </tr>
 </tbody>
 </table>
-<ul>
-<li><p><strong>Cost:</strong> each working costs <strong>1
-point</strong> from Pneuma (Arcana) or Psychē (Tech), in addition to any
-Effort.</p></li>
-<li><p><strong>Backlash:</strong> doubles on a failure or cost cause a
-backlash. The GM picks a fitting status for you (<em>burned-2</em>,
-<em>drained-2</em>, <em>glitched-2</em>) or a wild effect, in addition
-to the normal complication. Backlash still applies in
-conflicts.</p></li>
-<li><p>Your Domain counts as a power tag on workings (inside the +2
-cap).</p></li>
-</ul>
 <p><strong>In a scripted conflict,</strong> Domain scope decides only
 whether a working fits and what it can affect. The working uses a
 permitted scripted action and resolves normally (independent or versus);
@@ -1614,73 +1838,115 @@ Occultist uses the same rule.</p>
 <tr>
 <td><p>1</p></td>
 <td><p><strong>Focused Channel</strong></p></td>
-<td><p>Workings inside your Domain cost <strong>0 pool points</strong>
-if you don’t use Effort on that roll. This waives only the 1-point
-working cost; Backlash still applies.</p></td>
+<td><p><strong>Trigger:</strong> You make a working inside your Domain
+without using Effort on that roll.<br />
+<strong>Cost:</strong> The working costs <strong>0 pool
+points</strong>.<br />
+<strong>Benefit:</strong> Waive the working cost.<br />
+<strong>Limit:</strong> This waives only the 1-point working cost;
+Backlash still applies.</p></td>
 </tr>
 <tr>
 <td><p>2</p></td>
 <td><p><strong>Ward</strong></p></td>
-<td><p>You can create protective statuses (<em>warded-X</em>) with
-Enhance. While warded, an ally reduces supernatural or tech-based harm
-by <strong>+1 tier</strong> when Resisting.</p></td>
+<td><p><strong>Trigger:</strong> You create a protective status with
+Enhance, or a warded ally Resists supernatural or tech-based harm.<br />
+<strong>Cost:</strong> The normal Enhance cost.<br />
+<strong>Benefit:</strong> You can create the protective Personal status
+<em>warded-X</em>. It adds nothing to rolls. When a warded ally Resists
+supernatural or tech-based harm, they reduce it by <strong>+1
+tier</strong>, and <em>warded-X</em> drops by 1. The ward ends at
+0.<br />
+<strong>Limit:</strong> Protection only: <em>warded-X</em> is never a
+roll modifier. Only supernatural or tech-based harm, and only while
+warded.</p></td>
 </tr>
 <tr>
 <td><p>3</p></td>
 <td><p><strong>Sense the Unseen</strong></p></td>
-<td><p>Once per scene, ask a free Discover question about <strong>hidden
-supernatural or technological forces</strong> nearby. You always notice
-when such forces are used near you.</p></td>
+<td><p><strong>Trigger:</strong> You ask about <strong>hidden
+supernatural or technological forces</strong> nearby, or such forces are
+used near you.<br />
+<strong>Cost:</strong> No additional cost.<br />
+<strong>Benefit:</strong> Ask a free Discover question about those
+forces. You always notice when such forces are used near you.<br />
+<strong>Limit:</strong> The free question is once per scene.</p></td>
 </tr>
 <tr>
 <td><p>4</p></td>
 <td><p><strong>Overchannel</strong></p></td>
-<td><p>Once per roll, when you use Effort for Power on a working, gain
-<strong>+2 Power</strong> instead of +1, but take <em>strained-1</em> as
-an accepted payment. Once recorded, it recovers normally.</p></td>
+<td><p><strong>Trigger:</strong> You use Effort for Power on a
+working.<br />
+<strong>Cost:</strong> The normal Effort cost, and take
+<em>strained-1</em> as an accepted payment.<br />
+<strong>Benefit:</strong> Gain <strong>+2 Power</strong> instead of
++1.<br />
+<strong>Limit:</strong> Once per roll. Once recorded,
+<em>strained-1</em> recovers normally.</p></td>
 </tr>
 <tr>
 <td><p>5</p></td>
 <td><p><strong>Ritual</strong></p></td>
-<td><p>Given time, materials, and a safe place, run a working as a
-<strong>progress clock</strong> instead of a single roll (8 segments for
-Formidable, 12 for Heroic). Ritual results can create Site or Region
-Truths.</p></td>
+<td><p><strong>Trigger:</strong> You have time, materials and a safe
+place for a working.<br />
+<strong>Cost:</strong> The time, materials and safe place, plus the
+normal working cost <strong>once</strong> for the whole ritual.<br />
+<strong>Benefit:</strong> Run the working as a <strong>progress
+clock</strong> instead of a single roll (4 segments for Dramatic or
+lower, 8 for Formidable, 12 for Heroic). Ritual results can create Site
+or Region Truths.<br />
+<strong>Limit:</strong> Only with time, materials and a safe place.
+Every ritual roll risks Backlash (§8.1).</p></td>
 </tr>
 <tr>
 <td><p>6</p></td>
 <td><p><strong>Bound Servant</strong></p></td>
-<td><p>You have a minor spirit, construct, or drone with one power tag
-and one weakness. It can scout (one free Discover per scene in places it
-can reach), carry messages, or handle simple tasks. It can’t fight: it’s
-an asset, not a conflict participant (Core Rules §10.9).</p></td>
+<td><p><strong>Trigger:</strong> You send your servant (a minor spirit,
+construct or drone with one power tag and one weakness) to scout, carry
+messages or handle simple tasks.<br />
+<strong>Cost:</strong> No additional cost.<br />
+<strong>Benefit:</strong> It scouts (one free Discover per scene in
+places it can reach), carries messages or handles simple tasks.<br />
+<strong>Limit:</strong> One free Discover per scene. It can’t fight:
+it’s an asset, not a conflict participant (Core Rules §10.9).</p></td>
 </tr>
 <tr>
 <td><p>7</p></td>
 <td><p><strong>★ Second Domain</strong></p></td>
-<td><p>Gain a second Domain. Workings in it use the same rules.</p></td>
+<td><p><strong>Trigger:</strong> You make a working.<br />
+<strong>Cost:</strong> No additional cost.<br />
+<strong>Benefit:</strong> Gain a second Domain. Workings in it use the
+same rules.<br />
+<strong>Limit:</strong> No additional limit.</p></td>
 </tr>
 <tr>
 <td><p>8</p></td>
 <td><p><strong>★ Unleash</strong></p></td>
-<td><p>Once per scene, a working hits <strong>every target</strong> in
-an area or group, using <strong>Area Effects</strong> (Core Rules
+<td><p><strong>Trigger:</strong> You make a working.<br />
+<strong>Cost:</strong> Afterwards, take <em>Weary</em> (Module B;
+without it, <em>exhausted-2</em> until a night’s rest) or lose 3 points
+(paid in full) from your casting pool. Either is an accepted
+payment.<br />
+<strong>Benefit:</strong> The working hits <strong>every target</strong>
+in an area or group, using <strong>Area Effects</strong> (Core Rules
 §10.17). Explicit statuses apply at full tier to each target, and
-conflict Disposition loss follows the same procedure. Afterwards, take
-<em>Weary</em> (Module B; without it, <em>exhausted-2</em> until a
-night’s rest) or lose 3 points (paid in full) from your casting pool;
-either is an accepted payment.</p></td>
+conflict Disposition loss follows the same procedure.<br />
+<strong>Limit:</strong> Once per scene.</p></td>
 </tr>
 <tr>
 <td><p>◆</p></td>
 <td><p><strong>Ascendant</strong></p></td>
-<td><p>Once per session, a Heroic-scope working succeeds automatically
-with <strong>5 Power</strong>, no ritual required. In a conflict,
-declare it before the roll for your normal action: a trumped action
-stays trumped, and in a versus test it wins unless the other side also
-succeeds automatically, which makes a tie. No roll means no doubles. If
-you use it again before your next downtime, gain a Pneuma or Psychē
-Scar.</p></td>
+<td><p><strong>Trigger:</strong> You make a Heroic-scope working. In a
+conflict, declare it before the roll for your normal action.<br />
+<strong>Cost:</strong> No cost for the first use after downtime. Each
+later use before your next downtime, even in a later session, gives a
+<strong>Pneuma or Psychē Scar</strong>.<br />
+<strong>Benefit:</strong> The working succeeds automatically with
+<strong>5 Power</strong>, no ritual required.<br />
+<strong>Limit:</strong> Once per session. Downtime resets the free use.
+A trumped action stays trumped. In a versus test it wins unless the
+other side also succeeds automatically, which makes a tie. No roll means
+no doubles.</p></td>
 </tr>
 </tbody>
 </table>
