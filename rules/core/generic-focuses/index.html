@@ -88,12 +88,14 @@ rebuy higher tiers with Advances.</p></li>
 <p>Focuses marked <strong>◈ Weird</strong> assume the supernatural,
 impossible technology, or both. In mundane settings the GM removes them
 from the list. Every other Focus works in any genre.</p>
-<p><strong>Module abilities.</strong> An ability marked (Module A),
-(Module B) or (Module C) needs that module. Without it, take the other
-ability at that tier, or agree a substitute with the GM. <strong>Lives
-Off the Land</strong> (marked B in <a
-href="#foc-quick-reference">§2</a>) needs Module B throughout;
-without it, the GM removes it from the list.</p>
+<p><strong>Module requirements and benefits.</strong> “Requires Module
+X” means the ability is unavailable without that module. “With Module X”
+introduces an additional benefit or procedure; the rest of the ability
+works without that module.</p>
+<p>The generic Focuses are usable with the core rules except
+<strong>Lives Off the Land</strong>, which requires Module B. Module
+benefits do not grant additional actions or waive costs unless they
+explicitly say so.</p>
 <div class="rb-art-note">
 <p><strong>Art placeholder</strong><br />
 A surgeon’s kit unrolled on a field table beside a lantern.</p>
@@ -125,12 +127,13 @@ href="../core-rules/#core-scripting-volleys">§10.5</a>).</p></li>
 are one participant in your side’s script and rotation, with no
 Disposition track or injury trade of their own. Free Help waives only
 the pool-point cost.</p></li>
-<li><p><strong>Healing</strong> treats existing statuses. It doesn’t
-restore Disposition, refresh an injury trade, erase a Scar or lift the
-1-tier lasting-injury limit (Core Rules <a
-href="../core-rules/#core-treatment-healing">§6.6</a>), and a Taken Out ally
-returns to an ongoing conflict only when an ability says so (Core Rules
-<a href="../core-rules/#core-being-taken-out">§6.4</a>).</p></li>
+<li><p><strong>Healing</strong> treats existing statuses. Unless an
+ability explicitly states otherwise, it follows the ordinary treatment
+limits and does not erase Scars (Core Rules <a
+href="../core-rules/#core-treatment-healing">§6.6</a>). Healing does not restore
+Disposition or refresh an injury trade, and a Taken Out ally returns to
+an ongoing conflict only when an ability says so (Core Rules <a
+href="../core-rules/#core-being-taken-out">§6.4</a>).</p></li>
 </ul>
 <h2 id="foc-quick-reference">2. Quick Reference</h2>
 <table>
@@ -395,15 +398,19 @@ injuries and paid costs stay.</p></td>
 <tr>
 <td><p>3b</p></td>
 <td><p><strong>★ Living Wall</strong></p></td>
-<td><p><strong>Trigger:</strong> You take up the position. Until your
-next action, imposed harm is aimed at allies within reach that you can
-intercept.<br />
-<strong>Cost:</strong> The harm hits you instead. Pay your own
-Resistance costs.<br />
-<strong>Benefit:</strong> Redirect it before their Resistance and use
-your own reduction; Resist each with Edge +1.<br />
-<strong>Limit:</strong> Once per scene, until your next action. Area
-effects that already hit you both aren’t redirected.</p></td>
+<td><p><strong>Trigger:</strong> An Attack or Feint would remove your
+side’s Disposition, and you can physically protect the participants
+threatened by it. Declare this before an injury trade.<br />
+<strong>Cost:</strong> Take a tier-2 harmful physical Personal status as
+an accepted payment. It must follow from how you protect the side,
+hinder a relevant activity, and be new or worsen an existing status.
+Apply normal stacking.<br />
+<strong>Benefit:</strong> Reduce that action’s Disposition loss by 2, to
+a minimum of 0.<br />
+<strong>Limit:</strong> Once per conflict. Your side can benefit from
+Living Wall only once against the same action. This is not an injury
+trade; one participant may still make the normal injury trade against
+the remaining loss.</p></td>
 </tr>
 </tbody>
 </table>
@@ -490,7 +497,10 @@ href="../core-rules/#core-rest-recovery">§6.5</a>–<a
 href="../core-rules/#core-treatment-healing">6.6</a>).<br />
 <strong>Benefit:</strong> Your side’s Disposition stays at
 <strong>1</strong>.<br />
-<strong>Limit:</strong> Once per conflict.</p></td>
+<strong>Limit:</strong> Once per conflict for your side, however many
+participants have this ability. It prevents defeat from reaching 0
+Disposition, not defeat because nobody can continue pursuing the
+objective. It cannot prevent a setup defeat.</p></td>
 </tr>
 </tbody>
 </table>
@@ -566,14 +576,21 @@ If that creates doubles, apply them.<br />
 <tr>
 <td><p>3b</p></td>
 <td><p><strong>★ Weapon Saint</strong></p></td>
-<td><p><strong>Trigger:</strong> You use your weapon.<br />
-<strong>Cost:</strong> No attunement Refresh.<br />
-<strong>Benefit:</strong> Your weapon becomes an
-<strong>artifact</strong> (Module A) with one extra power tag and an
-ability you design with the GM. It never depletes.<br />
-<strong>Limit:</strong> Needs Module A. The designed ability needs GM
-agreement and should be about as strong as one Tier 2 Focus
-ability.</p></td>
+<td><p><strong>Trigger:</strong> You succeed on an Attack or Defend
+using your chosen weapon type.<br />
+<strong>Cost:</strong> No additional cost.<br />
+<strong>Benefit:</strong> Gain +1 Power. Choose one additional power tag
+for your signature weapon, within the normal tag cap. With Module A:
+Your signature weapon is an artifact. This ability is its special
+ability; it does not grant another. It requires no attunement Refresh
+and never depletes. Agree its artifact quirk with the GM when it becomes
+an artifact. Never depletes means no depletion roll is required. Waiving
+attunement Refresh does not waive the normal attunement-slot limit when
+attunement is required.<br />
+<strong>Limit:</strong> The additional Power applies once per exchange
+in a scripted conflict, or once per scene outside one. It permits only
+Effects available to that action. Choose the additional weapon tag when
+you take this ability.</p></td>
 </tr>
 </tbody>
 </table>
@@ -773,13 +790,15 @@ made."</p></li>
 <tr>
 <td><p>1</p></td>
 <td><p><strong>Called Shot</strong></p></td>
-<td><p><strong>Trigger:</strong> You roll Shoot.<br />
-<strong>Cost:</strong> No cost for the Weaken.<br />
-<strong>Benefit:</strong> A <strong>free Weaken</strong> effect:
-suppress one of the target’s tags (weapon, cover, mobility) for the
-scene.<br />
-<strong>Limit:</strong> Once per roll, and only on a Success or Success
-at a Cost.</p></td>
+<td><p><strong>Trigger:</strong> You succeed on a Shoot roll, including
+Success at a Cost.<br />
+<strong>Cost:</strong> No additional Power.<br />
+<strong>Benefit:</strong> Suppress one target tag that your shot can
+plausibly undermine for the rest of the scene.<br />
+<strong>Limit:</strong> Once per roll. Suppression removes only that
+tag’s numerical bonus; it does not disable the asset, remove its other
+permissions, or prevent its use. In a conflict, disabling an asset
+requires Disarm or an ability that explicitly permits it.</p></td>
 </tr>
 <tr>
 <td><p>2a</p></td>
@@ -955,13 +974,17 @@ escape routes.<br />
 <tr>
 <td><p>2a</p></td>
 <td><p><strong>Clean Getaway</strong></p></td>
-<td><p><strong>Trigger:</strong> A Chase conflict begins in which you’re
-fleeing.<br />
+<td><p><strong>Trigger:</strong> A Chase conflict begins in which your
+side is fleeing.<br />
 <strong>Cost:</strong> No additional cost.<br />
-<strong>Benefit:</strong> Your side gets <strong>+2 starting
-Disposition</strong>.<br />
-<strong>Limit:</strong> A flat starting-Disposition bonus (<a
-href="#foc-ability-limits">§1.3</a>).</p></td>
+<strong>Benefit:</strong> Your side gains +2 starting Disposition.
+Before your side commits its first script, ask one free Discover
+question about the pursuers” route, method, or immediate weakness.<br />
+<strong>Limit:</strong> One question per conflict. Ask the question
+after setup is complete. It does not recalculate Superiority. The answer
+must concern something you can infer from the pursuit. It does not
+reveal a committed script. The Disposition bonus follows the normal
+starting-Disposition rules.</p></td>
 </tr>
 <tr>
 <td><p>2b</p></td>
@@ -1067,14 +1090,28 @@ constructs. Repair damaged armour without downtime.<br />
 <tr>
 <td><p>3a</p></td>
 <td><p><strong>Master-work</strong></p></td>
-<td><p><strong>Trigger:</strong> During downtime, you work on a
-masterwork.<br />
-<strong>Cost:</strong> A 12-segment downtime clock.<br />
-<strong>Benefit:</strong> Create one <strong>artifact</strong> (Module
-A). You pay no Refresh to attune your own masterwork.<br />
-<strong>Limit:</strong> Needs Module A. One masterwork at a time: you
-can start another only after the current one is lost, destroyed or given
-away.</p></td>
+<td><p><strong>Trigger:</strong> During downtime, you build or
+substantially rebuild a signature item.<br />
+<strong>Cost:</strong> Complete a 12-segment crafting clock with
+suitable materials and facilities.<br />
+<strong>Benefit:</strong> The masterwork has two power tags and one
+conflict action tag appropriate to its function. Once per scene, when
+its user succeeds on an action directly using it, they gain +1 Power.
+With Module A: The masterwork is an artifact, with the bonus Power as
+its special ability. Agree its depletion rating and quirk with the GM
+when it becomes an artifact. You pay no Refresh to attune your own
+masterwork. Waiving attunement Refresh does not waive the normal
+attunement-slot limit when attunement is required. Other artifact rules
+apply.<br />
+<strong>Limit:</strong> You can maintain one masterwork at a time.
+Giving it away does not free this slot. You may replace it through a new
+crafting project, but the old item then loses its masterwork bonus
+Power. Its ordinary tags remain. With Module A: When replaced, the
+former masterwork remains an artifact but loses the bonus-Power ability
+and attunement exemption granted by Masterwork. It retains its tags,
+depletion rating, quirk, and any independently established properties.
+Normal artifact and attunement rules apply; replacement does not grant a
+substitute special ability.</p></td>
 </tr>
 <tr>
 <td><p>3b</p></td>
@@ -1139,10 +1176,20 @@ address.<br />
 <tr>
 <td><p>2b</p></td>
 <td><p><strong>Remedy</strong></p></td>
-<td><p><strong>Trigger:</strong> A Players” Turn (Module B).<br />
-<strong>Cost:</strong> <strong>No Check</strong>.<br />
-<strong>Benefit:</strong> Clear one Grind hardship from one ally.<br />
-<strong>Limit:</strong> Once per Players” Turn.</p></td>
+<td><p><strong>Trigger:</strong> You spend ten uninterrupted minutes
+treating yourself or an ally with suitable supplies.<br />
+<strong>Cost:</strong> The treatment time and supplies.<br />
+<strong>Benefit:</strong> Reduce one temporary harmful physical Personal
+status by 2 tiers, without a roll, when your treatment can address its
+cause. With Module B: Instead of reducing a tiered status, clear Hungry
+&amp; Thirsty, Exposed, or Sick from the patient. Meet that hardship’s
+normal fictional recovery requirements, including any required rest; no
+recovery roll is needed.<br />
+<strong>Limit:</strong> Once per scene, across all patients. It does not
+treat lasting injuries, running-dry depletion, or tier-6 harm, and
+cannot remove an affliction whose source requires a different cure. It
+does not restore pools or Disposition, erase a Scar, or return a Taken
+Out character to an ongoing conflict.</p></td>
 </tr>
 <tr>
 <td><p>3a</p></td>
@@ -1297,23 +1344,35 @@ history.<br />
 <tr>
 <td><p>2a</p></td>
 <td><p><strong>Lost Knowledge</strong></p></td>
-<td><p><strong>Trigger:</strong> You’ve read about this before.<br />
+<td><p><strong>Trigger:</strong> You draw on history, legends, or old
+cultures to explain a useful fact you have studied.<br />
 <strong>Cost:</strong> <strong>1 Power</strong>.<br />
 <strong>Benefit:</strong> Create a Truth (<em>Ancient Weakness</em>,
 <em>Forgotten Route</em>), or instead a helpful rating-1 Situational
 Condition from what you recall (<em>known weakness 1</em>).<br />
-<strong>Limit:</strong> Once per session. One Truth or one Condition,
-rating 1 only.</p></td>
+<strong>Limit:</strong> Once per scene. Create one scene Truth or one
+helpful rating-1 Situational Condition. It supplies present-day leverage
+from old knowledge; it cannot rewrite established history.</p></td>
 </tr>
 <tr>
 <td><p>2b</p></td>
 <td><p><strong>Relic Hunter</strong></p></td>
-<td><p><strong>Trigger:</strong> You find cyphers or treasure, or
-encounter an artifact.<br />
+<td><p><strong>Trigger:</strong> You examine an old, unusual, or
+valuable object, or treasure is randomly generated for your party. With
+Module A, the generation trigger also includes cyphers.<br />
 <strong>Cost:</strong> No additional cost.<br />
-<strong>Benefit:</strong> Roll or draw <strong>twice</strong> and
-choose. You identify artifacts automatically.<br />
-<strong>Limit:</strong> No additional limit.</p></td>
+<strong>Benefit:</strong> Ask one free Discover question about its
+origin, purpose, authenticity, or safe handling. When treasure is
+randomly generated, roll or draw twice and choose one result. With
+Module A: The selection benefit also applies to cyphers. You identify an
+artifact’s function, activation requirements, depletion, and quirk
+without a roll; identification does not attune it or remove its
+risks.<br />
+<strong>Limit:</strong> One free question per object. Examining the same
+object again does not renew it. Make the additional treasure roll or
+draw before the result is resolved; this cannot reroll treasure already
+found or examined. The selection benefit changes which treasure is
+found, not its quantity.</p></td>
 </tr>
 <tr>
 <td><p>3a</p></td>
@@ -1329,13 +1388,20 @@ Difficulty (<a href="#foc-ability-limits">§1.3</a>).</p></td>
 <tr>
 <td><p>3b</p></td>
 <td><p><strong>★ Rewrite History</strong></p></td>
-<td><p><strong>Trigger:</strong> You set out to prove a Campaign Truth
-false.<br />
-<strong>Cost:</strong> A 12-segment research clock.<br />
-<strong>Benefit:</strong> When the clock fills, the Truth changes
-(Module C).<br />
-<strong>Limit:</strong> Needs Module C. One Campaign Truth per
-clock.</p></td>
+<td><p><strong>Trigger:</strong> You investigate a consequential
+historical claim.<br />
+<strong>Cost:</strong> Complete a 12-segment research clock using
+evidence and sources relevant to the claim.<br />
+<strong>Benefit:</strong> Establish a previously unknown historical fact
+that overturns the claim. The GM confirms the finding and identifies the
+evidence that makes it demonstrable. With Module C: If the agreed
+project concerns a Campaign Truth, completing it can replace that Truth
+with the demonstrated finding.<br />
+<strong>Limit:</strong> Agree the claim and possible scope before
+starting the clock. This reveals what happened; it does not change a
+resolved past event, dictate how people respond, or automatically settle
+an ongoing conflict. Maintain only one Rewrite History project at a
+time.</p></td>
 </tr>
 </tbody>
 </table>
@@ -1369,13 +1435,15 @@ I owe them."</p></li>
 <tr>
 <td><p>1</p></td>
 <td><p><strong>Fast Talk</strong></p></td>
-<td><p><strong>Trigger:</strong> You try to get out of a bad
-situation.<br />
+<td><p><strong>Trigger:</strong> You try to get out of a bad situation
+through speech, deception, bargaining, or distraction.<br />
 <strong>Cost:</strong> No additional cost.<br />
-<strong>Benefit:</strong> Use Persuade or Deceive in place of any other
-skill.<br />
-<strong>Limit:</strong> Once per scene. This swaps the skill
-only.</p></td>
+<strong>Benefit:</strong> Use Persuade or Deceive instead of the skill
+the action would normally require.<br />
+<strong>Limit:</strong> Once per scene. Your approach must genuinely use
+the chosen skill. This changes only the skill: it does not make an
+impossible action possible, change a scripted action’s interaction, or
+permit additional Effects.</p></td>
 </tr>
 <tr>
 <td><p>2a</p></td>
@@ -1553,44 +1621,80 @@ free Discover or a minor favour.<br />
 <tr>
 <td><p>2a</p></td>
 <td><p><strong>Favour Bank</strong></p></td>
-<td><p><strong>Trigger:</strong> In a Players” Turn (Module B), you help
-a contact, or you spend a banked favour.<br />
-<strong>Cost:</strong> A Check to bank a favour.<br />
-<strong>Benefit:</strong> Bank a <strong>favour</strong>. Spend a favour
-for substantial help: a safe house, troops, a pardon.<br />
-<strong>Limit:</strong> Needs Module B. Bank at most one favour per
-Players” Turn; there is no cap on banked favours.</p></td>
+<td><p><strong>Trigger:</strong> You complete meaningful help for a
+named contact, or call in an already-recorded favour.<br />
+<strong>Cost:</strong> Earning a favour requires help involving a real
+expenditure, risk, or obligation. Calling one in uses an existing
+favour; it earns no new favour.<br />
+<strong>Benefit:</strong> After completing the help, agree one favour
+the contact acknowledges owing you. Record the contact, the service and
+its limits, any required notice, and what fulfils it. Call it in for
+assistance within those terms and the contact’s established means, such
+as safe lodging, transport, an introduction, or access to ordinary
+records. Erase it when fulfilled. With Module B: A Players” Turn action
+spent helping the contact can earn the favour if it meets these
+requirements. Pay the normal Check cost; the action is not automatic.
+With Module E: Use its favour record and settlement rules for the same
+promise, not a second favour.<br />
+<strong>Limit:</strong> Earn at most one favour per session and hold at
+most two outstanding favours from this ability, across all contacts.
+State the assistance before calling it in. It cannot guarantee victory
+in an unresolved conflict, compel personal betrayal, or require
+resources the contact does not possess. If fulfilment becomes
+impossible, the favour remains outstanding until fulfilled or an
+alternative settlement is agreed.</p></td>
 </tr>
 <tr>
 <td><p>2b</p></td>
 <td><p><strong>Gossip Network</strong></p></td>
-<td><p><strong>Trigger:</strong> A session starts, or you confirm
-rumours (Module C).<br />
+<td><p><strong>Trigger:</strong> A session starts. With Module C, this
+ability also applies when you confirm rumours.<br />
 <strong>Cost:</strong> No additional cost.<br />
-<strong>Benefit:</strong> Ask 2 Discover questions about current
-rumours. When confirming rumours, roll <strong>twice and
-choose</strong>.<br />
+<strong>Benefit:</strong> Ask two Discover questions about current
+rumours. With Module C: When confirming a rumour, roll twice and
+choose.<br />
 <strong>Limit:</strong> The questions are once per session, at its
 start.</p></td>
 </tr>
 <tr>
 <td><p>3a</p></td>
 <td><p><strong>Power Broker</strong></p></td>
-<td><p><strong>Trigger:</strong> A World Turn (Module C or E).<br />
-<strong>Cost:</strong> No additional cost.<br />
-<strong>Benefit:</strong> Advance or reverse one faction or project
-clock by 1.<br />
-<strong>Limit:</strong> Once per World Turn.</p></td>
+<td><p><strong>Trigger:</strong> You arrange a concrete contribution
+through established contacts to influence an upcoming conflict. With
+Module C or E, you may instead arrange a contribution that advances or
+obstructs an established faction or project clock.<br />
+<strong>Cost:</strong> Describe the contact’s contribution and meet any
+agreed price or obligation.<br />
+<strong>Benefit:</strong> For a conflict, choose one: your side gains +2
+starting Disposition, or the opposing side takes −2 starting
+Disposition. With Module C or E: Instead of the Disposition modifier,
+advance or reverse one relevant faction or project clock by 2
+segments.<br />
+<strong>Limit:</strong> Once per session, choosing either use. For a
+conflict, declare the modifier before starting Disposition is
+calculated; the conflict must concern an institution, organisation, or
+public matter the contact can materially influence. For a project,
+identify the clock and the contact’s method before applying progress or
+disruption; the contact must be able to affect it. Apply normal
+project-resolution timing. This cannot reverse a completed project or
+count the same contribution twice. The same arrangement grants no second
+Power Broker benefit.</p></td>
 </tr>
 <tr>
 <td><p>3b</p></td>
 <td><p><strong>★ The Right Person</strong></p></td>
-<td><p><strong>Trigger:</strong> You need someone for the
-situation.<br />
+<td><p><strong>Trigger:</strong> You need a contact with particular
+knowledge, access, or influence.<br />
 <strong>Cost:</strong> No additional cost.<br />
-<strong>Benefit:</strong> Exactly the right contact for the situation
-happens to be present.<br />
-<strong>Limit:</strong> Once per session.</p></td>
+<strong>Benefit:</strong> Declare an appropriate contact present in the
+current scene. They have the knowledge, access, or influence you
+specified and are willing to hear your request. They provide one true,
+useful answer or one minor favour without requiring a roll or
+payment.<br />
+<strong>Limit:</strong> Once per session. Greater assistance requires
+whatever negotiation, payment, or obligation the situation warrants.
+Their presence cannot contradict established events, and they cannot
+grant authority or access they do not possess.</p></td>
 </tr>
 </tbody>
 </table>
@@ -1671,14 +1775,25 @@ href="#foc-ability-limits">§1.3</a>).</p></td>
 <tr>
 <td><p>3b</p></td>
 <td><p><strong>★ Holdings</strong></p></td>
-<td><p><strong>Trigger:</strong> You act at your holding (keep, office,
-ship, estate).<br />
-<strong>Cost:</strong> No additional cost.<br />
-<strong>Benefit:</strong> Gain the holding as a site (Module C) with
-<strong>3 Truths you choose</strong>. In a Players” Turn (Module B), one
-action there costs no Check.<br />
-<strong>Limit:</strong> The free action is once per Players”
-Turn.</p></td>
+<td><p><strong>Trigger:</strong> You establish your holding or use its
+facilities.<br />
+<strong>Cost:</strong> No additional ability cost. Work performed there
+still takes its normal time, materials, rolls, and other payments.<br />
+<strong>Benefit:</strong> Gain a holding appropriate to your authority:
+a keep, office, ship, estate, or similar base. Choose one function:
+treatment, research, crafting, or training. Once per session, you or one
+ally using that function gains one free bonus die on a relevant roll
+there. With Module C: Record the holding as a site with three agreed
+Truths; these describe the holding rather than grant additional
+mechanical bonuses. With Module B: Once per Players” Turn, you may waive
+the 1-Check cost of one individual action performed by you or one ally
+using the holding’s chosen function. With Module D: Use this benefit
+once per stay instead, on one individual endeavour, whether or not
+Module B is enabled. It does not pay for a shared endeavour or waive
+time, materials, rolls, or other costs.<br />
+<strong>Limit:</strong> One holding and one chosen function. Ownership
+does not make it immune to threats or guarantee access when events
+prevent it. Changing the function requires downtime.</p></td>
 </tr>
 </tbody>
 </table>
@@ -1804,31 +1919,48 @@ there by one step.<br />
 <tr>
 <td><p>2a</p></td>
 <td><p><strong>Shortcut</strong></p></td>
-<td><p><strong>Trigger:</strong> You’re on a journey (Module B).<br />
+<td><p><strong>Trigger:</strong> You succeed on a navigation roll while
+leading the party toward an established destination.<br />
 <strong>Cost:</strong> No additional cost.<br />
-<strong>Benefit:</strong> Skip one leg entirely (no rolls, no Supplies
-spent).<br />
-<strong>Limit:</strong> Once per journey.</p></td>
+<strong>Benefit:</strong> Gain one free Extra Feat related to the route:
+avoid a detour, bring the party’s equipment through, or reach a useful
+approach. With Module B: If the roll advances the Journey clock, also
+advance it by 1 segment.<br />
+<strong>Limit:</strong> Once per scene. It must follow from the route
+you found. It cannot bypass an unresolved conflict or remove an obstacle
+that requires a different means of passage.</p></td>
 </tr>
 <tr>
 <td><p>2b</p></td>
 <td><p><strong>First Contact</strong></p></td>
 <td><p><strong>Trigger:</strong> You make your first Persuade or Empathy
-roll with a new people or culture.<br />
+roll when establishing relations with a community or organised group
+your party has not dealt with before.<br />
 <strong>Cost:</strong> No additional cost.<br />
-<strong>Benefit:</strong> Gain a <strong>free bonus die</strong>.<br />
-<strong>Limit:</strong> The first roll only. The normal bonus-dice cap
-applies.</p></td>
+<strong>Benefit:</strong> Gain one free bonus die.<br />
+<strong>Limit:</strong> Once per community or group, not once per
+member. A different representative or location does not renew the
+benefit. The normal bonus-dice cap applies.</p></td>
 </tr>
 <tr>
 <td><p>3a</p></td>
 <td><p><strong>Dis­cov­er­er</strong></p></td>
-<td><p><strong>Trigger:</strong> You discover a new site (Module
-C).<br />
+<td><p><strong>Trigger:</strong> You first explore an unfamiliar
+location.<br />
 <strong>Cost:</strong> No additional cost.<br />
-<strong>Benefit:</strong> You define <strong>one of its three
-Truths</strong>.<br />
-<strong>Limit:</strong> Once per session.</p></td>
+<strong>Benefit:</strong> Ask two free Discover questions about its
+routes, hazards, or useful resources. Before the scene ends, gain +1
+Power on one later successful action that directly exploits an answer.
+With Module C: Instead of asking the questions, define one previously
+unestablished Site Truth consistent with what has already been
+discovered. The later-action bonus may exploit that Truth instead.<br />
+<strong>Limit:</strong> Once per location, not once per room or visit.
+The answers concern evidence you can discover there; they do not reveal
+unrelated secrets or a committed script. The bonus permits no otherwise
+unavailable Effects. With Module C: Record the Site Truth’s scope and
+ending condition. It lasts until the established fact changes, not
+merely until the scene ends. The later-action +1 Power benefit still
+expires at scene end.</p></td>
 </tr>
 <tr>
 <td><p>3b</p></td>
@@ -1836,9 +1968,16 @@ Truths</strong>.<br />
 <td><p><strong>Trigger:</strong> The party enters an uncharted
 region.<br />
 <strong>Cost:</strong> No additional cost.<br />
-<strong>Benefit:</strong> Name <strong>one Region Truth</strong> (Module
-C).<br />
-<strong>Limit:</strong> No additional limit.</p></td>
+<strong>Benefit:</strong> Establish one previously unknown regional
+feature as a Region Truth: a pass, settlement, refuge, navigable
+waterway, or useful natural resource. State where it lies relative to
+the party and how its existence becomes known. With Module C: Record the
+feature among the region’s Truths and use the module’s normal procedures
+for later changes.<br />
+<strong>Limit:</strong> Once per session and once per region. It cannot
+contradict established facts, remove an established threat, grant
+ownership or loyalty, or place the party at the feature automatically.
+Reaching or using it follows the normal rules.</p></td>
 </tr>
 </tbody>
 </table>
@@ -1847,6 +1986,8 @@ C).<br />
 A surveyor sketching a map at the edge of a blank coastline.</p>
 </div>
 <h3 id="s-19-lives-off-the-land">19. Lives Off the Land</h3>
+<p>Requires Module B. This Focus uses the Grind, hardships, and Supplies
+throughout and is unavailable when that module is not used.</p>
 <blockquote>
 <p>Survivalist, forager, or homesteader: you need nothing the world
 doesn't give.</p>
@@ -1987,12 +2128,20 @@ better result.<br />
 <tr>
 <td><p>3b</p></td>
 <td><p><strong>★ Legendary Ride</strong></p></td>
-<td><p><strong>Trigger:</strong> You use your vehicle.<br />
-<strong>Cost:</strong> No attunement Refresh.<br />
-<strong>Benefit:</strong> Your vehicle becomes an
-<strong>artifact</strong> (Module A) with one special ability (ram,
-jump, stealth mode, impossible speed).<br />
-<strong>Limit:</strong> Needs Module A.</p></td>
+<td><p><strong>Trigger:</strong> You succeed on a Drive/Pilot action
+using your signature vehicle, including when another ability lets you
+substitute a different skill.<br />
+<strong>Cost:</strong> No additional cost.<br />
+<strong>Benefit:</strong> Gain +1 Power. With Module A: Your signature
+vehicle is an artifact. The bonus Power is its special ability, not an
+additional ability. Agree its depletion rating and quirk with the GM
+when it becomes an artifact. It requires no attunement Refresh. Waiving
+attunement Refresh does not waive the normal attunement-slot limit when
+attunement is required. Other artifact rules apply.<br />
+<strong>Limit:</strong> Once per exchange in a scripted conflict, or
+once per scene outside one. The vehicle must directly contribute to the
+action. This grants no additional turn or otherwise unavailable
+Effect.</p></td>
 </tr>
 </tbody>
 </table>
@@ -2140,12 +2289,15 @@ up to two allies.<br />
 <tr>
 <td><p>2b</p></td>
 <td><p><strong>Ghostly Ally</strong></p></td>
-<td><p><strong>Trigger:</strong> Your minor spirit scouts for you.<br />
+<td><p><strong>Trigger:</strong> You send your minor spirit to scout,
+carry a message, or handle a simple task.<br />
 <strong>Cost:</strong> No additional cost.<br />
-<strong>Benefit:</strong> It gives a free Discover about places it can
+<strong>Benefit:</strong> It can pass through ordinary solid barriers
+and gives one free Discover question per scene about places it can
 reach.<br />
-<strong>Limit:</strong> Once per scene. It’s an information asset, not a
-conflict participant.</p></td>
+<strong>Limit:</strong> Supernatural wards or barriers that explicitly
+stop spirits block it. It cannot carry physical objects through barriers
+or act as a conflict participant.</p></td>
 </tr>
 <tr>
 <td><p>3a</p></td>
@@ -2161,11 +2313,21 @@ href="../core-rules/#core-tyche-points">§4</a>).<br />
 <tr>
 <td><p>3b</p></td>
 <td><p><strong>★ Half-Step</strong></p></td>
-<td><p><strong>Trigger:</strong> You become intangible.<br />
+<td><p><strong>Trigger:</strong> An imposed physical status would affect
+you, or you attempt to pass through a solid obstacle.<br />
 <strong>Cost:</strong> No additional cost.<br />
-<strong>Benefit:</strong> Until your next action, ignore one incoming
-imposed physical status.<br />
-<strong>Limit:</strong> Once per scene.</p></td>
+<strong>Benefit:</strong> Choose one: cancel that imposed physical
+status on yourself; or pass through one solid obstacle no thicker than
+your body length, carrying your worn and held equipment. The
+cancellation option resolves immediately before the status is applied
+and requires no scripted action.<br />
+<strong>Limit:</strong> Once per scene, choosing either benefit. Outside
+scripted conflicts, passage takes your normal action where one is
+required. In a scripted conflict, passage requires a successful Maneuver
+and happens instead of its ordinary Maneuver effects. Resolve the action
+interaction normally. The passage requires no Power purchase. You must
+finish in an unoccupied space. It does not cross a barrier that
+explicitly blocks spirits or intangible beings.</p></td>
 </tr>
 </tbody>
 </table>
@@ -2199,23 +2361,27 @@ told anyone."</p></li>
 <tr>
 <td><p>1</p></td>
 <td><p><strong>Patron's Gift</strong></p></td>
-<td><p><strong>Trigger:</strong> You perform a working tied to your
-patron.<br />
-<strong>Cost:</strong> Pay Pneuma for workings.<br />
-<strong>Benefit:</strong> Gain a <strong>minor Domain</strong> (Generic
-Playbooks <a href="../generic-playbooks/#pb-adept-core-feature">§8.1</a>) tied to your
-patron; you can perform Easy and Standard workings with Arcana. If
-you’re already an Adept, your Domain gets <strong>+1 power tag</strong>
-instead.<br />
-<strong>Limit:</strong> Easy and Standard workings only.</p></td>
+<td><p><strong>Trigger:</strong> You perform a working within your
+patron’s gift.<br />
+<strong>Cost:</strong> Pay the normal 1-point working cost from Pneuma,
+plus any Effort.<br />
+<strong>Benefit:</strong> Gain a minor Domain tied to your patron. Use
+Arcana for its workings. The patron Domain counts as a power tag on its
+workings, within the normal tag cap.<br />
+<strong>Limit:</strong> This Domain permits only Easy and Standard
+scope, including during scripted conflicts. It follows the Adept working
+and Backlash rules (Generic Playbooks <a
+href="../generic-playbooks/#pb-adept-core-feature">§8.1</a>). If you already have a
+Domain, this is a separate, narrower Domain; choose a distinct
+gift.</p></td>
 </tr>
 <tr>
 <td><p>2a</p></td>
 <td><p><strong>Ask the Patron</strong></p></td>
 <td><p><strong>Trigger:</strong> You ask your patron for answers.<br />
-<strong>Cost:</strong> The GM gains 1 Woe.<br />
-<strong>Benefit:</strong> Ask <strong>two</strong> Discover questions
-without rolling or spending Power.<br />
+<strong>Cost:</strong> No additional cost.<br />
+<strong>Benefit:</strong> Ask two Discover questions within your
+patron’s knowledge, without rolling or spending Power.<br />
 <strong>Limit:</strong> Once per session.</p></td>
 </tr>
 <tr>
@@ -2235,12 +2401,14 @@ outcome.</p></td>
 <tr>
 <td><p>3a</p></td>
 <td><p><strong>Greater Gift</strong></p></td>
-<td><p><strong>Trigger:</strong> You perform a patron Domain
-working.<br />
-<strong>Cost:</strong> No additional cost.<br />
-<strong>Benefit:</strong> Your patron Domain works up to
-<strong>Formidable 21</strong>.<br />
-<strong>Limit:</strong> No additional limit.</p></td>
+<td><p><strong>Trigger:</strong> You perform a working within the minor
+Domain granted by Patron’s Gift.<br />
+<strong>Cost:</strong> The normal working cost.<br />
+<strong>Benefit:</strong> That Domain now permits workings up to
+Formidable scope.<br />
+<strong>Limit:</strong> This replaces Patron’s Gift’s Easy-and-Standard
+scope limit; its Arcana, Pneuma, Backlash, and conflict rules remain
+unchanged.</p></td>
 </tr>
 <tr>
 <td><p>3b</p></td>
@@ -2309,7 +2477,11 @@ rest.<br />
 <strong>Benefit:</strong> A Second or Third rest lowers <strong>one
 physical status by 1 tier</strong>. A Fourth rest clears 2 tiers from
 every physical status.<br />
-<strong>Limit:</strong> No additional limit.</p></td>
+<strong>Limit:</strong> This explicitly heals the stated tiers of
+physical injuries despite the ordinary one-tier treatment limit, whether
+or not the injury is marked treated. It does not clear the treated mark,
+regrow a permanent loss, erase a Scar, end an affliction whose source
+prevents healing, or return you to an ongoing conflict.</p></td>
 </tr>
 <tr>
 <td><p>3a</p></td>
@@ -2318,8 +2490,9 @@ every physical status.<br />
 <strong>Cost:</strong> At scene end, take <em>Weary</em> (Module B;
 without it, exhausted-2 until a night’s rest) as an accepted
 payment.<br />
-<strong>Benefit:</strong> A <strong>free bonus die</strong> on Sōma and
-Mētis skills for the scene.<br />
+<strong>Benefit:</strong> Gain one free bonus die on Sōma and Mētis
+skill rolls that directly use one of your traits for the rest of the
+scene.<br />
 <strong>Limit:</strong> Once per scene.</p></td>
 </tr>
 <tr>
