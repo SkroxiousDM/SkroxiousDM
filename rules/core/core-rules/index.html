@@ -83,9 +83,9 @@ href="#core-design-notes">§14</a>.</p>
 you whether you succeed, how well (Power), and whether something twists
 (doubles).</p></li>
 <li><p><strong>Fiction is mechanical.</strong> Tags, statuses and Truths
-give recorded fiction mechanical weight: tags, statuses and Situational
-Conditions modify the roll, and Truths decide what is possible (<a
-href="#core-core-resolution">§2</a>, <a
+give recorded fiction mechanical weight: statuses and Situational
+Conditions modify the roll, tags supply Power, and Truths decide what is
+possible (<a href="#core-core-resolution">§2</a>, <a
 href="#core-effects">§5</a>, <a href="#core-truths">§8</a>).
 Use only the modifiers a rule names; don’t invent situational
 maths.</p></li>
@@ -95,13 +95,17 @@ Points and XP.</p></li>
 </ol>
 <h2 id="core-core-resolution">2. Core Resolution</h2>
 <h3 id="core-roll">2.1 The Roll</h3>
+<p><strong>Declare the goal first.</strong> Before rolling, say what you
+want to accomplish and how. Agree which Effects can express it and what
+it takes: the Truth, tier, rating or clock segments needed (<a
+href="#core-effects">§5</a>). Settle this before the roll, and
+don’t announce a new requirement afterward. If one action can’t
+accomplish the whole goal, say what a smaller result achieves, or use a
+clock or a conflict.</p>
 <p><strong>Roll 2d12 + Skill + Modifiers vs. Difficulty.</strong></p>
 <ul>
 <li><p><strong>Skill:</strong> +0 to +4 (from the skill pyramid;
 untrained = +0).</p></li>
-<li><p><strong>Tags:</strong> +1 per relevant <strong>power
-tag</strong>, <strong>maximum +2 per roll</strong>. −1 per relevant
-<strong>weakness tag</strong> (no cap).</p></li>
 <li><p><strong>Personal statuses:</strong> + the tier of the highest
 relevant helpful status, − the tier of the highest relevant harmful
 status (<a href="#core-personal-statuses">§5.1</a>).</p></li>
@@ -112,6 +116,9 @@ href="#core-situational-conditions">§5.2</a>).</p></li>
 <li><p><strong>Truths</strong> add nothing to the roll. They decide
 whether an action is possible, certain or needs something first (<a
 href="#core-truths">§8</a>).</p></li>
+<li><p><strong>Tags</strong> add nothing to the roll. A relevant tag
+supplies Power instead (<a
+href="#core-outcomes">§2.5</a>).</p></li>
 </ul>
 <p>Use at most one helpful and one harmful modifier from each of the two
 slots; equal ratings don’t combine, and the others stay recorded for
@@ -266,8 +273,9 @@ bonuses):</p>
 </tr>
 </tbody>
 </table>
-<p>Example: Skill +3 and one tag (+1) vs. Standard 15 → need 11+ →
-<strong>69%</strong>, or <strong>88%</strong> with one bonus die.</p>
+<p>Example: Skill +3 and <em>focused-1</em> (+1) vs. Standard 15 → need
+11+ → <strong>69%</strong>, or <strong>88%</strong> with one bonus
+die.</p>
 <h3 id="core-bonus-dice-effort">2.4 Bonus Dice and Effort</h3>
 <p>You can add d12s to the roll and <strong>keep the best two</strong>.
 Maximum <strong>+2 bonus dice</strong> (4d12 keep 2) from any
@@ -343,28 +351,46 @@ automatic consequence. The Woe is the price, and the GM spends it later
 <tbody>
 <tr>
 <td><p><strong>Beat the target by 3+</strong></p></td>
-<td><p><strong>Success</strong> — 1 Power, +1 per full 3 points
+<td><p><strong>Success</strong> — Tag Power + 1, +1 per full 3 points
 over</p></td>
 </tr>
 <tr>
 <td><p><strong>Meet the target</strong></p></td>
-<td><p><strong>Success</strong> — 1 Power</p></td>
+<td><p><strong>Success</strong> — Tag Power + 1</p></td>
 </tr>
 <tr>
 <td><p><strong>Miss by 1–3</strong></p></td>
-<td><p><strong>Success at a Cost</strong> — 1 Power, but the GM adds a
-consequence or gains 1 Woe (player's choice)</p></td>
+<td><p><strong>Success at a Cost</strong> — Tag Power + 0; the GM names
+a consequence, or gains 1 Woe instead (player's choice)</p></td>
 </tr>
 <tr>
 <td><p><strong>Miss by 4+</strong></p></td>
-<td><p><strong>Failure</strong> — the GM makes a move; GM gains 1
-Woe</p></td>
+<td><p><strong>Failure</strong> — no Power; the GM makes a move; GM
+gains 1 Woe</p></td>
 </tr>
 </tbody>
 </table>
-<p><strong>Power</strong> is spent on <strong>Effects</strong> (<a
-href="#core-effects">§5</a>). Any Power you don't spend becomes
-<strong>Weal</strong> (party pool, max 6).</p>
+<p><strong>Tag Power.</strong> Each relevant tag supplies <strong>+1
+Power</strong>, <strong>maximum +2 per action</strong>. A tag is
+relevant only when it materially supports the declared approach; being
+on your sheet isn’t enough. The same tag can help one action and be
+compelled in another (<a href="#core-tags">§3.4</a>, <a
+href="#core-tyche-points">§4</a>). On a Failure, tags supply
+nothing, and their Power doesn’t become Weal.</p>
+<p><strong>Power buys the result.</strong> Spend Power on
+<strong>Effects</strong> (<a href="#core-effects">§5</a>); the
+Effects you buy are what the action accomplishes. A successful roll lets
+you buy them, but doesn’t grant the declared goal by itself. If your
+purchases meet the requirement agreed before the roll, the goal is
+achieved; if they fall short, record the progress they make. Any Power
+you don't spend becomes <strong>Weal</strong> (party pool, max 6), and
+accomplishes nothing in the fiction now.</p>
+<p><strong>A cost with no Power.</strong> With no relevant tags, a
+Success at a Cost has 0 Power: you buy no Effect, and the cost still
+applies. Post-roll Effort (<a
+href="#core-bonus-dice-effort">§2.4</a>) or another explicit
+source can add Power. Don’t invent a free status, answer or segment to
+make up for it.</p>
 <p><strong>Choosing a consequence.</strong> When a rule calls for a
 consequence, such as Success at a Cost, a failure’s GM move or a
 complication, the table below suggests the kind of trouble to pick. It
@@ -373,8 +399,10 @@ still follow <a
 href="#core-costs-failures-complications">§10.7</a>: judge
 severity by fictional impact. A minor consequence changes the next
 decision; a more serious one changes the scene or leaves a problem to
-deal with afterward. <strong>If the test succeeded, keep what it
-earned.</strong></p>
+deal with afterward. Name the consequence before the player chooses.
+<strong>If the test succeeded, keep what it bought:</strong> a
+consequence can’t cancel or empty an Effect already purchased, but it
+needn’t grant the part of the goal the Power didn’t reach.</p>
 <table>
 <thead>
 <tr>
@@ -414,8 +442,8 @@ Versus tests compare opposing totals instead of using this table (<a
 href="#core-scripting-volleys">§10.5</a>). Inside scripted
 conflicts, <a href="#core-costs-failures-complications">§10.7</a>
 limits what failure, costs and Woe can do. An automatic success replaces
-the roll: apply its listed Power, with no dice-based critical or
-complication.</p>
+the roll: apply its listed Power plus any Tag Power, with no dice-based
+critical or complication.</p>
 <h3 id="core-doubles">2.6 Doubles (Twists)</h3>
 <p>If your two <strong>kept</strong> dice show the same number:</p>
 <ul>
@@ -546,20 +574,19 @@ href="#core-beliefs-goals-instincts">§3.5</a>).</p></li>
 <tr>
 <td><p>Descriptor</p></td>
 <td><p>Adjective</p></td>
-<td><p>+2 pool points to one pool, 1 power tag, 1 weakness tag, 1
-suggested Instinct</p></td>
+<td><p>+2 pool points to one pool, 2 tags, 1 suggested Instinct</p></td>
 </tr>
 <tr>
 <td><p>Playbook</p></td>
 <td><p>Noun</p></td>
-<td><p>Starting pools and Edge, 2 power tags, special abilities, XP
-trigger, load-out, an anchor skill</p></td>
+<td><p>Starting pools and Edge, 2 tags, special abilities, XP trigger,
+load-out, an anchor skill</p></td>
 </tr>
 <tr>
 <td><p>Focus</p></td>
 <td><p>Verb phrase</p></td>
-<td><p>A tag theme (2 power tags + 1 weakness), a Tier 1 Focus ability,
-and a link to another PC</p></td>
+<td><p>A tag theme (3 tags), a Tier 1 Focus ability, and a link to
+another PC</p></td>
 </tr>
 </tbody>
 </table>
@@ -726,9 +753,9 @@ href="#core-spending-xp">§12.2</a>).</p></li>
 <em>Regional Trade Customs</em>, <em>River Ecology</em>,
 <em>Institutional Records</em>. Start with <strong>two</strong>,
 covering subjects your background and skills don’t already cover.</p>
-<p><strong>What also counts.</strong> Relevant power and weakness tags
-from your background count as knowledge within their scope, and so does
-any skill rated <strong>+2 or higher</strong> (professional). Don’t take
+<p><strong>What also counts.</strong> Relevant tags from your background
+count as knowledge within their scope, and so does any skill rated
+<strong>+2 or higher</strong> (professional). Don’t take
 <em>Medicine</em> again as knowledge if you already practise it at
 +2.</p>
 <p><strong>What knowledge does.</strong> It adds no die or modifier by
@@ -756,21 +783,23 @@ an evacuation is uncertain, so they roll Medicine and add a die for
 <em>Trauma Care</em>. Knowledge changes what the character understands;
 a Specialisation changes the roll.</p>
 <h3 id="core-tags">3.4 Tags</h3>
-<p>A new character has <strong>seven character tags</strong>: 1 power
-and 1 weakness from the Descriptor, 2 power from the Playbook, and 2
-power and 1 weakness from the Focus.</p>
+<p>A new character has <strong>seven character tags</strong>: 2 from the
+Descriptor, 2 from the Playbook and 3 from the Focus.</p>
 <ul>
-<li><p><strong>Power tags</strong> (e.g. <em>ex-navy marksman</em>,
-<em>silver tongue</em>, <em>grandfather’s revolver</em>): +1 each when
-relevant, <strong>max +2 per roll</strong>.</p></li>
-<li><p><strong>Weakness tags</strong> (e.g. <em>owes the wrong
-people</em>, <em>bad knee</em>): −1 when relevant, or compel for a Tychē
-Point (<a href="#core-tyche-points">§4</a>).</p></li>
-<li><p><strong>Any tag can be compelled.</strong> A power tag can also
-cause trouble when its meaning creates a concrete complication. It keeps
-its normal benefits (<a
-href="#core-tyche-points">§4</a>).</p></li>
-<li><p><strong>Burning a tag:</strong> mark a power tag as burned to
+<li><p><strong>One description, two sides.</strong> Each tag is a single
+description (<em>ex-navy marksman</em>, <em>grandfather’s revolver</em>,
+<em>owes the wrong people</em>, <em>loyal to the crew</em>). It isn’t
+split into a benefit and a drawback; what it does depends on the
+situation.</p></li>
+<li><p><strong>When it helps,</strong> it supplies <strong>+1
+Power</strong> on a Success or Success at a Cost, <strong>max +2 per
+action</strong> (<a href="#core-outcomes">§2.5</a>). Explain how
+it helps. Tags never add to or subtract from the roll.</p></li>
+<li><p><strong>When it causes trouble,</strong> it can be compelled for
+a Tychē Point (<a href="#core-tyche-points">§4</a>). A tag can
+supply Power and be compelled in the same action when the help and the
+trouble are distinct.</p></li>
+<li><p><strong>Burning a tag:</strong> mark a relevant tag as burned to
 gain an automatic +1 Power on a success. It stays unusable until you
 recover it (a downtime action or a milestone). Burning ignores the +2
 cap.</p></li>
@@ -878,16 +907,16 @@ bring?</p></li>
 complicates your commitments?</p></li>
 <li><p><strong>Skills and abilities:</strong> what can you already do,
 and where does ambition exceed competence?</p></li>
-<li><p><strong>Tags:</strong> which strengths help you act, and which
-vulnerabilities make that difficult?</p></li>
+<li><p><strong>Tags:</strong> where does each one help you act, and when
+does it get you into trouble?</p></li>
 <li><p><strong>Load-out:</strong> which gear options and load may
 support your commitments? Follow <a
 href="#core-starting-resources">§3.6</a> do not choose every item
 in advance.</p></li>
 </ul>
 <p>Beliefs grant no extra skills, tags, abilities, equipment, pool
-points or Tychē, and a conviction isn’t a power tag. Wanting to protect
-others doesn’t mean you’re good at it.</p>
+points or Tychē, and a conviction isn’t a tag. Wanting to protect others
+doesn’t mean you’re good at it.</p>
 <h4 id="choose-your-starting-goal">Choose Your Starting Goal</h4>
 <p>Choose a concrete opening objective that advances at least one
 Belief. It should have a recognisable completion point.</p>
@@ -1005,10 +1034,10 @@ rolling. This works with any tag or Truth you can justify, even one
 belonging to the scene or an enemy; the approach must already be
 possible. A Truth gives no modifier itself, so the benefit comes from
 the Tychē Point. The +2 sits outside the status and Condition slots and
-the tag cap; a Condition’s underlying fact can justify an Invoke, but
-its rating adds no further free bonus. Invoke before the roll’s outcome
-is resolved. A reroll changes the dice, not a cost already paid or a
-consequence already resolved.</p></li>
+isn’t Tag Power; a Condition’s underlying fact can justify an Invoke,
+but its rating adds no further free bonus. Invoke before the roll’s
+outcome is resolved. A reroll changes the dice, not a cost already paid
+or a consequence already resolved.</p></li>
 <li><p><strong>Declare</strong> — establish a minor fact about the
 scene. The GM may require it to tie to one of your tags.</p></li>
 <li><p><strong>Resist harder</strong> — reduce one Resistance cost to 0
@@ -1031,10 +1060,9 @@ href="#core-conflict-limits-reference">§10.18</a>).</p>
 <p><strong>Earn Tychē Points by:</strong></p>
 <ul>
 <li><p><strong>Accepting a compel</strong> — the GM or another player
-offers a meaningful complication based on one of your tags (power,
-weakness or Scar), Beliefs (<a
-href="#core-beliefs-goals-instincts">§3.5</a>) or your Instinct.
-Accept → +1 Tychē Point. Refuse → pay 1 Tychē Point.</p></li>
+offers a meaningful complication based on any of your tags or Scars,
+Beliefs (<a href="#core-beliefs-goals-instincts">§3.5</a>) or your
+Instinct. Accept → +1 Tychē Point. Refuse → pay 1 Tychē Point.</p></li>
 <li><p><strong>Compelling yourself</strong> — propose the same kind of
 complication on yourself. If the GM agrees it meets the rules below,
 take the complication and gain +1 Tychē Point. Facing it can also earn
@@ -1049,6 +1077,10 @@ opportunity. Flavour or a minor inconvenience doesn’t count.</p></li>
 Belief, or Instinct justifies it, what will happen, and what it commits
 your character to. You otherwise control how your character
 responds.</p></li>
+<li><p><strong>One tag, two sides.</strong> The tag that supplies Power
+to one action can justify a compel in another, or in the same action
+when the help and the trouble are distinct. Accepting the compel doesn’t
+remove the tag’s Power.</p></li>
 <li><p><strong>Limits.</strong> A compel must follow from the
 established meaning of the tag, Belief, or Instinct. It adds no
 numerical penalty and can’t undo a resolved success. An existing penalty
@@ -1063,8 +1095,8 @@ commander.</p></li>
 <p>All three Belief categories use the same compel procedure. Acting in
 line with a Belief earns nothing by itself; only a complication that
 meets the standard above does. Several Beliefs behind one complication
-still earn one Tychē Point. Beliefs grant no modifiers and are not extra
-power tags.</p>
+still earn one Tychē Point. Beliefs grant no modifiers, are not extra
+tags and supply no Power.</p>
 <p><em>Belief example:</em> your Self Belief rejects sacrificing people
 for advantage. You propose staying to escort stranded civilians instead
 of pursuing the fleeing saboteur. Before acceptance, agree that the
@@ -1206,8 +1238,12 @@ href="#core-actions-effects">§10.6</a>)</p></td>
 </tbody>
 </table>
 <p>Each point of Power buys an Effect that fits what your character did
-in the fiction. No Effect is mandatory; all purchases share one Power
-budget, and any unspent Power becomes <strong>Weal</strong>.</p>
+in the fiction. The Effects you buy are the action’s result (<a
+href="#core-outcomes">§2.5</a>): an Effect you don’t buy doesn’t
+happen, even when it was the declared goal. Buy the Effect that serves
+the declared goal before a secondary goal with Extra Feat. No purchase
+is mandatory; all purchases share one Power budget, and any unspent
+Power becomes <strong>Weal</strong>.</p>
 <p><strong>In scripted conflicts,</strong> each action can buy only the
 Effects <a href="#core-actions-effects">§10.6</a> permits.
 Fictional relevance is required but doesn’t unlock anything else.</p>
@@ -1931,15 +1967,14 @@ Scar per scene</strong>, and a status that stays at tier 6 gives no
 further Scar. Only an ability that says so can give more. Don’t split
 one condition into several differently named statuses to gain or avoid
 Scars.</p>
-<p><strong>Scar effects.</strong> A Scar is a lasting weakness tag, not
-a status. Apply it when it’s relevant, and it can be compelled for Tychē
-Points. Rest, treatment, Restore and pool recovery don’t remove a Scar;
-changing one takes an Advance, a milestone or an explicit ability. If a
-Scar and a harmful status describe the same impairment on the same roll,
-apply only the larger penalty. Your <strong>fourth Scar</strong> retires
-the character from ordinary adventuring. Finish the immediate scene,
-then decide with the player how the character leaves. Retirement doesn’t
-mean death.</p>
+<p><strong>Scar effects.</strong> A Scar is a lasting tag, not a status.
+It supplies no Power and adds nothing to the roll; when it’s relevant,
+it can be compelled for Tychē Points. Rest, treatment, Restore and pool
+recovery don’t remove a Scar; changing one takes an Advance, a milestone
+or an explicit ability. Your <strong>fourth Scar</strong> retires the
+character from ordinary adventuring. Finish the immediate scene, then
+decide with the player how the character leaves. Retirement doesn’t mean
+death.</p>
 <h3 id="core-being-taken-out">6.4 Being Taken Out</h3>
 <p><strong>Ways out.</strong> You are <strong>Taken Out</strong> of a
 conflict when a harmful status reaches tier 6 within its scope (<a
@@ -2325,8 +2360,8 @@ says so.</p>
 <h2 id="core-progress-clocks">7. Progress Clocks</h2>
 <ul>
 <li><p><strong>Sizes:</strong> 4 (simple), 6 (complex), 8 (daunting), 12
-(epic). Specific rules may prescribe other sizes, such as the 3-segment
-Dying clock (<a
+(epic). Specific rules may prescribe other sizes, such as the 16-segment
+Region Truth clock (Module C.6) or the 3-segment Dying clock (<a
 href="#core-dying-stabilisation">§6.7</a>).</p></li>
 <li><p><strong>Player clocks</strong> tick with the
 <strong>Advance</strong> effect (1 Power = 1 segment).</p></li>
@@ -2627,8 +2662,8 @@ href="#core-costs-failures-complications">§10.7</a>. Explicit Woe
 spends, Specials, hazards and Risky rolls keep their stated effects.</p>
 <h3 id="core-escalation">9.3 Escalation</h3>
 <p>Some acts and items make a situation more dangerous just by being
-there. They carry the <strong>Escalation</strong> tag. It gives no bonus
-and doesn’t count toward the tag cap.</p>
+there. They carry the <strong>Escalation</strong> tag. It supplies no
+Power and doesn’t count toward the tag cap.</p>
 <ul>
 <li><p><strong>Escalation items.</strong> Openly carrying an Escalation
 item into a scene gives the GM <strong>+1 Woe</strong>, once per item
@@ -2805,7 +2840,7 @@ Superiority. A map might justify preparation and later help an action.
 These benefits perform different jobs:</p>
 <ul>
 <li><p>Superiority represents preparation at setup.</p></li>
-<li><p>An action tag assists a particular roll.</p></li>
+<li><p>An action tag supplies Power to a particular action.</p></li>
 <li><p>A Situational Condition modifies relevant rolls; a Truth
 establishes what is possible.</p></li>
 </ul>
@@ -2984,13 +3019,15 @@ versus.</p>
 <p>Roll against Standard 15, adjusted by explicit difficulty modifiers
 such as adversary Guard; statuses and Situational Conditions modify the
 roll (<a href="#core-roll">§2.1</a>), and Truths decide what is
-possible (<a href="#core-truths">§8</a>). Determine Power
-normally.</p>
+possible (<a href="#core-truths">§8</a>). Tags add nothing to the
+roll. Determine Power normally, including Tag Power (<a
+href="#core-outcomes">§2.5</a>).</p>
 <h4 id="versus-tests">Versus Tests</h4>
-<p>Both actors roll. The higher total wins and gains 1 Power, plus 1 for
-every full 3 points of margin. Winning prevents the opposing action’s
-normal effect, even if all Power funds permitted supplementary Effects
-rather than loss or recovery.</p>
+<p>Both actors roll. The higher total wins and gains its Tag Power + 1
+Power, plus 1 for every full 3 points of margin. The loser spends no Tag
+Power. Winning prevents the opposing action’s normal effect, even if all
+Power funds permitted supplementary Effects rather than loss or
+recovery.</p>
 <p>On an exact tie, neither action gains Power or produces its normal
 effect. Costs already paid remain spent. Success at a Cost doesn’t turn
 a losing versus roll into success. Resolve doubles and complications
@@ -3284,9 +3321,10 @@ ordinary-failure Woe. Apply this symmetrically to player and GM actors;
 costs already paid remain spent. Separately triggered complications,
 ability costs, scenery Dangers and explicit Woe rules still apply.</p>
 <h4 id="success-at-a-cost">Success at a Cost</h4>
-<p>On an independent test missing by 1–3, gain 1 Power as usual. The
-player chooses either 1 Woe for the GM or an immediate, proportionate
-complication arising from the action.</p>
+<p>On an independent test missing by 1–3, gain Tag Power + 0 as usual
+(<a href="#core-outcomes">§2.5</a>). The player chooses either 1
+Woe for the GM or an immediate, proportionate complication arising from
+the action.</p>
 <p>An ordinary cost can’t impose an additional status or extra
 Disposition loss unless an explicit rule permits it. Suitable costs
 include exposing an approach, losing access to a minor asset or
@@ -3458,9 +3496,11 @@ contribution or Grit from current or starting Disposition. Removal may
 still defeat the side if nobody remains able to pursue its
 objective.</p>
 <h3 id="core-conflict-gear-assets">10.10 Conflict Gear and Assets</h3>
-<p>Equipment normally provides an action tag, counting toward the normal
-+2 tag cap. It may also have one explicitly written distinctive quality.
-Don’t invent qualities during resolution.</p>
+<p>Equipment normally provides an action tag: when its use explains how
+it applies, it supplies 1 Tag Power to the named action, counting toward
+the normal +2 cap. It adds nothing to the roll. It may also have one
+explicitly written distinctive quality. Don’t invent qualities during
+resolution.</p>
 <table>
 <thead>
 <tr>
@@ -3984,7 +4024,7 @@ href="#core-dangers-conflicts">§8.5</a>)</p></li>
 Beliefs</strong> drive a meaningful decision?</p></li>
 <li><p>Did your <strong>Instinct</strong> get you into trouble or save
 the day?</p></li>
-<li><p>Did you face consequences from a <strong>weakness tag or
+<li><p>Did you face consequences from a <strong>compelled tag or
 Scar</strong>?</p></li>
 </ul>
 <p>The Belief question awards at most <strong>1 XP per session</strong>,
@@ -4000,8 +4040,7 @@ Refresh, within the cap).</p>
 <li><p>+3 to one pool, or +1 Edge (max 3 Edge per pool)</p></li>
 <li><p>A new playbook special ability (★ costs 1 Refresh; veteran costs
 below)</p></li>
-<li><p>A new power tag, or rewrite a weakness tag into a power
-tag</p></li>
+<li><p>A new tag, or rewrite an existing tag</p></li>
 <li><p>A new Specialisation in a rated skill (<a
 href="#core-skill-pyramid">§3.3</a>)</p></li>
 <li><p><strong>+1 Refresh</strong> (buys back Refresh spent on abilities
@@ -4078,20 +4117,28 @@ lighting</em> — Situational Condition 2 — helps hiding in the shadows,
 hinders reading and aiming — ends when the lamps are lit or the scene
 ends, and the Truth <em>Patrolling Guards</em>.</p>
 <ul>
-<li><p><strong>Roll:</strong> Stealth +3, power tag <em>quiet boots</em>
-+1, power tag <em>knows this district</em> +1 (tags capped at +2),
-<em>dim lighting</em> +2. The GM sets Hard 18, so Kade needs 11+ on the
-dice.</p></li>
+<li><p><strong>Goal:</strong> reach the cell unseen. The table agrees
+that means advancing the 4-segment <em>Reach the Cell</em> clock; each
+segment costs 1 Power (Advance).</p></li>
+<li><p><strong>Roll:</strong> Stealth +3, <em>dim lighting</em> +2. The
+GM sets Hard 18, so Kade needs 13+ on the dice. His tags <em>quiet
+boots</em> and <em>knows this district</em> add nothing to the roll but
+supply <strong>2 Tag Power</strong> if he succeeds.</p></li>
 <li><p><strong>Effort, part 1:</strong> Kade spends 3 − 1 Edge = 2 Mētis
 for a bonus die → 3d12 keep 2.</p></li>
-<li><p><strong>Result:</strong> dice show 9, 9, 4 → keep 9 + 9 = 18, +7
-= 25. That's 7 over → <strong>3 Power</strong>, plus <strong>doubles on
-a success → +1 = 4 Power</strong>.</p></li>
+<li><p><strong>Result:</strong> dice show 9, 9, 4 → keep 9 + 9 = 18, +5
+= 23. That's 5 over → 2 Power, plus 2 Tag Power = <strong>4
+Power</strong>, plus <strong>doubles on a success → +1 = 5
+Power</strong>.</p></li>
 <li><p><strong>Effort, part 2:</strong> Kade spends another 2 Mētis for
-<strong>+1 Power → 5 Power</strong>.</p></li>
+<strong>+1 Power → 6 Power</strong>.</p></li>
 <li><p><strong>Spend:</strong> Advance the <em>Reach the Cell</em> clock
-by 3 (3 Power), Discover (1 Power): "Where is the key?" — "On the
-sergeant's belt." 1 Power left → <strong>+1 Weal</strong>.</p></li>
+by 4 (4 Power), filling it: he reaches the cell unseen. Discover (1
+Power): "Where is the key?" — "On the sergeant's belt." 1 Power left →
+<strong>+1 Weal</strong>.</p></li>
+<li><p><strong>Had it cost him:</strong> on a Success at a Cost he would
+have had only his 2 Tag Power: two segments, short of the cell, plus a
+consequence or 1 Woe.</p></li>
 <li><p><strong>Later:</strong> the sergeant's dread patron, a bound
 spirit, lashes out with <em>terror-3</em>. Kade Resists with
 <strong>Pneuma</strong> (Edge 0), so 2d12: highest die 7 → cost 2
@@ -4125,25 +4172,27 @@ first again on Feint. That’s legal: both guards act in the first round,
 and the second guard acts between the first guard’s turns (<a
 href="#core-scripting-volleys">§10.5</a>).</p>
 <p><strong>Volley 1 — Maneuver versus Maneuver.</strong> Both actions
-resolve independently. Kade uses Stealth +3 and one relevant tag for +1
-to slip around the first guard and open a path. His dice are 7 and 6,
-for a total of 17. The guard has Guard +1, so Kade’s target is Standard
-15 + 1 = 16; no Situational Condition applies here. He succeeds with
-<strong>1 Power</strong> and buys Gain Position.</p>
+resolve independently. Kade uses Stealth +3 to slip around the first
+guard and open a path. His dice are 7 and 6, for a total of 16. The
+guard has Guard +1, so Kade’s target is Standard 15 + 1 = 16; no
+Situational Condition applies here. He meets it: 1 Power, plus 1 Tag
+Power from <em>knows this district</em>, for <strong>2 Power</strong>.
+He buys Gain Position and lets the last point become Weal.</p>
 <p>The guard’s independent Maneuver totals 15 against Standard 15: a
 success with 1 Power, which the GM spends on Impede.</p>
 <p>Neither Maneuver changes Disposition. Gain Position and Impede both
 wait for the PCs” next scripted action; neither applies to a Resistance
 roll in between.</p>
 <p><strong>Volley 2 — Attack versus Defend.</strong> Mira receives Gain
-Position’s bonus die. She rolls 9, 6 and 2, keeps 9 + 6, adds Fight +3
-and her weapon’s +1 Attack tag, then subtracts 3 for Impede:
-<strong>total 16</strong>. The guard’s Defend totals 13.</p>
-<p>Mira wins by 3: 1 Power plus 1 for the full 3-point margin, <strong>2
-Power</strong>. She commits both to Attack, removing <strong>3 shared
-Disposition</strong> (2 Power + 1), and the guards fall from 8 to 5.
-Their losing Defend restores nothing, and no individual guard is hurt or
-removed by the loss. Both pending Maneuver benefits are now spent (<a
+Position’s bonus die. She rolls 9, 6 and 2, keeps 9 + 6, adds Fight +3,
+then subtracts 3 for Impede: <strong>total 15</strong>. The guard’s
+Defend totals 13.</p>
+<p>Mira wins by 2: 1 Power for winning plus 1 Tag Power from her
+weapon’s +1 Attack tag, <strong>2 Power</strong>. She commits both to
+Attack, removing <strong>3 shared Disposition</strong> (2 Power + 1),
+and the guards fall from 8 to 5. Their losing Defend restores nothing,
+and no individual guard is hurt or removed by the loss. Both pending
+Maneuver benefits are now spent (<a
 href="#core-actions-effects">§10.6</a>).</p>
 <p><strong>Volley 3 — Defend versus Feint.</strong> Tarin’s Defend is
 trumped: no roll, and no Disposition restored. The first guard’s Feint
@@ -4216,9 +4265,10 @@ Woe)</p></td>
 </tr>
 <tr>
 <td><p><strong>:Otherscape</strong></p></td>
-<td><p>Power/weakness tags, statuses with tiers, effects, burning
-tags</p></td>
-<td><p>Power comes from roll margin; tag cap +2</p></td>
+<td><p>Tags as Power, compellable tags, statuses with tiers, effects,
+burning tags</p></td>
+<td><p>Single contextual tags instead of power/weakness; Power is Tag
+Power plus roll margin; tag cap +2</p></td>
 <td><p>Themebooks, Improve/Abandon tracks</p></td>
 </tr>
 <tr>
@@ -4266,11 +4316,11 @@ equipment</p></td>
 <li><p><strong>Currency load:</strong> pools + Tychē + Weal + Woe is the
 upper limit for medium crunch. Keep spend menus short on the
 sheet.</p></li>
-<li><p><strong>Modifier range:</strong> max is skill +4, tags +2,
-helpful status up to +6, helpful Situational Condition up to +6, Tychē
-invoke +2. The two slots together range from −12 to +12 and are the
-largest swing. Playtest a ±3 cap on either slot, and whether 2 Power per
-rating prices broad Situational Conditions fairly.</p></li>
+<li><p><strong>Modifier range:</strong> max is skill +4, helpful status
+up to +6, helpful Situational Condition up to +6, Tychē invoke +2. The
+two slots together range from −12 to +12 and are the largest swing.
+Playtest a ±3 cap on either slot, and whether 2 Power per rating prices
+broad Situational Conditions fairly.</p></li>
 <li><p><strong>Effort for Power</strong> may make high-Edge characters
 very efficient. Watch Edge-3 pools where Effort is free; consider a
 minimum cost of 1.</p></li>

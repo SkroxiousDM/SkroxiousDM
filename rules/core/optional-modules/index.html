@@ -220,8 +220,8 @@ duration, removal conditions and any area or conflict exceptions.</p>
 <ul>
 <li><p><strong>What they are:</strong> reusable items of real power — a
 flaming sword, a psychic amplifier, a starship's AI core.</p></li>
-<li><p><strong>Tags:</strong> an artifact has 1–2 power tags (counting
-toward the +2 cap) and usually a special ability. Its item tag and
+<li><p><strong>Tags:</strong> an artifact has 1–2 tags (counting toward
+the +2 Tag Power cap) and usually a special ability. Its item tag and
 conflict gear tag don’t both count for the same benefit on one roll
 (Core Rules <a
 href="../core-rules/#core-conflict-gear-assets">§10.10</a>).</p></li>
@@ -233,8 +233,8 @@ downtime clock to restore).</p></li>
 be attuned and <strong>cost 1 Refresh</strong> while attuned (Core Rules
 <a href="../core-rules/#core-refresh">§4.1</a>). A PC can attune to a maximum of
 2 artifacts.</p></li>
-<li><p><strong>Artifact quirks:</strong> each artifact has a weakness
-tag that can be compelled for Tychē Points (<em>thirsts for blood</em>,
+<li><p><strong>Artifact quirks:</strong> each artifact has a quirk tag
+that is usually compelled for Tychē Points (<em>thirsts for blood</em>,
 <em>talks too much</em>, <em>draws the Hunters</em>).</p></li>
 </ul>
 <p>Artifact abilities follow the same conflict limits as cyphers.
@@ -366,9 +366,10 @@ Resistance.</p>
 <h3 id="mod-checks">B.4 Checks (Players' Turn)</h3>
 <ul>
 <li><p><strong>Earn Checks</strong> during the GM's Turn by
-<strong>applying one of your weakness tags or Scars to your own
-roll</strong> (−1). You earn 1 Check, or 2 if the penalty makes the roll
-fail.</p></li>
+<strong>taking a −1 fixed modifier on your own roll because of one of
+your tags or Scars</strong> (Core Rules <a
+href="../core-rules/#core-roll">§2.1</a>). You earn 1 Check, or 2 if the penalty
+makes the roll fail.</p></li>
 <li><p><strong>Everyone gets 1 free Check</strong> in the Players'
 Turn.</p></li>
 <li><p><strong>Spend 1 Check</strong> for one Players' Turn action: a
@@ -378,7 +379,7 @@ artifact, or a scene that pursues your Goal.</p></li>
 <li><p><strong>Sharing:</strong> you can give a Check to another PC
 whose scene you take part in.</p></li>
 </ul>
-<p>Weaknesses become a resource: hurt yourself now to recover later. A
+<p>Trouble becomes a resource: hurt yourself now to recover later. A
 Check permits an activity; it doesn’t guarantee success. Lasting
 injuries still follow Core Rules <a
 href="../core-rules/#core-treatment-healing">§6.6</a>, and another Check doesn’t
@@ -657,6 +658,11 @@ takes a <strong>World Turn</strong>:</p>
 <ol>
 <li><p>Each active faction rolls <strong>2d12 + its rating (+1 to
 +4)</strong> vs. Standard 15 for its current project.</p></li>
+<li><p>Resolve it with the core outcomes (Core Rules <a
+href="../core-rules/#core-outcomes">§2.5</a>). Each <strong>asset tag</strong>
+that materially supports the project supplies <strong>+1 Power</strong>,
+maximum +2, and adds nothing to the roll; a Success at a Cost gives only
+that Tag Power.</p></li>
 <li><p>Power ticks the faction's <strong>project clock</strong> (sized
 by the change it makes, below).</p></li>
 <li><p>When a clock fills, the faction <strong>creates, removes, or
@@ -667,15 +673,17 @@ clock.</p></li>
 <li><p>PCs who hear about it can respond; PC actions can tick faction
 clocks forward or back using Advance.</p></li>
 </ol>
-<p>A faction project changes a Site Truth with an 8-segment clock and a
-Region Truth with a 12-segment clock. A Campaign Truth changes only
-through a major arc (C.6).</p>
+<p>A faction project changes a Site Truth with a 12-segment clock and a
+Region Truth with a 16-segment clock. A Campaign Truth changes only
+through a major arc (C.6). As a guide, a +2 faction fills a Site Truth
+clock in about 12 World Turns with no relevant asset tag, 7 with one and
+5 with two.</p>
 <h3 id="mod-player-influence-truths">C.6 Player Influence on Truths</h3>
 <ul>
 <li><p><strong>Discover</strong> effects and Weal spends reveal hidden
 Truths.</p></li>
 <li><p><strong>Create</strong> effects and 2 Weal create Scene Truths;
-bigger changes need a progress clock (8 segments for a Site Truth, 12
+bigger changes need a progress clock (12 segments for a Site Truth, 16
 for a Region Truth).</p></li>
 <li><p>Major arcs can rewrite Campaign Truths. These are the "legacy"
 moments of the campaign.</p></li>
@@ -743,7 +751,7 @@ for their sheet:</p>
 <td><p><strong>2 Rise</strong></p></td>
 <td><p>Standard</p></td>
 <td><p>One element.</p></td>
-<td><p>One <strong>power tag</strong>.</p></td>
+<td><p>One <strong>tag</strong>.</p></td>
 </tr>
 <tr>
 <td><p><strong>3 Branching Out</strong></p></td>
@@ -756,8 +764,8 @@ one of your own lines, or give another PC a new element.</p></td>
 <td><p><strong>4 Turning Point</strong></p></td>
 <td><p>Major</p></td>
 <td><p>Two elements.</p></td>
-<td><p>A <strong>weakness tag</strong> and your first
-<strong>Goal</strong>.</p></td>
+<td><p>A <strong>tag</strong> that can get you into trouble, and your
+first <strong>Goal</strong>.</p></td>
 </tr>
 </tbody>
 </table>
@@ -821,13 +829,15 @@ often belongs even if no PC touches them.</p></li>
 <li><p><strong>Sheet.</strong> For each faction write:</p></li>
 </ol>
 <ul>
-<li><p><strong>Has</strong>: one obvious asset and one less obvious one.
-These set its <strong>rating</strong>: +1 minor, +2 solid, +3 major, +4
-dominant.</p></li>
+<li><p><strong>Has</strong>: one obvious asset and one less obvious one,
+each written as an <strong>asset tag</strong> (<em>toll-barge
+fleet</em>, <em>the magistrate’s ear</em>). Together they set its
+<strong>rating</strong>: +1 minor, +2 solid, +3 major, +4 dominant. On a
+World Turn each relevant asset tag supplies +1 Power (C.5).</p></li>
 </ul>
 <ul>
 <li><p><strong>Wants</strong>: its current project, with a clock sized
-by the change it makes (8 for a Site Truth, 12 for a Region Truth; C.6)
+by the change it makes (12 for a Site Truth, 16 for a Region Truth; C.6)
 and the <strong>result Truth</strong> it creates or changes when the
 clock fills.</p></li>
 <li><p><strong>Link</strong>: how it connects to the PCs.</p></li>
@@ -914,8 +924,8 @@ numbers in this module are (Playtest Value).</p>
 </table>
 <ul>
 <li><p><strong>Checks.</strong> Free Checks are added to any Checks
-earned on the expedition (B.4: applying a weakness tag or Scar to your
-own roll). Spend <strong>1 Check</strong> for one endeavour. Unspent
+earned on the expedition (B.4: taking −1 on your own roll because of a
+tag or Scar). Spend <strong>1 Check</strong> for one endeavour. Unspent
 Checks are lost when the stay ends. You may give a Check to another PC
 whose endeavour you join.</p></li>
 <li><p><strong>Stay Woe.</strong> The GM does not use expedition Woe in
@@ -1147,12 +1157,12 @@ href="../core-rules/#core-tier-6-scars">§6.3</a>)</p></td>
 </tr>
 <tr>
 <td><p>Changing a site (C.6)</p></td>
-<td><p>8</p></td>
+<td><p>12</p></td>
 <td><p>A Site Truth</p></td>
 </tr>
 <tr>
 <td><p>Changing a region (C.6)</p></td>
-<td><p>12</p></td>
+<td><p>16</p></td>
 <td><p>A Region Truth</p></td>
 </tr>
 </tbody>
@@ -1351,7 +1361,7 @@ network, or administration.</p>
 <li><p>Operational reach: the places and communities where it can
 act.</p></li>
 <li><p>Five Qualities, each rated 0 to +4.</p></li>
-<li><p>Two or three assets and one vulnerability.</p></li>
+<li><p>Two or three asset tags and one vulnerability.</p></li>
 <li><p>Standing toward the party, from −3 to +3.</p></li>
 <li><p>A representative who can explain or authorize requests.</p></li>
 <li><p>One current project and its clock.</p></li>
@@ -1402,16 +1412,17 @@ belong even if no PC touches them.</p></li>
 <td><p>The <em>obvious</em> asset sets the faction’s highest Quality
 (+3, or +4 for a dominant power). The <em>less obvious</em> asset sets a
 second Quality (+2). Other Qualities are 0 or +1. Explain every nonzero
-Quality through concrete assets. The vulnerability is something
-opponents can target; it need not match a low Quality.</p></td>
+Quality through concrete assets, and write two or three of them as asset
+tags (E.2). The vulnerability is something opponents can target; it need
+not match a low Quality.</p></td>
 </tr>
 <tr>
 <td><p><strong>Wants</strong></p></td>
 <td><p>Ambition, project, primary Quality, clock (E.1, E.10)</p></td>
 <td><p>Write the long-term ambition, then one current project with its
 intended outcome and its <strong>primary Quality</strong>. Choose the
-clock by the change it makes: 4 or 6 for a limited or local action, 8
-for a Site Truth, 12 for a Region Truth (E.10, C.6).</p></td>
+clock by the change it makes: 4 or 6 for a limited or local action, 12
+for a Site Truth, 16 for a Region Truth (E.10, C.6).</p></td>
 </tr>
 <tr>
 <td><p><strong>Link</strong></p></td>
@@ -1490,52 +1501,55 @@ complete another project. Once play begins, use the core rules for PC
 struggles and E.10 for faction actions. Campaign Truths still need a
 major arc.</p>
 <p><strong>Pacing.</strong> Average Power per World Turn for 2d12 + one
-Quality against Standard 15, counting Success at a Cost (1 Power) but
-not doubles or opposition. Turns to fill are expected values with
-overflow discarded; they are estimates, not deadlines. (Playtest
-Value)</p>
+Quality against Standard 15, with 0, 1 or 2 relevant asset tags. Success
+at a Cost gives only Tag Power; doubles and opposition aren’t counted.
+Turns to fill are expected values with overflow discarded; they are
+estimates, not deadlines. (Playtest Value)</p>
 <table>
 <thead>
 <tr>
 <th><p>Quality</p></th>
-<th><p>Average Power per turn</p></th>
-<th><p>Turns to fill 8</p></th>
-<th><p>Turns to fill 12</p></th>
+<th><p>Avg Power (0/1/2 tags)</p></th>
+<th><p>Turns: 12</p></th>
+<th><p>Turns: 16</p></th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td><p>0</p></td>
-<td><p>0.89</p></td>
-<td><p>about 9</p></td>
-<td><p>about 14</p></td>
+<td><p>0.65 / 1.27 / 1.89</p></td>
+<td><p>19 / 10 / 7</p></td>
+<td><p>25 / 13 / 9</p></td>
 </tr>
 <tr>
 <td><p>+1</p></td>
-<td><p>1.06</p></td>
-<td><p>about 8</p></td>
-<td><p>about 12</p></td>
+<td><p>0.83 / 1.52 / 2.21</p></td>
+<td><p>15 / 9 / 6</p></td>
+<td><p>20 / 11 / 8</p></td>
 </tr>
 <tr>
 <td><p>+2</p></td>
-<td><p>1.25</p></td>
-<td><p>about 7</p></td>
-<td><p>about 10</p></td>
+<td><p>1.04 / 1.79 / 2.54</p></td>
+<td><p>12 / 7 / 5</p></td>
+<td><p>16 / 10 / 7</p></td>
 </tr>
 <tr>
 <td><p>+3</p></td>
-<td><p>1.46</p></td>
-<td><p>about 6</p></td>
-<td><p>about 9</p></td>
+<td><p>1.27 / 2.08 / 2.88</p></td>
+<td><p>10 / 6 / 5</p></td>
+<td><p>13 / 8 / 6</p></td>
 </tr>
 <tr>
 <td><p>+4</p></td>
-<td><p>1.69</p></td>
-<td><p>about 5</p></td>
-<td><p>about 8</p></td>
+<td><p>1.52 / 2.38 / 3.23</p></td>
+<td><p>9 / 6 / 4</p></td>
+<td><p>11 / 7 / 6</p></td>
 </tr>
 </tbody>
 </table>
+<p>Site Truths take 12 segments and Region Truths 16 (C.6). At that
+scale one relevant asset tag paces close to the old 8-segment clocks;
+two tags finish a turn or two sooner.</p>
 <h3 id="mod-organizational-qualities">E.2 Organizational Qualities</h3>
 <table>
 <thead>
@@ -1620,12 +1634,21 @@ Fracture clock created and no automatic tick that turn.</p>
 occupy a town without personnel; soldiers cannot cross a sea without
 transport. A rating never creates an unstated army, fleet, office, or
 network.</p>
-<p>When an asset matters mechanically, record it as a Truth with scope
-and ending condition, or as a Situational Condition when it helps rolls
-by a number (Core Rules <a
+<p><strong>Asset tags.</strong> Write each asset as a tag (<em>armed
+river crews</em>, <em>clerks in the provincial offices</em>). When an
+asset materially supports a faction roll, it supplies <strong>+1
+Power</strong>, maximum +2 per action, as a PC’s tags do (Core Rules <a
+href="../core-rules/#core-outcomes">§2.5</a>). It adds nothing to the roll.
+Asset tags supply Power to the faction’s own rolls; a Trusted faction
+can also lend one to a PC (E.6).</p>
+<p>When an asset makes something possible or changes conditions for
+others, record that as a Truth with scope and ending condition, or as a
+Situational Condition when it helps rolls by a number (Core Rules <a
 href="../core-rules/#core-situational-conditions">§5.2</a>, <a
 href="../core-rules/#core-establishing-recording">§8.3</a>). It adds its
-concrete advantage, not a second bonus restating the Quality.</p>
+concrete advantage, not a second bonus restating the Quality, and one
+asset doesn’t supply both Tag Power and a Condition on the same
+roll.</p>
 <p>Record a distant branch separately when local capabilities matter.
 The imperial institution’s full resources are not automatically
 available to every provincial official.</p>
@@ -1634,7 +1657,7 @@ available to every provincial official.</p>
 it represents. Losing one shipment normally changes an asset, creates
 Strain, or sets back a project. Losing the principal treasury and credit
 network may reduce Treasure.</p>
-<p>An improvement normally requires an appropriate 8- or 12-segment
+<p>An improvement normally requires an appropriate 12- or 16-segment
 project, a concrete new resource, and an outcome large enough to justify
 the next rating. Repetitive minor jobs cannot manufacture permanent
 growth. No Quality exceeds +4.</p>
@@ -1859,10 +1882,23 @@ different methods and consequences. Evidence, compensation, leverage,
 and timing can change the request’s feasibility or the relevant Truths
 and Conditions.</p>
 <p>For that single request check, use normal core outcomes, Power,
-doubles, and currencies. A Success at a Cost grants the agreed help with
-the normal consequence-or-Woe choice. Failure does not secure the help
-and produces an appropriate move. A failed request cannot be repeated
-unchanged: introduce materially new terms or circumstances.</p>
+doubles, and currencies (Core Rules <a
+href="../core-rules/#core-outcomes">§2.5</a>). <strong>The help is a bought
+Effect.</strong> Before rolling, agree which Effect expresses it and its
+price: usually Create (a Truth such as <em>Passage Arranged</em> for 2
+Power, or a Situational Condition at 2 per rating), Discover for
+information (1 per answer), or Advance for a clock (1 per segment).
+Agree too what a smaller purchase would secure, if anything.</p>
+<p>On a Success, spend Power on that Effect; the help is secured only
+when the Power covers its price. <strong>Success at a Cost grants the
+help with strings.</strong> As an exception to the core rule that
+unbought Effects don’t happen, the agreed help is secured whatever the
+Power. In place of the normal consequence-or-Woe choice, the faction
+attaches one string: an obligation recorded as a favour owed (E.7), a
+delay that matters, or −1 Standing. Any Tag Power or Effort can still
+buy extras. Failure does not secure the help and produces an appropriate
+move. A failed request cannot be repeated unchanged: introduce
+materially new terms or circumstances.</p>
 <p>Extra Power can improve agreed scope, speed, or discretion where
 normal Effects and the fiction support it. It cannot buy permanent
 Standing or unlimited resources.</p>
@@ -1893,11 +1929,18 @@ pays its normal cost from its own pools and shares the risk. An ordinary
 NPC has no pools, so it can’t Help unless a rule says otherwise (Core
 Rules <a href="../core-rules/#core-running-dry">§6.1</a>). Qualities aren’t
 pools.</p></li>
+<li><p>A lent asset tag: at Standing +2 or better, the faction commits
+one relevant asset tag (E.2) to a PC roll it actually supports, such as
+<em>barges and landing rights</em> behind a river crossing. It supplies
++1 Power and counts toward the PC’s maximum of +2 Tag Power (Core Rules
+<a href="../core-rules/#core-outcomes">§2.5</a>). It adds nothing to the
+roll.</p></li>
 </ul>
-<p>Do not award all three for the same contribution. Stronger Qualities
-increase feasible reach, reliability, and scale, not an automatic
-numerical bonus. Might +4 can organize support beyond Might +1; it does
-not grant +4 Fight.</p>
+<p>Do not award more than one of these for the same contribution. A PC
+roll takes at most one lent asset tag. Stronger Qualities increase
+feasible reach, reliability, and scale, not an automatic numerical
+bonus. Might +4 can organize support beyond Might +1; it does not grant
++4 Fight.</p>
 <p><strong>Accompanying allies.</strong> A companion is either a
 participant (joins rotation, uses its own ratings, bound by the stakes)
 or an asset (gives its stated benefit, takes no turn), never both. It
@@ -2049,14 +2092,15 @@ adjusted by task difficulty, with relevant Situational Conditions
 modifying the roll and Truths deciding what is possible. Use one primary
 Quality, not the sum of two. Other capabilities may be prerequisites or
 provide distinct concrete circumstances; their ratings are not automatic
-extra modifiers.</p>
+extra modifiers. Asset tags add nothing to the roll; each relevant one
+supplies Power (E.2).</p>
 <ul>
-<li><p>Success: 1 Power, plus 1 per full 3 points over the
+<li><p>Success: Tag Power + 1, plus 1 per full 3 points over the
 target.</p></li>
-<li><p>Success at a Cost (miss by 1–3): 1 Power and a concrete setback
-appropriate to the action.</p></li>
-<li><p>Failure (miss by 4+): no progress; introduce a relevant
-setback.</p></li>
+<li><p>Success at a Cost (miss by 1–3): Tag Power + 0, and a concrete
+setback appropriate to the action.</p></li>
+<li><p>Failure (miss by 4+): no Power and no progress; introduce a
+relevant setback.</p></li>
 <li><p>Doubles follow the core’s success/cost/failure twist rules,
 including double 12s and double 1s.</p></li>
 </ul>
@@ -2084,11 +2128,15 @@ normal core currencies.</p>
 </tr>
 <tr>
 <td><p>8</p></td>
-<td><p>Complex undertaking or lasting institutional change.</p></td>
+<td><p>Complex undertaking that creates no lasting Truth.</p></td>
 </tr>
 <tr>
 <td><p>12</p></td>
-<td><p>Major regional transformation.</p></td>
+<td><p>Lasting local or institutional change (a Site Truth).</p></td>
+</tr>
+<tr>
+<td><p>16</p></td>
+<td><p>Major regional transformation (a Region Truth).</p></td>
 </tr>
 </tbody>
 </table>
@@ -2097,20 +2145,21 @@ advances one declared project or produces one limited immediate result;
 it cannot purchase unrelated outcomes. Cap progress at the remaining
 segments; discard overflow. Link clocks for wider ambitions.</p>
 <p>Use Module C.6 for lasting Site, Region, and Campaign changes:
-normally 8 segments for a Site Truth, 12 for a Region Truth, and a major
-arc for a Campaign Truth. A short operational clock does not bypass
-those requirements.</p>
+normally 12 segments for a Site Truth, 16 for a Region Truth, and a
+major arc for a Campaign Truth. A short operational clock does not
+bypass those requirements.</p>
 <h4 id="opposition-and-disruption">Opposition and disruption</h4>
 <p>A faction may spend its action obstructing a known project if it has
 a credible method. Roll its relevant Quality against Standard 15,
 adjusted by the target’s concrete defences, with relevant Situational
 Conditions modifying the roll. The target’s Quality rating is not
 automatically a Difficulty shift.</p>
-<p>On success, spend Power to remove uncompleted progress, one segment
-per Power. Remove no more than is present and discard excess. A
-defending faction may devote its own action to countermeasures,
-producing appropriate protection or removing the obstructing capability.
-Do not add a free reaction roll for every attempted disruption.</p>
+<p>On success, spend Power, including Tag Power from assets that support
+the obstruction, to remove uncompleted progress, one segment per Power.
+Remove no more than is present and discard excess. A defending faction
+may devote its own action to countermeasures, producing appropriate
+protection or removing the obstructing capability. Do not add a free
+reaction roll for every attempted disruption.</p>
 <p>Declare obstruction or countermeasures in step 2 as the faction’s one
 major action. A faction that defends does not also advance its own
 project.</p>
@@ -2259,12 +2308,17 @@ capital.</p></td>
 association.</p></td>
 </tr>
 <tr>
+<td><p>Asset tags</p></td>
+<td><p><em>clerks in the provincial offices</em>, <em>barges and landing
+rights</em>, <em>deep commercial credit</em></p></td>
+</tr>
+<tr>
 <td><p>Vulnerability</p></td>
 <td><p>Its principal charter is legally disputed.</p></td>
 </tr>
 <tr>
 <td><p>Project</p></td>
-<td><p>Secure Exclusive Ferry Rights, 8 segments: a lasting local
+<td><p>Secure Exclusive Ferry Rights, 12 segments: a lasting local
 institutional change.</p></td>
 </tr>
 <tr>
@@ -2289,8 +2343,11 @@ If the party obtains a final judgment itself, do not roll again to
 establish that judgment.</p>
 <p>On the World Turn, the association uses Influence +2. The evidence
 lowers the Standard 15 target to Easy 12. Dice of 7 and 9 total 16; +2
-gives 18, producing 3 Power. It commits three segments. Without the
-evidence, the same total against 15 would produce 2 Power.</p>
+gives 18, producing 3 Power. Its <em>clerks in the provincial
+offices</em> work the court case, adding 1 Tag Power: 4 Power, and it
+commits four segments. Its barges and credit don’t help a legal
+challenge, so they add nothing. Without the evidence, the same total
+against 15 would produce 3 Power.</p>
 <p>Later, the party saves the winter grain convoy at substantial
 personal risk. Once the association learns what happened, Standing may
 rise to +3. A new favour is not automatic: the association must
@@ -2324,12 +2381,13 @@ requests.</p></td>
 </tr>
 <tr>
 <td><p>What does support do?</p></td>
-<td><p>Permission, a scoped Situational Condition, or actual Help; no
-duplicate benefit.</p></td>
+<td><p>Permission, a scoped Situational Condition, actual Help, or one
+lent asset tag (Standing +2+); no duplicate benefit.</p></td>
 </tr>
 <tr>
 <td><p>What does the faction roll?</p></td>
-<td><p>2d12 + one effective Quality, normally vs. Standard 15.</p></td>
+<td><p>2d12 + one effective Quality, normally vs. Standard 15. Relevant
+asset tags supply +1 Power each, max +2.</p></td>
 </tr>
 <tr>
 <td><p>How does it progress?</p></td>
@@ -2487,14 +2545,15 @@ restores 2 points to the pool that fits.</p></li>
 <li><p><strong>Help.</strong> One ally may Help a Probe as normal (Core
 Rules <a href="../core-rules/#core-bonus-dice-effort">§2.4</a>), or help a Buy
 by lowering its cost by 1 (minimum 1).</p></li>
-<li><p><strong>Tags.</strong> A power tag that applies to the skill adds
-+1 to a Probe, as usual. Burning one gives +1 Power.</p></li>
+<li><p><strong>Tags.</strong> A relevant tag supplies 1 Power to a Probe
+on a Success or Success at a Cost, as usual; that Power can buy Insight.
+Burning one gives +1 Power.</p></li>
 </ul>
 <p>Pay before boosted-skill recovery: the regained point isn’t a
 discount, and it doesn’t clear a running-dry status the payment caused.
 A refresh opportunity is offered by the GM, not an automatic refill at
 the start or end of an Inquiry scene.</p>
-<p>Probe Help and tags keep their normal caps (+2 power tags, +2 bonus
+<p>Probe Help and tags keep their normal caps (+2 Tag Power, +2 bonus
 dice). The Buy discount isn’t a bonus die or an extra Insight.</p>
 <h3 id="mod-danger-clock">F.5 Danger and the Clock</h3>
 <p>Inquiry has no failure state, so it needs pressure from somewhere
