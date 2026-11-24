@@ -132,7 +132,7 @@ Adversary Guard raises the Difficulty instead (<a
 href="#core-scripting-volleys">§10.5</a>), and Gain Position adds
 a bonus die (<a href="#core-bonus-dice-effort">§2.4</a>).
 (Playtest Value)</p>
-<p><em>Example:</em> dice 16 + Skill 3 − <em>exhausted-3</em> +
+<p><em>Example:</em> dice 16 + Skill 3 + (<em>exhausted −3</em>) +
 <em>rehearsed plan 2</em> − <em>slippery bridge 3</em> = 15.</p>
 <p>Why 2d12 summed: it produces a bell curve (2–24, average 13) —
 predictable for skilled characters, swingy at the extremes, and big
@@ -273,7 +273,7 @@ bonuses):</p>
 </tr>
 </tbody>
 </table>
-<p>Example: Skill +3 and <em>focused-1</em> (+1) vs. Standard 15 → need
+<p>Example: Skill +3 and <em>focused +1</em> (+1) vs. Standard 15 → need
 11+ → <strong>69%</strong>, or <strong>88%</strong> with one bonus
 die.</p>
 <h3 id="core-bonus-dice-effort">2.4 Bonus Dice and Effort</h3>
@@ -1182,8 +1182,8 @@ what you arranged earlier.</p>
 <tr>
 <td><p><strong>Attack</strong></p></td>
 <td><p>1 Power per tier</p></td>
-<td><p>Inflict a <strong>Status</strong> (e.g. <em>wounded-2</em>,
-<em>rattled-1</em>, <em>on fire-3</em>). In conflicts, Attack removes
+<td><p>Inflict a <strong>Status</strong> (e.g. <em>wounded −2</em>,
+<em>rattled −1</em>, <em>on fire −3</em>). In conflicts, Attack removes
 Disposition instead (<a
 href="#core-actions-effects">§10.6</a>)</p></td>
 </tr>
@@ -1211,8 +1211,8 @@ the end of the scene. Record it in the standard format</p></td>
 <tr>
 <td><p><strong>Enhance</strong></p></td>
 <td><p>1 per tier</p></td>
-<td><p>Give an ally a helpful personal status
-(<em>inspired-2</em>)</p></td>
+<td><p>Give an ally a helpful personal status (<em>inspired
++2</em>)</p></td>
 </tr>
 <tr>
 <td><p><strong>Restore</strong></p></td>
@@ -1289,8 +1289,8 @@ duration.</p></li>
 </ul>
 <p>The shared format doesn’t change any fact’s category or mechanics: a
 temporary benefit doesn’t become a status, and a Truth doesn’t gain a
-modifier. In running text, a status can still be written with its tier
-(<em>wounded-2</em>).</p>
+modifier. In running text, write a personal status with a space and a
+signed value (<em>wounded −2</em>, <em>inspired +2</em>).</p>
 <h3 id="core-personal-statuses">5.1 Personal Statuses</h3>
 <p>A <strong>status</strong> is a physical, mental or emotional state of
 a person (or of a group that shares one, <a
@@ -1304,26 +1304,33 @@ facts are Truths (<a href="#core-truths">§8</a>).</p>
 of the highest relevant helpful status and subtract the tier of the
 highest relevant harmful status (<a
 href="#core-roll">§2.1</a>).</p></li>
+<li><p><strong>Signed notation.</strong> Write a helpful status as
+<em>inspired +2</em> and a harmful status as <em>wounded −2</em>. The
+sign stays attached to the number, with a space after the name; − means
+minus, not a hyphenated separator. The tier is the magnitude: both
+examples are tier 2. Costs, stacking, Resistance and recovery still use
+the tier. A specific rule that gives a status no roll modifier still
+applies.</p></li>
 <li><p><strong>Recording a status.</strong> When you create a status,
-record its name and tier, its <strong>scope</strong> (who or what it
-affects, and in which circumstances), and its <strong>removal
+record its name and signed value, its <strong>scope</strong> (who or
+what it affects, and in which circumstances), and its <strong>removal
 condition</strong> (the event, recovery, treatment, or change that ends
 it), in the format above. The scope must follow from the fiction.
-<em>Injured ankle</em> — personal status 2 — running, jumping and
-balancing on the injured leg — ends through appropriate treatment and
-recovery.</p></li>
+<em>Injured ankle −2</em> — personal status, tier 2 — running, jumping
+and balancing on the injured leg — ends through appropriate treatment
+and recovery.</p></li>
 <li><p><strong>What it hinders.</strong> A status modifies only rolls
-within its scope: <em>slashed thigh-3</em> hinders running and climbing,
-not reading a ledger. A status can also decide what is possible: no roll
-lets you use a hand you no longer have. If circumstances change, review
-its scope; don’t broaden it just because its name allows another
-reading.</p></li>
+within its scope: <em>slashed thigh −3</em> hinders running and
+climbing, not reading a ledger. A status can also decide what is
+possible: no roll lets you use a hand you no longer have. If
+circumstances change, review its scope; don’t broaden it just because
+its name allows another reading.</p></li>
 </ul>
 <ul>
 <li><p><strong>Stacking.</strong> New harm of the same kind sets the
 status to <strong>one tier above the higher</strong> of the existing and
-incoming tiers (<em>wounded-2</em> hit by <em>wounded-3</em> becomes
-<em>wounded-4</em>). Harm is the same kind when it worsens the same
+incoming tiers (<em>wounded −2</em> hit by <em>wounded −3</em> becomes
+<em>wounded −4</em>). Harm is the same kind when it worsens the same
 injury, affliction or condition, whatever it’s called: another cut
 worsens <em>wounded</em>, renewed menace worsens <em>terrified</em>, but
 a fresh burn needn’t stack with a concussion. The GM says whether new
@@ -1340,7 +1347,7 @@ convinced, routed), within its scope. A harmful status reaching tier 6
 also gives a <strong>Scar</strong> unless a specific rule replaces it
 (<a href="#core-tier-6-scars">§6.3</a>). Death needs a lethal
 cause and established stakes; a physical status at tier 6 can make you
-<strong>Dying</strong> (<a
+<strong><em>Dying</em></strong> (<a
 href="#core-dying-stabilisation">§6.7</a>).</p></li>
 <li><p><strong>Impede is not a status.</strong> It is a temporary
 conflict penalty (<a href="#core-actions-effects">§10.6</a>). An
@@ -1449,7 +1456,8 @@ existing or worsening.</p>
 <h3 id="core-example-statuses-conditions">5.3 Example Statuses and
 Conditions</h3>
 <p>The following names are examples, not a closed list. When recording
-one, give it a tier or rating, a specific scope, and a removal condition
+one, give a personal status a signed value and tier, or a Situational
+Condition a rating, along with a specific scope and removal condition
 (<a href="#core-personal-statuses">§5.1</a>, <a
 href="#core-situational-conditions">§5.2</a>). Use a more precise
 name whenever it makes the effect clearer. These examples grant no new
@@ -1464,16 +1472,16 @@ conflict permissions still apply.</p>
 </thead>
 <tbody>
 <tr>
-<td><p>Inspired</p></td>
+<td><p><em>Inspired</em></p></td>
 <td><p>Acting on renewed hope, encouragement, or conviction.</p></td>
 </tr>
 <tr>
-<td><p>Focused</p></td>
+<td><p><em>Focused</em></p></td>
 <td><p>Concentrating, analysing information, or resisting
 distraction.</p></td>
 </tr>
 <tr>
-<td><p>Composed</p></td>
+<td><p><em>Composed</em></p></td>
 <td><p>Maintaining restraint and clarity under emotional or social
 pressure.</p></td>
 </tr>
@@ -1488,25 +1496,25 @@ pressure.</p></td>
 </thead>
 <tbody>
 <tr>
-<td><p>Wounded</p></td>
+<td><p><em>Wounded</em></p></td>
 <td><p>Physical actions affected by a particular injury.</p></td>
 </tr>
 <tr>
-<td><p>Exhausted</p></td>
+<td><p><em>Exhausted</em></p></td>
 <td><p>Sustained effort using the depleted physical or mental
 capacity.</p></td>
 </tr>
 <tr>
-<td><p>Unsteady</p></td>
+<td><p><em>Unsteady</em></p></td>
 <td><p>Balance, coordination, reflexes, or precise movement.</p></td>
 </tr>
 <tr>
-<td><p>Rattled</p></td>
+<td><p><em>Rattled</em></p></td>
 <td><p>Concentration and clear thinking after shock, confusion, or
 intimidation.</p></td>
 </tr>
 <tr>
-<td><p>Terrified</p></td>
+<td><p><em>Terrified</em></p></td>
 <td><p>Facing, approaching, or acting against a particular source of
 fear.</p></td>
 </tr>
@@ -1557,8 +1565,8 @@ an established basis: name the plan, information, allies, or backing
 involved. Trusted and Discredited apply to a named audience and subject,
 not everyone or every interaction. They are not universal reputation
 scores and do not automatically decide what another character believes.
-Exhausted should identify the depleted capacity rather than penalise
-everything.</p>
+<em>Exhausted</em> should identify the depleted capacity rather than
+penalise everything.</p>
 <p><strong>Recording examples.</strong></p>
 <ul>
 <li><p><em>mapped patrol routes</em> — Situational Condition 2 — helps
@@ -1569,8 +1577,8 @@ established credibility — ends when that trust is withdrawn or
 betrayed.</p></li>
 </ul>
 <ul>
-<li><p><em>Mentally exhausted</em> — personal status 3 — sustained
-mental work — ends through appropriate recovery (<a
+<li><p><em>Mentally exhausted −3</em> — personal status, tier 3 —
+sustained mental work — ends through appropriate recovery (<a
 href="#core-rest-recovery">§6.5</a>).</p></li>
 <li><p><em>discredited before the merchant guild</em> — Situational
 Condition 2 — hinders claims about the disputed shipment made to the
@@ -1579,9 +1587,10 @@ restored.</p></li>
 </ul>
 <p><strong>Special conditions stay separate.</strong> These examples use
 the normal status and Situational Condition rules. Grind hardships —
-Hungry &amp; Thirsty, Weary, Exposed, Shaken, Sick, and Broken — use
-their listed effects and recovery requirements (Module B.3), not generic
-tiers inferred from their order. Running-dry statuses also follow their
+<em>Hungry &amp; Thirsty</em>, <em>Weary</em>, <em>Exposed</em>,
+<em>Shaken</em>, <em>Sick</em>, and <em>Broken</em> — use their listed
+effects and recovery requirements (Module B.3), not generic tiers
+inferred from their order. Running-dry statuses also follow their
 pool-specific procedure (<a
 href="#core-running-dry-statuses">§6.2</a>). Impede is a temporary
 conflict effect, not a status (<a
@@ -1897,9 +1906,9 @@ continuous ordeal. Write the pool beside it. Running dry in that pool
 again worsens the same status, unless a genuinely different cause calls
 for a different consequence. A new name or description is not a
 different cause. Each running-dry event worsens only one status.</p>
-<p><strong>Example.</strong> You have <em>mentally exhausted-2</em> and
+<p><strong>Example.</strong> You have <em>mentally exhausted −2</em> and
 overrun Psychē by 2. The incoming status is tier 3, one above the higher
-tier is 4, so you now have <em>mentally exhausted-4</em>.</p>
+tier is 4, so you now have <em>mentally exhausted −4</em>.</p>
 <p><strong>It is a cost.</strong> A running-dry status is a protected
 payment (<a href="#core-costs-failures-complications">§10.7</a>).
 Once recorded, it can be treated, Restored or healed like any other
@@ -2181,7 +2190,8 @@ href="#core-costs-failures-complications">§10.7</a>).</p>
 per tier (<a href="#core-effects">§5</a>). It can clear a
 <strong>temporary</strong> condition outright when the action removes
 its cause: putting out burning clothes reduces <em>on fire</em>, calming
-an ally reduces fear. <strong>Lasting injuries</strong> are slower:</p>
+an ally reduces <em>fear</em>. <strong>Lasting injuries</strong> are
+slower:</p>
 <ul>
 <li><p>Ordinary treatment reduces a given lasting injury by <strong>at
 most 1 tier</strong>. Mark it <em>treated</em>.</p></li>
@@ -2277,26 +2287,27 @@ allows recovery, and whether treatment cures it or only eases the
 symptoms. A setting book can give specific afflictions, and creatures
 that recover in unusual ways, their own rules; where it does, those
 rules win.</p>
-<h3 id="core-dying-stabilisation">6.7 Dying and Stabilisation</h3>
-<p><strong>Becoming Dying.</strong> After Resistance and stacking,
-life-threatening physical harm that reaches tier 6 makes a living
-character <strong>Dying</strong>, if lethal stakes allow that outcome
-(<a href="#core-setup">§10.2</a>). It also gives a Scar as normal
-(<a href="#core-tier-6-scars">§6.3</a>), unless an explicit
-breaking-point replacement applies. The character is incapacitated and
-can’t take ordinary actions. Start a <strong>3-segment Dying
-clock</strong>. There is no extra <em>dying</em> penalty; the injury
-already records the harm. Mental defeat, capture, exhaustion and
-ordinary fear never start a Dying clock, and a running-dry status is
-never lethal on its own.</p>
-<p><strong>Cadence.</strong> When Dying begins, set how the clock
-advances: at the end of each exchange after the one in which Dying
-began, during a scripted conflict; or after a stated fictional interval,
-outside one. The clock advances <strong>because the interval
-passes</strong>, not because someone attempts treatment. Several
-characters can act in the same interval without advancing it further.
-Moving into or out of a scripted conflict carries the existing deadline
-over; it doesn’t advance the clock or grant extra time.</p>
+<h3 id="core-dying-stabilisation">6.7 <em>Dying</em> and
+Stabilisation</h3>
+<p><strong>Becoming <em>Dying</em>.</strong> After Resistance and
+stacking, life-threatening physical harm that reaches tier 6 makes a
+living character <strong><em>Dying</em></strong>, if lethal stakes allow
+that outcome (<a href="#core-setup">§10.2</a>). It also gives a
+Scar as normal (<a href="#core-tier-6-scars">§6.3</a>), unless an
+explicit breaking-point replacement applies. The character is
+incapacitated and can’t take ordinary actions. Start a <strong>3-segment
+<em>Dying</em> clock</strong>. There is no extra <em>dying</em> penalty;
+the injury already records the harm. Mental defeat, capture, exhaustion
+and ordinary fear never start a <em>Dying</em> clock, and a running-dry
+status is never lethal on its own.</p>
+<p><strong>Cadence.</strong> When <em>Dying</em> begins, set how the
+clock advances: at the end of each exchange after the one in which
+<em>Dying</em> began, during a scripted conflict; or after a stated
+fictional interval, outside one. The clock advances <strong>because the
+interval passes</strong>, not because someone attempts treatment.
+Several characters can act in the same interval without advancing it
+further. Moving into or out of a scripted conflict carries the existing
+deadline over; it doesn’t advance the clock or grant extra time.</p>
 <p><strong>Further harm.</strong> Each further unmitigated physical harm
 that could worsen the mortal injury marks one extra segment, even though
 the injury stays at tier 6. One action or hazard can mark at most one
@@ -2311,13 +2322,13 @@ stops.</p></li>
 <li><p><strong>Success at a Cost:</strong> stable, with the normal cost,
 subject to <a href="#core-costs-failures-complications">§10.7</a>
 inside conflicts.</p></li>
-<li><p><strong>Failure:</strong> still Dying. The attempt uses the
-action, but doesn’t advance the clock.</p></li>
+<li><p><strong>Failure:</strong> still <em>Dying</em>. The attempt uses
+the action, but doesn’t advance the clock.</p></li>
 </ul>
 <p>Stabilising doesn’t erase marked segments, reduce the injury, refill
 pools or return the patient to the conflict. A stable patient can be
-moved with care. If a new event makes them Dying again, the clock
-resumes from its recorded segments.</p>
+moved with care. If a new event makes them <em>Dying</em> again, the
+clock resumes from its recorded segments.</p>
 <p><strong>Definitive care.</strong> Emergency care can stabilise a
 tier-6 life-threatening injury but can’t lower its tier. Lowering it
 below tier 6 takes <strong>definitive care</strong>: a suitable
@@ -2326,25 +2337,25 @@ heals the injury (such as <em>Miracle Worker</em>, <em>Not on My
 Table</em> or <em>healing gel</em>). The GM states what that requires
 when the injury is assessed and doesn’t add requirements once they are
 met. When definitive care brings the injury below tier 6 and removes its
-immediate lethal cause, clear the Dying clock.</p>
+immediate lethal cause, clear the <em>Dying</em> clock.</p>
 <p><strong>Immediate death.</strong> Use it only when the established
 outcome leaves no plausible time for rescue, or a specific killing
 method calls for it (such as a creature’s finishing procedure in a
 setting book). Announce that danger before the roll, and allow
 Resistance, escape or interruption where their rules permit it; accepted
 payments cannot be cancelled through these general options. Once such an
-outcome is fully resolved, don’t add a Dying clock to undo it; equally,
-don’t skip the clock for an ordinary mortal wound just because the
-description is graphic. Resolve permitted post-conflict finishing
+outcome is fully resolved, don’t add a <em>Dying</em> clock to undo it;
+equally, don’t skip the clock for an ordinary mortal wound just because
+the description is graphic. Resolve permitted post-conflict finishing
 procedures before compromise (<a
 href="#core-defeat-mutual-defeat-concession">§10.12</a>).</p>
 <p><strong>Setting-specific harm.</strong> Use a condition’s specific
 tiers, treatment and breaking-point rules where stated. Replace the core
-Dying clock only if its rule explicitly supplies an alternative death or
-stabilisation procedure; different condition tiers alone do not replace
-it. A condition with its own tiers but no death procedure still uses the
-core Dying clock when it reaches a lethal tier 6. Never run a second
-death deadline alongside it.</p>
+<em>Dying</em> clock only if its rule explicitly supplies an alternative
+death or stabilisation procedure; different condition tiers alone do not
+replace it. A condition with its own tiers but no death procedure still
+uses the core <em>Dying</em> clock when it reaches a lethal tier 6.
+Never run a second death deadline alongside it.</p>
 <p><strong>After a death.</strong> Resolve the death and its established
 consequences. The group may remember the character through Beliefs,
 relationships, keepsakes or later story developments; death creates no
@@ -2357,7 +2368,7 @@ a voluntary bargain, or a Scar-giving event. Reaching tier 6 gives a
 Scar (<a href="#core-tier-6-scars">§6.3</a>), not a permanent
 loss.</p>
 <p><strong>The wound heals; the loss stays.</strong> A permanent change
-can outlast the injury that caused it. When <em>severed hand-4</em> has
+can outlast the injury that caused it. When <em>severed hand −4</em> has
 healed, the hand is still gone: the status measured the acute wound.
 Record the lasting change as a tag or a character fact, not as a status
 that never heals.</p>
@@ -2371,8 +2382,8 @@ says so.</p>
 <ul>
 <li><p><strong>Sizes:</strong> 4 (simple), 6 (complex), 8 (daunting), 12
 (epic). Specific rules may prescribe other sizes, such as the 16-segment
-Region Truth clock (Module C.6) or the 3-segment Dying clock (<a
-href="#core-dying-stabilisation">§6.7</a>).</p></li>
+Region Truth clock (Module C.6) or the 3-segment <em>Dying</em> clock
+(<a href="#core-dying-stabilisation">§6.7</a>).</p></li>
 <li><p><strong>Player clocks</strong> tick with the
 <strong>Advance</strong> effect (1 Power = 1 segment).</p></li>
 <li><p><strong>Danger clocks</strong> tick when the GM spends Woe (1 Woe
@@ -2390,8 +2401,8 @@ including 6 segments.</p></li>
 </ul>
 <p><strong>Specific procedures govern.</strong> A clock’s own rule sets
 its triggers, pace and permitted spends, and the general lines above
-don’t override it. Examples: the Grind (Module B) and the Dying clock
-(<a href="#core-dying-stabilisation">§6.7</a>).</p>
+don’t override it. Examples: the Grind (Module B) and the <em>Dying</em>
+clock (<a href="#core-dying-stabilisation">§6.7</a>).</p>
 <p><strong>Clocks are not Disposition.</strong> A clock measures its
 named goal; Disposition measures a side’s ability to pursue a conflict
 (<a href="#core-conflict-limits-reference">§10.18</a>).</p>
@@ -3407,14 +3418,14 @@ nature clearly permits reuse.</p>
 <td><p>2</p></td>
 <td><p>Gain Position and move to another reachable location; ignore
 Impede this volley.</p></td>
-<td><p>Tier-1 winded.</p></td>
+<td><p><em>winded −1</em>.</p></td>
 </tr>
 <tr>
 <td><p>Tip &amp; Drop</p></td>
 <td><p>A heavy object and a target below</p></td>
 <td><p>3</p></td>
 <td><p>Remove 3 opposing Disposition, without the Attack bonus.</p></td>
-<td><p>An ally takes tier-1 struck.</p></td>
+<td><p>An ally takes <em>struck −1</em>.</p></td>
 </tr>
 <tr>
 <td><p>Floor Collapse</p></td>
@@ -3422,7 +3433,7 @@ Impede this volley.</p></td>
 <td><p>2</p></td>
 <td><p>Create the dangerous Truth <em>Collapsing Floor</em>: the
 affected area can’t be crossed or held without a way over.</p></td>
-<td><p>Tier-1 stunned or a lost tag.</p></td>
+<td><p><em>stunned −1</em> or a lost tag.</p></td>
 </tr>
 <tr>
 <td><p>Carpet Pull</p></td>
@@ -3445,7 +3456,7 @@ exchange.</p></td>
 <td><p>3</p></td>
 <td><p>One opponent loses their next scripted action while
 recovering.</p></td>
-<td><p>Tier-2 off balance.</p></td>
+<td><p><em>off balance −2</em>.</p></td>
 </tr>
 <tr>
 <td><p>Make a Hazard</p></td>
@@ -3761,9 +3772,9 @@ protected payment (<a
 href="#core-costs-failures-complications">§10.7</a>).</p>
 <p>NPC defeat uses <a
 href="#core-defeat-mutual-defeat-concession">§10.12</a>. Capture,
-escape, injury and death follow the stakes and outcome. Use a Dying
-clock when rescue matters, not to make an accepted rescue objective
-impossible.</p>
+escape, injury and death follow the stakes and outcome. Use a
+<em>Dying</em> clock when rescue matters, not to make an accepted rescue
+objective impossible.</p>
 <p>Creature-specific rules remain in force, including breaking points
 that replace the tier-6 procedure (<a
 href="#core-tier-6-scars">§6.3</a>). Immunity may stop an
@@ -3857,8 +3868,8 @@ it.</p>
 explicitly inflicts a status, every affected character receives the full
 purchased or listed tier. Resolve each character’s Resistance or NPC
 harm reduction separately, then stack the remaining status normally.</p>
-<p><em>Example:</em> an effect that inflicts <em>burned-3</em> in an
-area inflicts <em>burned-3</em> on every affected character, not tier 3
+<p><em>Example:</em> an effect that inflicts <em>burned −3</em> in an
+area inflicts <em>burned −3</em> on every affected character, not tier 3
 on one and tier 1 on the others.</p>
 <p>An ordinary conflict Attack or Feint inflicts no status just because
 it covers an area; it inflicts both loss and statuses only if an
@@ -4050,7 +4061,8 @@ Refresh, within the cap).</p>
 <li><p>+3 to one pool, or +1 Edge (max 3 Edge per pool)</p></li>
 <li><p>A new playbook special ability (★ costs 1 Refresh; veteran costs
 below)</p></li>
-<li><p>A new tag, or rewrite an existing tag</p></li>
+<li><p>A new tag, or a rewrite that broadens an existing tag’s useful
+scope</p></li>
 <li><p>A new Specialisation in a rated skill (<a
 href="#core-skill-pyramid">§3.3</a>)</p></li>
 <li><p><strong>+1 Refresh</strong> (buys back Refresh spent on abilities
@@ -4116,6 +4128,13 @@ earns neither XP nor Tychē.</p>
 it’s accomplished or no longer fits (<a
 href="#core-beliefs-goals-instincts">§3.5</a>). Instincts can
 change at milestones.</p>
+<h3 id="core-rewriting-identity-tags">12.4 Rewriting Identity Tags</h3>
+<p>At a milestone, you may rewrite an identity tag without spending an
+Advance when established events have changed the character. The
+replacement must have comparable opportunities to help and cause
+trouble; it cannot broaden the tag’s useful scope or remove a meaningful
+limitation without an Advance. This does not add a tag or remove a
+Scar.</p>
 <h2 id="core-example-play">13. Example of Play</h2>
 <p><strong>Kade</strong>, a <em>Reckless Furcifer who Never Leaves
 Anyone Behind</em> (Mētis Edge 1), is creeping through a warehouse to
@@ -4150,9 +4169,9 @@ Power): "Where is the key?" — "On the sergeant's belt." 1 Power left →
 have had only his 2 Tag Power: two segments, short of the cell, plus a
 consequence or 1 Woe.</p></li>
 <li><p><strong>Later:</strong> the sergeant's dread patron, a bound
-spirit, lashes out with <em>terror-3</em>. Kade Resists with
+spirit, lashes out with <em>terror −3</em>. Kade Resists with
 <strong>Pneuma</strong> (Edge 0), so 2d12: highest die 7 → cost 2
-Pneuma. The status drops to <em>terror-1</em>.</p></li>
+Pneuma. The status drops to <em>terror −1</em>.</p></li>
 <li><p><strong>Compel:</strong> the GM compels <em>Reckless</em>: "You
 can't wait for backup; you go in now." Kade accepts and gains +1 Tychē
 Point.</p></li>
@@ -4160,11 +4179,11 @@ Point.</p></li>
 <h3 id="core-scripted-conflict">13.1 A Scripted Conflict</h3>
 <p>Later, at the warehouse gate, Kade, Mira and Tarin confront two
 guards. This is a new scene: the earlier Truth and Condition don’t
-apply, and Kade’s terror was treated once the spirit’s influence ended
-(<a href="#core-treatment-healing">§6.6</a>). His spent Mētis and
-Pneuma stay spent. The PCs want to get their friend through the gate;
-the guards want to hold them until reinforcements arrive. The stakes are
-capture and nonlethal injury, not death.</p>
+apply, and Kade’s <em>terror</em> was treated once the spirit’s
+influence ended (<a href="#core-treatment-healing">§6.6</a>). His
+spent Mētis and Pneuma stay spent. The PCs want to get their friend
+through the gate; the guards want to hold them until reinforcements
+arrive. The stakes are capture and nonlethal injury, not death.</p>
 <p><strong>Setup.</strong> Mira leads with Fight +3 and the highest Edge
 in its pool, 1. Her setup dice are 7 and 8: 7 + 8 + 3 + 1 = 19. Divide
 by 3 and round down to 6, then add +1 for each of her two eligible
@@ -4209,7 +4228,7 @@ trumped: no roll, and no Disposition restored. The first guard’s Feint
 rolls independently and succeeds with 2 Power, committed to remove 3 PC
 Disposition.</p>
 <p>Before applying that loss, Tarin accepts a new lasting <em>sprained
-shoulder-3</em>, describing how he holds the gate open while the others
+shoulder −3</em>, describing how he holds the gate open while the others
 push through. The injury follows from the action and preserves the
 side’s position. A tier-3 injury cancels 2 incoming loss, so the PCs
 lose only 1 Disposition, falling from 8 to <strong>7</strong>. Tarin
@@ -4356,9 +4375,9 @@ an empty pool reaches tier 4 or higher.</p></li>
 <li><p><strong>Damage cycle:</strong> watch whether the injury trade (<a
 href="#core-accepting-injury">§10.11</a>) is a hard choice or
 always taken, and whether it drags conflicts out. Test the healing
-intervals, the 3-segment Dying clock, and whether the 1-tier treatment
-limit makes Restore-cost abilities (<em>Field Medic</em>, <em>Field
-Surgeon</em>) too weak against lasting injuries.</p></li>
+intervals, the 3-segment <em>Dying</em> clock, and whether the 1-tier
+treatment limit makes Restore-cost abilities (<em>Field Medic</em>,
+<em>Field Surgeon</em>) too weak against lasting injuries.</p></li>
 <li><p><strong>Shared Disposition:</strong> one track per side (<a
 href="#core-setup">§10.2</a>, <a
 href="#core-shared-disposition-participation">§10.9</a>). Watch
