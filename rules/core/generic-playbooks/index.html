@@ -447,17 +447,6 @@ a different answer.</p>
 <tbody>
 <tr>
 <td><p>1</p></td>
-<td><p><strong>Juggernaut</strong></p></td>
-<td><p><strong>Trigger:</strong> You Resist physical harm with
-Sōma.<br />
-<strong>Cost:</strong> No additional cost.<br />
-<strong>Benefit:</strong> Reduce the incoming harmful status by
-<strong>3 tiers</strong> instead of 2.<br />
-<strong>Limit:</strong> Only physical harm Resisted with Sōma. All other
-Resistance rules work normally.</p></td>
-</tr>
-<tr>
-<td><p>2</p></td>
 <td><p><strong>Brutal</strong></p></td>
 <td><p><strong>Trigger:</strong> You spend Power on a successful Fight
 or Brawl Attack.<br />
@@ -471,7 +460,7 @@ conflict Attack and doesn’t improve a creature-specific finishing
 procedure.</p></td>
 </tr>
 <tr>
-<td><p>3</p></td>
+<td><p>2</p></td>
 <td><p><strong>Bodyguard</strong></p></td>
 <td><p><strong>Trigger:</strong> An ally within reach would suffer an
 imposed consequence you can plausibly intercept. Declare this before
@@ -484,7 +473,7 @@ Edge counts as 1 higher for that Resistance.<br />
 protected payment or an area effect that already hits you both.</p></td>
 </tr>
 <tr>
-<td><p>4</p></td>
+<td><p>3</p></td>
 <td><p><strong>Cleave</strong></p></td>
 <td><p><strong>Trigger:</strong> You attack a group or minions.<br />
 <strong>Cost:</strong> No additional cost for the Extra Feat.<br />
@@ -493,7 +482,7 @@ a second target, break their line, and so on).<br />
 <strong>Limit:</strong> One free Extra Feat per roll.</p></td>
 </tr>
 <tr>
-<td><p>5</p></td>
+<td><p>4</p></td>
 <td><p><strong>Menacing</strong></p></td>
 <td><p><strong>Trigger:</strong> You use Intimidate Effort or
 Resistance, or you succeed on Intimidate against minions.<br />
@@ -513,7 +502,7 @@ unlimited obedience. Freezing is hesitation under threat, not
 paralysis.</p></td>
 </tr>
 <tr>
-<td><p>6</p></td>
+<td><p>5</p></td>
 <td><p><strong>Pain Tolerance</strong></p></td>
 <td><p><strong>Trigger:</strong> A harmful physical status would apply a
 penalty to your roll.<br />
@@ -524,7 +513,7 @@ at tier 3+, reduce it by 1.<br />
 recovery, Taken Out, <em>Dying</em> and Scars work normally.</p></td>
 </tr>
 <tr>
-<td><p>7</p></td>
+<td><p>6</p></td>
 <td><p><strong>Berserker</strong></p></td>
 <td><p><strong>Trigger:</strong> You enter a fury.<br />
 <strong>Cost:</strong> At scene end, lose 2 Sōma (paid in full) or take
@@ -535,6 +524,17 @@ Brawl and Athletics rolls for the rest of the scene.<br />
 <strong>Limit:</strong> Once per scene. While the fury lasts, you can’t
 script Defend or retreat. The bonus die counts toward the normal
 bonus-dice cap.</p></td>
+</tr>
+<tr>
+<td><p>7</p></td>
+<td><p><strong>★ Juggernaut</strong></p></td>
+<td><p><strong>Trigger:</strong> You Resist physical harm with
+Sōma.<br />
+<strong>Cost:</strong> No additional cost.<br />
+<strong>Benefit:</strong> Reduce the incoming harmful status by
+<strong>3 tiers</strong> instead of 2.<br />
+<strong>Limit:</strong> Only physical harm Resisted with Sōma. All other
+Resistance rules work normally.</p></td>
 </tr>
 <tr>
 <td><p>8</p></td>
@@ -783,7 +783,7 @@ undo anything already resolved.</p></td>
 <td><p><strong>Opportunist</strong></p></td>
 <td><p><strong>Trigger:</strong> Your permitted action against an
 individual opponent has an opening and succeeds, including an
-independent Success at a Cost or an automatic success.<br />
+independent Success with Complication or an automatic success.<br />
 <strong>Cost:</strong> No additional cost.<br />
 <strong>Benefit:</strong> Gain <strong>+1 Power</strong>.<br />
 <strong>Limit:</strong> Once per action. Not on a losing, tied or
@@ -1166,8 +1166,9 @@ instead.<br />
 <td><p><strong>Trigger:</strong> Any ally rolls. Use it after the roll,
 before Power is spent or consequences apply.<br />
 <strong>Cost:</strong> <strong>2 Psychē</strong>.<br />
-<strong>Benefit:</strong> They reroll all dice and keep the better
-result.<br />
+<strong>Benefit:</strong> They reroll the action roll, leaving any Risk
+die unchanged, and keep the better complete roll (Core Rules <a
+href="../core-rules/#core-dice-manipulation">§2.8</a>).<br />
 <strong>Limit:</strong> Once per scene. This replaces that roll; it
 isn’t an extra action.</p></td>
 </tr>
@@ -1422,13 +1423,15 @@ something they want in return.</p></td>
 <td><p><strong>Trigger:</strong> You fail a Persuade, Deceive or Empathy
 test against a Difficulty. Use it before Power or consequences
 apply.<br />
-<strong>Cost:</strong> Pay the Success at a Cost price instead of
-ordinary-failure Woe.<br />
-<strong>Benefit:</strong> Turn it into <strong>Success at a
-Cost</strong> with <strong>1 Power</strong>, whatever the margin.<br />
+<strong>Cost:</strong> No additional cost.<br />
+<strong>Benefit:</strong> Turn it into a <strong>Success with
+Complication</strong> with <strong>1 Power</strong>, whatever the
+margin. The complication follows the normal rules (Core Rules <a
+href="../core-rules/#core-doubles">§2.6</a>); if the failure was a Critical
+Failure, the complication stays major.<br />
 <strong>Limit:</strong> Once per scene. Independent tests only, not
-losing, tied or trumped versus tests. Doubles and other separate
-consequences still apply.</p></td>
+losing, tied or trumped versus tests. Independent complications, such as
+a Risk die, still apply.</p></td>
 </tr>
 <tr>
 <td><p>5</p></td>
@@ -1990,11 +1993,12 @@ Psychē (Tech), plus any Effort.<br />
 anchor skill, at the Difficulty the GM sets by scope (below). Your
 Domain counts as a relevant tag on workings, supplying Tag Power (inside
 the +2 cap).<br />
-<strong>Limit:</strong> <strong>Backlash:</strong> doubles on a failure
-or cost cause a backlash. The GM picks a fitting status for you
-(<em>burned −2</em>, <em>drained −2</em>, <em>glitched −2</em>) or a
-wild effect, in addition to the normal complication. Backlash still
-applies in conflicts. In a scripted conflict, see below.</p>
+<strong>Limit:</strong> <strong>Backlash:</strong> whenever a working
+produces a complication, including a Critical Failure or an independent
+Risk-die complication, it also causes a backlash. The GM picks a fitting
+status for you (<em>burned −2</em>, <em>drained −2</em>, <em>glitched
+−2</em>) or a wild effect, in addition to that complication. Backlash
+still applies in conflicts. In a scripted conflict, see below.</p>
 <table>
 <thead>
 <tr>
@@ -2165,8 +2169,9 @@ later use before your next downtime, even in a later session, gives a
 <strong>5 Power</strong>, no ritual required.<br />
 <strong>Limit:</strong> Once per session. Downtime resets the free use.
 A trumped action stays trumped. In a versus test it wins unless the
-other side also succeeds automatically, which makes a tie. No roll means
-no doubles.</p></td>
+other side also succeeds automatically, which makes a tie. No action
+dice means no comparison-based complication, so no Backlash from
+one.</p></td>
 </tr>
 </tbody>
 </table>
