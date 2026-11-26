@@ -81,7 +81,7 @@ href="#core-design-notes">§14</a>.</p>
 <ol start="2">
 <li><p><strong>One roll, many outputs.</strong> A single 2d12 roll tells
 you whether you succeed, how well (Power), and whether something twists
-(doubles).</p></li>
+(the Complication die).</p></li>
 <li><p><strong>Fiction is mechanical.</strong> Tags, statuses and Truths
 give recorded fiction mechanical weight: statuses and Situational
 Conditions modify the roll, tags supply Power, and Truths decide what is
@@ -102,7 +102,18 @@ href="#core-effects">§5</a>). Settle this before the roll, and
 don’t announce a new requirement afterward. If one action can’t
 accomplish the whole goal, say what a smaller result achieves, or use a
 clock or a conflict.</p>
+<p>The GM sets the Difficulty and names the danger: what could go wrong.
+State unavoidable costs separately. If the action is Risky, establish
+its rating before rolling. The GM needn’t name every possible severity.
+A named danger occurs only when a rule triggers it.</p>
 <p><strong>Roll 2d12 + Skill + Modifiers vs. Difficulty.</strong></p>
+<p>Designate one d12 as the Complication die. Roll any bonus dice
+alongside the two action dice, to the normal maximum of 2 bonus dice.
+Always retain the Complication die and the highest single other action
+die. Discard the rest; don’t select a lower die to create a match. Use
+the same retained pair for the total and outcome comparison. Add both
+retained dice, Skill and applicable modifiers. Meet or exceed Difficulty
+to succeed; a lower total fails.</p>
 <ul>
 <li><p><strong>Skill:</strong> +0 to +4 (from the skill pyramid;
 untrained = +0).</p></li>
@@ -211,75 +222,85 @@ Relevant Truths are part of this check (<a
 href="#core-possibility-before-difficulty">§8.1</a>). If the
 outcome is still uncertain and matters, roll.</p>
 <h3 id="core-odds-reference">2.3 Odds Reference</h3>
-<p>Chance to hit the number needed on the dice (after subtracting your
-bonuses):</p>
+<p>Chance to meet or exceed the number needed on the retained dice:
+Difficulty − Skill − net applicable roll modifiers. Total success
+includes Clean Success, Success with Complication and Critical
+Success.</p>
 <table>
 <thead>
 <tr>
 <th><p>Need on dice</p></th>
-<th><p>2d12</p></th>
-<th><p>3d12 keep 2</p></th>
-<th><p>4d12 keep 2</p></th>
+<th><p>No bonus dice</p></th>
+<th><p>1 bonus die</p></th>
+<th><p>2 bonus dice</p></th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td><p>7+</p></td>
-<td><p>90%</p></td>
-<td><p>98%</p></td>
-<td><p>99%</p></td>
+<td><p>89.58%</p></td>
+<td><p>96.82%</p></td>
+<td><p>98.91%</p></td>
 </tr>
 <tr>
 <td><p>9+</p></td>
-<td><p>81%</p></td>
-<td><p>94%</p></td>
-<td><p>98%</p></td>
+<td><p>80.56%</p></td>
+<td><p>91.90%</p></td>
+<td><p>96.22%</p></td>
 </tr>
 <tr>
 <td><p>11+</p></td>
-<td><p>69%</p></td>
-<td><p>88%</p></td>
-<td><p>95%</p></td>
+<td><p>68.75%</p></td>
+<td><p>83.51%</p></td>
+<td><p>90.23%</p></td>
 </tr>
 <tr>
 <td><p>13+</p></td>
-<td><p>54%</p></td>
-<td><p>78%</p></td>
-<td><p>89%</p></td>
+<td><p>54.17%</p></td>
+<td><p>70.72%</p></td>
+<td><p>78.99%</p></td>
 </tr>
 <tr>
 <td><p>15+</p></td>
-<td><p>38%</p></td>
-<td><p>65%</p></td>
-<td><p>80%</p></td>
+<td><p>38.19%</p></td>
+<td><p>54.11%</p></td>
+<td><p>62.33%</p></td>
 </tr>
 <tr>
 <td><p>17+</p></td>
-<td><p>25%</p></td>
-<td><p>48%</p></td>
-<td><p>66%</p></td>
+<td><p>25.00%</p></td>
+<td><p>38.19%</p></td>
+<td><p>45.83%</p></td>
 </tr>
 <tr>
 <td><p>19+</p></td>
-<td><p>15%</p></td>
-<td><p>32%</p></td>
-<td><p>48%</p></td>
+<td><p>14.58%</p></td>
+<td><p>23.90%</p></td>
+<td><p>30.08%</p></td>
 </tr>
 <tr>
 <td><p>21+</p></td>
-<td><p>7%</p></td>
-<td><p>17%</p></td>
-<td><p>28%</p></td>
+<td><p>6.94%</p></td>
+<td><p>12.15%</p></td>
+<td><p>16.11%</p></td>
 </tr>
 </tbody>
 </table>
 <p>Example: Skill +3 and <em>focused +1</em> (+1) vs. Standard 15 → need
-11+ → <strong>69%</strong>, or <strong>88%</strong> with one bonus
-die.</p>
+11+ → 68.75% success, 83.51% with one bonus die, or 90.23% with two.</p>
+<p>These figures assume fair independent dice, mandatory
+Complication-die retention, and no rerolls or face changes. Tags supply
+Power and don’t affect these odds. The figures are unconditional, before
+complication buyoff, mitigation or Resistance, and exclude independent
+Risky triggers. They aren’t versus-test probabilities: opposing totals,
+modifiers and bonus dice determine those results. Matching retained
+faces occur in 1 roll in 12 overall on fixed-Difficulty action rolls
+with 0, 1 or 2 bonus dice; Difficulty determines their split between
+Critical Success and Critical Failure.</p>
 <h3 id="core-bonus-dice-effort">2.4 Bonus Dice and Effort</h3>
-<p>You can add d12s to the roll and <strong>keep the best two</strong>.
-Maximum <strong>+2 bonus dice</strong> (4d12 keep 2) from any
-combination of:</p>
+<p>You can add d12s to the roll. Always retain the Complication die and
+highest single other action die. Maximum <strong>+2 bonus dice</strong>
+from any combination of:</p>
 <table>
 <thead>
 <tr>
@@ -319,12 +340,18 @@ Level</strong> times per roll (1 at start; advancement unlocks 2 and 3).
 Each use buys one of:</p>
 <ul>
 <li><p><strong>+1 bonus die</strong> — declared before rolling.</p></li>
-<li><p><strong>+1 Power</strong> — declared <strong>after</strong> a
-Success or Success at a Cost. It cannot turn a failure into a
-success.</p></li>
+<li><p><strong>+1 Power</strong> — declared after success. It cannot
+turn a failure into a success.</p></li>
 </ul>
 <p>Example: Effort Level 2 lets you buy one bonus die before the roll,
 then spend again for +1 Power if you succeed.</p>
+<p>Eligible automatic successes also permit post-success Power
+purchases. Establish the specified Power award, then purchase Power
+before allocation and mitigation. Normal pool costs, Effort limits and
+explicit restrictions still apply. Lost, tied and trumped actions don’t
+qualify; two opposing automatic successes that produce a stalemate don’t
+qualify either. Bonus-die purchases have no effect on an action roll
+that isn’t made.</p>
 <p><strong>Paying costs.</strong> Pay Effort and Help in full; you can’t
 spend points a pool doesn’t have unless a rule says so (<a
 href="#core-running-dry">§6.1</a>). Paying the last point runs the
@@ -341,35 +368,52 @@ extra exposure apparent, the GM describes it; it doesn’t add a second
 automatic consequence. The Woe is the price, and the GM spends it later
 (<a href="#core-woe">§9.2</a>).</p>
 <h3 id="core-outcomes">2.5 Outcomes</h3>
+<p>Compare the final retained faces after explicit face changes (<a
+href="#core-dice-manipulation">§2.8</a>), without Skill or roll
+modifiers.</p>
 <table>
 <thead>
 <tr>
-<th><p>Result</p></th>
-<th><p>Outcome</p></th>
+<th><p>Complication die</p></th>
+<th><p>Total meets or exceeds Difficulty</p></th>
+<th><p>Total below Difficulty</p></th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td><p><strong>Beat the target by 3+</strong></p></td>
-<td><p><strong>Success</strong> — Tag Power + 1, +1 per full 3 points
-over</p></td>
+<td><p>Lower than the other die</p></td>
+<td><p>Clean Success</p></td>
+<td><p>Failure with a Benefit</p></td>
 </tr>
 <tr>
-<td><p><strong>Meet the target</strong></p></td>
-<td><p><strong>Success</strong> — Tag Power + 1</p></td>
+<td><p>Higher than the other die</p></td>
+<td><p>Success with Complication</p></td>
+<td><p>Failure with Complication</p></td>
 </tr>
 <tr>
-<td><p><strong>Miss by 1–3</strong></p></td>
-<td><p><strong>Success at a Cost</strong> — Tag Power + 0; the GM names
-a consequence, or gains 1 Woe instead (player's choice)</p></td>
-</tr>
-<tr>
-<td><p><strong>Miss by 4+</strong></p></td>
-<td><p><strong>Failure</strong> — no Power; the GM makes a move; GM
-gains 1 Woe</p></td>
+<td><p>Matching the other die</p></td>
+<td><p>Critical Success</p></td>
+<td><p>Critical Failure</p></td>
 </tr>
 </tbody>
 </table>
+<p>“Success,” “succeeds” and “successful” include Clean Success, Success
+with Complication and Critical Success. A rule requiring a particular
+outcome names it explicitly.</p>
+<p>Every total below Difficulty fails. Matching retained dice produce
+one critical outcome instead of the higher/lower comparison. Double 1s
+and double 12s have no special action overrides. Independent
+complications still resolve. Resistance’s multiple-12 procedure remains
+separate (<a href="#core-resistance-harm-recovery">§6</a>).</p>
+<p><strong>Success Power.</strong> Generate applicable Tag Power + 1
+Power, +1 per full 3 points above Difficulty. Clean Success and Success
+with Complication generate the same Power. Critical Success adds +1
+Power and a flourish fitting the purchased result, not an unpaid Effect
+or mechanical benefit.</p>
+<p><strong>Failure Power.</strong> Failure generates no Power, including
+Tag Power, and no automatic failure Woe. Accepting, mitigating or
+Resisting a complication grants no replacement Woe. Other explicit Woe
+triggers retain their own rules.</p>
 <p><strong>Tag Power.</strong> Each relevant tag supplies <strong>+1
 Power</strong>, <strong>maximum +2 per action</strong>. A tag is
 relevant only when it materially supports the declared approach; being
@@ -385,21 +429,34 @@ purchases meet the requirement agreed before the roll, the goal is
 achieved; if they fall short, record the progress they make. Any Power
 you don't spend becomes <strong>Weal</strong> (party pool, max 6), and
 accomplishes nothing in the fiction now.</p>
-<p><strong>A cost with no Power.</strong> With no relevant tags, a
-Success at a Cost has 0 Power: you buy no Effect, and the cost still
-applies. Post-roll Effort (<a
-href="#core-bonus-dice-effort">§2.4</a>) or another explicit
-source can add Power. Don’t invent a free status, answer or segment to
-make up for it.</p>
-<p><strong>Choosing a consequence.</strong> When a rule calls for a
-consequence, such as Success at a Cost, a failure’s GM move or a
-complication, the table below suggests the kind of trouble to pick. It
-creates no new trigger and no severity track, and scripted conflicts
-still follow <a
-href="#core-costs-failures-complications">§10.7</a>: judge
-severity by fictional impact. A minor consequence changes the next
-decision; a more serious one changes the scene or leaves a problem to
-deal with afterward. Name the consequence before the player chooses.
+<p><strong>Failure with a Benefit.</strong> The attempt fails. The GM
+names a useful fictional opening arising from the attempt and informed
+by the approach. It may reveal another route, clarify an obstacle or
+create an opportunity, but doesn’t accomplish the failed goal. It grants
+no Power, Weal, Tychē Points, numerical bonus, status tier or Condition
+rating. Acting on it follows normal rules and doesn’t guarantee success.
+Independent complications must remain compatible with the opening.</p>
+<p><strong>Failure with Complication.</strong> Fail and suffer a
+complication arising from the named danger. Judge severity by fictional
+impact; it isn’t automatically moderate or major. Cancelling or reducing
+it doesn’t accomplish the failed goal.</p>
+<p><strong>Critical Failure.</strong> Fail and suffer one major
+complication arising from the danger named before rolling. Its severity
+is fixed, but its consequences fit the established fiction and stakes; a
+critical introduces no otherwise unestablished death, permanent injury
+or unrelated catastrophe. Cancel it for 3 Woe before mitigation or
+Resistance, or Resist normally (<a href="#core-doubles">§2.6</a>).
+Failure supplies no Power, and ordinary post-success Effort is
+unavailable; Power mitigation requires another explicit permission.
+Reducing or cancelling the complication doesn’t accomplish the failed
+goal.</p>
+<p><strong>Choosing a consequence.</strong> Success with Complication
+triggers a complication arising from the named danger. The examples
+below suggest trouble when a rule triggers it; they create no additional
+trigger. State the concrete consequence and its minor, moderate or major
+severity before a response is chosen (<a
+href="#core-doubles">§2.6</a>). Scripted-conflict limits still
+apply (<a href="#core-costs-failures-complications">§10.7</a>).
 <strong>If the test succeeded, keep what it bought:</strong> a
 consequence can’t cancel or empty an Effect already purchased, but it
 needn’t grant the part of the goal the Power didn’t reach.</p>
@@ -437,39 +494,190 @@ serviced</p></td>
 </tr>
 </tbody>
 </table>
-<p><strong>Versus tests, conflicts and automatic success.</strong>
-Versus tests compare opposing totals instead of using this table (<a
-href="#core-scripting-volleys">§10.5</a>). Inside scripted
-conflicts, <a href="#core-costs-failures-complications">§10.7</a>
-limits what failure, costs and Woe can do. An automatic success replaces
-the roll: apply its listed Power plus any Tag Power, with no dice-based
-critical or complication.</p>
-<h3 id="core-doubles">2.6 Doubles (Twists)</h3>
-<p>If your two <strong>kept</strong> dice show the same number:</p>
-<ul>
-<li><p><strong>On a success:</strong> Critical — +1 Power and add a
-narrative flourish.</p></li>
-<li><p><strong>On a failure or cost:</strong> Complication — the GM
-introduces a complication right away.</p></li>
-<li><p><strong>Double 12s:</strong> an independent test always succeeds,
-with +2 Power instead of +1.</p></li>
-<li><p><strong>Double 1s:</strong> always bring a complication, even on
-a success, but don’t fail automatically. A success still gains the +1
-critical Power.</p></li>
-<li><p><strong>Buying it off.</strong> When the dice give you a
-complication (a twist, or a Risky roll, <a
-href="#core-risky-rolls">§2.7</a>), you may cancel it by giving
-the GM <strong>2 Woe</strong>: a problem now, or a problem later. If you
-keep it and the GM can’t think of a fitting complication, the GM gains
-the 2 Woe instead.</p></li>
-<li><p><strong>NPCs.</strong> When the dice give an NPC a complication,
-the GM may spend <strong>2 Woe</strong> to cancel it. Otherwise the GM
-describes the complication, or invites the players to.</p></li>
-</ul>
-<p>Base chance of doubles on 2d12 is about 8% (1 in 12). Doubles created
-by an ability count as rolled doubles. For doubles in versus tests and
-conflicts, see <a
-href="#core-costs-failures-complications">§10.7</a>.</p>
+<p><strong>Versus tests.</strong> Compare opposing final totals instead
+of using Difficulty. Higher wins: generate applicable Tag Power + 1
+Power, +1 per full 3 points of winning margin. Each actor’s own retained
+faces classify their success or failure under the table above. Matching
+faces don’t override a higher opposing total. The loser generates no
+Power; cancelling or reducing a complication doesn’t turn that loss into
+success or prevent the winner’s purchased Effects. Exact ties are
+neutral stalemates: no Power, normal action Effect or comparison-based
+benefit, complication or critical. Paid costs remain spent; independent
+complications still resolve (<a
+href="#core-scripting-volleys">§10.5</a>).</p>
+<p><strong>Scripted conflicts.</strong> Independent actions use Standard
+15, adjusted by explicit Difficulty modifiers such as Guard; statuses
+and Situational Conditions modify totals. Classify each action
+separately; don’t compare their totals. Complete both independent
+actions before checking defeat or mutual defeat, even if one defeats a
+side or takes its actor out. Preserve explicit exceptions and their
+timing. Comparison-based complications can’t impose additional
+Disposition loss or harmful statuses without explicit permission,
+duplicate an opposing purchase, freely change the script or cancel an
+independent action. Independent hazards and abilities retain only their
+stated consequence permissions. Use <a
+href="#core-costs-failures-complications">§10.7</a> for action
+permissions, Power reservation and consequence limits.</p>
+<p><strong>Automatic success.</strong> Replace an otherwise permitted
+action’s roll, not its permissions, stakes, scripted interaction or
+assigned turn. Apply its listed Power plus applicable Tag Power unless
+already included. Add no calculated margin, extra base-success point or
+matching-dice bonus. No action dice means no comparison-based
+complication. Independent consequences remain, including a permitted
+Risky action’s separate Risk die unless explicitly exempted. Automatic
+success grants no extra action or rescue of a trumped action.</p>
+<p>In a versus interaction, one automatic success wins and neither actor
+rolls action dice. The opponent generates no Power and receives no
+comparison-based failure benefit, complication or critical. The winner
+still prevents the opposing normal Effect. Two automatic successes
+produce a neutral stalemate unless explicitly overridden; neither
+generates Power or a normal action Effect. Paid costs stay spent.
+Eligible post-success Effort follows <a
+href="#core-bonus-dice-effort">§2.4</a>. Pending Impede and Gain
+Position expire unused on a no-roll scripted action; neither modifies
+the automatic-success Power award or transfers to Risk or Resistance
+dice.</p>
+<h3 id="core-doubles">2.6 Complications and Responses</h3>
+<p>State each concrete complication and its original severity before
+choosing a response. Judge severity by impact in the current fiction,
+not its name. A delay matters only when time matters; exposure matters
+only when someone can act on it. A complication can’t cancel or empty a
+purchased Effect.</p>
+<table>
+<thead>
+<tr>
+<th><p>Severity</p></th>
+<th><p>Fictional impact</p></th>
+<th><p>Woe buyoff</p></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><p>Minor</p></td>
+<td><p>Changes the next decision or creates a limited problem</p></td>
+<td><p>1</p></td>
+</tr>
+<tr>
+<td><p>Moderate</p></td>
+<td><p>Significantly changes the scene or creates a substantial
+follow-up problem</p></td>
+<td><p>2</p></td>
+</tr>
+<tr>
+<td><p>Major</p></td>
+<td><p>Dramatically escalates the situation or creates serious, lasting
+trouble</p></td>
+<td><p>3</p></td>
+</tr>
+</tbody>
+</table>
+<p>Resolve each distinct complication separately:</p>
+<ol>
+<li><p>Choose whether to cancel it with a Woe buyoff at its original
+severity.</p></li>
+<li><p>If not, spend eligible surplus Power on mitigation, if
+desired.</p></li>
+<li><p>Resist the remaining consequence once, if permitted and
+desired.</p></li>
+<li><p>Resolve what remains.</p></li>
+</ol>
+<p>Before resources are committed, the GM explains what reduction
+changes in the fiction. Each distinct complication receives its own
+severity, buyoff decision, mitigation and possible Resistance. Don’t
+charge twice for different descriptions of the same consequence.</p>
+<p><strong>Woe buyoff.</strong> Give the GM 1/2/3 Woe for
+minor/moderate/major to cancel the whole complication without spending
+Power or reducing the purchased Effect. Once Power mitigation or
+Resistance begins against it, buyoff is unavailable. Use original
+severity, not reduced severity.</p>
+<p><strong>Power mitigation.</strong> Each Power reduces one severity
+band: major → moderate → minor → none. Partial mitigation is allowed:
+major to moderate costs 1 Power, major to minor costs 2, and major to
+none costs 3. A complication reduced to none doesn’t occur.</p>
+<p>Retain enough Power to fund the required Effect agreed before
+rolling; don’t shrink that Effect to free Power for mitigation. Only
+surplus Power is available. Surplus generated and purchased Power share
+the action’s budget. Multiple purchases can reduce the same
+complication, subject to normal Effort costs, timing and limits. There
+is no separate mitigation cap.</p>
+<p>On a successful scripted action, choose permitted Effects and reserve
+their costs before mitigation. Fund at least one permitted Effect; it
+needn’t be the action’s primary purchase. Scripting an action category
+doesn’t itself commit Power to its primary Effect or require a numerical
+target before rolling. Preserve any minimum requirement agreed before
+rolling. Insufficient Power leaves no surplus; a cheaper purchase
+doesn’t satisfy that requirement or free Power for mitigation. Eligible
+additional Power purchases may supply more. Don’t spend Power twice; a
+flourish or fictional opening isn’t a funded Effect. This reservation
+requirement applies only to Power mitigation, not Woe buyoff or eligible
+Resistance, and grants no Power or purchases to failed, tied or trumped
+actions (<a
+href="#core-costs-failures-complications">§10.7</a>).</p>
+<p>Reserve Effect Power and declare mitigation before supplementary
+declarations close. Cancellation leaves purchases spent, frees no Power
+for mitigation and doesn’t reopen declarations. Preserve expressly later
+ability windows, including Self-Repair (Adversaries <a
+href="../adversaries/#adv-shared-special-timing">§7.7</a>).</p>
+<p><strong>Narrative Resistance.</strong> After mitigation, or without
+spending Power first, Resist a remaining imposed narrative complication
+once to reduce it by one band, including minor to none. Describe a
+fitting response and choose its pool. The GM states the reduced
+consequence before the player commits. Use the normal Resistance roll
+and pool cost (<a href="#core-resistance-harm-recovery">§6</a>);
+the roll determines cost, not whether reduction occurs. Each distinct
+complication requires its own roll and payment and can be Resisted only
+once.</p>
+<p>For an incoming harmful status, use normal 2-tier Resistance instead;
+don’t apply both reductions from one Resistance. Complication severity
+isn’t status tier: major doesn’t automatically mean tier-3 harm.
+Resistance’s dice and multiple-12 cost procedure are unchanged.</p>
+<p><strong>Boundaries.</strong> Cancelling or reducing a complication
+doesn’t reverse failure, revoke purchased Effects, award replacement Woe
+or create a replacement cost. Mitigation and Resistance address
+consequences as they unfold; they don’t erase already-resolved events.
+Unavoidable costs and protected payments remain excluded, including
+explicitly accepted concession terms or an injury trade (<a
+href="#core-costs-failures-complications">§10.7</a>). Choosing an
+imposed complication instead of its buyoff doesn’t turn it into a
+protected payment. Mitigation and narrative Resistance address eligible
+complications, not an opponent’s ordinary purchased Disposition
+effect.</p>
+<p><strong>GM-bought complications.</strong> The GM may spend Woe to add
+a complication to a player’s roll after it resolves and before the
+player chooses a response, whatever the outcome, paying 1, 2 or 3 Woe
+for minor, moderate or major severity (<a
+href="#core-woe">§9.2</a>). Add no more than one to a roll. State
+the concrete consequence and its severity first; it must arise from the
+established danger or situation. Resolve it like any other complication,
+including buyoff, mitigation and Resistance. The GM’s Woe isn’t refunded
+if the player buys it off.</p>
+<p><strong>NPCs.</strong> State the consequence and original severity
+first. The GM may cancel it by spending existing Woe equal to original
+severity: minor 1, moderate 2, major 3. Pay in full before mitigation;
+Woe can’t be overrun. Declining or being unable to cancel generates no
+Woe. Otherwise the NPC may spend surplus action Power after Effect
+reservation, reducing one band per Power. Once mitigation begins,
+cancellation is unavailable. Treat distinct complications separately,
+using one shared action Power budget.</p>
+<p>These permissions grant ordinary NPCs no pool-based Effort, narrative
+Resistance or generic Woe purchase of additional Power. Existing
+explicit abilities, status-reduction procedures and full-PC resource
+rules retain their permissions. Cancellation or mitigation doesn’t
+reverse failure, cancel an opposing purchased Effect or bypass
+scripted-conflict limits.</p>
+<p>Interpose redirects only an eligible incoming status, not its
+underlying complication or separate consequences. Hold the Line reduces
+only its permitted ordinary Disposition loss, not complication severity.
+Neither grants permission to inflict a status or additional Disposition
+loss.</p>
+<p><em>Example:</em> an action generates 3 Power and requires 2 for its
+goal. A major narrative complication triggers. The player may first give
+the GM 3 Woe to cancel it. Instead, they reserve 2 Power, spend the
+surplus 1 to reduce major to moderate, then Resist once to reduce
+moderate to minor and pay the rolled pool cost. Resolve the funded
+Effect and remaining minor consequence. Eligible Power purchases could
+mitigate further before Resistance. Cancelling this complication
+wouldn’t cancel a separate Risky complication.</p>
 <h3 id="core-risky-rolls">2.7 Risky Rolls (Optional)</h3>
 <p>Some rolls aren’t harder, just more dangerous. Before a roll, the GM
 may call it <strong>Risky 1</strong>, <strong>2</strong> or
@@ -479,9 +687,11 @@ may call it <strong>Risky 1</strong>, <strong>2</strong> or
 colour with the others. It’s never kept, doesn’t add to the total and
 doesn’t count toward the bonus dice maximum.</p></li>
 <li><p><strong>Complication.</strong> If the Risk die shows the rating
-or lower, a complication occurs after the roll is resolved, whatever the
-result and on top of any twist. You can buy it off for 2 Woe (<a
-href="#core-doubles">§2.6</a>).</p></li>
+or lower, an independent complication triggers on any outcome, including
+Critical Success. Assign its severity separately; Critical Failure
+doesn’t automatically make it major. Use <a
+href="#core-doubles">§2.6</a> for buyoff, mitigation and
+Resistance.</p></li>
 <li><p><strong>Raising the stakes.</strong> The GM may spend <strong>1
 Woe</strong> to make a roll Risky 1, or to raise its rating by 1
 (maximum 3). Settings may make some hazards Risky by default.</p></li>
@@ -512,6 +722,64 @@ Woe</strong> to make a roll Risky 1, or to raise its rating by 1
 </tr>
 </tbody>
 </table>
+<h3 id="core-dice-manipulation">2.8 Dice Manipulation</h3>
+<p>An ability keeps its own trigger, cost, timing and limits. The
+procedure below governs action-roll manipulation; it doesn’t expand
+ability eligibility or replace Resistance’s own procedure. An explicit
+ability rule overrides this shared procedure.</p>
+<p><strong>Choosing a reroll.</strong> When an ability lets you reroll
+and keep the better result, the player whose character made the roll
+chooses either the original roll or the reroll as a whole, even when
+another character grants it. Use the chosen roll’s total, retained-die
+comparison, outcome and resulting Power. Don’t combine dice, totals or
+comparisons from different rolls.</p>
+<p>I Planned for This and Ace use complete-roll selection. Invoke
+remains replacement-only; it doesn’t gain a keep-original option.
+Existing triggers, costs, frequency limits and prohibitions on undoing
+resolved consequences remain unchanged.</p>
+<p><strong>Face changes.</strong> An explicit face change replaces a
+retained die’s value for that action. Use the replacement for both total
+and retained-face comparison. Skill and roll modifiers affect only the
+total, never die faces. Die identity doesn’t change: a Complication die
+remains the Complication die. Don’t swap roles or reconsider the
+retained pair or discarded bonus dice.</p>
+<p>Perfect Strike can change either retained die. Matches created by a
+face change use the normal critical procedure: no automatic success and
+no override of a versus tie. Changing one die of a match can remove its
+critical. The final retained faces determine the comparison. Face
+changes leave the separate Risk die unchanged.</p>
+<p>A face change belongs only to its roll. Keeping that roll preserves
+the change; replacing it loses the change, which doesn’t carry to new
+dice. Apply each later face change to the current value of the chosen
+retained die. A further use on the chosen or replacement roll requires
+the ability’s own trigger, timing and limits; rerolling doesn’t refresh
+an ability or grant another use.</p>
+<p><strong>Sequential manipulation.</strong> Resolve eligible abilities
+one at a time:</p>
+<ol>
+<li><p>Choose an eligible ability and pay its cost.</p></li>
+<li><p>Resolve that ability completely before choosing another.</p></li>
+<li><p>Complete any reroll replacement or complete-roll selection before
+further manipulation. Never combine rolls.</p></li>
+<li><p>Recalculate total and retained-face comparison using the current
+retained faces. Check further eligibility against the current
+result.</p></li>
+<li><p>Repeat while choosing eligible abilities. Finish all manipulation
+before Effects or consequences begin resolving. Don’t reopen the action
+roll afterward unless an explicit rule permits it.</p></li>
+</ol>
+<p>Costs remain spent even if a later manipulation replaces the affected
+roll or removes its benefit. A generic action reroll leaves the separate
+Risk die unchanged unless a rule explicitly permits rerolling it; the
+original Risk result remains. Invoke is such a rule: it rerolls any Risk
+die, and the new result replaces the old (<a
+href="#core-tyche-points">§4</a>).</p>
+<p><em>Example:</em> change a retained die, then use an ability offering
+a reroll and a choice of which complete roll to keep. Choose between the
+modified original roll and the reroll before using another manipulation
+ability. Keeping the original preserves its face change; keeping the
+reroll loses it. Further manipulation requires another eligible use and
+its normal cost.</p>
 <div class="rb-art-note">
 <p><strong>Art placeholder</strong><br />
 A climber on a fraying rope bridge, one odd-coloured die tumbling into
@@ -798,9 +1066,9 @@ role of strength or weakness. Both helpful uses and complications must
 follow naturally from that tag’s wording and the established
 fiction.</p></li>
 <li><p><strong>When it helps,</strong> it supplies <strong>+1
-Power</strong> on a Success or Success at a Cost, <strong>max +2 per
-action</strong> (<a href="#core-outcomes">§2.5</a>). Explain how
-it helps. Tags never add to or subtract from the roll.</p></li>
+Power</strong> on any success, <strong>max +2 per action</strong> (<a
+href="#core-outcomes">§2.5</a>). Explain how it helps. Tags never
+add to or subtract from the roll.</p></li>
 <li><p><strong>When it causes trouble,</strong> it can be compelled for
 a Tychē Point (<a href="#core-tyche-points">§4</a>). A tag can
 supply Power and be compelled in the same action when the help and the
@@ -1025,12 +1293,12 @@ them?</em></p></li>
 <p><strong>Using contacts.</strong> Routine help that fits the
 relationship needs no roll. When access, discretion or cost is
 uncertain, roll an existing skill such as Persuade or Empathy; there is
-no separate Network skill or loyalty track. On a Success at a Cost, you
-get the introduction, shelter or supplies, but owe a favour or expose
-the relationship. A favour owed uses Module E.7 when that module is in
-play. A starting contact grants no free Discover, Help or turn;
-abilities such as <em>Contacts</em> and <em>Network</em> add those
-benefits.</p>
+no separate Network skill or loyalty track. On a Success with
+Complication, you get the introduction, shelter or supplies, and the
+complication can be that you owe a favour or expose the relationship. A
+favour owed uses Module E.7 when that module is in play. A starting
+contact grants no free Discover, Help or turn; abilities such as
+<em>Contacts</em> and <em>Network</em> add those benefits.</p>
 <p><strong>Ordinary gear, borrowed or bought locally.</strong> Getting
 an ordinary item you didn’t bring is a contact or circle question, not a
 separate inventory. Load covers what you brought; a contact covers what
@@ -1039,15 +1307,21 @@ you can find now; an optional flashback covers what you arranged earlier
 <h2 id="core-tyche-points">4. Tychē Points</h2>
 <p><strong>Spend 1 Tychē Point to:</strong></p>
 <ul>
-<li><p><strong>Invoke</strong> — reroll all dice, or add +2 after
-rolling. This works with any tag or Truth you can justify, even one
-belonging to the scene or an enemy; the approach must already be
-possible. A Truth gives no modifier itself, so the benefit comes from
-the Tychē Point. The +2 sits outside the status and Condition slots and
-isn’t Tag Power; a Condition’s underlying fact can justify an Invoke,
-but its rating adds no further free bonus. Invoke before the roll’s
-outcome is resolved. A reroll changes the dice, not a cost already paid
-or a consequence already resolved.</p></li>
+<li><p><strong>Invoke</strong> — reroll all the dice, including any Risk
+die, or add +2 to the total after rolling. This works with any tag or
+Truth you can justify, even one belonging to the scene or an enemy; the
+approach must already be possible. A Truth gives no modifier itself, so
+the benefit comes from the Tychē Point. The +2 sits outside the status
+and Condition slots and isn’t Tag Power; a Condition’s underlying fact
+can justify an Invoke, but its rating adds no further free bonus. Invoke
+before the roll’s outcome is resolved. A reroll changes the dice, not a
+cost already paid or a consequence already resolved. It replaces the
+original roll as a whole and you can’t keep the original. Keep the
+Complication die and the highest other action die from the new roll, and
+use the new Risk die result in place of the old one (<a
+href="#core-dice-manipulation">§2.8</a>). The +2 changes only the
+total, never a die face, so it can change success or failure but not
+whether the Complication die is lower, higher or matching.</p></li>
 <li><p><strong>Declare</strong> — establish a minor fact about the
 scene. The GM may require it to tie to one of your tags.</p></li>
 <li><p><strong>Resist harder</strong> — reduce one Resistance cost to 0
@@ -1063,16 +1337,19 @@ relabelled minor to avoid its cost.</p>
 normally, but its pool cost is 0, so it can’t run the pool dry, even if
 the pool is already empty (<a href="#core-running-dry">§6.1</a>).
 It doesn’t restore spent points or clear an existing running-dry status,
-and it can’t Resist ordinary Disposition loss or a protected payment (<a
+and it can’t Resist ordinary Disposition loss, an accepted compel or a
+protected payment (<a
 href="#core-costs-failures-complications">§10.7</a>).</p>
-<p>Scripted conflicts add timing limits to all three spends (<a
+<p>Scripted conflicts add timing limits to Invoke and Declare; Resist
+harder has none beyond Resistance’s own timing (<a
 href="#core-conflict-limits-reference">§10.18</a>).</p>
 <p><strong>Earn Tychē Points by:</strong></p>
 <ul>
 <li><p><strong>Accepting a compel</strong> — the GM or another player
 offers a meaningful complication based on any of your tags or Scars,
 Beliefs (<a href="#core-beliefs-goals-instincts">§3.5</a>) or your
-Instinct. Accept → +1 Tychē Point. Refuse → pay 1 Tychē Point.</p></li>
+Instinct. Accept → +1 Tychē Point. Refuse → pay 1 Tychē Point; with none
+to pay, you accept the compel and gain the point as usual.</p></li>
 <li><p><strong>Compelling yourself</strong> — propose the same kind of
 complication on yourself. If the GM agrees it meets the rules below,
 take the complication and gain +1 Tychē Point. Facing it can also earn
@@ -1094,8 +1371,10 @@ remove the tag’s Power.</p></li>
 <li><p><strong>Limits.</strong> A compel must follow from the
 established meaning of the tag, Belief, or Instinct. It adds no
 numerical penalty and can’t undo a resolved success. An existing penalty
-doesn’t earn Tychē just because a tag, Belief, or Instinct explains
-it.</p></li>
+doesn’t earn Tychē just because a tag, Belief, or Instinct explains it.
+A compel’s complication isn’t an outcome complication: it has no
+severity, can’t be bought off, mitigated or Resisted, and gives the GM
+no Woe (<a href="#core-doubles">§2.6</a>).</p></li>
 <li><p><em>Feared duellist:</em> a rival challenges you before an
 audience whose support you need. <em>Devoted healer:</em> you stay to
 treat a dying enemy and lose the chance to pursue their
@@ -1122,9 +1401,9 @@ Belief never grants control over another PC.</p>
 <li><p><strong>Base Refresh is 3.</strong> At the start of each session,
 your Tychē Points reset to your Refresh (if you have more, keep them, up
 to the cap).</p></li>
-<li><p><strong>Tychē cap.</strong> You can hold at most <strong>Refresh
-+ 3</strong> Tychē Points. Any you would gain above the cap are
-lost.</p></li>
+<li><p><strong>Tychē ceiling.</strong> You can hold at most
+<strong>Refresh + 3</strong> Tychē Points. Any you would gain above the
+cap are lost.</p></li>
 <li><p><strong>Spending Refresh.</strong> Creation extras and ★
 abilities cost Refresh (<a
 href="#core-starting-resources">§3.6</a>).</p></li>
@@ -1252,8 +1531,10 @@ in the fiction. The Effects you buy are the action’s result (<a
 href="#core-outcomes">§2.5</a>): an Effect you don’t buy doesn’t
 happen, even when it was the declared goal. Buy the Effect that serves
 the declared goal before a secondary goal with Extra Feat. No purchase
-is mandatory; all purchases share one Power budget, and any unspent
-Power becomes <strong>Weal</strong>.</p>
+is mandatory; all purchases share one Power budget, which also funds any
+Power mitigation of a complication after the Effect you agreed is
+reserved (<a href="#core-doubles">§2.6</a>). Unspent Power becomes
+<strong>Weal</strong>.</p>
 <p><strong>In scripted conflicts,</strong> each action can buy only the
 Effects <a href="#core-actions-effects">§10.6</a> permits.
 Fictional relevance is required but doesn’t unlock anything else.</p>
@@ -1315,10 +1596,11 @@ applies.</p></li>
 record its name and signed value, its <strong>scope</strong> (who or
 what it affects, and in which circumstances), and its <strong>removal
 condition</strong> (the event, recovery, treatment, or change that ends
-it), in the format above. The scope must follow from the fiction.
-<em>Injured ankle −2</em> — personal status, tier 2 — running, jumping
-and balancing on the injured leg — ends through appropriate treatment
-and recovery.</p></li>
+it), in the format above. Add a track of six boxes numbered 1–6 beside
+it. The scope must follow from the fiction. <em>Injured ankle −2</em> —
+personal status, tier 2 — running, jumping and balancing on the injured
+leg — ends through appropriate treatment and recovery; mark box
+2.</p></li>
 <li><p><strong>What it hinders.</strong> A status modifies only rolls
 within its scope: <em>slashed thigh −3</em> hinders running and
 climbing, not reading a ledger. A status can also decide what is
@@ -1327,20 +1609,43 @@ circumstances change, review its scope; don’t broaden it just because
 its name allows another reading.</p></li>
 </ul>
 <ul>
-<li><p><strong>Stacking.</strong> New harm of the same kind sets the
-status to <strong>one tier above the higher</strong> of the existing and
-incoming tiers (<em>wounded −2</em> hit by <em>wounded −3</em> becomes
-<em>wounded −4</em>). Harm is the same kind when it worsens the same
-injury, affliction or condition, whatever it’s called: another cut
-worsens <em>wounded</em>, renewed menace worsens <em>terrified</em>, but
-a fresh burn needn’t stack with a concussion. The GM says whether new
-harm stacks <strong>before</strong> you decide to Resist or accept an
-injury (<a href="#core-accepting-injury">§10.11</a>).</p></li>
-<li><p><strong>Order.</strong> Resistance and armour reduce incoming
-harm before it stacks; they can’t reduce a protected payment such as an
-accepted injury trade (<a
+<li><p><strong>Stacking.</strong> Use the same track when an incoming
+effect reinforces or worsens the same status. Mark the box matching its
+incoming tier. If that box is already marked, mark the next empty box to
+its right instead. Keep all previous marks; don’t fill other gaps. The
+highest marked box is the status’s current tier, not the number or sum
+of its marks. This applies to helpful and harmful statuses
+alike.</p></li>
+<li><p><strong>Same kind.</strong> Effects stack when they reinforce or
+worsen the same injury, benefit, affliction or condition within the same
+scope, whatever they’re called: another cut worsens <em>wounded</em>,
+renewed menace worsens <em>terrified</em>, but a fresh burn needn’t
+stack with a concussion. Separate conditions use separate tracks;
+changing a name doesn’t create a new one. The GM says whether new harm
+stacks <strong>before</strong> you decide to Resist or accept an injury
+(<a href="#core-accepting-injury">§10.11</a>).</p></li>
+<li><p><strong>Order and limit.</strong> Resistance and armour reduce
+incoming harm before it stacks; they can’t reduce a protected payment
+such as an accepted injury trade (<a
 href="#core-costs-failures-complications">§10.7</a>). Harm reduced
-to tier 0 isn’t recorded. A status can’t go above tier 6.</p></li>
+to tier 0 marks nothing. A track stops at tier 6: if no empty box
+remains at or above the incoming tier, add no mark. Existing tier-6
+outcomes and rules for further harm still apply.</p></li>
+<li><p><strong>Reducing and clearing.</strong> When a rule reduces a
+recorded status by one or more tiers, shift every marked box that many
+places left, discarding marks shifted below 1. The highest remaining
+mark is its new tier; if none remain, remove the status. Clearing a
+status outright erases its entire track. Costs, treatment limits,
+recovery requirements and removal conditions don’t change. Reducing
+incoming harm before recording it changes only its incoming tier, not
+existing marks.</p></li>
+<li><p><strong>Examples.</strong> Three applications of <em>wounded
+−2</em> mark box 2, then 3, then 4: the status reaches tier 4. Receiving
+<em>wounded −1</em> next fills box 1 without raising its tier; another
+tier-1 application overflows to box 5. Separately, <em>inspired +2</em>
+followed by <em>inspired +4</em> marks boxes 2 and 4 and gives tier 4,
+not tier 5. Reducing that status by 1 tier shifts its marks to boxes 1
+and 3, giving <em>inspired +3</em>.</p></li>
 <li><p><strong>Tier 6:</strong> the target is <strong>Taken Out</strong>
 of whatever that status represents (dead, unconscious, captured,
 convinced, routed), within its scope. A harmful status reaching tier 6
@@ -1367,10 +1672,11 @@ of the highest relevant harmful one (<a
 href="#core-roll">§2.1</a>). The same Condition can help one
 action and hinder another: <em>thick smoke</em> hinders aiming through
 it and helps hiding in it.</p></li>
-<li><p><strong>Recording.</strong> Use the standard format:
-<em>rehearsed escape plan</em> — Situational Condition 2 — helps
-participants follow the agreed routes, signals and fallbacks — ends when
-the escape is completed or circumstances invalidate the plan.</p></li>
+<li><p><strong>Recording.</strong> Use the standard format and add six
+boxes numbered 1–6: <em>rehearsed escape plan</em> — Situational
+Condition 2 — helps participants follow the agreed routes, signals and
+fallbacks — ends when the escape is completed or circumstances
+invalidate the plan; mark box 2.</p></li>
 <li><p><strong>Creating and reducing.</strong> Create buys a Situational
 Condition at <strong>2 Power per rating</strong>, and Weaken reduces one
 at <strong>2 Power per rating</strong> by addressing its cause (<a
@@ -1378,25 +1684,31 @@ href="#core-effects">§5</a>). Established circumstances,
 equipment, hazards, consequences and explicit abilities can also supply
 one through their own rules. Weal and Woe can’t buy ratings directly (<a
 href="#core-weal-woe">§9</a>).</p></li>
-</ul>
-<ul>
-<li><p><strong>Stacking.</strong> Building on the same circumstance sets
-the Condition to <strong>one rating above the higher</strong> of the
-existing and new ratings, never above 6 (<em>dim lighting 3</em>
-darkened by a rating-2 Condition becomes <em>dim lighting 4</em>). This
-matches status stacking (<a
-href="#core-personal-statuses">§5.1</a>).</p></li>
+<li><p><strong>Stacking and reduction.</strong> Use the same slot
+procedure as personal statuses (<a
+href="#core-personal-statuses">§5.1</a>), reading rating in place
+of tier. Building on the same circumstance marks the incoming rating’s
+box, or the next empty box to its right if occupied. Keep earlier marks;
+the highest is the current rating. A rating-3 Condition with only box 3
+marked that receives rating 2 marks box 2 and stays rating 3; another
+rating-2 application marks box 4 and raises it to 4. To reduce the
+rating, shift every mark left by the reduction and discard marks below
+1. Clearing the Condition erases the track. Ratings never exceed 6; if
+no empty box remains at or above the incoming rating, add no mark. These
+procedures apply whether the Condition helps or hinders.</p></li>
 <li><p><strong>Rating 6</strong> is the most a Condition can be. When a
 harmful Condition first reaches rating 6, the GM gets <strong>one free
 consequence</strong> that fits it (the guards are called, a contact cuts
 ties) <strong>or a matching Truth</strong> that prohibits or requires
 something (<em>discredited 6</em>: nobody here will vouch for you),
 whichever is more narratively appropriate, with no Woe spent. Choose a
-consequence as in <a href="#core-outcomes">§2.5</a> and keep
-either within the stakes; a Truth created this way lasts as long as the
-Condition. The Condition doesn’t Take Out, cause a Scar or inflict harm
-by itself; a dangerous place uses its listed Danger or harm procedure
-(<a href="#core-dangers-conflicts">§8.5</a>, <a
+consequence as in <a href="#core-outcomes">§2.5</a>: it is a
+complication with a stated severity, and the player may respond to it as
+in <a href="#core-doubles">§2.6</a>. Keep either option within the
+stakes; a Truth created this way lasts as long as the Condition. The
+Condition doesn’t Take Out, cause a Scar or inflict harm by itself; a
+dangerous place uses its listed Danger or harm procedure (<a
+href="#core-dangers-conflicts">§8.5</a>, <a
 href="#core-resistance-harm-recovery">§6</a>).</p></li>
 <li><p><strong>Set the category by cause.</strong> Classify by what
 caused the fact, not by its name, where it’s written or the most useful
@@ -1597,9 +1909,9 @@ conflict effect, not a status (<a
 href="#core-actions-effects">§10.6</a>).</p>
 <h2 id="core-resistance-harm-recovery">6. Resistance, Harm and
 Recovery</h2>
-<p>When an imposed consequence lands on you (a status, lost gear, a bad
-position), you may <strong>Resist</strong>, subject to the exclusions
-below:</p>
+<p>When an imposed harmful status or a complication lands on you (a
+complication might cost you gear or put you in a bad position), you may
+<strong>Resist</strong>, subject to the exclusions below:</p>
 <ol>
 <li><p>Choose the pool that fits (see <a
 href="#core-pools-edge">§3.2</a>: Sōma for harm, Mētis to dodge,
@@ -1661,9 +1973,12 @@ status:</p></li>
 </tbody>
 </table>
 <ol start="4">
-<li><p><strong>Effect:</strong> reduce the incoming status by <strong>2
-tiers</strong> (to 0 if that brings it below 1), or turn a severe
-consequence into a lesser one.</p></li>
+<li><p><strong>Effect:</strong> reduce an incoming status by <strong>2
+tiers</strong> (to 0 if that brings it below 1). Reduce a complication
+by <strong>one severity band</strong>: major to moderate, moderate to
+minor, minor to nothing (<a href="#core-doubles">§2.6</a>). If the
+complication’s consequence is a status, the status rule
+applies.</p></li>
 </ol>
 <p>The chance columns show Edge 0 to 3 (2d to 5d). A single 12 is simply
 a highest die in the 9–12 band. When an ability says your Edge
@@ -1724,7 +2039,8 @@ href="#core-running-dry">§6.1</a>).</p></li>
 tier 0 isn’t recorded.</p></li>
 </ol>
 <p><strong>Once per application.</strong> Resist each application of
-harm once. You can’t make a second attempt against the same harm.</p>
+harm, and each complication, once. You can’t make a second attempt
+against the same harm or complication.</p>
 <p><strong>What Resistance can’t touch.</strong> Resistance changes an
 imposed consequence. It doesn’t reverse the action’s success, restore
 lost Disposition or revoke an agreed outcome. You can’t Resist:</p>
@@ -1745,7 +2061,9 @@ Treatment and healing still work on a recorded status (<a
 href="#core-treatment-healing">§6.6</a>). Compromise statuses
 imposed under <a href="#core-compromise">§10.13</a> aren’t
 protected payments. You can Resist them, but that doesn’t revoke the
-concession, and removing the injury creates no replacement cost.</p>
+concession, and removing the injury creates no replacement cost. Taking
+a complication instead of buying it off isn’t accepting a payment: you
+can still Resist it (<a href="#core-doubles">§2.6</a>).</p>
 <h3 id="core-running-dry">6.1 Running Dry</h3>
 <p><strong>Trigger.</strong> You <strong>run dry</strong> when a
 positive cost brings a pool to 0 or is more than the points left in it.
@@ -1903,12 +2221,15 @@ it hinders.</p>
 <p><strong>One status per pool.</strong> The first time a pool runs dry,
 that status becomes the pool’s depletion status for the rest of the
 continuous ordeal. Write the pool beside it. Running dry in that pool
-again worsens the same status, unless a genuinely different cause calls
+again adds to the same track, unless a genuinely different cause calls
 for a different consequence. A new name or description is not a
-different cause. Each running-dry event worsens only one status.</p>
-<p><strong>Example.</strong> You have <em>mentally exhausted −2</em> and
-overrun Psychē by 2. The incoming status is tier 3, one above the higher
-tier is 4, so you now have <em>mentally exhausted −4</em>.</p>
+different cause. Each running-dry event applies to only one status;
+filling a lower empty box needn’t raise its current tier.</p>
+<p><strong>Example.</strong> You have <em>mentally exhausted −2</em>,
+with only box 2 marked, and overrun Psychē by 2. The incoming status is
+tier 3: mark box 3, giving <em>mentally exhausted −3</em>. Another
+incoming tier 3 would find box 3 occupied and mark box 4 instead, giving
+<em>mentally exhausted −4</em>. Keep the earlier marks.</p>
 <p><strong>It is a cost.</strong> A running-dry status is a protected
 payment (<a href="#core-costs-failures-complications">§10.7</a>).
 Once recorded, it can be treated, Restored or healed like any other
@@ -2181,10 +2502,12 @@ influence, isolating a damaged power cell. It doesn’t normally reduce
 the tier. When the outcome is uncertain, roll the treatment skill vs.
 <strong>Standard 15</strong>, with relevant statuses and Situational
 Conditions modifying the roll. On a success, the deterioration stops or
-treatment can begin. On a Success at a Cost, the same, with the normal
-cost. On a failure, the condition is still untreated; the GM announces
-any further consequence before another attempt. During scripted
-conflicts, use the conflict-specific consequence restrictions (<a
+treatment can begin. A Success with Complication does the same, and its
+complication applies (<a href="#core-doubles">§2.6</a>). On a
+failure, the condition is still untreated; resolve the failure outcome
+(<a href="#core-outcomes">§2.5</a>) and announce any complication
+before another attempt. During scripted conflicts, use the
+conflict-specific consequence restrictions (<a
 href="#core-costs-failures-complications">§10.7</a>).</p>
 <p><strong>Restore on lasting injuries.</strong> Restore costs 1 Power
 per tier (<a href="#core-effects">§5</a>). It can clear a
@@ -2319,11 +2642,13 @@ fitting supernatural method can offer another way.</p>
 <ul>
 <li><p><strong>Success:</strong> the patient is stable and the clock
 stops.</p></li>
-<li><p><strong>Success at a Cost:</strong> stable, with the normal cost,
-subject to <a href="#core-costs-failures-complications">§10.7</a>
-inside conflicts.</p></li>
+<li><p><strong>Success with Complication:</strong> stable, and the
+complication applies (<a href="#core-doubles">§2.6</a>); inside
+conflicts it is subject to <a
+href="#core-costs-failures-complications">§10.7</a>.</p></li>
 <li><p><strong>Failure:</strong> still <em>Dying</em>. The attempt uses
-the action, but doesn’t advance the clock.</p></li>
+the action, but doesn’t advance the clock, and a complication from the
+failure can’t mark a segment either.</p></li>
 </ul>
 <p>Stabilising doesn’t erase marked segments, reduce the injury, refill
 pools or return the patient to the conflict. A stable patient can be
@@ -2519,6 +2844,8 @@ fact.</p></li>
 <li><p><strong>Duration.</strong> Established facts last until something
 changes them. A created Truth also follows its creating rule’s duration
 and ending condition.</p></li>
+</ul>
+<ul>
 <li><p><strong>Expiry doesn’t rewind.</strong> When a Truth ends,
 describe why: the passage closes, support is withdrawn, the
 authorisation lapses. Its end never reverses a completed action or
@@ -2597,6 +2924,10 @@ Condition, an Effect or an explicit ability. Buying the existence of a
 maintenance passage establishes an approach, not <em>prepared escape
 routes 2</em> buying a smoke pot supplies the pot, and using it follows
 its own rules.</p>
+<p><strong>Reduce Woe.</strong> Removing 1 Woe costs 2 Weal here but 3
+Power through Disrupt (<a href="#core-actions-effects">§10.6</a>).
+Weal decays at the end of each scene, so it is the cheaper but less
+durable price.</p>
 <p><strong>Paying with Woe.</strong> When the party is short, the GM may
 let you pay any spend except <em>Reduce Woe</em>, in whole or in part,
 by giving the GM 1 Woe per Weal. Bonus dice can always be paid this way
@@ -2608,9 +2939,8 @@ session.</p>
 <ul>
 <li><p>players paying for dice or other Weal spends with Woe (1 per
 point);</p></li>
-<li><p>Success at a Cost, if the player chooses Woe (+1);</p></li>
-<li><p>failures (+1);</p></li>
-<li><p>complications bought off (+2);</p></li>
+<li><p>complications bought off: 1, 2 or 3 by original severity (<a
+href="#core-doubles">§2.6</a>);</p></li>
 <li><p>Escalation (+1, <a
 href="#core-escalation">§9.3</a>);</p></li>
 <li><p>a dangerous circumstance (lethal stakes or a listed Danger, <a
@@ -2627,8 +2957,9 @@ circumstances in total.</p></li>
 </thead>
 <tbody>
 <tr>
-<td><p>Complication or minor twist</p></td>
-<td><p>1</p></td>
+<td><p>Complication on a player’s roll (<a
+href="#core-doubles">§2.6</a>)</p></td>
+<td><p>1 minor / 2 moderate / 3 major</p></td>
 </tr>
 <tr>
 <td><p>Tick a danger clock</p></td>
@@ -2656,9 +2987,9 @@ href="#core-scripting-volleys">§10.5</a>)</p></td>
 <td><p>3</p></td>
 </tr>
 <tr>
-<td><p>Cancel an NPC’s complication from the dice (<a
+<td><p>Cancel an NPC’s complication (<a
 href="#core-doubles">§2.6</a>)</p></td>
-<td><p>2</p></td>
+<td><p>1 / 2 / 3 by original severity</p></td>
 </tr>
 <tr>
 <td><p>Make a roll Risky 1, or raise its Risk by 1 (<a
@@ -2672,13 +3003,22 @@ duplicate description or higher rating, and none from a hazard the GM
 created by spending Woe in that scene. Gaining this Woe doesn’t activate
 the hazard: a listed scenery Danger still costs 1 Woe to trigger, and a
 danger clock 1 Woe per segment.</p>
+<p><strong>Buying a complication.</strong> After a player’s roll is
+resolved and before the player chooses a response, the GM may spend Woe
+to add a complication to it, whatever the outcome. The GM states the
+concrete consequence and its severity first, then pays 1 Woe for minor,
+2 for moderate or 3 for major. Add no more than one Woe-bought
+complication to a roll. It must arise from the established danger or
+situation. The player responds as with any other complication: Woe
+buyoff, then Power mitigation, then Resistance (<a
+href="#core-doubles">§2.6</a>). The GM’s Woe isn’t refunded if the
+player buys it off.</p>
 <p><strong>Complications carry no free rating.</strong> A complication
 bought with Woe doesn’t include an unnamed status or Situational
 Condition. Use a listed effect or an NPC action when numerical
 interference is intended; Conditions can still arise from properly
 resolved failures, hazards or explicit abilities.</p>
-<p><strong>In conflicts,</strong> failure, Success at a Cost and Woe
-spends follow <a
+<p><strong>In conflicts,</strong> complications and Woe spends follow <a
 href="#core-costs-failures-complications">§10.7</a>. Explicit Woe
 spends, Specials, hazards and Risky rolls keep their stated effects.</p>
 <h3 id="core-escalation">9.3 Escalation</h3>
@@ -3030,8 +3370,14 @@ even if one defeats a side or takes its actor out. Complete each
 action’s costs, choices and effects before removing a participant
 because of that action; check victory after both independent actions
 finish.</p>
-<p>A trumped action makes no roll and produces no effect. Describe the
-failed approach briefly. Failure, Woe and doubles use <a
+<p>A trumped action makes no action roll, generates no Power and
+produces no normal action Effect. It isn’t a Failure with a Benefit,
+Failure with Complication or Critical Failure, and its Complication die
+and Risk die aren’t rolled. Describe the failed approach briefly.
+Trumping grants no replacement action or actor reassignment. Costs
+already paid remain spent; don’t pay a cost whose payment trigger never
+occurs. A separate hazard or explicit consequence applies only if its
+own trigger occurs. Complications use <a
 href="#core-costs-failures-complications">§10.7</a>.</p>
 <p>In short: Feint beats Defend and loses to Attack; two Attacks, two
 Defends or two Maneuvers are independent; every other pair is
@@ -3041,18 +3387,27 @@ versus.</p>
 such as adversary Guard; statuses and Situational Conditions modify the
 roll (<a href="#core-roll">§2.1</a>), and Truths decide what is
 possible (<a href="#core-truths">§8</a>). Tags add nothing to the
-roll. Determine Power normally, including Tag Power (<a
-href="#core-outcomes">§2.5</a>).</p>
+roll. Classify each action’s outcome and Power separately under <a
+href="#core-outcomes">§2.5</a>, and don’t compare the actors”
+totals. A failed action generates no Power. Complete both independent
+actions before checking defeat or mutual defeat.</p>
 <h4 id="versus-tests">Versus Tests</h4>
-<p>Both actors roll. The higher total wins and gains its Tag Power + 1
-Power, plus 1 for every full 3 points of margin. The loser spends no Tag
-Power. Winning prevents the opposing action’s normal effect, even if all
-Power funds permitted supplementary Effects rather than loss or
-recovery.</p>
-<p>On an exact tie, neither action gains Power or produces its normal
-effect. Costs already paid remain spent. Success at a Cost doesn’t turn
-a losing versus roll into success. Resolve doubles and complications
-under <a href="#core-costs-failures-complications">§10.7</a>.</p>
+<p>Both actors roll, retaining their Complication die and highest other
+action die (<a href="#core-roll">§2.1</a>). Compare final totals.
+The higher total wins and generates its Tag Power + 1 Power, plus 1 for
+every full 3 points of margin. The loser generates no Power, including
+Tag Power. Each actor’s own retained faces classify their outcome (<a
+href="#core-outcomes">§2.5</a>). The winner’s Critical Success
+adds +1 Power. Matching dice never override a higher opposing total.
+Winning prevents the opposing action’s normal effect, even if all Power
+funds permitted supplementary Effects rather than loss or recovery.
+Cancelling or reducing the loser’s complication doesn’t turn their
+action into a success or prevent the winner’s purchased Effects.</p>
+<p>On an exact tie, neither action generates Power, produces its normal
+effect or receives a comparison-based benefit, complication or critical.
+Costs already paid remain spent. Independent complications, including a
+triggered Risk die, still resolve under <a
+href="#core-costs-failures-complications">§10.7</a>.</p>
 <h3 id="core-actions-effects">10.6 Actions and Effects</h3>
 <p>Describe how the action pursues your side’s objective.</p>
 <table>
@@ -3198,8 +3553,8 @@ effect like any temporary fact (<a href="#core-effects">§5</a>):
 <em>Gain Position</em> — tactical benefit, +1 bonus die — your side’s
 next scripted action roll — expires on that action, unused if it is
 trumped or makes no roll.</p>
-<p>Neither applies to unrelated Resistance or incidental rolls. Gain
-Position counts toward the normal bonus-dice cap.</p>
+<p>Neither applies to unrelated Resistance, a Risk die or incidental
+rolls. Gain Position counts toward the normal bonus-dice cap.</p>
 <p>Additional grants don’t stack, refresh or extend pending Gain
 Position.</p>
 <p>Impede isn’t a tiered status. Multiple pending Impedes don’t stack,
@@ -3224,7 +3579,11 @@ script.</p>
 Reference</h4>
 <p>A successful action may buy its primary effect and the permitted
 supplementary Effects below, using one Power budget. No primary purchase
-is mandatory.</p>
+is mandatory. On a success, choose the permitted Effects and reserve
+their costs before spending Power on complication mitigation (<a
+href="#core-doubles">§2.6</a>). Fund at least one permitted
+Effect; it needn’t be the primary purchase. Preserve any minimum Effect
+agreed before rolling.</p>
 <p>Fictional relevance is required, but doesn’t unlock prohibited
 purchases or harmful-status purchases on ordinary Attacks or Feints.
 General prices and treatment rules remain in <a
@@ -3333,40 +3692,38 @@ Complications</h3>
 Conditions and Truths subject to these restrictions and the limits in <a
 href="#core-conflict-limits-reference">§10.18</a>.</p>
 <h4 id="ordinary-failure">Ordinary Failure</h4>
-<p>An ordinary failed independent test produces no action effect and
-generates the usual 1 Woe. It doesn’t also authorise an unrelated GM
-move, automatic injury or additional Disposition loss: the failed and
-opposing actions establish the volley.</p>
-<p>Losing or tying a versus test, or being trumped, generates no
-ordinary-failure Woe. Apply this symmetrically to player and GM actors;
-costs already paid remain spent. Separately triggered complications,
-ability costs, scenery Dangers and explicit Woe rules still apply.</p>
-<h4 id="success-at-a-cost">Success at a Cost</h4>
-<p>On an independent test missing by 1–3, gain Tag Power + 0 as usual
-(<a href="#core-outcomes">§2.5</a>). The player chooses either 1
-Woe for the GM or an immediate, proportionate complication arising from
-the action.</p>
-<p>An ordinary cost can’t impose an additional status or extra
-Disposition loss unless an explicit rule permits it. Suitable costs
-include exposing an approach, losing access to a minor asset or
-establishing a limited adverse fact.</p>
-<p>Scenery actions use their listed Danger when the consequence option
-is chosen.</p>
-<h4 id="doubles">Doubles</h4>
-<p>Doubles work as in <a href="#core-doubles">§2.6</a>, including
-doubles created by an ability such as Perfect Strike. In versus
-tests:</p>
-<ul>
-<li><p>Double 12s don’t override a higher opposing total or break a
-tie.</p></li>
-<li><p>Winning doubles add +1 Power to the margin award (double 12s:
-+2). Losing or tied doubles grant no Power or effect.</p></li>
-<li><p>Double 1s still bring their complication on a loss or tie, but
-don’t lose automatically.</p></li>
-</ul>
-<p>Doubles complications stay within the stakes and the action’s scale.
-They don’t cancel an independent action or change the script. Buy them
-off normally (<a href="#core-doubles">§2.6</a>).</p>
+<p>A failed independent test produces no action effect and no Power,
+including Tag Power. Resolve its outcome under <a
+href="#core-outcomes">§2.5</a>. Failure alone generates no Woe. It
+doesn’t also authorise an unrelated GM move, automatic injury or
+additional Disposition loss: the failed and opposing actions establish
+the volley.</p>
+<p>Losing or tying a versus test, or being trumped, likewise generates
+no automatic failure Woe. Apply this symmetrically to player and GM
+actors; costs already paid remain spent. Accepting, mitigating or
+Resisting a complication awards no replacement Woe. Woe buyoffs, ability
+costs, scenery Dangers and other explicit Woe rules still apply.</p>
+<h4 id="complications-in-conflicts">Complications in Conflicts</h4>
+<p>Complications from outcomes, Risk dice or Woe stay within the stakes
+and the action’s scale (<a href="#core-doubles">§2.6</a>). They
+can’t duplicate an opposing purchased Effect, freely change the script
+or cancel an independent action.</p>
+<p>A comparison-based complication, including the major complication
+from a Critical Failure, can’t impose additional Disposition loss or a
+harmful status unless an explicit rule permits it. Severity alone grants
+no such permission: a major complication doesn’t automatically mean
+injury, immediate defeat or loss of the objective. Independent hazards,
+Risky triggers, abilities and other explicit rules keep only the
+consequence permissions they state.</p>
+<p>Failure with a Benefit is a fictional opening only: no free purchase,
+Disposition change, script change or extra action. Cancelling or
+reducing a complication doesn’t reverse failure or revoke a purchased
+Effect.</p>
+<p>Power mitigation addresses the actor’s eligible triggered
+complication, not an opponent’s ordinary purchased Disposition effect.
+Reserve Power for permitted Effects first (<a
+href="#core-doubles">§2.6</a>). Woe buyoff and eligible Resistance
+don’t require that reservation.</p>
 <h4 id="explicit-risks-and-harm">Explicit Risks and Harm</h4>
 <p>Abilities, hazards, Risky rolls, scenery Dangers and other explicit
 rules may impose their stated consequences. Resolve these separately
@@ -3378,7 +3735,10 @@ href="#core-accepting-injury">§10.11</a>), a running-dry status
 from paying a cost (<a
 href="#core-running-dry-statuses">§6.2</a>), an agreed concession
 cost (<a href="#core-defeat-mutual-defeat-concession">§10.12</a>),
-or any other cost accepted as payment.</p>
+or any other cost accepted as payment. Choosing an imposed complication
+instead of its Woe buyoff doesn’t make it a protected payment;
+mitigation and Resistance still address it where permitted (<a
+href="#core-doubles">§2.6</a>).</p>
 <p><strong>What can’t touch it.</strong> Resistance, armour, prevention,
 redirection, immunity and incidental clearing, including a double-12
 result, can’t prevent, reduce or remove a protected payment. Only an
@@ -3722,7 +4082,9 @@ obligation, severe injury, important loss or powerful new
 danger.</p></li>
 </ul>
 <p>These are consequence packages, not mandatory lists. Don’t
-automatically add injury to an adequate non-injury concession.</p>
+automatically add injury to an adequate non-injury concession.
+Compromise grades aren’t complication severities: they don’t use Woe
+buyoff or Power mitigation.</p>
 <p>Compromise can’t simply reverse the result or grant the loser’s
 complete incompatible objective.</p>
 <h4 id="negotiating-terms">Negotiating Terms</h4>
@@ -3770,6 +4132,11 @@ through listed Armour, traits or abilities. Apply at most one reduction
 per imposed status application, never to ordinary Disposition loss or a
 protected payment (<a
 href="#core-costs-failures-complications">§10.7</a>).</p>
+<p>A complication on an NPC’s action follows the NPC procedure in <a
+href="#core-doubles">§2.6</a>: the GM may cancel it with existing
+Woe equal to its original severity, or reduce it with surplus action
+Power. This gives ordinary NPCs no pool-based Effort, narrative
+Resistance or generic Woe purchase of Power.</p>
 <p>NPC defeat uses <a
 href="#core-defeat-mutual-defeat-concession">§10.12</a>. Capture,
 escape, injury and death follow the stakes and outcome. Use a
@@ -3797,9 +4164,20 @@ href="#core-superiority">§10.3</a>).</p></li>
 <li><p>Reveal the next volley.</p></li>
 <li><p>Determine the interaction.</p></li>
 <li><p>Pay pre-roll costs; resolve running dry.</p></li>
-<li><p>Roll and determine Power.</p></li>
+<li><p>Roll the action dice, and the Risk die if the action is Risky. A
+trumped action makes no roll.</p></li>
+<li><p>Resolve permitted dice manipulation, one ability at a time (<a
+href="#core-dice-manipulation">§2.8</a>).</p></li>
+<li><p>Classify the outcome from the final retained faces and determine
+Power (<a href="#core-outcomes">§2.5</a>).</p></li>
 <li><p>Make permitted post-roll choices and pay their costs.</p></li>
-<li><p>Allocate Power.</p></li>
+<li><p>Name each complication and its severity, including one the GM
+buys with Woe (<a href="#core-woe">§9.2</a>); offer Woe buyoff (<a
+href="#core-doubles">§2.6</a>).</p></li>
+<li><p>Allocate Power: reserve permitted Effects first, then spend any
+surplus on mitigation (<a href="#core-doubles">§2.6</a>).</p></li>
+<li><p>Resist eligible narrative complications, once each (<a
+href="#core-doubles">§2.6</a>).</p></li>
 <li><p>Calculate Disposition loss separately from statuses.</p></li>
 <li><p>Offer eligible injury trades.</p></li>
 <li><p>Apply remaining Disposition loss.</p></li>
@@ -3809,10 +4187,10 @@ including explicit creature exceptions.</p></li>
 <li><p>Check removal, victory and mutual defeat.</p></li>
 <li><p>Before the next roll, allow concession proposals.</p></li>
 </ol>
-<p>Repeat steps 5–17 for each volley, and step 4 for each new exchange,
+<p>Repeat steps 5–21 for each volley, and step 4 for each new exchange,
 until a side is defeated or concedes.</p>
 <p><strong>Ending</strong></p>
-<ol start="18">
+<ol start="22">
 <li><p>Resolve permitted creature finishing procedures before
 compromise.</p></li>
 <li><p>Settle compromise or concession.</p></li>
@@ -3895,6 +4273,10 @@ informs choices but doesn’t add an action.</p></li>
 href="#core-prepared-advance">§4.2</a>), if used, is a
 declaration: the next item’s limits apply, and it can’t change a
 revealed script.</p></li>
+<li><p><strong>Resist harder</strong> has no conflict timing limit
+beyond Resistance’s own timing (<a
+href="#core-tyche-points">§4</a>). It still can’t Resist ordinary
+Disposition loss or a protected payment.</p></li>
 <li><p><strong>Declarations</strong> can make an approach possible or
 supply an asset. They can’t resolve a scripted action, cancel an
 independent action, widen the stakes or reverse an accepted
@@ -3926,10 +4308,14 @@ href="#core-area-effects">§10.17</a>).</p></li>
 Don’t convert loss, healing or clock segments between them without an
 explicit rule. Advance is available only to actions <a
 href="#core-actions-effects">§10.6</a> permits.</p></li>
-<li><p><strong>Complications,</strong> from dice or bought with Woe,
-stay within the stakes and timing. They don’t change committed scripts
-or cancel independent actions unless an explicit rule permits
-it.</p></li>
+<li><p><strong>Complications,</strong> from outcomes, the Risk die or a
+GM Woe spend (<a href="#core-woe">§9.2</a>), stay within the
+stakes and timing. They don’t change committed scripts or cancel
+independent actions unless an explicit rule permits it. Respond to them
+under <a href="#core-doubles">§2.6</a>. A comparison-based
+complication can’t add Disposition loss or a harmful status without
+explicit permission (<a
+href="#core-costs-failures-complications">§10.7</a>).</p></li>
 </ul>
 <h4 id="free-immediate-and-automatic-effects">Free, Immediate and
 Automatic Effects</h4>
@@ -3945,14 +4331,23 @@ of scripted actions, rotation treatment, use while Taken Out and
 interaction with independent actions.</p>
 <p>Automatic success replaces the roll for an otherwise permitted
 action. It supplies no extra action, script change, rescue of a trumped
-action, expanded stakes or unsuitable approach. In a versus test, an
-automatic success wins unless both sides automatically succeed; then
-it’s a tie unless a rule says otherwise.</p>
-<p>On an independent test, apply the listed Power without rolling. In a
-versus test, it wins with its listed Power unless the opposing action
-also succeeds automatically; then resolve a tie unless a specific rule
-says otherwise. No roll means no dice-based critical or
-complication.</p>
+action, expanded stakes or unsuitable approach. Pending Impede and Gain
+Position expire unused on it and don’t transfer to a Risk or Resistance
+die.</p>
+<p>On an independent test, apply the listed Power plus applicable Tag
+Power without rolling. Add no calculated margin, base-success point or
+matching-dice bonus. No action dice means no comparison-based
+complication, but independent consequences remain, including a permitted
+Risky action’s separate Risk die unless a rule exempts it. The actor may
+buy Power with Effort after the award (<a
+href="#core-bonus-dice-effort">§2.4</a>).</p>
+<p>In a versus test, one automatic success wins, neither side rolls
+action dice, and the winner uses its listed Power. The opponent
+generates no Power and receives no comparison-based benefit,
+complication or critical. If both sides succeed automatically, it’s a
+neutral stalemate unless a specific rule says otherwise: neither
+generates Power or produces its normal effect, and paid costs stay spent
+(<a href="#core-outcomes">§2.5</a>).</p>
 <div class="rb-art-note">
 <p><strong>Art placeholder</strong><br />
 A ring of torches marking the edge of a battlefield as two lines close
@@ -4148,16 +4543,19 @@ ends, and the Truth <em>Patrolling Guards</em>.</p>
 <ul>
 <li><p><strong>Goal:</strong> reach the cell unseen. The table agrees
 that means advancing the 4-segment <em>Reach the Cell</em> clock; each
-segment costs 1 Power (Advance).</p></li>
+segment costs 1 Power (Advance). The GM names the danger: a patrol could
+discover Kade’s route.</p></li>
 <li><p><strong>Roll:</strong> Stealth +3, <em>dim lighting</em> +2. The
 GM sets Hard 18, so Kade needs 13+ on the dice. His tags <em>quiet
 boots</em> and <em>knows this district</em> add nothing to the roll but
 supply <strong>2 Tag Power</strong> if he succeeds.</p></li>
 <li><p><strong>Effort, part 1:</strong> Kade spends 3 − 1 Edge = 2 Mētis
-for a bonus die → 3d12 keep 2.</p></li>
-<li><p><strong>Result:</strong> dice show 9, 9, 4 → keep 9 + 9 = 18, +5
-= 23. That's 5 over → 2 Power, plus 2 Tag Power = <strong>4
-Power</strong>, plus <strong>doubles on a success → +1 = 5
+for a bonus die. He rolls the Complication die and 2 ordinary action
+dice.</p></li>
+<li><p><strong>Result:</strong> the Complication die shows 9; the
+ordinary dice show 9 and 4. Retain 9 + 9 = 18, then add 5 for a total of
+23. That is 5 over Hard 18: 2 Power, plus 2 Tag Power. The retained dice
+match, so Critical Success adds 1 Power, for <strong>5
 Power</strong>.</p></li>
 <li><p><strong>Effort, part 2:</strong> Kade spends another 2 Mētis for
 <strong>+1 Power → 6 Power</strong>.</p></li>
@@ -4165,16 +4563,28 @@ Power</strong>.</p></li>
 by 4 (4 Power), filling it: he reaches the cell unseen. Discover (1
 Power): "Where is the key?" — "On the sergeant's belt." 1 Power left →
 <strong>+1 Weal</strong>.</p></li>
-<li><p><strong>Had it cost him:</strong> on a Success at a Cost he would
-have had only his 2 Tag Power: two segments, short of the cell, plus a
-consequence or 1 Woe.</p></li>
+<li><p><strong>On failure:</strong> a total below Hard 18 would fail and
+generate no Power, including Tag Power. Kade could not use ordinary
+post-success Effort to buy Power. His retained faces would determine
+Failure with a Benefit, Failure with Complication or Critical Failure;
+reducing a complication would not fill the clock or accomplish the
+failed goal.</p></li>
+<li><p><strong>If the Complication die had been higher:</strong> with 11
+and an ordinary 7, the total is still 23 and the Power is 4 (no match,
+so no critical). That is a Success with Complication. The GM names a
+concrete consequence from the named danger, with its severity, before
+Kade responds: say a minor one, a guard turns toward the sound. Kade can
+give the GM 1 Woe to cancel it, spend 1 surplus Power to reduce it to
+nothing (leaving the clock one segment short), Resist it, or accept
+it.</p></li>
 <li><p><strong>Later:</strong> the sergeant's dread patron, a bound
 spirit, lashes out with <em>terror −3</em>. Kade Resists with
 <strong>Pneuma</strong> (Edge 0), so 2d12: highest die 7 → cost 2
 Pneuma. The status drops to <em>terror −1</em>.</p></li>
 <li><p><strong>Compel:</strong> the GM compels <em>Reckless</em>: "You
 can't wait for backup; you go in now." Kade accepts and gains +1 Tychē
-Point.</p></li>
+Point. The complication has no severity: it can’t be bought off,
+mitigated or Resisted, and the GM gains no Woe for it.</p></li>
 </ul>
 <h3 id="core-scripted-conflict">13.1 A Scripted Conflict</h3>
 <p>Later, at the warehouse gate, Kade, Mira and Tarin confront two
@@ -4184,12 +4594,12 @@ influence ended (<a href="#core-treatment-healing">§6.6</a>). His
 spent Mētis and Pneuma stay spent. The PCs want to get their friend
 through the gate; the guards want to hold them until reinforcements
 arrive. The stakes are capture and nonlethal injury, not death.</p>
-<p><strong>Setup.</strong> Mira leads with Fight +3 and the highest Edge
-in its pool, 1. Her setup dice are 7 and 8: 7 + 8 + 3 + 1 = 19. Divide
-by 3 and round down to 6, then add +1 for each of her two eligible
-backers: <strong>starting Disposition 8</strong>. There are no other
-flat modifiers or Superiority. Backing supplies these points free, not
-extra Help dice (<a href="#core-setup">§10.2</a>).</p>
+<p><strong>Setup.</strong> Mira leads with Fight +3 and Edge 1, the
+highest in that skill’s pool. Her setup dice are 7 and 8: 7 + 8 + 3 + 1
+= 19. Divide by 3 and round down to 6, then add +1 for each of her two
+eligible backers: <strong>starting Disposition 8</strong>. There are no
+other flat modifiers or Superiority. Backing supplies these points free,
+not extra Help dice (<a href="#core-setup">§10.2</a>).</p>
 <p>The guards” Grit 5 and 3 give their side <strong>8
 Disposition</strong> without a setup roll. Record both starting totals:
 they cap Defend and set the compromise grade (<a
@@ -4202,31 +4612,45 @@ and the second guard acts between the first guard’s turns (<a
 href="#core-scripting-volleys">§10.5</a>).</p>
 <p><strong>Volley 1 — Maneuver versus Maneuver.</strong> Both actions
 resolve independently. Kade uses Stealth +3 to slip around the first
-guard and open a path. His dice are 7 and 6, for a total of 16. The
-guard has Guard +1, so Kade’s target is Standard 15 + 1 = 16; no
-Situational Condition applies here. He meets it: 1 Power, plus 1 Tag
-Power from <em>knows this district</em>, for <strong>2 Power</strong>.
-He buys Gain Position and lets the last point become Weal.</p>
-<p>The guard’s independent Maneuver totals 15 against Standard 15: a
-success with 1 Power, which the GM spends on Impede.</p>
+guard and open a path. His Complication die shows 6 and his ordinary die
+7; with Stealth +3, his total is 16. The guard has Guard +1, so Kade’s
+target is Standard 15 + 1 = 16; no Situational Condition applies here.
+He meets it with the Complication die lower: Clean Success, for 1 Power,
+plus 1 Tag Power from <em>knows this district</em>, for <strong>2
+Power</strong>. He buys Gain Position and lets the last point become
+Weal.</p>
+<p>The guard’s Complication die shows 6 and its ordinary die 7. Its
+Maneuver rating +2 gives 15 against Standard 15: Clean Success. With 1
+applicable flat Tag Power, it generates 2 Power. The GM spends 1 on
+Impede and 1 on Discover: which PC is covering the escape route? The
+answer identifies Tarin. Discover grants no additional modifier or
+script change.</p>
 <p>Neither Maneuver changes Disposition. Gain Position and Impede both
 wait for the PCs” next scripted action; neither applies to a Resistance
 roll in between.</p>
 <p><strong>Volley 2 — Attack versus Defend.</strong> Mira receives Gain
-Position’s bonus die. She rolls 9, 6 and 2, keeps 9 + 6, adds Fight +3,
-then subtracts 3 for Impede: <strong>total 15</strong>. The guard’s
-Defend totals 13.</p>
-<p>Mira wins by 2: 1 Power for winning plus 1 Tag Power from her
-weapon’s +1 Attack tag, <strong>2 Power</strong>. She commits both to
-Attack, removing <strong>3 shared Disposition</strong> (2 Power + 1),
-and the guards fall from 8 to 5. Their losing Defend restores nothing,
-and no individual guard is hurt or removed by the loss. Both pending
-Maneuver benefits are now spent (<a
-href="#core-actions-effects">§10.6</a>).</p>
+Position’s bonus die. Her Complication die shows 6; the ordinary dice
+show 9 and 2. She retains 6 + 9, adds Fight +3, then subtracts 3 for
+Impede: <strong>total 15</strong>. The guard’s Complication die shows 4
+and its ordinary die 5; its Defend rating +4 gives 13.</p>
+<p>Mira wins by 2 with her Complication die lower: Clean Success, for 1
+Power for winning plus 1 Tag Power from her weapon’s +1 Attack tag,
+<strong>2 Power</strong>. She commits both to Attack, removing <strong>3
+shared Disposition</strong> (2 Power + 1), and the guards fall from 8 to
+5. Their losing Defend restores nothing, and no individual guard is hurt
+or removed by the loss. The guard’s lower Complication die gives Failure
+with a Benefit: it notices a barred service wicket beside the gate,
+another possible route to block or use later. The opening grants no free
+action, modifier or script change. Both pending Maneuver benefits are
+now spent (<a href="#core-actions-effects">§10.6</a>).</p>
 <p><strong>Volley 3 — Defend versus Feint.</strong> Tarin’s Defend is
-trumped: no roll, and no Disposition restored. The first guard’s Feint
-rolls independently and succeeds with 2 Power, committed to remove 3 PC
-Disposition.</p>
+trumped: no action or Risk roll, Power or comparison-based outcome, and
+no Disposition restored. The first guard’s Feint rolls independently:
+Complication die 5 + ordinary die 8 + Feint rating 2 = 15 against
+Standard 15. Clean Success generates 1 base Power + 1 applicable flat
+Tag Power = 2 Power, committed to remove 3 PC Disposition. Neither the
+trump nor the losing Defend in volley 2 generates automatic failure
+Woe.</p>
 <p>Before applying that loss, Tarin accepts a new lasting <em>sprained
 shoulder −3</em>, describing how he holds the gate open while the others
 push through. The injury follows from the action and preserves the
@@ -4351,8 +4775,8 @@ two slots together range from −12 to +12 and are the largest swing.
 Playtest a ±3 cap on either slot, and whether 2 Power per rating prices
 broad Situational Conditions fairly.</p></li>
 <li><p><strong>Effort for Power</strong> may make high-Edge characters
-very efficient. Watch Edge-3 pools where Effort is free; consider a
-minimum cost of 1.</p></li>
+very efficient. Watch Edge-3 pools where Effort is free; as a variant,
+consider a minimum cost of 1 (2.4 uses 0).</p></li>
 <li><p><strong>Resistance dice:</strong> Edge adds Resistance dice
 instead of reducing the cost, and only a double 12 is free (<a
 href="#core-resistance-harm-recovery">§6</a>). Watch how often
@@ -4402,13 +4826,13 @@ advantage is being described several ways to claim more
 categories.</p></li>
 <li><p><strong>Specialisations and Knowledge</strong> (<a
 href="#core-skill-pyramid">§3.3</a>): watch how often the
-Specialisation die applies, whether it changes the kept pair, whether it
-saves Effort or Woe, and how often the +2 cap makes it redundant. Narrow
-an overbroad Specialisation before changing the bonus. If players keep
-asking whether knowledge gives +1, clarify the wording rather than
-adding a modifier. Check that contacts create choices, that signature
-items matter without more routine bonus dice, and that consequences
-leave successful characters something to act on.</p></li>
+Specialisation die applies, whether it changes the retained pair,
+whether it saves Effort or Woe, and how often the +2 cap makes it
+redundant. Narrow an overbroad Specialisation before changing the bonus.
+If players keep asking whether knowledge gives +1, clarify the wording
+rather than adding a modifier. Check that contacts create choices, that
+signature items matter without more routine bonus dice, and that
+consequences leave successful characters something to act on.</p></li>
 <li><p><strong>Specialists in scripted conflicts:</strong> if a
 character has no legal specialist contribution under the action lists,
 treat it as an action-design question; don’t let a Specialisation
